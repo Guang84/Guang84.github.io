@@ -1,4 +1,0 @@
-:focus-visible{outline:3px solid #2f72d3;outline-offset:3px}
-@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}.project-card:hover,.archive-card:hover,.topic-card:hover{transform:none}}
-@media(prefers-contrast:more){:root{--line:currentColor;--muted:var(--ink)}.project-card,.archive-card,.topic-card,input,button{border-width:2px}}
-@media(forced-colors:active){.button{border:1px solid ButtonText}.reading-progress::after{background:Highlight}}
