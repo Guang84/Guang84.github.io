@@ -1,0 +1,55 @@
+{
+  "id": "/",
+  "name": "GLab — Guang's Technical Field Notes",
+  "short_name": "GLab",
+  "description": "Networking, Linux, cybersecurity, software projects, engineering guides and field notes by Guang.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0e1713",
+  "theme_color": "#0e1713",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/assets/icons/glab-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icons/glab-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/icons/glab-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Projects",
+      "url": "/projects/",
+      "icons": [
+        {
+          "src": "/assets/icons/glab-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Guides",
+      "url": "/guides/",
+      "icons": [
+        {
+          "src": "/assets/icons/glab-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

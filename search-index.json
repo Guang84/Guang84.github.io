@@ -1,0 +1,121 @@
+[
+  {
+    "type": "Project",
+    "title": "Network Analyzer",
+    "summary": "A Bash-driven wireless security learning environment with a local browser interface for authorized network observation and lab-based Wi-Fi assessment.",
+    "url": "/projects/network-analyzer.html",
+    "tags": [
+      "Shell",
+      "Wi-Fi",
+      "Network analysis",
+      "Security education"
+    ]
+  },
+  {
+    "type": "Project",
+    "title": "Noney BSNL Broadband NMS",
+    "summary": "An independently developed broadband operations platform that centralized customer service, network monitoring, infrastructure planning, mapping, and administrative workflows for a rural BSNL franchise.",
+    "url": "/projects/noney-bsnl-broadband-nms.html",
+    "tags": [
+      "JavaScript",
+      "Python",
+      "GPON",
+      "Operations"
+    ]
+  },
+  {
+    "type": "Project",
+    "title": "Rongmei Hymnal",
+    "summary": "An installable, offline-first digital library that brings 1,271 songs from three Rongmei and community hymn collections into one searchable, accessible reading space.",
+    "url": "/projects/rongmei-hymnal.html",
+    "tags": [
+      "JavaScript",
+      "PWA",
+      "Accessibility",
+      "Digital preservation"
+    ]
+  },
+  {
+    "type": "Project",
+    "title": "SSH Fleet Doctor",
+    "summary": "An evolving SSH administration and server-health toolkit combining Bash automation with a Python/Paramiko monitor for authorized remote systems.",
+    "url": "/projects/ssh-fleet-doctor.html",
+    "tags": [
+      "Shell",
+      "Python",
+      "SSH",
+      "Server monitoring"
+    ]
+  },
+  {
+    "type": "Field note",
+    "title": "What the soil taught the sensor",
+    "summary": "Field notes on calibration, false precision, and why a farmer’s hand can be the best instrument in the loop.",
+    "url": "/articles/learning-from-soil.html",
+    "tags": [
+      "Soil",
+      "Field testing",
+      "Sustainability"
+    ]
+  },
+  {
+    "type": "Article",
+    "title": "Responsible AI begins before the model",
+    "summary": "A practical framework for deciding whether an AI system should exist, what it should optimize, and who gets to question it.",
+    "url": "/articles/responsible-ai.html",
+    "tags": [
+      "Responsible AI",
+      "Design",
+      "Governance"
+    ]
+  },
+  {
+    "type": "Article",
+    "title": "Security is a form of care",
+    "summary": "Moving beyond fear-driven security toward systems that respect attention, dignity, and ordinary human behavior.",
+    "url": "/articles/security-is-care.html",
+    "tags": [
+      "Cybersecurity",
+      "Human-centered design"
+    ]
+  },
+  {
+    "type": "Field note",
+    "title": "In praise of small, understandable tools",
+    "summary": "A note about software that can be held in one person’s head—and why constraint can be a form of care.",
+    "url": "/articles/small-tools.html",
+    "tags": [
+      "Software",
+      "Maintenance",
+      "Sustainable web"
+    ]
+  },
+  {
+    "type": "Guide",
+    "title": "Prepare an authorized Network Analyzer lab",
+    "summary": "Review and preview the public interface first, then restrict any privileged wireless exercise to isolated hardware and a network you own or have written permission to test.",
+    "url": "/guides/network-analyzer-lab-setup.html",
+    "tags": []
+  },
+  {
+    "type": "Guide",
+    "title": "Explore the Noney Broadband NMS showcase",
+    "summary": "Run the public static gateway and documentation locally without requiring the retired production server or any private customer and infrastructure data.",
+    "url": "/guides/noney-bsnl-broadband-nms-showcase.html",
+    "tags": []
+  },
+  {
+    "type": "Guide",
+    "title": "Run, install, and use Rongmei Hymnal",
+    "summary": "Preview the static application locally, then install it from its HTTPS deployment and explicitly download songbook data for offline reading.",
+    "url": "/guides/rongmei-hymnal-use.html",
+    "tags": []
+  },
+  {
+    "type": "Guide",
+    "title": "Set up SSH Fleet Doctor safely",
+    "summary": "Prepare the Bash and Python tooling against a disposable or explicitly authorized SSH test host before considering operational use.",
+    "url": "/guides/ssh-fleet-doctor-setup.html",
+    "tags": []
+  }
+]

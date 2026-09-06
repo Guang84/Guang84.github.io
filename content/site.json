@@ -1,0 +1,14 @@
+{
+  "owner": "Guang",
+  "name": "GLab",
+  "url": "https://guang84.github.io/",
+  "version": "7.0.0",
+  "description": "Projects, technical articles and practical guides by Guang, focused on networking, Linux, cybersecurity, automation and maintainable software.",
+  "email": "guang.social.verse@gmail.com",
+  "github": "https://github.com/Guang84",
+  "ads": {
+    "enabled": true,
+    "publisherId": "ca-pub-6371342728710125",
+    "mode": "auto"
+  }
+}

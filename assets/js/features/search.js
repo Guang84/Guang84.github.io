@@ -1,0 +1,1 @@
+export function initSearchShortcut(){addEventListener("keydown",e=>{if(e.key!=="/"||e.ctrlKey||e.metaKey||e.altKey)return;if(/^(INPUT|TEXTAREA|SELECT)$/.test(e.target?.tagName||""))return;const f=document.querySelector("[data-project-search]");if(!f)return;e.preventDefault();f.focus()})}

@@ -1,0 +1,100 @@
+{
+  "id": "noney-bsnl-broadband-nms",
+  "title": "Noney BSNL Broadband NMS",
+  "category": "Network Operations",
+  "year": 2026,
+  "status": "Completed · production retired",
+  "summary": "An independently developed broadband operations platform that centralized customer service, network monitoring, infrastructure planning, mapping, and administrative workflows for a rural BSNL franchise.",
+  "url": "https://github.com/Guang84/Noney-BSNL-Broadband-NMS",
+  "tags": [
+    "JavaScript",
+    "Python",
+    "GPON",
+    "Operations"
+  ],
+  "colors": [
+    "#1f4770",
+    "#f2c14e"
+  ],
+  "repository": {
+    "url": "https://github.com/Guang84/Noney-BSNL-Broadband-NMS",
+    "branch": "main",
+    "license": "Not specified"
+  },
+  "demoUrl": "https://guang84.github.io/Noney-BSNL-Broadband-NMS/",
+  "sections": [
+    {
+      "label": "Context",
+      "title": "Software shaped by day-to-day rural broadband operations.",
+      "paragraphs": [
+        "The platform grew from practical challenges in a newly established broadband franchise with limited infrastructure, operational support, and dedicated software. Manual customer, fault, planning, and documentation processes were brought into one web-based system."
+      ],
+      "links": [
+        {
+          "label": "Read the project documentation",
+          "url": "https://github.com/Guang84/Noney-BSNL-Broadband-NMS/blob/main/docs/projectdoc.md"
+        }
+      ]
+    },
+    {
+      "label": "Platform",
+      "title": "One operational workspace across service and infrastructure.",
+      "points": [
+        "Customer information, requests, plans, notices, and public service delivery",
+        "Administrative records, complaints, reporting, configuration, and audit logs",
+        "Broadband latency, connectivity, and network-health monitoring",
+        "GPON/OLT and fiber-infrastructure documentation",
+        "Geo mapping, route measurement, topology visualization, and installation planning"
+      ]
+    },
+    {
+      "label": "Deployment",
+      "title": "A stable public gateway to a local operational system.",
+      "paragraphs": [
+        "The production Python application ran on a local office server connected to the operational broadband environment. GitHub Pages provided a permanent public gateway, while JSON configuration and status checks selected a dynamic tunnel or maintenance state."
+      ],
+      "links": [
+        {
+          "label": "Public gateway repository",
+          "url": "https://github.com/Guang84/Noney-BSNL-Broadband-NMS"
+        }
+      ]
+    },
+    {
+      "label": "Outcome",
+      "title": "Completed, production-tested, and preserved as a portfolio system.",
+      "paragraphs": [
+        "The documented production deployment is now retired. The public repository preserves the gateway, screenshots, demonstration material, architectural description, and workflow evidence while deliberately excluding customer data, credentials, internal topology, server configuration, and private production source."
+      ],
+      "callout": "Public documentation demonstrates the system without exposing production data or sensitive infrastructure details."
+    }
+  ],
+  "architecture": {
+    "title": "Noney Broadband NMS system architecture",
+    "summary": "The documented system joined a GitHub Pages gateway, dynamic tunnel routing, a local Python application server, operational modules, and broadband-office infrastructure.",
+    "steps": [
+      "GitHub Pages supplied a stable public entry point and static maintenance experience.",
+      "redirect-config.json described prioritized endpoints, timeouts, retries, delays, and user-facing status messages for the gateway.",
+      "A dynamic tunnel connected the public gateway to a locally hosted Python application when the production service was available.",
+      "The application centralized customer services, administrative workflows, network monitoring, infrastructure documentation, reporting, and configuration.",
+      "Geo mapping and NetVision modules represented fiber routes, splitters, endpoints, cable lengths, service areas, and network hierarchy for operational planning.",
+      "Private source, credentials, customer records, topology, OLT configuration, and internal deployment details remain outside the public portfolio repository."
+    ],
+    "url": "https://github.com/Guang84/Noney-BSNL-Broadband-NMS/blob/main/docs/projectdoc.md"
+  },
+  "validation": {
+    "title": "Noney Broadband NMS portfolio verification",
+    "summary": "Checks for the public gateway and documentary evidence of a completed, production-tested, now-retired operational platform.",
+    "checks": [
+      "Serve the repository locally and verify the gateway, maintenance state, error page, icons, messages, and screenshots load without the production backend.",
+      "Validate redirect-config.json syntax and ensure public builds contain only demonstration endpoints—not private tunnel, server, or infrastructure addresses.",
+      "Review desktop and mobile presentation of the public landing page and each documented screenshot.",
+      "Confirm the documentation consistently labels development completed, production tested, public gateway online, and the production server retired.",
+      "Check that no customer records, credentials, internal topology, OLT configuration, private server code, or deployment secrets are present.",
+      "Verify README.md and docs/projectdoc.md explain the static gateway, local production architecture, system modules, privacy boundary, and portfolio status."
+    ],
+    "url": "https://github.com/Guang84/Noney-BSNL-Broadband-NMS/blob/main/docs/projectdoc.md"
+  },
+  "guideId": "noney-bsnl-broadband-nms-showcase",
+  "pageNote": "This page combines the project overview, architecture, usage, validation, safety boundaries, status, and source links in one case study."
+}

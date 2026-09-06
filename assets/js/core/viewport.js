@@ -1,0 +1,1 @@
+export function initViewport(){const r=document.documentElement;let f=0;const u=()=>{r.dataset.viewport=innerWidth<600?"compact":innerWidth<900?"medium":"wide";r.style.setProperty("--vh",`${innerHeight*.01}px`)};const s=()=>{cancelAnimationFrame(f);f=requestAnimationFrame(u)};addEventListener("resize",s,{passive:true});addEventListener("orientationchange",s,{passive:true});u()}

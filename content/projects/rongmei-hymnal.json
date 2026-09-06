@@ -1,0 +1,113 @@
+{
+  "id": "rongmei-hymnal",
+  "title": "Rongmei Hymnal",
+  "category": "Community Technology",
+  "year": 2026,
+  "status": "Active · deployed",
+  "summary": "An installable, offline-first digital library that brings 1,271 songs from three Rongmei and community hymn collections into one searchable, accessible reading space.",
+  "url": "https://github.com/Guang84/RongmeiHymnal",
+  "tags": [
+    "JavaScript",
+    "PWA",
+    "Accessibility",
+    "Digital preservation"
+  ],
+  "colors": [
+    "#5b4938",
+    "#e6c66b"
+  ],
+  "repository": {
+    "url": "https://github.com/Guang84/RongmeiHymnal",
+    "branch": "main",
+    "license": "Apache-2.0 software license"
+  },
+  "demoUrl": "https://guang84.github.io/RongmeiHymnal/",
+  "sections": [
+    {
+      "label": "Purpose",
+      "title": "A digital home for songs carried by community memory.",
+      "paragraphs": [
+        "Rongmei Hymnal gathers multiple songbooks without flattening their individual identity. Credits, sources, editorial notes, and rights information stay connected to each collection.",
+        "The interface is designed for worship, learning, community singing, and long-term digital access on phones, tablets, and computers."
+      ],
+      "links": [
+        {
+          "label": "Open the live library",
+          "url": "https://guang84.github.io/RongmeiHymnal/"
+        }
+      ]
+    },
+    {
+      "label": "Collection",
+      "title": "Three collections, 1,271 searchable songs.",
+      "points": [
+        "Buanthanhlu: 305 songs",
+        "Hymdaihlu: 930 songs imported from a legacy SQLite source",
+        "VBS Songs: 36 public-domain or traditional English selections",
+        "JSON metadata and schema files keep the library structure explicit"
+      ],
+      "links": [
+        {
+          "label": "Repository data index",
+          "url": "https://github.com/Guang84/RongmeiHymnal/blob/main/data/songbooks/index.json"
+        }
+      ]
+    },
+    {
+      "label": "Experience",
+      "title": "Built for focused reading and unreliable connectivity.",
+      "points": [
+        "Search across all registered songbooks",
+        "Adjust the reading layout and use presentation mode",
+        "Save favourites, history, and reading preferences on the device",
+        "Install as a PWA and explicitly download the library for offline use",
+        "Refresh downloaded content when a newer collection version is detected"
+      ]
+    },
+    {
+      "label": "Stewardship",
+      "title": "Software openness with careful content boundaries.",
+      "paragraphs": [
+        "The Apache 2.0 license applies to the software, interface, tools, and documentation. Lyrics, editions, arrangements, cover art, and other collection content retain their respective rights and attribution requirements."
+      ],
+      "links": [
+        {
+          "label": "Usage policy",
+          "url": "https://guang84.github.io/RongmeiHymnal/policy.html"
+        },
+        {
+          "label": "Software license",
+          "url": "https://github.com/Guang84/RongmeiHymnal/blob/main/LICENSE"
+        }
+      ]
+    }
+  ],
+  "architecture": {
+    "title": "Rongmei Hymnal architecture and data model",
+    "summary": "A static PWA architecture separates the application shell, book registry, per-book metadata, song data, local preferences, and explicit offline downloads.",
+    "steps": [
+      "index.html, book.html, and hymn.html provide library, collection, and focused-reading views styled by css/main.css.",
+      "data/songbooks/index.json registers each collection with its directory, metadata path, version, and song count.",
+      "JSON schemas document expected song and metadata shapes; individual collections retain their own source, editorial, credit, and rights records.",
+      "JavaScript modules divide application startup, data access, rendering, settings, local history/favourites, contact information, and offline storage responsibilities.",
+      "The service worker caches the app shell; an explicit download workflow saves selected library data and reports storage progress and status.",
+      "Version comparison refreshes downloaded content when the app reconnects and newer book metadata is available."
+    ],
+    "url": "https://github.com/Guang84/RongmeiHymnal"
+  },
+  "validation": {
+    "title": "Rongmei Hymnal release checklist",
+    "summary": "A validation checklist derived from the repository's schemas, versioned book registry, offline workflow, reading interface, and content-rights boundary.",
+    "checks": [
+      "Confirm each registered book directory, metadata file, version, and song count agrees with data/songbooks/index.json.",
+      "Validate song and book records against schemas/songs.schema.json and schemas/book-metadata.schema.json.",
+      "Test search, focused reading, font settings, favourites, history, and presentation mode on phone and desktop widths.",
+      "Install from HTTPS, complete an offline download, disconnect the network, and reopen previously downloaded collections.",
+      "Reconnect after increasing a book version and verify the application detects and refreshes changed library data.",
+      "Review credits, source notes, editorial status, and rights metadata before publishing any new collection."
+    ],
+    "url": "https://github.com/Guang84/RongmeiHymnal#validation"
+  },
+  "guideId": "rongmei-hymnal-use",
+  "pageNote": "This page combines the project overview, architecture, usage, validation, safety boundaries, status, and source links in one case study."
+}
