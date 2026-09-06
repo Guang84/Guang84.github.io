@@ -1,43 +1,59 @@
-# Deploy GLab v7
+# Deploy GLab v9
 
-## 1. Validate locally
+GLab is a static GitHub Pages site. No application server or build service is required.
+
+## Before publishing
 
 ```bash
 python scripts/build.py
 python scripts/validate.py
 ```
 
-## 2. Preview
+The validator should report `0 error(s)`.
 
-```bash
-python3 -m http.server 8000
-```
+## Publish
 
-Open `http://localhost:8000/`.
-
-Review at minimum:
-
-- `/`
-- `/projects/`
-- one project case study
-- `/articles/`
-- one article
-- `/guides/`
-- one guide
-- About, Privacy and Contact
-
-Check both phone and desktop browser widths before publishing.
-
-## 3. Commit
+Commit and push the repository contents to the branch used by GitHub Pages.
 
 ```bash
 git add .
-git commit -m "Release GLab v7 slim content architecture"
-git push origin main
+git commit -m "Release GLab v9 personal publishing hub"
+git push
 ```
 
-For the username repository `Guang84/Guang84.github.io`, GitHub Pages should serve the site from the repository root.
+## Content updates
 
-## 4. AdSense
+Profile text, interests and Important links are stored in:
 
-The account identifier is already integrated. Actual advertising still depends on AdSense approval, policy eligibility, configured Auto Ads/consent requirements and available inventory.
+```text
+content/site.json
+```
+
+Projects, articles and guides are stored in:
+
+```text
+content/projects/
+content/articles/
+content/guides/
+```
+
+After editing content, rebuild and validate.
+
+## Create future content
+
+```bash
+python scripts/new_content.py article "article title"
+python scripts/new_content.py project "project title"
+python scripts/new_content.py guide "guide title"
+python scripts/new_content.py page "page title"
+```
+
+These commands create unpublished drafts under `content/drafts/`. Finish the content and move public JSON into the appropriate collection before rebuilding.
+
+## AdSense
+
+The repository contains the publisher ID and centralized site-wide Auto Ads loader. Visible ad inventory remains controlled by Google AdSense approval, policy, consent, demand and Auto Ads configuration.
+
+## Service worker
+
+v9 uses the `glab-v9.0.0` cache namespace. When deploying a later version, rebuild the site with a new service-worker cache version so old static caches are retired cleanly.

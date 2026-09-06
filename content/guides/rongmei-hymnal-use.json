@@ -1,0 +1,32 @@
+{
+  "id": "rongmei-hymnal-use",
+  "title": "Run, install, and use Rongmei Hymnal",
+  "summary": "Preview the static application locally, then install it from its HTTPS deployment and explicitly download songbook data for offline reading.",
+  "url": "https://github.com/Guang84/RongmeiHymnal#install-and-offline-use",
+  "steps": [
+    "Clone the repository and start a static HTTP server from its root; opening files directly through file:// will not reproduce service-worker behavior.",
+    "Open http://localhost:8000 and search or select a registered songbook to verify the library and reading views.",
+    "For installation, open the HTTPS deployment in a supported browser and choose Install app or Add to Home Screen.",
+    "Choose Download for offline inside the application, monitor progress and storage status, and wait for completion before disconnecting.",
+    "Use the home-page controls to refresh or remove the downloaded library. Browser quota and persistence remain controlled by the operating system.",
+    "Review the usage policy before redistributing lyrics, editions, arrangements, recordings, or cover art."
+  ],
+  "command": "git clone https://github.com/Guang84/RongmeiHymnal.git\ncd RongmeiHymnal\npython3 -m http.server 8000",
+  "projectId": "rongmei-hymnal",
+  "audience": "Readers, maintainers, and community users who want to run or install the static hymnal application.",
+  "prerequisites": [
+    "A modern browser",
+    "Python 3 or another static HTTP server for local preview",
+    "HTTPS deployment for installation and service-worker features"
+  ],
+  "verification": [
+    "Search and reading views work at phone and desktop widths",
+    "The app can be installed from the HTTPS deployment",
+    "Downloaded collections remain available after disconnecting and reopening the application"
+  ],
+  "troubleshooting": [
+    "Do not open the application through file:// when testing service-worker or offline behavior.",
+    "If installation is unavailable, confirm the deployment uses HTTPS and the browser supports PWA installation.",
+    "If offline data is missing, reconnect and complete the in-app download before disconnecting."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "small-tools",
+  "title": "In praise of small, understandable tools",
+  "date": "2026-06-03",
+  "updated": "2026-09-04",
+  "readTime": "4 min read",
+  "excerpt": "A note about software that can be held in one person’s head—and why constraint can be a form of care.",
+  "url": "https://www.w3.org/TR/sustainable-web-design/",
+  "tags": [
+    "Software",
+    "Maintenance",
+    "Sustainable web"
+  ],
+  "sections": [
+    {
+      "label": "Observation",
+      "title": "Complexity has a maintenance cost.",
+      "paragraphs": [
+        "Every dependency makes a promise about the future. Sometimes that trade is worthwhile. Often a plain file, a short script, or a static page will live longer and ask less of everyone who inherits it."
+      ]
+    },
+    {
+      "label": "Practice",
+      "title": "Choose the smallest durable thing.",
+      "points": [
+        "Prefer formats people can open without special tools",
+        "Keep the deployment path boring",
+        "Document the reason behind constraints",
+        "Leave room for the next maintainer to understand the whole"
+      ],
+      "links": [
+        {
+          "label": "W3C sustainable web design",
+          "url": "https://www.w3.org/TR/sustainable-web-design/"
+        }
+      ]
+    }
+  ],
+  "kind": "Field note"
+}

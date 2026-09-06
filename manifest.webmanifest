@@ -1,15 +1,25 @@
 {
   "id": "/",
-  "name": "GLab — Guang's Technical Field Notes",
+  "name": "GLab — Guang’s Projects, Articles & Field Notes",
   "short_name": "GLab",
-  "description": "Networking, Linux, cybersecurity, software projects, engineering guides and field notes by Guang.",
+  "description": "Guang’s personal profile and public knowledge hub for projects, technical articles, practical guides, research notes and documented experiments across technology, cybersecurity, AI, networking, sustainability and engineering.",
   "lang": "en",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "background_color": "#0e1713",
-  "theme_color": "#0e1713",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
+  "background_color": "#f6f3ec",
+  "theme_color": "#0d1c15",
   "orientation": "any",
+  "categories": [
+    "education",
+    "productivity",
+    "utilities"
+  ],
   "icons": [
     {
       "src": "/assets/icons/glab-192.png",
@@ -33,21 +43,37 @@
   "shortcuts": [
     {
       "name": "Projects",
+      "short_name": "Projects",
       "url": "/projects/",
       "icons": [
         {
           "src": "/assets/icons/glab-192.png",
-          "sizes": "192x192"
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Articles",
+      "short_name": "Articles",
+      "url": "/articles/",
+      "icons": [
+        {
+          "src": "/assets/icons/glab-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
         }
       ]
     },
     {
       "name": "Guides",
+      "short_name": "Guides",
       "url": "/guides/",
       "icons": [
         {
           "src": "/assets/icons/glab-192.png",
-          "sizes": "192x192"
+          "sizes": "192x192",
+          "type": "image/png"
         }
       ]
     }

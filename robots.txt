@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
-
+Disallow: /content/templates/
+Disallow: /content/drafts/
 Sitemap: https://guang84.github.io/sitemap.xml

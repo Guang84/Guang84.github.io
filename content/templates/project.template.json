@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "title": "",
+  "category": "",
+  "year": null,
+  "status": "",
+  "summary": "",
+  "url": "",
+  "tags": [],
+  "colors": [
+    "#315f4b",
+    "#b9d85a"
+  ],
+  "repository": {
+    "url": "",
+    "branch": "main",
+    "license": ""
+  },
+  "demoUrl": "",
+  "guideId": "",
+  "pageNote": "",
+  "sections": [],
+  "architecture": {
+    "title": "",
+    "summary": "",
+    "steps": [],
+    "url": ""
+  },
+  "setup": {
+    "title": "",
+    "summary": "",
+    "prerequisites": [],
+    "steps": [],
+    "command": "",
+    "verification": [],
+    "troubleshooting": []
+  },
+  "testing": {
+    "title": "",
+    "summary": "",
+    "checks": []
+  },
+  "statusDetails": []
+}

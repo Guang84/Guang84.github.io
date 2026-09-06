@@ -1,0 +1,32 @@
+{
+  "id": "noney-bsnl-broadband-nms-showcase",
+  "title": "Explore the Noney Broadband NMS showcase",
+  "summary": "Run the public static gateway and documentation locally without requiring the retired production server or any private customer and infrastructure data.",
+  "url": "https://github.com/Guang84/Noney-BSNL-Broadband-NMS",
+  "steps": [
+    "Clone the public repository, which contains the static gateway, documentation, screenshots, messages, and demonstration assets—not the private production backend.",
+    "Review README.md and docs/projectdoc.md for project context, system modules, deployment diagrams, operational boundaries, and status.",
+    "Start a static server and open http://localhost:8000 to inspect the gateway experience.",
+    "Treat redirect-config.json as demonstration configuration. Replace its example endpoints only in a controlled deployment and never commit private infrastructure addresses.",
+    "Use the screenshots and NetVision demonstration to review the operational interface without reconnecting the retired production environment.",
+    "Preserve the documented privacy boundary: do not add customer information, credentials, topology, OLT configuration, or private server code to the public repository."
+  ],
+  "command": "git clone https://github.com/Guang84/Noney-BSNL-Broadband-NMS.git\ncd Noney-BSNL-Broadband-NMS\npython3 -m http.server 8000",
+  "projectId": "noney-bsnl-broadband-nms",
+  "audience": "Portfolio reviewers who want to inspect the public gateway, screenshots, and documentation without the retired production backend.",
+  "prerequisites": [
+    "A modern browser",
+    "Python 3 or another static HTTP server",
+    "The public showcase repository only; no private production credentials or customer data are required"
+  ],
+  "verification": [
+    "The public gateway, maintenance state, messages, and screenshots load locally",
+    "redirect-config.json contains demonstration-safe values only",
+    "Documentation consistently identifies the production server as retired"
+  ],
+  "troubleshooting": [
+    "A missing production endpoint is expected: the operational backend is intentionally retired and not part of the public showcase.",
+    "Do not add private tunnel URLs, customer records, OLT credentials, or internal topology to make the demo appear live.",
+    "Use the static documentation and screenshots as the authoritative portfolio view."
+  ]
+}

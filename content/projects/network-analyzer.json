@@ -1,0 +1,103 @@
+{
+  "id": "network-analyzer",
+  "title": "Network Analyzer",
+  "category": "Cybersecurity",
+  "year": 2024,
+  "status": "Educational release",
+  "summary": "A Bash-driven wireless security learning environment with a local browser interface for authorized network observation and lab-based Wi-Fi assessment.",
+  "url": "https://github.com/Guang84/Network-Analyzer",
+  "tags": [
+    "Shell",
+    "Wi-Fi",
+    "Network analysis",
+    "Security education"
+  ],
+  "colors": [
+    "#302f44",
+    "#f1bb53"
+  ],
+  "repository": {
+    "url": "https://github.com/Guang84/Network-Analyzer",
+    "branch": "main",
+    "license": "Custom project license"
+  },
+  "demoUrl": "https://guang84.github.io/Network-Analyzer/",
+  "sections": [
+    {
+      "label": "Purpose",
+      "title": "Learning wireless security by observing a controlled lab.",
+      "paragraphs": [
+        "Network Analyzer packages common wireless-analysis tools behind a guided Bash workflow and a lightweight local web interface. The repository explicitly describes the project as educational and discourages unauthorized activity."
+      ],
+      "links": [
+        {
+          "label": "Public user guide",
+          "url": "https://guang84.github.io/Network-Analyzer/"
+        }
+      ]
+    },
+    {
+      "label": "Tooling",
+      "title": "A Linux-oriented shell and browser workflow.",
+      "points": [
+        "Checks for root privileges and supported Linux distributions",
+        "Detects Aircrack-ng utilities plus mdk3/mdk4",
+        "Uses Bash for the interactive analysis workflow",
+        "Serves the accompanying interface through a restricted Python HTTP server",
+        "Keeps example output and learning resources alongside the source"
+      ]
+    },
+    {
+      "label": "Scope",
+      "title": "Capabilities belong inside an authorized environment.",
+      "paragraphs": [
+        "The repository describes traffic observation, wireless discovery, handshake capture, client deauthentication, and password-auditing exercises. Those operations can interrupt networks and must be limited to isolated labs or networks with explicit written permission."
+      ],
+      "callout": "Use only hardware and networks you own or have explicit authorization to test."
+    },
+    {
+      "label": "Implementation",
+      "title": "Transparent components that can be inspected before use.",
+      "paragraphs": [
+        "The public repository includes the main Bash workflow, a Python static server, browser-side JavaScript, interface assets, process notes, and selected upstream source references. This makes the learning environment inspectable before privileged execution."
+      ],
+      "links": [
+        {
+          "label": "Review the main script",
+          "url": "https://github.com/Guang84/Network-Analyzer/blob/main/mybash.sh"
+        },
+        {
+          "label": "Review the local server",
+          "url": "https://github.com/Guang84/Network-Analyzer/blob/main/server.py"
+        }
+      ]
+    }
+  ],
+  "architecture": {
+    "title": "Network Analyzer execution model",
+    "summary": "A privileged Bash workflow coordinates wireless utilities while a small Python server exposes local interface and learning assets in the browser.",
+    "steps": [
+      "mybash.sh verifies root access, detects the Linux distribution, and checks for required Aircrack-ng and mdk utilities.",
+      "The shell workflow presents guided network-analysis options and invokes installed command-line tools against a selected wireless interface.",
+      "server.py uses Python's standard HTTP server on port 8000 and restricts translated paths to the current working directory.",
+      "HTML, CSS, and browser-side JavaScript provide the local visual interface and supporting process information.",
+      "Captured material and audit exercises must stay inside an isolated, authorized lab; the web interface does not remove the safety implications of privileged wireless operations."
+    ],
+    "url": "https://github.com/Guang84/Network-Analyzer"
+  },
+  "validation": {
+    "title": "Network Analyzer authorized-lab checklist",
+    "summary": "Safe static, interface, dependency, and lab-scope checks for a tool whose privileged wireless operations require explicit authorization.",
+    "checks": [
+      "Run bash -n mybash.sh and python3 -m py_compile server.py before executing either component.",
+      "Start server.py as an unprivileged user and confirm the interface loads locally while path traversal remains blocked.",
+      "Review the supported-distribution detection and verify every required wireless utility comes from a trusted package source.",
+      "Document the access point, adapter, channel, client devices, written authorization, and time window for the isolated lab.",
+      "Confirm the workflow refuses non-root privileged operations and clearly displays the educational-use warning.",
+      "After the exercise, stop monitor mode, restore network services, remove captures securely, and record outcomes without third-party identifiers."
+    ],
+    "url": "https://github.com/Guang84/Network-Analyzer"
+  },
+  "guideId": "network-analyzer-lab-setup",
+  "pageNote": "This page combines the project overview, architecture, usage, validation, safety boundaries, status, and source links in one case study."
+}
