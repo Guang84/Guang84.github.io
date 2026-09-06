@@ -1,2 +1,0 @@
-export const $=(s,root=document)=>root.querySelector(s);export const $$=(s,root=document)=>[...root.querySelectorAll(s)];
-export function el(tag,attrs={},...children){const n=document.createElement(tag);for(const[k,v]of Object.entries(attrs)){if(k==="class")n.className=v;else if(k==="text")n.textContent=v;else if(k.startsWith("data-"))n.setAttribute(k,v);else if(v!==undefined&&v!==null)n[k]=v}for(const c of children.flat()){if(c==null)continue;n.append(c.nodeType?c:document.createTextNode(String(c)))}return n}
