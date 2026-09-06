@@ -1,0 +1,63 @@
+{
+  "id": "responsible-ai",
+  "title": "Responsible AI begins before the model",
+  "date": "2026-07-11",
+  "updated": "2026-09-04",
+  "readTime": "8 min read",
+  "excerpt": "A practical framework for deciding whether an AI system should exist, what it should optimize, and who gets to question it.",
+  "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+  "tags": [
+    "Responsible AI",
+    "Design",
+    "Governance"
+  ],
+  "sections": [
+    {
+      "label": "Premise",
+      "title": "The first design decision is whether to build.",
+      "paragraphs": [
+        "Responsible development does not start at model selection. It starts with the people affected, the existing process, and an honest account of what automation might erase as well as improve."
+      ],
+      "links": [
+        {
+          "label": "OECD AI Principles",
+          "url": "https://oecd.ai/en/ai-principles"
+        }
+      ]
+    },
+    {
+      "label": "Framework",
+      "title": "Four questions before a prototype.",
+      "points": [
+        "Who experiences the benefit, and who absorbs the risk?",
+        "Can a simpler rule or interface solve the problem?",
+        "What evidence would cause us to stop?",
+        "Can an affected person understand and contest the output?"
+      ],
+      "links": [
+        {
+          "label": "NIST AI RMF",
+          "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+        },
+        {
+          "label": "UNESCO AI ethics recommendation",
+          "url": "https://www.unesco.org/en/artificial-intelligence/recommendation-ethics"
+        }
+      ]
+    },
+    {
+      "label": "Practice",
+      "title": "Treat limits as product features.",
+      "paragraphs": [
+        "Uncertainty, provenance, correction, and refusal should be designed into the main experience. They are not disclaimers to add after a demo succeeds."
+      ],
+      "links": [
+        {
+          "label": "NIST AI RMF Playbook",
+          "url": "https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook"
+        }
+      ]
+    }
+  ],
+  "kind": "Article"
+}

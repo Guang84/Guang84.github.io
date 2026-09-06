@@ -1,0 +1,99 @@
+{
+  "id": "right-sized-ai",
+  "title": "The most responsible AI may be the smallest one that works",
+  "date": "2026-09-06",
+  "updated": "2026-09-06",
+  "readTime": "5 min read",
+  "excerpt": "A decision framework for using AI where it creates real value, choosing the lightest capable system, and keeping people accountable for the result.",
+  "url": "https://www.iea.org/reports/energy-and-ai",
+  "tags": [
+    "Artificial intelligence",
+    "Energy",
+    "Responsible design"
+  ],
+  "sections": [
+    {
+      "label": "A better first question",
+      "title": "Do we need AI here at all?",
+      "paragraphs": [
+        "AI is often introduced as a feature before the problem has been described. Reverse that order. Write down the decision, the people affected, the acceptable error, and the value of a correct result. Then compare an AI system with a search box, a rule, a spreadsheet, a database query, or a clearer process.",
+        "A deterministic tool is easier to test when the task has stable rules. A language model becomes useful when language is genuinely variable, the output can be reviewed, and occasional uncertainty is acceptable. Choosing the simpler mechanism is not resistance to innovation; it is good engineering."
+      ],
+      "points": [
+        "What exact task will the system perform?",
+        "What happens when it is confidently wrong?",
+        "Can a person meaningfully review the output before harm occurs?",
+        "What data must leave the device or organization?",
+        "What simpler method has been tested as a baseline?"
+      ]
+    },
+    {
+      "label": "The physical system",
+      "title": "Digital intelligence still uses material infrastructure.",
+      "paragraphs": [
+        "Data centres used about 415 terawatt-hours of electricity in 2024, around 1.5 percent of global electricity consumption, according to the International Energy Agency. The IEA projects demand of roughly 945 terawatt-hours in 2030, with AI the largest driver of that growth. Global percentages can hide local strain because new facilities and grid constraints are concentrated in particular regions.",
+        "There is no single honest number for the footprint of an AI request. It changes with the model, hardware, response length, workload, data-centre efficiency, and electricity supply. The useful response to that uncertainty is measurement and proportionality, not a slogan that every request is harmless or that every use is wasteful."
+      ],
+      "links": [
+        {
+          "label": "IEA Energy and AI report",
+          "url": "https://www.iea.org/reports/energy-and-ai"
+        },
+        {
+          "label": "IEA executive summary and demand scenarios",
+          "url": "https://www.iea.org/reports/energy-and-ai/executive-summary"
+        }
+      ]
+    },
+    {
+      "label": "Right-size the system",
+      "title": "Use capability, context, and computation deliberately.",
+      "paragraphs": [
+        "Start with the smallest model or service that passes a task-specific evaluation. A compact local model may be enough for classification, extraction, or repetitive formatting. Retrieval can supply current, bounded information without training a larger model. Caching repeated answers, limiting unnecessary context, shortening outputs, batching work, and turning off unused experiments can reduce both cost and computation.",
+        "NIST notes that generative AI resource use depends on factors including task type, modality, model size, hardware, and usage patterns, and that smaller models or compression can reduce inference impacts. These are design variables. They belong in the same review as latency, privacy, accessibility, and accuracy."
+      ],
+      "points": [
+        "Build a non-AI baseline before adopting a model.",
+        "Evaluate small and large models on the same representative cases.",
+        "Send only the context the task requires.",
+        "Measure quality, latency, cost, and resource use per successful task.",
+        "Remove the feature if people do not receive durable value from it."
+      ],
+      "links": [
+        {
+          "label": "NIST Generative AI Profile",
+          "url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf"
+        }
+      ]
+    },
+    {
+      "label": "Keep responsibility human",
+      "title": "A fluent answer is not an accountable decision.",
+      "paragraphs": [
+        "The person reviewing an output needs enough time, evidence, authority, and subject knowledge to disagree with it. A decorative approval button is not human oversight. For high-impact uses, record the source data, model or version, significant instructions, reviewer, and final decision so an error can be investigated and corrected.",
+        "Tell people when they are interacting with generated content. Provide a route to a person. Test across the languages, devices, and circumstances of the actual audience. Do not use sensitive data merely because the interface makes uploading it easy. The NIST AI Risk Management Framework offers a practical structure: govern the work, map its context, measure risks, and manage them throughout the lifecycle."
+      ],
+      "links": [
+        {
+          "label": "NIST AI Risk Management Framework",
+          "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+        }
+      ]
+    },
+    {
+      "label": "A small policy",
+      "title": "Five rules a team can use tomorrow.",
+      "points": [
+        "No AI feature without a named problem, owner, and success measure.",
+        "No sensitive data without a documented need and approved handling path.",
+        "No high-impact output without meaningful human review and an appeal route.",
+        "No oversized model when a smaller tested system meets the requirement.",
+        "No permanent deployment without monitoring, incident reporting, and a way to switch it off."
+      ],
+      "paragraphs": [
+        "Responsible AI is not achieved by making intelligence look infinite. It begins by acknowledging limits: of evidence, attention, energy, and authority. A well-chosen small system can leave more room for all four."
+      ]
+    }
+  ],
+  "kind": "Article"
+}

@@ -1,5 +1,51 @@
 # Changelog
 
+## v12.1.0 — Technology and nature editorial collection
+
+- published six original, evidence-based articles on passkeys, right-sized AI, soil-sensor calibration, electronics longevity, responsible outdoor lighting, and safe listening
+- added practical checklists and direct links to W3C, FIDO Alliance, IEA, NIST, USDA NRCS, ITU, EPA, NPS, DOE, and WHO guidance
+- expanded the homepage article selection from four to six so the complete new collection is visible at launch
+- rebuilt article pages, global search, RSS, sitemap, and offline precache from the JSON sources
+- verified the AdSense Auto Ads loader across every public HTML page and the inline ad placement on every article page
+- advanced the PWA cache namespace to `glab-v12.1.0`
+
+## v12.0.0 — Consolidated content architecture
+
+- embedded each practical guide directly in its owning project JSON and project page
+- removed the duplicate `content/guides/` source collection and generated `/guides/` section
+- kept project guides discoverable through homepage cards and global-search anchor links
+- moved reusable project, article, and page starters into a root `templates/` directory
+- updated the draft generator to use the new templates and removed the obsolete standalone-guide option
+- tightened validation around the new directory layout, embedded-guide schema, search index, sitemap, and service-worker routes
+- advanced the PWA cache namespace to `glab-v12.0.0`
+
+## v11.0.0 — Final hardened release
+
+- verified all four linked project repositories are public and resolve on GitHub
+- clarified editable `content/projects/` versus generated `/projects/` output
+- restored theme/font preferences before first paint
+- browser theme color now follows light/dark mode
+- added mobile-menu keyboard focus trapping
+- enriched Open Graph/Twitter metadata
+- added sitemap `lastmod` and RFC-compliant RSS dates
+- added service-worker navigation preload while retaining GLab-only route handling
+- added `scripts/release_check.py` and stronger GitHub Actions validation
+- retained PNG-only branding, no ICO/SVG assets, compact 22-page public architecture
+
+## 11.0.0 — Reliability, icon cleanup and interface repair
+
+- Removed all `.ico` files and legacy favicon references; PNG brand assets now provide browser/PWA icons.
+- Fixed unrendered build-template expressions that appeared as literal `{e(...)}` text in the homepage.
+- Removed the My public notebook/statistics panel copy, Independent work section and Keep exploring section.
+- Reworked top-bar text controls into real decrease/increase stepping controls.
+- Hardened theme, search and mobile-menu interaction and focus handling.
+- Isolated feature startup so one JavaScript feature cannot disable every other control.
+- Added code-block Copy controls for practical guides and technical pages.
+- Restricted service-worker cache cleanup to GLab cache names only.
+- Restricted root service-worker interception to GLab-owned routes to avoid interfering with other project sites on the same GitHub Pages origin.
+- Added service-worker `updateViaCache: none` registration behavior.
+- Added validation failures for raw template leakage, legacy ICO files and unsafe service-worker cache behavior.
+
 ## 8.0.0 — Brand, search and offline application upgrade
 
 - Extracted the upper G/network/leaf mark from the supplied Guang artwork and adopted it as the GLab brand mark.
@@ -45,3 +91,11 @@
 - Added source-only templates and a draft generator for future content.
 - Added homepage/profile-specific CSS as a separate module.
 - Bumped the service worker cache namespace to v9.
+
+## Final audit notes
+
+- removed obsolete `my_github_image.png`
+- added 48 px PNG favicon
+- fixed archive card heading levels for semantic h1 → h2 structure
+- added draft-deployment safety guard
+- expanded validator to check heading structure, duplicate IDs, search-index integrity, RSS dates and sitemap metadata

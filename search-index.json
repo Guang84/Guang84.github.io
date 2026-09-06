@@ -48,6 +48,17 @@
     ]
   },
   {
+    "type": "Article",
+    "title": "Better light begins by protecting the dark",
+    "summary": "How careful placement, shielding, warm colour, dimming, and simple controls can make outdoor lighting more useful to people and less disruptive to wildlife.",
+    "url": "/articles/better-light-better-night.html",
+    "tags": [
+      "Nature",
+      "Outdoor lighting",
+      "Energy efficiency"
+    ]
+  },
+  {
     "type": "Field note",
     "title": "What the soil taught the sensor",
     "summary": "Field notes on calibration, false precision, and why a farmer’s hand can be the best instrument in the loop.",
@@ -60,6 +71,39 @@
   },
   {
     "type": "Article",
+    "title": "Keep the music, protect the hearing",
+    "summary": "Safe-listening tools and habits that preserve the joy and detail of music without treating hearing as an unlimited resource.",
+    "url": "/articles/listening-without-losing-the-music.html",
+    "tags": [
+      "Music",
+      "Hearing",
+      "Digital wellbeing"
+    ]
+  },
+  {
+    "type": "Article",
+    "title": "Passkeys move security closer to how people actually live",
+    "summary": "A practical guide to phishing-resistant sign-in, safer account recovery, and the human habits that still matter after passwords begin to disappear.",
+    "url": "/articles/passkeys-and-the-human-side-of-security.html",
+    "tags": [
+      "Cybersecurity",
+      "Passkeys",
+      "Digital safety"
+    ]
+  },
+  {
+    "type": "Article",
+    "title": "The greenest upgrade may be the one you do not buy",
+    "summary": "A practical path for keeping electronics useful longer, protecting personal data, and sending truly finished devices into responsible reuse or recycling.",
+    "url": "/articles/repair-before-replace.html",
+    "tags": [
+      "Repair",
+      "E-waste",
+      "Circular technology"
+    ]
+  },
+  {
+    "type": "Article",
     "title": "Responsible AI begins before the model",
     "summary": "A practical framework for deciding whether an AI system should exist, what it should optimize, and who gets to question it.",
     "url": "/articles/responsible-ai.html",
@@ -67,6 +111,17 @@
       "Responsible AI",
       "Design",
       "Governance"
+    ]
+  },
+  {
+    "type": "Article",
+    "title": "The most responsible AI may be the smallest one that works",
+    "summary": "A decision framework for using AI where it creates real value, choosing the lightest capable system, and keeping people accountable for the result.",
+    "url": "/articles/right-sized-ai.html",
+    "tags": [
+      "Artificial intelligence",
+      "Energy",
+      "Responsible design"
     ]
   },
   {
@@ -91,31 +146,62 @@
     ]
   },
   {
-    "type": "Guide",
+    "type": "Article",
+    "title": "A soil sensor is a question, not an answer",
+    "summary": "How growers can combine moisture sensors, field observation, weather, and simple records to irrigate with more confidence and less false precision.",
+    "url": "/articles/soil-sensors-need-ground-truth.html",
+    "tags": [
+      "Sustainable farming",
+      "Soil moisture",
+      "Field technology"
+    ]
+  },
+  {
+    "type": "Project guide",
     "title": "Prepare an authorized Network Analyzer lab",
     "summary": "Review and preview the public interface first, then restrict any privileged wireless exercise to isolated hardware and a network you own or have written permission to test.",
-    "url": "/guides/network-analyzer-lab-setup.html",
-    "tags": []
+    "url": "/projects/network-analyzer.html#guide",
+    "tags": [
+      "Shell",
+      "Wi-Fi",
+      "Network analysis",
+      "Security education"
+    ]
   },
   {
-    "type": "Guide",
+    "type": "Project guide",
     "title": "Explore the Noney Broadband NMS showcase",
     "summary": "Run the public static gateway and documentation locally without requiring the retired production server or any private customer and infrastructure data.",
-    "url": "/guides/noney-bsnl-broadband-nms-showcase.html",
-    "tags": []
+    "url": "/projects/noney-bsnl-broadband-nms.html#guide",
+    "tags": [
+      "JavaScript",
+      "Python",
+      "GPON",
+      "Operations"
+    ]
   },
   {
-    "type": "Guide",
+    "type": "Project guide",
     "title": "Run, install, and use Rongmei Hymnal",
     "summary": "Preview the static application locally, then install it from its HTTPS deployment and explicitly download songbook data for offline reading.",
-    "url": "/guides/rongmei-hymnal-use.html",
-    "tags": []
+    "url": "/projects/rongmei-hymnal.html#guide",
+    "tags": [
+      "JavaScript",
+      "PWA",
+      "Accessibility",
+      "Digital preservation"
+    ]
   },
   {
-    "type": "Guide",
+    "type": "Project guide",
     "title": "Set up SSH Fleet Doctor safely",
     "summary": "Prepare the Bash and Python tooling against a disposable or explicitly authorized SSH test host before considering operational use.",
-    "url": "/guides/ssh-fleet-doctor-setup.html",
-    "tags": []
+    "url": "/projects/ssh-fleet-doctor.html#guide",
+    "tags": [
+      "Shell",
+      "Python",
+      "SSH",
+      "Server monitoring"
+    ]
   }
 ]
