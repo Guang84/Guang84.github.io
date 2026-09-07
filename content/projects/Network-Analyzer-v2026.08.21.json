@@ -1,0 +1,43 @@
+{
+  "id": "network-analyzer",
+  "title": "Network Analyzer",
+  "category": "Wireless Security & Network Monitoring",
+  "year": 2026,
+  "status": "Active development",
+  "summary": "A Linux terminal application for authorized wireless assessment, passive monitoring, scan reporting, and explainable anomaly detection using learned local baselines.",
+  "url": "https://github.com/Guang84/Network-Analyzer",
+  "tags": ["python", "linux", "wireless-security", "network-monitoring", "anomaly-detection", "sqlite", "scikit-learn"],
+  "colors": ["#315f4b", "#b9d85a"],
+  "repository": {"url": "https://github.com/Guang84/Network-Analyzer", "branch": "main", "license": "Not declared in this repository"},
+  "demoUrl": "",
+  "pageNote": "This page keeps the project overview, architecture, guide, testing, status, and source links together. Use the application only within an explicitly authorized assessment scope.",
+  "sections": [
+    {"title": "Purpose", "content": "Network Analyzer helps an authorized operator collect nearby wireless observations, review local risk indicators, preserve scan artifacts, and investigate departures from a learned local baseline. It is a terminal utility, not a managed cloud service."},
+    {"title": "Primary capabilities", "items": ["Passive discovery and normalized JSON scan records", "Local vulnerability heuristics and Markdown report export", "Monitor-mode state capture and restoration", "Tmux/xterm monitoring dashboards", "Persistent anomaly patterns, trusted AP baselines, incidents, and optional Isolation Forest scoring", "Passive Dev Automate AP-history dashboard"]},
+    {"title": "Data handling", "content": "Scan outputs, logs, model files, and SQLite databases are stored locally in project-configured directories. They can contain SSIDs, BSSIDs, channels, and signal observations, so they should be retained and shared only within the authorized scope."},
+    {"title": "Safety boundary", "content": "Passive discovery and reporting are the preferred workflows. Features that change adapter state or transmit management frames require root access and interactive confirmation; they can affect connectivity and must only be used where permission is explicit."}
+  ],
+  "architecture": {
+    "title": "Local, engine-based terminal architecture",
+    "summary": "The Bash launcher prepares Python only. interactive.py owns command dispatch and shares one NetworkAnalyzerCore instance with focused engines for monitoring, discovery, analysis, anomaly detection, reporting, and terminal presentation.",
+    "steps": ["network_analyzer.sh verifies Python, prepares .venv when required, and execs interactive.py.", "interactive.py loads config.yaml, builds NetworkAnalyzerCore, and routes menu or CLI actions to an engine.", "Core manages configuration, project-local interface state, readiness diagnostics, and privileged command preparation.", "Discovery and monitor engines collect and parse local wireless observations into CSV, JSON, and capture-log artifacts.", "Analysis and vulnerability modules summarize saved JSON and write Markdown reports.", "AIAnomalyEngine stores snapshots and learned patterns in SQLite, creates explainable incidents, and trains a local Isolation Forest after the configured sample threshold.", "Terminal and dashboard engines present live local views without creating a remote data service."],
+    "url": "docs/ARCHITECTURE.md"
+  },
+  "guide": {
+    "title": "Authorized operator quick guide",
+    "summary": "Install dependencies, confirm the approved assessment scope, run readiness diagnostics, select an adapter, and begin with passive discovery or saved-data analysis.",
+    "audience": "Linux users conducting authorized wireless assessments, lab exercises, or local network monitoring.",
+    "url": "docs/PROJECT_GUIDE.md",
+    "prerequisites": ["Python 3.10 or later", "A supported Linux environment and, for live workflows, a compatible wireless adapter", "Explicit authorization for the wireless environment", "Python dependencies from requirements.txt", "System tools required by the selected workflow, as reported by --doctor"],
+    "steps": ["Review config.yaml and set output paths or thresholds if needed.", "Run python3 interactive.py --doctor to review missing tools and packages.", "Start ./network_analyzer.sh and select the intended wireless interface.", "Use passive discovery or analyze existing JSON scans before any active workflow.", "Export reports to reports/ and protect the generated local telemetry.", "When finished, restore normal adapter mode if monitor mode was enabled."],
+    "command": "./network_analyzer.sh",
+    "verification": ["python3 -m compileall -q . completes without syntax errors.", "python3 -m unittest discover -s tests -v passes without wireless hardware.", "python3 interactive.py --doctor reports the current environment state.", "A saved JSON scan can be summarized with menu option 10 and exported with option 11."],
+    "troubleshooting": ["If Python dependencies are unavailable, allow the launcher to create .venv or install python3-venv and rerun it.", "If --doctor reports missing system commands, install only the packages required for the approved workflow and rerun the diagnostic.", "If no adapter is listed, confirm the adapter is attached, unblocked, and supported by the Linux driver.", "If connectivity does not return after monitor mode, use menu option 2 and then reconnect through the host network manager.", "If anomaly output is noisy, collect more representative passive samples, review trusted baselines, and adjust thresholds in config.yaml."]
+  },
+  "validation": {
+    "title": "Offline regression and readiness validation",
+    "summary": "The included unit suite exercises parsing, report generation, monitor-state handling, dispatch, data persistence, and anomaly logic without requiring a wireless adapter or root. Live radio behavior must be tested only in an authorized lab.",
+    "checks": ["python3 -m compileall -q .", "python3 -m unittest discover -s tests -v", "bash -n network_analyzer.sh folderstruc.sh", "python3 interactive.py --doctor"],
+    "url": "docs/PROJECT_GUIDE.md#validation-and-testing"
+  }
+}
