@@ -1,0 +1,160 @@
+{
+  "$schema": "../schemas/project.schema.json",
+  "id": "network-analyzer-v2026",
+  "title": "Network-Analyzer-v2026-08-21",
+  "category": "Wireless Security & Network Monitoring",
+  "year": 2026,
+  "status": "Active development",
+  "summary": "A Linux terminal toolkit for authorized wireless assessment, passive network monitoring, scan analysis, reporting, and explainable anomaly detection using locally learned baselines.",
+  "url": "https://github.com/Guang84/Network-Analyzer",
+  "tags": [
+    "Python",
+    "Linux",
+    "Wireless security",
+    "Network monitoring",
+    "Anomaly detection",
+    "SQLite",
+    "Scikit-learn"
+  ],
+  "colors": [
+    "#315f4b",
+    "#b9d85a"
+  ],
+  "repository": {
+    "url": "https://github.com/Guang84/Network-Analyzer",
+    "branch": "main",
+    "license": "Not declared"
+  },
+  "sections": [
+    {
+      "label": "Overview",
+      "title": "Authorized wireless visibility through a local, inspectable toolkit.",
+      "paragraphs": [
+        "Network Analyzer is a Linux terminal application for authorized wireless assessment, local monitoring, scan reporting, and investigation of unusual wireless behavior.",
+        "The 2026.08.21 architecture moves command dispatch into Python while keeping the Bash launcher focused on environment preparation. The application stores scans, reports, logs, learned patterns, incidents, and locally trained anomaly models on the operator's machine."
+      ],
+      "links": [
+        {
+          "label": "Read the repository",
+          "url": "https://github.com/Guang84/Network-Analyzer"
+        }
+      ]
+    },
+    {
+      "label": "Capabilities",
+      "title": "Discover, monitor, analyze, record, and investigate.",
+      "points": [
+        "Perform passive wireless discovery and normalize scan results into JSON records",
+        "Inspect nearby access points, channels, signal observations, and local risk indicators",
+        "Generate Markdown reports from previously saved scan data",
+        "Enable and restore wireless monitor mode while preserving adapter recovery state",
+        "Present monitoring views through tmux and optional graphical terminals",
+        "Maintain persistent anomaly snapshots, learned access-point patterns, trusted baselines, and incidents",
+        "Apply explainable anomaly checks with optional local Isolation Forest scoring",
+        "Maintain a passive, deduplicated access-point observation history through Dev Automate"
+      ]
+    },
+    {
+      "label": "Architecture",
+      "title": "Python engine architecture behind a minimal Bash launcher.",
+      "paragraphs": [
+        "network_analyzer.sh verifies the local Python environment, prepares the project virtual environment when required, and transfers execution to interactive.py. The Python dispatcher creates a shared NetworkAnalyzerCore instance and routes actions to focused discovery, monitoring, analysis, anomaly-detection, reporting, and terminal-management engines.",
+        "Runtime information remains local. Discovery workflows produce CSV and normalized JSON artifacts, analysis produces Markdown reports, anomaly learning persists telemetry in SQLite, and a locally trained Isolation Forest model can supplement explainable detection logic."
+      ],
+      "links": [
+        {
+          "label": "Architecture guide",
+          "url": "https://github.com/Guang84/Network-Analyzer/blob/main/docs/ARCHITECTURE.md"
+        }
+      ]
+    },
+    {
+      "label": "Safety",
+      "title": "Wireless assessment requires an explicit authorization boundary.",
+      "paragraphs": [
+        "Passive discovery, saved-data analysis, and reporting should be the normal starting points. Operations that alter wireless adapter state or transmit management traffic can disrupt connectivity and should only be used in an isolated lab or another expressly approved environment.",
+        "Generated scans, logs, reports, SQLite databases, captures, and trained models can contain SSIDs, BSSIDs, signal observations, interface information, or other assessment telemetry and should be retained and shared only within the approved scope."
+      ],
+      "callout": "Use Network Analyzer only against wireless environments and devices you own or are explicitly authorized to assess. Begin with passive workflows and validate active functionality in an isolated lab."
+    }
+  ],
+  "architecture": {
+    "title": "Network Analyzer component map",
+    "summary": "The 2026.08.21 design combines a small Bash startup layer with a Python command dispatcher, shared core services, specialized wireless engines, local persistence, reporting, and terminal dashboards.",
+    "steps": [
+      "network_analyzer.sh verifies Python 3 and interactive.py, offers to create the project-local .venv when imports are unavailable, installs requirements.txt there, and execs the Python application.",
+      "interactive.py loads the project configuration, creates NetworkAnalyzerCore, initializes the selected wireless interface, and routes menu or command-line actions to specialized engines.",
+      "NetworkAnalyzerCore provides configuration access, interface persistence, readiness diagnostics, sudo validation, and shared privileged-command preparation without restarting the Python process.",
+      "The discovery engine performs timed wireless observations, parses CSV capture output, writes normalized JSON scan artifacts, and records discovery metadata.",
+      "The monitor engine manages monitor-mode transitions, records the adapter's prior state, and restores normal networking through supported host network services.",
+      "Analysis and vulnerability modules process saved JSON observations, calculate local risk heuristics, summarize findings, and generate Markdown reports.",
+      "AI anomaly components persist snapshots, learned access-point patterns, trusted entries, baselines, and incidents in SQLite and can train a local Isolation Forest after the configured sample threshold.",
+      "Dev Automate maintains a separate SQLite history of passively observed access points while terminal-management components provide tmux and optional graphical monitoring views.",
+      "Runtime artifacts remain local under configured scans, reports, logs, data, models, handshakes, and project-state paths."
+    ],
+    "url": "https://github.com/Guang84/Network-Analyzer/blob/main/docs/ARCHITECTURE.md"
+  },
+  "validation": {
+    "title": "Network Analyzer 2026.08.21 preflight checks",
+    "summary": "Hardware-independent regression, syntax, configuration, and readiness checks should be completed before live wireless testing. Hardware-dependent behavior belongs only in an explicitly authorized lab.",
+    "checks": [
+      "Run python3 -m compileall -q . to detect Python syntax and compilation problems.",
+      "Run python3 -m unittest discover -s tests -v to exercise the hardware-free regression suite.",
+      "Run bash -n network_analyzer.sh folderstruc.sh to validate Bash syntax without executing the scripts.",
+      "Run python3 interactive.py --doctor to inspect Python dependencies and required local system tools without beginning a wireless assessment.",
+      "Confirm configuration-path normalization, report generation, risk scoring, command dispatch, BSSID validation, and interface-selection persistence behave as expected.",
+      "Verify monitor-mode state transitions and recovery logic in an authorized lab before depending on restoration against an operational adapter.",
+      "Exercise scan parsing, SQLite persistence, anomaly learning, incident handling, and report export using sanitized or disposable test observations.",
+      "Review generated logs, scans, databases, reports, and models to ensure sensitive wireless telemetry is not unintentionally committed or distributed."
+    ],
+    "url": "https://github.com/Guang84/Network-Analyzer/blob/main/docs/PROJECT_GUIDE.md#validation-and-testing"
+  },
+  "guide": {
+    "title": "Set up Network Analyzer safely",
+    "summary": "Prepare the local Python environment, review the authorized assessment scope, run read-only diagnostics, select the intended adapter, and begin with passive discovery or saved-data analysis before considering active wireless operations.",
+    "audience": "Linux users, administrators, students, or security learners conducting explicitly authorized wireless assessments, isolated lab exercises, or local network monitoring.",
+    "url": "https://github.com/Guang84/Network-Analyzer/blob/main/docs/PROJECT_GUIDE.md",
+    "prerequisites": [
+      "A current Linux environment",
+      "Python 3.10 or later",
+      "Python venv and pip support",
+      "A compatible wireless adapter for live radio workflows",
+      "Explicit authorization for the wireless environment, devices, and assessment window",
+      "Python dependencies declared in requirements.txt",
+      "System tools required by the selected workflow as reported by interactive.py --doctor"
+    ],
+    "steps": [
+      "Clone the Network-Analyzer repository and review network_analyzer.sh, interactive.py, config.yaml, the engine modules, and the project documentation before using live wireless functions.",
+      "Create or allow the launcher to create the project-local .venv and install the Python packages declared in requirements.txt.",
+      "Review config.yaml, including output paths, interface defaults, scan timing, monitor-transition behavior, and anomaly-detection thresholds.",
+      "Run python3 interactive.py --doctor and resolve only the dependencies required for the approved workflow.",
+      "Start ./network_analyzer.sh and select the wireless interface intended for the authorized session.",
+      "Begin with passive discovery, saved JSON analysis, or report generation before enabling functionality that changes adapter state.",
+      "If monitor mode is required, verify the adapter's recovery path and restore normal networking when the assessment completes.",
+      "Collect representative passive observations before relying on anomaly baselines or optional Isolation Forest scoring.",
+      "Review scans, logs, reports, databases, captures, and models before retaining or sharing them because they may contain sensitive local wireless telemetry."
+    ],
+    "command": "git clone https://github.com/Guang84/Network-Analyzer.git\ncd Network-Analyzer\npython3 -m venv .venv\n.venv/bin/python -m pip install -r requirements.txt\npython3 interactive.py --doctor\n./network_analyzer.sh",
+    "verification": [
+      "The project-local Python virtual environment activates and required Python modules import successfully",
+      "python3 -m compileall -q . completes without syntax errors",
+      "python3 -m unittest discover -s tests -v passes without requiring wireless hardware or root privileges",
+      "bash -n network_analyzer.sh folderstruc.sh completes successfully",
+      "python3 interactive.py --doctor reports the current dependency and system-tool readiness state",
+      "A saved normalized JSON scan can be summarized and exported as a Markdown report",
+      "Generated local artifacts remain outside source control unless they are intentionally sanitized examples"
+    ],
+    "troubleshooting": [
+      "If the launcher cannot create .venv, install the distribution's Python venv package and run the launcher again.",
+      "If --doctor reports missing commands, install only the system packages needed by the approved workflow and rerun the diagnostic.",
+      "If no wireless adapter appears, verify the physical or USB connection, Linux driver support, and radio unblock state.",
+      "If the adapter does not return to normal networking after monitor mode, use the application's restoration path and then reconnect through the host operating system's network manager if necessary.",
+      "If anomaly alerts are excessively frequent, collect more representative passive observations, review trusted access points, and adjust the documented thresholds only after examining the evidence.",
+      "If a report cannot be exported, verify that a normalized JSON scan exists in the configured scans directory.",
+      "If a non-systemd or unsupported network-management stack is in use, restore connectivity through the distribution's normal network-management mechanism."
+    ]
+  },
+  "pageNote": "This page combines the Network Analyzer 2026.08.21 project overview, architecture, capabilities, authorized-use boundary, setup guide, validation workflow, operational status, and source links in one case study.",
+  "publicationStatus": "published",
+  "featured": false
+}

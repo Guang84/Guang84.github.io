@@ -1,0 +1,86 @@
+{
+  "owner": "Guang",
+  "name": "GLab",
+  "url": "https://guang84.github.io/",
+  "version": "14.2.0",
+  "description": "Guang’s personal profile and public knowledge hub for complete projects with embedded guides, technical articles, research notes and documented experiments across technology, cybersecurity, AI, networking, sustainability and engineering.",
+  "email": "guang.social.verse@gmail.com",
+  "github": "https://github.com/Guang84",
+  "ads": {
+    "enabled": true,
+    "publisherId": "ca-pub-6371342728710125",
+    "mode": "auto",
+    "slots": {}
+  },
+  "profile": {
+    "greeting": "Hi, I’m Guang",
+    "roles": [
+      "Environmentalist",
+      "Tech Enthusiast",
+      "Innovator"
+    ],
+    "intro": [
+      "Passionate about building a future where technology and nature coexist harmoniously. I enjoy exploring cybersecurity, artificial intelligence, sustainable farming, networking and hands-on engineering projects.",
+      "I believe in using technology thoughtfully to create positive change for people, communities and the planet."
+    ],
+    "statement": "Technology should do more than innovate. It should improve lives, strengthen communities, and help build a sustainable future.",
+    "workLine": "Deep dives into things I’ve designed, tested, broken, documented, and learned from.",
+    "interestLine": "Interests that keep me moving.",
+    "background": "My background combines hands-on broadband and network operations with self-directed software, Linux, cybersecurity, automation and community-focused technology projects.",
+    "interests": [
+      {
+        "title": "Cybersecurity",
+        "description": "Building safer digital spaces through curiosity, rigor, responsible testing and clear operational boundaries."
+      },
+      {
+        "title": "Artificial Intelligence",
+        "description": "Exploring useful, human-centered systems that extend our ability to understand, create and solve practical problems."
+      },
+      {
+        "title": "Sustainable Farming",
+        "description": "Learning from soil, seasons and low-impact systems built for resilience, local context and long-term value."
+      },
+      {
+        "title": "Innovation & Engineering",
+        "description": "Turning good questions into tangible prototypes, one careful iteration at a time."
+      },
+      {
+        "title": "Music",
+        "description": "Listening for patterns, texture, rhythm and the spaces between sounds."
+      },
+      {
+        "title": "Reading & Research",
+        "description": "Following ideas across disciplines, testing assumptions and keeping useful notes along the way."
+      }
+    ]
+  },
+  "importantLinks": [
+    {
+      "label": "Buying Laptop 2026 Specs Guide",
+      "description": "A detailed guide to help you choose the right laptop for your needs in 2026.",
+      "url": "/articles/?id=buying-laptop-2026-specs-guide",
+      "kind": "Guide"
+    },
+    {
+      "label": "Rongmei Hymnal Webapp",
+      "description": "An active offline-first community digital library project.",
+      "url": "https://guang84.github.io/RongmeiHymnal/",
+      "kind": "Live project (progress: correcting & editing lyrics database and adding new songs)"
+    },
+    {
+      "label": "BSNL Broadband Franchise NMS",
+      "description": "Complete case study of the broadband operations platform.",
+      "url": "/projects/?id=noney-bsnl-broadband-nms",
+      "kind": "Case study"
+    },
+    {
+      "label": "Network Analyzer 2026 Tool",
+      "description": "A Linux terminal toolkit for authorized wireless assessment, passive network monitoring, scan analysis, reporting, and explainable anomaly detection using locally learned baselines.",
+      "url": "/projects/?id=network-analyzer-v2026",
+      "kind": "Tooling · authorized network testing"
+    }
+  ],
+  "appearance": {
+    "palette": "sage"
+  }
+}

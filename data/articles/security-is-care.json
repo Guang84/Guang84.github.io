@@ -1,0 +1,65 @@
+{
+  "$schema": "../schemas/article.schema.json",
+  "id": "security-is-care",
+  "title": "Security is a form of care",
+  "date": "2026-04-22",
+  "updated": "2026-09-04",
+  "readTime": "7 min read",
+  "excerpt": "Moving beyond fear-driven security toward systems that respect attention, dignity, and ordinary human behavior.",
+  "url": "https://www.cisa.gov/securebydesign",
+  "tags": [
+    "Cybersecurity",
+    "Human-centered design"
+  ],
+  "sections": [
+    {
+      "label": "Argument",
+      "title": "Security should make safe behavior easier.",
+      "paragraphs": [
+        "People are often described as the weakest link. That phrase hides design failures. If the secure path demands constant vigilance, memorization, and interruption, the system has delegated its complexity to the person least equipped to resolve it."
+      ],
+      "links": [
+        {
+          "label": "CISA Secure by Design",
+          "url": "https://www.cisa.gov/securebydesign"
+        }
+      ]
+    },
+    {
+      "label": "Design",
+      "title": "Build calm defaults.",
+      "points": [
+        "Reduce decisions during high-pressure moments",
+        "Explain consequences in specific, familiar language",
+        "Recover safely from ordinary mistakes",
+        "Measure interruption and confusion as security costs"
+      ],
+      "links": [
+        {
+          "label": "NIST Cybersecurity Framework",
+          "url": "https://www.nist.gov/cyberframework"
+        },
+        {
+          "label": "OWASP developer guide",
+          "url": "https://owasp.org/www-project-developer-guide/"
+        }
+      ]
+    },
+    {
+      "label": "Closing",
+      "title": "Protection without dignity is incomplete.",
+      "paragraphs": [
+        "Good security respects people’s time and context. It quietly creates room for them to do meaningful work without needing to become security experts first."
+      ],
+      "links": [
+        {
+          "label": "CISA cybersecurity resources",
+          "url": "https://www.cisa.gov/topics/cybersecurity-best-practices"
+        }
+      ]
+    }
+  ],
+  "kind": "Article",
+  "publicationStatus": "published",
+  "featured": false
+}

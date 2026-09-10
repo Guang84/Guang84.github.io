@@ -1,0 +1,117 @@
+{
+  "$schema": "../schemas/project.schema.json",
+  "id": "network-analyzer-v2024",
+  "title": "Network Analyzer v2024.06.24",
+  "category": "Wireless Security & Network Analysis",
+  "year": 2024,
+  "status": "completed v2024.06.24",
+  "summary": "A Linux Bash-based educational network analysis toolkit for authorized wireless security testing, monitor-mode operation, network discovery, handshake capture, network monitoring, vulnerability testing, and password-auditing workflows.",
+  "url": "https://github.com/Guang84/Network-Analyzer",
+  "tags": [
+    "bash",
+    "linux",
+    "wireless-security",
+    "network-monitoring",
+    "aircrack-ng",
+    "wifi-security",
+    "python"
+  ],
+  "colors": [
+    "#315f4b",
+    "#b9d85a"
+  ],
+  "repository": {
+    "url": "https://github.com/Guang84/Network-Analyzer",
+    "branch": "main",
+    "license": "Network Analyzer Project License (BSD-style 3-clause terms)"
+  },
+  "demoUrl": "https://guang84.github.io/Network-Analyzer/",
+  "pageNote": "This project documents a 2024 educational wireless-security toolkit. Several menu operations can change adapter state or transmit wireless management frames, so the tool must be used only on networks and devices for which explicit authorization has been granted.",
+  "sections": [
+    {
+      "title": "Purpose",
+      "content": "Network Analyzer is an educational Linux toolkit built around a Bash menu that coordinates common wireless-security utilities. It is intended to help users learn interface handling, monitor mode, wireless discovery, traffic observation, handshake capture, encryption testing, and password-auditing concepts in an authorized lab or assessment environment."
+    },
+    {
+      "title": "Primary capabilities",
+      "items": [
+        "Wireless interface detection and monitor-mode enable/disable using airmon-ng",
+        "Wireless network discovery and CSV capture using airodump-ng",
+        "Targeted deauthentication testing with aireplay-ng for authorized assessments",
+        "WPA/WPA2 handshake capture workflows using airodump-ng",
+        "Encryption and password-auditing workflows using aircrack-ng and wordlists",
+        "Network monitoring plus an MDK3-based anonymous/deauthentication mode"
+      ]
+    },
+    {
+      "title": "Data handling",
+      "content": "The Bash workflow can write wireless discovery output to the local SaveData directory and can create capture or password-auditing artifacts selected by the operator. The repository also includes a small Python HTTP server that serves the bundled local web interface on port 8000. Captured network identifiers and traffic-related artifacts should be protected and retained only within the authorized scope."
+    },
+    {
+      "title": "Safety boundary",
+      "content": "The main Bash script requires root privileges. Monitor-mode changes, deauthentication, handshake capture, and password-auditing functions can disrupt connectivity or interact actively with wireless networks. Use these functions only in an explicitly authorized lab, on your own equipment, or under written assessment permission."
+    }
+  ],
+  "architecture": {
+    "title": "Bash-driven wireless toolkit with local Python web server",
+    "summary": "mybash.sh is the primary interactive controller. It checks root access, identifies the Linux distribution and wireless interface, checks external wireless-security tools, starts server.py for the bundled web interface, and dispatches menu actions to Aircrack-ng/MDK utilities.",
+    "steps": [
+      "mybash.sh checks for root privileges and reports the Network Analyzer tool version.",
+      "The script detects the Linux distribution, checks required wireless-security commands, and searches for a supported WLAN interface.",
+      "server.py is launched to serve the repository's local HTML interface through Python's built-in HTTP server on port 8000.",
+      "airmon-ng is used to enable or disable monitor mode on the selected wireless interface.",
+      "airodump-ng provides discovery, monitoring, CSV export, and targeted handshake-capture workflows.",
+      "aireplay-ng, aircrack-ng, and MDK utilities provide authorized deauthentication, encryption testing, and password-auditing functions.",
+      "The interactive Bash menu remains the central control path for the tool's wireless-analysis operations."
+    ],
+    "url": "https://github.com/Guang84/Network-Analyzer/blob/main/mybash.sh"
+  },
+  "guide": {
+    "title": "Authorized operator quick guide",
+    "summary": "Prepare a compatible Linux host and wireless adapter, install the required Aircrack-ng/MDK utilities, run the Bash tool as root, confirm the detected interface, and use only the functions permitted by the assessment scope.",
+    "audience": "Linux users studying wireless security or conducting explicitly authorized Wi-Fi lab and assessment work.",
+    "url": "https://guang84.github.io/Network-Analyzer/",
+    "prerequisites": [
+      "A Linux environment supported by the script or a compatible Linux distribution",
+      "A wireless adapter and Linux driver that support the required wireless/monitor-mode workflow",
+      "Explicit authorization for every wireless network and device being assessed",
+      "Aircrack-ng utilities including airmon-ng, airodump-ng, aireplay-ng, and aircrack-ng",
+      "MDK3 and/or MDK4 plus Python 3 for the bundled local web server"
+    ],
+    "steps": [
+      "Clone the repository and change into the Network-Analyzer directory.",
+      "Install the required Aircrack-ng and MDK utilities for your Linux distribution.",
+      "Run sudo bash mybash.sh so the script can perform privileged wireless-interface operations.",
+      "Review the detected WLAN interface and enable monitor mode only when the authorized workflow requires it.",
+      "Use discovery or monitoring first, then select only the assessment functions allowed by the approved scope.",
+      "Disable monitor mode when finished and restore normal NetworkManager connectivity if required."
+    ],
+    "command": "sudo bash mybash.sh",
+    "verification": [
+      "sudo bash mybash.sh -v displays the script version.",
+      "bash -n mybash.sh completes without reporting Bash syntax errors.",
+      "python3 -m py_compile server.py completes without Python syntax errors.",
+      "Opening the locally served page on port 8000 confirms the bundled web interface is available."
+    ],
+    "troubleshooting": [
+      "If a required command is reported as missing, install the corresponding Aircrack-ng or MDK package and rerun the script.",
+      "If no WLAN interface is detected, verify the adapter is attached, enabled, visible to ip link, and supported by the Linux driver.",
+      "If monitor-mode commands fail, confirm the adapter and driver support monitor mode and that the tool is running with root privileges.",
+      "If normal connectivity does not return, stop monitor mode with airmon-ng and reconnect or restart NetworkManager.",
+      "If the local web page is unavailable, run python3 server.py directly and confirm that port 8000 is not already in use."
+    ]
+  },
+  "validation": {
+    "title": "Repository-level syntax and environment validation",
+    "summary": "The repository does not contain the Python unit-test, SQLite, anomaly-detection, or --doctor framework described by the previous JSON. Practical validation for the current 2024 codebase consists of Bash/Python syntax checks, dependency checks, interface detection, and controlled hardware testing in an authorized wireless lab.",
+    "checks": [
+      "bash -n mybash.sh",
+      "python3 -m py_compile server.py",
+      "sudo bash mybash.sh -v",
+      "sudo bash mybash.sh"
+    ],
+    "url": "https://github.com/Guang84/Network-Analyzer/blob/main/README.md"
+  },
+  "publicationStatus": "published",
+  "featured": false
+}

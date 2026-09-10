@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://guang84.github.io/</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/projects/</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/articles/</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/about.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/contact.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/privacy.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/terms.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/projects/network-analyzer.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/projects/noney-bsnl-broadband-nms.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/projects/rongmei-hymnal.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/projects/ssh-fleet-doctor.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/articles/better-light-better-night.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/articles/learning-from-soil.html</loc><lastmod>2026-09-04</lastmod></url><url><loc>https://guang84.github.io/articles/listening-without-losing-the-music.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/articles/passkeys-and-the-human-side-of-security.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/articles/repair-before-replace.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/articles/responsible-ai.html</loc><lastmod>2026-09-04</lastmod></url><url><loc>https://guang84.github.io/articles/right-sized-ai.html</loc><lastmod>2026-09-06</lastmod></url><url><loc>https://guang84.github.io/articles/security-is-care.html</loc><lastmod>2026-09-04</lastmod></url><url><loc>https://guang84.github.io/articles/small-tools.html</loc><lastmod>2026-09-04</lastmod></url><url><loc>https://guang84.github.io/articles/soil-sensors-need-ground-truth.html</loc><lastmod>2026-09-06</lastmod></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://guang84.github.io/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/projects/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/articles/</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/about.html</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/contact.html</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/privacy.html</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/terms.html</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/projects/?id=network-analyzer-v2024</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/projects/?id=network-analyzer-v2026</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/projects/?id=noney-bsnl-broadband-nms</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/projects/?id=rongmei-hymnal</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/projects/?id=ssh-fleet-doctor</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/articles/?id=buying-laptop-2026-specs-guide</loc><lastmod>2026-09-10</lastmod></url>
+  <url><loc>https://guang84.github.io/articles/?id=right-sized-ai</loc><lastmod>2026-09-06</lastmod></url>
+  <url><loc>https://guang84.github.io/articles/?id=repair-before-replace</loc><lastmod>2026-09-06</lastmod></url>
+  <url><loc>https://guang84.github.io/articles/?id=passkeys-and-the-human-side-of-security</loc><lastmod>2026-09-06</lastmod></url>
+  <url><loc>https://guang84.github.io/articles/?id=better-light-better-night</loc><lastmod>2026-09-06</lastmod></url>
+  <url><loc>https://guang84.github.io/articles/?id=soil-sensors-need-ground-truth</loc><lastmod>2026-09-06</lastmod></url>
+  <url><loc>https://guang84.github.io/articles/?id=learning-from-soil</loc><lastmod>2026-09-04</lastmod></url>
+  <url><loc>https://guang84.github.io/articles/?id=responsible-ai</loc><lastmod>2026-09-04</lastmod></url>
+  <url><loc>https://guang84.github.io/articles/?id=security-is-care</loc><lastmod>2026-09-04</lastmod></url>
+</urlset>

@@ -1,0 +1,45 @@
+{
+  "$schema": "../schemas/project.schema.json",
+  "id": "new-project",
+  "title": "New project",
+  "category": "Engineering",
+  "year": 2026,
+  "status": "In development",
+  "summary": "Replace with the problem, intended audience, and project outcome.",
+  "tags": [
+    "Engineering"
+  ],
+  "publicationStatus": "draft",
+  "featured": false,
+  "sections": [
+    {
+      "title": "Overview",
+      "paragraphs": [
+        "Describe the problem and your approach."
+      ]
+    },
+    {
+      "title": "Testing and limitations",
+      "points": [
+        "Describe what you tested and any known limitations."
+      ]
+    }
+  ],
+  "guide": {
+    "title": "Getting started",
+    "summary": "Explain how to reproduce the project in a suitable test environment.",
+    "audience": "Describe the intended reader.",
+    "prerequisites": [
+      "List the required tools and versions."
+    ],
+    "steps": [
+      "Describe the first setup step."
+    ],
+    "verification": [
+      "Describe the expected result and how to check it."
+    ],
+    "troubleshooting": [
+      "Describe a common failure and its remedy."
+    ]
+  }
+}

@@ -7,7 +7,7 @@ function loadIndex() {
   }).then((response) => {
     if (!response.ok) throw new Error('Search index unavailable');
     return response.json();
-  }));
+  }).catch(error => { indexPromise = null; throw error; }));
 }
 
 function score(item, query) {
@@ -15,11 +15,13 @@ function score(item, query) {
   if (!value) return 1;
   const words = value.split(/\s+/).filter(Boolean);
   const title = (item.title || '').toLowerCase();
+  const id = (item.id || '').toLowerCase();
   const summary = (item.summary || '').toLowerCase();
   const tags = (item.tags || []).join(' ').toLowerCase();
   const type = (item.type || '').toLowerCase();
   let result = 0;
   for (const word of words) {
+    if (id.includes(word)) result += 10;
     if (title.includes(word)) result += 8;
     if (tags.includes(word)) result += 4;
     if (type.includes(word)) result += 2;
@@ -53,6 +55,10 @@ export function initSearch() {
   if (!dialog || !input || !results || !openers.length) return;
 
   let previousFocus = null;
+  document.addEventListener('glab:catalog-updated', () => {
+    indexPromise = null;
+    if (dialog.open) render();
+  });
 
   const render = async () => {
     results.setAttribute('aria-busy', 'true');

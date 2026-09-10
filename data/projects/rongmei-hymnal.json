@@ -1,0 +1,227 @@
+{
+"$schema": "../schemas/project.schema.json",
+"id": "rongmei-hymnal",
+"title": "Rongmei Hymnal",
+"category": "Community Technology",
+"year": 2026,
+"status": "Active · deployed · editorial review ongoing",
+"summary": "An installable, offline-first digital hymnal and preservation project bringing 1,271 songs from three Rongmei and community song collections into one searchable reading space. The application is actively deployed while hymn text, metadata, and legacy-source inconsistencies are being reviewed and corrected progressively for greater accuracy.",
+"url": "https://github.com/Guang84/RongmeiHymnal",
+"tags": [
+"JavaScript",
+"PWA",
+"Offline-first",
+"Accessibility",
+"Digital preservation",
+"Community technology"
+],
+"colors": [
+"#5b4938",
+"#e6c66b"
+],
+"repository": {
+"url": "https://github.com/Guang84/RongmeiHymnal",
+"branch": "main",
+"license": "Apache-2.0 software license"
+},
+"demoUrl": "https://guang84.github.io/RongmeiHymnal/",
+"sections": [
+{
+"label": "Purpose",
+"title": "Preserving songs without separating them from their community context.",
+"paragraphs": [
+"Rongmei Hymnal is a community-focused digital library created to make Rongmei gospel songs easier to search, read, preserve, and use across phones, tablets, and computers.",
+"Instead of merging every source into an anonymous catalogue, the project keeps individual songbooks identifiable and retains collection-level credits, source information, editorial notes, publication context, and rights metadata wherever available.",
+"The project is intended for worship, learning, community singing, reference, and long-term digital preservation while respecting the identity and provenance of the original collections."
+],
+"links": [
+{
+"label": "Open the live hymnal",
+"url": "https://guang84.github.io/RongmeiHymnal/"
+}
+]
+},
+{
+"label": "Collection",
+"title": "Three collections and 1,271 songs in one searchable library.",
+"points": [
+"Buanthanhlu: 305 songs",
+"Hymdaihlu: 930 songs reconstructed from a legacy SQLite hymnal database",
+"VBS Songs: 36 traditional or public-domain English selections for community and children-focused singing",
+"A central JSON registry defines available books, metadata locations, collection versions, and song counts",
+"Per-book metadata keeps source, editorial, attribution, publication, and rights information separate from the application interface",
+"Structured JSON data makes the collection maintainable, searchable, versionable, and easier to validate than a page-only archive"
+],
+"links": [
+{
+"label": "View the songbook registry",
+"url": "https://github.com/Guang84/RongmeiHymnal/blob/main/data/songbooks/index.json"
+}
+]
+},
+{
+"label": "Experience",
+"title": "Designed for focused reading, community use, and unreliable connectivity.",
+"points": [
+"Search across all registered songbooks from a single library interface",
+"Open individual collections and move into a focused song-reading view",
+"Adjust reading preferences for clearer use on phones, tablets, desktops, and larger displays",
+"Use presentation mode for group reading, worship, teaching, and community singing",
+"Save favourites and recently viewed songs locally on the user's device",
+"Install the website as a Progressive Web App from a supported HTTPS browser",
+"Explicitly download registered songbook data for offline reading and searching",
+"View offline-download progress, storage state, and update availability from the application",
+"Refresh locally downloaded collections when newer registered versions become available"
+]
+},
+{
+"label": "Editorial status",
+"title": "A working digital edition that continues to be corrected.",
+"paragraphs": [
+"The software is deployed and usable, but the hymn corpus should not be represented as a final critical edition. Some source material contains transcription errors, spelling inconsistencies, punctuation problems, formatting differences, duplicate or legacy records, and metadata that still requires human review.",
+"Corrections are being made progressively against available hymnbooks, source records, community knowledge, and legacy data. The objective is to improve accuracy without silently rewriting uncertain material or losing the historical relationship between the digital record and its source.",
+"Where a correction cannot be verified confidently, preserving provenance and marking editorial uncertainty is preferable to presenting an assumption as an authoritative text."
+]
+},
+{
+"label": "Data recovery",
+"title": "Legacy hymn data converted into maintainable structured records.",
+"paragraphs": [
+"A substantial part of the project involves more than displaying existing text. The Hymdaihlu collection was reconstructed from a legacy SQLite database and transformed into structured JSON suitable for a modern static web application.",
+"The import process preserves useful catalogue and musical information while normalizing legacy formatting, HTML breaks, entities, fixed-width padding, and known punctuation-encoding problems. Alternate Rongmei index information is retained where useful for discovery rather than discarded during conversion."
+],
+"points": [
+"Legacy SQLite data transformed into application-readable JSON",
+"Rongmei index titles prioritized during Hymdaihlu extraction",
+"Alternate index information retained to improve searchability",
+"Known legacy punctuation and formatting artifacts normalized during import",
+"Duplicate or unusual source records handled explicitly rather than hidden",
+"Generated data can be rebuilt through repository tooling when source processing changes"
+]
+},
+{
+"label": "Offline-first",
+"title": "The application shell and hymn library use separate offline strategies.",
+"paragraphs": [
+"The service worker keeps the application shell available for reliable startup, while an explicit library-download workflow stores registered songbook metadata and song data for offline use.",
+"This separation avoids treating a successful PWA installation as proof that the complete hymn collection has been downloaded. Users can see download progress and storage status and can refresh or remove downloaded library data through the application.",
+"Browser and operating-system storage policies still control available quota and persistence, so offline availability is designed defensively rather than assumed."
+]
+},
+{
+"label": "Stewardship",
+"title": "Open software does not mean unrestricted hymn content.",
+"paragraphs": [
+"The Apache License 2.0 applies to the project's software, interface code, tools, and documentation. It does not automatically relicense lyrics, editions, translations, arrangements, recordings, illustrations, cover art, or other collection material.",
+"Each collection should retain its own attribution, source, editorial, and rights information. New material should be added only after its provenance and redistribution conditions have been reviewed.",
+"This separation allows the software to remain openly reusable while maintaining responsible boundaries around cultural, editorial, and potentially copyrighted content."
+],
+"links": [
+{
+"label": "Read the usage policy",
+"url": "https://guang84.github.io/RongmeiHymnal/policy.html"
+},
+{
+"label": "View the software license",
+"url": "https://github.com/Guang84/RongmeiHymnal/blob/main/LICENSE"
+}
+]
+},
+{
+"label": "Preservation",
+"title": "Structured data turns a reading app into a maintainable digital archive.",
+"paragraphs": [
+"The long-term value of Rongmei Hymnal is not limited to its current interface. Separating application code from structured songbook data makes collections easier to inspect, validate, migrate, correct, and preserve as technologies change.",
+"Versioned collection metadata also provides a foundation for future editorial history, correction tracking, source comparison, and community-reviewed editions without requiring the entire application to be redesigned."
+]
+}
+],
+"architecture": {
+"title": "Rongmei Hymnal architecture and data model",
+"summary": "A static, offline-capable PWA separates the user interface, songbook registry, collection metadata, structured song records, device-local preferences, service-worker caching, and explicit full-library downloads.",
+"steps": [
+"Static HTML views provide the main library, collection browsing, and focused hymn-reading experiences, with shared CSS controlling responsive presentation.",
+"data/songbooks/index.json acts as the central registry and records each collection's identifier, directory, metadata location, version, and expected song count.",
+"Each songbook maintains its own metadata and structured song records so collection provenance and editorial information do not need to be hard-coded into the interface.",
+"JSON schemas and validation tooling define expected data shapes and provide a repeatable way to detect malformed or incomplete records.",
+"JavaScript modules handle application startup, data loading, search, rendering, settings, favourites, history, presentation behaviour, contact information, and offline-storage operations.",
+"The service worker caches the application shell for startup resilience while the in-app download process separately stores registered songbook metadata and song content.",
+"Device-local storage preserves favourites, history, reading preferences, and offline state without requiring user accounts or a centralized application database.",
+"When connectivity returns, version comparison can identify updated application or collection data and refresh previously downloaded content.",
+"Legacy-source extraction tools convert source databases into normalized JSON so imported collections can be regenerated rather than maintained only through manual copying.",
+"The static architecture allows deployment through GitHub Pages without a continuously running application server."
+],
+"url": "https://github.com/Guang84/RongmeiHymnal"
+},
+"validation": {
+"title": "Rongmei Hymnal technical and editorial release checklist",
+"summary": "Validation covers both application reliability and the separate problem of hymn-content accuracy. Automated schema checks can verify structure, but spelling, transcription, attribution, and source discrepancies still require editorial review.",
+"checks": [
+"Confirm every registered collection directory, metadata path, semantic version, identifier, and song count agrees with data/songbooks/index.json.",
+"Run repository build and validation tools after changing song data, metadata, extraction logic, or the songbook registry.",
+"Validate song and collection records against the project's JSON schemas and investigate every structural validation failure before publishing.",
+"Compare corrected hymn text against the best available source before replacing an existing transcription.",
+"Record or preserve sufficient source and editorial context when a correction involves uncertain spelling, punctuation, numbering, wording, attribution, or legacy formatting.",
+"Check imported Hymdaihlu records for duplicate-source behaviour, numbering continuity, title selection, encoding repair, and retained alternate index information.",
+"Verify that the expected total remains consistent with the registered collections unless a deliberate collection update changes it.",
+"Test global search for titles, words, alternate index entries, uncommon characters, and corrected hymn text.",
+"Test focused reading, font and reading preferences, favourites, history, navigation, and presentation mode at phone, tablet, desktop, and large-screen widths.",
+"Install the application from its HTTPS deployment and verify that PWA startup works independently from the optional full-library download.",
+"Complete an offline library download, disconnect the network, reload the installed application, search for songs, and reopen previously downloaded collections.",
+"Reconnect after increasing a collection version and verify that newer metadata and song data are detected and refreshed correctly.",
+"Check behaviour when persistent storage is unavailable, quota is limited, or a download is interrupted.",
+"Review credits, source information, editorial notes, publication details, and rights metadata before adding or publishing any new collection.",
+"Treat successful technical validation as separate from editorial verification; schema-valid hymn text may still contain source or transcription errors."
+],
+"url": "https://github.com/Guang84/RongmeiHymnal"
+},
+"guide": {
+"title": "Run, install, maintain, and review Rongmei Hymnal",
+"summary": "Run the static application through an HTTP server, test the searchable library locally, install the HTTPS deployment as a PWA, explicitly download songbook data for offline use, and validate both structured data and editorial corrections before release.",
+"audience": "Readers, maintainers, contributors, community reviewers, and developers working with the Rongmei Hymnal application or its song collections.",
+"url": "https://github.com/Guang84/RongmeiHymnal",
+"prerequisites": [
+"A modern web browser",
+"Python 3 or another static HTTP server for local development",
+"HTTPS hosting for production PWA and service-worker behaviour",
+"Python 3 for repository extraction, build, and validation utilities",
+"Access to appropriate source material when reviewing or correcting hymn text"
+],
+"steps": [
+"Clone the repository and start a static HTTP server from the project root instead of opening the application directly through file://.",
+"Open http://localhost:8000 and confirm that the library registry loads all expected collections.",
+"Search across multiple collections and open individual songs to verify browsing, focused reading, settings, favourites, history, and presentation behaviour.",
+"When editing hymn content, compare the proposed correction against available source material and avoid guessing at uncertain wording.",
+"Update the appropriate collection data and metadata while retaining useful provenance, attribution, editorial, and rights information.",
+"Run the repository build and validation tools after changes to structured song data or metadata.",
+"For installation testing, open the HTTPS deployment in a supported browser and choose Install app or Add to Home Screen.",
+"Use Download for offline to store the registered library, monitor progress and storage status, and wait for completion before disconnecting.",
+"Disconnect networking and verify that downloaded collections remain searchable and readable after reopening the application.",
+"Reconnect and verify that application and songbook version changes are detected and refreshed without unnecessarily replacing unchanged content.",
+"Review the usage policy and individual collection rights information before redistributing lyrics, editions, translations, arrangements, recordings, or artwork."
+],
+"command": "git clone https://github.com/Guang84/RongmeiHymnal.git\ncd RongmeiHymnal\npython3 -m http.server 8000",
+"verification": [
+"All three registered songbooks load with their expected song counts",
+"Search and reading views operate correctly at phone, tablet, desktop, and presentation widths",
+"Favourites, history, and reading preferences persist locally as intended",
+"The application is installable from its HTTPS deployment in supported browsers",
+"A completed offline download remains usable after disconnecting and reopening the application",
+"Updated collection versions are detected after connectivity returns",
+"Structured data passes repository validation checks",
+"Editorially corrected songs have been checked against an identifiable source rather than corrected only by assumption"
+],
+"troubleshooting": [
+"Do not use file:// when testing service workers, installation, or offline behaviour; serve the repository through HTTP locally.",
+"If PWA installation is unavailable, confirm that the production deployment uses HTTPS and that the browser supports installation.",
+"If songs are unavailable offline, reconnect and complete the explicit in-app library download before disconnecting.",
+"If storage is not persistent, remember that browser quota and persistence are controlled partly by the browser and operating system.",
+"If an imported song looks incorrect, inspect the legacy source and extraction behaviour before assuming the displayed text should be edited manually.",
+"If a correction cannot be verified confidently, retain the existing source relationship and record the uncertainty rather than introducing an undocumented replacement.",
+"If collection counts or versions disagree, treat data/songbooks/index.json and the corresponding collection metadata as part of the release validation process."
+]
+},
+"pageNote": "This case study documents both the technical system and the ongoing preservation work behind Rongmei Hymnal. The application is deployed and functional, while hymn transcription, spelling, punctuation, metadata, and legacy-source inconsistencies continue to be reviewed and corrected. Technical validation therefore does not imply that every published hymn record is a final or authoritative editorial edition.",
+"publicationStatus": "published",
+"featured": false
+}

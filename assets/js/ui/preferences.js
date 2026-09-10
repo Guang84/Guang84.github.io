@@ -22,7 +22,7 @@ function effectiveTheme(root) {
 
 function updateThemeColor(theme) {
   const meta = document.querySelector('meta[name="theme-color"]');
-  if (meta) meta.content = theme === 'dark' ? '#0d1c15' : '#f6f3ec';
+  if (meta) meta.content = getComputedStyle(document.documentElement).getPropertyValue('--bg').trim();
 }
 
 function updateThemeButton(button, theme) {
@@ -37,6 +37,26 @@ function updateThemeButton(button, theme) {
 
 export function initPreferences() {
   const root = document.documentElement;
+  const palettes = ['sage', 'ocean', 'orchid', 'ember'];
+  const storedPalette = getPref('glab-palette', '');
+  if (palettes.includes(storedPalette)) root.dataset.palette = storedPalette;
+  const palette = document.createElement('button');
+  palette.type = 'button';
+  palette.className = 'icon-button palette-toggle';
+  palette.textContent = '◈';
+  const updatePalette = () => {
+    const current = root.dataset.palette || 'sage';
+    palette.setAttribute('aria-label', `Color palette: ${current}. Change palette`);
+    palette.title = palette.getAttribute('aria-label');
+  };
+  updatePalette();
+  document.addEventListener('glab:appearance-updated', updatePalette);
+  palette.addEventListener('click', () => {
+    root.dataset.palette = palettes[(palettes.indexOf(root.dataset.palette || 'sage') + 1) % palettes.length];
+    setPref('glab-palette', root.dataset.palette);
+    updatePalette();
+  });
+  document.querySelector('[data-theme-toggle]')?.after(palette);
   const storedSize = getPref('glab-font-size', 'medium');
   applySize(root, storedSize);
 

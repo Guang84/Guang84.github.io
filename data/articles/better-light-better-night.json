@@ -1,0 +1,89 @@
+{
+  "$schema": "../schemas/article.schema.json",
+  "id": "better-light-better-night",
+  "title": "Better light begins by protecting the dark",
+  "date": "2026-09-06",
+  "updated": "2026-09-06",
+  "readTime": "5 min read",
+  "excerpt": "How careful placement, shielding, warm colour, dimming, and simple controls can make outdoor lighting more useful to people and less disruptive to wildlife.",
+  "url": "https://www.nps.gov/subjects/nightskies/outdoor-lighting-principles.htm",
+  "tags": [
+    "Nature",
+    "Outdoor lighting",
+    "Energy efficiency"
+  ],
+  "sections": [
+    {
+      "label": "The design problem",
+      "title": "More light is not the same as better sight.",
+      "paragraphs": [
+        "Outdoor light is valuable when it reveals a step, entrance, path, or work area. It becomes waste when it shines into the sky, across a property boundary, through a bedroom window, or throughout hours when nobody needs it. Excessive brightness can also create glare and sharp contrast, making darker areas harder to see.",
+        "Wildlife can respond to very low light levels, and the effect depends on intensity, colour, direction, duration, and timing. A good design therefore begins with the task and the place, including nearby vegetation, water, nesting or feeding areas, neighbours, and the view of the sky."
+      ],
+      "links": [
+        {
+          "label": "UK government guidance on light pollution",
+          "url": "https://www.gov.uk/guidance/light-pollution"
+        }
+      ]
+    },
+    {
+      "label": "Five principles",
+      "title": "Useful light has boundaries.",
+      "paragraphs": [
+        "The United States National Park Service summarizes responsible outdoor lighting with five principles: light should be necessary, directed only where needed, used only when needed, no brighter than necessary, and warmer in colour when possible. These principles work at the scale of a porch, farmyard, workshop, road, or public building.",
+        "Shielding is often the highest-value improvement because it changes where the light goes. A fully shielded fixture sends light downward instead of exposing the lamp to the sky and distant eyes. Mounting height and angle matter too: a modest light close to the task can outperform a brighter source mounted high and aimed broadly."
+      ],
+      "points": [
+        "Use light only for a defined task.",
+        "Aim it downward and keep it within the target area.",
+        "Choose the lowest brightness that lets people perform the task.",
+        "Use a timer, curfew, or well-aimed motion control when continuous light is unnecessary.",
+        "Prefer warm or amber light, especially near sensitive habitat."
+      ],
+      "links": [
+        {
+          "label": "National Park Service outdoor lighting principles",
+          "url": "https://www.nps.gov/subjects/nightskies/outdoor-lighting-principles.htm"
+        },
+        {
+          "label": "US Department of Energy responsible lighting principles",
+          "url": "https://www.energy.gov/cmei/ssl/articles/next-steps-five-principles-responsible-outdoor-lighting"
+        }
+      ]
+    },
+    {
+      "label": "Smart controls",
+      "title": "Automation should make darkness the normal state.",
+      "paragraphs": [
+        "A connected lamp is not automatically an intelligent system. The meaningful features are scheduling, dimming, occupancy response, local manual control, and a clear fallback when a sensor or network fails. Configure the default to off or dim, not full brightness all night.",
+        "Motion sensors need a narrow detection area and a short, tested timeout. If branches, animals, traffic, or rain trigger the light repeatedly, automation can consume more energy and disturb more habitat than a simple schedule. Review the event history if the system provides one, and keep controls usable without a cloud account whenever possible."
+      ],
+      "points": [
+        "Set an evening brightness and a lower late-night level.",
+        "Aim sensors at the path people use, not the road or surrounding vegetation.",
+        "Choose a short timeout, then extend it only if people genuinely need more time.",
+        "Provide an obvious manual override for emergencies and maintenance.",
+        "Recheck settings after seasonal vegetation and daylight change."
+      ]
+    },
+    {
+      "label": "A night audit",
+      "title": "Walk beyond the property line and look back.",
+      "paragraphs": [
+        "After dark, inspect each fixture from the task area, the boundary, nearby windows, and—where safe—from farther away. If the bright source itself is visible, improve shielding or angle. If a surface is far brighter than necessary, dim it. If nobody uses the area, switch it off and see what is actually lost.",
+        "Photographs can document before and after conditions, but phone cameras automatically adjust exposure and are poor light meters. Use them to compare obvious spill and glare from the same position, not to claim precise brightness. Ask neighbours whether the change improved their view as well as yours."
+      ]
+    },
+    {
+      "label": "The larger idea",
+      "title": "Technology can protect what it usually erases.",
+      "paragraphs": [
+        "The aim is not to make human places unsafe or unusable. It is to provide light where it earns its place and darkness everywhere else. A shield, a dimmer, and a timer are small technologies, but together they can save energy, reduce intrusion, preserve the night sky, and leave more of the night available to the life that depends on it."
+      ]
+    }
+  ],
+  "kind": "Article",
+  "publicationStatus": "published",
+  "featured": false
+}

@@ -1,0 +1,22 @@
+# OS and editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs and local backups
+*.log
+.glab-*-backup-*/
+
+# Python/local tooling
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Local draft and generated output
+data/drafts/
+pending.txt
+_site/
+scripts/
+requirements.txt
