@@ -24,7 +24,6 @@ The next generation of the Network Analyzer project, focused on wireless securit
 
 [View the GLab project page →](https://guang84.github.io/projects/?id=network-analyzer-v2026)
 
-╔═══════════════════════════════════════════════════════════╗
 
     ║█████████║         ║█████║        ║██████████████████║
     ║██████████║        ║█████║       ║█████████████████████║
@@ -39,8 +38,6 @@ The next generation of the Network Analyzer project, focused on wireless securit
     ║██████║         █████████║   █   ║█████║        ║██████║
 
                    NETWORK ANALYZER v2026.08.21
-
-╚═══════════════════════════════════════════════════════════╝
 
 #### Available Tools
 
