@@ -18,5 +18,4 @@ __pycache__/
 data/drafts/
 pending.txt
 _site/
-scripts/build_content.py
 docs/
