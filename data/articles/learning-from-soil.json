@@ -1,0 +1,48 @@
+{
+  "$schema": "../schemas/article.schema.json",
+  "id": "learning-from-soil",
+  "title": "What the soil taught the sensor",
+  "date": "2026-08-18",
+  "updated": "2026-09-04",
+  "readTime": "5 min read",
+  "excerpt": "Field notes on calibration, false precision, and why a farmer’s hand can be the best instrument in the loop.",
+  "url": "https://websoilsurvey.nrcs.usda.gov/",
+  "tags": [
+    "Soil",
+    "Field testing",
+    "Sustainability"
+  ],
+  "sections": [
+    {
+      "label": "Field note 01",
+      "title": "Numbers arrive with confidence they have not earned.",
+      "paragraphs": [
+        "My first moisture graph looked wonderfully precise. It was also misleading. The sensor was consistent in one pot and wildly different two metres away, where the soil held more clay.",
+        "The lesson was not to abandon measurement. It was to place measurement back into context."
+      ],
+      "links": [
+        {
+          "label": "USDA Web Soil Survey",
+          "url": "https://websoilsurvey.nrcs.usda.gov/"
+        }
+      ]
+    },
+    {
+      "label": "Field note 02",
+      "title": "Calibration became a conversation.",
+      "paragraphs": [
+        "We began recording what the sensor said beside what the soil felt like, what had been planted, and what the previous day’s weather had done. Those annotations became more valuable than another decimal place."
+      ]
+    },
+    {
+      "label": "Takeaway",
+      "title": "Build instruments that invite knowledge in.",
+      "paragraphs": [
+        "A useful field tool should make local expertise more visible, not quietly replace it. The next version treats observations as first-class data beside every reading."
+      ]
+    }
+  ],
+  "kind": "Field note",
+  "publicationStatus": "published",
+  "featured": false
+}

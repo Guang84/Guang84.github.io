@@ -1,0 +1,260 @@
+[
+  {
+    "id": "network-analyzer-v2024",
+    "summary": "A Linux Bash-based educational network analysis toolkit for authorized wireless security testing, monitor-mode operation, network discovery, handshake capture, network monitoring, vulnerability testing, and password-auditing workflows.",
+    "tags": [
+      "bash",
+      "linux",
+      "wireless-security",
+      "network-monitoring",
+      "aircrack-ng",
+      "wifi-security",
+      "python"
+    ],
+    "type": "Project",
+    "title": "Network Analyzer v2024.06.24",
+    "url": "/projects/?id=network-analyzer-v2024"
+  },
+  {
+    "id": "network-analyzer-v2024",
+    "summary": "Prepare a compatible Linux host and wireless adapter, install the required Aircrack-ng/MDK utilities, run the Bash tool as root, confirm the detected interface, and use only the functions permitted by the assessment scope.",
+    "tags": [
+      "bash",
+      "linux",
+      "wireless-security",
+      "network-monitoring",
+      "aircrack-ng",
+      "wifi-security",
+      "python"
+    ],
+    "type": "Project guide",
+    "title": "Authorized operator quick guide",
+    "url": "/projects/?id=network-analyzer-v2024#guide"
+  },
+  {
+    "id": "network-analyzer-v2026",
+    "summary": "A Linux terminal toolkit for authorized wireless assessment, passive network monitoring, scan analysis, reporting, and explainable anomaly detection using locally learned baselines.",
+    "tags": [
+      "Python",
+      "Linux",
+      "Wireless security",
+      "Network monitoring",
+      "Anomaly detection",
+      "SQLite",
+      "Scikit-learn"
+    ],
+    "type": "Project",
+    "title": "Network-Analyzer-v2026-08-21",
+    "url": "/projects/?id=network-analyzer-v2026"
+  },
+  {
+    "id": "network-analyzer-v2026",
+    "summary": "Prepare the local Python environment, review the authorized assessment scope, run read-only diagnostics, select the intended adapter, and begin with passive discovery or saved-data analysis before considering active wireless operations.",
+    "tags": [
+      "Python",
+      "Linux",
+      "Wireless security",
+      "Network monitoring",
+      "Anomaly detection",
+      "SQLite",
+      "Scikit-learn"
+    ],
+    "type": "Project guide",
+    "title": "Set up Network Analyzer safely",
+    "url": "/projects/?id=network-analyzer-v2026#guide"
+  },
+  {
+    "id": "noney-bsnl-broadband-nms",
+    "summary": "An independently developed broadband operations platform that centralized customer service, network monitoring, infrastructure planning, mapping, and administrative workflows for a rural BSNL franchise.",
+    "tags": [
+      "JavaScript",
+      "Python",
+      "GPON",
+      "Operations"
+    ],
+    "type": "Project",
+    "title": "Noney BSNL Broadband NMS",
+    "url": "/projects/?id=noney-bsnl-broadband-nms"
+  },
+  {
+    "id": "noney-bsnl-broadband-nms",
+    "summary": "Run the public static gateway and documentation locally without requiring the retired production server or any private customer and infrastructure data.",
+    "tags": [
+      "JavaScript",
+      "Python",
+      "GPON",
+      "Operations"
+    ],
+    "type": "Project guide",
+    "title": "Explore the Noney Broadband NMS showcase",
+    "url": "/projects/?id=noney-bsnl-broadband-nms#guide"
+  },
+  {
+    "id": "rongmei-hymnal",
+    "summary": "An installable, offline-first digital hymnal and preservation project bringing 1,271 songs from three Rongmei and community song collections into one searchable reading space. The application is actively deployed while hymn text, metadata, and legacy-source inconsistencies are being reviewed and corrected progressively for greater accuracy.",
+    "tags": [
+      "JavaScript",
+      "PWA",
+      "Offline-first",
+      "Accessibility",
+      "Digital preservation",
+      "Community technology"
+    ],
+    "type": "Project",
+    "title": "Rongmei Hymnal",
+    "url": "/projects/?id=rongmei-hymnal"
+  },
+  {
+    "id": "rongmei-hymnal",
+    "summary": "Run the static application through an HTTP server, test the searchable library locally, install the HTTPS deployment as a PWA, explicitly download songbook data for offline use, and validate both structured data and editorial corrections before release.",
+    "tags": [
+      "JavaScript",
+      "PWA",
+      "Offline-first",
+      "Accessibility",
+      "Digital preservation",
+      "Community technology"
+    ],
+    "type": "Project guide",
+    "title": "Run, install, maintain, and review Rongmei Hymnal",
+    "url": "/projects/?id=rongmei-hymnal#guide"
+  },
+  {
+    "id": "ssh-fleet-doctor",
+    "summary": "An evolving SSH administration and server-health toolkit combining Bash automation with a Python/Paramiko monitor for authorized remote systems.",
+    "tags": [
+      "Shell",
+      "Python",
+      "SSH",
+      "Server monitoring"
+    ],
+    "type": "Project",
+    "title": "SSH Fleet Doctor",
+    "url": "/projects/?id=ssh-fleet-doctor"
+  },
+  {
+    "id": "ssh-fleet-doctor",
+    "summary": "Prepare the Bash and Python tooling against a disposable or explicitly authorized SSH test host before considering operational use.",
+    "tags": [
+      "Shell",
+      "Python",
+      "SSH",
+      "Server monitoring"
+    ],
+    "type": "Project guide",
+    "title": "Set up SSH Fleet Doctor safely",
+    "url": "/projects/?id=ssh-fleet-doctor#guide"
+  },
+  {
+    "type": "Article",
+    "id": "buying-laptop-2026-specs-guide",
+    "title": "Buying a laptop in 2026 requires more than checking whether it has a high-end processor",
+    "summary": "A Core Ultra 7 or Ryzen 7 badge does not tell you how fast a laptop really is. Processor generation and suffix, GPU power limits, VRAM, RAM type and channel configuration, SSD technology, cooling, display quality, battery capacity, and upgradeability can matter just as much as the headline CPU name.",
+    "tags": [
+      "Laptop buying guide",
+      "Computer hardware",
+      "Processors",
+      "Graphics cards",
+      "RAM",
+      "SSD",
+      "Technology",
+      "2026"
+    ],
+    "url": "/articles/?id=buying-laptop-2026-specs-guide"
+  },
+  {
+    "type": "Article",
+    "id": "right-sized-ai",
+    "title": "The most responsible AI may be the smallest one that works",
+    "summary": "A decision framework for using AI where it creates real value, choosing the lightest capable system, and keeping people accountable for the result.",
+    "tags": [
+      "Artificial intelligence",
+      "Energy",
+      "Responsible design"
+    ],
+    "url": "/articles/?id=right-sized-ai"
+  },
+  {
+    "type": "Article",
+    "id": "repair-before-replace",
+    "title": "The greenest upgrade may be the one you do not buy",
+    "summary": "A practical path for keeping electronics useful longer, protecting personal data, and sending truly finished devices into responsible reuse or recycling.",
+    "tags": [
+      "Repair",
+      "E-waste",
+      "Circular technology"
+    ],
+    "url": "/articles/?id=repair-before-replace"
+  },
+  {
+    "type": "Article",
+    "id": "passkeys-and-the-human-side-of-security",
+    "title": "Passkeys move security closer to how people actually live",
+    "summary": "A practical guide to phishing-resistant sign-in, safer account recovery, and the human habits that still matter after passwords begin to disappear.",
+    "tags": [
+      "Cybersecurity",
+      "Passkeys",
+      "Digital safety"
+    ],
+    "url": "/articles/?id=passkeys-and-the-human-side-of-security"
+  },
+  {
+    "type": "Article",
+    "id": "better-light-better-night",
+    "title": "Better light begins by protecting the dark",
+    "summary": "How careful placement, shielding, warm colour, dimming, and simple controls can make outdoor lighting more useful to people and less disruptive to wildlife.",
+    "tags": [
+      "Nature",
+      "Outdoor lighting",
+      "Energy efficiency"
+    ],
+    "url": "/articles/?id=better-light-better-night"
+  },
+  {
+    "type": "Article",
+    "id": "soil-sensors-need-ground-truth",
+    "title": "A soil sensor is a question, not an answer",
+    "summary": "How growers can combine moisture sensors, field observation, weather, and simple records to irrigate with more confidence and less false precision.",
+    "tags": [
+      "Sustainable farming",
+      "Soil moisture",
+      "Field technology"
+    ],
+    "url": "/articles/?id=soil-sensors-need-ground-truth"
+  },
+  {
+    "type": "Field note",
+    "id": "learning-from-soil",
+    "title": "What the soil taught the sensor",
+    "summary": "Field notes on calibration, false precision, and why a farmer’s hand can be the best instrument in the loop.",
+    "tags": [
+      "Soil",
+      "Field testing",
+      "Sustainability"
+    ],
+    "url": "/articles/?id=learning-from-soil"
+  },
+  {
+    "type": "Article",
+    "id": "responsible-ai",
+    "title": "Responsible AI begins before the model",
+    "summary": "A practical framework for deciding whether an AI system should exist, what it should optimize, and who gets to question it.",
+    "tags": [
+      "Responsible AI",
+      "Design",
+      "Governance"
+    ],
+    "url": "/articles/?id=responsible-ai"
+  },
+  {
+    "type": "Article",
+    "id": "security-is-care",
+    "title": "Security is a form of care",
+    "summary": "Moving beyond fear-driven security toward systems that respect attention, dignity, and ordinary human behavior.",
+    "tags": [
+      "Cybersecurity",
+      "Human-centered design"
+    ],
+    "url": "/articles/?id=security-is-care"
+  }
+]

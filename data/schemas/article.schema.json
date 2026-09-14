@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://guang84.github.io/data/schemas/article.schema.json",
+  "title": "GLab article record",
+  "$ref": "articles.schema.json#/$defs/article"
+}

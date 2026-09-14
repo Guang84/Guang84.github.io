@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "41ee6e1e07ca384a",
+  "updated": "2026-09-10",
+  "files": [
+    "network-analyzer-v2024.json",
+    "network-analyzer-v2026.json",
+    "noney-bsnl-broadband-nms.json",
+    "rongmei-hymnal.json",
+    "ssh-fleet-doctor.json"
+  ]
+}

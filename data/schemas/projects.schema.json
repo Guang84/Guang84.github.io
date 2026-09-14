@@ -1,0 +1,314 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://guang84.github.io/data/schemas/projects.schema.json",
+  "title": "GLab project catalog",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "contentVersion",
+    "updated",
+    "files"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "schemaVersion": {
+      "const": 1
+    },
+    "contentVersion": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{16}$"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date"
+    },
+    "files": {
+      "type": "array",
+      "minItems": 0,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*\\.json$"
+      }
+    }
+  },
+  "$defs": {
+    "stringArray": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "link": {
+      "type": "object",
+      "required": [
+        "url"
+      ],
+      "properties": {
+        "label": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    },
+    "section": {
+      "type": "object",
+      "required": [
+        "title"
+      ],
+      "properties": {
+        "label": {
+          "type": "string"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "content": {
+          "type": "string"
+        },
+        "paragraphs": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "items": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "points": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "callout": {
+          "type": "string"
+        },
+        "links": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/link"
+          }
+        }
+      },
+      "additionalProperties": false,
+      "anyOf": [
+        {
+          "required": [
+            "content"
+          ]
+        },
+        {
+          "required": [
+            "paragraphs"
+          ]
+        },
+        {
+          "required": [
+            "items"
+          ]
+        },
+        {
+          "required": [
+            "points"
+          ]
+        },
+        {
+          "required": [
+            "links"
+          ]
+        }
+      ]
+    },
+    "project": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "title",
+        "category",
+        "year",
+        "status",
+        "summary",
+        "publicationStatus",
+        "featured",
+        "sections"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1
+        },
+        "year": {
+          "type": "integer",
+          "minimum": 1900,
+          "maximum": 2200
+        },
+        "status": {
+          "type": "string",
+          "minLength": 1
+        },
+        "summary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "publicationStatus": {
+          "enum": [
+            "draft",
+            "published"
+          ]
+        },
+        "featured": {
+          "type": "boolean"
+        },
+        "tags": {
+          "$ref": "#/$defs/stringArray"
+        },
+        "colors": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": {
+            "type": "string",
+            "pattern": "^#[0-9a-fA-F]{6}$"
+          }
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/section"
+          },
+          "minItems": 1
+        },
+        "architecture": {
+          "type": "object",
+          "required": [
+            "title",
+            "summary"
+          ],
+          "properties": {
+            "title": {
+              "type": "string",
+              "minLength": 1
+            },
+            "summary": {
+              "type": "string",
+              "minLength": 1
+            },
+            "url": {
+              "type": "string"
+            },
+            "steps": {
+              "$ref": "#/$defs/stringArray"
+            }
+          },
+          "additionalProperties": false
+        },
+        "validation": {
+          "type": "object",
+          "required": [
+            "title",
+            "summary"
+          ],
+          "properties": {
+            "title": {
+              "type": "string",
+              "minLength": 1
+            },
+            "summary": {
+              "type": "string",
+              "minLength": 1
+            },
+            "url": {
+              "type": "string"
+            },
+            "checks": {
+              "$ref": "#/$defs/stringArray"
+            }
+          },
+          "additionalProperties": false
+        },
+        "guide": {
+          "type": "object",
+          "required": [
+            "title",
+            "summary"
+          ],
+          "properties": {
+            "title": {
+              "type": "string",
+              "minLength": 1
+            },
+            "summary": {
+              "type": "string",
+              "minLength": 1
+            },
+            "url": {
+              "type": "string"
+            },
+            "command": {
+              "type": "string"
+            },
+            "audience": {
+              "type": "string"
+            },
+            "prerequisites": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "steps": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "verification": {
+              "$ref": "#/$defs/stringArray"
+            },
+            "troubleshooting": {
+              "$ref": "#/$defs/stringArray"
+            }
+          },
+          "additionalProperties": false
+        },
+        "repository": {
+          "type": "object",
+          "properties": {
+            "url": {
+              "type": "string"
+            },
+            "branch": {
+              "type": "string"
+            },
+            "license": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": false
+        },
+        "url": {
+          "type": "string"
+        },
+        "demoUrl": {
+          "type": "string"
+        },
+        "pageNote": {
+          "type": "string"
+        },
+        "$schema": {
+          "type": "string"
+        },
+        "updated": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    }
+  }
+}
