@@ -1,10 +1,10 @@
 {
   "$schema": "../schemas/project.schema.json",
   "id": "network-analyzer-v2026",
-  "title": "Network Analyzer v2026",
+  "title": "Network Analyzer v2026.08.21",
   "category": "Wireless Security & Network Monitoring",
   "year": 2026,
-  "status": "Active development",
+  "status": "Release",
   "summary": "A Linux terminal toolkit for authorized wireless discovery, passive monitoring, scan analysis, reporting, and explainable anomaly detection using locally learned baselines.",
   "url": "https://github.com/Guang84/Network-Analyzer",
   "tags": ["Python", "Linux", "Wireless security", "Network monitoring", "Anomaly detection", "SQLite", "Scikit-learn"],
