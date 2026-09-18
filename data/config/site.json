@@ -58,7 +58,7 @@
     {
       "label": "Buying Laptop 2026 Specs Guide",
       "description": "A detailed guide to help you choose the right laptop for your needs in 2026.",
-      "url": "/articles/?id=buying-laptop-2026-specs-guide",
+      "url": "data/content/articles/buying-laptop-2026-specs-guide.html",
       "kind": "Guide"
     },
     {
@@ -78,7 +78,45 @@
       "description": "A Linux terminal toolkit for authorized wireless assessment, passive network monitoring, scan analysis, reporting, and explainable anomaly detection using locally learned baselines.",
       "url": "/projects/?id=network-analyzer-v2026",
       "kind": "Tooling · authorized network testing"
+    },
+    {
+      "label": "Rongmei Hymnal Webapp doc",
+      "description": "content",
+      "url": "/data/content/projects/rongmei-hymnal.html",
+      "kind": "content"
+    },
+    {
+      "label": "BSNL Broadband Franchise NMS doc",
+      "description": "content",
+      "url": "/data/content/projects/noney-bsnl-broadband-nms.html",
+      "kind": "content"
+    },
+    {
+      "label": "Network Analyzer 2026 Tool doc",
+      "description": "content",
+      "url": "/data/content/projects/network-analyzer-v2026.html",
+      "kind": "content"
+    },
+    {
+      "label": "ssh fleet doctor",
+      "description": "A tool for diagnosing and reporting on the health of a fleet of Linux servers.",
+      "url": "/data/content/projects/ssh-fleet-doctor.html",
+      "kind": "Tooling · authorized server fleet testing"
+    },
+    {
+      "label": "passkey and the human side ",
+      "description": "A technical article on the human side of security and passkey authentication.",
+      "url": "/data/content/articles/passkeys-and-the-human-side-of-security.html",
+      "kind": "Technical article"
+    },
+    {
+      "label": "security is care",
+      "description": "A technical article on the importance of care in security practices.",
+      "url": "/data/content/articles/security-is-care.html",
+      "kind": "Technical article" 
     }
+
+
   ],
   "appearance": {
     "palette": "sage"
