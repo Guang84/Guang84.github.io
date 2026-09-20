@@ -23,6 +23,22 @@
     "license": "Not specified"
   },
   "demoUrl": "https://guang84.github.io/Noney-BSNL-Broadband-NMS/",
+  "media": [
+    {
+      "src": "/assets/projects/noney-bsnl-broadband-nms/dashboard.png",
+      "alt": "Broadband NMS dashboard showing server health and issue summary panels",
+      "caption": "Dashboard screenshot from the public showcase repository; no customer records or credentials are shown.",
+      "width": 1920,
+      "height": 920
+    },
+    {
+      "src": "/assets/projects/noney-bsnl-broadband-nms/admin-tools.png",
+      "alt": "Broadband NMS administrative tools page with links to operational utilities",
+      "caption": "Administrative tools overview preserved in the public portfolio repository.",
+      "width": 1874,
+      "height": 923
+    }
+  ],
   "sections": [
     {
       "label": "Context",
@@ -85,7 +101,7 @@
   },
   "validation": {
     "title": "Noney Broadband NMS portfolio verification",
-    "summary": "Checks for the public gateway and documentary evidence of a completed, production-tested, now-retired operational platform.",
+    "summary": "Verified from the public checkout on September 20, 2026: all JavaScript files passed Node syntax checks, redirect-config.json and messages.json parsed successfully, and a targeted scan found no populated password, token, secret, or API-key assignments. This validates the public showcase files, not the retired private production application.",
     "checks": [
       "Serve the repository locally and verify the gateway, maintenance state, error page, icons, messages, and screenshots load without the production backend.",
       "Validate redirect-config.json syntax and ensure public builds contain only demonstration endpoints—not private tunnel, server, or infrastructure addresses.",

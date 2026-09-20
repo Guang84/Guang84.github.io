@@ -84,7 +84,7 @@
   },
   "validation": {
     "title": "SSH Fleet Doctor preflight checks",
-    "summary": "Static and disposable-host checks for the public Bash and Python clients before any authorized operational trial.",
+    "summary": "Verified from the public checkout on September 20, 2026: Bash syntax checks passed for SETUP.sh and SSH_Infiltrator.sh, and python/SSH_Intruder.py compiled successfully. No remote host was contacted, so connection, monitoring, transfer, and administrative behavior remain unverified and must be tested only against a disposable or explicitly authorized host.",
     "checks": [
       "Run bash -n against SETUP.sh and SSH_Infiltrator.sh, and compile-check python/SSH_Intruder.py without connecting to a host.",
       "Create the virtual environment and confirm Paramiko imports successfully from the activated environment.",

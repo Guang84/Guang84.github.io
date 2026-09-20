@@ -25,6 +25,15 @@
 "license": "Apache-2.0 software license"
 },
 "demoUrl": "https://guang84.github.io/RongmeiHymnal/",
+"media": [
+{
+"src": "/assets/projects/rongmei-hymnal/library-home.png",
+"alt": "Rongmei Hymnal library homepage with its introductory text and digital songbook artwork",
+"caption": "Homepage rendered locally from the public repository on September 20, 2026. The library reports three songbooks and 1,271 songs.",
+"width": 1440,
+"height": 1000
+}
+],
 "sections": [
 {
 "label": "Purpose",
@@ -155,11 +164,11 @@
 },
 "validation": {
 "title": "Rongmei Hymnal technical and editorial release checklist",
-"summary": "Validation covers both application reliability and the separate problem of hymn-content accuracy. Automated schema checks can verify structure, but spelling, transcription, attribution, and source discrepancies still require editorial review.",
+"summary": "Verified from public commit b0be8a98160f on September 20, 2026: the three registry entries resolve to 305, 930, and 36 song records, matching the declared total of 1,271. Core JavaScript files passed syntax checks and the public JSON files parsed successfully. These structural checks do not verify lyric spelling, transcription, attribution, or rights; those still require source-based editorial review.",
 "checks": [
 "Confirm every registered collection directory, metadata path, semantic version, identifier, and song count agrees with data/songbooks/index.json.",
-"Run repository build and validation tools after changing song data, metadata, extraction logic, or the songbook registry.",
-"Validate song and collection records against the project's JSON schemas and investigate every structural validation failure before publishing.",
+"Parse the registry, collection metadata, and song files as JSON after changing data or the songbook registry.",
+"Run JavaScript syntax checks and investigate every structural or runtime failure before publishing.",
 "Compare corrected hymn text against the best available source before replacing an existing transcription.",
 "Record or preserve sufficient source and editorial context when a correction involves uncertain spelling, punctuation, numbering, wording, attribution, or legacy formatting.",
 "Check imported Hymdaihlu records for duplicate-source behaviour, numbering continuity, title selection, encoding repair, and retained alternate index information.",

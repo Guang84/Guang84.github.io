@@ -3,14 +3,21 @@ export async function initAds() {
   const response = await fetch('/data/config/site.json', {cache: 'no-cache'});
   if (!response.ok) return;
   const {ads, appearance} = await response.json();
-  if (['sage', 'ocean', 'orchid', 'ember'].includes(appearance?.palette) && !getPref('glab-palette', '')) {
+  if (['cobalt', 'forest', 'terracotta', 'sage', 'ocean', 'orchid', 'ember'].includes(appearance?.palette) && !getPref('glab-palette', '')) {
     document.documentElement.dataset.palette = appearance.palette;
     document.dispatchEvent(new CustomEvent('glab:appearance-updated'));
   }
   if (!ads?.enabled || !/^ca-pub-\d{16}$/.test(ads.publisherId) || !['auto', 'manual'].includes(ads.mode)) return;
   const meta = document.querySelector('meta[name="google-adsense-account"]');
   if (meta) meta.content = ads.publisherId;
-  // Auto ads cover every shared page. Optional real slot IDs enable explicit placements.
+  // Utility, policy, error and catalogue screens do not carry advertising.
+  const path = location.pathname;
+  const staticContent = /^\/(?:content|data\/content)\/(?:articles|projects)\/[a-z0-9-]+\.html$/.test(path)
+    && !path.endsWith('/index.html');
+  const detailContent = /^\/(?:articles|projects)\/$/.test(path)
+    && document.querySelector('.detail-section');
+  if (!staticContent && !detailContent) return;
+  // Optional real slot IDs enable explicit placements.
   const main = document.querySelector('main');
   if (main && !main.querySelector('[data-ad-position]')) {
     const zone = document.createElement('aside');

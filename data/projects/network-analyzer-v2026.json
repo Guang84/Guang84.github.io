@@ -9,7 +9,7 @@
   "url": "https://github.com/Guang84/Network-Analyzer",
   "tags": ["Python", "Linux", "Wireless security", "Network monitoring", "Anomaly detection", "SQLite", "Scikit-learn"],
   "colors": ["#315f4b", "#b9d85a"],
-  "repository": {"url": "https://github.com/Guang84/Network-Analyzer", "branch": "main", "license": "Not declared"},
+  "repository": {"url": "https://github.com/Guang84/Network-Analyzer", "branch": "main", "license": "Apache-2.0"},
   "pageNote": "This page combines the Network Analyzer v2026 overview, architecture, capabilities, authorized-use boundary, setup guide, validation workflow, and source links in one case study.",
   "sections": [
     {"label": "Overview", "title": "Authorized wireless visibility through a local, inspectable toolkit.", "paragraphs": ["Network Analyzer is a Linux terminal application for authorized wireless discovery, local monitoring, saved-scan reporting, and investigation of unusual wireless behavior.", "The Bash launcher prepares a project-local Python environment and transfers execution to a Python dispatcher. Scans, reports, logs, learned patterns, incidents, and optional local ML models remain on the operator's machine."], "links": [{"label": "Full documentation and guide", "url": "https://guang84.github.io/projects/?id=network-analyzer-v2026"}, {"label": "Read the repository", "url": "https://github.com/Guang84/Network-Analyzer"}]},
@@ -36,7 +36,7 @@
   },
   "validation": {
     "title": "Offline regression and readiness validation",
-    "summary": "The included unit suite exercises parsing, report generation, monitor-state handling, dispatch, data persistence, and anomaly logic without requiring a wireless adapter or root. Live radio behavior must be tested only in an authorized lab.",
+    "summary": "Verified from a clean public checkout on September 20, 2026: 85 tests and 6 subtests passed without wireless hardware or root. Bash syntax and Python compilation also passed. The readiness diagnostic found the system tools it checks for and reported scikit-learn as the only missing optional Python package in the test environment. Live radio behavior was not exercised and belongs only in an authorized lab.",
     "checks": ["python3 -m compileall -q .", "python3 -m unittest discover -s tests -v", "bash -n network_analyzer.sh folderstruc.sh", "python3 interactive.py --doctor"],
     "url": "https://github.com/Guang84/Network-Analyzer/blob/main/docs/PROJECT_GUIDE.md#validation-and-testing"
   },

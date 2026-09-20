@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /data/config/
+Disallow: /data/content/
 Disallow: /data/drafts/
 Disallow: /data/templates/
 Sitemap: https://guang84.github.io/sitemap.xml

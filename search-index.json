@@ -33,7 +33,7 @@
   },
   {
     "id": "network-analyzer-v2026",
-    "summary": "A Linux terminal toolkit for authorized wireless assessment, passive network monitoring, scan analysis, reporting, and explainable anomaly detection using locally learned baselines.",
+    "summary": "A Linux terminal toolkit for authorized wireless discovery, passive monitoring, scan analysis, reporting, and explainable anomaly detection using locally learned baselines.",
     "tags": [
       "Python",
       "Linux",
@@ -44,12 +44,12 @@
       "Scikit-learn"
     ],
     "type": "Project",
-    "title": "Network-Analyzer-v2026-08-21",
+    "title": "Network Analyzer v2026.08.21",
     "url": "/projects/?id=network-analyzer-v2026"
   },
   {
     "id": "network-analyzer-v2026",
-    "summary": "Prepare the local Python environment, review the authorized assessment scope, run read-only diagnostics, select the intended adapter, and begin with passive discovery or saved-data analysis before considering active wireless operations.",
+    "summary": "Install dependencies, confirm the approved assessment scope, run readiness diagnostics, select an adapter, and begin with passive discovery or saved-data analysis.",
     "tags": [
       "Python",
       "Linux",
@@ -60,7 +60,7 @@
       "Scikit-learn"
     ],
     "type": "Project guide",
-    "title": "Set up Network Analyzer safely",
+    "title": "Authorized operator quick guide",
     "url": "/projects/?id=network-analyzer-v2026#guide"
   },
   {
@@ -256,5 +256,29 @@
       "Human-centered design"
     ],
     "url": "/articles/?id=security-is-care"
+  },
+  {
+    "type": "Guide",
+    "id": "start-here",
+    "title": "Start here",
+    "summary": "Find project documentation and choose a practical reading path through GLab.",
+    "tags": [],
+    "url": "/start-here.html"
+  },
+  {
+    "type": "Guide",
+    "id": "project-checklist",
+    "title": "Before you run a project",
+    "summary": "A practical checklist for evaluating a documented software project before a local trial.",
+    "tags": [],
+    "url": "/project-checklist.html"
+  },
+  {
+    "type": "Guide",
+    "id": "editorial-policy",
+    "title": "Editorial policy and corrections",
+    "summary": "How to interpret GLab project descriptions, sources, limitations and correction requests.",
+    "tags": [],
+    "url": "/editorial-policy.html"
   }
 ]

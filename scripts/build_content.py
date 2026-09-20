@@ -23,6 +23,9 @@ STATIC_PAGES = [
     ("contact.html", "contact.html"),
     ("privacy.html", "privacy.html"),
     ("terms.html", "terms.html"),
+    ("start-here.html", "start-here.html"),
+    ("project-checklist.html", "project-checklist.html"),
+    ("editorial-policy.html", "editorial-policy.html"),
 ]
 PUBLIC_SKIP_DIRS = {".git", ".github", ".agents", ".codex", "docs", "scripts", "_site"}
 PUBLIC_SKIP_FILES = {".gitignore", "pending.txt", "README.md", "requirements.txt"}
@@ -120,6 +123,9 @@ def build_search_index(projects: list[tuple[str, dict]], articles: list[tuple[st
             "tags": item.get("tags", []),
             "url": detail_url("articles", item["id"]),
         })
+    rows.append({'type': 'Guide', 'id': 'start-here', 'title': 'Start here', 'summary': 'Find project documentation and choose a practical reading path through GLab.', 'tags': [], 'url': '/start-here.html'})
+    rows.append({'type': 'Guide', 'id': 'project-checklist', 'title': 'Before you run a project', 'summary': 'A practical checklist for evaluating a documented software project before a local trial.', 'tags': [], 'url': '/project-checklist.html'})
+    rows.append({'type': 'Guide', 'id': 'editorial-policy', 'title': 'Editorial policy and corrections', 'summary': 'How to interpret GLab project descriptions, sources, limitations and correction requests.', 'tags': [], 'url': '/editorial-policy.html'})
     write_json(ROOT / "search-index.json", rows)
     return rows
 
@@ -181,7 +187,9 @@ def public_files() -> list[str]:
         rel = path.relative_to(ROOT)
         if rel.parts[0] in PUBLIC_SKIP_DIRS or rel.name in PUBLIC_SKIP_FILES:
             continue
-        if rel.parts[:2] == ("data", "templates"):
+        if rel.parts[:2] in {("data", "templates"), ("data", "content")}:
+            continue
+        if rel.parts[0] == "content" and rel.name == "index.html":
             continue
         files.append("/" + rel.as_posix())
     return files

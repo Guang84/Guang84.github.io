@@ -1,0 +1,53 @@
+<!doctype html><html lang="en"><head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/>
+<meta name="description" content="A practical checklist for evaluating a documented software project before a local trial."/>
+<meta name="author" content="Guang"/>
+<meta name="color-scheme" content="light dark"/>
+<meta name="theme-color" content="#0d1c15"/>
+<meta name="application-name" content="GLab"/>
+<script>(function(){try{var t=localStorage.getItem('glab-theme'),s=localStorage.getItem('glab-font-size');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;if(['small','medium','large'].includes(s))document.documentElement.dataset.fontSize=s;}catch(e){}})();</script>
+<meta name="google-adsense-account" content="ca-pub-6371342728710125"/>
+<title>Before you run a project — GLab</title>
+<link rel="canonical" href="https://guang84.github.io/project-checklist.html"/>
+<link rel="manifest" href="/manifest.webmanifest"/>
+<link rel="icon" href="/assets/brand/glab-mark-48.png" type="image/png" sizes="48x48"/>
+<link rel="icon" href="/assets/brand/glab-mark-32.png" type="image/png" sizes="32x32"/>
+<link rel="icon" href="/assets/brand/glab-mark-16.png" type="image/png" sizes="16x16"/>
+<link rel="apple-touch-icon" href="/assets/icons/apple-touch-180.png" sizes="180x180"/>
+<link rel="preload" href="/assets/brand/glab-mark-64.png" as="image" type="image/png"/>
+<link rel="alternate" type="application/rss+xml" title="GLab writing" href="/feed.xml"/>
+<meta property="og:type" content="website"/><meta property="og:site_name" content="GLab"/>
+<meta property="og:title" content="Before you run a project — GLab"/><meta property="og:description" content="A practical checklist for evaluating a documented software project before a local trial."/>
+<meta property="og:url" content="https://guang84.github.io/project-checklist.html"/><meta property="og:image" content="https://guang84.github.io/assets/social/glab-social.png"/>
+<meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image:alt" content="GLab by Guang"/>
+<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Before you run a project — GLab"/><meta name="twitter:description" content="A practical checklist for evaluating a documented software project before a local trial."/><meta name="twitter:image" content="https://guang84.github.io/assets/social/glab-social.png"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,600&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="/assets/css/main.css"/>
+
+</head><body><a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+<a class="brand" href="/" aria-label="GLab home"><img class="brand-logo" src="/assets/brand/glab-mark-64.png" width="41" height="41" alt="" decoding="async"/><span class="brand-label">GLab</span></a>
+<nav class="nav" aria-label="Primary"><a href="/projects/">Projects</a><a href="/articles/">Articles</a><a href="/about.html">About</a></nav>
+<div class="header-actions">
+<button class="icon-button search-toggle" data-search-toggle type="button" aria-label="Search GLab" aria-haspopup="dialog" aria-controls="search-dialog" title="Search (Ctrl/⌘ K)">⌕</button>
+<button class="icon-button font-control" data-font-step="-1" type="button" aria-label="Decrease text size" title="Decrease text size">A−</button>
+<button class="icon-button font-control" data-font-step="1" type="button" aria-label="Increase text size" title="Increase text size">A+</button>
+<button class="icon-button theme-toggle" data-theme-toggle type="button" aria-label="Switch color theme" aria-pressed="false" title="Switch color theme"><span data-theme-icon aria-hidden="true">◐</span></button>
+<button class="menu-toggle" data-menu-toggle type="button" aria-expanded="false" aria-controls="mobile-menu">Menu</button>
+</div>
+</header>
+<div class="menu-backdrop" data-menu-backdrop hidden></div>
+<div class="mobile-menu" id="mobile-menu" data-mobile-menu hidden><nav aria-label="Mobile"><a href="/projects/">Projects</a><a href="/articles/">Articles</a><a href="/about.html">About</a><button class="button-secondary" data-search-toggle type="button" aria-haspopup="dialog" aria-controls="search-dialog">Search</button></nav></div>
+<dialog class="search-dialog" id="search-dialog" data-search-dialog aria-labelledby="search-title"><div class="search-shell"><div class="search-head"><label><span class="sr-only" id="search-title">Search GLab</span><input type="search" data-global-search placeholder="Search projects, articles and project guides…" autocomplete="off"/></label><button class="search-close" data-search-close type="button" aria-label="Close search">×</button></div><p class="search-hint">Type to search · Enter opens the first result · Esc closes</p><div class="search-results" data-search-results aria-live="polite"></div></div></dialog><div class="sr-only" data-live-region aria-live="polite"></div><main class="legal-page" id="main"><p class="eyebrow">GLab reading resources</p><h1>Before you run a project</h1><p>A project description helps explain intent, but a successful trial needs a defined environment and an observable result. Use this worksheet with GLab’s project case studies to separate what the documentation says from what you have actually verified. It is a planning aid, not a claim that every project has passed these checks.</p>
+<h2>1. Define one question</h2><p>Choose a small question that can be answered in one session. For an offline library, ask whether a previously opened item remains readable after disconnecting. For a monitoring tool, ask whether it reports a known test host’s resource usage. “Is this production-ready?” is too broad for an initial trial because it combines reliability, access control, recovery and support.</p>
+<h2>2. Record the version and assumptions</h2><p>Open the source link in the case study and record the repository revision you intend to use. Note the operating system, runtime, required packages, privileges and external services. If a prerequisite is not documented, record it as an unanswered question instead of silently assuming a default. Instructions for a different revision may produce a different result.</p>
+<h2>3. Set a boundary and a way back</h2><p>Choose a disposable virtual machine, sample dataset or explicitly authorized test host. Keep personal data and production credentials out of the trial. Identify which actions can write files, change settings or contact another machine. Save the initial configuration and decide how you will remove test data, stop services and revoke temporary credentials.</p>
+<h2>4. Compare expected and observed behavior</h2><p>Write the expected result before running the test. Record the command or interface action, what happened, and enough context to repeat it. A successful exit code alone does not establish that the output is correct: compare it with a known input or an independent observation.</p><p>For example, when checking offline reading, first open a specific item online and record its title. Disconnect, reload the application and try that same item. Then try an item you never opened. Record both results separately; access to cached material does not establish that the entire library is available offline.</p>
+<h2>5. Try a controlled failure</h2><p>Within your test environment, check one failure such as an unavailable host, missing file or lost connection. Look for an understandable error and a safe recovery path. Avoid destructive testing on shared systems. If the failure leaves state behind, describe it and reset the environment before continuing.</p>
+<h2>A compact trial record</h2><ul><li>Question and expected result</li><li>Source revision and documentation URL</li><li>Environment and authorized scope</li><li>Inputs and steps</li><li>Observed output and any redacted evidence</li><li>Failure behavior, cleanup and unresolved questions</li></ul><p>Do not include passwords, tokens, subscriber information or private host details in a public report. A small reproducible example is more useful than a large unfiltered log.</p>
+<h2>Decide the next step</h2><p>If the observation matches the expected result, you have evidence for that specific scenario. Expand the trial gradually. If it does not, report the mismatch with the revision and reproduction steps. Start from <a href="/start-here.html">the reading guide</a> to choose a project, or <a href="/contact.html">send a documentation correction</a> when a page needs clarification.</p></main><footer><div class="footer-inner">
+<div><strong>GLab</strong><br><span class="eyebrow">Projects · Articles · Project guides</span></div>
+<div><a href="/start-here.html">Start here</a> · <a href="/project-checklist.html">Project checklist</a> · <a href="/editorial-policy.html">Editorial policy</a> · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a> · <a href="/contact.html">Contact</a> · <a href="https://github.com/Guang84" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div>
+</div></footer><script type="module" src="/assets/js/main.js"></script></body></html>

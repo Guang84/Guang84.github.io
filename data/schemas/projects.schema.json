@@ -183,6 +183,21 @@
             "pattern": "^#[0-9a-fA-F]{6}$"
           }
         },
+        "media": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["src", "alt"],
+            "properties": {
+              "src": {"type": "string", "pattern": "^/assets/"},
+              "alt": {"type": "string", "minLength": 1},
+              "caption": {"type": "string", "minLength": 1},
+              "width": {"type": "integer", "minimum": 1},
+              "height": {"type": "integer", "minimum": 1}
+            },
+            "additionalProperties": false
+          }
+        },
         "sections": {
           "type": "array",
           "items": {

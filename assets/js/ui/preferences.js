@@ -37,22 +37,25 @@ function updateThemeButton(button, theme) {
 
 export function initPreferences() {
   const root = document.documentElement;
-  const palettes = ['sage', 'ocean', 'orchid', 'ember'];
+  const palettes = ['cobalt', 'forest', 'terracotta'];
+  const aliases = {sage: 'forest', ocean: 'cobalt', orchid: 'cobalt', ember: 'terracotta'};
   const storedPalette = getPref('glab-palette', '');
-  if (palettes.includes(storedPalette)) root.dataset.palette = storedPalette;
+  if (palettes.includes(storedPalette) || aliases[storedPalette]) root.dataset.palette = aliases[storedPalette] || storedPalette;
   const palette = document.createElement('button');
   palette.type = 'button';
   palette.className = 'icon-button palette-toggle';
   palette.textContent = '◈';
   const updatePalette = () => {
-    const current = root.dataset.palette || 'sage';
+    const current = root.dataset.palette || 'cobalt';
+    palette.textContent = current.charAt(0).toUpperCase() + current.slice(1);
+    updateThemeColor(effectiveTheme(root));
     palette.setAttribute('aria-label', `Color palette: ${current}. Change palette`);
     palette.title = palette.getAttribute('aria-label');
   };
   updatePalette();
   document.addEventListener('glab:appearance-updated', updatePalette);
   palette.addEventListener('click', () => {
-    root.dataset.palette = palettes[(palettes.indexOf(root.dataset.palette || 'sage') + 1) % palettes.length];
+    root.dataset.palette = palettes[(palettes.indexOf(root.dataset.palette || 'cobalt') + 1) % palettes.length];
     setPref('glab-palette', root.dataset.palette);
     updatePalette();
   });

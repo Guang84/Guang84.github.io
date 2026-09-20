@@ -74,6 +74,23 @@ function facts(items) {
     el('div', {}, [el('span', { text: label }), el('strong', { text: String(value) })])));
 }
 
+function projectMedia(items = []) {
+  const figures = items.map((item) => {
+    const src = safeUrl(item?.src);
+    if (!src || !item?.alt) return null;
+    const image = el('img', {
+      src, alt: item.alt, loading: 'lazy', decoding: 'async',
+      width: item.width || 1600, height: item.height || 900
+    });
+    return el('figure', { className: 'project-media-item' }, [
+      image,
+      item.caption ? el('figcaption', { text: item.caption }) : null
+    ]);
+  }).filter(Boolean);
+  if (!figures.length) return null;
+  return el('section', { className: 'project-media', 'aria-label': 'Project screenshots' }, figures);
+}
+
 export function accentStyle(item) {
   const palettes = [['#5465db','#30b8aa'],['#ad4c73','#efbd64'],['#087b91','#80bd73'],['#825ac2','#76b7e5']];
   const seed = [...(item.category || item.kind || item.id || '')].reduce((sum, c) => sum + c.charCodeAt(0), 0);
@@ -121,6 +138,8 @@ function renderProject(project, root) {
     facts([['Status', project.status], ['Year', project.year], ['Category', project.category], ['License', project.repository?.license]])
   ]);
   root.replaceChildren(hero);
+  const media = projectMedia(project.media);
+  if (media) root.append(media);
   (project.sections || []).forEach((section) => root.append(narrativeSection(section)));
   if (project.architecture) root.append(narrativeSection({ label: 'Architecture', title: project.architecture.title, paragraphs: [project.architecture.summary], points: project.architecture.steps, links: project.architecture.url ? [{ label: 'View architecture source', url: project.architecture.url }] : [] }));
   if (project.guide) {
