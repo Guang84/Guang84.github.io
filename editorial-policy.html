@@ -1,51 +1,397 @@
-<!doctype html><html lang="en"><head>
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"/>
-<meta name="description" content="How to interpret GLab project descriptions, sources, limitations and correction requests."/>
-<meta name="author" content="Guang"/>
-<meta name="color-scheme" content="light dark"/>
-<meta name="theme-color" content="#0d1c15"/>
-<meta name="application-name" content="GLab"/>
-<script>(function(){try{var t=localStorage.getItem('glab-theme'),s=localStorage.getItem('glab-font-size');if(t==='light'||t==='dark')document.documentElement.dataset.theme=t;if(['small','medium','large'].includes(s))document.documentElement.dataset.fontSize=s;}catch(e){}})();</script>
-<meta name="google-adsense-account" content="ca-pub-6371342728710125"/>
-<title>Editorial policy and corrections — GLab</title>
-<link rel="canonical" href="https://guang84.github.io/editorial-policy.html"/>
-<link rel="manifest" href="/manifest.webmanifest"/>
-<link rel="icon" href="/assets/brand/glab-mark-48.png" type="image/png" sizes="48x48"/>
-<link rel="icon" href="/assets/brand/glab-mark-32.png" type="image/png" sizes="32x32"/>
-<link rel="icon" href="/assets/brand/glab-mark-16.png" type="image/png" sizes="16x16"/>
-<link rel="apple-touch-icon" href="/assets/icons/apple-touch-180.png" sizes="180x180"/>
-<link rel="preload" href="/assets/brand/glab-mark-64.png" as="image" type="image/png"/>
-<link rel="alternate" type="application/rss+xml" title="GLab writing" href="/feed.xml"/>
-<meta property="og:type" content="website"/><meta property="og:site_name" content="GLab"/>
-<meta property="og:title" content="Editorial policy and corrections — GLab"/><meta property="og:description" content="How to interpret GLab project descriptions, sources, limitations and correction requests."/>
-<meta property="og:url" content="https://guang84.github.io/editorial-policy.html"/><meta property="og:image" content="https://guang84.github.io/assets/social/glab-social.png"/>
-<meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image:alt" content="GLab by Guang"/>
-<meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Editorial policy and corrections — GLab"/><meta name="twitter:description" content="How to interpret GLab project descriptions, sources, limitations and correction requests."/><meta name="twitter:image" content="https://guang84.github.io/assets/social/glab-social.png"/>
-<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,600&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="/assets/css/main.css"/>
+<!doctype html>
 
-</head><body><a class="skip-link" href="#main">Skip to content</a>
-<header class="site-header">
-<a class="brand" href="/" aria-label="GLab home"><img class="brand-logo" src="/assets/brand/glab-mark-64.png" width="41" height="41" alt="" decoding="async"/><span class="brand-label">GLab</span></a>
-<nav class="nav" aria-label="Primary"><a href="/projects/">Projects</a><a href="/articles/">Articles</a><a href="/about.html">About</a></nav>
-<div class="header-actions">
-<button class="icon-button search-toggle" data-search-toggle type="button" aria-label="Search GLab" aria-haspopup="dialog" aria-controls="search-dialog" title="Search (Ctrl/⌘ K)">⌕</button>
-<button class="icon-button font-control" data-font-step="-1" type="button" aria-label="Decrease text size" title="Decrease text size">A−</button>
-<button class="icon-button font-control" data-font-step="1" type="button" aria-label="Increase text size" title="Increase text size">A+</button>
-<button class="icon-button theme-toggle" data-theme-toggle type="button" aria-label="Switch color theme" aria-pressed="false" title="Switch color theme"><span data-theme-icon aria-hidden="true">◐</span></button>
-<button class="menu-toggle" data-menu-toggle type="button" aria-expanded="false" aria-controls="mobile-menu">Menu</button>
-</div>
-</header>
-<div class="menu-backdrop" data-menu-backdrop hidden></div>
-<div class="mobile-menu" id="mobile-menu" data-mobile-menu hidden><nav aria-label="Mobile"><a href="/projects/">Projects</a><a href="/articles/">Articles</a><a href="/about.html">About</a><button class="button-secondary" data-search-toggle type="button" aria-haspopup="dialog" aria-controls="search-dialog">Search</button></nav></div>
-<dialog class="search-dialog" id="search-dialog" data-search-dialog aria-labelledby="search-title"><div class="search-shell"><div class="search-head"><label><span class="sr-only" id="search-title">Search GLab</span><input type="search" data-global-search placeholder="Search projects, articles and project guides…" autocomplete="off"/></label><button class="search-close" data-search-close type="button" aria-label="Close search">×</button></div><p class="search-hint">Type to search · Enter opens the first result · Esc closes</p><div class="search-results" data-search-results aria-live="polite"></div></div></dialog><div class="sr-only" data-live-region aria-live="polite"></div><main class="legal-page" id="main"><p class="eyebrow">GLab reading resources</p><h1>Editorial policy and corrections</h1><p>GLab is maintained by Guang as a personal publishing site. Its scope is project documentation, technical explanations and reflections on technology. The <a href="/about.html">About page</a> provides background and links to the public source profile.</p>
-<h2>What different pages mean</h2><p>A project case study explains a project’s purpose and design. A guide describes a workflow. An essay presents an argument or perspective. A link to a repository lets readers inspect the source, but does not by itself establish that a feature is tested, secure or suitable for deployment. Treat a documented capability and a measured result as different kinds of evidence.</p>
-<h2>Sources and limits</h2><p>Use linked source repositories and primary documentation to check implementation details. Software and dependencies change; compare the relevant revision before following instructions. Where a page does not specify a test environment, version or measured result, do not interpret its description as a benchmark or a guarantee.</p>
-<h2>Reporting a correction</h2><p>Email <a href="mailto:guang.social.verse@gmail.com">guang.social.verse@gmail.com</a> with the page URL, the statement you believe is incorrect, and a source or reproducible example. For technical errors, include the software version and expected versus observed behavior. Remove credentials and personal data before sending logs. Suggestions for clearer explanations and broken-link reports are also welcome.</p>
-<h2>Dates and changes</h2><p>Publication and update dates provide context for an article. They should not be taken as proof that every dependency or external link has been checked on that date. For a repository’s current behavior, inspect its own history and documentation. If an important limitation is missing from a page, report that limitation through the same correction channel.</p>
-<h2>Advertising and external resources</h2><p>GLab is configured to use Google AdSense on content pages. An advertisement is not a recommendation from Guang, and a link to an external project or service is not a promise about its availability or quality. See <a href="/start-here.html">Start here</a> · <a href="/project-checklist.html">Project checklist</a> · <a href="/editorial-policy.html">Editorial policy</a> · <a href="/privacy.html">Privacy</a> for information about browser storage and advertising services.</p></main><footer><div class="footer-inner">
-<div><strong>GLab</strong><br><span class="eyebrow">Projects · Articles · Project guides</span></div>
-<div><a href="/start-here.html">Start here</a> · <a href="/project-checklist.html">Project checklist</a> · <a href="/editorial-policy.html">Editorial policy</a> · <a href="/privacy.html">Privacy</a> · <a href="/terms.html">Terms</a> · <a href="/contact.html">Contact</a> · <a href="https://github.com/Guang84" target="_blank" rel="noopener noreferrer">GitHub ↗</a></div>
-</div></footer><script type="module" src="/assets/js/main.js"></script></body></html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="How GLab handles project status, sources, AI-assisted editing, technical claims, corrections, and content rights."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>Editorial Policy and Corrections — GLab</title>
+    <link
+      href="https://guang84.github.io/editorial-policy.html"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link
+      href="/assets/brand/glab-mark-32.png"
+      rel="icon"
+      sizes="32x32"
+      type="image/png"
+    />
+    <link
+      href="/assets/brand/glab-mark-16.png"
+      rel="icon"
+      sizes="16x16"
+      type="image/png"
+    />
+    <link
+      href="/assets/icons/apple-touch-180.png"
+      rel="apple-touch-icon"
+      sizes="180x180"
+    />
+    <link
+      as="image"
+      href="/assets/brand/glab-mark-64.png"
+      rel="preload"
+      type="image/png"
+    />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab writing"
+      type="application/rss+xml"
+    />
+    <meta content="website" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta
+      content="Editorial Policy and Corrections — GLab"
+      property="og:title"
+    />
+    <meta
+      content="How GLab handles project status, sources, AI-assisted editing, technical claims, corrections, and content rights."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/editorial-policy.html"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="1200" property="og:image:width" />
+    <meta content="630" property="og:image:height" />
+    <meta content="GLab by Guang" property="og:image:alt" />
+    <meta content="summary_large_image" name="twitter:card" />
+    <meta
+      content="Editorial Policy and Corrections — GLab"
+      name="twitter:title"
+    />
+    <meta
+      content="How GLab handles project status, sources, AI-assisted editing, technical claims, corrections, and content rights."
+      name="twitter:description"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      name="twitter:image"
+    />
+    <link href="https://fonts.googleapis.com" rel="preconnect" />
+    <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&amp;family=Manrope:wght@400;500;600;700&amp;family=Newsreader:opsz,wght@6..72,400;6..72,600&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "headline": "Editorial Policy and Corrections",
+        "name": "Editorial Policy and Corrections",
+        "description": "How GLab handles project status, sources, AI-assisted editing, technical claims, corrections, and content rights.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/editorial-policy.html"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          decoding="async"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-haspopup="dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          title="Search (Ctrl/⌘ K)"
+          type="button"
+        >
+          ⌕
+        </button>
+        <button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          title="Decrease text size"
+          type="button"
+        >
+          A−
+        </button>
+        <button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          title="Increase text size"
+          type="button"
+        >
+          A+
+        </button>
+        <button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          title="Switch color theme"
+          type="button"
+        >
+          <span aria-hidden="true" data-theme-icon="">◐</span>
+        </button>
+        <button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="menu-backdrop" data-menu-backdrop="" hidden=""></div>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a
+        ><button
+          aria-controls="search-dialog"
+          aria-haspopup="dialog"
+          class="button-secondary"
+          data-search-toggle=""
+          type="button"
+        >
+          Search
+        </button>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and project guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <p class="search-hint">
+          Type to search · Enter opens the first result · Esc closes
+        </p>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <div aria-live="polite" class="sr-only" data-live-region=""></div>
+    <main class="legal-page" id="main">
+      <p class="eyebrow">How GLab is maintained</p>
+      <h1>Editorial policy and corrections</h1>
+      <p>
+        GLab is a personal publishing space for project documentation, practical
+        guides, reflections, and learning notes. The aim is to explain how
+        something works, what evidence supports a claim, what remains uncertain,
+        and where a reader can verify the details.
+      </p>
+      <h2>Project status and evidence</h2>
+      <p>
+        Project pages distinguish active, in-development, completed, retired,
+        and archived work where the repository supports those labels. A
+        documented feature is not necessarily a feature verified in the current
+        deployment. Test summaries include the context and limits of the test
+        when known. I will not claim field results, production performance, or
+        historical events that the available records do not establish.
+      </p>
+      <h2>Sources and updates</h2>
+      <p>
+        Time-sensitive statements—such as software capability, model
+        availability, security guidance, prices, and regulatory
+        information—should link to official or primary sources and be checked
+        close to publication. A page’s update date means substantive content was
+        reviewed or changed; it should not be used to imply that every external
+        fact is continuously monitored.
+      </p>
+      <h2>AI-assisted work</h2>
+      <p>
+        AI tools may be used for brainstorming, outlines, editing, or research
+        assistance, but they are not a substitute for source checking, technical
+        tests, or editorial responsibility. Generic and repetitive passages
+        should be removed rather than published merely because they sound
+        polished. Personal anecdotes, credentials, experiments, and results must
+        not be invented. AI-generated suggestions should be treated as
+        unverified until reviewed.
+      </p>
+      <h2>Technical guides and security</h2>
+      <p>
+        Guides should state prerequisites, scope, expected results, limitations,
+        and relevant safety boundaries. Cybersecurity and network assessment
+        instructions are for systems the reader owns or is explicitly authorized
+        to test. Commands should be inspected before execution, especially when
+        they require elevated privileges or affect remote systems.
+      </p>
+      <h2>Corrections</h2>
+      <p>
+        If you find a factual error, broken link, unclear instruction,
+        attribution issue, or concern about published material, use the
+        <a href="/contact.html">contact page</a> or open an issue in the
+        relevant public repository. Include the page URL, the specific passage,
+        and a reliable source or proposed correction where possible. I will
+        review the report and update the page when a correction is warranted.
+      </p>
+      <h2>Content rights and community material</h2>
+      <p>
+        Software licences do not automatically grant rights to accompanying
+        text, songs, photographs, artwork, or other media. Community and
+        cultural material should retain appropriate attribution and source
+        context. Where rights or wording are uncertain, the page should state
+        the uncertainty instead of guessing.
+      </p>
+      <h2>Limitations</h2>
+      <p>
+        GLab is maintained as a personal project. Pages may become outdated as
+        software, services, and standards change. Before relying on instructions
+        for a consequential decision, consult current official documentation and
+        independently verify the steps in an appropriate environment.
+      </p>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              A personal site by Guang. Project status and limitations are
+              stated on each case study.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

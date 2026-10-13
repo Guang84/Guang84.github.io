@@ -1,0 +1,565 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="A practical guide to phishing-resistant sign-in, account recovery, backup methods, and the habits that keep a stronger login system usable."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>Passkeys, Recovery, and the Human Side of Security — GLab</title>
+    <link
+      href="https://guang84.github.io/articles/passkeys-and-the-human-side-of-security/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="article" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta
+      content="Passkeys, Recovery, and the Human Side of Security — GLab"
+      property="og:title"
+    />
+    <meta
+      content="A practical guide to phishing-resistant sign-in, account recovery, backup methods, and the habits that keep a stronger login system usable."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/articles/passkeys-and-the-human-side-of-security/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="published" name="glab:article-status" />
+    <meta
+      content="Passkeys, Recovery, and the Human Side of Security"
+      name="glab:article-title"
+    />
+    <meta content="2026-09-06" name="glab:article-date" />
+    <meta content="2026-10-11" name="glab:article-updated" />
+    <meta
+      content="A practical guide to phishing-resistant sign-in, account recovery, backup methods, and the habits that keep a stronger login system usable."
+      name="glab:article-excerpt"
+    />
+    <meta content="Practical Guide" name="glab:article-kind" />
+    <meta content="3 min read" name="glab:article-read-time" />
+    <meta
+      content="Cybersecurity, Passkeys, Account safety"
+      name="glab:article-tags"
+    />
+    <meta content="true" name="glab:article-featured" />
+    <meta
+      content="passkeys-and-the-human-side-of-security"
+      name="glab:article-slug"
+    />
+    <meta
+      content="Passkeys, Recovery, and the Human Side of Security — GLab"
+      name="twitter:title"
+    />
+    <meta
+      content="A practical guide to phishing-resistant sign-in, account recovery, backup methods, and the habits that keep a stronger login system usable."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Passkeys, Recovery, and the Human Side of Security",
+        "name": "Passkeys, Recovery, and the Human Side of Security",
+        "description": "A practical guide to phishing-resistant sign-in, account recovery, backup methods, and the habits that keep a stronger login system usable.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/articles/passkeys-and-the-human-side-of-security/",
+        "datePublished": "2026-09-06",
+        "dateModified": "2026-10-11"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/articles/">Articles</a></li>
+        <li aria-current="page">
+          Passkeys, Recovery, and the Human Side of Security
+        </li>
+      </ol>
+    </nav>
+    <main class="content-page" id="main">
+      <article>
+        <header class="content-hero">
+          <p class="eyebrow">Practical Guide · 3 min read</p>
+          <h1>Passkeys, Recovery, and the Human Side of Security</h1>
+          <p class="lead">
+            A practical guide to phishing-resistant sign-in, account recovery,
+            backup methods, and the habits that keep a stronger login system
+            usable.
+          </p>
+          <p class="content-meta">
+            By Guang · Published <time datetime="2026-09-06">2026-09-06</time> ·
+            Updated <time datetime="2026-10-11">2026-10-11</time>
+          </p>
+          <ul class="tag-list">
+            <li>Cybersecurity</li>
+            <li>Passkeys</li>
+            <li>Account safety</li>
+          </ul>
+          <div class="hero-actions">
+            <a class="button-secondary" href="/articles/">All articles</a>
+          </div>
+        </header>
+        <div class="article-body">
+          <nav class="doc-toc" aria-label="On this page">
+            <details open>
+              <summary>On this page</summary>
+              <ol>
+                <li>
+                  <a href="#what-passkeys-do"
+                    >A passkey changes the sign-in mechanism, not the need for
+                    recovery</a
+                  >
+                </li>
+                <li>
+                  <a href="#priority-accounts"
+                    >Protect the accounts that can reset everything else</a
+                  >
+                </li>
+                <li>
+                  <a href="#recovery-design"
+                    >Design recovery before you need it</a
+                  >
+                </li>
+                <li>
+                  <a href="#common-mistakes"
+                    >Convenience should not hide account exposure</a
+                  >
+                </li>
+                <li><a href="#checklist">A 15-minute account review</a></li>
+                <li><a href="#sources">Primary references</a></li>
+              </ol>
+            </details>
+          </nav>
+
+          <section class="detail-section" id="what-passkeys-do">
+            <p class="eyebrow">The core idea</p>
+            <h2>
+              A passkey changes the sign-in mechanism, not the need for recovery
+            </h2>
+            <p>
+              A passkey uses public-key cryptography: the service stores a
+              public key, while the credential’s private part is protected by
+              the device or credential manager. During sign-in, the service can
+              verify a response without asking the user to type a reusable
+              password. The browser and authenticator are designed to bind the
+              sign-in to the legitimate service, which makes ordinary phishing
+              much harder.
+            </p>
+            <p>
+              That is a meaningful improvement, but it does not make the whole
+              account invulnerable. A weak recovery path, an exposed email
+              account, a compromised device, a careless approval, or a poorly
+              controlled session can still create risk.
+            </p>
+            <p>
+              Read the
+              <a
+                href="https://fidoalliance.org/passkeys/"
+                rel="noopener noreferrer"
+                target="_blank"
+                >FIDO Alliance’s passkey overview</a
+              >
+              for the basic model and terminology.
+            </p>
+          </section>
+          <section class="detail-section" id="priority-accounts">
+            <p class="eyebrow">Start with leverage</p>
+            <h2>Protect the accounts that can reset everything else</h2>
+            <p>
+              Start with the email account used for password resets, then your
+              password manager, financial accounts, cloud storage, source-code
+              hosting, and primary identity accounts. If an attacker takes over
+              one of these, other accounts may be easier to recover or
+              impersonate.
+            </p>
+            <ol>
+              <li>
+                Open the account’s official security settings from a trusted
+                device.
+              </li>
+              <li>
+                Add a passkey using the credential manager or hardware key you
+                intend to keep using.
+              </li>
+              <li>
+                Check whether the service supports more than one passkey or a
+                second security key.
+              </li>
+              <li>
+                Review recovery email addresses, phone numbers, signed-in
+                sessions, and connected applications.
+              </li>
+              <li>
+                Store backup codes somewhere secure and separate from the device
+                you normally use.
+              </li>
+            </ol>
+          </section>
+          <section class="detail-section" id="recovery-design">
+            <p class="eyebrow">The side door</p>
+            <h2>Design recovery before you need it</h2>
+            <p>
+              Account recovery is a security control. A passkey that is
+              convenient today can become a problem if the only device holding
+              it is lost and no supported synchronization or recovery method
+              exists. The right design depends on the service, the
+              authenticator, and how the credential is backed up.
+            </p>
+            <ul>
+              <li>
+                Understand whether your passkeys sync through an account or
+                remain device-bound.
+              </li>
+              <li>
+                For high-impact accounts, consider a second authenticator or
+                hardware security key kept separately.
+              </li>
+              <li>
+                Verify that recovery information is current and controlled by
+                you.
+              </li>
+              <li>
+                Check the service’s process for revoking lost devices and old
+                sessions.
+              </li>
+              <li>
+                Do not store backup codes in a screenshot or the same unlocked
+                device they are meant to recover.
+              </li>
+            </ul>
+            <p>
+              Test recovery carefully while you still have access. Do not remove
+              your only working sign-in method until the replacement has been
+              tested.
+            </p>
+          </section>
+          <section class="detail-section" id="common-mistakes">
+            <p class="eyebrow">Avoid false confidence</p>
+            <h2>Convenience should not hide account exposure</h2>
+            <p>
+              Passkeys do not remove the need to update devices, control session
+              access, protect email, and verify unusual requests. Security
+              prompts can still be abused when users approve something they do
+              not understand. An attacker may also target the human recovery
+              process rather than the cryptographic sign-in.
+            </p>
+            <ul>
+              <li>Reject sign-in requests you did not initiate.</li>
+              <li>
+                Do not let someone on a call hurry you into sharing a code or
+                changing an account setting.
+              </li>
+              <li>
+                Remove old devices and connected applications that no longer
+                need access.
+              </li>
+              <li>
+                Keep the operating system, browser, and credential manager
+                updated.
+              </li>
+              <li>
+                Use unique passwords for services that still require passwords.
+              </li>
+            </ul>
+          </section>
+          <section class="detail-section" id="checklist">
+            <p class="eyebrow">Personal baseline</p>
+            <h2>A 15-minute account review</h2>
+            <ol>
+              <li>
+                Secure the main email account and verify its recovery methods.
+              </li>
+              <li>
+                Enable a passkey or strong multi-factor authentication on the
+                highest-impact accounts.
+              </li>
+              <li>
+                Check active sessions and revoke ones you do not recognize.
+              </li>
+              <li>
+                Review recovery codes and make sure they are stored safely.
+              </li>
+              <li>
+                Record the account-recovery steps in a private, trusted
+                location.
+              </li>
+            </ol>
+            <p>
+              Security should reduce risk without turning normal life into a
+              continuous alarm. A small routine that is understood and repeated
+              is often more useful than a complicated setup nobody can recover
+              from.
+            </p>
+          </section>
+          <section class="detail-section" id="sources">
+            <p class="eyebrow">Sources</p>
+            <h2>Primary references</h2>
+            <ul>
+              <li>
+                <a
+                  href="https://fidoalliance.org/passkeys/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >FIDO Alliance — Passkeys</a
+                >.
+              </li>
+              <li>
+                <a
+                  href="https://www.cisa.gov/secure-our-world/use-strong-passwords"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >CISA — Use strong passwords</a
+                >, including guidance on password managers and account
+                protection.
+              </li>
+              <li>
+                <a
+                  href="https://www.cisa.gov/secure-our-world/use-multifactor-authentication"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >CISA — Use multifactor authentication</a
+                >.
+              </li>
+            </ul>
+          </section>
+        </div>
+        <footer class="detail-section">
+          <p>
+            I wrote this as a working note, not a final authority. Check the
+            linked primary sources and current instructions before acting on
+            anything that affects safety, money, or a live system.
+          </p>
+          <p>
+            <a href="/editorial-policy.html"
+              >Editorial policy and corrections</a
+            >
+            · <a href="/contact.html">Contact</a> ·
+            <a href="/articles/">Browse all articles</a>
+          </p>
+        </footer>
+      </article>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

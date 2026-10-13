@@ -1,0 +1,707 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="A realistic routine for a morning brief, competitive-exam practice, GLabNetOps and technical work, and an evening review—with verification, privacy, and realistic limits built in."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>
+      How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving — GLab
+    </title>
+    <link
+      href="https://guang84.github.io/articles/chatgpt-daily-planning-learning-guide/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="article" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta
+      content="How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving — GLab"
+      property="og:title"
+    />
+    <meta
+      content="A realistic routine for a morning brief, competitive-exam practice, GLabNetOps and technical work, and an evening review—with verification, privacy, and realistic limits built in."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/articles/chatgpt-daily-planning-learning-guide/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="draft" name="glab:article-status" />
+    <meta
+      content="How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving"
+      name="glab:article-title"
+    />
+    <meta content="2026-10-11" name="glab:article-date" />
+    <meta content="2026-10-12" name="glab:article-updated" />
+    <meta
+      content="A realistic routine for a morning brief, competitive-exam practice, GLabNetOps and technical work, and an evening review—with verification, privacy, and realistic limits built in."
+      name="glab:article-excerpt"
+    />
+    <meta content="Practical Guide" name="glab:article-kind" />
+    <meta content="8 min read" name="glab:article-read-time" />
+    <meta
+      content="ChatGPT, Daily planning, Study, Productivity, AI"
+      name="glab:article-tags"
+    />
+    <meta content="true" name="glab:article-featured" />
+    <meta
+      content="chatgpt-daily-planning-learning-guide"
+      name="glab:article-slug"
+    />
+    <meta
+      content="How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving — GLab"
+      name="twitter:title"
+    />
+    <meta
+      content="A realistic routine for a morning brief, competitive-exam practice, GLabNetOps and technical work, and an evening review—with verification, privacy, and realistic limits built in."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving",
+        "name": "How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving",
+        "description": "A realistic routine for a morning brief, competitive-exam practice, GLabNetOps and technical project work, and a short evening reset—with checks for accuracy, privacy, and over-planning.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/articles/chatgpt-daily-planning-learning-guide/",
+        "datePublished": "2026-10-11",
+        "dateModified": "2026-10-12"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/articles/">Articles</a></li>
+        <li aria-current="page">
+          How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving
+        </li>
+      </ol>
+    </nav>
+    <main class="content-page" id="main">
+      <article>
+        <header class="content-hero">
+          <p class="eyebrow">Practical Guide · 8 min read</p>
+          <h1>
+            How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving
+          </h1>
+          <p class="lead">
+            A realistic routine for a morning brief, competitive-exam practice,
+            GLabNetOps and technical work, and an evening review—with
+            verification, privacy, and realistic limits built in.
+          </p>
+          <p class="content-meta">
+            By Guang · Published <time datetime="2026-10-11">2026-10-11</time> ·
+            Updated <time datetime="2026-10-12">2026-10-12</time>
+          </p>
+          <ul class="tag-list">
+            <li>ChatGPT</li>
+            <li>Daily planning</li>
+            <li>Study</li>
+            <li>Productivity</li>
+            <li>AI</li>
+          </ul>
+          <div class="hero-actions">
+            <a class="button-secondary" href="/articles/">All articles</a
+            ><a
+              class="button-secondary"
+              href="/articles/chatgpt-uses-benefits-and-limits/"
+              >ChatGPT uses and benefits</a
+            >
+          </div>
+        </header>
+        <div class="article-body">
+          <nav class="doc-toc" aria-label="On this page">
+            <details open>
+              <summary>On this page</summary>
+              <ol>
+                <li>
+                  <a href="#purpose"
+                    >Use ChatGPT to get unstuck—not to hand over the day</a
+                  >
+                </li>
+                <li>
+                  <a href="#morning-brief"
+                    >Start the day with decisions, not an endless news feed</a
+                  >
+                </li>
+                <li>
+                  <a href="#study">Turn explanations into retrieval practice</a>
+                </li>
+                <li>
+                  <a href="#project-work"
+                    >Use AI to define the next action, then get out of the
+                    way</a
+                  >
+                </li>
+                <li>
+                  <a href="#evening-review"
+                    >Use the evening review to improve tomorrow, not judge the
+                    whole day</a
+                  >
+                </li>
+                <li>
+                  <a href="#scheduled-tasks"
+                    >What scheduled tasks can and cannot do</a
+                  >
+                </li>
+                <li><a href="#prompt-templates">Morning Discovery Brief</a></li>
+                <li>
+                  <a href="#advantages-and-limits"
+                    >Where this approach helps—and where it can fail</a
+                  >
+                </li>
+                <li>
+                  <a href="#privacy"
+                    >Keep sensitive data out and verify high-impact advice</a
+                  >
+                </li>
+                <li>
+                  <a href="#official-updates"
+                    >Check the original release notes when a feature matters</a
+                  >
+                </li>
+              </ol>
+            </details>
+          </nav>
+
+          <section class="detail-section" id="purpose">
+            <p class="eyebrow">How I use it</p>
+            <p>
+              I use ChatGPT most usefully when I already know what I’m trying to
+              do but need help organising the next step: shaping a morning
+              briefing, being quizzed on an exam topic, working through a
+              technical problem, or reviewing the day. It can help me make the
+              plan clearer. It cannot decide what matters for me, make time
+              appear, or guarantee that a fact is right.
+            </p>
+            <h2>Use ChatGPT to get unstuck—not to hand over the day</h2>
+            <p>
+              The work I want this routine to support is fairly varied: staying
+              aware of important news and deadlines, preparing for competitive
+              exams, moving GLabNetOps and other technical projects forward, and
+              keeping a record of what I learn. I use the response as a draft to
+              question—not as a verdict or a substitute for doing the work. For
+              changing product features, I check the original documentation
+              because access and limits can differ by plan, app, region, and
+              rollout.
+            </p>
+            <p>
+              This guide describes a practical workflow for combining daily
+              planning, study, project development, and review. Product features
+              differ by account, app, region, and rollout, so treat the
+              interface instructions as a pattern and confirm current
+              availability in official documentation.
+            </p>
+          </section>
+          <section class="detail-section" id="morning-brief">
+            <p class="eyebrow">Morning briefing</p>
+            <h2>Start the day with decisions, not an endless news feed</h2>
+            <p>
+              A morning brief should make the next few hours easier to navigate.
+              Rather than collecting everything that happened, ask for
+              information grouped by priority and tied to an action.
+            </p>
+            <ul>
+              <li>
+                <strong>Must know:</strong> important local and national news,
+                international events with practical consequences, urgent
+                security advisories, and deadlines.
+              </li>
+              <li>
+                <strong>Markets:</strong> scheduled economic data, market-moving
+                news, risk factors, and a clear distinction between facts and
+                speculation. Treat trade ideas as research prompts, not
+                instructions to place a trade.
+              </li>
+              <li>
+                <strong>Study and career:</strong> exam dates, application
+                deadlines, syllabus targets, and one measurable study outcome.
+              </li>
+              <li>
+                <strong>Projects:</strong> the current blocker, the smallest
+                useful next task, and any dependency that needs attention.
+              </li>
+              <li>
+                <strong>Personal routine:</strong> movement, meals, breaks, and
+                a realistic shutdown time.
+              </li>
+            </ul>
+            <p>
+              For an early-start routine, keep the wake-up alarm separate from
+              the briefing. The alarm is for getting out of bed; the briefing is
+              for deciding what deserves attention. A short brief around the
+              start of the workday is usually more useful than a long list that
+              delays starting.
+            </p>
+          </section>
+          <section class="detail-section" id="study">
+            <p class="eyebrow">Learning</p>
+            <h2>Turn explanations into retrieval practice</h2>
+            <p>
+              Reading an answer can create a feeling of understanding without
+              proving that I can recall or apply it. A stronger workflow is:
+              read, close the notes, recall the idea from memory, then apply it
+              to a question or example.
+            </p>
+            <ol>
+              <li>
+                Ask for a clear explanation of one concept and a short worked
+                example.
+              </li>
+              <li>
+                Close the explanation and write or speak the main points from
+                memory.
+              </li>
+              <li>
+                Ask for questions without answers, then attempt them first.
+              </li>
+              <li>
+                Compare your attempt with the marking criteria and identify the
+                exact gap.
+              </li>
+              <li>Revisit the weak point later and solve a new example.</li>
+            </ol>
+            <p>
+              For competitive-exam preparation, ask the assistant to generate
+              practice questions from a defined syllabus area, but check the
+              answer key and use official exam notifications and trusted study
+              resources for authoritative details. For programming or
+              networking, ask for a small lab, expected result, and a way to
+              verify it independently.
+            </p>
+          </section>
+          <section class="detail-section" id="project-work">
+            <p class="eyebrow">Deep work</p>
+            <h2>Use AI to define the next action, then get out of the way</h2>
+            <p>
+              Large goals such as building a network-management system or
+              learning cybersecurity can become vague and intimidating. A useful
+              planning conversation ends with a task small enough to complete
+              and verify—not with another long roadmap.
+            </p>
+            <ul>
+              <li>State the current project state and the actual blocker.</li>
+              <li>
+                Ask for the smallest useful next task and its acceptance
+                criteria.
+              </li>
+              <li>
+                Separate investigation from implementation so you know what
+                evidence is missing.
+              </li>
+              <li>
+                Ask for risks, dependencies, and a rollback or recovery plan
+                before changing important systems.
+              </li>
+              <li>
+                Record the decision and result in the project notes so future
+                sessions start from facts rather than assumptions.
+              </li>
+            </ul>
+            <p>
+              For code, inspect the proposed diff, understand every command,
+              test safely, and run the project’s own checks. Do not paste
+              production secrets or private customer information into a prompt.
+            </p>
+          </section>
+          <section class="detail-section" id="evening-review">
+            <p class="eyebrow">Close the loop</p>
+            <h2>
+              Use the evening review to improve tomorrow, not judge the whole
+              day
+            </h2>
+            <p>
+              A short review can surface the gap between intention and action
+              without becoming a guilt exercise. Keep it factual and end with a
+              clear shutdown.
+            </p>
+            <ol>
+              <li>What did I promise or plan to do?</li>
+              <li>
+                What did I actually complete, and what evidence shows it is
+                complete?
+              </li>
+              <li>
+                What blocked the rest: unclear scope, low energy, interruptions,
+                unrealistic timing, or avoidance?
+              </li>
+              <li>What is tomorrow’s single most important task?</li>
+              <li>What should be prepared now so the first step is easy?</li>
+            </ol>
+            <p>
+              Put the unfinished work somewhere trusted, close the active work,
+              and protect sleep. A schedule that repeatedly sacrifices recovery
+              is not a sustainable productivity system.
+            </p>
+          </section>
+          <section class="detail-section" id="scheduled-tasks">
+            <p class="eyebrow">Automation</p>
+            <h2>What scheduled tasks can and cannot do</h2>
+            <p>
+              ChatGPT’s official scheduled-task documentation describes one-time
+              or recurring tasks, notifications, and supported monitoring
+              workflows. Availability, active-task limits, frequency, and exact
+              delivery times depend on your account and workspace. A task can
+              also pause or need your attention; do not design a critical
+              process that assumes every notification will arrive.
+            </p>
+            <p>
+              To set up an eligible task, describe what it should produce, how
+              often it should run, which sources it should use, what counts as
+              urgent, and how it should handle uncertainty. Then review the
+              created task in the Scheduled area and confirm notifications are
+              allowed by your device and browser. If a feature is not present in
+              your account, use a calendar, alarm, RSS reader, or another
+              reliable tool instead.
+            </p>
+            <p>
+              See the current
+              <a
+                href="https://help.openai.com/en/articles/10291617-scheduled-tasks-in-chatgpt"
+                rel="noopener noreferrer"
+                target="_blank"
+                >OpenAI guide to scheduled tasks</a
+              >
+              for supported options and limitations.
+            </p>
+          </section>
+          <section class="detail-section" id="prompt-templates">
+            <p class="eyebrow">Copyable prompts</p>
+            <h2>Morning Discovery Brief</h2>
+            <pre
+              class="copyable-code"
+            ><code>Prepare a concise briefing for today in India (Asia/Kolkata).
+Use current sources and show the publication date for time-sensitive claims.
+Organise it into: (1) must-know news, (2) market and economic events, (3) urgent cybersecurity advisories, (4) exam/career deadlines, (5) my top study and project priorities.
+Separate confirmed facts from analysis. Link primary sources. Do not invent trade setups or deadlines. If you cannot verify something, say so.
+Finish with the three actions that deserve attention today.</code></pre>
+            <h3>Study session</h3>
+            <pre
+              class="copyable-code"
+            ><code>Teach me [topic] for [exam or skill level]. Explain the idea briefly, show one worked example, then test me with five questions without showing the answers. Wait for my attempt, mark it with explanations, identify my two weakest areas, and give me a short recall task for tomorrow. Flag any answer that needs checking against an official source.</code></pre>
+            <h3>Project work block</h3>
+            <pre
+              class="copyable-code"
+            ><code>Project: [name]. Current verified state: [facts]. Goal for this session: [goal]. Constraints: [time, environment, safety boundary]. First identify unknowns and risks. Then suggest the smallest next task with acceptance criteria, commands or steps, expected output, verification, and rollback. Do not assume a command succeeded until I provide the result.</code></pre>
+            <h3>Evening reset</h3>
+            <pre
+              class="copyable-code"
+            ><code>Help me close the day in five minutes. Ask what I planned, what I actually completed, what blocked me, and what I learned. Then help me choose one most important task for tomorrow, prepare its first step, and finish with a realistic shutdown reminder. Be direct, not shaming or excessively motivational.</code></pre>
+          </section>
+          <section class="detail-section" id="advantages-and-limits">
+            <p class="eyebrow">Trade-offs</p>
+            <h2>Where this approach helps—and where it can fail</h2>
+            <p>
+              <strong>Advantages:</strong> less friction when starting a task, a
+              reusable format for briefings, explanations at different levels,
+              quick generation of practice questions, help turning large
+              projects into small actions, and a place to challenge assumptions.
+            </p>
+            <p>
+              <strong>Limitations:</strong> summaries can omit events; sources
+              can be misread; deadlines may be stale; confident language can
+              hide uncertainty; notifications and scheduled tasks may be
+              limited; and a plan can still be unrealistic. AI can also
+              encourage over-planning if every task turns into another
+              conversation.
+            </p>
+            <p>
+              My rule is to finish each conversation with an action, a decision,
+              a verified note, or a deliberate choice to stop. If nothing
+              changed, I should return to the work rather than keep prompting.
+            </p>
+          </section>
+          <section class="detail-section" id="privacy">
+            <p class="eyebrow">Privacy and accuracy</p>
+            <h2>Keep sensitive data out and verify high-impact advice</h2>
+            <ul>
+              <li>
+                Never share passwords, private keys, recovery codes, or API
+                secrets.
+              </li>
+              <li>
+                Review account data controls, memory, connected apps, and
+                uploaded-file handling before using sensitive information.
+              </li>
+              <li>
+                Use official websites for current model features, pricing,
+                policy, exam notifications, security advisories, and financial
+                data.
+              </li>
+              <li>
+                For trading, use primary market data and a defined risk plan; a
+                language model is not an execution or risk-control system.
+              </li>
+              <li>
+                For legal, medical, financial, or other high-stakes decisions,
+                consult an appropriately qualified professional where needed.
+              </li>
+              <li>Check the output before publishing it or acting on it.</li>
+            </ul>
+          </section>
+          <section class="detail-section" id="official-updates">
+            <p class="eyebrow">Keep current</p>
+            <h2>Check the original release notes when a feature matters</h2>
+            <p>
+              I don’t want a separate stream of product announcements to become
+              another thing to keep up with. When a change affects how I plan,
+              study, or work, I check the official release notes and update the
+              relevant guide. A launch headline does not tell me whether a
+              feature has reached my account or whether it is reliable enough
+              for an important task.
+            </p>
+            <p>
+              For the current feature list, use OpenAI’s
+              <a
+                href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
+                rel="noopener noreferrer"
+                target="_blank"
+                >ChatGPT release notes</a
+              >. For practical examples, the companion article
+              <a href="/articles/chatgpt-uses-benefits-and-limits/"
+                >What I use ChatGPT for: practical uses, benefits, and limits</a
+              >
+              includes a dated snapshot and explains how I decide whether an
+              update is worth changing my workflow for.
+            </p>
+          </section>
+        </div>
+        <footer class="detail-section">
+          <p>
+            I wrote this as a working note, not a final authority. Check the
+            linked primary sources and current instructions before acting on
+            anything that affects safety, money, or a live system.
+          </p>
+          <p>
+            <a href="/editorial-policy.html"
+              >Editorial policy and corrections</a
+            >
+            · <a href="/contact.html">Contact</a> ·
+            <a href="/articles/">Browse all articles</a>
+          </p>
+        </footer>
+      </article>
+    </main>
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a aria-label="GLab home" class="footer-wordmark" href="/"
+              ><img
+                alt=""
+                decoding="async"
+                height="32"
+                loading="lazy"
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav aria-label="Explore GLab" class="footer-column">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav aria-label="Featured projects" class="footer-column">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            aria-label="Contact and external resources"
+            class="footer-column"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              rel="noopener noreferrer"
+              target="_blank"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              rel="noopener noreferrer"
+              target="_blank"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year="">2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

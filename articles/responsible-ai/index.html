@@ -1,0 +1,487 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="A practical AI review checklist covering intended users, error costs, privacy, transparency, human override, and ways to challenge or correct outputs."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>Before I Build With AI, I Ask Who Carries the Risk — GLab</title>
+    <link
+      href="https://guang84.github.io/articles/responsible-ai/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="article" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta
+      content="Before I Build With AI, I Ask Who Carries the Risk — GLab"
+      property="og:title"
+    />
+    <meta
+      content="A practical AI review checklist covering intended users, error costs, privacy, transparency, human override, and ways to challenge or correct outputs."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/articles/responsible-ai/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="published" name="glab:article-status" />
+    <meta
+      content="Before I Build With AI, I Ask Who Carries the Risk"
+      name="glab:article-title"
+    />
+    <meta content="2026-07-11" name="glab:article-date" />
+    <meta content="2026-10-11" name="glab:article-updated" />
+    <meta
+      content="A practical AI review checklist covering intended users, error costs, privacy, transparency, human override, and ways to challenge or correct outputs."
+      name="glab:article-excerpt"
+    />
+    <meta content="Practical Essay" name="glab:article-kind" />
+    <meta content="3 min read" name="glab:article-read-time" />
+    <meta
+      content="Responsible AI, Privacy, Product design"
+      name="glab:article-tags"
+    />
+    <meta content="false" name="glab:article-featured" />
+    <meta content="responsible-ai" name="glab:article-slug" />
+    <meta
+      content="Before I Build With AI, I Ask Who Carries the Risk — GLab"
+      name="twitter:title"
+    />
+    <meta
+      content="A practical AI review checklist covering intended users, error costs, privacy, transparency, human override, and ways to challenge or correct outputs."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Before I Build With AI, I Ask Who Carries the Risk",
+        "name": "Before I Build With AI, I Ask Who Carries the Risk",
+        "description": "A practical AI review checklist covering intended users, error costs, privacy, transparency, human override, and ways to challenge or correct outputs.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/articles/responsible-ai/",
+        "datePublished": "2026-07-11",
+        "dateModified": "2026-10-11"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/articles/">Articles</a></li>
+        <li aria-current="page">
+          Before I Build With AI, I Ask Who Carries the Risk
+        </li>
+      </ol>
+    </nav>
+    <main class="content-page" id="main">
+      <article>
+        <header class="content-hero">
+          <p class="eyebrow">Practical Essay · 3 min read</p>
+          <h1>Before I Build With AI, I Ask Who Carries the Risk</h1>
+          <p class="lead">
+            A practical AI review checklist covering intended users, error
+            costs, privacy, transparency, human override, and ways to challenge
+            or correct outputs.
+          </p>
+          <p class="content-meta">
+            By Guang · Published <time datetime="2026-07-11">2026-07-11</time> ·
+            Updated <time datetime="2026-10-11">2026-10-11</time>
+          </p>
+          <ul class="tag-list">
+            <li>Responsible AI</li>
+            <li>Privacy</li>
+            <li>Product design</li>
+          </ul>
+          <div class="hero-actions">
+            <a class="button-secondary" href="/articles/">All articles</a>
+          </div>
+        </header>
+        <div class="article-body">
+          <nav class="doc-toc" aria-label="On this page">
+            <details open>
+              <summary>On this page</summary>
+              <ol>
+                <li><a href="#benefit">Who is this meant to help?</a></li>
+                <li>
+                  <a href="#failure-cost"
+                    >Test the downside before celebrating the first good
+                    answer</a
+                  >
+                </li>
+                <li>
+                  <a href="#privacy"
+                    >Do not send information just because a field accepts it</a
+                  >
+                </li>
+                <li>
+                  <a href="#explanation-and-appeal"
+                    >Make uncertainty and correction part of the design</a
+                  >
+                </li>
+                <li>
+                  <a href="#review-framework"
+                    >Questions to answer before deployment</a
+                  >
+                </li>
+              </ol>
+            </details>
+          </nav>
+
+          <section class="detail-section" id="benefit">
+            <p class="eyebrow">Start with people</p>
+            <h2>Who is this meant to help?</h2>
+            <p>
+              Before evaluating a model or feature, I want to understand the
+              user, the problem, and the decision the system will influence.
+              “AI-powered” describes an implementation choice, not a user
+              benefit. If a simple form, a search function, a transparent rule,
+              or a better explanation solves the problem, the added model may
+              not be justified.
+            </p>
+            <p>
+              Write down who benefits, who could be harmed, who pays when the
+              output is wrong, and who is accountable for the result. This is
+              especially important when a tool affects access to money,
+              services, education, employment, safety, or someone’s reputation.
+            </p>
+          </section>
+          <section class="detail-section" id="failure-cost">
+            <p class="eyebrow">Risk before demo</p>
+            <h2>Test the downside before celebrating the first good answer</h2>
+            <p>
+              A demonstration usually shows a case where the feature works. A
+              responsible review asks how it fails: wrong facts, missing
+              context, biased output, prompt injection, leaked information,
+              stale data, inaccessible language, or a confident answer that
+              should have been a refusal. The severity depends on the real task,
+              not on how impressive the demo looks.
+            </p>
+            <ul>
+              <li>Define acceptable and unacceptable failure modes.</li>
+              <li>Test ordinary, edge, ambiguous, and adversarial inputs.</li>
+              <li>Measure against a baseline that does not use AI.</li>
+              <li>
+                Set a confidence or escalation policy that matches the risk; do
+                not rely on a model’s self-reported confidence alone.
+              </li>
+              <li>Decide when a human must review the output before action.</li>
+            </ul>
+          </section>
+          <section class="detail-section" id="privacy">
+            <p class="eyebrow">Data handling</p>
+            <h2>Do not send information just because a field accepts it</h2>
+            <p>
+              Data sent to an AI service may be processed according to that
+              service’s plan, settings, retention rules, and connected-app
+              permissions. Review those arrangements before sending confidential
+              or personal information. Minimize what is shared, redact
+              identifiers where practical, and avoid credentials or secrets
+              entirely.
+            </p>
+            <p>
+              For internal systems, define who can access prompts, outputs,
+              logs, attachments, and audit records; how long they are retained;
+              and how deletion works. Treat retrieval, plugins, file uploads,
+              and connected data sources as part of the security boundary.
+            </p>
+          </section>
+          <section class="detail-section" id="explanation-and-appeal">
+            <p class="eyebrow">Human control</p>
+            <h2>Make uncertainty and correction part of the design</h2>
+            <p>
+              People affected by an AI-assisted decision need a meaningful path
+              to ask questions, correct input data, challenge an output, or
+              reach a responsible person. A generic “AI may make mistakes”
+              footer is not enough when the output is used to take an action.
+            </p>
+            <ul>
+              <li>
+                Show where information came from when source-backed answers are
+                expected.
+              </li>
+              <li>
+                Label generated drafts or automated summaries so users know what
+                they are reading.
+              </li>
+              <li>Provide a clear human fallback for high-impact cases.</li>
+              <li>
+                Keep an audit trail appropriate to the risk without
+                over-collecting personal data.
+              </li>
+              <li>
+                Monitor failures after launch and make it possible to disable a
+                harmful feature.
+              </li>
+            </ul>
+          </section>
+          <section class="detail-section" id="review-framework">
+            <p class="eyebrow">A short review</p>
+            <h2>Questions to answer before deployment</h2>
+            <ol>
+              <li>
+                What user problem does this solve better than the simpler
+                alternative?
+              </li>
+              <li>What evidence supports the claimed improvement?</li>
+              <li>Which users or situations perform worse?</li>
+              <li>
+                What data leaves the local system, and under whose control?
+              </li>
+              <li>
+                How can a person verify, correct, contest, or reverse the
+                outcome?
+              </li>
+              <li>Who will monitor the system and respond when it fails?</li>
+            </ol>
+            <p>
+              For a structured risk-management vocabulary, start with the
+              <a
+                href="https://airc.nist.gov/airmf-resources/airmf/"
+                rel="noopener noreferrer"
+                target="_blank"
+                >NIST AI Risk Management Framework resources</a
+              >. A framework does not make a product responsible by itself, but
+              it can help turn broad principles into reviewable decisions.
+            </p>
+          </section>
+        </div>
+        <footer class="detail-section">
+          <p>
+            I wrote this as a working note, not a final authority. Check the
+            linked primary sources and current instructions before acting on
+            anything that affects safety, money, or a live system.
+          </p>
+          <p>
+            <a href="/editorial-policy.html"
+              >Editorial policy and corrections</a
+            >
+            · <a href="/contact.html">Contact</a> ·
+            <a href="/articles/">Browse all articles</a>
+          </p>
+        </footer>
+      </article>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

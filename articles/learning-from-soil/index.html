@@ -1,0 +1,442 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="A short reflection on uncertainty, context, and why measurement tools should support local knowledge instead of pretending one number tells the whole story."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>What Soil Can Teach Us About Measurement — GLab</title>
+    <link
+      href="https://guang84.github.io/articles/learning-from-soil/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="article" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta
+      content="What Soil Can Teach Us About Measurement — GLab"
+      property="og:title"
+    />
+    <meta
+      content="A short reflection on uncertainty, context, and why measurement tools should support local knowledge instead of pretending one number tells the whole story."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/articles/learning-from-soil/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="published" name="glab:article-status" />
+    <meta
+      content="What Soil Can Teach Us About Measurement"
+      name="glab:article-title"
+    />
+    <meta content="2026-08-18" name="glab:article-date" />
+    <meta content="2026-10-11" name="glab:article-updated" />
+    <meta
+      content="A short reflection on uncertainty, context, and why measurement tools should support local knowledge instead of pretending one number tells the whole story."
+      name="glab:article-excerpt"
+    />
+    <meta content="Field Note" name="glab:article-kind" />
+    <meta content="3 min read" name="glab:article-read-time" />
+    <meta
+      content="Sustainable farming, Measurement, Learning"
+      name="glab:article-tags"
+    />
+    <meta content="false" name="glab:article-featured" />
+    <meta content="learning-from-soil" name="glab:article-slug" />
+    <meta
+      content="What Soil Can Teach Us About Measurement — GLab"
+      name="twitter:title"
+    />
+    <meta
+      content="A short reflection on uncertainty, context, and why measurement tools should support local knowledge instead of pretending one number tells the whole story."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "What Soil Can Teach Us About Measurement",
+        "name": "What Soil Can Teach Us About Measurement",
+        "description": "A short reflection on uncertainty, context, and why measurement tools should support local knowledge instead of pretending one number tells the whole story.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/articles/learning-from-soil/",
+        "datePublished": "2026-08-18",
+        "dateModified": "2026-10-11"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/articles/">Articles</a></li>
+        <li aria-current="page">What Soil Can Teach Us About Measurement</li>
+      </ol>
+    </nav>
+    <main class="content-page" id="main">
+      <article>
+        <header class="content-hero">
+          <p class="eyebrow">Field Note · 3 min read</p>
+          <h1>What Soil Can Teach Us About Measurement</h1>
+          <p class="lead">
+            A short reflection on uncertainty, context, and why measurement
+            tools should support local knowledge instead of pretending one
+            number tells the whole story.
+          </p>
+          <p class="content-meta">
+            By Guang · Published <time datetime="2026-08-18">2026-08-18</time> ·
+            Updated <time datetime="2026-10-11">2026-10-11</time>
+          </p>
+          <ul class="tag-list">
+            <li>Sustainable farming</li>
+            <li>Measurement</li>
+            <li>Learning</li>
+          </ul>
+          <div class="hero-actions">
+            <a class="button-secondary" href="/articles/">All articles</a>
+          </div>
+        </header>
+        <div class="article-body">
+          <nav class="doc-toc" aria-label="On this page">
+            <details open>
+              <summary>On this page</summary>
+              <ol>
+                <li>
+                  <a href="#the-number"
+                    >A precise display does not guarantee a useful answer</a
+                  >
+                </li>
+                <li>
+                  <a href="#context"
+                    >The same number can mean different things in different
+                    places</a
+                  >
+                </li>
+                <li>
+                  <a href="#design-for-learning"
+                    >Build a loop between measurement and observation</a
+                  >
+                </li>
+                <li>
+                  <a href="#scope">Reflection, not a claim of field testing</a>
+                </li>
+              </ol>
+            </details>
+          </nav>
+
+          <section class="detail-section" id="the-number">
+            <p class="eyebrow">A reflection</p>
+            <h2>A precise display does not guarantee a useful answer</h2>
+            <p>
+              A sensor can show several decimal places and still leave the most
+              important question unanswered. What exactly was measured? At what
+              location? Under what conditions? How uncertain is the reading? And
+              what decision will be made from it?
+            </p>
+            <p>
+              I like this as a general design lesson: an instrument is not a
+              substitute for understanding the environment it measures. Soil
+              moisture varies with texture, depth, roots, compaction, weather,
+              and irrigation. A tidy dashboard cannot make those differences
+              disappear.
+            </p>
+          </section>
+          <section class="detail-section" id="context">
+            <p class="eyebrow">Context matters</p>
+            <h2>
+              The same number can mean different things in different places
+            </h2>
+            <p>
+              A measurement becomes meaningful when it is connected to a
+              baseline, a method, and an intended decision. Without that
+              context, the number may look more authoritative than it deserves.
+              The problem is not that instruments are unhelpful; the problem is
+              treating their output as a complete explanation.
+            </p>
+            <p>
+              This lesson extends beyond farming. A network monitor can show a
+              spike without explaining its cause. A security scanner can list a
+              finding without proving exploitability. An AI system can return a
+              confident answer without showing that its sources support it. In
+              each case, the reading is a starting point for investigation.
+            </p>
+          </section>
+          <section class="detail-section" id="design-for-learning">
+            <p class="eyebrow">A better method</p>
+            <h2>Build a loop between measurement and observation</h2>
+            <ol>
+              <li>Record how and where the reading was produced.</li>
+              <li>
+                Compare it with independent evidence or a second method when the
+                decision matters.
+              </li>
+              <li>Notice which conditions explain the differences.</li>
+              <li>Change one variable at a time where practical.</li>
+              <li>
+                Write down what remains uncertain so another person can judge
+                the conclusion.
+              </li>
+            </ol>
+            <p>
+              That is why I prefer tools that show their assumptions, keep a
+              useful history, and let the person closest to the problem
+              challenge the result.
+            </p>
+            <p>
+              For a practical application of this idea, read
+              <a href="/articles/soil-sensors-need-ground-truth/"
+                >A Soil Sensor Is a Question, Not an Answer</a
+              >, which turns the principle into a monitoring and irrigation
+              workflow.
+            </p>
+          </section>
+          <section class="detail-section" id="scope">
+            <p class="eyebrow">Editorial note</p>
+            <h2>Reflection, not a claim of field testing</h2>
+            <p>
+              This is a conceptual field note. It does not report a completed
+              sensor experiment or measured farming outcome. When actual field
+              work is documented, the location, equipment, method, observations,
+              and limitations should be recorded so readers can distinguish
+              evidence from an idea.
+            </p>
+          </section>
+        </div>
+        <footer class="detail-section">
+          <p>
+            I wrote this as a working note, not a final authority. Check the
+            linked primary sources and current instructions before acting on
+            anything that affects safety, money, or a live system.
+          </p>
+          <p>
+            <a href="/editorial-policy.html"
+              >Editorial policy and corrections</a
+            >
+            · <a href="/contact.html">Contact</a> ·
+            <a href="/articles/">Browse all articles</a>
+          </p>
+        </footer>
+      </article>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

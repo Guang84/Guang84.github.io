@@ -1,0 +1,634 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="An offline-first digital hymnal and preservation project bringing three Rongmei and community song collections into a searchable reading experience, with editorial review ongoing."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>Rongmei Hymnal — GLab</title>
+    <link
+      href="https://guang84.github.io/projects/rongmei-hymnal/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="website" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta content="Rongmei Hymnal — GLab" property="og:title" />
+    <meta
+      content="An offline-first digital hymnal and preservation project bringing three Rongmei and community song collections into a searchable reading experience, with editorial review ongoing."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/projects/rongmei-hymnal/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="Rongmei Hymnal" name="glab:project-title" />
+    <meta
+      content="An offline-first digital hymnal and preservation project bringing three Rongmei and community song collections into a searchable reading experience, with editorial review ongoing."
+      name="glab:project-summary"
+    />
+    <meta content="Community Technology" name="glab:project-category" />
+    <meta content="2026" name="glab:project-year" />
+    <meta
+      content="Active · deployed · editorial review ongoing"
+      name="glab:project-status"
+    />
+    <meta content="2026-10-11" name="glab:project-updated" />
+    <meta
+      content="Rongmei songs, Digital preservation, PWA, Offline-first"
+      name="glab:project-tags"
+    />
+    <meta content="true" name="glab:project-featured" />
+    <meta
+      content="https://github.com/Guang84/RongmeiHymnal"
+      name="glab:project-repository"
+    />
+    <meta
+      content="https://guang84.github.io/RongmeiHymnal/"
+      name="glab:project-demo"
+    />
+    <meta
+      content="Run, maintain, and review Rongmei Hymnal"
+      name="glab:project-guide-title"
+    />
+    <meta
+      content="Run a local copy, inspect collection data, verify the offline workflow, and treat editorial correction and rights review as separate from technical validation."
+      name="glab:project-guide-summary"
+    />
+    <meta content="Apache-2.0 software license" name="glab:project-license" />
+    <meta content="Rongmei Hymnal — GLab" name="twitter:title" />
+    <meta
+      content="An offline-first digital hymnal and preservation project bringing three Rongmei and community song collections into a searchable reading experience, with editorial review ongoing."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "TechArticle",
+        "headline": "Rongmei Hymnal",
+        "name": "Rongmei Hymnal",
+        "description": "An offline-first digital hymnal and preservation project bringing three Rongmei and community song collections into a searchable reading experience, with editorial review ongoing.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/projects/rongmei-hymnal/",
+        "datePublished": "2026-01-01",
+        "dateModified": "2026-10-11"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/projects/">Projects</a></li>
+        <li aria-current="page">Rongmei Hymnal</li>
+      </ol>
+    </nav>
+    <main class="content-page case-page" id="main">
+      <header class="case-hero">
+        <div>
+          <p class="eyebrow">Community Technology · 2026</p>
+          <h1>Rongmei Hymnal</h1>
+          <p class="lead">
+            An offline-first digital hymnal and preservation project bringing
+            three Rongmei and community song collections into a searchable
+            reading experience, with editorial review ongoing.
+          </p>
+          <ul class="tag-list">
+            <li>Rongmei songs</li>
+            <li>Digital preservation</li>
+            <li>PWA</li>
+            <li>Offline-first</li>
+          </ul>
+        </div>
+        <div class="case-facts">
+          <div>
+            <span>Status</span
+            ><strong>Active · deployed · editorial review ongoing</strong>
+          </div>
+          <div><span>Year</span><strong>2026</strong></div>
+        </div>
+      </header>
+
+      <nav class="doc-toc" aria-label="On this page">
+        <details open>
+          <summary>On this page</summary>
+          <ol>
+            <li><a href="#quick-reference">Project snapshot</a></li>
+            <li>
+              <a href="#background"
+                >Preserving songs without separating them from their community
+                context</a
+              >
+            </li>
+            <li>
+              <a href="#collections"
+                >Three registered collections; 1,271 records in the documented
+                snapshot</a
+              >
+            </li>
+            <li>
+              <a href="#architecture"
+                >Separate the application shell from the song data</a
+              >
+            </li>
+            <li><a href="#run-locally">Run the project locally</a></li>
+            <li>
+              <a href="#editorial-process"
+                >Correct text from a source, not from assumption</a
+              >
+            </li>
+            <li>
+              <a href="#offline-and-rights"
+                >Offline availability does not grant redistribution rights</a
+              >
+            </li>
+            <li>
+              <a href="#validation"
+                >Technical checks and editorial checks answer different
+                questions</a
+              >
+            </li>
+            <li><a href="#project-links">Explore the project</a></li>
+          </ol>
+        </details>
+      </nav>
+
+      <section class="detail-section quick-reference" id="quick-reference">
+        <p class="eyebrow">Quick reference</p>
+        <h2>Project snapshot</h2>
+        <p>I use this snapshot as a dated reading aid, not as a claim that every song has been linguistically or editorially approved. Application checks, source provenance, community review, and content rights are separate responsibilities.</p>
+        <div class="doc-table-scroll" role="region" aria-label="Project snapshot" tabindex="0">
+          <table class="doc-table">
+            <caption>Project facts and current boundaries</caption>
+            <thead><tr><th scope="col">Area</th><th scope="col">Documented details</th><th scope="col">How to interpret it</th></tr></thead>
+            <tbody>
+              <tr><td>Application</td><td>Static web app/PWA with separate collection JSON data</td><td>Offline reading depends on the app download flow and browser storage</td></tr>
+              <tr><td>Recorded snapshot</td><td>3 collections and 1,271 records in the 20 September 2026 validation note</td><td>Counts can change; re-run validation before quoting them</td></tr>
+              <tr><td>Project status</td><td>Deployed; editorial review ongoing</td><td>Structural checks do not certify wording, attribution, or translation</td></tr>
+              <tr><td>Rights boundary</td><td>Software licence and content permissions are reviewed separately</td><td>Confirm provenance and redistribution rights before republishing content</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+      <section class="detail-section" id="background">
+        <p class="eyebrow">Background</p>
+        <h2>
+          Preserving songs without separating them from their community context
+        </h2>
+        <p>
+          Rongmei Hymnal is a digital reading and preservation project. Its
+          purpose is to bring multiple Rongmei and community song collections
+          into one searchable space while accounting for readers who may have
+          inconsistent connectivity. The project is more than an interface: the
+          long-term value depends on the accuracy of text, collection
+          provenance, numbering, attribution, and the ability to correct records
+          without losing their source context.
+        </p>
+        <p>
+          The current project record does not establish a single founding date
+          or a specific conversation that started it. This page therefore
+          documents the purpose and observed development decisions without
+          inventing a personal anecdote. The application is deployed, and
+          editorial review remains ongoing.
+        </p>
+      </section>
+      <section class="detail-section" id="collections">
+        <p class="eyebrow">Collection overview</p>
+        
+        <h2>
+          Three registered collections; 1,271 records in the documented snapshot
+        </h2>
+        <p>
+          The project’s recorded validation snapshot lists three collection
+          counts: 305, 930, and 36 songs, for a total of 1,271. Counts can
+          change as collection metadata or records are corrected, so re-check
+          the live registry and repository before quoting these numbers in
+          another publication.
+        </p>
+        <div class="doc-table-scroll" role="region" aria-label="Song collection inventory" tabindex="0">
+          <table class="doc-table">
+            <caption>Collection counts recorded in the 20 September 2026 validation snapshot</caption>
+            <thead><tr><th scope="col">Collection data path</th><th scope="col">Records in snapshot</th><th scope="col">Editorial note</th></tr></thead>
+            <tbody>
+              <tr><td><code>buanthanhlu/songs.json</code></td><td>305</td><td>Keep source identity, numbering, and provenance attached to records</td></tr>
+              <tr><td><code>hymdaihlu/songs.json</code></td><td>930</td><td>Check title, line breaks, source edition, and attribution against an approved source</td></tr>
+              <tr><td><code>vbs-songs/songs.json</code></td><td>36</td><td>Review content rights separately from application licensing</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          A combined search interface improves discovery, but it should not
+          erase differences between source books, editions, numbering systems,
+          or attribution. Each collection needs to retain its identity and
+          enough provenance for a reviewer to trace a questionable record.
+        </p>
+      </section>
+      <section class="detail-section" id="architecture">
+        <p class="eyebrow">Architecture</p>
+        <h2>Separate the application shell from the song data</h2>
+        <p>
+          The project uses a static web application and progressive web app
+          approach. The interface, collection registry, collection metadata,
+          song records, local preferences, service-worker cache, and explicit
+          full-library downloads have separate roles. That separation makes it
+          possible to update the application without treating all content as one
+          opaque bundle.
+        </p>
+        <ul>
+          <li>
+            The registry identifies each collection and points to its metadata
+            and data.
+          </li>
+          <li>
+            Structured JSON records make collections easier to validate and
+            regenerate than manually copied text embedded in interface code.
+          </li>
+          <li>
+            Local preferences can support favourites, history, or reading
+            choices without requiring an application account.
+          </li>
+          <li>
+            The service worker supports the application shell, while the in-app
+            download workflow stores the song collections for offline reading.
+          </li>
+          <li>
+            Validation checks structure and expected counts; it cannot prove
+            that every word, title, attribution, or translation is editorially
+            correct.
+          </li>
+        </ul>
+      </section>
+      <span id="guide" aria-hidden="true"></span>
+      <section class="detail-section" id="run-locally">
+        <p class="eyebrow">Practical guide</p>
+        <h2>Run the project locally</h2>
+        <h3>Prerequisites</h3>
+        <ul>
+          <li>A current browser.</li>
+          <li>Git and Python 3 (or another static HTTP server).</li>
+          <li>
+            Access to the repository and appropriate source material for any
+            editorial correction.
+          </li>
+        </ul>
+        <h3>Steps</h3>
+        <pre
+          class="copyable-code"
+        ><code>git clone https://github.com/Guang84/RongmeiHymnal.git
+cd RongmeiHymnal
+python3 -m http.server 8000</code></pre>
+        <ol>
+          <li>
+            Open <code>http://localhost:8000</code> and check that the
+            registered collections load.
+          </li>
+          <li>
+            Search several terms across collections and open individual records.
+          </li>
+          <li>
+            Test reading controls, favourites, history, and local preferences.
+          </li>
+          <li>
+            For offline testing, use the application’s own download action and
+            wait for completion before disconnecting.
+          </li>
+          <li>
+            Reconnect and inspect how application or collection version changes
+            are detected.
+          </li>
+        </ol>
+        <p>
+          Use HTTP for local testing; opening files directly through
+          <code>file://</code> does not reproduce service-worker and offline
+          behaviour reliably.
+        </p>
+      </section>
+      <section class="detail-section" id="editorial-process">
+        <p class="eyebrow">Editorial workflow</p>
+        <h2>Correct text from a source, not from assumption</h2>
+        <ol>
+          <li>
+            Identify the collection, record identifier, title, number, and
+            current text.
+          </li>
+          <li>
+            Find the best available source scan, printed edition, or approved
+            reference.
+          </li>
+          <li>
+            Compare the proposed change carefully, including punctuation,
+            spelling, line breaks, and alternate numbering.
+          </li>
+          <li>
+            Preserve enough provenance and notes to explain an uncertain
+            correction.
+          </li>
+          <li>
+            Run JSON/schema and count validation, then test search and reading
+            behaviour.
+          </li>
+          <li>
+            Ask an appropriate community reviewer to resolve cultural or
+            linguistic uncertainties when needed.
+          </li>
+        </ol>
+        <p>
+          Do not silently “correct” unfamiliar wording just because a
+          spellchecker or language model suggests a more familiar phrase. A
+          structurally valid record can still contain a transcription or rights
+          error.
+        </p>
+      </section>
+      <section class="detail-section" id="offline-and-rights">
+        <p class="eyebrow">Offline use and rights</p>
+        <h2>Offline availability does not grant redistribution rights</h2>
+        <p>
+          Readers may need access without a stable connection, but publishing
+          software under an open-source licence does not automatically make
+          every included song text, translation, arrangement, recording, or
+          illustration free to redistribute. Keep software licensing separate
+          from content permissions and attribution.
+        </p>
+        <p>
+          Test the installed application after a full library download, then
+          test what happens when storage is limited, a download is interrupted,
+          or a later collection version is available. Keep a visible path for
+          users to report mistakes and rights concerns.
+        </p>
+      </section>
+      <section class="detail-section" id="validation">
+        <p class="eyebrow">Validation snapshot</p>
+        <h2>
+          Technical checks and editorial checks answer different questions
+        </h2>
+        <p>
+          The recorded snapshot dated 20 September 2026 documents three registry
+          entries resolving to 305, 930, and 36 records, with core JavaScript
+          syntax and public JSON parsing checks. Those checks support
+          consistency of the data shape and counts. They do not certify the
+          spelling, wording, attribution, or rights status of each hymn.
+        </p>
+        <p>
+          For current status, source and contribution details, use the
+          <a
+            href="https://github.com/Guang84/RongmeiHymnal"
+            rel="noopener noreferrer"
+            target="_blank"
+            >Rongmei Hymnal repository</a
+          >
+          and the deployed application linked from the repository. The project
+          remains a living digital edition rather than a claim that every record
+          is a final authoritative edition.
+        </p>
+      </section>
+      <section class="detail-section" id="project-links">
+        <p class="eyebrow">Source and current status</p>
+        <h2>Explore the project</h2>
+        <p>
+          Active · deployed · editorial review ongoing. I keep this page as a
+          public record of the project. For the current code, dependencies,
+          licence, issues, and setup steps, check the linked repository before
+          using it.
+        </p>
+        <div class="section-links">
+          <a
+            href="https://github.com/Guang84/RongmeiHymnal"
+            rel="noopener noreferrer"
+            target="_blank"
+            >Source repository ↗</a
+          >
+          ·
+          <a
+            href="https://guang84.github.io/RongmeiHymnal/"
+            rel="noopener noreferrer"
+            target="_blank"
+            >Live project ↗</a
+          >
+        </div>
+        <p>
+          If you spot an error, <a href="/contact.html">contact me</a> or raise
+          it in the linked repository.
+        </p>
+      </section>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

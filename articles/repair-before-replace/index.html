@@ -1,0 +1,512 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="A decision guide for diagnosing slow electronics, protecting data, checking repairability, extending useful life, and choosing responsible reuse or recycling in India."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>The Greenest Upgrade May Be the One You Do Not Buy — GLab</title>
+    <link
+      href="https://guang84.github.io/articles/repair-before-replace/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="article" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta
+      content="The Greenest Upgrade May Be the One You Do Not Buy — GLab"
+      property="og:title"
+    />
+    <meta
+      content="A decision guide for diagnosing slow electronics, protecting data, checking repairability, extending useful life, and choosing responsible reuse or recycling in India."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/articles/repair-before-replace/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="published" name="glab:article-status" />
+    <meta
+      content="The Greenest Upgrade May Be the One You Do Not Buy"
+      name="glab:article-title"
+    />
+    <meta content="2026-09-06" name="glab:article-date" />
+    <meta content="2026-10-11" name="glab:article-updated" />
+    <meta
+      content="A decision guide for diagnosing slow electronics, protecting data, checking repairability, extending useful life, and choosing responsible reuse or recycling in India."
+      name="glab:article-excerpt"
+    />
+    <meta content="Practical Guide" name="glab:article-kind" />
+    <meta content="3 min read" name="glab:article-read-time" />
+    <meta
+      content="Repairability, E-waste, Sustainability"
+      name="glab:article-tags"
+    />
+    <meta content="false" name="glab:article-featured" />
+    <meta content="repair-before-replace" name="glab:article-slug" />
+    <meta
+      content="The Greenest Upgrade May Be the One You Do Not Buy — GLab"
+      name="twitter:title"
+    />
+    <meta
+      content="A decision guide for diagnosing slow electronics, protecting data, checking repairability, extending useful life, and choosing responsible reuse or recycling in India."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "The Greenest Upgrade May Be the One You Do Not Buy",
+        "name": "The Greenest Upgrade May Be the One You Do Not Buy",
+        "description": "A decision guide for diagnosing slow electronics, protecting data, checking repairability, extending useful life, and choosing responsible reuse or recycling in India.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/articles/repair-before-replace/",
+        "datePublished": "2026-09-06",
+        "dateModified": "2026-10-11"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/articles/">Articles</a></li>
+        <li aria-current="page">
+          The Greenest Upgrade May Be the One You Do Not Buy
+        </li>
+      </ol>
+    </nav>
+    <main class="content-page" id="main">
+      <article>
+        <header class="content-hero">
+          <p class="eyebrow">Practical Guide · 3 min read</p>
+          <h1>The Greenest Upgrade May Be the One You Do Not Buy</h1>
+          <p class="lead">
+            A decision guide for diagnosing slow electronics, protecting data,
+            checking repairability, extending useful life, and choosing
+            responsible reuse or recycling in India.
+          </p>
+          <p class="content-meta">
+            By Guang · Published <time datetime="2026-09-06">2026-09-06</time> ·
+            Updated <time datetime="2026-10-11">2026-10-11</time>
+          </p>
+          <ul class="tag-list">
+            <li>Repairability</li>
+            <li>E-waste</li>
+            <li>Sustainability</li>
+          </ul>
+          <div class="hero-actions">
+            <a class="button-secondary" href="/articles/">All articles</a>
+          </div>
+        </header>
+        <div class="article-body">
+          <nav class="doc-toc" aria-label="On this page">
+            <details open>
+              <summary>On this page</summary>
+              <ol>
+                <li>
+                  <a href="#diagnose"
+                    >Find the real bottleneck before replacing the device</a
+                  >
+                </li>
+                <li>
+                  <a href="#repairability"
+                    >Repairability is something you can investigate</a
+                  >
+                </li>
+                <li>
+                  <a href="#data-safety"
+                    >Protect your data and account access</a
+                  >
+                </li>
+                <li>
+                  <a href="#reuse"
+                    >Reuse first; recycle devices that have reached the end</a
+                  >
+                </li>
+                <li>
+                  <a href="#buying-better"
+                    >Make the next device easier to maintain</a
+                  >
+                </li>
+                <li><a href="#sources">Responsible disposal</a></li>
+              </ol>
+            </details>
+          </nav>
+
+          <section class="detail-section" id="diagnose">
+            <p class="eyebrow">Before shopping</p>
+            <h2>Find the real bottleneck before replacing the device</h2>
+            <p>
+              A slow computer does not automatically need a new computer. It may
+              have too many startup applications, little free storage, failing
+              cooling, old software, a failing battery, or a workload that has
+              outgrown its memory. A phone may need a battery or port repair
+              rather than a replacement. Start with symptoms and a backup, not a
+              shopping cart.
+            </p>
+            <ol>
+              <li>Describe the problem and when it began.</li>
+              <li>Back up essential files and verify that the backup opens.</li>
+              <li>
+                Check storage health, system updates, temperatures, startup
+                processes, and error messages using trusted tools.
+              </li>
+              <li>
+                Compare the cost and likely life of a repair with replacement.
+              </li>
+              <li>
+                Get a second opinion for a costly or safety-critical repair.
+              </li>
+            </ol>
+          </section>
+          <section class="detail-section" id="repairability">
+            <p class="eyebrow">Research the device</p>
+            <h2>Repairability is something you can investigate</h2>
+            <p>
+              Before buying or repairing, check whether the battery, storage,
+              memory, keyboard, screen, charging port, and other likely failure
+              points can be serviced. Find the official maintenance guide and
+              consider replacement-part availability, warranty terms, tool
+              requirements, and repair cost. Some components are bonded or
+              soldered; that can make replacement expensive or impractical.
+            </p>
+            <p>
+              For a laptop, the ability to upgrade RAM or storage may extend its
+              useful life. For a phone, battery service and software-support
+              duration may matter more than a small performance difference. For
+              any device, a repair that is unsafe or likely to fail should not
+              be forced simply to avoid buying new.
+            </p>
+          </section>
+          <section class="detail-section" id="data-safety">
+            <p class="eyebrow">Before service</p>
+            <h2>Protect your data and account access</h2>
+            <ul>
+              <li>Create and test a current backup.</li>
+              <li>
+                Understand the repair provider’s access requirements and
+                data-handling process.
+              </li>
+              <li>
+                Remove confidential material or use a supported maintenance mode
+                when appropriate.
+              </li>
+              <li>
+                Never hand over account passwords or recovery codes casually;
+                use official service procedures.
+              </li>
+              <li>
+                After repair, verify the device, storage, battery, ports, and
+                security updates before returning it to normal use.
+              </li>
+            </ul>
+          </section>
+          <section class="detail-section" id="reuse">
+            <p class="eyebrow">If repair is not sensible</p>
+            <h2>Reuse first; recycle devices that have reached the end</h2>
+            <p>
+              A functional device can sometimes be repurposed for offline
+              references, a local test machine, a lightweight server, or
+              donation to an organization that can support it. A donation should
+              include a realistic description of condition and software support.
+              Wipe personal data securely and remove accounts before
+              transferring ownership.
+            </p>
+            <p>
+              If the device is broken beyond safe repair, use an authorized
+              collection or recycling channel. Do not dismantle batteries or
+              electronic components without the training and equipment needed to
+              handle them safely. For India-specific obligations and collection
+              pathways, consult the
+              <a
+                href="https://cpcb.nic.in/"
+                rel="noopener noreferrer"
+                target="_blank"
+                >Central Pollution Control Board</a
+              >
+              and current local guidance rather than relying on an outdated list
+              of collection centres.
+            </p>
+          </section>
+          <section class="detail-section" id="buying-better">
+            <p class="eyebrow">Next purchase</p>
+            <h2>Make the next device easier to maintain</h2>
+            <ul>
+              <li>
+                Choose enough memory and storage for the planned useful life.
+              </li>
+              <li>Check the manufacturer’s stated software-support period.</li>
+              <li>Compare battery replacement cost and availability.</li>
+              <li>
+                Read the repair manual before purchase, not after a failure.
+              </li>
+              <li>
+                Use a protective case or sleeve and avoid preventable heat,
+                liquid, and charging damage.
+              </li>
+              <li>
+                Keep a small note with model number, serial number, warranty,
+                parts, and backup status.
+              </li>
+            </ul>
+            <p>
+              Repair is not always the lowest-cost or safest option. The goal is
+              to make a reasoned decision that balances cost, expected life,
+              data security, environmental impact, and practical constraints.
+            </p>
+          </section>
+          <section class="detail-section" id="sources">
+            <p class="eyebrow">Reference</p>
+            <h2>Responsible disposal</h2>
+            <p>
+              Use the
+              <a
+                href="https://cpcb.nic.in/"
+                rel="noopener noreferrer"
+                target="_blank"
+                >Central Pollution Control Board website</a
+              >
+              to locate current e-waste rules and official guidance for India.
+              Collection programmes and requirements can change, so verify
+              details locally before handing over equipment.
+            </p>
+          </section>
+        </div>
+        <footer class="detail-section">
+          <p>
+            I wrote this as a working note, not a final authority. Check the
+            linked primary sources and current instructions before acting on
+            anything that affects safety, money, or a live system.
+          </p>
+          <p>
+            <a href="/editorial-policy.html"
+              >Editorial policy and corrections</a
+            >
+            · <a href="/contact.html">Contact</a> ·
+            <a href="/articles/">Browse all articles</a>
+          </p>
+        </footer>
+      </article>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

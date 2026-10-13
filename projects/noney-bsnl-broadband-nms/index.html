@@ -1,0 +1,559 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="A retired rural broadband operations platform that brought service workflows, network visibility, infrastructure planning, mapping, and administration into one workspace."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>Noney BSNL Broadband NMS — GLab</title>
+    <link
+      href="https://guang84.github.io/projects/noney-bsnl-broadband-nms/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="website" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta content="Noney BSNL Broadband NMS — GLab" property="og:title" />
+    <meta
+      content="A retired rural broadband operations platform that brought service workflows, network visibility, infrastructure planning, mapping, and administration into one workspace."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/projects/noney-bsnl-broadband-nms/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="Noney BSNL Broadband NMS" name="glab:project-title" />
+    <meta
+      content="A retired rural broadband operations platform that brought service workflows, network visibility, infrastructure planning, mapping, and administration into one workspace."
+      name="glab:project-summary"
+    />
+    <meta content="Network Operations" name="glab:project-category" />
+    <meta content="2026" name="glab:project-year" />
+    <meta content="Completed · production retired" name="glab:project-status" />
+    <meta content="2026-10-11" name="glab:project-updated" />
+    <meta
+      content="Broadband operations, Network management, Python, JavaScript"
+      name="glab:project-tags"
+    />
+    <meta content="true" name="glab:project-featured" />
+    <meta
+      content="https://github.com/Guang84/Noney-BSNL-Broadband-NMS"
+      name="glab:project-repository"
+    />
+    <meta
+      content="https://guang84.github.io/Noney-BSNL-Broadband-NMS/"
+      name="glab:project-demo"
+    />
+    <meta
+      content="How to read this case study"
+      name="glab:project-guide-title"
+    />
+    <meta
+      content="Understand the operational problem, system boundary, deployment model, and what can or cannot be inferred from the retired production implementation."
+      name="glab:project-guide-summary"
+    />
+    <meta content="Not specified" name="glab:project-license" />
+    <meta content="Noney BSNL Broadband NMS — GLab" name="twitter:title" />
+    <meta
+      content="A retired rural broadband operations platform that brought service workflows, network visibility, infrastructure planning, mapping, and administration into one workspace."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "TechArticle",
+        "headline": "Noney BSNL Broadband NMS",
+        "name": "Noney BSNL Broadband NMS",
+        "description": "A retired rural broadband operations platform that brought service workflows, network visibility, infrastructure planning, mapping, and administration into one workspace.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/projects/noney-bsnl-broadband-nms/",
+        "datePublished": "2026-01-01",
+        "dateModified": "2026-10-11"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/projects/">Projects</a></li>
+        <li aria-current="page">Noney BSNL Broadband NMS</li>
+      </ol>
+    </nav>
+    <main class="content-page case-page" id="main">
+      <header class="case-hero">
+        <div>
+          <p class="eyebrow">Network Operations · 2026</p>
+          <h1>Noney BSNL Broadband NMS</h1>
+          <p class="lead">
+            A retired rural broadband operations platform that brought service
+            workflows, network visibility, infrastructure planning, mapping, and
+            administration into one workspace.
+          </p>
+          <ul class="tag-list">
+            <li>Broadband operations</li>
+            <li>Network management</li>
+            <li>Python</li>
+            <li>JavaScript</li>
+          </ul>
+        </div>
+        <div class="case-facts">
+          <div>
+            <span>Status</span><strong>Completed · production retired</strong>
+          </div>
+          <div><span>Year</span><strong>2026</strong></div>
+        </div>
+      </header>
+
+      <nav class="doc-toc" aria-label="On this page">
+        <details open>
+          <summary>On this page</summary>
+          <ol>
+            <li><a href="#quick-reference">Project snapshot</a></li>
+            <li>
+              <a href="#background"
+                >Software shaped by rural broadband operations</a
+              >
+            </li>
+            <li>
+              <a href="#operational-problem"
+                >One operational view across service and infrastructure</a
+              >
+            </li>
+            <li>
+              <a href="#architecture"
+                >A public gateway, a private operational system</a
+              >
+            </li>
+            <li>
+              <a href="#development-lessons"
+                >Build around the operator’s workflow, then make failure
+                visible</a
+              >
+            </li>
+            <li>
+              <a href="#review-guide"
+                >How to evaluate a similar network-management system</a
+              >
+            </li>
+            <li>
+              <a href="#status">Completed system, retired from production</a>
+            </li>
+            <li><a href="#project-links">Explore the project</a></li>
+          </ol>
+        </details>
+      </nav>
+
+      <section class="detail-section quick-reference" id="quick-reference">
+        <p class="eyebrow">Quick reference</p>
+        <h2>Project snapshot</h2>
+        <p>I keep this page as a retrospective case study of the operational problem and the design lessons. It is not a deployment guide: the production environment is retired, and the public record deliberately leaves out private system details.</p>
+        <div class="doc-table-scroll" role="region" aria-label="Project snapshot" tabindex="0">
+          <table class="doc-table">
+            <caption>Project facts and current boundaries</caption>
+            <thead><tr><th scope="col">Area</th><th scope="col">Documented details</th><th scope="col">How to interpret it</th></tr></thead>
+            <tbody>
+              <tr><td>Purpose</td><td>Connect service workflows with network visibility, infrastructure records, mapping, fault follow-up, and reporting</td><td>Documented operational intent, not an active service</td></tr>
+              <tr><td>Lifecycle</td><td>Completed; production environment retired</td><td>No running public service or supported redeployment is implied</td></tr>
+              <tr><td>Public repository</td><td>Static gateway and project documentation</td><td>The private operational application and configuration are not included</td></tr>
+              <tr><td>Best use of this page</td><td>Design review, workflow lessons, and safe retirement boundaries</td><td>Do not use old endpoints or operational data</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+      <section class="detail-section" id="background">
+        <p class="eyebrow">Background</p>
+        <h2>Software shaped by rural broadband operations</h2>
+        <p>
+          When I explain this project, I start with the workflow rather than
+          with a feature list. The project record describes an independently
+          developed operations platform for a rural BSNL franchise, intended to
+          bring customer service, network monitoring, infrastructure planning,
+          mapping, and administration into a more coherent workspace. These
+          activities affect one another, so the context around a task can be as
+          important as the screen used to record it.
+        </p>
+        <p>
+          The available project notes do not establish a single start date or
+          one founding incident, so this case study explains the operational
+          problem and recorded architecture rather than inventing a precise
+          origin story. The platform is now marked completed and
+          production-retired; it is preserved here as a portfolio and learning
+          record, not as an active public service.
+        </p>
+      </section>
+      <section class="detail-section" id="operational-problem">
+        <p class="eyebrow">Problem framing</p>
+        <h2>One operational view across service and infrastructure</h2>
+        <p>
+          Broadband operations require a relationship between subscriber
+          information, service status, network infrastructure, location, and
+          follow-up work. When records and tools are fragmented, staff must
+          repeatedly reconcile information and can lose the context needed to
+          resolve a fault or plan a change.
+        </p>
+        <p>
+          The NMS aimed to centralize those work areas. In reading the design,
+          distinguish an operator-facing workflow from the actual
+          network-control boundary: a dashboard can improve visibility, but it
+          does not make live device state trustworthy unless updates,
+          timestamps, ownership, and failure behaviour are also clear.
+        </p>
+      </section>
+      <section class="detail-section" id="architecture">
+        <p class="eyebrow">Architecture at a glance</p>
+        <h2>A public gateway, a private operational system</h2>
+        <p>
+          The recorded design separated a stable public information and gateway
+          layer from a locally operated application used for internal work. The
+          public repository preserves the gateway and project documentation; the
+          original production environment is retired, and this page is not an
+          instruction for reaching or rebuilding that private deployment.
+        </p>
+        <div class="doc-table-scroll" role="region" aria-label="System layers" tabindex="0">
+          <table class="doc-table">
+            <caption>Public and operational boundaries described by this case study</caption>
+            <thead><tr><th scope="col">Layer</th><th scope="col">Role in the documented design</th><th scope="col">Public boundary</th></tr></thead>
+            <tbody>
+              <tr><td>Public gateway</td><td>Project information, status, and documentation</td><td>Safe public-facing description only</td></tr>
+              <tr><td>Operational layer</td><td>Historical workflows for service information, monitoring, planning, mapping, and administration</td><td>Private application and production configuration are not included</td></tr>
+              <tr><td>Access boundary</td><td>Separates public information from authenticated operations</td><td>No credentials, customer records, internal endpoints, or private topology are published</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          This case study intentionally avoids endpoint names, tunnel details,
+          host-level configuration, credentials, customer records, and other
+          information that could expose a private environment. The broad lesson
+          is to design the boundary between public information and authenticated
+          operations explicitly, not to rely on an obscure URL.
+        </p>
+      </section>
+      <section class="detail-section" id="development-lessons">
+        <p class="eyebrow">Development lessons</p>
+        <h2>Build around the operator’s workflow, then make failure visible</h2>
+        <p>
+          The useful engineering lessons are broader than one interface. A
+          network tool needs a clear source of truth for each record, explicit
+          ownership of updates, timestamps that show data freshness, and a
+          useful response when its network connection is unavailable. A
+          dashboard should help an operator know what is known, what is stale,
+          and what action is safe.
+        </p>
+        <ul>
+          <li>
+            Keep static public pages separate from authenticated operational
+            functions.
+          </li>
+          <li>
+            Show when remote data was last refreshed and when a service is
+            unavailable.
+          </li>
+          <li>
+            Make fallback behaviour understandable to users instead of showing a
+            blank or misleading status.
+          </li>
+          <li>
+            Document who may change customer, infrastructure, and administrative
+            records.
+          </li>
+          <li>
+            Maintain a clear shutdown and credential-rotation process when a
+            production service is retired.
+          </li>
+        </ul>
+      </section>
+      <span id="guide" aria-hidden="true"></span>
+      <section class="detail-section" id="review-guide">
+        <p class="eyebrow">Technical review guide</p>
+        <h2>How to evaluate a similar network-management system</h2>
+        <ol>
+          <li>
+            Map the users, workflows, and records the system is intended to
+            support.
+          </li>
+          <li>
+            Draw the boundary between public pages, the application, network
+            devices, databases, and remote access.
+          </li>
+          <li>
+            Identify authentication, authorization, logging, secrets, and
+            data-retention mechanisms.
+          </li>
+          <li>
+            Test network loss, tunnel failure, stale data, invalid input, and
+            application restart behaviour.
+          </li>
+          <li>
+            Confirm backups, restore procedures, monitoring, incident contacts,
+            and a documented retirement plan.
+          </li>
+        </ol>
+        <p>
+          The original project is retired, so these steps are for design review
+          and learning. Do not use old production endpoints or operational data
+          without authorization.
+        </p>
+      </section>
+      <section class="detail-section" id="status">
+        <p class="eyebrow">Current status</p>
+        <h2>Completed system, retired from production</h2>
+        <p>
+          This page is a portfolio record of the system’s operational purpose
+          and documented design. It does not promise a running service, current
+          integrations, or support for a new deployment. The linked public
+          repository is a static gateway and documentation surface; it does not
+          provide the private production application or its internal
+          configuration.
+        </p>
+      </section>
+      <section class="detail-section" id="project-links">
+        <p class="eyebrow">Source and current status</p>
+        <h2>Explore the project</h2>
+        <p>
+          Completed · production retired. I keep this page as a public record of
+          the project. For the current code, dependencies, licence, issues, and
+          setup steps, check the linked repository before using it.
+        </p>
+        <div class="section-links">
+          <a
+            href="https://github.com/Guang84/Noney-BSNL-Broadband-NMS"
+            rel="noopener noreferrer"
+            target="_blank"
+            >Source repository ↗</a
+          >
+          ·
+          <a
+            href="https://guang84.github.io/Noney-BSNL-Broadband-NMS/"
+            rel="noopener noreferrer"
+            target="_blank"
+            >Live project ↗</a
+          >
+        </div>
+        <p>
+          If you spot an error, <a href="/contact.html">contact me</a> or raise
+          it in the linked repository.
+        </p>
+      </section>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

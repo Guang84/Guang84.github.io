@@ -1,0 +1,581 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="How a practical broadband-operations problem shaped GLabNetOps, what changed as the work grew, and what is intentionally kept out of the public project record."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>
+      From Broadband Operations to GLabNetOps: The Project Story — GLab
+    </title>
+    <link
+      href="https://guang84.github.io/articles/glabnetops-project-story/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="article" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta
+      content="From Broadband Operations to GLabNetOps: The Project Story — GLab"
+      property="og:title"
+    />
+    <meta
+      content="How a practical broadband-operations problem shaped GLabNetOps, what changed as the work grew, and what is intentionally kept out of the public project record."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/articles/glabnetops-project-story/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="draft" name="glab:article-status" />
+    <meta
+      content="From Broadband Operations to GLabNetOps: The Project Story"
+      name="glab:article-title"
+    />
+    <meta content="2026-10-12" name="glab:article-date" />
+    <meta content="2026-10-12" name="glab:article-updated" />
+    <meta
+      content="How a practical broadband-operations problem shaped GLabNetOps, what changed as the work grew, and what is intentionally kept out of the public project record."
+      name="glab:article-excerpt"
+    />
+    <meta content="Project Story" name="glab:article-kind" />
+    <meta content="7 min read" name="glab:article-read-time" />
+    <meta
+      content="GLabNetOps, Network Operations, Broadband, Software Projects, Documentation"
+      name="glab:article-tags"
+    />
+    <meta content="true" name="glab:article-featured" />
+    <meta content="glabnetops-project-story" name="glab:article-slug" />
+    <meta
+      content="From Broadband Operations to GLabNetOps: The Project Story — GLab"
+      name="twitter:title"
+    />
+    <meta
+      content="How a practical broadband-operations problem shaped GLabNetOps, what changed as the work grew, and what is intentionally kept out of the public project record."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "From Broadband Operations to GLabNetOps: The Project Story — GLab",
+        "name": "From Broadband Operations to GLabNetOps: The Project Story — GLab",
+        "description": "How a practical broadband-operations problem shaped GLabNetOps, what changed as the work grew, and what is intentionally kept out of the public project record.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/articles/glabnetops-project-story/",
+        "datePublished": "2026-10-11",
+        "dateModified": "2026-10-12"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/articles/">Articles</a></li>
+        <li aria-current="page">
+          What I Use ChatGPT For: Practical Uses, Benefits, and Limits
+        </li>
+      </ol>
+    </nav>
+    <main class="content-page" id="main">
+      <article>
+        <header class="content-hero">
+          <p class="eyebrow">Project Story · 7 min read</p>
+          <h1>From Broadband Operations to GLabNetOps: The Project Story</h1>
+          <p class="lead">
+            The background behind my network-operations work: the practical
+            problem that shaped the Noney Broadband NMS, what changed as the
+            projects grew, and how I’m documenting the work publicly now.
+          </p>
+          <p class="content-meta">
+            By Guang · Published
+            <time datetime="2026-10-12">12 October 2026</time> · Updated
+            <time datetime="2026-10-12">12 October 2026</time>
+          </p>
+          <ul class="tag-list">
+            <li>GLabNetOps</li>
+            <li>Project history</li>
+            <li>Network operations</li>
+          </ul>
+        </header>
+        <div class="article-body">
+          <nav class="doc-toc" aria-label="On this page">
+            <details open>
+              <summary>On this page</summary>
+              <ol>
+                <li>
+                  <a href="#starting-point"
+                    >The project started with connected work that was hard to
+                    see in one place</a
+                  >
+                </li>
+                <li>
+                  <a href="#the-first-system"
+                    >Noney Broadband NMS: one workspace for service and network
+                    operations</a
+                  >
+                </li>
+                <li>
+                  <a href="#what-changed"
+                    >From a single case to a set of narrower tools</a
+                  >
+                </li>
+                <li>
+                  <a href="#major-upgrades"
+                    >What I want the public record to explain better</a
+                  >
+                </li>
+                <li>
+                  <a href="#public-scope"
+                    >Enough to understand the work, not enough to expose private
+                    operations</a
+                  >
+                </li>
+                <li>
+                  <a href="#where-next"
+                    >Build, verify, document, then decide what should be
+                    public</a
+                  >
+                </li>
+                <li><a href="#references">Project records</a></li>
+              </ol>
+            </details>
+          </nav>
+
+          <section class="detail-section" id="starting-point">
+            <p class="eyebrow">The practical problem</p>
+            <h2>
+              The project started with connected work that was hard to see in
+              one place
+            </h2>
+            <p>
+              The public notes for Noney BSNL Broadband NMS describe a rural
+              broadband-franchise setting where work around customer services,
+              network monitoring, infrastructure information, mapping, fault
+              follow-up, and reporting needed to support one another. When those
+              tasks are handled separately, it takes extra effort to connect a
+              service issue with the right network context and the next action.
+            </p>
+            <p>
+              The project goal was to make that work easier to organize in one
+              operational workspace. I do not have a verified single start date
+              or a documented one-day origin event to report, so this is a
+              summary of the problem described in the project record—not a
+              reconstructed personal anecdote.
+            </p>
+          </section>
+          <section class="detail-section" id="the-first-system">
+            <p class="eyebrow">First form</p>
+            <h2>
+              Noney Broadband NMS: one workspace for service and network
+              operations
+            </h2>
+            <p>
+              The NMS brought together service-facing workflows, network
+              visibility, infrastructure planning, geographic context, and
+              administrative work. The lasting lesson is not that a dashboard
+              solves operations on its own; it is that a shared view is useful
+              only when data ownership, freshness, access control, failure
+              states, and follow-up responsibilities are clear.
+            </p>
+            <p>
+              The production system is now retired. The public
+              <a href="/projects/noney-bsnl-broadband-nms/"
+                >Noney Broadband NMS case study</a
+              >
+              describes the purpose and general design lessons. Its public
+              GitHub repository is a gateway and documentation surface; the
+              private production application and internal configuration are not
+              being republished here.
+            </p>
+          </section>
+          <section class="detail-section" id="what-changed">
+            <p class="eyebrow">How the work grew</p>
+            <h2>From a single case to a set of narrower tools</h2>
+            <p>
+              As I documented the work, it made sense to separate broad
+              operational history from smaller tools that solve a more focused
+              problem. GLabNetOps is the working name I use for that direction
+              on this site, rather than the name of one released, connected
+              product.
+            </p>
+            <ul>
+              <li>
+                <strong>Network Analyzer:</strong> an archived 2024
+                wireless-analysis project and a separate 2026 Linux toolkit are
+                documented as distinct releases. The current case study explains
+                the intended authorized lab scope and limitations.
+              </li>
+              <li>
+                <strong>SSH Fleet Doctor:</strong> an in-development project
+                exploring SSH-based administration and health checks with a
+                narrow, explicitly authorized scope.
+              </li>
+              <li>
+                <strong>Public project pages:</strong> each tool now has a case
+                study covering purpose, available setup information, lifecycle
+                status, and safe-use boundaries.
+              </li>
+              <li>
+                <strong>Clearer public/private separation:</strong> the showcase
+                focuses on documented lessons and public repositories, not
+                private deployment internals or live operational data.
+              </li>
+            </ul>
+            <p>
+              These tools are related by the problems I’m interested in—network
+              operations, system visibility, and practical automation—but I’m
+              not claiming they share a single backend or are integrated into
+              one production service.
+            </p>
+          </section>
+          <section class="detail-section" id="major-upgrades">
+            <p class="eyebrow">Major upgrades</p>
+            <h2>What I want the public record to explain better</h2>
+            <p>
+              The main upgrades in this phase are as much about maintainability
+              and communication as about features. A reader should be able to
+              work out what each project is for, whether it is current, what a
+              safe test looks like, and what is deliberately not shared.
+            </p>
+            <ol>
+              <li>
+                Give each project one permanent case-study URL and a clear
+                lifecycle label.
+              </li>
+              <li>
+                Document prerequisites and verification rather than giving setup
+                steps without expected results.
+              </li>
+              <li>
+                Keep the retired NMS as a historical case study instead of
+                implying its production service is live.
+              </li>
+              <li>
+                Separate the Network Analyzer versions and preserve the older
+                release as history.
+              </li>
+              <li>
+                Explain the scope and limits of SSH Fleet Doctor without
+                treating an in-development tool as production-ready.
+              </li>
+              <li>
+                Add public-safe screenshots only after reviewing and redacting
+                them, with captions that explain what the image actually
+                demonstrates.
+              </li>
+            </ol>
+          </section>
+          <section class="detail-section" id="public-scope">
+            <p class="eyebrow">What I share publicly</p>
+            <h2>
+              Enough to understand the work, not enough to expose private
+              operations
+            </h2>
+            <p>
+              GLab can show the problem, intended workflow, high-level design
+              decisions, development lessons, status, and links to public
+              documentation. It should not publish production source code that
+              is meant to remain private, credentials, access tokens, internal
+              hostnames, network topology, live administrative endpoints,
+              customer records, subscriber details, or unredacted operational
+              screenshots.
+            </p>
+            <p>
+              The current case study focuses on the problem, high-level design,
+              lifecycle, and lessons rather than reproducing live operational
+              screens. I’ll add diagrams or screenshots only when they are
+              suitable for public release and have been checked for sensitive
+              information.
+            </p>
+          </section>
+          <section class="detail-section" id="where-next">
+            <p class="eyebrow">Current direction</p>
+            <h2>Build, verify, document, then decide what should be public</h2>
+            <p>
+              The next phase is to keep project pages and setup notes current,
+              improve reproducibility where the code is public, and update the
+              case studies when there is a verified change worth recording. I
+              would rather label a limitation clearly than make a roadmap sound
+              like a shipped feature.
+            </p>
+            <p>
+              Start with the
+              <a href="/projects/glabnetops/">GLabNetOps public overview</a>, or
+              browse the
+              <a
+                href="https://github.com/Guang84?tab=repositories"
+                rel="noopener noreferrer"
+                target="_blank"
+                >public repositories on GitHub</a
+              >. The repository is the authority for its own current files,
+              release status, and licence.
+            </p>
+          </section>
+          <section class="detail-section" id="references">
+            <p class="eyebrow">References</p>
+            <h2>Project records</h2>
+            <ul>
+              <li>
+                <a
+                  href="https://github.com/Guang84/Noney-BSNL-Broadband-NMS"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >Noney-BSNL-Broadband-NMS public repository</a
+                >
+                — project background, public gateway purpose, status, and
+                privacy boundary.
+              </li>
+              <li>
+                <a
+                  href="https://github.com/Guang84/Network-Analyzer"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >Network Analyzer public repository</a
+                >
+                — public project record and historical version information.
+              </li>
+              <li>
+                <a href="/projects/ssh-fleet-doctor/"
+                  >SSH Fleet Doctor case study</a
+                >
+                — current development status and authorized-use guidance.
+              </li>
+            </ul>
+          </section>
+        </div>
+        <footer class="detail-section">
+          <p>
+            Written by Guang for GLab. This story uses the available project
+            records and avoids filling gaps with an invented timeline or
+            unverified results.
+          </p>
+          <p>
+            <a href="/editorial-policy.html">Editorial policy</a> ·
+            <a href="/contact.html">Suggest a correction</a> ·
+            <a href="/articles/">More articles</a>
+          </p>
+        </footer>
+      </article>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

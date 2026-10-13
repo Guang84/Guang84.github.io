@@ -1,16 +1,227 @@
 {
-  "schemaVersion": 1,
-  "contentVersion": "4233cdf8d07da655",
-  "updated": "2026-09-20",
-  "files": [
-    "buying-laptop-2026-specs-guide.json",
-    "right-sized-ai.json",
-    "repair-before-replace.json",
-    "passkeys-and-the-human-side-of-security.json",
-    "better-light-better-night.json",
-    "soil-sensors-need-ground-truth.json",
-    "learning-from-soil.json",
-    "responsible-ai.json",
-    "security-is-care.json"
+  "schemaVersion": 2,
+  "contentVersion": "6cb49b790b8e2f40",
+  "updated": "2026-10-13",
+  "items": [
+    {
+      "id": "glabnetops-project-story",
+      "title": "From Broadband Operations to GLabNetOps: The Project Story",
+      "date": "2026-10-12",
+      "updated": "2026-10-12",
+      "excerpt": "How a practical broadband-operations problem shaped GLabNetOps, what changed as the work grew, and what is intentionally kept out of the public project record.",
+      "kind": "Project Story",
+      "readTime": "7 min read",
+      "tags": [
+        "GLabNetOps",
+        "Network Operations",
+        "Broadband",
+        "Software Projects",
+        "Documentation"
+      ],
+      "publicationStatus": "published",
+      "featured": true
+    },
+    {
+      "id": "building-with-nature-in-mind",
+      "title": "Building with Nature in Mind: A Practical Technology Checklist",
+      "date": "2026-10-12",
+      "updated": "2026-10-12",
+      "excerpt": "A practical checklist for choosing tools that fit local needs, use data responsibly, remain maintainable, and take environmental effects seriously—without treating every new device as progress.",
+      "kind": "Practical Essay",
+      "readTime": "6 min read",
+      "tags": [
+        "Technology",
+        "Sustainability",
+        "Community",
+        "Engineering",
+        "Sustainable farming"
+      ],
+      "publicationStatus": "published",
+      "featured": true
+    },
+    {
+      "id": "chatgpt-uses-benefits-and-limits",
+      "title": "What I Use ChatGPT For: Practical Uses, Benefits, and Limits",
+      "date": "2026-10-11",
+      "updated": "2026-10-12",
+      "excerpt": "Practical notes on using ChatGPT for daily planning, exam study, research, writing and technical work—what it makes easier, where it fails, and how I check the answer.",
+      "kind": "Practical Guide",
+      "readTime": "8 min read",
+      "tags": [
+        "ChatGPT",
+        "AI",
+        "Productivity",
+        "Study",
+        "Research",
+        "Technology"
+      ],
+      "publicationStatus": "published",
+      "featured": true
+    },
+    {
+      "id": "chatgpt-daily-planning-learning-guide",
+      "title": "How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving",
+      "date": "2026-10-11",
+      "updated": "2026-10-12",
+      "excerpt": "A realistic routine for a morning brief, competitive-exam practice, GLabNetOps and technical work, and an evening review—with verification, privacy, and realistic limits built in.",
+      "kind": "Practical Guide",
+      "readTime": "8 min read",
+      "tags": [
+        "ChatGPT",
+        "Daily planning",
+        "Study",
+        "Productivity",
+        "AI"
+      ],
+      "publicationStatus": "published",
+      "featured": true
+    },
+    {
+      "id": "buying-laptop-2026-specs-guide",
+      "title": "How to Choose a Laptop for Real Work in 2026",
+      "date": "2026-09-10",
+      "updated": "2026-10-11",
+      "excerpt": "A workload-first laptop buying guide for trading, multitasking, development, Linux, virtual machines, cybersecurity labs, and networking—covering performance, thermals, battery, upgradeability, and value in India.",
+      "kind": "Buying Guide",
+      "readTime": "7 min read",
+      "tags": [
+        "Laptop buying",
+        "Windows",
+        "Linux",
+        "Virtualization",
+        "India"
+      ],
+      "publicationStatus": "published",
+      "featured": true
+    },
+    {
+      "id": "repair-before-replace",
+      "title": "The Greenest Upgrade May Be the One You Do Not Buy",
+      "date": "2026-09-06",
+      "updated": "2026-10-11",
+      "excerpt": "A decision guide for diagnosing slow electronics, protecting data, checking repairability, extending useful life, and choosing responsible reuse or recycling in India.",
+      "kind": "Practical Guide",
+      "readTime": "3 min read",
+      "tags": [
+        "Repairability",
+        "E-waste",
+        "Sustainability"
+      ],
+      "publicationStatus": "published",
+      "featured": false
+    },
+    {
+      "id": "passkeys-and-the-human-side-of-security",
+      "title": "Passkeys, Recovery, and the Human Side of Security",
+      "date": "2026-09-06",
+      "updated": "2026-10-11",
+      "excerpt": "A practical guide to phishing-resistant sign-in, account recovery, backup methods, and the habits that keep a stronger login system usable.",
+      "kind": "Practical Guide",
+      "readTime": "3 min read",
+      "tags": [
+        "Cybersecurity",
+        "Passkeys",
+        "Account safety"
+      ],
+      "publicationStatus": "published",
+      "featured": true
+    },
+    {
+      "id": "right-sized-ai",
+      "title": "How I Decide Whether a Task Needs AI",
+      "date": "2026-09-06",
+      "updated": "2026-10-11",
+      "excerpt": "A practical decision framework for choosing between AI, ordinary software, web research, and a person—with verification, privacy, and error cost built in.",
+      "kind": "Practical Essay",
+      "readTime": "4 min read",
+      "tags": [
+        "AI",
+        "Decision-making",
+        "Responsible technology"
+      ],
+      "publicationStatus": "published",
+      "featured": true
+    },
+    {
+      "id": "better-light-better-night",
+      "title": "Better Light Begins by Protecting the Dark",
+      "date": "2026-09-06",
+      "updated": "2026-10-11",
+      "excerpt": "A practical outdoor-lighting checklist: aim light where it is needed, use no more than necessary, choose warm light where suitable, add controls, and inspect spill after dark.",
+      "kind": "Practical Guide",
+      "readTime": "3 min read",
+      "tags": [
+        "Sustainability",
+        "Outdoor lighting",
+        "Energy"
+      ],
+      "publicationStatus": "published",
+      "featured": false
+    },
+    {
+      "id": "soil-sensors-need-ground-truth",
+      "title": "A Soil Sensor Is a Question, Not an Answer",
+      "date": "2026-09-06",
+      "updated": "2026-10-11",
+      "excerpt": "A field-ready framework for placing moisture sensors, checking readings against soil and crop conditions, keeping an irrigation log, and avoiding false precision.",
+      "kind": "Practical Guide",
+      "readTime": "3 min read",
+      "tags": [
+        "Sustainable farming",
+        "Sensors",
+        "Soil moisture"
+      ],
+      "publicationStatus": "published",
+      "featured": true
+    },
+    {
+      "id": "learning-from-soil",
+      "title": "What Soil Can Teach Us About Measurement",
+      "date": "2026-08-18",
+      "updated": "2026-10-11",
+      "excerpt": "A short reflection on uncertainty, context, and why measurement tools should support local knowledge instead of pretending one number tells the whole story.",
+      "kind": "Field Note",
+      "readTime": "3 min read",
+      "tags": [
+        "Sustainable farming",
+        "Measurement",
+        "Learning"
+      ],
+      "publicationStatus": "published",
+      "featured": false
+    },
+    {
+      "id": "responsible-ai",
+      "title": "Before I Build With AI, I Ask Who Carries the Risk",
+      "date": "2026-07-11",
+      "updated": "2026-10-11",
+      "excerpt": "A practical AI review checklist covering intended users, error costs, privacy, transparency, human override, and ways to challenge or correct outputs.",
+      "kind": "Practical Essay",
+      "readTime": "3 min read",
+      "tags": [
+        "Responsible AI",
+        "Privacy",
+        "Product design"
+      ],
+      "publicationStatus": "published",
+      "featured": false
+    },
+    {
+      "id": "security-is-care",
+      "title": "Security Is a Form of Care",
+      "date": "2026-04-22",
+      "updated": "2026-10-11",
+      "excerpt": "A practical, human-centred security guide to reducing risk, respecting consent, protecting identity, limiting privileged access, responding to incidents, and making safer behaviour easier.",
+      "kind": "Security Guide",
+      "readTime": "5 min read",
+      "tags": [
+        "Cybersecurity",
+        "Privacy",
+        "Identity",
+        "Operations"
+      ],
+      "publicationStatus": "published",
+      "featured": true
+    }
   ]
 }

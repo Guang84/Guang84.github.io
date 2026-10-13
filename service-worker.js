@@ -1,117 +1,231 @@
-const VERSION='glab-v14.2.0-35bb2ae7ba1da372', CACHE_PREFIX='glab-', STATIC_CACHE=`${VERSION}-static`, CONTENT_CACHE=`${VERSION}-content`;
-const PRECACHE=["/","/404.html","/about.html","/articles/index.html","/assets/brand/glab-mark-16.png","/assets/brand/glab-mark-256.png","/assets/brand/glab-mark-32.png","/assets/brand/glab-mark-48.png","/assets/brand/glab-mark-64.png","/assets/brand/glab-mark.png","/assets/css/00-tokens.css","/assets/css/10-base.css","/assets/css/20-layout.css","/assets/css/30-navigation.css","/assets/css/40-components.css","/assets/css/45-profile.css","/assets/css/46-refresh.css","/assets/css/50-content.css","/assets/css/60-ads.css","/assets/css/70-responsive.css","/assets/css/75-editorial.css","/assets/css/80-accessibility.css","/assets/css/90-print.css","/assets/css/main.css","/assets/icons/apple-touch-180.png","/assets/icons/glab-192.png","/assets/icons/glab-512.png","/assets/icons/glab-maskable-512.png","/assets/js/core/dom.js","/assets/js/core/storage.js","/assets/js/core/viewport.js","/assets/js/features/ads.js","/assets/js/features/code-copy.js","/assets/js/features/content.js","/assets/js/features/pwa.js","/assets/js/features/search.js","/assets/js/features/share.js","/assets/js/features/site-config.js","/assets/js/main.js","/assets/js/ui/header.js","/assets/js/ui/menu.js","/assets/js/ui/preferences.js","/assets/js/ui/reading.js","/assets/js/ui/reveal.js","/assets/projects/noney-bsnl-broadband-nms/admin-tools.png","/assets/projects/noney-bsnl-broadband-nms/dashboard.png","/assets/projects/rongmei-hymnal/library-home.png","/assets/social/glab-social.png","/assets/social/profile.png","/contact.html","/content/articles/buying-laptop-2026-specs-guide.html","/content/articles/passkeys-and-the-human-side-of-security.html","/content/articles/right-sized-ai.html","/content/articles/security-is-care.html","/content/projects/network-analyzer-v2026.html","/content/projects/noney-bsnl-broadband-nms.html","/content/projects/rongmei-hymnal.html","/content/projects/ssh-fleet-doctor.html","/data/articles/better-light-better-night.json","/data/articles/buying-laptop-2026-specs-guide.json","/data/articles/index.json","/data/articles/learning-from-soil.json","/data/articles/passkeys-and-the-human-side-of-security.json","/data/articles/repair-before-replace.json","/data/articles/responsible-ai.json","/data/articles/right-sized-ai.json","/data/articles/security-is-care.json","/data/articles/soil-sensors-need-ground-truth.json","/data/config/site.json","/data/projects/index.json","/data/projects/network-analyzer-v2024.json","/data/projects/network-analyzer-v2026.json","/data/projects/noney-bsnl-broadband-nms.json","/data/projects/rongmei-hymnal.json","/data/projects/ssh-fleet-doctor.json","/data/schemas/article.schema.json","/data/schemas/articles.schema.json","/data/schemas/project.schema.json","/data/schemas/projects.schema.json","/editorial-policy.html","/feed.xml","/index.html","/manifest.webmanifest","/offline.html","/privacy.html","/project-checklist.html","/projects/index.html","/search-index.json","/sitemap.xml","/start-here.html","/terms.html","/projects/","/articles/"];
+const VERSION='glab-v15.5.0-f72e5e237cc296e5', CACHE_PREFIX='glab-', STATIC_CACHE=`${VERSION}-static`, CONTENT_CACHE=`${VERSION}-content`;
+const PRECACHE=["/","/404.html","/about.html","/articles/better-light-better-night/index.html","/articles/building-with-nature-in-mind/index.html","/articles/buying-laptop-2026-specs-guide/index.html","/articles/chatgpt-daily-planning-learning-guide/index.html","/articles/chatgpt-uses-benefits-and-limits/index.html","/articles/glabnetops-project-story/index.html","/articles/index.html","/articles/learning-from-soil/index.html","/articles/passkeys-and-the-human-side-of-security/index.html","/articles/repair-before-replace/index.html","/articles/responsible-ai/index.html","/articles/right-sized-ai/index.html","/articles/security-is-care/index.html","/articles/soil-sensors-need-ground-truth/index.html","/assets/brand/glab-mark-16.png","/assets/brand/glab-mark-256.png","/assets/brand/glab-mark-32.png","/assets/brand/glab-mark-48.png","/assets/brand/glab-mark-64.png","/assets/brand/glab-mark.png","/assets/css/00-tokens.css","/assets/css/10-base.css","/assets/css/20-layout.css","/assets/css/30-navigation.css","/assets/css/40-components.css","/assets/css/45-profile.css","/assets/css/46-refresh.css","/assets/css/50-content.css","/assets/css/60-ads.css","/assets/css/70-responsive.css","/assets/css/75-editorial.css","/assets/css/80-accessibility.css","/assets/css/90-print.css","/assets/css/95-site-polish.css","/assets/css/main.css","/assets/icons/apple-touch-180.png","/assets/icons/glab-192.png","/assets/icons/glab-512.png","/assets/icons/glab-maskable-512.png","/assets/js/core/dom.js","/assets/js/core/storage.js","/assets/js/core/viewport.js","/assets/js/features/ads.js","/assets/js/features/code-copy.js","/assets/js/features/content.js","/assets/js/features/pwa.js","/assets/js/features/search.js","/assets/js/features/share.js","/assets/js/features/site-config.js","/assets/js/main.js","/assets/js/ui/header.js","/assets/js/ui/menu.js","/assets/js/ui/preferences.js","/assets/js/ui/reading.js","/assets/js/ui/reveal.js","/assets/projects/rongmei-hymnal/library-home.png","/assets/social/glab-social.png","/assets/social/profile.png","/contact.html","/data/articles/index.json","/data/config/site.json","/data/projects/index.json","/editorial-policy.html","/feed.xml","/index.html","/manifest.webmanifest","/offline.html","/privacy.html","/project-checklist.html","/projects/glabnetops/index.html","/projects/index.html","/projects/network-analyzer-v2024/index.html","/projects/network-analyzer-v2026/index.html","/projects/noney-bsnl-broadband-nms/index.html","/projects/noney-bsnl-nms/index.html","/projects/rongmei-hymnal/index.html","/projects/ssh-fleet-doctor/index.html","/search-index.json","/sitemap.xml","/start-here.html","/terms.html","/projects/","/articles/"];
+const JSON_ENDPOINTS = [
+  "/data/projects/index.json",
+  "/data/articles/index.json",
+  "/search-index.json",
+];
 
-self.addEventListener('install', event => event.waitUntil(caches.open(STATIC_CACHE).then(cache => cache.addAll(PRECACHE))));
-self.addEventListener('activate', event => event.waitUntil((async () => {
-  await Promise.all((await caches.keys()).filter(key => key.startsWith(CACHE_PREFIX) && ![STATIC_CACHE, CONTENT_CACHE].includes(key)).map(key => caches.delete(key)));
-  await self.registration.navigationPreload?.enable();
-  await self.clients.claim();
-})()));
-self.addEventListener('message', event => {
-  if (event.data?.type === 'SKIP_WAITING') self.skipWaiting();
-  if (event.data?.type === 'CHECK_CONTENT') event.waitUntil(refreshContent().then(result => event.ports?.[0]?.postMessage({type: 'CONTENT_CHECKED', result})));
+self.addEventListener("install", (event) =>
+  event.waitUntil(
+    caches.open(STATIC_CACHE).then((cache) => cache.addAll(PRECACHE)),
+  ),
+);
+
+self.addEventListener("activate", (event) =>
+  event.waitUntil(
+    (async () => {
+      await Promise.all(
+        (await caches.keys())
+          .filter(
+            (key) =>
+              key.startsWith(CACHE_PREFIX) &&
+              ![STATIC_CACHE, CONTENT_CACHE].includes(key),
+          )
+          .map((key) => caches.delete(key)),
+      );
+      await self.registration.navigationPreload?.enable();
+      await self.clients.claim();
+    })(),
+  ),
+);
+
+self.addEventListener("message", (event) => {
+  if (event.data?.type === "SKIP_WAITING") self.skipWaiting();
+  if (event.data?.type === "CHECK_CONTENT") {
+    event.waitUntil(
+      refreshContent().then((result) =>
+        event.ports?.[0]?.postMessage({ type: "CONTENT_CHECKED", result }),
+      ),
+    );
+  }
 });
+
 async function cachedResponse(request) {
-  return await (await caches.open(CONTENT_CACHE)).match(request) || await (await caches.open(STATIC_CACHE)).match(request);
+  const content = await caches.open(CONTENT_CACHE);
+  const contentHit = await content.match(request);
+  if (contentHit) return contentHit;
+  return (await caches.open(STATIC_CACHE)).match(request);
 }
-async function notifyContentUpdate(url) {
-  for (const client of await self.clients.matchAll({type: 'window'})) client.postMessage({type: 'CONTENT_UPDATED', url});
+
+async function downloadJSON(request) {
+  const response = await fetch(request, {
+    cache: "no-store",
+    credentials: "same-origin",
+    signal: AbortSignal.timeout(8000),
+  });
+  if (!response.ok) throw new Error(`HTTP ${response.status}: ${request.url}`);
+  const data = await response.clone().json();
+  return { response, data };
 }
-async function download(request) {
-  const response = await fetch(request, {cache: 'no-store', signal: AbortSignal.timeout(8000)});
-  if (!response.ok) throw new Error(`HTTP ${response.status}`);
-  // A hosting fallback returning HTML must never replace a JSON catalog.
-  await response.clone().json();
-  return response;
-}
-async function freshContent(request) {
-  const cached = await cachedResponse(request);
-  try {
-    const response = await download(request);
-    await (await caches.open(CONTENT_CACHE)).put(request, response.clone());
-    if (cached && await cached.clone().text() !== await response.clone().text()) await notifyContentUpdate(new URL(request.url).pathname);
-    return response;
-  } catch { return cached || Response.error(); }
-}
-let refreshInFlight;
-function refreshContent() {
-  return refreshInFlight || (refreshInFlight = updateContent().finally(() => { refreshInFlight = null; }));
-}
-async function updateContent() {
-  try {
-    const downloads = [];
-    let changed = 0;
-    let records = 0;
-    for (const name of ['projects', 'articles']) {
-      const request = new Request(new URL(`/data/${name}/index.json`, self.location.origin));
-      const cached = await cachedResponse(request);
-      const response = await download(request), next = await response.clone().json();
-      const previous = cached ? await cached.json() : null;
-      if (previous?.contentVersion === next.contentVersion) continue;
-      const files = next.files || [];
-      if (!Array.isArray(files)) throw new Error(`Invalid ${name} index`);
-      const recordDownloads = await Promise.all(files.map(async file => {
-        if (typeof file !== 'string' || !/^[a-z0-9]+(?:-[a-z0-9]+)*\.json$/.test(file) || file === 'index.json') throw new Error('Invalid content path');
-        const req = new Request(new URL(`/data/${name}/${file}`, self.location.origin));
-        const data = await download(req);
-        const item = await data.clone().json();
-        if (`${item.id}.json` !== file) throw new Error('Content id mismatch');
-        return [req, data];
-      }));
-      downloads.push(...recordDownloads, [request, response]);
-      records += files.length;
-      changed += 1;
+
+function validateCatalogue(name, data) {
+  if (
+    !data ||
+    typeof data !== "object" ||
+    typeof data.contentVersion !== "string" ||
+    !data.contentVersion ||
+    !Array.isArray(data.items)
+  ) {
+    throw new Error(`Invalid ${name} metadata catalogue`);
+  }
+  const ids = new Set();
+  for (const item of data.items) {
+    if (
+      !item ||
+      typeof item.id !== "string" ||
+      !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(item.id) ||
+      item.publicationStatus !== "published" ||
+      ids.has(item.id)
+    ) {
+      throw new Error(`Invalid or duplicate item in ${name} catalogue`);
     }
-    if (changed) {
-      const search = new Request(new URL('/search-index.json', self.location.origin));
-      downloads.push([search, await download(search)]);
-    }
-    const cache = await caches.open(CONTENT_CACHE);
-    for (const [req, data] of downloads) await cache.put(req, data);
-    if (changed) await notifyContentUpdate('/data/');
-    return {changed, records};
-  } catch (error) {
-    // Keep the previous indexes so the next check retries failed updates.
-    return {error: error.message};
+    ids.add(item.id);
   }
 }
+
+async function notifyContentUpdate(url) {
+  for (const client of await self.clients.matchAll({ type: "window" })) {
+    client.postMessage({ type: "CONTENT_UPDATED", url });
+  }
+}
+
+let refreshInFlight;
+function refreshContent() {
+  if (!refreshInFlight) {
+    refreshInFlight = updateContent().finally(() => {
+      refreshInFlight = null;
+    });
+  }
+  return refreshInFlight;
+}
+
+/*
+ * HTML-first publishing note:
+ * article/project bodies are complete, independently addressable HTML pages.
+ * These JSON files contain only catalogue metadata and the search index; the
+ * worker must never look for per-article or per-project JSON body files.
+ */
+async function updateContent() {
+  try {
+    // Download and validate everything before writing any new catalogue entries.
+    const requests = JSON_ENDPOINTS.map(
+      (path) => new Request(new URL(path, self.location.origin)),
+    );
+    const downloads = await Promise.all(requests.map(downloadJSON));
+    const [projects, articles, search] = downloads.map((item) => item.data);
+
+    validateCatalogue("projects", projects);
+    validateCatalogue("articles", articles);
+    if (!Array.isArray(search)) throw new Error("Invalid GLab search index");
+
+    let changed = 0;
+    let needsStore = false;
+    for (let i = 0; i < downloads.length; i += 1) {
+      const cached = await cachedResponse(requests[i]);
+      if (!cached) {
+        needsStore = true;
+        continue;
+      }
+      const cachedText = await cached.clone().text();
+      const nextText = await downloads[i].response.clone().text();
+      if (cachedText !== nextText) {
+        needsStore = true;
+        changed += 1;
+      }
+    }
+
+    if (needsStore) {
+      const cache = await caches.open(CONTENT_CACHE);
+      for (let i = 0; i < downloads.length; i += 1) {
+        await cache.put(requests[i], downloads[i].response.clone());
+      }
+    }
+    if (changed) await notifyContentUpdate("/data/");
+    return {
+      changed,
+      records: projects.items.length + articles.items.length,
+      stored: needsStore,
+    };
+  } catch (error) {
+    // Leave the last good catalogue intact. The next check can retry the update.
+    return { error: error?.message || "Unknown content refresh error" };
+  }
+}
+
 async function networkFirst(event) {
   try {
-    const response = (await event.preloadResponse) || await fetch(event.request);
-    if (response.ok) await (await caches.open(STATIC_CACHE)).put(event.request, response.clone());
+    const response =
+      (await event.preloadResponse) || (await fetch(event.request));
+    if (response.ok) {
+      await (
+        await caches.open(STATIC_CACHE)
+      ).put(event.request, response.clone());
+    }
     return response;
   } catch {
     const url = new URL(event.request.url);
-    return await cachedResponse(event.request)
-      || (['/projects/', '/articles/'].includes(url.pathname) ? await cachedResponse(url.pathname) : null)
-      || await cachedResponse('/offline.html');
+    return (
+      (await cachedResponse(event.request)) ||
+      (["/projects/", "/articles/"].includes(url.pathname)
+        ? await cachedResponse(new URL(url.pathname, self.location.origin))
+        : null) ||
+      (await cachedResponse(new URL("/offline.html", self.location.origin)))
+    );
   }
 }
+
 async function staleWhileRevalidate(event) {
   const cached = await cachedResponse(event.request);
-  const update = fetch(event.request).then(async response => {
-    if (response.ok) await (await caches.open(STATIC_CACHE)).put(event.request, response.clone());
-    return response;
-  }).catch(() => cached || Response.error());
+  const update = fetch(event.request, { cache: "no-cache" })
+    .then(async (response) => {
+      if (response.ok) {
+        await (
+          await caches.open(STATIC_CACHE)
+        ).put(event.request, response.clone());
+      }
+      return response;
+    })
+    .catch(() => cached || Response.error());
   event.waitUntil(update);
-  return cached || await update;
+  return cached || (await update);
 }
+
 function belongsToGLab(path) {
-  return path === '/' || path.startsWith('/projects/') || path.startsWith('/articles/') || path.startsWith('/assets/') || path.startsWith('/data/') || PRECACHE.includes(path);
+  return (
+    path === "/" ||
+    path.startsWith("/projects/") ||
+    path.startsWith("/articles/") ||
+    path.startsWith("/assets/") ||
+    path.startsWith("/data/") ||
+    PRECACHE.includes(path) ||
+    path === "/search-index.json"
+  );
 }
-self.addEventListener('fetch', event => {
-  if (event.request.method !== 'GET') return;
+
+self.addEventListener("fetch", (event) => {
+  if (event.request.method !== "GET") return;
   const url = new URL(event.request.url);
-  if (url.origin !== self.location.origin || !belongsToGLab(url.pathname)) return;
-  if (event.request.mode === 'navigate') {
+  if (url.origin !== self.location.origin || !belongsToGLab(url.pathname))
+    return;
+
+  if (event.request.mode === "navigate") {
     event.waitUntil(refreshContent());
     return event.respondWith(networkFirst(event));
   }
-  // Folder indexes are committed exclusively by the update transaction.
-  if (url.pathname === '/data/projects/index.json' || url.pathname === '/data/articles/index.json') return event.respondWith((async () => {
-    await refreshContent(); return await cachedResponse(event.request) || Response.error();
-  })());
-  if (url.pathname.startsWith('/data/') || url.pathname === '/search-index.json') return event.respondWith(freshContent(event.request));
+
+  // Catalogue indexes are committed from a fully validated refresh, not partly
+  // overwritten by individual concurrent requests.
+  if (JSON_ENDPOINTS.includes(url.pathname)) {
+    return event.respondWith(
+      (async () => {
+        await refreshContent();
+        return (await cachedResponse(event.request)) || Response.error();
+      })(),
+    );
+  }
+
   event.respondWith(staleWhileRevalidate(event));
 });
-// Build fingerprint: 35bb2ae7ba1da372
+
+// Build fingerprint: f72e5e237cc296e5

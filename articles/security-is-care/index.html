@@ -1,0 +1,675 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="A practical, human-centred security guide to reducing risk, respecting consent, protecting identity, limiting privileged access, responding to incidents, and making safer behaviour easier."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>Security Is a Form of Care — GLab</title>
+    <link
+      href="https://guang84.github.io/articles/security-is-care/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="article" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta content="Security Is a Form of Care — GLab" property="og:title" />
+    <meta
+      content="A practical, human-centred security guide to reducing risk, respecting consent, protecting identity, limiting privileged access, responding to incidents, and making safer behaviour easier."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/articles/security-is-care/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="published" name="glab:article-status" />
+    <meta content="Security Is a Form of Care" name="glab:article-title" />
+    <meta content="2026-04-22" name="glab:article-date" />
+    <meta content="2026-10-11" name="glab:article-updated" />
+    <meta
+      content="A practical, human-centred security guide to reducing risk, respecting consent, protecting identity, limiting privileged access, responding to incidents, and making safer behaviour easier."
+      name="glab:article-excerpt"
+    />
+    <meta content="Security Guide" name="glab:article-kind" />
+    <meta content="5 min read" name="glab:article-read-time" />
+    <meta
+      content="Cybersecurity, Privacy, Identity, Operations"
+      name="glab:article-tags"
+    />
+    <meta content="true" name="glab:article-featured" />
+    <meta content="security-is-care" name="glab:article-slug" />
+    <meta content="Security Is a Form of Care — GLab" name="twitter:title" />
+    <meta
+      content="A practical, human-centred security guide to reducing risk, respecting consent, protecting identity, limiting privileged access, responding to incidents, and making safer behaviour easier."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Security Is a Form of Care",
+        "name": "Security Is a Form of Care",
+        "description": "A practical, human-centred security guide to reducing risk, respecting consent, protecting identity, limiting privileged access, responding to incidents, and making safer behaviour easier.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/articles/security-is-care/",
+        "datePublished": "2026-04-22",
+        "dateModified": "2026-10-11"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/articles/">Articles</a></li>
+        <li aria-current="page">Security Is a Form of Care</li>
+      </ol>
+    </nav>
+    <main class="content-page" id="main">
+      <article>
+        <header class="content-hero">
+          <p class="eyebrow">Security Guide · 5 min read</p>
+          <h1>Security Is a Form of Care</h1>
+          <p class="lead">
+            A practical, human-centred security guide to reducing risk,
+            respecting consent, protecting identity, limiting privileged access,
+            responding to incidents, and making safer behaviour easier.
+          </p>
+          <p class="content-meta">
+            By Guang · Published <time datetime="2026-04-22">2026-04-22</time> ·
+            Updated <time datetime="2026-10-11">2026-10-11</time>
+          </p>
+          <ul class="tag-list">
+            <li>Cybersecurity</li>
+            <li>Privacy</li>
+            <li>Identity</li>
+            <li>Operations</li>
+          </ul>
+          <div class="hero-actions">
+            <a class="button-secondary" href="/articles/">All articles</a>
+          </div>
+        </header>
+        <div class="article-body">
+          <nav class="doc-toc" aria-label="On this page">
+            <details open>
+              <summary>On this page</summary>
+              <ol>
+                <li>
+                  <a href="#principle"
+                    >Security knowledge creates responsibility, not
+                    entitlement</a
+                  >
+                </li>
+                <li>
+                  <a href="#identity"
+                    >Protect the accounts that control other accounts</a
+                  >
+                </li>
+                <li>
+                  <a href="#privilege"
+                    >Make powerful access rare, specific, and reviewable</a
+                  >
+                </li>
+                <li>
+                  <a href="#human-attacks"
+                    >Urgency and familiarity are common attack tools</a
+                  >
+                </li>
+                <li>
+                  <a href="#privacy"
+                    >The safest sensitive data may be data you never collect</a
+                  >
+                </li>
+                <li>
+                  <a href="#safe-operations"
+                    >Build systems that assume ordinary mistakes will happen</a
+                  >
+                </li>
+                <li>
+                  <a href="#incident-response"
+                    >Contain, preserve evidence, recover, and learn</a
+                  >
+                </li>
+                <li>
+                  <a href="#permission"
+                    >Capability, access, and authorization are different
+                    things</a
+                  >
+                </li>
+                <li>
+                  <a href="#daily-checklist"
+                    >A short, repeatable security checklist</a
+                  >
+                </li>
+                <li><a href="#sources">Authoritative guidance</a></li>
+              </ol>
+            </details>
+          </nav>
+
+          <section class="detail-section" id="principle">
+            <p class="eyebrow">The principle</p>
+            <h2>Security knowledge creates responsibility, not entitlement</h2>
+            <p>
+              I think about security as the work of reducing avoidable harm.
+              Knowing how a system can be accessed does not mean access is
+              permitted. The goal is not to demonstrate capability or collect as
+              much information as possible. It is to protect people, services,
+              and data while using the least access necessary.
+            </p>
+            <p>
+              Good security should preserve privacy, dignity, and the ability to
+              recover. A control that frightens users into hiding mistakes can
+              make an incident harder to contain. A clear, respectful process
+              helps people report problems earlier and gives operators more time
+              to respond.
+            </p>
+          </section>
+          <section class="detail-section" id="identity">
+            <p class="eyebrow">Start with identity</p>
+            <h2>Protect the accounts that control other accounts</h2>
+            <p>
+              Email, password managers, cloud identity, source-code hosting, and
+              administrator accounts often sit at the centre of a person’s or
+              team’s digital life. If these accounts are compromised, an
+              attacker may reset other logins, access projects, or create new
+              persistence.
+            </p>
+            <ul>
+              <li>
+                Use a password manager and unique passwords where passwords
+                remain necessary.
+              </li>
+              <li>
+                Use passkeys or phishing-resistant multi-factor authentication
+                where available; prioritize the highest-impact accounts.
+              </li>
+              <li>
+                Secure recovery email, phone numbers, backup codes, and hardware
+                keys.
+              </li>
+              <li>
+                Review active sessions, connected apps, and account recovery
+                options periodically.
+              </li>
+              <li>
+                Keep devices and browsers updated, and encrypt devices that
+                contain sensitive information.
+              </li>
+            </ul>
+          </section>
+          <section class="detail-section" id="privilege">
+            <p class="eyebrow">Access control</p>
+            <h2>Make powerful access rare, specific, and reviewable</h2>
+            <p>
+              Authentication answers “who is signing in?” Authorization answers
+              “what may they do?” A trusted identity should not automatically
+              receive unrestricted access. Least privilege means giving people,
+              processes, and services only the permissions required for their
+              current responsibilities.
+            </p>
+            <ul>
+              <li>
+                Use separate administrator and everyday accounts when practical.
+              </li>
+              <li>
+                Prefer named identities over shared accounts; make ownership and
+                accountability clear.
+              </li>
+              <li>
+                Grant temporary access an expiry date and remove it when the
+                task ends.
+              </li>
+              <li>
+                Protect API keys, SSH private keys, tokens, and secrets; never
+                commit them to a repository.
+              </li>
+              <li>
+                Review service accounts, integrations, OAuth scopes, and vendor
+                access on a schedule.
+              </li>
+              <li>
+                Log meaningful administrative actions without placing passwords,
+                tokens, or unnecessary personal data in logs.
+              </li>
+            </ul>
+          </section>
+          <section class="detail-section" id="human-attacks">
+            <p class="eyebrow">Human factors</p>
+            <h2>Urgency and familiarity are common attack tools</h2>
+            <p>
+              Phishing and social engineering often attempt to make a person act
+              before checking a request. The message may imitate a colleague, a
+              service provider, an employer, a financial institution, or a
+              routine security prompt. Repeated sign-in prompts can also be used
+              to pressure someone into approving access.
+            </p>
+            <ol>
+              <li>
+                Pause when a request is urgent, unusual, or asks for
+                credentials, money, or privileged access.
+              </li>
+              <li>
+                Verify through a separate trusted channel rather than replying
+                to the suspicious message.
+              </li>
+              <li>
+                Open the service directly from a bookmark or known address
+                instead of following a login link.
+              </li>
+              <li>
+                Report the event using the organization’s established process.
+              </li>
+              <li>
+                If someone makes a mistake, focus first on containment and
+                recovery; blame delays reporting.
+              </li>
+            </ol>
+          </section>
+          <section class="detail-section" id="privacy">
+            <p class="eyebrow">Data minimization</p>
+            <h2>The safest sensitive data may be data you never collect</h2>
+            <p>
+              Every retained record creates storage, access-control, backup,
+              breach, and deletion obligations. Collect information for a clear
+              purpose, restrict access, define retention, and remove it when
+              there is no longer a legitimate reason to keep it.
+            </p>
+            <p>
+              This applies to project logs, network inventory, support tickets,
+              AI prompts, analytics, and screenshots. Before sharing a log with
+              an assistant or a public issue tracker, remove access tokens,
+              internal addresses where sensitive, customer details, personal
+              identifiers, and infrastructure secrets.
+            </p>
+          </section>
+          <section class="detail-section" id="safe-operations">
+            <p class="eyebrow">Operations</p>
+            <h2>Build systems that assume ordinary mistakes will happen</h2>
+            <p>
+              A secure workflow should not rely on every person being alert all
+              day. Use safe defaults, clear boundaries, repeatable changes, and
+              observable results. Test changes in a lab where possible. Use
+              backups, staged deployments, documented approvals, and rollback
+              instructions for high-impact systems.
+            </p>
+            <ul>
+              <li>
+                Keep services and dependencies updated through a known process.
+              </li>
+              <li>
+                Back up important data and test that it can actually be
+                restored.
+              </li>
+              <li>Separate development, test, and production access.</li>
+              <li>
+                Validate input, fail safely, and avoid exposing internal
+                diagnostic details to public users.
+              </li>
+              <li>
+                Review third-party libraries and integrations according to the
+                risk they introduce.
+              </li>
+            </ul>
+            <p>
+              The
+              <a
+                href="https://www.nist.gov/cyberframework"
+                rel="noopener noreferrer"
+                target="_blank"
+                >NIST Cybersecurity Framework</a
+              >
+              is a useful structure for identifying, protecting, detecting,
+              responding, and recovering. Adapt it to the scale of the system
+              instead of copying a large-enterprise process without thought.
+            </p>
+          </section>
+          <section class="detail-section" id="incident-response">
+            <p class="eyebrow">When something goes wrong</p>
+            <h2>Contain, preserve evidence, recover, and learn</h2>
+            <p>
+              If an account or device may be compromised, use a trusted device
+              for recovery where possible. Protect the main email or identity
+              account, revoke suspicious sessions and tokens, change exposed
+              credentials, review recovery methods, and notify the relevant
+              service or security contact. For organizations, follow the
+              incident plan and legal or contractual reporting obligations.
+            </p>
+            <ol>
+              <li>
+                Record what was observed and when; preserve relevant logs if it
+                is safe to do so.
+              </li>
+              <li>
+                Contain the affected account, device, or service to reduce
+                further access.
+              </li>
+              <li>
+                Remove unauthorized access paths and check for persistence, not
+                just the first suspicious login.
+              </li>
+              <li>
+                Restore from trusted backups or known-good configurations, then
+                verify functionality.
+              </li>
+              <li>
+                Review what failed and improve controls, communication, and
+                recovery instructions.
+              </li>
+            </ol>
+            <p>
+              Do not destroy evidence unnecessarily or run unfamiliar “cleanup”
+              commands copied from a forum. When the incident affects critical
+              services, sensitive data, or other people, escalate to qualified
+              incident responders.
+            </p>
+          </section>
+          <section class="detail-section" id="permission">
+            <p class="eyebrow">Professional boundaries</p>
+            <h2>Capability, access, and authorization are different things</h2>
+            <p>
+              Security testing needs a defined scope, permission, time window,
+              and agreed handling of findings. Do not scan or disrupt networks,
+              inspect someone’s private information, test passwords, capture
+              traffic, or change systems just because the tools make it
+              possible. Work only on systems you own or are explicitly
+              authorized to assess.
+            </p>
+            <p>
+              If you discover a vulnerability, minimize unnecessary access,
+              document the issue safely, and use a responsible disclosure
+              channel. Avoid publishing secrets or exploit details that create
+              risk before maintainers have had a reasonable chance to respond.
+            </p>
+          </section>
+          <section class="detail-section" id="daily-checklist">
+            <p class="eyebrow">Daily baseline</p>
+            <h2>A short, repeatable security checklist</h2>
+            <ul>
+              <li>Update devices and critical applications.</li>
+              <li>Use unique credentials and strong sign-in protection.</li>
+              <li>Review unusual prompts before approving them.</li>
+              <li>
+                Keep secrets out of source code, logs, and public screenshots.
+              </li>
+              <li>Use a separate, authorized environment for risky testing.</li>
+              <li>Know where to report an incident and how to recover.</li>
+              <li>
+                Review access when a role, device, project, or vendor
+                relationship changes.
+              </li>
+            </ul>
+            <p>
+              Security that works in everyday life is quieter than security
+              theatre: clear controls, limited access, respectful support, and a
+              recovery plan people can follow.
+            </p>
+          </section>
+          <section class="detail-section" id="sources">
+            <p class="eyebrow">References</p>
+            <h2>Authoritative guidance</h2>
+            <ul>
+              <li>
+                <a
+                  href="https://www.nist.gov/cyberframework"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >NIST Cybersecurity Framework</a
+                >.
+              </li>
+              <li>
+                <a
+                  href="https://www.cisa.gov/secure-our-world"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >CISA Secure Our World</a
+                >, with practical guidance on phishing, passwords, software
+                updates, and MFA.
+              </li>
+              <li>
+                <a
+                  href="https://www.cisa.gov/resources-tools/resources/cybersecurity-performance-goals"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >CISA Cross-Sector Cybersecurity Performance Goals</a
+                >.
+              </li>
+            </ul>
+          </section>
+        </div>
+        <footer class="detail-section">
+          <p>
+            I wrote this as a working note, not a final authority. Check the
+            linked primary sources and current instructions before acting on
+            anything that affects safety, money, or a live system.
+          </p>
+          <p>
+            <a href="/editorial-policy.html"
+              >Editorial policy and corrections</a
+            >
+            · <a href="/contact.html">Contact</a> ·
+            <a href="/articles/">Browse all articles</a>
+          </p>
+        </footer>
+      </article>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

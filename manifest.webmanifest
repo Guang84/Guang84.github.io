@@ -1,25 +1,17 @@
 {
   "id": "/",
-  "name": "GLab — Guang’s Projects, Articles & Field Notes",
+  "name": "GLab — Guang’s Projects, Guides & Field Notes",
   "short_name": "GLab",
-  "description": "Guang’s personal profile and public knowledge hub for complete projects with embedded guides, technical articles, research notes and documented experiments.",
+  "description": "GLab is Guang’s personal space for practical projects, technical guides, and lessons from networking, cybersecurity, AI-assisted work, hands-on engineering, community technology, and sustainable farming.",
   "lang": "en",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "display_override": [
-    "window-controls-overlay",
-    "standalone",
-    "minimal-ui"
-  ],
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
   "background_color": "#f6f3ec",
   "theme_color": "#0d1c15",
   "orientation": "any",
-  "categories": [
-    "education",
-    "productivity",
-    "utilities"
-  ],
+  "categories": ["education", "productivity", "utilities"],
   "icons": [
     {
       "src": "/assets/icons/glab-192.png",

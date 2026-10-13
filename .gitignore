@@ -13,9 +13,10 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .venv/
-
+README.md
 # Local draft and generated output
 data/drafts/
 pending.txt
+README.md
 _site/
 docs/

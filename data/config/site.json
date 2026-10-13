@@ -2,118 +2,86 @@
   "owner": "Guang",
   "name": "GLab",
   "url": "https://guang84.github.io/",
-  "version": "14.2.0",
-  "description": "Guang’s personal profile and public knowledge hub for complete projects with embedded guides, technical articles, research notes and documented experiments across technology, cybersecurity, AI, networking, sustainability and engineering.",
+  "version": "15.5.0",
+  "description": "GLab is where Guang shares practical projects, technical guides, and lessons from networking, cybersecurity, AI, hands-on engineering, community technology, and sustainable farming.",
   "email": "guang.social.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
     "enabled": true,
-    "publisherId": "ca-pub-6371342728710125",
-    "mode": "auto",
-    "slots": {}
+    "publisherId": "ca-pub-5045414569557924",
+    "mode": "manual",
+    "slots": {
+      "home-bottom": "6289178306",
+      "content-end": "6289178306"
+    }
   },
   "profile": {
     "greeting": "Hi, I’m Guang",
     "roles": [
-      "Environmentalist",
-      "Tech Enthusiast",
-      "Innovator"
+      "Networking & Systems",
+      "Cybersecurity & AI",
+      "Technology & Nature"
     ],
     "intro": [
-      "Passionate about building a future where technology and nature coexist harmoniously. I enjoy exploring cybersecurity, artificial intelligence, sustainable farming, networking and hands-on engineering projects.",
-      "I believe in using technology thoughtfully to create positive change for people, communities and the planet."
+      "I enjoy figuring out how systems work and building tools that make a real task easier. My interests stretch from networking and cybersecurity to AI, hands-on engineering, community projects, and sustainable farming.",
+      "I’m passionate about building a future where technology and nature coexist harmoniously. I enjoy exploring cybersecurity, artificial intelligence, sustainable farming, networking, and hands-on engineering projects. I believe in using technology thoughtfully to create positive change for people, communities, and the planet.",
+      "GLab is where I collect the projects, guides, and notes I want to explain properly—what a project is for, how it developed, what I learned, and what still needs work. I’m learning as I build, so I distinguish finished work from experiments and retired systems."
     ],
-    "statement": "Technology should do more than innovate. It should improve lives, strengthen communities, and help build a sustainable future.",
-    "workLine": "Deep dives into things I’ve designed, tested, broken, documented, and learned from.",
-    "interestLine": "Interests that keep me moving.",
-    "background": "My background combines hands-on broadband and network operations with self-directed software, Linux, cybersecurity, automation and community-focused technology projects.",
+    "statement": "Build things that help with real work. Write down what I learn. Think about the people and places affected by the tools.",
+    "workLine": "Projects with context, not just a demo.",
+    "interestLine": "Practical questions about systems, people, and the living world.",
+    "background": "GLab grew from practical broadband and network-operations work. It now holds project case studies, smaller tools, guides, community technology, and questions about using technology thoughtfully alongside nature.",
     "interests": [
       {
-        "title": "Cybersecurity",
-        "description": "Building safer digital spaces through curiosity, rigor, responsible testing and clear operational boundaries."
+        "title": "Network Operations",
+        "description": "Broadband workflows, network visibility, infrastructure context, and lessons behind the GLabNetOps workstream."
       },
       {
-        "title": "Artificial Intelligence",
-        "description": "Exploring useful, human-centered systems that extend our ability to understand, create and solve practical problems."
+        "title": "Software & Engineering",
+        "description": "Small tools, automation, and practical ways to turn a problem into something testable and maintainable."
+      },
+      {
+        "title": "Cybersecurity",
+        "description": "Learning how systems fail, testing only with permission, and documenting safety boundaries alongside setup steps."
+      },
+      {
+        "title": "AI in Daily Work",
+        "description": "Using ChatGPT for planning, study, research, and troubleshooting while checking important claims and outputs."
+      },
+      {
+        "title": "Community Technology",
+        "description": "Digital tools for access and preservation, with attention to context, attribution, and the people who use them."
       },
       {
         "title": "Sustainable Farming",
-        "description": "Learning from soil, seasons and low-impact systems built for resilience, local context and long-term value."
-      },
-      {
-        "title": "Innovation & Engineering",
-        "description": "Turning good questions into tangible prototypes, one careful iteration at a time."
-      },
-      {
-        "title": "Music",
-        "description": "Listening for patterns, texture, rhythm and the spaces between sounds."
-      },
-      {
-        "title": "Reading & Research",
-        "description": "Following ideas across disciplines, testing assumptions and keeping useful notes along the way."
+        "description": "Questions about soil, sensors, observation, and low-impact approaches that need evidence in the real world."
       }
     ]
   },
   "importantLinks": [
     {
-      "label": "Buying Laptop 2026 Specs Guide",
-      "description": "A detailed guide to help you choose the right laptop for your needs in 2026.",
-      "url": "/content/articles/buying-laptop-2026-specs-guide.html",
-      "kind": "Guide"
+      "label": "GLabNetOps overview",
+      "description": "How the broadband operations case grew into a documented track of network and tooling projects.",
+      "url": "/projects/glabnetops/",
+      "kind": "Project overview"
     },
     {
-      "label": "Rongmei Hymnal Webapp",
-      "description": "An active offline-first community digital library project.",
-      "url": "https://guang84.github.io/RongmeiHymnal/",
-      "kind": "Live project (progress: correcting & editing lyrics database and adding new songs)"
+      "label": "How I use ChatGPT",
+      "description": "Practical ways I use ChatGPT for planning, study, research and project work—and where I verify it.",
+      "url": "/articles/chatgpt-uses-benefits-and-limits/",
+      "kind": "Practical guide"
     },
     {
-      "label": "BSNL Broadband Franchise NMS",
-      "description": "Complete case study of the broadband operations platform.",
-      "url": "/projects/?id=noney-bsnl-broadband-nms",
-      "kind": "Case study"
+      "label": "Rongmei Hymnal",
+      "description": "An offline-first digital songbook library and preservation project with ongoing editorial review.",
+      "url": "/projects/rongmei-hymnal/",
+      "kind": "Community project"
     },
     {
-      "label": "Network Analyzer 2026 Tool",
-      "description": "A Linux terminal toolkit for authorized wireless assessment, passive network monitoring, scan analysis, reporting, and explainable anomaly detection using locally learned baselines.",
-      "url": "/projects/?id=network-analyzer-v2026",
-      "kind": "Tooling · authorized network testing"
-    },
-    {
-      "label": "Rongmei Hymnal Webapp doc",
-      "description": "Read the project’s purpose, implementation details and operational limitations.",
-      "url": "/content/projects/rongmei-hymnal.html",
-      "kind": "Project documentation"
-    },
-    {
-      "label": "BSNL Broadband Franchise NMS doc",
-      "description": "Read the project’s purpose, implementation details and operational limitations.",
-      "url": "/content/projects/noney-bsnl-broadband-nms.html",
-      "kind": "Project documentation"
-    },
-    {
-      "label": "Network Analyzer 2026 Tool doc",
-      "description": "Read the project’s purpose, implementation details and operational limitations.",
-      "url": "/content/projects/network-analyzer-v2026.html",
-      "kind": "Project documentation"
-    },
-    {
-      "label": "ssh fleet doctor",
-      "description": "A tool for diagnosing and reporting on the health of a fleet of Linux servers.",
-      "url": "/content/projects/ssh-fleet-doctor.html",
-      "kind": "Tooling · authorized server fleet testing"
-    },
-    {
-      "label": "passkey and the human side ",
-      "description": "A technical article on the human side of security and passkey authentication.",
-      "url": "/content/articles/passkeys-and-the-human-side-of-security.html",
-      "kind": "Technical article"
-    },
-    {
-      "label": "security is care",
-      "description": "A technical article on the importance of care in security practices.",
-      "url": "/content/articles/security-is-care.html",
-      "kind": "Technical article"
+      "label": "Laptop buying guide",
+      "description": "Compare laptop choices for development, virtualization, networking and security labs.",
+      "url": "/articles/buying-laptop-2026-specs-guide/",
+      "kind": "Buying guide"
     }
   ],
   "appearance": {

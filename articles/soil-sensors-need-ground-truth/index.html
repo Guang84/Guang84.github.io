@@ -1,0 +1,570 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="A field-ready framework for placing moisture sensors, checking readings against soil and crop conditions, keeping an irrigation log, and avoiding false precision."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>A Soil Sensor Is a Question, Not an Answer — GLab</title>
+    <link
+      href="https://guang84.github.io/articles/soil-sensors-need-ground-truth/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="article" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta
+      content="A Soil Sensor Is a Question, Not an Answer — GLab"
+      property="og:title"
+    />
+    <meta
+      content="A field-ready framework for placing moisture sensors, checking readings against soil and crop conditions, keeping an irrigation log, and avoiding false precision."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/articles/soil-sensors-need-ground-truth/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="published" name="glab:article-status" />
+    <meta
+      content="A Soil Sensor Is a Question, Not an Answer"
+      name="glab:article-title"
+    />
+    <meta content="2026-09-06" name="glab:article-date" />
+    <meta content="2026-10-11" name="glab:article-updated" />
+    <meta
+      content="A field-ready framework for placing moisture sensors, checking readings against soil and crop conditions, keeping an irrigation log, and avoiding false precision."
+      name="glab:article-excerpt"
+    />
+    <meta content="Practical Guide" name="glab:article-kind" />
+    <meta content="3 min read" name="glab:article-read-time" />
+    <meta
+      content="Sustainable farming, Sensors, Soil moisture"
+      name="glab:article-tags"
+    />
+    <meta content="true" name="glab:article-featured" />
+    <meta content="soil-sensors-need-ground-truth" name="glab:article-slug" />
+    <meta
+      content="A Soil Sensor Is a Question, Not an Answer — GLab"
+      name="twitter:title"
+    />
+    <meta
+      content="A field-ready framework for placing moisture sensors, checking readings against soil and crop conditions, keeping an irrigation log, and avoiding false precision."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "A Soil Sensor Is a Question, Not an Answer",
+        "name": "A Soil Sensor Is a Question, Not an Answer",
+        "description": "A field-ready framework for placing moisture sensors, checking readings against soil and crop conditions, keeping an irrigation log, and avoiding false precision.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/articles/soil-sensors-need-ground-truth/",
+        "datePublished": "2026-09-06",
+        "dateModified": "2026-10-11"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/articles/">Articles</a></li>
+        <li aria-current="page">A Soil Sensor Is a Question, Not an Answer</li>
+      </ol>
+    </nav>
+    <main class="content-page" id="main">
+      <article>
+        <header class="content-hero">
+          <p class="eyebrow">Practical Guide · 3 min read</p>
+          <h1>A Soil Sensor Is a Question, Not an Answer</h1>
+          <p class="lead">
+            A field-ready framework for placing moisture sensors, checking
+            readings against soil and crop conditions, keeping an irrigation
+            log, and avoiding false precision.
+          </p>
+          <p class="content-meta">
+            By Guang · Published <time datetime="2026-09-06">2026-09-06</time> ·
+            Updated <time datetime="2026-10-11">2026-10-11</time>
+          </p>
+          <ul class="tag-list">
+            <li>Sustainable farming</li>
+            <li>Sensors</li>
+            <li>Soil moisture</li>
+          </ul>
+          <div class="hero-actions">
+            <a class="button-secondary" href="/articles/">All articles</a>
+          </div>
+        </header>
+        <div class="article-body">
+          <nav class="doc-toc" aria-label="On this page">
+            <details open>
+              <summary>On this page</summary>
+              <ol>
+                <li>
+                  <a href="#why-one-reading-isnt-enough"
+                    >One field can contain several different water stories</a
+                  >
+                </li>
+                <li>
+                  <a href="#placement">Measure where a decision will be made</a>
+                </li>
+                <li>
+                  <a href="#calibration"
+                    >Check the instrument against the place</a
+                  >
+                </li>
+                <li>
+                  <a href="#thresholds"
+                    >Let thresholds earn trust before they trigger action</a
+                  >
+                </li>
+                <li>
+                  <a href="#simple-trial"
+                    >Run a one-zone trial before scaling up</a
+                  >
+                </li>
+                <li>
+                  <a href="#failure-modes"
+                    >Common reasons sensor data misleads</a
+                  >
+                </li>
+                <li><a href="#sources">Read before deployment</a></li>
+              </ol>
+            </details>
+          </nav>
+
+          <section class="detail-section" id="why-one-reading-isnt-enough">
+            <p class="eyebrow">Measurement</p>
+            <h2>One field can contain several different water stories</h2>
+            <p>
+              A moisture sensor measures conditions in a small volume of soil,
+              not the whole field. Soil texture, roots, stones, compaction,
+              slope, shade, irrigation pattern, and recent rainfall can change
+              what a reading means. Two sensors may give different values
+              because they are measuring different places rather than because
+              one must be broken.
+            </p>
+            <p>
+              The useful question is not only “What number did the sensor
+              report?” It is “Where was it installed, what was the weather and
+              irrigation history, and does the trend agree with what is
+              happening around the crop?”
+            </p>
+          </section>
+          <section class="detail-section" id="placement">
+            <p class="eyebrow">Installation</p>
+            <h2>Measure where a decision will be made</h2>
+            <p>
+              Begin with one irrigation zone and identify its main soil and crop
+              conditions. Place the sensor in the active root zone, away from an
+              unusual wet spot or leaking emitter unless that is exactly what
+              you want to monitor. If practical, use more than one depth: a
+              shallow reading can show water arriving, while a deeper one can
+              help show whether it reached the root zone or moved below it.
+            </p>
+            <ul>
+              <li>
+                Record the sensor model, serial or identifier, depth, location,
+                crop, and installation date.
+              </li>
+              <li>Keep the placement consistent so trends can be compared.</li>
+              <li>
+                Protect cables, connectors, and enclosures from water, sunlight,
+                animals, and equipment.
+              </li>
+              <li>
+                Observe more than one representative spot if soil or irrigation
+                conditions vary greatly.
+              </li>
+            </ul>
+          </section>
+          <section class="detail-section" id="calibration">
+            <p class="eyebrow">Ground truth</p>
+            <h2>Check the instrument against the place</h2>
+            <p>
+              Follow the manufacturer’s instructions for calibration and
+              interpretation. A low-cost sensor may provide a raw count,
+              relative reading, or estimated volumetric moisture; these are not
+              interchangeable. The same value can imply different conditions in
+              sand, loam, and clay, and the sensor’s installation and contact
+              with soil affect what it measures.
+            </p>
+            <p>
+              During installation, after irrigation, and as the soil dries,
+              compare sensor trends with safe, nearby observations and the
+              crop’s condition. A hand-feel check can be a useful qualitative
+              comparison, but it is not a laboratory calibration. Keep weather,
+              irrigation amount or duration, sensor readings, and observations
+              in a simple log.
+            </p>
+            <p>
+              The USDA Natural Resources Conservation Service describes the
+              <a
+                href="https://www.nrcs.usda.gov/"
+                rel="noopener noreferrer"
+                target="_blank"
+                >NRCS soil and water conservation resources</a
+              >
+              as a useful starting point for local soil and irrigation guidance.
+              Use recommendations appropriate to the crop, soil, and local
+              climate.
+            </p>
+          </section>
+          <section class="detail-section" id="thresholds">
+            <p class="eyebrow">Interpretation</p>
+            <h2>Let thresholds earn trust before they trigger action</h2>
+            <p>
+              Do not choose a universal “water now” number from a social post
+              and assume it applies everywhere. Observe the sensor through
+              wetting and drying cycles. Mark the values associated with a known
+              irrigation event, a period of drying, rainfall, and the condition
+              you actually want to avoid. Look for sensor drift, impossible
+              jumps, flat lines, missing readings, and values that do not fit
+              the recent weather.
+            </p>
+            <p>
+              Start with alerts or recommendations. Have a person confirm them
+              against crop needs, weather forecasts, water availability, and
+              field observation before the system controls a valve. If you later
+              automate irrigation, add maximum run times, flow or pressure
+              checks where relevant, manual override, communication-loss
+              handling, and a safe default.
+            </p>
+          </section>
+          <section class="detail-section" id="simple-trial">
+            <p class="eyebrow">Small experiment</p>
+            <h2>Run a one-zone trial before scaling up</h2>
+            <ol>
+              <li>
+                Choose one manageable irrigation zone and write down the current
+                decision process.
+              </li>
+              <li>
+                Install and label the sensor or sensors; document the depth and
+                exact location.
+              </li>
+              <li>
+                Record readings at consistent times and after meaningful rain or
+                irrigation events.
+              </li>
+              <li>
+                Compare readings with weather, soil observations, crop response,
+                and the irrigation log.
+              </li>
+              <li>
+                After an appropriate period, review where the sensor helped,
+                misled, or added no useful information.
+              </li>
+            </ol>
+            <p>
+              Measure whether the new method improves decisions, reduces
+              avoidable irrigation, or helps detect a problem sooner. Do not
+              claim water savings without a baseline and a transparent
+              comparison.
+            </p>
+          </section>
+          <section class="detail-section" id="failure-modes">
+            <p class="eyebrow">Troubleshooting</p>
+            <h2>Common reasons sensor data misleads</h2>
+            <ul>
+              <li>
+                <strong>Poor placement:</strong> move or add a sensor only after
+                documenting why the original point was unrepresentative.
+              </li>
+              <li>
+                <strong>Loose soil contact:</strong> re-install according to the
+                manufacturer’s instructions.
+              </li>
+              <li>
+                <strong>Uncalibrated raw values:</strong> do not treat arbitrary
+                counts as a universal moisture percentage.
+              </li>
+              <li>
+                <strong>Power or connectivity gaps:</strong> show missing data
+                explicitly rather than carrying an old reading forward as if it
+                were current.
+              </li>
+              <li>
+                <strong>Over-sensitive alerts:</strong> check trends and
+                repeated observations before adjusting thresholds.
+              </li>
+              <li>
+                <strong>Automation failures:</strong> retain manual control and
+                define what happens when the sensor, network, or power supply
+                fails.
+              </li>
+            </ul>
+          </section>
+          <section class="detail-section" id="sources">
+            <p class="eyebrow">Sources and context</p>
+            <h2>Read before deployment</h2>
+            <ul>
+              <li>
+                <a
+                  href="https://www.nrcs.usda.gov/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >USDA Natural Resources Conservation Service</a
+                >
+                for soil health and conservation guidance.
+              </li>
+              <li>
+                <a
+                  href="https://www.fao.org/land-water/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >FAO Land and Water</a
+                >
+                for context on irrigation, soils, and water management.
+              </li>
+              <li>
+                The specific sensor manufacturer’s calibration, placement,
+                operating-temperature, and maintenance instructions.
+              </li>
+            </ul>
+            <p>
+              This guide describes a method, not a report of a completed field
+              trial. Record any actual field results separately, including
+              conditions and limitations.
+            </p>
+          </section>
+        </div>
+        <footer class="detail-section">
+          <p>
+            I wrote this as a working note, not a final authority. Check the
+            linked primary sources and current instructions before acting on
+            anything that affects safety, money, or a live system.
+          </p>
+          <p>
+            <a href="/editorial-policy.html"
+              >Editorial policy and corrections</a
+            >
+            · <a href="/contact.html">Contact</a> ·
+            <a href="/articles/">Browse all articles</a>
+          </p>
+        </footer>
+      </article>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

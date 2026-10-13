@@ -1,0 +1,589 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="A practical decision framework for choosing between AI, ordinary software, web research, and a person—with verification, privacy, and error cost built in."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>How I Decide Whether a Task Needs AI — GLab</title>
+    <link
+      href="https://guang84.github.io/articles/right-sized-ai/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="article" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta
+      content="How I Decide Whether a Task Needs AI — GLab"
+      property="og:title"
+    />
+    <meta
+      content="A practical decision framework for choosing between AI, ordinary software, web research, and a person—with verification, privacy, and error cost built in."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/articles/right-sized-ai/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="published" name="glab:article-status" />
+    <meta
+      content="How I Decide Whether a Task Needs AI"
+      name="glab:article-title"
+    />
+    <meta content="2026-09-06" name="glab:article-date" />
+    <meta content="2026-10-11" name="glab:article-updated" />
+    <meta
+      content="A practical decision framework for choosing between AI, ordinary software, web research, and a person—with verification, privacy, and error cost built in."
+      name="glab:article-excerpt"
+    />
+    <meta content="Practical Essay" name="glab:article-kind" />
+    <meta content="4 min read" name="glab:article-read-time" />
+    <meta
+      content="AI, Decision-making, Responsible technology"
+      name="glab:article-tags"
+    />
+    <meta content="true" name="glab:article-featured" />
+    <meta content="right-sized-ai" name="glab:article-slug" />
+    <meta
+      content="How I Decide Whether a Task Needs AI — GLab"
+      name="twitter:title"
+    />
+    <meta
+      content="A practical decision framework for choosing between AI, ordinary software, web research, and a person—with verification, privacy, and error cost built in."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "How I Decide Whether a Task Needs AI",
+        "name": "How I Decide Whether a Task Needs AI",
+        "description": "A practical decision framework for choosing between AI, ordinary software, web research, and a person—with verification, privacy, and error cost built in.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/articles/right-sized-ai/",
+        "datePublished": "2026-09-06",
+        "dateModified": "2026-10-11"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/articles/">Articles</a></li>
+        <li aria-current="page">How I Decide Whether a Task Needs AI</li>
+      </ol>
+    </nav>
+    <main class="content-page" id="main">
+      <article>
+        <header class="content-hero">
+          <p class="eyebrow">Practical Essay · 4 min read</p>
+          <h1>How I Decide Whether a Task Needs AI</h1>
+          <p class="lead">
+            A practical decision framework for choosing between AI, ordinary
+            software, web research, and a person—with verification, privacy, and
+            error cost built in.
+          </p>
+          <p class="content-meta">
+            By Guang · Published <time datetime="2026-09-06">2026-09-06</time> ·
+            Updated <time datetime="2026-10-11">2026-10-11</time>
+          </p>
+          <ul class="tag-list">
+            <li>AI</li>
+            <li>Decision-making</li>
+            <li>Responsible technology</li>
+          </ul>
+          <div class="hero-actions">
+            <a class="button-secondary" href="/articles/">All articles</a>
+          </div>
+        </header>
+        <div class="article-body">
+          <nav class="doc-toc" aria-label="On this page">
+            <details open>
+              <summary>On this page</summary>
+              <ol>
+                <li>
+                  <a href="#start-with-the-task"
+                    >Start with the task, not the model</a
+                  >
+                </li>
+                <li>
+                  <a href="#choose-the-tool"
+                    >Use the right tool for the shape of the work</a
+                  >
+                </li>
+                <li>
+                  <a href="#a-workflow"
+                    >My five-step test before trusting an AI answer</a
+                  >
+                </li>
+                <li>
+                  <a href="#energy-and-cost"
+                    >AI has costs beyond the subscription</a
+                  >
+                </li>
+                <li>
+                  <a href="#privacy-and-risk"
+                    >Match review to the cost of failure</a
+                  >
+                </li>
+                <li>
+                  <a href="#a-reusable-prompt"
+                    >Ask for a tool choice, not an AI sales pitch</a
+                  >
+                </li>
+                <li><a href="#sources">Documents worth checking</a></li>
+              </ol>
+            </details>
+          </nav>
+
+          <section class="detail-section" id="start-with-the-task">
+            <p class="eyebrow">My decision rule</p>
+            <h2>Start with the task, not the model</h2>
+            <p>
+              When a new tool becomes popular, it is tempting to look for a
+              reason to use it. I prefer the opposite order: describe the result
+              I need, list the constraints, and then choose the simplest tool
+              that can produce a reliable result.
+            </p>
+            <p>
+              A spreadsheet can total numbers predictably. A script can rename
+              hundreds of files in the same way each time. Search can find the
+              official page where a policy changed. A human may be needed to
+              weigh a sensitive decision. AI becomes useful when the task
+              involves language, synthesis, drafting, exploring options, or
+              translating an unclear problem into a plan—and when I can check
+              the result.
+            </p>
+            <ul>
+              <li>
+                Define the deliverable and what a correct answer looks like.
+              </li>
+              <li>Choose the lowest-complexity method that meets the need.</li>
+              <li>Estimate the cost of a wrong or incomplete answer.</li>
+              <li>Decide how the result will be verified before starting.</li>
+            </ul>
+          </section>
+          <section class="detail-section" id="choose-the-tool">
+            <p class="eyebrow">A simple comparison</p>
+            <h2>Use the right tool for the shape of the work</h2>
+            <p>
+              Use ordinary code for deterministic tasks, databases for
+              structured records, search for current source material, and AI for
+              tasks where interpretation or language is the main difficulty.
+              These categories overlap, but the distinction helps prevent
+              unnecessary complexity.
+            </p>
+            <ul>
+              <li>
+                <strong>Calculator or spreadsheet:</strong> repeated arithmetic,
+                budgets, tables, and explicit formulas.
+              </li>
+              <li>
+                <strong>Script or application:</strong> repeatable
+                transformations, scheduled jobs, validation, and operational
+                workflows.
+              </li>
+              <li>
+                <strong>Search and primary sources:</strong> current prices,
+                regulations, security advisories, release notes, and exact
+                product specifications.
+              </li>
+              <li>
+                <strong>AI assistant:</strong> outline options, explain
+                unfamiliar concepts, draft a first version, critique a plan, or
+                turn notes into a structured checklist.
+              </li>
+              <li>
+                <strong>Qualified person or accountable owner:</strong>
+                high-impact decisions that require context, professional
+                judgment, consent, or formal responsibility.
+              </li>
+            </ul>
+            <p>
+              AI can help navigate the other tools, but it should not replace a
+              deterministic check when a deterministic check is available.
+            </p>
+          </section>
+          <section class="detail-section" id="a-workflow">
+            <p class="eyebrow">Workflow</p>
+            <h2>My five-step test before trusting an AI answer</h2>
+            <ol>
+              <li>
+                <strong>Give it a bounded task.</strong> Explain the goal,
+                context, constraints, audience, and required output.
+              </li>
+              <li>
+                <strong>Ask it to expose assumptions.</strong> Ask what it is
+                uncertain about and which claims need external verification.
+              </li>
+              <li>
+                <strong>Verify important facts.</strong> Open the linked source,
+                check publication dates, and compare the claim with the original
+                document.
+              </li>
+              <li>
+                <strong>Test the output.</strong> Run code in a safe
+                environment, recompute calculations, or compare a recommendation
+                against a checklist.
+              </li>
+              <li>
+                <strong>Keep human ownership.</strong> Edit the result, record
+                the decision, and remain responsible for what is published or
+                executed.
+              </li>
+            </ol>
+            <p>
+              For current events and product changes, I do not treat an answer
+              remembered from an older conversation as a current source. I check
+              official release notes or primary documentation on the day the
+              information matters.
+            </p>
+          </section>
+          <section class="detail-section" id="energy-and-cost">
+            <p class="eyebrow">Proportionality</p>
+            <h2>AI has costs beyond the subscription</h2>
+            <p>
+              AI systems use physical infrastructure: data centres, chips,
+              networking, electricity, and cooling. The exact footprint depends
+              on the model, hardware, workload, and energy system, so a broad
+              claim such as “AI is always greener” or “AI is always wasteful” is
+              too simplistic.
+            </p>
+            <p>
+              For my own tool choices, I use a practical rule: if a small script
+              or clear checklist solves the task reliably, adding an AI step may
+              add latency, uncertainty, privacy exposure, and operational cost
+              without a useful benefit. If AI helps me understand a complicated
+              topic or compare many sources, the extra complexity may be
+              justified.
+            </p>
+            <p>
+              For wider context, consult the International Energy Agency’s
+              <a
+                href="https://www.iea.org/reports/energy-and-ai"
+                rel="noopener noreferrer"
+                target="_blank"
+                >Energy and AI analysis</a
+              >. Treat it as a source to read, not as a single number that
+              applies to every AI request.
+            </p>
+          </section>
+          <section class="detail-section" id="privacy-and-risk">
+            <p class="eyebrow">Guardrails</p>
+            <h2>Match review to the cost of failure</h2>
+            <p>
+              The higher the consequences, the more evidence and human review
+              the workflow needs. A low-stakes brainstorm may only need an edit.
+              A script that changes a production server requires a test
+              environment, code review, backups, and a rollback plan. Financial,
+              medical, legal, employment, or safety decisions need appropriately
+              qualified human judgment.
+            </p>
+            <ul>
+              <li>
+                Do not paste passwords, private keys, recovery codes, customer
+                records, or confidential material into a service unless its
+                approved data-handling arrangements explicitly permit it.
+              </li>
+              <li>
+                Ask for citations, then verify that the sources exist and
+                support the specific claim.
+              </li>
+              <li>
+                Do not execute commands only because the assistant suggests
+                them; understand their effect first.
+              </li>
+              <li>
+                Keep a record of decisions that materially affect a project or
+                another person.
+              </li>
+              <li>
+                Use AI to challenge your thinking, not merely to confirm it.
+              </li>
+            </ul>
+          </section>
+          <section class="detail-section" id="a-reusable-prompt">
+            <p class="eyebrow">Reusable prompt</p>
+            <h2>Ask for a tool choice, not an AI sales pitch</h2>
+            <pre
+              class="copyable-code"
+            ><code>I need to achieve: [specific outcome].
+Context and constraints: [time, budget, tools, access].
+Compare the simplest reliable options: ordinary software, a script, web research, an AI assistant, or a human expert.
+For each option, explain cost, failure modes, privacy risks, and how I would verify the result.
+Recommend the lowest-complexity option that meets the need. State assumptions and what you cannot verify.</code></pre>
+            <p>
+              The useful answer might be “do not use AI for this.” I consider
+              that a good result when it reduces unnecessary work and risk.
+            </p>
+          </section>
+          <section class="detail-section" id="sources">
+            <p class="eyebrow">Sources and further reading</p>
+            <h2>Documents worth checking</h2>
+            <ul>
+              <li>
+                <a
+                  href="https://www.iea.org/reports/energy-and-ai"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >International Energy Agency — Energy and AI</a
+                >, for data-centre and energy-system context.
+              </li>
+              <li>
+                <a
+                  href="https://airc.nist.gov/airmf-resources/airmf/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >NIST AI Risk Management Framework resources</a
+                >, for thinking about governance, measurement, and risk
+                management.
+              </li>
+              <li>
+                <a
+                  href="https://help.openai.com/en/"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  >OpenAI Help Center</a
+                >, for current product capabilities and limitations.
+              </li>
+            </ul>
+          </section>
+        </div>
+        <footer class="detail-section">
+          <p>
+            I wrote this as a working note, not a final authority. Check the
+            linked primary sources and current instructions before acting on
+            anything that affects safety, money, or a live system.
+          </p>
+          <p>
+            <a href="/editorial-policy.html"
+              >Editorial policy and corrections</a
+            >
+            · <a href="/contact.html">Contact</a> ·
+            <a href="/articles/">Browse all articles</a>
+          </p>
+        </footer>
+      </article>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>

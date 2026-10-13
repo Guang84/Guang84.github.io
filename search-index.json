@@ -1,267 +1,341 @@
 [
   {
-    "id": "network-analyzer-v2024",
-    "summary": "A Linux Bash-based educational network analysis toolkit for authorized wireless security testing, monitor-mode operation, network discovery, handshake capture, network monitoring, vulnerability testing, and password-auditing workflows.",
+    "id": "glabnetops",
+    "summary": "A public overview of GLabNetOps, the network-operations and tooling work documented by Guang—from broadband operations experience to independent network and automation tools.",
     "tags": [
-      "bash",
-      "linux",
-      "wireless-security",
-      "network-monitoring",
-      "aircrack-ng",
-      "wifi-security",
-      "python"
+      "GLabNetOps",
+      "Network Operations",
+      "Broadband",
+      "Automation",
+      "Documentation",
+      "Security"
     ],
     "type": "Project",
-    "title": "Network Analyzer v2024.06.24",
-    "url": "/projects/?id=network-analyzer-v2024"
+    "title": "GLabNetOps: Network Operations & Tooling",
+    "url": "/projects/glabnetops/"
   },
   {
-    "id": "network-analyzer-v2024",
-    "summary": "Prepare a compatible Linux host and wireless adapter, install the required Aircrack-ng/MDK utilities, run the Bash tool as root, confirm the detected interface, and use only the functions permitted by the assessment scope.",
+    "id": "glabnetops",
+    "summary": "Understand the origin, distinct workstreams, current status, and safe public/private boundary before interpreting this as a single product.",
     "tags": [
-      "bash",
-      "linux",
-      "wireless-security",
-      "network-monitoring",
-      "aircrack-ng",
-      "wifi-security",
-      "python"
+      "GLabNetOps",
+      "Network Operations",
+      "Broadband",
+      "Automation",
+      "Documentation",
+      "Security"
     ],
     "type": "Project guide",
-    "title": "Authorized operator quick guide",
-    "url": "/projects/?id=network-analyzer-v2024#guide"
+    "title": "How to evaluate the GLabNetOps project track",
+    "url": "/projects/glabnetops/#guide"
   },
   {
     "id": "network-analyzer-v2026",
-    "summary": "A Linux terminal toolkit for authorized wireless discovery, passive monitoring, scan analysis, reporting, and explainable anomaly detection using locally learned baselines.",
+    "summary": "A Linux terminal toolkit for authorized wireless discovery, passive monitoring, saved-scan analysis, reporting, and explainable anomaly detection.",
     "tags": [
       "Python",
       "Linux",
       "Wireless security",
-      "Network monitoring",
-      "Anomaly detection",
       "SQLite",
-      "Scikit-learn"
+      "Anomaly detection"
     ],
     "type": "Project",
     "title": "Network Analyzer v2026.08.21",
-    "url": "/projects/?id=network-analyzer-v2026"
+    "url": "/projects/network-analyzer-v2026/"
   },
   {
     "id": "network-analyzer-v2026",
-    "summary": "Install dependencies, confirm the approved assessment scope, run readiness diagnostics, select an adapter, and begin with passive discovery or saved-data analysis.",
+    "summary": "Review scope, validate dependencies, start with passive observations or saved-data analysis, and inspect generated reports before using them to make decisions.",
     "tags": [
       "Python",
       "Linux",
       "Wireless security",
-      "Network monitoring",
-      "Anomaly detection",
       "SQLite",
-      "Scikit-learn"
+      "Anomaly detection"
     ],
     "type": "Project guide",
-    "title": "Authorized operator quick guide",
-    "url": "/projects/?id=network-analyzer-v2026#guide"
+    "title": "Authorized operator guide",
+    "url": "/projects/network-analyzer-v2026/#guide"
   },
   {
     "id": "noney-bsnl-broadband-nms",
-    "summary": "An independently developed broadband operations platform that centralized customer service, network monitoring, infrastructure planning, mapping, and administrative workflows for a rural BSNL franchise.",
+    "summary": "A retired rural broadband operations platform that brought service workflows, network visibility, infrastructure planning, mapping, and administration into one workspace.",
     "tags": [
-      "JavaScript",
+      "Broadband operations",
+      "Network management",
       "Python",
-      "GPON",
-      "Operations"
+      "JavaScript"
     ],
     "type": "Project",
     "title": "Noney BSNL Broadband NMS",
-    "url": "/projects/?id=noney-bsnl-broadband-nms"
+    "url": "/projects/noney-bsnl-broadband-nms/"
   },
   {
     "id": "noney-bsnl-broadband-nms",
-    "summary": "Run the public static gateway and documentation locally without requiring the retired production server or any private customer and infrastructure data.",
+    "summary": "Understand the operational problem, system boundary, deployment model, and what can or cannot be inferred from the retired production implementation.",
     "tags": [
-      "JavaScript",
+      "Broadband operations",
+      "Network management",
       "Python",
-      "GPON",
-      "Operations"
+      "JavaScript"
     ],
     "type": "Project guide",
-    "title": "Explore the Noney Broadband NMS showcase",
-    "url": "/projects/?id=noney-bsnl-broadband-nms#guide"
+    "title": "How to read this case study",
+    "url": "/projects/noney-bsnl-broadband-nms/#guide"
   },
   {
     "id": "rongmei-hymnal",
-    "summary": "An installable, offline-first digital hymnal and preservation project bringing 1,271 songs from three Rongmei and community song collections into one searchable reading space. The application is actively deployed while hymn text, metadata, and legacy-source inconsistencies are being reviewed and corrected progressively for greater accuracy.",
+    "summary": "An offline-first digital hymnal and preservation project bringing three Rongmei and community song collections into a searchable reading experience, with editorial review ongoing.",
     "tags": [
-      "JavaScript",
-      "PWA",
-      "Offline-first",
-      "Accessibility",
+      "Rongmei songs",
       "Digital preservation",
-      "Community technology"
+      "PWA",
+      "Offline-first"
     ],
     "type": "Project",
     "title": "Rongmei Hymnal",
-    "url": "/projects/?id=rongmei-hymnal"
+    "url": "/projects/rongmei-hymnal/"
   },
   {
     "id": "rongmei-hymnal",
-    "summary": "Run the static application through an HTTP server, test the searchable library locally, install the HTTPS deployment as a PWA, explicitly download songbook data for offline use, and validate both structured data and editorial corrections before release.",
+    "summary": "Run a local copy, inspect collection data, verify the offline workflow, and treat editorial correction and rights review as separate from technical validation.",
     "tags": [
-      "JavaScript",
-      "PWA",
-      "Offline-first",
-      "Accessibility",
+      "Rongmei songs",
       "Digital preservation",
-      "Community technology"
+      "PWA",
+      "Offline-first"
     ],
     "type": "Project guide",
-    "title": "Run, install, maintain, and review Rongmei Hymnal",
-    "url": "/projects/?id=rongmei-hymnal#guide"
+    "title": "Run, maintain, and review Rongmei Hymnal",
+    "url": "/projects/rongmei-hymnal/#guide"
   },
   {
     "id": "ssh-fleet-doctor",
-    "summary": "An evolving SSH administration and server-health toolkit combining Bash automation with a Python/Paramiko monitor for authorized remote systems.",
+    "summary": "An evolving SSH administration and server-health toolkit combining shell automation with a Python/Paramiko monitoring path for systems that the operator is authorized to manage.",
     "tags": [
-      "Shell",
-      "Python",
       "SSH",
+      "Python",
+      "Bash",
       "Server monitoring"
     ],
     "type": "Project",
     "title": "SSH Fleet Doctor",
-    "url": "/projects/?id=ssh-fleet-doctor"
+    "url": "/projects/ssh-fleet-doctor/"
   },
   {
     "id": "ssh-fleet-doctor",
-    "summary": "Prepare the Bash and Python tooling against a disposable or explicitly authorized SSH test host before considering operational use.",
+    "summary": "Start with a restricted test host, verify host identity and credentials, run read-only checks, and inspect logs before expanding the scope.",
     "tags": [
-      "Shell",
-      "Python",
       "SSH",
+      "Python",
+      "Bash",
       "Server monitoring"
     ],
     "type": "Project guide",
     "title": "Set up SSH Fleet Doctor safely",
-    "url": "/projects/?id=ssh-fleet-doctor#guide"
+    "url": "/projects/ssh-fleet-doctor/#guide"
   },
   {
-    "type": "Article",
-    "id": "buying-laptop-2026-specs-guide",
-    "title": "Buying a laptop in 2026 requires more than checking whether it has a high-end processor",
-    "summary": "A Core Ultra 7 or Ryzen 7 badge does not tell you how fast a laptop really is. Processor generation and suffix, GPU power limits, VRAM, RAM type and channel configuration, SSD technology, cooling, display quality, battery capacity, and upgradeability can matter just as much as the headline CPU name.",
+    "id": "network-analyzer-v2024",
+    "summary": "An archived 2024 Bash-based wireless analysis toolkit, preserved for historical code review and authorized lab learning.",
     "tags": [
-      "Laptop buying guide",
-      "Computer hardware",
-      "Processors",
-      "Graphics cards",
-      "RAM",
-      "SSD",
+      "Bash",
+      "Linux",
+      "Wireless security",
+      "Network monitoring",
+      "Historical release"
+    ],
+    "type": "Project",
+    "title": "Network Analyzer v2024.06.24",
+    "url": "/projects/network-analyzer-v2024/"
+  },
+  {
+    "id": "network-analyzer-v2024",
+    "summary": "Review the archived code and its environment checks without treating this older workflow as a current recommendation.",
+    "tags": [
+      "Bash",
+      "Linux",
+      "Wireless security",
+      "Network monitoring",
+      "Historical release"
+    ],
+    "type": "Project guide",
+    "title": "Safe review of the 2024 release",
+    "url": "/projects/network-analyzer-v2024/#guide"
+  },
+  {
+    "type": "Project Story",
+    "id": "glabnetops-project-story",
+    "title": "From Broadband Operations to GLabNetOps: The Project Story",
+    "summary": "How a practical broadband-operations problem shaped GLabNetOps, what changed as the work grew, and what is intentionally kept out of the public project record.",
+    "tags": [
+      "GLabNetOps",
+      "Network Operations",
+      "Broadband",
+      "Software Projects",
+      "Documentation"
+    ],
+    "url": "/articles/glabnetops-project-story/"
+  },
+  {
+    "type": "Practical Essay",
+    "id": "building-with-nature-in-mind",
+    "title": "Building with Nature in Mind: A Practical Technology Checklist",
+    "summary": "A practical checklist for choosing tools that fit local needs, use data responsibly, remain maintainable, and take environmental effects seriously—without treating every new device as progress.",
+    "tags": [
       "Technology",
-      "2026"
+      "Sustainability",
+      "Community",
+      "Engineering",
+      "Sustainable farming"
     ],
-    "url": "/articles/?id=buying-laptop-2026-specs-guide"
+    "url": "/articles/building-with-nature-in-mind/"
   },
   {
-    "type": "Article",
-    "id": "right-sized-ai",
-    "title": "The most responsible AI may be the smallest one that works",
-    "summary": "A decision framework for using AI where it creates real value, choosing the lightest capable system, and keeping people accountable for the result.",
+    "type": "Practical Guide",
+    "id": "chatgpt-uses-benefits-and-limits",
+    "title": "What I Use ChatGPT For: Practical Uses, Benefits, and Limits",
+    "summary": "Practical notes on using ChatGPT for daily planning, exam study, research, writing and technical work—what it makes easier, where it fails, and how I check the answer.",
     "tags": [
-      "Artificial intelligence",
-      "Energy",
-      "Responsible design"
+      "ChatGPT",
+      "AI",
+      "Productivity",
+      "Study",
+      "Research",
+      "Technology"
     ],
-    "url": "/articles/?id=right-sized-ai"
+    "url": "/articles/chatgpt-uses-benefits-and-limits/"
   },
   {
-    "type": "Article",
+    "type": "Practical Guide",
+    "id": "chatgpt-daily-planning-learning-guide",
+    "title": "How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving",
+    "summary": "A realistic routine for a morning brief, competitive-exam practice, GLabNetOps and technical work, and an evening review—with verification, privacy, and realistic limits built in.",
+    "tags": [
+      "ChatGPT",
+      "Daily planning",
+      "Study",
+      "Productivity",
+      "AI"
+    ],
+    "url": "/articles/chatgpt-daily-planning-learning-guide/"
+  },
+  {
+    "type": "Buying Guide",
+    "id": "buying-laptop-2026-specs-guide",
+    "title": "How to Choose a Laptop for Real Work in 2026",
+    "summary": "A workload-first laptop buying guide for trading, multitasking, development, Linux, virtual machines, cybersecurity labs, and networking—covering performance, thermals, battery, upgradeability, and value in India.",
+    "tags": [
+      "Laptop buying",
+      "Windows",
+      "Linux",
+      "Virtualization",
+      "India"
+    ],
+    "url": "/articles/buying-laptop-2026-specs-guide/"
+  },
+  {
+    "type": "Practical Guide",
     "id": "repair-before-replace",
-    "title": "The greenest upgrade may be the one you do not buy",
-    "summary": "A practical path for keeping electronics useful longer, protecting personal data, and sending truly finished devices into responsible reuse or recycling.",
+    "title": "The Greenest Upgrade May Be the One You Do Not Buy",
+    "summary": "A decision guide for diagnosing slow electronics, protecting data, checking repairability, extending useful life, and choosing responsible reuse or recycling in India.",
     "tags": [
-      "Repair",
+      "Repairability",
       "E-waste",
-      "Circular technology"
+      "Sustainability"
     ],
-    "url": "/articles/?id=repair-before-replace"
+    "url": "/articles/repair-before-replace/"
   },
   {
-    "type": "Article",
+    "type": "Practical Guide",
     "id": "passkeys-and-the-human-side-of-security",
-    "title": "Passkeys move security closer to how people actually live",
-    "summary": "A practical guide to phishing-resistant sign-in, safer account recovery, and the human habits that still matter after passwords begin to disappear.",
+    "title": "Passkeys, Recovery, and the Human Side of Security",
+    "summary": "A practical guide to phishing-resistant sign-in, account recovery, backup methods, and the habits that keep a stronger login system usable.",
     "tags": [
       "Cybersecurity",
       "Passkeys",
-      "Digital safety"
+      "Account safety"
     ],
-    "url": "/articles/?id=passkeys-and-the-human-side-of-security"
+    "url": "/articles/passkeys-and-the-human-side-of-security/"
   },
   {
-    "type": "Article",
-    "id": "better-light-better-night",
-    "title": "Better light begins by protecting the dark",
-    "summary": "How careful placement, shielding, warm colour, dimming, and simple controls can make outdoor lighting more useful to people and less disruptive to wildlife.",
+    "type": "Practical Essay",
+    "id": "right-sized-ai",
+    "title": "How I Decide Whether a Task Needs AI",
+    "summary": "A practical decision framework for choosing between AI, ordinary software, web research, and a person—with verification, privacy, and error cost built in.",
     "tags": [
-      "Nature",
-      "Outdoor lighting",
-      "Energy efficiency"
+      "AI",
+      "Decision-making",
+      "Responsible technology"
     ],
-    "url": "/articles/?id=better-light-better-night"
+    "url": "/articles/right-sized-ai/"
   },
   {
-    "type": "Article",
+    "type": "Practical Guide",
+    "id": "better-light-better-night",
+    "title": "Better Light Begins by Protecting the Dark",
+    "summary": "A practical outdoor-lighting checklist: aim light where it is needed, use no more than necessary, choose warm light where suitable, add controls, and inspect spill after dark.",
+    "tags": [
+      "Sustainability",
+      "Outdoor lighting",
+      "Energy"
+    ],
+    "url": "/articles/better-light-better-night/"
+  },
+  {
+    "type": "Practical Guide",
     "id": "soil-sensors-need-ground-truth",
-    "title": "A soil sensor is a question, not an answer",
-    "summary": "How growers can combine moisture sensors, field observation, weather, and simple records to irrigate with more confidence and less false precision.",
+    "title": "A Soil Sensor Is a Question, Not an Answer",
+    "summary": "A field-ready framework for placing moisture sensors, checking readings against soil and crop conditions, keeping an irrigation log, and avoiding false precision.",
     "tags": [
       "Sustainable farming",
-      "Soil moisture",
-      "Field technology"
+      "Sensors",
+      "Soil moisture"
     ],
-    "url": "/articles/?id=soil-sensors-need-ground-truth"
+    "url": "/articles/soil-sensors-need-ground-truth/"
   },
   {
-    "type": "Field note",
+    "type": "Field Note",
     "id": "learning-from-soil",
-    "title": "What the soil taught the sensor",
-    "summary": "Field notes on calibration, false precision, and why a farmer’s hand can be the best instrument in the loop.",
+    "title": "What Soil Can Teach Us About Measurement",
+    "summary": "A short reflection on uncertainty, context, and why measurement tools should support local knowledge instead of pretending one number tells the whole story.",
     "tags": [
-      "Soil",
-      "Field testing",
-      "Sustainability"
+      "Sustainable farming",
+      "Measurement",
+      "Learning"
     ],
-    "url": "/articles/?id=learning-from-soil"
+    "url": "/articles/learning-from-soil/"
   },
   {
-    "type": "Article",
+    "type": "Practical Essay",
     "id": "responsible-ai",
-    "title": "Responsible AI begins before the model",
-    "summary": "A practical framework for deciding whether an AI system should exist, what it should optimize, and who gets to question it.",
+    "title": "Before I Build With AI, I Ask Who Carries the Risk",
+    "summary": "A practical AI review checklist covering intended users, error costs, privacy, transparency, human override, and ways to challenge or correct outputs.",
     "tags": [
       "Responsible AI",
-      "Design",
-      "Governance"
+      "Privacy",
+      "Product design"
     ],
-    "url": "/articles/?id=responsible-ai"
+    "url": "/articles/responsible-ai/"
   },
   {
-    "type": "Article",
+    "type": "Security Guide",
     "id": "security-is-care",
-    "title": "Security is a form of care",
-    "summary": "Moving beyond fear-driven security toward systems that respect attention, dignity, and ordinary human behavior.",
+    "title": "Security Is a Form of Care",
+    "summary": "A practical, human-centred security guide to reducing risk, respecting consent, protecting identity, limiting privileged access, responding to incidents, and making safer behaviour easier.",
     "tags": [
       "Cybersecurity",
-      "Human-centered design"
+      "Privacy",
+      "Identity",
+      "Operations"
     ],
-    "url": "/articles/?id=security-is-care"
+    "url": "/articles/security-is-care/"
   },
   {
     "type": "Guide",
     "id": "start-here",
     "title": "Start here",
-    "summary": "Find project documentation and choose a practical reading path through GLab.",
+    "summary": "Choose a practical reading path through GLab articles and project case studies.",
     "tags": [],
     "url": "/start-here.html"
   },
@@ -269,7 +343,7 @@
     "type": "Guide",
     "id": "project-checklist",
     "title": "Before you run a project",
-    "summary": "A practical checklist for evaluating a documented software project before a local trial.",
+    "summary": "Evaluate prerequisites, permissions, risks, verification, and rollback before trying a project.",
     "tags": [],
     "url": "/project-checklist.html"
   },
@@ -277,7 +351,7 @@
     "type": "Guide",
     "id": "editorial-policy",
     "title": "Editorial policy and corrections",
-    "summary": "How to interpret GLab project descriptions, sources, limitations and correction requests.",
+    "summary": "How GLab handles sources, AI-assisted editing, project status, limitations, and corrections.",
     "tags": [],
     "url": "/editorial-policy.html"
   }

@@ -1,0 +1,609 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      content="width=device-width,initial-scale=1,viewport-fit=cover"
+      name="viewport"
+    />
+    <meta
+      content="A Linux terminal toolkit for authorized wireless discovery, passive monitoring, saved-scan analysis, reporting, and explainable anomaly detection."
+      name="description"
+    />
+    <meta content="Guang" name="author" />
+    <meta content="light dark" name="color-scheme" />
+    <meta content="#0d1c15" name="theme-color" />
+    <meta content="GLab" name="application-name" />
+    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <title>Network Analyzer v2026.08.21 — GLab</title>
+    <link
+      href="https://guang84.github.io/projects/network-analyzer-v2026/"
+      rel="canonical"
+    />
+    <link href="/manifest.webmanifest" rel="manifest" />
+    <link
+      href="/assets/brand/glab-mark-48.png"
+      rel="icon"
+      sizes="48x48"
+      type="image/png"
+    />
+    <link href="/assets/icons/apple-touch-180.png" rel="apple-touch-icon" />
+    <link
+      href="/feed.xml"
+      rel="alternate"
+      title="GLab articles"
+      type="application/rss+xml"
+    />
+    <link href="/assets/css/main.css" rel="stylesheet" />
+    <meta content="website" property="og:type" />
+    <meta content="GLab" property="og:site_name" />
+    <meta content="Network Analyzer v2026.08.21 — GLab" property="og:title" />
+    <meta
+      content="A Linux terminal toolkit for authorized wireless discovery, passive monitoring, saved-scan analysis, reporting, and explainable anomaly detection."
+      property="og:description"
+    />
+    <meta
+      content="https://guang84.github.io/projects/network-analyzer-v2026/"
+      property="og:url"
+    />
+    <meta
+      content="https://guang84.github.io/assets/social/glab-social.png"
+      property="og:image"
+    />
+    <meta content="summary_large_image" name="twitter:card" />
+
+    <script>
+      (function () {
+        try {
+          var t = localStorage.getItem("glab-theme"),
+            s = localStorage.getItem("glab-font-size");
+          if (t === "light" || t === "dark")
+            document.documentElement.dataset.theme = t;
+          if (["small", "medium", "large"].includes(s))
+            document.documentElement.dataset.fontSize = s;
+        } catch (e) {}
+      })();
+    </script>
+    <meta content="Network Analyzer v2026.08.21" name="glab:project-title" />
+    <meta
+      content="A Linux terminal toolkit for authorized wireless discovery, passive monitoring, saved-scan analysis, reporting, and explainable anomaly detection."
+      name="glab:project-summary"
+    />
+    <meta
+      content="Wireless Security &amp; Network Monitoring"
+      name="glab:project-category"
+    />
+    <meta content="2026" name="glab:project-year" />
+    <meta
+      content="Release · authorized lab toolkit"
+      name="glab:project-status"
+    />
+    <meta content="2026-10-11" name="glab:project-updated" />
+    <meta
+      content="Python, Linux, Wireless security, SQLite, Anomaly detection"
+      name="glab:project-tags"
+    />
+    <meta content="true" name="glab:project-featured" />
+    <meta
+      content="https://github.com/Guang84/Network-Analyzer"
+      name="glab:project-repository"
+    />
+    <meta content="" name="glab:project-demo" />
+    <meta content="Authorized operator guide" name="glab:project-guide-title" />
+    <meta
+      content="Review scope, validate dependencies, start with passive observations or saved-data analysis, and inspect generated reports before using them to make decisions."
+      name="glab:project-guide-summary"
+    />
+    <meta content="Apache-2.0" name="glab:project-license" />
+    <meta content="Network Analyzer v2026.08.21 — GLab" name="twitter:title" />
+    <meta
+      content="A Linux terminal toolkit for authorized wireless discovery, passive monitoring, saved-scan analysis, reporting, and explainable anomaly detection."
+      name="twitter:description"
+    />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "TechArticle",
+        "headline": "Network Analyzer v2026.08.21",
+        "name": "Network Analyzer v2026.08.21",
+        "description": "A Linux terminal toolkit for authorized wireless discovery, passive monitoring, saved-scan analysis, reporting, and explainable anomaly detection.",
+        "author": {
+          "@type": "Person",
+          "name": "Guang",
+          "url": "https://guang84.github.io/about.html"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "GLab",
+          "url": "https://guang84.github.io/"
+        },
+        "mainEntityOfPage": "https://guang84.github.io/projects/network-analyzer-v2026/",
+        "datePublished": "2026-01-01",
+        "dateModified": "2026-10-11"
+      }
+    </script>
+  </head>
+  <body id="top">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a aria-label="GLab home" class="brand" href="/"
+        ><img
+          alt=""
+          class="brand-logo"
+          height="41"
+          src="/assets/brand/glab-mark-64.png"
+          width="41"
+        /><span class="brand-label">GLab</span></a
+      >
+      <nav aria-label="Primary" class="nav">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+      <div class="header-actions">
+        <button
+          aria-controls="search-dialog"
+          aria-label="Search GLab"
+          class="icon-button search-toggle"
+          data-search-toggle=""
+          type="button"
+        >
+          ⌕</button
+        ><button
+          aria-label="Decrease text size"
+          class="icon-button font-control"
+          data-font-step="-1"
+          type="button"
+        >
+          A−</button
+        ><button
+          aria-label="Increase text size"
+          class="icon-button font-control"
+          data-font-step="1"
+          type="button"
+        >
+          A+</button
+        ><button
+          aria-label="Switch color theme"
+          aria-pressed="false"
+          class="icon-button theme-toggle"
+          data-theme-toggle=""
+          type="button"
+        >
+          <span data-theme-icon="">◐</span></button
+        ><button
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          class="menu-toggle"
+          data-menu-toggle=""
+          type="button"
+        >
+          Menu
+        </button>
+      </div>
+    </header>
+    <div class="mobile-menu" data-mobile-menu="" hidden="" id="mobile-menu">
+      <nav aria-label="Mobile">
+        <a href="/projects/">Projects</a><a href="/articles/">Articles</a
+        ><a href="/about.html">About</a>
+      </nav>
+    </div>
+    <dialog
+      aria-labelledby="search-title"
+      class="search-dialog"
+      data-search-dialog=""
+      id="search-dialog"
+    >
+      <div class="search-shell">
+        <div class="search-head">
+          <label
+            ><span class="sr-only" id="search-title">Search GLab</span
+            ><input
+              autocomplete="off"
+              data-global-search=""
+              placeholder="Search projects, articles and guides…"
+              type="search" /></label
+          ><button
+            aria-label="Close search"
+            class="search-close"
+            data-search-close=""
+            type="button"
+          >
+            ×
+          </button>
+        </div>
+        <div
+          aria-live="polite"
+          class="search-results"
+          data-search-results=""
+        ></div>
+      </div>
+    </dialog>
+    <nav aria-label="Breadcrumb" class="breadcrumbs">
+      <ol>
+        <li><a href="/">Home</a></li>
+        <li><a href="/projects/">Projects</a></li>
+        <li aria-current="page">Network Analyzer v2026.08.21</li>
+      </ol>
+    </nav>
+    <main class="content-page case-page" id="main">
+      <header class="case-hero">
+        <div>
+          <p class="eyebrow">
+            Wireless Security &amp; Network Monitoring · 2026
+          </p>
+          <h1>Network Analyzer v2026.08.21</h1>
+          <p class="lead">
+            A Linux terminal toolkit for authorized wireless discovery, passive
+            monitoring, saved-scan analysis, reporting, and explainable anomaly
+            detection.
+          </p>
+          <ul class="tag-list">
+            <li>Python</li>
+            <li>Linux</li>
+            <li>Wireless security</li>
+            <li>SQLite</li>
+            <li>Anomaly detection</li>
+          </ul>
+        </div>
+        <div class="case-facts">
+          <div>
+            <span>Status</span><strong>Release · authorized lab toolkit</strong>
+          </div>
+          <div><span>Year</span><strong>2026</strong></div>
+        </div>
+      </header>
+
+      <nav class="doc-toc" aria-label="On this page">
+        <details open>
+          <summary>On this page</summary>
+          <ol>
+            <li><a href="#quick-reference">Project snapshot</a></li>
+            <li>
+              <a href="#background"
+                >From a menu-driven tool toward a modular analysis workflow</a
+              >
+            </li>
+            <li>
+              <a href="#architecture"
+                >A local engine-based terminal architecture</a
+              >
+            </li>
+            <li>
+              <a href="#setup">Prepare the environment before assessment</a>
+            </li>
+            <li>
+              <a href="#validation"
+                >Separate automated checks from hardware claims</a
+              >
+            </li>
+            <li>
+              <a href="#status"
+                >Use reports as evidence to interpret, not a verdict</a
+              >
+            </li>
+            <li>
+              <a href="#version-history"
+                >Compare the 2026 version with the 2024 archive</a
+              >
+            </li>
+            <li><a href="#project-links">Explore the project</a></li>
+          </ol>
+        </details>
+      </nav>
+
+      <section class="detail-section quick-reference" id="quick-reference">
+        <p class="eyebrow">Quick reference</p>
+        <h2>Project snapshot</h2>
+        <p>I wrote this snapshot as a quick orientation before the setup instructions. It separates intended use from the recorded validation so that passing software tests is not mistaken for evidence of live wireless behaviour.</p>
+        <div class="doc-table-scroll" role="region" aria-label="Project snapshot" tabindex="0">
+          <table class="doc-table">
+            <caption>Project facts and current boundaries</caption>
+            <thead><tr><th scope="col">Area</th><th scope="col">Documented details</th><th scope="col">How to interpret it</th></tr></thead>
+            <tbody>
+              <tr><td>Version</td><td>Network Analyzer v2026.08.21</td><td>Check the repository for newer commits, dependencies, and release notes</td></tr>
+              <tr><td>Workflow</td><td>Bash launcher, Python dispatcher/engines, local persistence, and reports</td><td>The architecture document is the authoritative module map</td></tr>
+              <tr><td>Intended scope</td><td>Authorized wireless observation and analysis of saved data</td><td>Use only systems and spectrum activity within an approved scope</td></tr>
+              <tr><td>Recorded validation</td><td>85 tests and 6 subtests, plus syntax/compile checks, recorded on 20 September 2026</td><td>That record did not include live radio hardware testing</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+      <section class="detail-section" id="background">
+        <p class="eyebrow">Background</p>
+        <h2>From a menu-driven tool toward a modular analysis workflow</h2>
+        <p>
+          Network Analyzer v2026 is the newer documented iteration of the
+          Network Analyzer project. The shift in its recorded design is from a
+          Bash-centred collection of menu actions toward a small Bash launcher,
+          a Python dispatcher, specialized engines, local persistence, reports,
+          and terminal views. This is a documented technical evolution; the
+          repository does not provide enough reliable evidence to attribute the
+          redesign to a single event, so I do not invent one.
+        </p>
+        <p>
+          The intended use is authorized network visibility and learning.
+          Network discovery and wireless assessment can affect other people’s
+          systems, which is why the scope and safety boundary come before the
+          command line.
+        </p>
+      </section>
+      <section class="detail-section" id="architecture">
+        <p class="eyebrow">Architecture</p>
+        <h2>A local engine-based terminal architecture</h2>
+        <div class="doc-table-scroll" role="region" aria-label="Architecture components" tabindex="0">
+          <table class="doc-table">
+            <caption>Major modules and their documented responsibilities</caption>
+            <thead><tr><th scope="col">Component</th><th scope="col">Responsibility</th><th scope="col">Operational note</th></tr></thead>
+            <tbody>
+              <tr><td>`network_analyzer.sh`</td><td>Checks the local environment and launches the application path</td><td>Inspect the launcher before execution</td></tr>
+              <tr><td>`interactive.py`</td><td>Loads configuration, initializes the core, and routes menu/CLI actions</td><td>Use the current repository guide for supported options</td></tr>
+              <tr><td>Discovery and monitoring engines</td><td>Collect and parse local observations into CSV, JSON, or capture logs</td><td>Treat exports as sensitive operational data</td></tr>
+              <tr><td>Analysis modules</td><td>Summarize saved information and create Markdown reports</td><td>Validate inputs and review the report context</td></tr>
+              <tr><td>Anomaly-analysis path</td><td>Stores local snapshots/patterns and presents incidents from an available baseline</td><td>An unusual event is a lead to investigate, not proof of malicious activity</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p>
+          See the project’s
+          <a
+            href="https://github.com/Guang84/Network-Analyzer/blob/main/docs/ARCHITECTURE.md"
+            rel="noopener noreferrer"
+            target="_blank"
+            >architecture document</a
+          >
+          for the authoritative module map. Outputs can reveal internal network
+          details, so treat them as sensitive operational data.
+        </p>
+      </section>
+      <span id="guide" aria-hidden="true"></span>
+      <section class="detail-section" id="setup">
+        <p class="eyebrow">Operator guide</p>
+        <h2>Prepare the environment before assessment</h2>
+        <h3>Prerequisites</h3>
+        <ul>
+          <li>Python 3.10 or later, using a supported Linux environment.</li>
+          <li>
+            Dependencies listed by the repository and the system utilities
+            required by the selected workflow.
+          </li>
+          <li>
+            A compatible wireless adapter only if the intended lab operation
+            needs one.
+          </li>
+          <li>
+            Explicit authorization and a written scope for the network or
+            devices being assessed.
+          </li>
+        </ul>
+        <h3>Steps</h3>
+        <ol>
+          <li>
+            Read the current repository README and project guide; confirm the
+            branch and version.
+          </li>
+          <li>
+            Inspect <code>config.yaml</code> and use a dedicated lab directory
+            for generated data.
+          </li>
+          <li>
+            Run <code>python3 interactive.py --doctor</code> to inspect
+            readiness.
+          </li>
+          <li>
+            Run repository syntax checks and unit tests before connecting
+            hardware.
+          </li>
+          <li>
+            Start <code>./network_analyzer.sh</code> and begin with passive
+            discovery or analysis of saved scan data.
+          </li>
+          <li>
+            Use only the operations covered by your authorization; protect and
+            securely handle all exported telemetry.
+          </li>
+        </ol>
+        <pre class="copyable-code"><code>python3 -m compileall -q .
+python3 -m unittest discover -s tests -v
+bash -n network_analyzer.sh folderstruc.sh
+python3 interactive.py --doctor</code></pre>
+        <h3>Verification and troubleshooting</h3>
+        <ul>
+          <li>
+            Syntax and unit tests should complete without errors in the tested
+            environment; if a test fails, keep the output and investigate before
+            assessment.
+          </li>
+          <li>
+            The doctor command reports the state of required tools and optional
+            packages; a missing optional package can disable its associated
+            feature.
+          </li>
+          <li>
+            If no wireless adapter is visible, check the hardware, driver,
+            interface state, and whether the selected workflow requires that
+            adapter.
+          </li>
+          <li>
+            If connectivity changes after a lab operation, stop the operation
+            and restore the adapter and network manager state before continuing.
+          </li>
+          <li>
+            Do not assume a passing software test proves live wireless
+            behaviour; live radio testing is separate and must remain
+            authorized.
+          </li>
+        </ul>
+      </section>
+      <section class="detail-section" id="validation">
+        <p class="eyebrow">Validation record</p>
+        <h2>Separate automated checks from hardware claims</h2>
+        <p>
+          The project record documents an offline regression run on 20 September
+          2026 with 85 tests and six subtests passing without wireless hardware
+          or root. It also records Bash syntax checks and Python compilation.
+          The same note says the readiness check reported scikit-learn as the
+          only missing optional Python package in that test environment. These
+          are the recorded results for that snapshot, not a guarantee that the
+          current checkout or every environment will behave the same way.
+        </p>
+        <p>
+          Live radio behaviour was not exercised in that validation record.
+          Re-run the checks on the exact revision you plan to use and keep live
+          testing within a lab scope you control.
+        </p>
+        <p>
+          <a
+            href="https://github.com/Guang84/Network-Analyzer/blob/main/docs/PROJECT_GUIDE.md#validation-and-testing"
+            rel="noopener noreferrer"
+            target="_blank"
+            >Full project validation guide</a
+          >.
+        </p>
+      </section>
+      <section class="detail-section" id="status">
+        <p class="eyebrow">Status and limits</p>
+        <h2>Use reports as evidence to interpret, not a verdict</h2>
+        <p>
+          Local baselines and anomaly detection can surface changes worth
+          investigating, but unusual activity is not automatically malicious
+          activity. False positives can occur when devices, radio conditions, or
+          legitimate workloads change. Treat detections as leads; compare them
+          with expected activity and the project’s known limitations.
+        </p>
+        <p>
+          Check the repository for current issues, dependency changes, release
+          notes, and licensing before using or redistributing the tool. Never
+          scan or disrupt networks without authorization.
+        </p>
+      </section>
+      <section class="detail-section" id="version-history">
+        <p class="eyebrow">Version history</p>
+        <h2>Compare the 2026 version with the 2024 archive</h2>
+        <p>
+          The 2026 page describes the newer documented workflow. The earlier
+          Bash-based version is kept as an archive so the changes can be
+          reviewed rather than treating both pages as separate unrelated
+          projects.
+        </p>
+        <ul class="section-links">
+          <li>
+            <a href="/projects/network-analyzer-v2024/"
+              >Read the Network Analyzer v2024.06.24 archive →</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://github.com/Guang84/Network-Analyzer"
+              target="_blank"
+              rel="noopener noreferrer"
+              >Open the Network Analyzer repository ↗</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >View my GitHub profile ↗</a
+            >
+          </li>
+        </ul>
+      </section>
+      <section class="detail-section" id="project-links">
+        <p class="eyebrow">Source and current status</p>
+        <h2>Explore the project</h2>
+        <p>
+          Release · authorized lab toolkit. I keep this page as a public record
+          of the project. For the current code, dependencies, licence, issues,
+          and setup steps, check the linked repository before using it.
+        </p>
+        <div class="section-links">
+          <a
+            href="https://github.com/Guang84/Network-Analyzer"
+            rel="noopener noreferrer"
+            target="_blank"
+            >Source repository ↗</a
+          >
+        </div>
+        <p>
+          If you spot an error, <a href="/contact.html">contact me</a> or raise
+          it in the linked repository.
+        </p>
+      </section>
+    </main>
+
+    <footer class="site-footer" role="contentinfo">
+      <div class="site-footer-inner">
+        <div class="site-footer-grid">
+          <div class="site-footer-brand">
+            <a class="footer-wordmark" href="/" aria-label="GLab home"
+              ><img
+                src="/assets/brand/glab-mark-48.png"
+                width="32"
+                height="32"
+                alt=""
+                loading="lazy"
+                decoding="async"
+              /><span>GLab</span></a
+            >
+            <p>
+              Projects, guides, and notes from the work I’m doing and the things
+              I’m still learning.
+            </p>
+            <p class="footer-small">
+              I use GLab to document projects, practical guides, and lessons as
+              I work through them.
+            </p>
+          </div>
+          <nav class="footer-column" aria-label="Explore GLab">
+            <h2>Explore</h2>
+            <a href="/projects/">Projects</a>
+            <a href="/articles/">Articles &amp; guides</a>
+            <a href="/about.html">About Guang</a>
+            <a href="/start-here.html">Start here</a>
+          </nav>
+          <nav class="footer-column" aria-label="Featured projects">
+            <h2>Project notes</h2>
+            <a href="/projects/glabnetops/">GLabNetOps overview</a>
+            <a href="/projects/noney-bsnl-broadband-nms/"
+              >Noney Broadband NMS</a
+            >
+            <a href="/projects/rongmei-hymnal/">Rongmei Hymnal</a>
+            <a href="/projects/network-analyzer-v2026/">Network Analyzer</a>
+          </nav>
+          <nav
+            class="footer-column"
+            aria-label="Contact and external resources"
+          >
+            <h2>Elsewhere</h2>
+            <a
+              href="https://github.com/Guang84?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              >All public repositories ↗</a
+            >
+            <a
+              href="https://github.com/Guang84"
+              target="_blank"
+              rel="noopener noreferrer"
+              >GitHub profile ↗</a
+            >
+            <a href="/contact.html">Contact / corrections</a>
+            <a href="/feed.xml">RSS feed</a>
+          </nav>
+        </div>
+        <div class="site-footer-bottom">
+          <span>© <span data-current-year>2026</span> Guang · GLab</span>
+          <nav aria-label="Policies">
+            <a href="/editorial-policy.html">Editorial policy</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </nav>
+          <a class="back-to-top-link" href="#top">Back to top ↑</a>
+        </div>
+      </div>
+    </footer>
+    <script src="/assets/js/main.js" type="module"></script>
+  </body>
+</html>
