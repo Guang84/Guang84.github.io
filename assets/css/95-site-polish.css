@@ -453,3 +453,89 @@ html[data-theme="dark"] {
 .doc-table td:first-child {
   font-weight: 650;
 }
+
+
+/* GLab-branded heartbeat loader. It is shared by the homepage and site pages. */
+.glab-page-loader {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: var(--bg, #f6f3ec);
+  color: var(--ink, #102019);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 220ms ease, visibility 220ms ease;
+}
+.glab-page-loader.is-visible {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+.glab-page-loader__content {
+  display: grid;
+  justify-items: center;
+  gap: 15px;
+  width: min(100%, 300px);
+  text-align: center;
+}
+.glab-page-loader__mark {
+  display: block;
+  width: 76px;
+  height: 76px;
+  object-fit: contain;
+  filter: drop-shadow(0 10px 22px rgb(16 32 25 / 0.14));
+  transform-origin: center;
+  animation: glab-heartbeat 1.22s ease-in-out infinite;
+}
+.glab-page-loader__label {
+  color: var(--muted, #56625b);
+  font: 600 0.88rem/1.5 Manrope, system-ui, sans-serif;
+  letter-spacing: 0.025em;
+}
+.glab-page-loader__track {
+  display: block;
+  width: 126px;
+  height: 3px;
+  overflow: hidden;
+  border-radius: 999px;
+  background: var(--line, rgb(16 32 25 / 0.16));
+}
+.glab-page-loader__track-fill {
+  display: block;
+  width: 42%;
+  height: 100%;
+  border-radius: inherit;
+  background: var(--clay, #c75b31);
+  animation: glab-loader-travel 1.12s ease-in-out infinite;
+}
+@keyframes glab-heartbeat {
+  0%, 100% { transform: scale(1); }
+  14% { transform: scale(1.09); }
+  28% { transform: scale(1); }
+  42% { transform: scale(1.12); }
+  70% { transform: scale(1); }
+}
+@keyframes glab-loader-travel {
+  from { transform: translateX(-125%); }
+  to { transform: translateX(250%); }
+}
+html.glab-loader-active,
+html.glab-loader-active body {
+  cursor: progress;
+}
+@media (max-width: 600px) {
+  .glab-page-loader__mark { width: 66px; height: 66px; }
+  .glab-page-loader__content { gap: 13px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .glab-page-loader { transition: none; }
+  .glab-page-loader__mark,
+  .glab-page-loader__track-fill { animation: none; }
+}
+@media print {
+  .glab-page-loader { display: none !important; }
+}
