@@ -9,8 +9,8 @@
       "category": "Network Operations",
       "year": 2026,
       "status": "Public overview · evolving workstream",
-      "summary": "A public overview of GLabNetOps, the network-operations and tooling work documented by Guang—from broadband operations experience to independent network and automation tools.",
-      "updated": "2026-10-12",
+      "summary": "GLabNetOps is the name I use for related network-operations work and smaller tools. This page connects the projects without implying they form one live, integrated platform.",
+      "updated": "2026-10-14",
       "tags": [
         "GLabNetOps",
         "Network Operations",
@@ -27,7 +27,7 @@
       "publicationStatus": "published",
       "guide": {
         "title": "How to evaluate the GLabNetOps project track",
-        "summary": "Understand the origin, distinct workstreams, current status, and safe public/private boundary before interpreting this as a single product."
+        "summary": "Read each component on its own terms: check its repository, lifecycle and operating boundary instead of treating GLabNetOps as one deployed product."
       }
     },
     {
@@ -36,8 +36,8 @@
       "category": "Wireless Security & Network Monitoring",
       "year": 2026,
       "status": "Release · authorized lab toolkit",
-      "summary": "A Linux terminal toolkit for authorized wireless discovery, passive monitoring, saved-scan analysis, reporting, and explainable anomaly detection.",
-      "updated": "2026-10-11",
+      "summary": "A Linux toolkit I’m documenting for authorized wireless observation, saved-scan analysis and reports. Passing software checks is not the same as proving behaviour on every adapter or environment.",
+      "updated": "2026-10-14",
       "tags": [
         "Python",
         "Linux",
@@ -53,7 +53,7 @@
       "publicationStatus": "published",
       "guide": {
         "title": "Authorized operator guide",
-        "summary": "Review scope, validate dependencies, start with passive observations or saved-data analysis, and inspect generated reports before using them to make decisions."
+        "summary": "Use an authorized test setup, start with saved data or passive scans, and check each reported finding against its source evidence before acting on it."
       }
     },
     {
@@ -62,8 +62,8 @@
       "category": "Network Operations",
       "year": 2026,
       "status": "Completed · production retired",
-      "summary": "A retired rural broadband operations platform that brought service workflows, network visibility, infrastructure planning, mapping, and administration into one workspace.",
-      "updated": "2026-10-11",
+      "summary": "I keep this page as a retrospective on a rural broadband operations system that connected service workflows, network visibility, planning and mapping. The production environment is retired; this is not a live service or redeployment guide.",
+      "updated": "2026-10-14",
       "tags": [
         "Broadband operations",
         "Network management",
@@ -78,7 +78,7 @@
       "publicationStatus": "published",
       "guide": {
         "title": "How to read this case study",
-        "summary": "Understand the operational problem, system boundary, deployment model, and what can or cannot be inferred from the retired production implementation."
+        "summary": "Use this as a retrospective on the workflow and boundaries. Production has been retired, and the public repository is not the former operational application."
       }
     },
     {
@@ -87,8 +87,8 @@
       "category": "Community Technology",
       "year": 2026,
       "status": "Active · deployed · editorial review ongoing",
-      "summary": "An offline-first digital hymnal and preservation project bringing three Rongmei and community song collections into a searchable reading experience, with editorial review ongoing.",
-      "updated": "2026-10-11",
+      "summary": "I’m building an offline-first reading experience for Rongmei and community song collections. The app and the content need different kinds of review, and editorial checks and attribution remain part of the work.",
+      "updated": "2026-10-14",
       "tags": [
         "Rongmei songs",
         "Digital preservation",
@@ -103,7 +103,7 @@
       "publicationStatus": "published",
       "guide": {
         "title": "Run, maintain, and review Rongmei Hymnal",
-        "summary": "Run a local copy, inspect collection data, verify the offline workflow, and treat editorial correction and rights review as separate from technical validation."
+        "summary": "Run the app locally if needed, then review text provenance, attribution and community corrections separately from the app’s technical checks."
       }
     },
     {
@@ -112,8 +112,8 @@
       "category": "DevOps & Security",
       "year": 2026,
       "status": "In development",
-      "summary": "An evolving SSH administration and server-health toolkit combining shell automation with a Python/Paramiko monitoring path for systems that the operator is authorized to manage.",
-      "updated": "2026-10-11",
+      "summary": "SSH Fleet Doctor is still in development. I’m exploring a shell-based workflow and a Python/Paramiko monitoring path, starting with checks on systems I’m authorized to manage.",
+      "updated": "2026-10-14",
       "tags": [
         "SSH",
         "Python",
@@ -128,7 +128,7 @@
       "publicationStatus": "published",
       "guide": {
         "title": "Set up SSH Fleet Doctor safely",
-        "summary": "Start with a restricted test host, verify host identity and credentials, run read-only checks, and inspect logs before expanding the scope."
+        "summary": "Begin with one restricted test host, verify host identity and credentials, and keep early checks read-only until their output is understood."
       }
     },
     {
@@ -137,8 +137,8 @@
       "category": "Wireless Security & Network Analysis",
       "year": 2024,
       "status": "Archived · historical release",
-      "summary": "An archived 2024 Bash-based wireless analysis toolkit, preserved for historical code review and authorized lab learning.",
-      "updated": "2026-10-11",
+      "summary": "This is the older Bash-based Network Analyzer snapshot. I keep it for historical comparison and code review, not as instructions to run unchanged on a current system.",
+      "updated": "2026-10-14",
       "tags": [
         "Bash",
         "Linux",
@@ -154,7 +154,7 @@
       "publicationStatus": "published",
       "guide": {
         "title": "Safe review of the 2024 release",
-        "summary": "Review the archived code and its environment checks without treating this older workflow as a current recommendation."
+        "summary": "Review the archived Bash code and its environment assumptions as historical material; don’t assume it is suitable to run unmodified today."
       }
     }
   ]
