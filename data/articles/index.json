@@ -8,7 +8,7 @@
       "title": "From Broadband Operations to GLabNetOps: The Project Story",
       "date": "2026-10-12",
       "updated": "2026-10-14",
-      "excerpt": "This is the project history I can support from the notes: a rural broadband operations system, later separate tools, and a public portfolio that explains the work without reopening a retired production environment.",
+      "excerpt": "I started with the Noney BSNL Broadband NMS, then documented smaller tools for network observation and server checks. GLabNetOps is the umbrella I use to connect that work publicly, while keeping the retired production system separate from tools still in development.",
       "kind": "Project Story",
       "readTime": "7 min read",
       "tags": [
