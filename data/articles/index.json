@@ -1,26 +1,8 @@
 {
   "schemaVersion": 2,
   "contentVersion": "6cb49b790b8e2f40",
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "items": [
-    {
-      "id": "glabnetops-project-story",
-      "title": "From Broadband Operations to GLabNetOps: The Project Story",
-      "date": "2026-10-12",
-      "updated": "2026-10-14",
-      "excerpt": "I started with the Noney BSNL Broadband NMS, then documented smaller tools for network observation and server checks. GLabNetOps is the umbrella I use to connect that work publicly, while keeping the retired production system separate from tools still in development.",
-      "kind": "Project Story",
-      "readTime": "7 min read",
-      "tags": [
-        "GLabNetOps",
-        "Network Operations",
-        "Broadband",
-        "Software Projects",
-        "Documentation"
-      ],
-      "publicationStatus": "published",
-      "featured": true
-    },
     {
       "id": "building-with-nature-in-mind",
       "title": "Building with Nature in Mind: A Practical Technology Checklist",
@@ -35,43 +17,6 @@
         "Community",
         "Engineering",
         "Sustainable farming"
-      ],
-      "publicationStatus": "published",
-      "featured": true
-    },
-    {
-      "id": "chatgpt-uses-benefits-and-limits",
-      "title": "What I Use ChatGPT For: Practical Uses, Benefits, and Limits",
-      "date": "2026-10-11",
-      "updated": "2026-10-14",
-      "excerpt": "I use ChatGPT for a first explanation, practice questions, breaking down a technical problem, or getting a rough draft moving. It helps most when I check the answer and bring my own judgment, rather than treating the first response as final.",
-      "kind": "Practical Guide",
-      "readTime": "8 min read",
-      "tags": [
-        "ChatGPT",
-        "AI",
-        "Productivity",
-        "Study",
-        "Research",
-        "Technology"
-      ],
-      "publicationStatus": "published",
-      "featured": true
-    },
-    {
-      "id": "chatgpt-daily-planning-learning-guide",
-      "title": "How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving",
-      "date": "2026-10-11",
-      "updated": "2026-10-14",
-      "excerpt": "I’m working toward a routine that leaves room for exam study, GLabNetOps, technical learning and everyday responsibilities. ChatGPT can help me decide the next step; it cannot do the work or verify every changing fact for me.",
-      "kind": "Practical Guide",
-      "readTime": "8 min read",
-      "tags": [
-        "ChatGPT",
-        "Daily planning",
-        "Study",
-        "Productivity",
-        "AI"
       ],
       "publicationStatus": "published",
       "featured": true
