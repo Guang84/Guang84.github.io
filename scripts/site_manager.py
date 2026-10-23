@@ -176,7 +176,7 @@ def create_page(kind: str) -> None:
         return
 
     print(f"Created draft page: {target.relative_to(ROOT)}")
-    print("The page is marked as a draft. Complete the body and review it before publishing.")
+    print("The page is marked as a draft. Complete the body and review it before publishing.")\n    if kind == "articles":\n        print("Before publishing, run menu option 10 (editorial review checklist) and read docs/editorial-review-checklist.md.")
     if input("Add public-safe files to this page now? [y/N]: ").strip().lower() in {"y", "yes"}:
         add_files(kind, slug)
 
@@ -328,7 +328,7 @@ def show_menu() -> None:
         "  6. Create an article draft\n"
         "  7. Add files to an existing page\n"
         "  8. List projects and articles\n"
-        "  9. Preview the staged site\n"
+        "  9. Preview the staged site\n"\n        " 10. Run editorial review checklist\n"
         "  0. Exit"
     )
 
@@ -342,7 +342,7 @@ def main() -> int:
         "5": lambda: create_page("projects"),
         "6": lambda: create_page("articles"),
         "8": list_content,
-        "9": preview_site,
+        "9": preview_site,\n        "10": lambda: run_script("Editorial review checklist", "editorial_review.py"),
     }
     while True:
         show_menu()
