@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "contentVersion": "12adeb4e599fb44d",
-  "updated": "2026-10-13",
+  "contentVersion": "3fe8b39bb1e915e7",
+  "updated": "2026-10-23",
   "items": [
     {
       "id": "glabnetops",
@@ -10,7 +10,7 @@
       "year": 2026,
       "status": "Public overview · evolving workstream",
       "summary": "GLabNetOps is the name I use for related network-operations work and smaller tools. This page connects the projects without implying they form one live, integrated platform.",
-      "updated": "2026-10-14",
+      "updated": "2026-10-23",
       "tags": [
         "GLabNetOps",
         "Network Operations",
@@ -37,7 +37,7 @@
       "year": 2026,
       "status": "Release · authorized lab toolkit",
       "summary": "A Linux toolkit I’m documenting for authorized wireless observation, saved-scan analysis and reports. Passing software checks is not the same as proving behaviour on every adapter or environment.",
-      "updated": "2026-10-14",
+      "updated": "2026-10-23",
       "tags": [
         "Python",
         "Linux",
@@ -112,8 +112,8 @@
       "category": "DevOps & Security",
       "year": 2026,
       "status": "In development",
-      "summary": "SSH Fleet Doctor is still in development. I’m exploring a shell-based workflow and a Python/Paramiko monitoring path, starting with checks on systems I’m authorized to manage.",
-      "updated": "2026-10-14",
+      "summary": "SSH Fleet Doctor is an in-development remote administration and diagnostics project. The intended workflow is to connect to authorized hosts over SSH, collect system information, detect configured issues, and run reviewed commands or scripts to fix problems—with safety controls and current implementation clearly distinguished from planned work.",
+      "updated": "2026-10-23",
       "tags": [
         "SSH",
         "Python",
@@ -128,7 +128,7 @@
       "publicationStatus": "published",
       "guide": {
         "title": "Set up SSH Fleet Doctor safely",
-        "summary": "Begin with one restricted test host, verify host identity and credentials, and keep early checks read-only until their output is understood."
+        "summary": "Use one authorized test host. Start with verified SSH host identity and read-only diagnostics; test each remediation command independently with approval, logging, and rollback."
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "contentVersion": "6cb49b790b8e2f40",
-  "updated": "2026-10-14",
+  "contentVersion": "138d7df730e6db95",
+  "updated": "2026-10-23",
   "items": [
     {
       "id": "building-with-nature-in-mind",
@@ -25,8 +25,8 @@
       "id": "buying-laptop-2026-specs-guide",
       "title": "How to Choose a Laptop for Real Work in 2026",
       "date": "2026-09-10",
-      "updated": "2026-10-14",
-      "excerpt": "My work calls for a mix of coding, Linux, networking tools, virtual machines and everyday multitasking. This guide starts with those demands and an India-specific budget, then looks at the laptop details that affect real use.",
+      "updated": "2026-10-23",
+      "excerpt": "My work calls for coding, Linux, networking tools and virtual machines. This guide covers the specifications I would prioritize and what to verify before buying in India.",
       "kind": "Buying Guide",
       "readTime": "7 min read",
       "tags": [
@@ -139,8 +139,8 @@
       "id": "responsible-ai",
       "title": "Before I Build With AI, I Ask Who Carries the Risk",
       "date": "2026-07-11",
-      "updated": "2026-10-14",
-      "excerpt": "Before I add AI to a feature, I want to know who it helps, what happens when it is wrong, what data it needs, and whether a person can challenge the result. This is the checklist behind those questions.",
+      "updated": "2026-10-23",
+      "excerpt": "Before I add AI to a feature, I ask who it helps, what data it needs, what happens if it is wrong, and how a person can challenge the result.",
       "kind": "Practical Essay",
       "readTime": "3 min read",
       "tags": [
