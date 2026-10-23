@@ -176,7 +176,9 @@ def create_page(kind: str) -> None:
         return
 
     print(f"Created draft page: {target.relative_to(ROOT)}")
-    print("The page is marked as a draft. Complete the body and review it before publishing.")\n    if kind == "articles":\n        print("Before publishing, run menu option 10 (editorial review checklist) and read docs/editorial-review-checklist.md.")
+    print("The page is marked as a draft. Complete the body and review it before publishing.")
+    if kind == "articles":
+        print("Before publishing, run menu option 10 (editorial review checklist) and read docs/editorial-review-checklist.md.")
     if input("Add public-safe files to this page now? [y/N]: ").strip().lower() in {"y", "yes"}:
         add_files(kind, slug)
 
