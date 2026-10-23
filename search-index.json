@@ -164,20 +164,6 @@
     "url": "/projects/network-analyzer-v2024/#guide"
   },
   {
-    "type": "Project Story",
-    "id": "glabnetops-project-story",
-    "title": "From Broadband Operations to GLabNetOps: The Project Story",
-    "summary": "How a practical broadband-operations problem shaped GLabNetOps, what changed as the work grew, and what is intentionally kept out of the public project record.",
-    "tags": [
-      "GLabNetOps",
-      "Network Operations",
-      "Broadband",
-      "Software Projects",
-      "Documentation"
-    ],
-    "url": "/articles/glabnetops-project-story/"
-  },
-  {
     "type": "Practical Essay",
     "id": "building-with-nature-in-mind",
     "title": "Building with Nature in Mind: A Practical Technology Checklist",
@@ -190,35 +176,6 @@
       "Sustainable farming"
     ],
     "url": "/articles/building-with-nature-in-mind/"
-  },
-  {
-    "type": "Practical Guide",
-    "id": "chatgpt-uses-benefits-and-limits",
-    "title": "What I Use ChatGPT For: Practical Uses, Benefits, and Limits",
-    "summary": "Practical notes on using ChatGPT for daily planning, exam study, research, writing and technical work—what it makes easier, where it fails, and how I check the answer.",
-    "tags": [
-      "ChatGPT",
-      "AI",
-      "Productivity",
-      "Study",
-      "Research",
-      "Technology"
-    ],
-    "url": "/articles/chatgpt-uses-benefits-and-limits/"
-  },
-  {
-    "type": "Practical Guide",
-    "id": "chatgpt-daily-planning-learning-guide",
-    "title": "How I Use ChatGPT to Plan My Day, Study, and Keep Projects Moving",
-    "summary": "A realistic routine for a morning brief, competitive-exam practice, GLabNetOps and technical work, and an evening review—with verification, privacy, and realistic limits built in.",
-    "tags": [
-      "ChatGPT",
-      "Daily planning",
-      "Study",
-      "Productivity",
-      "AI"
-    ],
-    "url": "/articles/chatgpt-daily-planning-learning-guide/"
   },
   {
     "type": "Buying Guide",

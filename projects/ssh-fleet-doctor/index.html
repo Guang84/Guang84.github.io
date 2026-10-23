@@ -8,14 +8,14 @@
       name="viewport"
     />
     <meta
-      content="SSH Fleet Doctor is still in development. I’m exploring a shell-based workflow and a Python/Paramiko monitoring path, starting with checks on systems I’m authorized to manage."
+      content="SSH Fleet Doctor is an in-development remote administration and diagnostics project. The intended workflow is to connect to authorized hosts over SSH, collect system information, detect configured issues, and run reviewed commands or scripts to fix problems—with safety controls and current implementation clearly distinguished from planned work."
       name="description"
     />
     <meta content="Guang" name="author" />
     <meta content="light dark" name="color-scheme" />
     <meta content="#0d1c15" name="theme-color" />
     <meta content="GLab" name="application-name" />
-    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <meta content="ca-pub-6371342728710125" name="google-adsense-account" />
     <title>SSH Fleet Doctor — GLab</title>
     <link
       href="https://guang84.github.io/projects/ssh-fleet-doctor/"
@@ -40,7 +40,7 @@
     <meta content="GLab" property="og:site_name" />
     <meta content="SSH Fleet Doctor — GLab" property="og:title" />
     <meta
-      content="SSH Fleet Doctor is still in development. I’m exploring a shell-based workflow and a Python/Paramiko monitoring path, starting with checks on systems I’m authorized to manage."
+      content="SSH Fleet Doctor is an in-development remote administration and diagnostics project. The intended workflow is to connect to authorized hosts over SSH, collect system information, detect configured issues, and run reviewed commands or scripts to fix problems—with safety controls and current implementation clearly distinguished from planned work."
       property="og:description"
     />
     <meta
@@ -67,13 +67,13 @@
     </script>
     <meta content="SSH Fleet Doctor" name="glab:project-title" />
     <meta
-      content="SSH Fleet Doctor is still in development. I’m exploring a shell-based workflow and a Python/Paramiko monitoring path, starting with checks on systems I’m authorized to manage."
+      content="SSH Fleet Doctor is an in-development remote administration and diagnostics project. The intended workflow is to connect to authorized hosts over SSH, collect system information, detect configured issues, and run reviewed commands or scripts to fix problems—with safety controls and current implementation clearly distinguished from planned work."
       name="glab:project-summary"
     />
     <meta content="DevOps &amp; Security" name="glab:project-category" />
     <meta content="2026" name="glab:project-year" />
     <meta content="In development" name="glab:project-status" />
-    <meta content="2026-10-14" name="glab:project-updated" />
+    <meta content="2026-10-23" name="glab:project-updated" />
     <meta
       content="SSH, Python, Bash, Server monitoring"
       name="glab:project-tags"
@@ -89,13 +89,13 @@
       name="glab:project-guide-title"
     />
     <meta
-      content="Begin with one restricted test host, verify host identity and credentials, and keep early checks read-only until their output is understood."
+      content="Use one authorized test host. Start with verified SSH host identity and read-only diagnostics; test each remediation command independently with approval, logging, and rollback."
       name="glab:project-guide-summary"
     />
     <meta content="Apache-2.0" name="glab:project-license" />
     <meta content="SSH Fleet Doctor — GLab" name="twitter:title" />
     <meta
-      content="SSH Fleet Doctor is still in development. I’m exploring a shell-based workflow and a Python/Paramiko monitoring path, starting with checks on systems I’m authorized to manage."
+      content="SSH Fleet Doctor is an in-development remote administration and diagnostics project. The intended workflow is to connect to authorized hosts over SSH, collect system information, detect configured issues, and run reviewed commands or scripts to fix problems—with safety controls and current implementation clearly distinguished from planned work."
       name="twitter:description"
     />
     <script type="application/ld+json">
@@ -104,7 +104,7 @@
         "@type": "TechArticle",
         "headline": "SSH Fleet Doctor",
         "name": "SSH Fleet Doctor",
-        "description": "SSH Fleet Doctor is still in development. I’m exploring a shell-based workflow and a Python/Paramiko monitoring path, starting with checks on systems I’m authorized to manage.",
+        "description": "SSH Fleet Doctor is an in-development remote administration and diagnostics project. The intended workflow is to connect to authorized hosts over SSH, collect system information, detect configured issues, and run reviewed commands or scripts to fix problems—with safety controls and current implementation clearly distinguished from planned work.",
         "author": {
           "@type": "Person",
           "name": "Guang",
@@ -229,7 +229,7 @@
           <p class="eyebrow">DevOps &amp; Security · 2026</p>
           <h1>SSH Fleet Doctor</h1>
           <p class="lead">
-            SSH Fleet Doctor is still in development. I’m exploring a shell-based workflow and a Python/Paramiko monitoring path, starting with checks on systems I’m authorized to manage.
+            SSH Fleet Doctor is an in-development remote administration and diagnostics project. The intended workflow is to connect to authorized hosts over SSH, collect system information, detect configured issues, and run reviewed commands or scripts to fix problems—with safety controls and current implementation clearly distinguished from planned work.
           </p>
           <ul class="tag-list">
             <li>SSH</li>
@@ -280,10 +280,10 @@
             <caption>Project facts and current boundaries</caption>
             <thead><tr><th scope="col">Area</th><th scope="col">Documented details</th><th scope="col">How to interpret it</th></tr></thead>
             <tbody>
-              <tr><td>Purpose</td><td>SSH-based remote health checks and administration support</td><td>An administrative client, not a replacement for controlled configuration management</td></tr>
+              <tr><td>Purpose</td><td>SSH-based remote health checks and administration support</td><td>An in-development client; planned fixes are not yet verified</td></tr>
               <tr><td>Implementation path</td><td>Bash orchestration with a Python/Paramiko monitoring path</td><td>Follow the current repository instructions and dependency manifest</td></tr>
               <tr><td>Project status</td><td>In development</td><td>Commands and interfaces can change</td></tr>
-              <tr><td>Safe first run</td><td>One authorized test host, verified host key, and least-privilege account</td><td>Test read-only checks before any state-changing operation</td></tr>
+              <tr><td>Safe first run</td><td>One authorized test host, verified host key, and least-privilege account</td><td>Read-only diagnostics first; remediation needs separate review</td></tr>
             </tbody>
           </table>
         </div>
@@ -301,7 +301,7 @@
           behind a large management platform.
         </p>
         <p>
-              This is still a work in progress. I’m documenting the implementation that exists now and keeping the scope narrow: visible, reviewable checks against hosts I’m authorized to access.
+              This is still a work in progress. The intended end state is broader than read-only monitoring, but diagnostics, issue detection, and remediation must be implemented and verified separately. A planned capability is not evidence that the current repository already supports it safely.
             </p>
       </section>
       <section class="detail-section" id="architecture">
@@ -323,11 +323,25 @@
               <tr><td>Explicit host scope</td><td>Restricts checks to approved targets</td><td>Begin with one identified test host</td></tr>
               <tr><td>SSH host-key validation</td><td>Confirms the remote identity being contacted</td><td>Do not disable host-key checking for convenience</td></tr>
               <tr><td>Authentication and permissions</td><td>Limits access to the checks the operator needs</td><td>Prefer a dedicated least-privilege account and supported secure credentials</td></tr>
-              <tr><td>Read-only health checks</td><td>Collect selected CPU, memory, disk, and network signals</td><td>Compare outputs against local host tools</td></tr>
+              <tr><td>Diagnostics and health checks</td><td>Collect system data and identify configured issues</td><td>Compare outputs against local host tools</td></tr>
               <tr><td>Logs and remediation boundary</td><td>Supports diagnosis without exposing secrets or changing state unexpectedly</td><td>Test state-changing actions separately with approval and rollback</td></tr>
             </tbody>
           </table>
         </div>
+      </section>
+      <section class="detail-section" id="roadmap">
+        <p class="eyebrow">Planned scope</p>
+        <h2>Target workflow and development plan</h2>
+        <p>The intended workflow has four distinct stages: connect to an approved host, gather system data, identify a condition that needs attention, and—only when a suitable fix has been reviewed—run a command or script and verify the result. The page describes the goal; it does not claim all four stages are implemented.</p>
+        <h3>1. Connect and identify the host</h3>
+        <ul><li>Use an explicit host inventory and a defined authorization scope.</li><li>Keep SSH host-key verification enabled and use a dedicated least-privilege account.</li><li>Handle credentials through supported SSH keys, agents, or a protected secret mechanism—not command-line password arguments or public logs.</li></ul>
+        <h3>2. Collect system information and detect issues</h3>
+        <ul><li>Gather selected CPU, memory, disk, network, process, service, and operating-system details where the target supports them.</li><li>Make thresholds and checks understandable; report the observed value and evidence behind each alert.</li><li>Distinguish a warning or anomaly from a confirmed root cause. Missing data must not be presented as a healthy result.</li></ul>
+        <h3>3. Apply reviewed fixes only when safe</h3>
+        <ul><li>Start with read-only diagnostics. Add a small, reviewed set of remediation actions rather than unrestricted shell execution as the default.</li><li>Show the target, command or script, expected effect, required permissions, timeout, and rollback approach before a state-changing run.</li><li>Require explicit authorization and confirmation for changes; capture the result and re-run the relevant check to verify the fix.</li></ul>
+        <h3>4. Development milestones</h3>
+        <ol><li>Reconcile and review the linked legacy scripts, authentication, and host-key handling.</li><li>Make one-host read-only connection and system-health reporting reliable.</li><li>Add configurable issue checks with examples and tests for missing, stale, and abnormal data.</li><li>Introduce separately tested remediation actions with confirmation, bounded execution, audit logs, and recovery instructions.</li><li>Consider fleet-wide scheduling only after single-host behavior, permissions, failure reporting, and recovery have been tested.</li></ol>
+        <p><strong>Current implementation caveat:</strong> the linked repository currently contains legacy SSH-Infiltrator naming and command-execution behavior. It needs a focused security and architecture review before the repository should be presented as a completed implementation of this target design.</p>
       </section>
       <span id="guide" aria-hidden="true"></span>
       <section class="detail-section" id="setup">
@@ -472,6 +486,7 @@
 
     <footer class="site-footer" role="contentinfo">
       <div class="site-footer-inner">
+        <p class="site-footer-motto">I’m passionate about building a future where technology and nature coexist harmoniously.</p>
         <div class="site-footer-grid">
           <div class="site-footer-brand">
             <a class="footer-wordmark" href="/" aria-label="GLab home"

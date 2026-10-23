@@ -2,13 +2,13 @@
   "owner": "Guang",
   "name": "GLab",
   "url": "https://guang84.github.io/",
-  "version": "15.5.1",
-  "description": "GLab is where Guang shares practical projects, technical guides, and lessons from networking, cybersecurity, AI, hands-on engineering, community technology, and sustainable farming.",
-  "email": "guang.social.verse@gmail.com",
+  "version": "15.5.2",
+  "description": "GLab is Guang’s working notebook for projects, practical guides and lessons from networking, cybersecurity, AI, community technology and sustainable farming.",
+  "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
     "enabled": true,
-    "publisherId": "ca-pub-5045414569557924",
+    "publisherId": "ca-pub-6371342728710125",
     "mode": "manual",
     "slots": {
       "home-bottom": "6289178306",
@@ -23,14 +23,13 @@
       "Technology & Nature"
     ],
     "intro": [
-      "I enjoy figuring out how systems work and building tools that make a real task easier. My interests stretch from networking and cybersecurity to AI, hands-on engineering, community projects, and sustainable farming.",
-      "I’m passionate about building a future where technology and nature coexist harmoniously. I enjoy exploring cybersecurity, artificial intelligence, sustainable farming, networking, and hands-on engineering projects. I believe in using technology thoughtfully to create positive change for people, communities, and the planet.",
-      "GLab is where I collect the projects, guides, and notes I want to explain properly—what a project is for, how it developed, what I learned, and what still needs work. I’m learning as I build, so I distinguish finished work from experiments and retired systems."
+      "GLab is a working collection of projects, guides, and notes about why a project exists, how it develops, what has been learned, and what still needs work. Finished work, experiments, and retired systems are described differently so readers can tell what is ready to use.",
+      "I’m passionate about building a future where technology and nature coexist harmoniously. I try to choose tools for the problem they solve, how well they can be maintained, and how they affect the people and places around them."
     ],
-    "statement": "Build things that help with real work. Write down what I learn. Think about the people and places affected by the tools.",
+    "statement": "I’m passionate about building a future where technology and nature coexist harmoniously.",
     "workLine": "Projects with context, not just a demo.",
     "interestLine": "Practical questions about systems, people, and the living world.",
-    "background": "GLab grew from practical broadband and network-operations work. It now holds project case studies, smaller tools, guides, community technology, and questions about using technology thoughtfully alongside nature.",
+    "background": "GLab grew from practical broadband and network-operations work. It now documents that experience alongside smaller software tools, cybersecurity learning, community technology, and questions about sustainable farming. The aim is to show what exists, what has been tested, and what remains a plan.",
     "interests": [
       {
         "title": "Network Operations",
@@ -66,9 +65,9 @@
       "kind": "Project overview"
     },
     {
-      "label": "How I use ChatGPT",
-      "description": "Practical ways I use ChatGPT for planning, study, research and project work—and where I verify it.",
-      "url": "/articles/chatgpt-uses-benefits-and-limits/",
+      "label": "Choose the right tool",
+      "description": "A practical way to choose between AI, scripts, search, and people—and decide how to verify the result.",
+      "url": "/articles/right-sized-ai/",
       "kind": "Practical guide"
     },
     {

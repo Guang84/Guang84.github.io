@@ -15,7 +15,7 @@
     <meta content="light dark" name="color-scheme" />
     <meta content="#0d1c15" name="theme-color" />
     <meta content="GLab" name="application-name" />
-    <meta content="ca-pub-5045414569557924" name="google-adsense-account" />
+    <meta content="ca-pub-6371342728710125" name="google-adsense-account" />
     <title>Network Analyzer v2026.08.21 — GLab</title>
     <link
       href="https://guang84.github.io/projects/network-analyzer-v2026/"
@@ -79,7 +79,7 @@
       content="Release · authorized lab toolkit"
       name="glab:project-status"
     />
-    <meta content="2026-10-14" name="glab:project-updated" />
+    <meta content="2026-10-23" name="glab:project-updated" />
     <meta
       content="Python, Linux, Wireless security, SQLite, Anomaly detection"
       name="glab:project-tags"
@@ -300,9 +300,9 @@
             <thead><tr><th scope="col">Area</th><th scope="col">Documented details</th><th scope="col">How to interpret it</th></tr></thead>
             <tbody>
               <tr><td>Version</td><td>Network Analyzer v2026.08.21</td><td>Check the repository for newer commits, dependencies, and release notes</td></tr>
-              <tr><td>Workflow</td><td>Bash launcher, Python dispatcher/engines, local persistence, and reports</td><td>The architecture document is the authoritative module map</td></tr>
+              <tr><td>Workflow</td><td>Bash launcher, Python dispatcher/engines, local persistence, and reports</td><td>The repository README and current source define the modules; the previously linked architecture file is not present at that path</td></tr>
               <tr><td>Intended scope</td><td>Authorized wireless observation and analysis of saved data</td><td>Use only systems and spectrum activity within an approved scope</td></tr>
-              <tr><td>Recorded validation</td><td>85 tests and 6 subtests, plus syntax/compile checks, recorded on 20 September 2026</td><td>That record did not include live radio hardware testing</td></tr>
+              <tr><td>Available test evidence</td><td>Regression test modules are present in the repository under <code>tests/</code></td><td>Run them on the exact revision and report the actual result; this page does not claim a current test count</td></tr>
             </tbody>
           </table>
         </div>
@@ -342,17 +342,7 @@
             </tbody>
           </table>
         </div>
-        <p>
-          See the project’s
-          <a
-            href="https://github.com/Guang84/Network-Analyzer/blob/main/docs/ARCHITECTURE.md"
-            rel="noopener noreferrer"
-            target="_blank"
-            >architecture document</a
-          >
-          for the authoritative module map. Outputs can reveal internal network
-          details, so treat them as sensitive operational data.
-        </p>
+        <p>For the implementation and available commands, check the current source and <a href="https://github.com/Guang84/Network-Analyzer/blob/main/README.md" target="_blank" rel="noopener noreferrer">repository README ↗</a>. Inspect the exact revision before running it.</p>
       </section>
       <span id="guide" aria-hidden="true"></span>
       <section class="detail-section" id="setup">
@@ -437,27 +427,14 @@ python3 interactive.py --doctor</code></pre>
         <p class="eyebrow">Validation record</p>
         <h2>Separate automated checks from hardware claims</h2>
         <p>
-          The project record documents an offline regression run on 20 September
-          2026 with 85 tests and six subtests passing without wireless hardware
-          or root. It also records Bash syntax checks and Python compilation.
-          The same note says the readiness check reported scikit-learn as the
-          only missing optional Python package in that test environment. These
-          are the recorded results for that snapshot, not a guarantee that the
-          current checkout or every environment will behave the same way.
+          The public repository currently contains regression-test modules under <code>tests/</code>, but the previously linked PROJECT_GUIDE.md and ARCHITECTURE.md are not present at those paths. I have removed the unsupported live test-count summary until a committed, accessible report can substantiate it. Run the tests on the exact revision you plan to use and retain their actual output.
         </p>
         <p>
           Live radio behaviour was not exercised in that validation record.
           Re-run the checks on the exact revision you plan to use and keep live
           testing within a lab scope you control.
         </p>
-        <p>
-          <a
-            href="https://github.com/Guang84/Network-Analyzer/blob/main/docs/PROJECT_GUIDE.md#validation-and-testing"
-            rel="noopener noreferrer"
-            target="_blank"
-            >Full project validation guide</a
-          >.
-        </p>
+        <p><a href="https://github.com/Guang84/Network-Analyzer/tree/main/tests" target="_blank" rel="noopener noreferrer">Available regression tests ↗</a> · <a href="https://github.com/Guang84/Network-Analyzer/blob/main/README.md" target="_blank" rel="noopener noreferrer">Repository README ↗</a></p>
       </section>
       <section class="detail-section" id="status">
         <p class="eyebrow">Status and limits</p>
@@ -533,6 +510,7 @@ python3 interactive.py --doctor</code></pre>
 
     <footer class="site-footer" role="contentinfo">
       <div class="site-footer-inner">
+        <p class="site-footer-motto">I’m passionate about building a future where technology and nature coexist harmoniously.</p>
         <div class="site-footer-grid">
           <div class="site-footer-brand">
             <a class="footer-wordmark" href="/" aria-label="GLab home"

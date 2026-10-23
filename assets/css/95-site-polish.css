@@ -539,3 +539,17 @@ html.glab-loader-active body {
 @media print {
   .glab-page-loader { display: none !important; }
 }
+
+
+/* Brand motto: keep GLab's purpose visible across the site. */
+.site-footer-motto {
+  max-width: 54rem;
+  margin: 0 auto clamp(1.75rem, 4vw, 3rem);
+  padding: 0 0 1.5rem;
+  border-bottom: 1px solid var(--line);
+  color: var(--ink);
+  font: 500 clamp(1.2rem, 2.2vw, 1.8rem)/1.45 Newsreader, Georgia, serif;
+  letter-spacing: -0.025em;
+  text-align: center;
+  text-wrap: balance;
+}
