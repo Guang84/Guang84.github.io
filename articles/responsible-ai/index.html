@@ -8,7 +8,7 @@
       name="viewport"
     />
     <meta
-      content="Before I add AI to a feature, I want to know who it helps, what happens when it is wrong, what data it needs, and whether a person can challenge the result. This is the checklist behind those questions."
+      content="I would not add an AI feature just because a model can produce a convincing demo. First I need a specific user problem, a reason simpler options are insufficient, and a plan for what happens when the output is wrong."
       name="description"
     />
     <meta content="Guang" name="author" />
@@ -286,22 +286,14 @@
               not be justified.
             </p>
             <p>
-              Write down who benefits, who could be harmed, who pays when the
-              output is wrong, and who is accountable for the result. This is
-              especially important when a tool affects access to money,
-              services, education, employment, safety, or someone’s reputation.
+              For a real proposal, I would record who benefits, who may be harmed, who bears the cost of a wrong output, and who can stop or correct the process. Those answers matter most when the feature can affect money, services, education, employment, safety, or a person’s reputation.
             </p>
           </section>
           <section class="detail-section" id="failure-cost">
             <p class="eyebrow">Risk before demo</p>
             <h2>Test the downside before celebrating the first good answer</h2>
             <p>
-              A demonstration usually shows a case where the feature works. A
-              responsible review asks how it fails: wrong facts, missing
-              context, biased output, prompt injection, leaked information,
-              stale data, inaccessible language, or a confident answer that
-              should have been a refusal. The severity depends on the real task,
-              not on how impressive the demo looks.
+              A useful demo proves that one example can work; it does not tell me how often the feature will fail or who will absorb the cost. Depending on the task, failures might include false information, missing context, prompt injection, exposed data, stale results, or an answer where the system should have stopped and asked for review. The risk depends on what the output is allowed to trigger.
             </p>
             <ul>
               <li>Define acceptable and unacceptable failure modes.</li>
