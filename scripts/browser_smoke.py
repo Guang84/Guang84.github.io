@@ -245,6 +245,10 @@ def run_tests():
             except Exception as exc:
                 fail(errors, f"Mobile article layout check failed: {type(exc).__name__}: {exc}")
 
+            # Restore a desktop viewport: text-size controls are intentionally hidden on phones.
+            page.set_viewport_size({"width": 1280, "height": 900})
+            page.goto(base_url + "/", wait_until="load")
+
             # Theme and text-size controls should change their documented state.
             try:
                 old_theme = page.locator("html").get_attribute("data-theme")
