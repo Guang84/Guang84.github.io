@@ -553,3 +553,101 @@ html.glab-loader-active body {
   text-align: center;
   text-wrap: balance;
 }
+
+
+/* Keep automatic system-dark mode identical to the app's explicit dark theme.
+   Earlier layers have legacy dark tokens; this final block makes the full
+   forest palette and reading contrast consistent when no manual choice exists. */
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme]) {
+    color-scheme: dark;
+    --bg: #101a14;
+    --surface: #19271e;
+    --surface-2: #24362a;
+    --ink: #edf4ed;
+    --muted: #b5c5b8;
+    --blue: #9bd2ae;
+    --aqua: #9bd2ae;
+    --clay: #efb69c;
+    --button-bg: #315f45;
+    --lime: #2c4934;
+    --forest: #0b140e;
+    --forest-2: #1b3425;
+    --line: color-mix(in srgb, var(--ink) 18%, transparent);
+    --shadow: 0 8px 24px rgb(0 0 0 / 0.15);
+    --shadow-lg: 0 34px 90px rgb(0 0 0 / 0.38);
+  }
+}
+
+/* Narrow article previews must keep a readable text column, never one letter per line. */
+.writing-list,
+.split-publications,
+.split-publications > * {
+  min-width: 0;
+}
+.writing-item {
+  min-width: 0;
+  box-sizing: border-box;
+}
+.writing-item > div,
+.writing-item > .writing-excerpt,
+.writing-item > time {
+  min-width: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+.writing-item .eyebrow {
+  max-width: 100%;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
+}
+@media (max-width: 600px) {
+  .split-publications {
+    grid-template-columns: minmax(0, 1fr);
+    width: 100%;
+  }
+  .writing-list {
+    width: 100%;
+  }
+  .writing-item {
+    width: 100%;
+    grid-template-columns: minmax(0, 1fr) 1.5rem;
+    gap: 0.45rem 0.75rem;
+    padding: 1.05rem 0.65rem;
+    align-items: start;
+  }
+  .writing-item > time {
+    grid-column: 1 / -1;
+    grid-row: 1;
+  }
+  .writing-item > div {
+    grid-column: 1;
+    grid-row: 2;
+    width: 100%;
+  }
+  .writing-item > .writing-excerpt {
+    grid-column: 1 / -1;
+    grid-row: 3;
+    width: 100%;
+    overflow-wrap: anywhere;
+  }
+  .writing-item > span {
+    grid-column: 2;
+    grid-row: 2;
+    justify-self: end;
+    align-self: start;
+  }
+  .writing-item .eyebrow {
+    width: auto;
+    white-space: normal;
+    letter-spacing: 0.06em;
+    line-height: 1.45;
+  }
+  .writing-item :is(h2, h3) {
+    max-width: 100%;
+    overflow-wrap: break-word;
+    word-break: normal;
+    line-height: 1.25;
+  }
+}

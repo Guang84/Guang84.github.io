@@ -38,7 +38,7 @@ html[data-theme="dark"] {
   --line: color-mix(in srgb, var(--ink) 16%, transparent);
 }
 @media (prefers-color-scheme: dark) {
-  html:not([data-theme="light"]) {
+  html:not([data-theme]) {
     --bg: #09120e;
     --surface: #0e1b15;
     --surface-2: #14241c;

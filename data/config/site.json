@@ -2,13 +2,13 @@
   "owner": "Guang",
   "name": "GLab",
   "url": "https://guang84.github.io/",
-  "version": "15.5.2",
+  "version": "15.5.3",
   "description": "GLab is Guang’s working notebook for projects, practical guides and lessons from networking, cybersecurity, AI, community technology and sustainable farming.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
     "enabled": true,
-    "publisherId": "ca-pub-6371342728710125",
+    "publisherId": "ca-pub-1394085148984636",
     "mode": "manual",
     "slots": {
       "home-bottom": "6289178306",
