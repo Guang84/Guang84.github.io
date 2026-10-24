@@ -184,17 +184,70 @@ def run_tests():
                 page.locator("[data-search-toggle]").first.click()
                 page.locator("[data-search-dialog]").wait_for(state="visible", timeout=2000)
                 search = page.locator("[data-global-search]")
-                search.fill("ChatGPT")
+                search.fill("soil sensor")
                 page.wait_for_function(
                     "() => document.querySelectorAll('.search-result').length > 0",
                     timeout=5000,
                 )
                 result_text = page.locator(".search-results").inner_text()
-                if "ChatGPT" not in result_text:
-                    fail(errors, "Search: query ChatGPT did not return a ChatGPT article")
+                if "Soil Sensor" not in result_text:
+                    fail(errors, "Search: query soil sensor did not return the published soil-sensor guide")
                 page.locator("[data-search-close]").click()
             except Exception as exc:
                 fail(errors, f"Search interaction failed: {type(exc).__name__}: {exc}")
+
+            # Automatic system-dark mode must use the same forest tokens as the app's manual dark mode.
+            try:
+                page.emulate_media(color_scheme="dark")
+                page.evaluate("localStorage.removeItem('glab-theme')")
+                page.goto(base_url + "/", wait_until="load")
+                page.wait_for_function("document.documentElement.classList.contains('js')", timeout=5000)
+                auto_dark = page.evaluate("""() => {
+                  const root = document.documentElement;
+                  const style = getComputedStyle(root);
+                  return {
+                    theme: root.getAttribute('data-theme'),
+                    tokens: Object.fromEntries(['--bg', '--surface', '--surface-2', '--ink', '--muted', '--blue', '--aqua', '--button-bg', '--forest', '--forest-2'].map(key => [key, style.getPropertyValue(key).trim()])),
+                  };
+                }""")
+                if auto_dark["theme"] is not None:
+                    fail(errors, "System theme: expected no explicit theme override when no preference is saved")
+                page.evaluate("document.documentElement.dataset.theme = 'dark'")
+                explicit_dark = page.evaluate("""() => {
+                  const style = getComputedStyle(document.documentElement);
+                  return Object.fromEntries(['--bg', '--surface', '--surface-2', '--ink', '--muted', '--blue', '--aqua', '--button-bg', '--forest', '--forest-2'].map(key => [key, style.getPropertyValue(key).trim()]));
+                }""")
+                if auto_dark["tokens"] != explicit_dark:
+                    fail(errors, "System dark mode does not match the app's explicit dark palette")
+                page.evaluate("document.documentElement.removeAttribute('data-theme')")
+                page.emulate_media(color_scheme="light")
+                auto_light = page.evaluate("""() => ({theme: document.documentElement.getAttribute('data-theme'), bg: getComputedStyle(document.documentElement).getPropertyValue('--bg').trim()})""")
+                if auto_light["theme"] is not None or auto_light["bg"] == auto_dark["tokens"]["--bg"]:
+                    fail(errors, "System theme: light preference did not restore the app's light palette automatically")
+            except Exception as exc:
+                fail(errors, f"System theme matching failed: {type(exc).__name__}: {exc}")
+
+            # The mobile homepage article eyebrow must stay in a readable text column.
+            try:
+                page.set_viewport_size({"width": 390, "height": 844})
+                page.goto(base_url + "/", wait_until="load")
+                page.wait_for_selector(".writing-item .eyebrow", timeout=5000)
+                label_metrics = page.locator(".writing-item").first.locator(".eyebrow").first.evaluate("""(label) => {
+                  const rect = label.getBoundingClientRect();
+                  const style = getComputedStyle(label);
+                  const lineHeight = parseFloat(style.lineHeight) || 16;
+                  return {width: rect.width, height: rect.height, lines: Math.ceil(rect.height / lineHeight), text: label.textContent.trim(), cardWidth: label.closest('.writing-item').getBoundingClientRect().width};
+                }""")
+                if label_metrics["width"] < 150 or label_metrics["cardWidth"] < 300:
+                    fail(errors, f"Mobile article card has a collapsed text column: {label_metrics}")
+                if label_metrics["lines"] > 3:
+                    fail(errors, f"Mobile article eyebrow wraps into too many lines: {label_metrics}")
+            except Exception as exc:
+                fail(errors, f"Mobile article layout check failed: {type(exc).__name__}: {exc}")
+
+            # Restore a desktop viewport: text-size controls are intentionally hidden on phones.
+            page.set_viewport_size({"width": 1280, "height": 900})
+            page.goto(base_url + "/", wait_until="load")
 
             # Theme and text-size controls should change their documented state.
             try:

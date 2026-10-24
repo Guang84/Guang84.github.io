@@ -89,7 +89,7 @@ html[data-theme="dark"][data-palette="orchid"] {
   --aqua: #dab5fa;
 }
 @media (prefers-color-scheme: dark) {
-  html:not([data-theme="light"]) {
+  html:not([data-theme]) {
     --bg: #141820;
     --surface: #1c222d;
     --surface-2: #272f3d;
@@ -101,7 +101,7 @@ html[data-theme="dark"][data-palette="orchid"] {
     --lime: #dbe4ff;
     --shadow: 0 8px 24px rgb(0 0 0 / 0.15);
   }
-  html:not([data-theme="light"]):is(
+  html:not([data-theme]):is(
       [data-palette="forest"],
       [data-palette="sage"]
     ) {
@@ -111,7 +111,7 @@ html[data-theme="dark"][data-palette="orchid"] {
     --blue: #a0d5b2;
     --aqua: #a0d5b2;
   }
-  html:not([data-theme="light"]):is(
+  html:not([data-theme]):is(
       [data-palette="terracotta"],
       [data-palette="ember"]
     ) {
@@ -121,7 +121,7 @@ html[data-theme="dark"][data-palette="orchid"] {
     --blue: #ffb79a;
     --aqua: #ffb79a;
   }
-  html:not([data-theme="light"])[data-palette="orchid"] {
+  html:not([data-theme])[data-palette="orchid"] {
     --blue: #dab5fa;
     --aqua: #dab5fa;
   }
