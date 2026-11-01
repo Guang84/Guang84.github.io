@@ -17,7 +17,7 @@
     <meta content="GLab" name="application-name" />
     <meta content="ca-pub-1394085148984636" name="google-adsense-account" />
     <title>
-      From Broadband Operations to GLabNetOps: The Project Story — GLab
+      From Networking Curiosity to GLabNetOps: The Project Story — GLab
     </title>
     <link
       href="https://guang84.github.io/articles/glabnetops-project-story/"
@@ -41,7 +41,7 @@
     <meta content="article" property="og:type" />
     <meta content="GLab" property="og:site_name" />
     <meta
-      content="From Broadband Operations to GLabNetOps: The Project Story — GLab"
+      content="From Networking Curiosity to GLabNetOps: The Project Story — GLab"
       property="og:title"
     />
     <meta
@@ -71,7 +71,7 @@
     </script>
     <meta content="draft" name="glab:article-status" />
     <meta
-      content="From Broadband Operations to GLabNetOps: The Project Story"
+      content="From Networking Curiosity to GLabNetOps: The Project Story"
       name="glab:article-title"
     />
     <meta content="2026-10-12" name="glab:article-date" />
@@ -89,7 +89,7 @@
     <meta content="true" name="glab:article-featured" />
     <meta content="glabnetops-project-story" name="glab:article-slug" />
     <meta
-      content="From Broadband Operations to GLabNetOps: The Project Story — GLab"
+      content="From Networking Curiosity to GLabNetOps: The Project Story — GLab"
       name="twitter:title"
     />
     <meta
@@ -100,8 +100,8 @@
       {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": "From Broadband Operations to GLabNetOps: The Project Story — GLab",
-        "name": "From Broadband Operations to GLabNetOps: The Project Story — GLab",
+        "headline": "From Networking Curiosity to GLabNetOps: The Project Story — GLab",
+        "name": "From Networking Curiosity to GLabNetOps: The Project Story — GLab",
         "description": "I started with the Noney BSNL Broadband NMS, then documented smaller tools for network observation and server checks. GLabNetOps is the umbrella I use to connect that work publicly, while keeping the retired production system separate from tools still in development.",
         "author": {
           "@type": "Person",
@@ -229,9 +229,9 @@
       <article>
         <header class="content-hero">
           <p class="eyebrow">Project Story · 7 min read</p>
-          <h1>From Broadband Operations to GLabNetOps: The Project Story</h1>
+          <h1>From Networking Curiosity to GLabNetOps: The Project Story</h1>
           <p class="lead">
-            I started with the Noney BSNL Broadband NMS, then documented smaller tools for network observation and server checks. GLabNetOps is the umbrella I use to connect that work publicly, while keeping the retired production system separate from tools still in development.
+            My path into GLabNetOps began with network and Wi-Fi analysis, not with a finished product. A BCA graduation project, work at a newly established ISP, and the operational software I built there gradually led to a broader track of network tools and documentation.
           </p>
           <p class="content-meta">
             By Guang · Published
@@ -288,33 +288,50 @@
           </nav>
 
           <section class="detail-section" id="starting-point">
-            <p class="eyebrow">The practical problem</p>
-            <h2>
-              The project started with connected work that was hard to see in
-              one place
-            </h2>
+            <p class="eyebrow">The early interest</p>
+            <h2>It began with wanting to understand how networks work</h2>
             <p>
-              The public notes for Noney BSNL Broadband NMS describe a rural
-              broadband-franchise setting where work around customer services,
-              network monitoring, infrastructure information, mapping, fault
-              follow-up, and reporting needed to support one another. When those
-              tasks are handled separately, it takes extra effort to connect a
-              service issue with the right network context and the next action.
+              My first interest was in computer networks and Wi-Fi analysis.
+              I spent time learning how networks behave and exploring analysis
+              tools available in Kali Linux, with the aim of understanding
+              systems and their weaknesses in authorized settings. That
+              curiosity eventually moved beyond using tools.
             </p>
             <p>
-              I wanted related operational work to be easier to follow in one place. The records I have are clearer about the problem and design than about a single starting day, so I’m telling the story through those decisions instead of forcing a neat origin moment.
+              During the final year of my BCA in Computer Science, I built
+              Network Analyzer as my graduation project. It turned some of
+              what I had been learning about networking into a software
+              project I could organize, test, and improve.
+            </p>
+            <p>
+              After graduation, I began working with a newly established ISP
+              where resources were limited. The day-to-day work brought
+              together customer and service information, network visibility,
+              infrastructure planning, and administrative follow-up. It showed
+              me how much an ISP depends on clear information and practical
+              tools, not only on the network equipment itself.
             </p>
           </section>
           <section class="detail-section" id="the-first-system">
-            <p class="eyebrow">First form</p>
+            <p class="eyebrow">Broadband operations</p>
             <h2>
-              Noney Broadband NMS: one workspace for service and network
-              operations
+              Noney Broadband: the ISP’s website and operations workspace
             </h2>
             <p>
-              The NMS brought together service-facing workflows, network
-              visibility, infrastructure planning, geographic context, and
-              administrative work. Bringing the information together was only one part of the work. A shared screen is useful only if the data is current, access is controlled, failures are visible, and people know who should follow up. Those are operating requirements, not details a dashboard can solve by itself.
+              The operational needs I saw at the ISP led me to develop the
+              Noney BSNL Broadband application. It served as the ISP’s main
+              public-facing website and also brought internal work into a
+              shared workspace, including customer records, NetVision, GIS
+              planning, service-related workflows, network visibility, and
+              administration. These areas are connected in practice: a service
+              issue can depend on customer information, network context,
+              location, and a clear next step.
+            </p>
+            <p>
+              A shared screen is only useful when the data is current, access
+              is controlled, failures are visible, and people know who should
+              follow up. Those are operating requirements, not details a
+              dashboard can solve by itself.
             </p>
             <p>
               The production system is now retired. The public
@@ -329,7 +346,7 @@
           </section>
           <section class="detail-section" id="what-changed">
             <p class="eyebrow">How the work grew</p>
-            <h2>From a single case to a set of narrower tools</h2>
+            <h2>From a graduation project and ISP work to focused tools</h2>
             <p>
               As I documented the work, it made sense to separate broad
               operational history from smaller tools that solve a more focused
