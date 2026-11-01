@@ -178,21 +178,30 @@ def run_tests():
             except PlaywrightTimeoutError:
                 fail(errors, "Home page: enterprise identity or official introduction did not render from site configuration")
 
-            # The About page must retain the author's two exact standalone statements
-            # without adding the explicitly rejected introductory label.
+            # The About page must represent the enterprise and retain its explicit guiding statements.
             try:
                 page.goto(base_url + "/about.html", wait_until="load")
                 about_text = page.locator("main").inner_text()
-                required_statements = [
+                required_content = [
+                    "GLab Enterprise",
+                    "GLab Ent.",
+                    "Udyam-registered sole proprietorship",
+                    "GLabNetOps",
                     "I’m passionate about building a future where technology and nature coexist harmoniously.",
                     "A journey of a thousand miles begins with a single step.",
                 ]
-                for statement in required_statements:
-                    if statement not in about_text:
-                        fail(errors, f"About page: missing guiding statement: {statement}")
+                for phrase in required_content:
+                    if phrase not in about_text:
+                        fail(errors, f"About page: missing enterprise content: {phrase}")
+                if "Hi, I’m Guang" in about_text:
+                    fail(errors, "About page: still uses the personal homepage greeting")
                 if "Two principles continue to guide" in about_text:
                     fail(errors, "About page: contains the rejected introductory label")
-                            except Exception as exc:
+                if page.locator('a[href="https://github.com/Guang84/GLabNetOps"]').count() < 1:
+                    fail(errors, "About page: missing GLabNetOps GitHub source link")
+                if page.locator('a[href^="https://udyamregistration.gov.in/verifyudyambarcode.aspx"]').count() < 1:
+                    fail(errors, "About page: missing official Udyam verification link")
+            except Exception as exc:
                 fail(errors, f"About page enterprise-profile check failed: {type(exc).__name__}: {exc}")
 
             # Search should return the ChatGPT guide through the generated index.
