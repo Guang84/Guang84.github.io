@@ -2,7 +2,7 @@
   "owner": "Guang",
   "name": "GLab",
   "url": "https://guang84.github.io/",
-  "version": "15.5.4",
+  "version": "15.5.5",
   "description": "GLab is Guang’s personal notebook for project stories, practical guides and field notes from networking, software, cybersecurity, AI, community technology and sustainable farming.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
@@ -23,13 +23,13 @@
       "Technology & Nature"
     ],
     "intro": [
-      "GLab is where I keep the work I want to explain—not just the finished result, but the problem that led to it, the choices I made, and what I learned along the way. You’ll find project stories, practical guides, and field notes from networking, software, cybersecurity, AI, community technology, and sustainable farming.",
-      "I’m interested in a future where technology and nature coexist harmoniously. That means asking whether a tool is useful, who can maintain it, and what it costs the people and places around it."
+      "GLab is my personal notebook for the work I build and the questions I’m learning to answer. It brings together project stories, practical guides, and notes from networking, software, cybersecurity, AI, and community technology.",
+      "Growing up in the hills of Manipur gave me a lasting interest in nature and the environment. I’m also interested in sustainable farming practices and in technology that supports local needs without losing sight of maintenance, resources, or the people and places involved."
     ],
     "statement": "I’m passionate about building a future where technology and nature coexist harmoniously.",
     "workLine": "Projects with context, not just a demo.",
     "interestLine": "Practical questions about systems, people, and the living world.",
-    "background": "GLab grew out of practical broadband and network-operations work. It has become a place to record the tools I build, technical questions I study, and projects with a community or environmental dimension. I want the pages to show not only the result, but also the evidence, maintenance questions, and boundaries behind it.",
+    "background": "GLab grew from an early interest in computer networks and wireless analysis into hands-on software and ISP operations work. It now documents projects, technical learning, cybersecurity, community technology, and an ongoing interest in environmental sustainability and locally suitable farming practices. The focus is practical work, honest status, and respect for the people and places affected by technology.",
     "interests": [
       {
         "title": "Network Operations",
@@ -53,14 +53,14 @@
       },
       {
         "title": "Sustainable Farming",
-        "description": "Questions about soil, sensors, observation, and low-impact approaches that need evidence in the real world."
+        "description": "Learning about soil, water, resource use, and locally suitable farming practices; exploring where simple tools can support observation without replacing local knowledge."
       }
     ]
   },
   "importantLinks": [
     {
       "label": "GLabNetOps overview",
-      "description": "How the broadband operations case grew into a documented track of network and tooling projects.",
+      "description": "The path from an early Network Analyzer project through broadband operations to related network and tooling projects.",
       "url": "/projects/glabnetops/",
       "kind": "Project overview"
     },
