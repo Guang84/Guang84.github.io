@@ -2,7 +2,7 @@
   "owner": "Guang",
   "name": "GLab",
   "url": "https://guang84.github.io/",
-  "version": "15.5.5",
+  "version": "15.5.6",
   "description": "GLab Ent. is Guang’s Udyam-registered sole proprietorship for developing and presenting practical technology products. GLab also publishes project notes, technical articles, and learning records.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
@@ -60,7 +60,7 @@
   "importantLinks": [
     {
       "label": "GLabNetOps overview",
-      "description": "The path from an early Network Analyzer project through broadband operations to related network and tooling projects.",
+      "description": "GLabNetOps, a network-operations product of GLab Ent., developed from networking study and broadband operations experience.",
       "url": "/projects/glabnetops/",
       "kind": "Project overview"
     },
