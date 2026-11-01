@@ -1,9 +1,9 @@
 {
-  "owner": "Guang",
-  "name": "GLab",
+  "owner": "GLab Ent.",
+  "name": "GLab Enterprise",
   "url": "https://guang84.github.io/",
-  "version": "15.5.6",
-  "description": "GLab Ent. is Guang’s Udyam-registered sole proprietorship for developing and presenting practical technology products. GLab also publishes project notes, technical articles, and learning records.",
+  "version": "15.5.7",
+  "description": "GLab Enterprise (GLab Ent.) is a Udyam-registered sole proprietorship developing practical software and technology products. This official website presents its products, engineering projects, business enquiries, and separate technical publication library.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
@@ -16,71 +16,71 @@
     }
   },
   "profile": {
-    "greeting": "Hi, I’m Guang",
+    "greeting": "GLab Enterprise",
     "roles": [
-      "Networking & Systems",
-      "Cybersecurity & AI",
-      "Technology & Nature"
+      "Network Operations",
+      "Software Products",
+      "Engineering & Digital Systems"
     ],
     "intro": [
-      "GLab is my enterprise for building and presenting practical technology projects. Its work includes GLabNetOps, a network-operations product, alongside other software and technical initiatives.",
-      "This site also serves as my project lab and writing space: I share how the work began, what I learned, and what is ready to demonstrate. Growing up in the hills of Manipur shaped my interest in nature, environmental sustainability, and locally suitable sustainable farming practices."
+      "GLab Enterprise (GLab Ent.) is a Udyam-registered sole proprietorship focused on practical software, network operations, and digital technology products. Its portfolio includes GLabNetOps, an ISP operations and network-management application.",
+      "This is the official enterprise website: products, engineering projects, technical capabilities, and business enquiries lead. Technical articles, implementation notes, and research-led learning records are maintained separately in Publications."
     ],
-    "statement": "I’m passionate about building a future where technology and nature coexist harmoniously.",
-    "workLine": "Technology products and projects developed through GLab Ent.",
-    "interestLine": "Building practical systems with care for people, place, and the environment.",
-    "background": "GLab Ent. is Guang’s Udyam-registered sole proprietorship. GLab is the public home for its technology projects and products, including GLabNetOps, as well as project documentation, technical articles, and personal learning notes. The work grows from networking and ISP operations experience and includes cybersecurity, software, community technology, environmental sustainability, and locally suitable farming interests.",
+    "statement": "Technology products. Practical engineering. Responsible innovation.",
+    "workLine": "Products and engineering projects developed by GLab Enterprise.",
+    "interestLine": "Technical capabilities across network operations, software, security-aware engineering, and community technology.",
+    "background": "GLab Enterprise is the public-facing business identity of GLab Ent., a Udyam-registered sole proprietorship. The enterprise develops software and practical technology products, including GLabNetOps. This website is the official portfolio for product information, project records, business enquiries, and a separate technical publication library.",
     "interests": [
       {
         "title": "Network Operations",
-        "description": "Broadband workflows, network visibility, infrastructure context, and lessons behind the GLabNetOps workstream."
+        "description": "ISP workflows, broadband systems, network visibility, monitoring, and infrastructure context."
       },
       {
-        "title": "Software & Engineering",
-        "description": "Small tools, automation, and practical ways to turn a problem into something testable and maintainable."
+        "title": "Software Products",
+        "description": "Web applications, operational tools, automation, data workflows, and maintainable software."
       },
       {
-        "title": "Cybersecurity",
-        "description": "Learning how systems fail, testing only with permission, and documenting safety boundaries alongside setup steps."
+        "title": "Systems & Security",
+        "description": "Linux administration, authorized diagnostics, security-aware engineering, and operational controls."
       },
       {
-        "title": "AI in Daily Work",
-        "description": "Using ChatGPT for planning, study, research, and troubleshooting while checking important claims and outputs."
+        "title": "GIS & Infrastructure",
+        "description": "Network mapping, fiber planning, asset context, and practical infrastructure documentation."
       },
       {
         "title": "Community Technology",
-        "description": "Digital tools for access and preservation, with attention to context, attribution, and the people who use them."
+        "description": "Digital tools for access, preservation, and locally relevant information services."
       },
       {
-        "title": "Sustainable Farming",
-        "description": "Learning about soil, water, resource use, and locally suitable farming practices; exploring where simple tools can support observation without replacing local knowledge."
+        "title": "Responsible Engineering",
+        "description": "Maintainability, resource awareness, clear lifecycle status, and evidence-led technical communication."
       }
     ]
   },
   "importantLinks": [
     {
-      "label": "GLabNetOps overview",
-      "description": "GLabNetOps, a network-operations product of GLab Ent., developed from networking study and broadband operations experience.",
+      "label": "GLabNetOps product overview",
+      "description": "The enterprise’s network-operations and broadband-management product, with component lifecycle and implementation boundaries documented.",
       "url": "/projects/glabnetops/",
-      "kind": "Project overview"
+      "kind": "Enterprise product"
     },
     {
-      "label": "Choose the right tool",
-      "description": "A practical way to choose between AI, scripts, search, and people—and decide how to verify the result.",
-      "url": "/articles/right-sized-ai/",
-      "kind": "Practical guide"
+      "label": "GLabNetOps GitHub repository",
+      "description": "Source repository for the GLabNetOps application. Repository access is currently restricted.",
+      "url": "https://github.com/Guang84/GLabNetOps",
+      "kind": "GitHub repository"
     },
     {
-      "label": "Rongmei Hymnal",
-      "description": "An offline-first digital songbook library and preservation project with ongoing editorial review.",
-      "url": "/projects/rongmei-hymnal/",
-      "kind": "Community project"
+      "label": "Products and engineering portfolio",
+      "description": "Browse current, in-development, archived, and retired project records with their published status.",
+      "url": "/projects/",
+      "kind": "Portfolio"
     },
     {
-      "label": "Laptop buying guide",
-      "description": "Compare laptop choices for development, virtualization, networking and security labs.",
-      "url": "/articles/buying-laptop-2026-specs-guide/",
-      "kind": "Buying guide"
+      "label": "Technical publications",
+      "description": "Read practical guides, engineering notes, product stories, and research-led articles.",
+      "url": "/articles/",
+      "kind": "Publications"
     }
   ],
   "appearance": {
