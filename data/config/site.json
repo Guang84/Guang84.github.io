@@ -2,8 +2,8 @@
   "owner": "Guang",
   "name": "GLab",
   "url": "https://guang84.github.io/",
-  "version": "15.5.5",
-  "description": "GLab is Guang’s personal notebook for project stories, practical guides and field notes from networking, software, cybersecurity, AI, community technology and sustainable farming.",
+  "version": "15.5.6",
+  "description": "GLab Ent. is Guang’s Udyam-registered sole proprietorship for developing and presenting practical technology products. GLab also publishes project notes, technical articles, and learning records.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
@@ -23,13 +23,13 @@
       "Technology & Nature"
     ],
     "intro": [
-      "GLab is my personal notebook for the work I build and the questions I’m learning to answer. It brings together project stories, practical guides, and notes from networking, software, cybersecurity, AI, and community technology.",
-      "Growing up in the hills of Manipur gave me a lasting interest in nature and the environment. I’m also interested in sustainable farming practices and in technology that supports local needs without losing sight of maintenance, resources, or the people and places involved."
+      "GLab is my enterprise for building and presenting practical technology projects. Its work includes GLabNetOps, a network-operations product, alongside other software and technical initiatives.",
+      "This site also serves as my project lab and writing space: I share how the work began, what I learned, and what is ready to demonstrate. Growing up in the hills of Manipur shaped my interest in nature, environmental sustainability, and locally suitable sustainable farming practices."
     ],
     "statement": "I’m passionate about building a future where technology and nature coexist harmoniously.",
-    "workLine": "Projects with context, not just a demo.",
-    "interestLine": "Practical questions about systems, people, and the living world.",
-    "background": "GLab grew from an early interest in computer networks and wireless analysis into hands-on software and ISP operations work. It now documents projects, technical learning, cybersecurity, community technology, and an ongoing interest in environmental sustainability and locally suitable farming practices. The focus is practical work, honest status, and respect for the people and places affected by technology.",
+    "workLine": "Technology products and projects developed through GLab Ent.",
+    "interestLine": "Building practical systems with care for people, place, and the environment.",
+    "background": "GLab Ent. is Guang’s Udyam-registered sole proprietorship. GLab is the public home for its technology projects and products, including GLabNetOps, as well as project documentation, technical articles, and personal learning notes. The work grows from networking and ISP operations experience and includes cybersecurity, software, community technology, environmental sustainability, and locally suitable farming interests.",
     "interests": [
       {
         "title": "Network Operations",
@@ -60,7 +60,7 @@
   "importantLinks": [
     {
       "label": "GLabNetOps overview",
-      "description": "The path from an early Network Analyzer project through broadband operations to related network and tooling projects.",
+      "description": "GLabNetOps, a network-operations product of GLab Ent., developed from networking study and broadband operations experience.",
       "url": "/projects/glabnetops/",
       "kind": "Project overview"
     },
