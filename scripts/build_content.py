@@ -29,7 +29,7 @@ def configured_site_url() -> str:
 SITE_URL = configured_site_url()
 STATIC_PAGES = [
     ("", "index.html"), ("projects/", "projects/index.html"), ("articles/", "articles/index.html"),
-    ("about.html", "about.html"), ("contact.html", "contact.html"), ("privacy.html", "privacy.html"),
+    ("about.html", "about.html"), ("services.html", "services.html"), ("contact.html", "contact.html"), ("privacy.html", "privacy.html"),
     ("terms.html", "terms.html"), ("start-here.html", "start-here.html"),
     ("project-checklist.html", "project-checklist.html"), ("editorial-policy.html", "editorial-policy.html"),
 ]

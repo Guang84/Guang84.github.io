@@ -71,7 +71,7 @@ def run_tests():
     # Chromium's localhost navigation policy while retaining responsive coverage.
     critical_routes = {
         "/", "/about.html", "/articles/", "/articles/building-with-nature-in-mind/",
-        "/projects/", "/projects/glabnetops/", "/projects/noney-bsnl-broadband-nms/",
+        "/projects/", "/services.html", "/projects/glabnetops/", "/projects/noney-bsnl-broadband-nms/",
     }
     urls = [route for route in all_urls if route in critical_routes]
 
@@ -172,31 +172,37 @@ def run_tests():
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => [...document.querySelectorAll('[data-site-intro] p')]
-                      .some(p => p.textContent.includes('hills of Manipur'))""",
+                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Udyam-registered sole proprietorship'))""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
-                fail(errors, "Home page: site-config did not render the updated personal introduction")
+                fail(errors, "Home page: enterprise identity or official introduction did not render from site configuration")
 
-            # The About page must retain the author's two exact standalone statements
-            # without adding the explicitly rejected introductory label.
+            # The About page must represent the enterprise and retain its explicit guiding statements.
             try:
                 page.goto(base_url + "/about.html", wait_until="load")
                 about_text = page.locator("main").inner_text()
-                required_statements = [
+                required_content = [
+                    "GLab Enterprise",
+                    "GLab Ent.",
+                    "Udyam-registered sole proprietorship",
+                    "GLabNetOps",
                     "I’m passionate about building a future where technology and nature coexist harmoniously.",
                     "A journey of a thousand miles begins with a single step.",
                 ]
-                for statement in required_statements:
-                    if statement not in about_text:
-                        fail(errors, f"About page: missing guiding statement: {statement}")
+                for phrase in required_content:
+                    if phrase not in about_text:
+                        fail(errors, f"About page: missing enterprise content: {phrase}")
+                if "Hi, I’m Guang" in about_text:
+                    fail(errors, "About page: still uses the personal homepage greeting")
                 if "Two principles continue to guide" in about_text:
                     fail(errors, "About page: contains the rejected introductory label")
-                if "hills of Manipur" not in about_text or "sustainable farming" not in about_text.lower():
-                    fail(errors, "About page: missing hill-region and sustainable-farming context")
+                if page.locator('a[href="https://github.com/Guang84/GLabNetOps"]').count() < 1:
+                    fail(errors, "About page: missing GLabNetOps GitHub source link")
+                if page.locator('a[href^="https://udyamregistration.gov.in/verifyudyambarcode.aspx"]').count() < 1:
+                    fail(errors, "About page: missing official Udyam verification link")
             except Exception as exc:
-                fail(errors, f"About page personal-content check failed: {type(exc).__name__}: {exc}")
+                fail(errors, f"About page enterprise-profile check failed: {type(exc).__name__}: {exc}")
 
             # Search should return the ChatGPT guide through the generated index.
             try:

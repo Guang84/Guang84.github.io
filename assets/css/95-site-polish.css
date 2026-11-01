@@ -651,3 +651,45 @@ html.glab-loader-active body {
     line-height: 1.25;
   }
 }
+
+
+/* Enterprise service capability cards. */
+.service-capability-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin-block: 1.5rem 2.5rem;
+}
+.service-capability-card {
+  min-width: 0;
+  padding: 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-m);
+  box-shadow: var(--shadow);
+}
+.service-capability-card h2 {
+  margin: 0.45rem 0;
+  font-size: var(--text-m);
+}
+.service-capability-card > p:last-child {
+  margin-bottom: 0;
+  color: var(--muted);
+  line-height: 1.65;
+}
+.service-capability-icon {
+  width: 2rem;
+  height: 2rem;
+  margin-bottom: 0.7rem;
+  fill: none;
+  stroke: var(--clay);
+  stroke-width: 1.65;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+@media (max-width: 900px) {
+  .service-capability-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 600px) {
+  .service-capability-grid { grid-template-columns: 1fr; }
+}
