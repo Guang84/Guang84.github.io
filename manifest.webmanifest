@@ -1,8 +1,8 @@
 {
   "id": "/",
-  "name": "GLab Enterprise — Technology Products, Projects & Publications",
+  "name": "GLab Enterprise — Products, Services, Projects & Publications",
   "short_name": "GLab",
-  "description": "Official website of GLab Ent., a Udyam-registered sole proprietorship developing software products, network operations systems, engineering projects, and technical publications.",
+  "description": "Official website of GLab Ent., a Udyam-registered sole proprietorship developing software products, network operations systems, project-based technical services, and technical publications.",
   "lang": "en",
   "start_url": "/",
   "scope": "/",
@@ -45,6 +45,18 @@
       "name": "Products",
       "short_name": "Products",
       "url": "/projects/",
+      "icons": [
+        {
+          "src": "/assets/icons/glab-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Services",
+      "short_name": "Services",
+      "url": "/services.html",
       "icons": [
         {
           "src": "/assets/icons/glab-192.png",

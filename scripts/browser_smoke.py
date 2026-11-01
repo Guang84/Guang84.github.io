@@ -71,7 +71,7 @@ def run_tests():
     # Chromium's localhost navigation policy while retaining responsive coverage.
     critical_routes = {
         "/", "/about.html", "/articles/", "/articles/building-with-nature-in-mind/",
-        "/projects/", "/projects/glabnetops/", "/projects/noney-bsnl-broadband-nms/",
+        "/projects/", "/services.html", "/projects/glabnetops/", "/projects/noney-bsnl-broadband-nms/",
     }
     urls = [route for route in all_urls if route in critical_routes]
 
