@@ -2,8 +2,8 @@
   "owner": "Guang",
   "name": "GLab",
   "url": "https://guang84.github.io/",
-  "version": "15.5.3",
-  "description": "GLab is Guang’s working notebook for projects, practical guides and lessons from networking, cybersecurity, AI, community technology and sustainable farming.",
+  "version": "15.5.4",
+  "description": "GLab is Guang’s personal notebook for project stories, practical guides and field notes from networking, software, cybersecurity, AI, community technology and sustainable farming.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
@@ -23,13 +23,13 @@
       "Technology & Nature"
     ],
     "intro": [
-      "GLab is a working collection of projects, guides, and notes about why a project exists, how it develops, what has been learned, and what still needs work. Finished work, experiments, and retired systems are described differently so readers can tell what is ready to use.",
-      "I’m passionate about building a future where technology and nature coexist harmoniously. I try to choose tools for the problem they solve, how well they can be maintained, and how they affect the people and places around them."
+      "GLab is where I keep the work I want to explain—not just the finished result, but the problem that led to it, the choices I made, and what I learned along the way. You’ll find project stories, practical guides, and field notes from networking, software, cybersecurity, AI, community technology, and sustainable farming.",
+      "I’m interested in a future where technology and nature coexist harmoniously. That means asking whether a tool is useful, who can maintain it, and what it costs the people and places around it."
     ],
     "statement": "I’m passionate about building a future where technology and nature coexist harmoniously.",
     "workLine": "Projects with context, not just a demo.",
     "interestLine": "Practical questions about systems, people, and the living world.",
-    "background": "GLab grew from practical broadband and network-operations work. It now documents that experience alongside smaller software tools, cybersecurity learning, community technology, and questions about sustainable farming. The aim is to show what exists, what has been tested, and what remains a plan.",
+    "background": "GLab grew out of practical broadband and network-operations work. It has become a place to record the tools I build, technical questions I study, and projects with a community or environmental dimension. I want the pages to show not only the result, but also the evidence, maintenance questions, and boundaries behind it.",
     "interests": [
       {
         "title": "Network Operations",
