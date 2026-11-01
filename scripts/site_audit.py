@@ -117,18 +117,24 @@ for rel, (page, parser) in parsed_pages.items():
     if rel in ("index.html", "about.html") and "https://github.com/Guang84?tab=repositories" not in raw_page:
         fail(f"{rel}: missing all-public-repositories GitHub link")
 
-    primary_nav = re.search(
-        r"""<nav\b(?=[^>]*\bclass=["'][^"']*\bnav\b[^"']*["'])[^>]*>([\s\S]*?)</nav>""",
+    # Legacy URL redirects are intentionally minimal and have no site navigation.
+    is_noindex_redirect = re.search(
+        r"""<meta\b(?=[^>]*\bname=["']robots["'])(?=[^>]*\bcontent=["'][^"']*noindex)""",
         raw_page, re.I
     )
-    if not primary_nav or not re.search(r"""href=["']/contact\.html["']""", primary_nav.group(1), re.I):
-        fail(f'{rel}: missing Contact link in primary navigation')
-    mobile_menu = re.search(
-        r"""<div\b(?=[^>]*\bclass=["'][^"']*\bmobile-menu\b[^"']*["'])[^>]*>([\s\S]*?)</div>""",
-        raw_page, re.I
-    )
-    if not mobile_menu or not re.search(r"""href=["']/contact\.html["']""", mobile_menu.group(1), re.I):
-        fail(f'{rel}: missing Contact link in mobile navigation')
+    if not is_noindex_redirect:
+        primary_nav = re.search(
+            r"""<nav\b(?=[^>]*\bclass=["'][^"']*\bnav\b[^"']*["'])[^>]*>([\s\S]*?)</nav>""",
+            raw_page, re.I
+        )
+        if not primary_nav or not re.search(r"""href=["']/contact\.html["']""", primary_nav.group(1), re.I):
+            fail(f'{rel}: missing Contact link in primary navigation')
+        mobile_menu = re.search(
+            r"""<div\b(?=[^>]*\bclass=["'][^"']*\bmobile-menu\b[^"']*["'])[^>]*>([\s\S]*?)</div>""",
+            raw_page, re.I
+        )
+        if not mobile_menu or not re.search(r"""href=["']/contact\.html["']""", mobile_menu.group(1), re.I):
+            fail(f'{rel}: missing Contact link in mobile navigation')
 
 for rel,(page,parser) in parsed_pages.items():
     for attr,value in parser.refs:
