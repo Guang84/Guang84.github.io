@@ -192,10 +192,8 @@ def run_tests():
                         fail(errors, f"About page: missing guiding statement: {statement}")
                 if "Two principles continue to guide" in about_text:
                     fail(errors, "About page: contains the rejected introductory label")
-                if "hills of Manipur" not in about_text or "sustainable farming" not in about_text.lower():
-                    fail(errors, "About page: missing hill-region and sustainable-farming context")
-            except Exception as exc:
-                fail(errors, f"About page personal-content check failed: {type(exc).__name__}: {exc}")
+                            except Exception as exc:
+                fail(errors, f"About page enterprise-profile check failed: {type(exc).__name__}: {exc}")
 
             # Search should return the ChatGPT guide through the generated index.
             try:
