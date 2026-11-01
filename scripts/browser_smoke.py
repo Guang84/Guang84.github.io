@@ -173,11 +173,30 @@ def run_tests():
             try:
                 page.wait_for_function(
                     """() => [...document.querySelectorAll('[data-site-intro] p')]
-                      .some(p => p.textContent.includes('coexist harmoniously'))""",
+                      .some(p => p.textContent.includes('hills of Manipur'))""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
-                fail(errors, "Home page: site-config did not render the technology/nature introduction")
+                fail(errors, "Home page: site-config did not render the updated personal introduction")
+
+            # The About page must retain the author's two exact standalone statements
+            # without adding the explicitly rejected introductory label.
+            try:
+                page.goto(base_url + "/about.html", wait_until="load")
+                about_text = page.locator("main").inner_text()
+                required_statements = [
+                    "I’m passionate about building a future where technology and nature coexist harmoniously.",
+                    "A journey of a thousand miles begins with a single step.",
+                ]
+                for statement in required_statements:
+                    if statement not in about_text:
+                        fail(errors, f"About page: missing guiding statement: {statement}")
+                if "Two principles continue to guide" in about_text:
+                    fail(errors, "About page: contains the rejected introductory label")
+                if "hills of Manipur" not in about_text or "sustainable farming" not in about_text.lower():
+                    fail(errors, "About page: missing hill-region and sustainable-farming context")
+            except Exception as exc:
+                fail(errors, f"About page personal-content check failed: {type(exc).__name__}: {exc}")
 
             # Search should return the ChatGPT guide through the generated index.
             try:
