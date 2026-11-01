@@ -172,12 +172,11 @@ def run_tests():
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => [...document.querySelectorAll('[data-site-intro] p')]
-                      .some(p => p.textContent.includes('hills of Manipur'))""",
+                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Udyam-registered sole proprietorship'))""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
-                fail(errors, "Home page: site-config did not render the updated personal introduction")
+                fail(errors, "Home page: enterprise identity or official introduction did not render from site configuration")
 
             # The About page must retain the author's two exact standalone statements
             # without adding the explicitly rejected introductory label.

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "contentVersion": "3fe8b39bb1e915e7",
-  "updated": "2026-10-23",
+  "contentVersion": "c0cd1d5c33492589",
+  "updated": "2026-11-01",
   "items": [
     {
       "id": "glabnetops",
@@ -9,8 +9,8 @@
       "category": "Network Operations",
       "year": 2026,
       "status": "Public overview · evolving workstream",
-      "summary": "GLabNetOps is the name I use for related network-operations work and smaller tools. This page connects the projects without implying they form one live, integrated platform.",
-      "updated": "2026-10-23",
+      "summary": "GLabNetOps is a network-operations and broadband-management product developed by GLab Ent. The portfolio documents ISP workflows, network visibility, GIS planning, monitoring, and staff administration while distinguishing component maturity and deployment boundaries.",
+      "updated": "2026-11-01",
       "tags": [
         "GLabNetOps",
         "Network Operations",
@@ -20,14 +20,14 @@
         "Security"
       ],
       "repository": {
-        "url": ""
+        "url": "https://github.com/Guang84/GLabNetOps"
       },
       "demoUrl": "",
       "featured": true,
       "publicationStatus": "published",
       "guide": {
-        "title": "How to evaluate the GLabNetOps project track",
-        "summary": "Read each component on its own terms: check its repository, lifecycle and operating boundary instead of treating GLabNetOps as one deployed product."
+        "title": "Review GLabNetOps scope and component status",
+        "summary": "Review the product overview alongside each component's repository, lifecycle, and operating boundary. The documented portfolio does not imply one fully integrated production deployment."
       }
     },
     {
@@ -36,8 +36,8 @@
       "category": "Wireless Security & Network Monitoring",
       "year": 2026,
       "status": "Release · authorized lab toolkit",
-      "summary": "A Linux toolkit I’m documenting for authorized wireless observation, saved-scan analysis and reports. Passing software checks is not the same as proving behaviour on every adapter or environment.",
-      "updated": "2026-10-23",
+      "summary": "A Linux toolkit for authorized wireless observation, passive monitoring, saved-scan analysis, and reporting. Software checks do not establish compatibility with every wireless adapter or operating environment.",
+      "updated": "2026-11-01",
       "tags": [
         "Python",
         "Linux",
@@ -62,8 +62,8 @@
       "category": "Network Operations",
       "year": 2026,
       "status": "Completed · production retired",
-      "summary": "I keep this page as a retrospective on a rural broadband operations system that connected service workflows, network visibility, planning and mapping. The production environment is retired; this is not a live service or redeployment guide.",
-      "updated": "2026-10-14",
+      "summary": "A retired rural broadband operations system that connected service workflows, network visibility, infrastructure planning, mapping, and administration. The original production environment is retired; this page is a retrospective.",
+      "updated": "2026-11-01",
       "tags": [
         "Broadband operations",
         "Network management",
@@ -87,8 +87,8 @@
       "category": "Community Technology",
       "year": 2026,
       "status": "Active · deployed · editorial review ongoing",
-      "summary": "I’m building an offline-first reading experience for Rongmei and community song collections. The app and the content need different kinds of review, and editorial checks and attribution remain part of the work.",
-      "updated": "2026-10-14",
+      "summary": "An offline-first digital library for Rongmei and community song collections. The application is deployed; content review, attribution, and correction remain ongoing editorial responsibilities.",
+      "updated": "2026-11-01",
       "tags": [
         "Rongmei songs",
         "Digital preservation",
@@ -112,8 +112,8 @@
       "category": "DevOps & Security",
       "year": 2026,
       "status": "In development",
-      "summary": "SSH Fleet Doctor is an in-development remote administration and diagnostics project. The intended workflow is to connect to authorized hosts over SSH, collect system information, detect configured issues, and run reviewed commands or scripts to fix problems—with safety controls and current implementation clearly distinguished from planned work.",
-      "updated": "2026-10-23",
+      "summary": "An in-development SSH administration and server-health project intended for authorized hosts. Diagnostics, remediation, and safety controls have separate implementation and verification status.",
+      "updated": "2026-11-01",
       "tags": [
         "SSH",
         "Python",
@@ -137,8 +137,8 @@
       "category": "Wireless Security & Network Analysis",
       "year": 2024,
       "status": "Archived · historical release",
-      "summary": "This is the older Bash-based Network Analyzer snapshot. I keep it for historical comparison and code review, not as instructions to run unchanged on a current system.",
-      "updated": "2026-10-14",
+      "summary": "An archived Bash-based wireless analysis toolkit from 2024, retained for historical code review and comparison. It is not presented as a current release or as a recommendation to run unchanged.",
+      "updated": "2026-11-01",
       "tags": [
         "Bash",
         "Linux",

@@ -1,17 +1,25 @@
 {
   "id": "/",
-  "name": "GLab — Guang’s Projects, Guides & Field Notes",
+  "name": "GLab Enterprise — Technology Products, Projects & Publications",
   "short_name": "GLab",
-  "description": "GLab is Guang’s personal space for practical projects, technical guides, and lessons from networking, cybersecurity, AI-assisted work, hands-on engineering, community technology, and sustainable farming.",
+  "description": "Official website of GLab Ent., a Udyam-registered sole proprietorship developing software products, network operations systems, engineering projects, and technical publications.",
   "lang": "en",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
-  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui"
+  ],
   "background_color": "#f6f3ec",
   "theme_color": "#0d1c15",
   "orientation": "any",
-  "categories": ["education", "productivity", "utilities"],
+  "categories": [
+    "education",
+    "productivity",
+    "utilities"
+  ],
   "icons": [
     {
       "src": "/assets/icons/glab-192.png",
@@ -34,8 +42,8 @@
   ],
   "shortcuts": [
     {
-      "name": "Projects",
-      "short_name": "Projects",
+      "name": "Products",
+      "short_name": "Products",
       "url": "/projects/",
       "icons": [
         {
@@ -46,8 +54,8 @@
       ]
     },
     {
-      "name": "Articles",
-      "short_name": "Articles",
+      "name": "Publications",
+      "short_name": "Publications",
       "url": "/articles/",
       "icons": [
         {
