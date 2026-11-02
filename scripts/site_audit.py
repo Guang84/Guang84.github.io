@@ -70,7 +70,7 @@ for page in html_files:
         image_count += 1
         if not has_alt: fail(f'{rel}: image missing alt attribute: {src}')
     text=page.read_text(encoding='utf-8')
-    footer_match = re.search(r'<footer\\b(?=[^>]*\\bclass=["\'][^"\']*\\bsite-footer\\b[^"\']*["\'])[^>]*>[\\s\\S]*?</footer>', text, re.I)
+    footer_match = re.search(r'<footer\b(?=[^>]*\bclass=["\'][^"\']*\bsite-footer\b[^"\']*["\'])[^>]*>[\s\S]*?</footer>', text, re.I)
     if not footer_match:
         fail(f'{rel}: missing enterprise footer component')
     else:
