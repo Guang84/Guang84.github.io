@@ -11,7 +11,7 @@
       content="SSH Fleet Doctor is an in-development remote administration and diagnostics project. The intended workflow is to connect to authorized hosts over SSH, collect system information, detect configured issues, and run reviewed commands or scripts to fix problems—with safety controls and current implementation clearly distinguished from planned work."
       name="description"
     />
-    <meta content="Guang" name="author" />
+    <meta name="author" content="GLab Ent." />
     <meta content="light dark" name="color-scheme" />
     <meta content="#0d1c15" name="theme-color" />
     <meta content="GLab" name="application-name" />
@@ -96,11 +96,7 @@
         "headline": "SSH Fleet Doctor",
         "name": "SSH Fleet Doctor",
         "description": "An in-development SSH administration and server-health project intended for authorized hosts. Diagnostics, remediation, and safety controls have separate implementation and verification status.",
-        "author": {
-          "@type": "Person",
-          "name": "Guang",
-          "url": "https://guang84.github.io/about.html"
-        },
+        "author": {"@type": "Organization", "name": "GLab Ent.", "url": "https://guang84.github.io/"},
         "publisher": {
           "@type": "Organization",
           "name": "GLab Enterprise",
@@ -259,7 +255,7 @@
       <section class="detail-section quick-reference" id="quick-reference">
         <p class="eyebrow">Quick reference</p>
         <h2>Project snapshot</h2>
-        <p>I want a reader to understand the safety assumptions before trying a remote command. This reference separates the toolkit’s documented monitoring purpose from actions that could change a remote host.</p>
+        <p>Readers should understand the safety assumptions before trying a remote command. This reference separates the toolkit’s documented monitoring purpose from actions that could change a remote host.</p>
         <div class="doc-table-scroll" role="region" aria-label="Project snapshot" tabindex="0">
           <table class="doc-table">
             <caption>Project facts and current boundaries</caption>
@@ -277,7 +273,7 @@
         <p class="eyebrow">Background</p>
         <h2>Make routine remote checks easier to inspect</h2>
         <p>
-          I describe SSH Fleet Doctor as an evolving administration and
+          SSH Fleet Doctor is an evolving administration and
           server-health toolkit, combining shell automation with a
           Python/Paramiko monitoring path. The problem it addresses is familiar
           in system operations: an operator needs a consistent way to inspect
@@ -303,7 +299,7 @@
         <div class="doc-table-scroll" role="region" aria-label="Remote operation controls" tabindex="0">
           <table class="doc-table">
             <caption>Safe operating controls for remote checks</caption>
-            <thead><tr><th scope="col">Control or component</th><th scope="col">Purpose</th><th scope="col">What I expect to verify</th></tr></thead>
+            <thead><tr><th scope="col">Control or component</th><th scope="col">Purpose</th><th scope="col">Verification criteria</th></tr></thead>
             <tbody>
               <tr><td>Explicit host scope</td><td>Restricts checks to approved targets</td><td>Begin with one identified test host</td></tr>
               <tr><td>SSH host-key validation</td><td>Confirms the remote identity being contacted</td><td>Do not disable host-key checking for convenience</td></tr>
@@ -450,7 +446,7 @@
         <p class="eyebrow">Source and current status</p>
         <h2>Explore the project</h2>
         <p>
-          In development. I keep this page as a public record of the project.
+          In development. This page documents the public project record.
           For the current code, dependencies, licence, issues, and setup steps,
           check the linked repository before using it.
         </p>
@@ -463,7 +459,7 @@
           >
         </div>
         <p>
-          If you spot an error, <a href="/contact.html">contact me</a> or raise
+          For corrections, <a href="/contact.html">contact GLab Ent.</a> or raise
           it in the linked repository.
         </p>
       </section>
