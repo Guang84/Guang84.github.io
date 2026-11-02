@@ -172,7 +172,7 @@ def run_tests():
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('GLabNetOps'))""",
+                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('GLabNetOps')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('environmentalist outlook')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('publisher'))""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
@@ -188,6 +188,12 @@ def run_tests():
                     "proprietor-led development model",
                     "internal AI-assisted systems",
                     "GLabNetOps",
+                    "the business identity behind its products and services",
+                    "environmentalist outlook",
+                    "An environmentalist outlook on technology and engineering",
+                    "Frame carefully. Build thoughtfully. Improve responsibly.",
+                    "the identity used across the enterprise’s work",
+                    "publisher of its technical guides",
                     "We are committed to building a future where technology and nature coexist harmoniously.",
                     "A journey of a thousand miles begins with a single step.",
                 ]
