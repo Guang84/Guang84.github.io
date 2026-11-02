@@ -73,10 +73,10 @@
     },
     {
       "id": "right-sized-ai",
-      "title": "How I Decide Whether a Task Needs AI",
+      "title": "Choosing the Right Tool: When AI Adds Value",
       "date": "2026-09-06",
       "updated": "2026-11-01",
-      "excerpt": "Not every task needs AI. A spreadsheet is useful for exact calculations, a script for repeatable jobs, search for current source material, and a person for decisions that need accountability. AI is most useful when language, synthesis, or interpretation is central—and when the result can be checked.",
+      "excerpt": "A practical decision framework for choosing between AI, ordinary software, web research and human expertise, with verification, privacy and error costs built in.",
       "kind": "Practical Essay",
       "readTime": "4 min read",
       "tags": [
@@ -137,10 +137,10 @@
     },
     {
       "id": "responsible-ai",
-      "title": "Before I Build With AI, I Ask Who Carries the Risk",
+      "title": "Responsible AI Design: Who Carries the Risk?",
       "date": "2026-07-11",
       "updated": "2026-10-23",
-      "excerpt": "Before I add AI to a feature, I ask who it helps, what data it needs, what happens if it is wrong, and how a person can challenge the result.",
+      "excerpt": "A practical AI review checklist covering intended users, error costs, privacy, transparency, human oversight and ways to challenge or correct outputs.",
       "kind": "Practical Essay",
       "readTime": "3 min read",
       "tags": [
