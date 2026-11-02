@@ -3,7 +3,7 @@
   "name": "GLab Enterprise",
   "url": "https://guang84.github.io/",
   "version": "15.5.8",
-  "description": "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products and technical solutions. As business identity, developer and publisher, it combines real-world problem-solving with an environmentalist outlook.",
+  "description": "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise. It develops practical software and engineering solutions, serves as their business identity, and publishes technical knowledge, guided by environmental responsibility.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
@@ -23,8 +23,9 @@
       "Environmental Responsibility"
     ],
     "intro": [
-      "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise focused on practical software, digital products and technical solutions. GLab Ent. is the business identity behind its products and services, the developer of its engineering work, and the publisher of its technical publications.",
-      "Its work spans software, network operations, broadband infrastructure, cybersecurity and digital systems. An environmentalist outlook shapes how problems are framed and solutions are built: considering local conditions, resource use, durability, repair and the wider effects of technology on people and nature. GLabNetOps is one network-operations product initiative; products, projects and publications are documented separately."
+      "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise. It develops practical software and engineering solutions, serves as their business identity, and publishes technical knowledge, guided by environmental responsibility.",
+      "Its work spans software, network operations, broadband infrastructure, cybersecurity and digital systems. An environmentalist outlook shapes how problems are framed and solutions are built: considering local conditions, resource use, durability, repair and the wider effects of technology on people and nature. GLabNetOps is one network-operations product initiative; products, projects and publications are documented separately.",
+      "This is the official enterprise website: products, engineering projects, technical capabilities, and business enquiries lead. Technical articles, implementation notes, and research-led learning records are maintained separately in Publications."
     ],
     "statement": "A journey of a thousand miles begins with a single step.",
     "workLine": "Products, engineering services and technical publications developed and published by GLab Enterprise.",
