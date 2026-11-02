@@ -87,6 +87,22 @@ for page in html_files:
         if re.search(r"Udyam", outside_footer, re.I):
             fail(f'{rel}: Udyam registration disclosure must remain in the footer')
     if re.search(r'\{\{[A-Z][A-Z0-9_ -]*\}\}',text): fail(f'{rel}: published page contains an unreplaced template placeholder')
+    if rel.startswith(("articles/", "projects/")) and rel.count("/") == 2 and 'class="doc-toc"' in text:
+        toc_match = re.search(r'<nav\\b[^>]*class="doc-toc"[^>]*>(.*?)</nav>', text, re.I | re.S)
+        if not toc_match:
+            fail(f'{rel}: malformed Content navigation')
+        else:
+            toc_html = toc_match.group(1)
+            if '<h2 class="doc-toc-title">Content:</h2>' not in toc_html:
+                fail(f'{rel}: contents panel must have a visible Content heading')
+            if "<details" in toc_html or "<summary" in toc_html:
+                fail(f'{rel}: contents panel must be visible without an expandable control')
+            toc_links = re.findall(r'<a\\b[^>]*href="#([^"]+)"', toc_html, re.I)
+            if len(toc_links) < 2:
+                fail(f'{rel}: contents panel needs at least two section links')
+            missing_targets = [target for target in toc_links if target not in parser.ids]
+            if missing_targets:
+                fail(f'{rel}: contents link target(s) not found: {", ".join(missing_targets)}')
     if 'assets/projects/noney-bsnl-broadband-nms/dashboard.png' in text or 'assets/projects/noney-bsnl-broadband-nms/admin-tools.png' in text:
         fail(f'{rel}: refers to removed operational screenshot')
 
