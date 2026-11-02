@@ -172,7 +172,7 @@ def run_tests():
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('GLabNetOps')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('environmentalist outlook')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('publisher'))""",
+                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('dedicated to developing practical software, digital products and technical solutions')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Environmental responsibility is an integral part of this approach'))""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
@@ -188,12 +188,14 @@ def run_tests():
                     "proprietor-led development model",
                     "internal AI-assisted systems",
                     "GLabNetOps",
+                    "Identity, Engineering & Environmental Responsibility",
                     "the business identity behind its products and services",
-                    "environmentalist outlook",
-                    "An environmentalist outlook on technology and engineering",
-                    "Frame carefully. Build thoughtfully. Improve responsibly.",
-                    "the identity used across the enterprise’s work",
-                    "publisher of its technical guides",
+                    "publisher of its technical articles, practical guides, research notes and project documentation",
+                    "GLab Ent. works across software development, networking, broadband infrastructure, cybersecurity, automation and digital systems.",
+                    "understand practical challenges, frame them correctly",
+                    "Care for the natural environment is an integral part of the GLab philosophy.",
+                    "considering the relationship between technology, people, communities and nature",
+                    "reducing unnecessary waste, favouring repair and long-term usability",
                     "We are committed to building a future where technology and nature coexist harmoniously.",
                     "A journey of a thousand miles begins with a single step.",
                 ]
