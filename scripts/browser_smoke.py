@@ -218,6 +218,32 @@ def run_tests():
             except Exception as exc:
                 fail(errors, f"About page enterprise-profile check failed: {type(exc).__name__}: {exc}")
 
+            # The project/article contents panel must be visible, single-column and link to real sections.
+            try:
+                for route in ("/articles/right-sized-ai/", "/projects/glabnetops/"):
+                    page.goto(base_url + route, wait_until="load")
+                    toc = page.locator("nav.doc-toc")
+                    if toc.count() != 1:
+                        fail(errors, f"{route}: expected one Content panel")
+                        continue
+                    heading = toc.locator(".doc-toc-title")
+                    if heading.count() != 1 or heading.inner_text().strip() != "Content:":
+                        fail(errors, f"{route}: missing visible Content heading")
+                    if toc.locator("details, summary").count() != 0:
+                        fail(errors, f"{route}: Content panel must not be collapsed")
+                    links = toc.locator('a[href^="#"]')
+                    if links.count() < 2:
+                        fail(errors, f"{route}: Content panel needs at least two section links")
+                    for index in range(links.count()):
+                        href = links.nth(index).get_attribute("href") or ""
+                        if not href.startswith("#") or page.locator(f'[id="{href[1:]}"]').count() != 1:
+                            fail(errors, f"{route}: broken Content link {href!r}")
+                    bg = toc.evaluate("(node) => getComputedStyle(node).backgroundColor")
+                    if bg != "rgb(222, 235, 248)":
+                        fail(errors, f"{route}: unexpected Content panel background {bg}")
+            except Exception as exc:
+                fail(errors, f"Project/article Content panel check failed: {type(exc).__name__}: {exc}")
+
             # Search should return the ChatGPT guide through the generated index.
             try:
                 page.locator("[data-search-toggle]").first.click()
