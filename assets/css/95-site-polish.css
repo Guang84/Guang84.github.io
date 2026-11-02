@@ -700,9 +700,9 @@ html.glab-loader-active body {
 .site-footer-principles .site-footer-motto { margin: 0; }
 .site-footer-commitment { margin: 0; max-width: 62rem; color: var(--muted, #667); font-size: clamp(.95rem, 1.5vw, 1.15rem); line-height: 1.6; }
 .site-footer .udyam-verification-link { display: inline-flex; align-items: center; gap: .7rem; width: fit-content; max-width: 100%; padding: .5rem .65rem .5rem .5rem; border: 1px solid var(--border, #ddd); border-radius: .65rem; text-decoration: none; }
-.site-footer .udyam-verification-link img { display: block; width: 5rem; height: 5.05rem; flex: 0 0 5rem; object-fit: contain; background: #fff; border-radius: .2rem; }
+.site-footer .udyam-verification-link img { display: block; width: 7rem; height: 7.08rem; flex: 0 0 7rem; object-fit: contain; background: #fff; border-radius: .2rem; }
 .site-footer .udyam-verification-link span { display: grid; gap: .2rem; }
 .site-footer .udyam-verification-link strong { font-size: .86rem; }
 .site-footer .udyam-verification-link small { font-size: .75rem; opacity: .8; }
 .site-footer .udyam-verification-link:hover { border-color: currentColor; }
-@media (max-width: 480px) { .site-footer .udyam-verification-link img { width: 4.2rem; height: 4.25rem; flex-basis: 4.2rem; } }
+@media (max-width: 480px) { .site-footer .udyam-verification-link img { width: 5.5rem; height: 5.56rem; flex-basis: 5.5rem; } }
