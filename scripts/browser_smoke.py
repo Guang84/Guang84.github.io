@@ -188,11 +188,11 @@ def run_tests():
                     "proprietor-led development model",
                     "internal AI-assisted systems",
                     "GLabNetOps",
-                    "business identity behind GLab Ent.",
+                    "the business identity behind GLab Ent.’s products and services",
                     "environmentalist outlook",
                     "An environmentalist outlook on technology and engineering",
                     "Frame carefully. Build thoughtfully. Improve responsibly.",
-                    "publisher accountability",
+                    "publisher of its technical guides",
                     "We are committed to building a future where technology and nature coexist harmoniously.",
                     "A journey of a thousand miles begins with a single step.",
                 ]
