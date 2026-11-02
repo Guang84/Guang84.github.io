@@ -1,7 +1,7 @@
 [
   {
     "id": "glabnetops",
-    "summary": "A public overview of GLabNetOps, the network-operations and tooling work documented by Guang—from broadband operations experience to independent network and automation tools.",
+    "summary": "A public overview of GLabNetOps, the network-operations and broadband tooling portfolio developed by GLab Enterprise, with separate product components and documented readiness boundaries.",
     "tags": [
       "GLabNetOps",
       "Network Operations",
@@ -16,7 +16,7 @@
   },
   {
     "id": "glabnetops",
-    "summary": "Understand the origin, distinct workstreams, current status, and safe public/private boundary before interpreting this as a single product.",
+    "summary": "A public overview of GLabNetOps, the network-operations and broadband tooling portfolio developed by GLab Enterprise, with separate product components and documented readiness boundaries.",
     "tags": [
       "GLabNetOps",
       "Network Operations",
@@ -218,7 +218,7 @@
   {
     "type": "Practical Essay",
     "id": "right-sized-ai",
-    "title": "How I Decide Whether a Task Needs AI",
+    "title": "Choosing the Right Tool: When AI Adds Value",
     "summary": "A practical decision framework for choosing between AI, ordinary software, web research, and a person—with verification, privacy, and error cost built in.",
     "tags": [
       "AI",
@@ -266,7 +266,7 @@
   {
     "type": "Practical Essay",
     "id": "responsible-ai",
-    "title": "Before I Build With AI, I Ask Who Carries the Risk",
+    "title": "Responsible AI Design: Who Carries the Risk?",
     "summary": "A practical AI review checklist covering intended users, error costs, privacy, transparency, human override, and ways to challenge or correct outputs.",
     "tags": [
       "Responsible AI",
@@ -308,7 +308,7 @@
     "type": "Guide",
     "id": "editorial-policy",
     "title": "Editorial policy and corrections",
-    "summary": "How GLab handles sources, AI-assisted editing, project status, limitations, and corrections.",
+    "summary": "How GLab Ent. handles sources, AI-assisted research, project status, technical claims, limitations and corrections.",
     "tags": [],
     "url": "/editorial-policy.html"
   }

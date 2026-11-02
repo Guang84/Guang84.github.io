@@ -1,6 +1,6 @@
 # GLab Enterprise — Official Website
 
-This repository contains the official public website for **GLab Enterprise**, the public-facing brand of **GLab Ent.**, a Udyam-registered sole proprietorship developing practical software and technology products.
+This repository contains the official public website and technical publication library of **GLab Enterprise (GLab Ent.)**, an independent technology and engineering enterprise developing practical software products, digital systems and engineering solutions.
 
 - Official website: https://guang84.github.io/
 - Enterprise profile: https://guang84.github.io/about.html

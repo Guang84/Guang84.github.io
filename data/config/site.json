@@ -3,7 +3,7 @@
   "name": "GLab Enterprise",
   "url": "https://guang84.github.io/",
   "version": "15.5.8",
-  "description": "GLab Enterprise (GLab Ent.) is a Udyam-registered sole proprietorship developing practical software and technology products. This official website presents its products, engineering projects, business enquiries, and separate technical publication library.",
+  "description": "GLab Enterprise develops software products, digital systems and engineering solutions for practical challenges. Its work spans network operations, broadband infrastructure, cybersecurity, automation and community-focused technology. The official website presents the enterprise’s products, engineering projects, technical capabilities, business enquiries and a dedicated technical publication library.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
@@ -23,13 +23,13 @@
       "Engineering & Digital Systems"
     ],
     "intro": [
-      "GLab Enterprise (GLab Ent.) is a Udyam-registered sole proprietorship focused on practical software, network operations, and digital technology products. Its portfolio includes GLabNetOps, an ISP operations and network-management application.",
+      "GLab Enterprise develops practical software, digital systems and engineering solutions. Its portfolio includes GLabNetOps, a network-operations and broadband-management product.",
       "This is the official enterprise website: products, engineering projects, technical capabilities, and business enquiries lead. Technical articles, implementation notes, and research-led learning records are maintained separately in Publications."
     ],
-    "statement": "Technology products. Practical engineering. Responsible innovation.",
+    "statement": "A journey of a thousand miles begins with a single step.",
     "workLine": "Products and project-based engineering services from GLab Enterprise.",
     "interestLine": "Services and technical capabilities across network operations, monitoring, GIS, software engineering, systems tooling, and technical documentation.",
-    "background": "GLab Enterprise is the public-facing business identity of GLab Ent., a Udyam-registered sole proprietorship. The enterprise develops software and practical technology products, including GLabNetOps. This website is the official portfolio for product information, project records, business enquiries, and a separate technical publication library.",
+    "background": "GLab Enterprise is an independent technology and engineering enterprise focused on practical software products, digital systems and responsible innovation. Its portfolio includes GLabNetOps. This website presents products, services, engineering projects, business enquiries and a separate technical publication library.",
     "interests": [
       {
         "title": "Network Operations",

@@ -70,6 +70,22 @@ for page in html_files:
         image_count += 1
         if not has_alt: fail(f'{rel}: image missing alt attribute: {src}')
     text=page.read_text(encoding='utf-8')
+    footer_match = re.search(r'<footer\b(?=[^>]*\bclass=["\'][^"\']*\bsite-footer\b[^"\']*["\'])[^>]*>[\s\S]*?</footer>', text, re.I)
+    if not footer_match:
+        fail(f'{rel}: missing enterprise footer component')
+    else:
+        footer_html = footer_match.group(0)
+        for required in (
+            "A journey of a thousand miles begins with a single step.",
+            "We are committed to building a future where technology and nature coexist harmoniously.",
+            "/assets/brand/udyam-verification-qr.png",
+            "https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=",
+        ):
+            if required not in footer_html:
+                fail(f'{rel}: footer missing required enterprise identity or Udyam verification element: {required}')
+        outside_footer = text[:footer_match.start()] + text[footer_match.end():]
+        if re.search(r"Udyam", outside_footer, re.I):
+            fail(f'{rel}: Udyam registration disclosure must remain in the footer')
     if re.search(r'\{\{[A-Z][A-Z0-9_ -]*\}\}',text): fail(f'{rel}: published page contains an unreplaced template placeholder')
     if 'assets/projects/noney-bsnl-broadband-nms/dashboard.png' in text or 'assets/projects/noney-bsnl-broadband-nms/admin-tools.png' in text:
         fail(f'{rel}: refers to removed operational screenshot')

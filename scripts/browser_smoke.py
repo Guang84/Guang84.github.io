@@ -172,7 +172,7 @@ def run_tests():
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Udyam-registered sole proprietorship'))""",
+                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('GLabNetOps'))""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
@@ -185,9 +185,10 @@ def run_tests():
                 required_content = [
                     "GLab Enterprise",
                     "GLab Ent.",
-                    "Udyam-registered sole proprietorship",
+                    "proprietor-led development model",
+                    "internal AI-assisted systems",
                     "GLabNetOps",
-                    "I’m passionate about building a future where technology and nature coexist harmoniously.",
+                    "We are committed to building a future where technology and nature coexist harmoniously.",
                     "A journey of a thousand miles begins with a single step.",
                 ]
                 for phrase in required_content:
@@ -199,8 +200,12 @@ def run_tests():
                     fail(errors, "About page: contains the rejected introductory label")
                 if page.locator('a[href="https://github.com/Guang84/GLabNetOps"]').count() < 1:
                     fail(errors, "About page: missing GLabNetOps GitHub source link")
-                if page.locator('a[href^="https://udyamregistration.gov.in/verifyudyambarcode.aspx"]').count() < 1:
-                    fail(errors, "About page: missing official Udyam verification link")
+                if page.locator('footer.site-footer a.udyam-verification-link[href^="https://udyamregistration.gov.in/verifyudyambarcode.aspx"]').count() < 1:
+                    fail(errors, "Footer: missing official Udyam verification link")
+                if page.locator('footer.site-footer .udyam-verification-link img[src="/assets/brand/udyam-verification-qr.png"]').count() < 1:
+                    fail(errors, "Footer: missing Udyam QR image")
+                if "Udyam" in about_text:
+                    fail(errors, "About page: Udyam disclosure should be located in the footer only")
             except Exception as exc:
                 fail(errors, f"About page enterprise-profile check failed: {type(exc).__name__}: {exc}")
 
