@@ -706,3 +706,72 @@ html.glab-loader-active body {
 .site-footer .udyam-verification-link small { font-size: .75rem; opacity: .8; }
 .site-footer .udyam-verification-link:hover { border-color: currentColor; }
 @media (max-width: 480px) { .site-footer .udyam-verification-link img { width: 5.5rem; height: 5.56rem; flex-basis: 5.5rem; } }
+
+
+
+/* Reference-style contents panel for project and publication detail pages. */
+.doc-toc {
+  width: min(100%, 70rem);
+  max-width: 70rem;
+  margin: 1.25rem auto clamp(2rem, 4vw, 3.5rem);
+  padding: clamp(1rem, 2.5vw, 1.5rem);
+  border: 0;
+  border-inline-start: 0;
+  border-radius: 0;
+  background: #deebf8;
+  box-shadow: none;
+  color: #287fd2;
+}
+.doc-toc-title {
+  margin: 0 0 1.15rem;
+  color: #287fd2;
+  font-size: 1rem;
+  font-weight: 750;
+  line-height: 1.4;
+}
+.doc-toc ol {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 0.8rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: contents-item;
+}
+.doc-toc li {
+  min-width: 0;
+  line-height: 1.5;
+  counter-increment: contents-item;
+}
+.doc-toc a {
+  display: inline;
+  color: #287fd2;
+  font-size: 1rem;
+  font-weight: 450;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+  overflow-wrap: anywhere;
+}
+.doc-toc a::before {
+  content: counter(contents-item) ". ";
+  text-decoration: none;
+}
+.doc-toc a:hover,
+.doc-toc a:focus-visible {
+  color: #155da8;
+  text-decoration-thickness: 2px;
+}
+.doc-toc a:focus-visible {
+  outline: 2px solid #287fd2;
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+.doc-toc:focus-within {
+  scroll-margin-top: 6rem;
+}
+@media (max-width: 600px) {
+  .doc-toc { padding: 1rem; }
+  .doc-toc ol { gap: 0.75rem; }
+  .doc-toc a { font-size: 0.96rem; }
+}
