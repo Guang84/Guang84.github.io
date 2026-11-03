@@ -775,3 +775,26 @@ html.glab-loader-active body {
   .doc-toc ol { gap: 0.75rem; }
   .doc-toc a { font-size: 0.96rem; }
 }
+
+
+/* Homepage brand mark: a restrained double-pulse heartbeat.
+   This animates the existing image element only; the original brand asset is unchanged. */
+@media (prefers-reduced-motion: no-preference) {
+  body#top .profile-hero .portrait-frame img {
+    transform-origin: 50% 52%;
+    animation: glab-brand-heartbeat 3.6s ease-in-out infinite;
+  }
+}
+@keyframes glab-brand-heartbeat {
+  0%, 100% { transform: scale(1); }
+  7% { transform: scale(1.025); }
+  14% { transform: scale(1); }
+  22% { transform: scale(1.03); }
+  31%, 100% { transform: scale(1); }
+}
+@media (prefers-reduced-motion: reduce) {
+  body#top .profile-hero .portrait-frame img {
+    animation: none;
+    transform: none;
+  }
+}
