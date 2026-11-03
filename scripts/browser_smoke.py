@@ -172,7 +172,7 @@ def run_tests():
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('is an independent technology and engineering enterprise developing practical software, digital products and technical solutions')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Our aim is to develop solutions that are useful, dependable and considerate of the environment'))""",
+                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.trim() === "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products and technical solutions. Our work includes software development, network and infrastructure systems, automation and security-focused tools.") && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.trim() === "Nature comes first. We use technology to solve practical problems and look for better ways to build, improve and maintain the things we create. Our aim is to develop solutions that are useful, dependable and considerate of the environment.")""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
