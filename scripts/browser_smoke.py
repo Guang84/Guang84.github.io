@@ -172,7 +172,7 @@ def run_tests():
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Our work includes software development, network and infrastructure systems')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Nature comes first. We use technology to solve practical problems'))""",
+                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('is an independent technology and engineering enterprise developing practical software, digital products and technical solutions')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Our aim is to develop solutions that are useful, dependable and considerate of the environment'))""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
