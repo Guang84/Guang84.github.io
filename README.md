@@ -9,7 +9,9 @@ This repository contains the public website and technical publications of **GLab
 - Technical publications: https://guang84.github.io/articles/
 - GLabNetOps product page: https://guang84.github.io/projects/glabnetops/
 - Rongmei Hymnal project page: https://guang84.github.io/projects/rongmei-hymnal/
-- Rongmei Hymnal web app: https://guang84.github.io/RongmeiHymnal/
+- Rongmei Hymnal web app (active): https://guang84.github.io/RongmeiHymnal/
+- Noney BSNL Broadband NMS (historical site; production retired): https://guang84.github.io/Noney-BSNL-Broadband-NMS/
+- Network Analyzer v2024 (archived web release): https://guang84.github.io/Network-Analyzer/
 - GLabNetOps GitHub repository: https://github.com/Guang84/GLabNetOps (access restricted)
 - GitHub profile: https://github.com/Guang84
 
