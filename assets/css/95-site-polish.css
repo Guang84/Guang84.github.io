@@ -300,9 +300,9 @@ html[data-palette="forest"] {
   --surface-2: #e4ebe0;
   --ink: #172b21;
   --muted: #52665a;
-  --blue: #286347;
-  --aqua: #286347;
-  --button-bg: #24563d;
+  --blue: #176da5;
+  --aqua: #32865f;
+  --button-bg: #17628f;
   --lime: #d8edda;
   --forest: #162e25;
   --forest-2: #294f3c;
@@ -315,9 +315,9 @@ html[data-theme="dark"] {
   --surface-2: #24362a;
   --ink: #edf4ed;
   --muted: #b5c5b8;
-  --blue: #9bd2ae;
-  --aqua: #9bd2ae;
-  --button-bg: #315f45;
+  --blue: #75bce8;
+  --aqua: #78c99a;
+  --button-bg: #205f86;
   --lime: #2c4934;
   --forest: #0b140e;
   --forest-2: #1b3425;
@@ -796,5 +796,73 @@ html.glab-loader-active body {
   body#top .profile-hero .portrait-frame img {
     animation: none;
     transform: none;
+  }
+}
+
+
+/* System-wide editorial layout safeguard: keep long eyebrow labels inside their column. */
+.detail-section > .eyebrow {
+  width: fit-content;
+  max-width: 100%;
+  min-width: 0;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  line-height: 1.45;
+}
+@media (max-width: 860px) {
+  .detail-section {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1rem;
+  }
+  .detail-section > .eyebrow,
+  .detail-section > h2,
+  .detail-section > .eyebrow ~ *,
+  .detail-section > h2 ~ * {
+    grid-column: 1;
+    grid-row: auto;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+  }
+  .detail-section > .eyebrow {
+    width: fit-content;
+    max-width: 100%;
+  }
+}
+
+/* Consistent enterprise caption used on the profile and About page. */
+.content-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem 0.55rem;
+}
+.brand-caption {
+  color: var(--blue);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+.content-meta-separator {
+  color: var(--aqua);
+}
+
+/* Keep all brand accents aligned with the blue-and-green original mark. */
+:root,
+html[data-palette="forest"] {
+  --blue: #176da5;
+  --aqua: #32865f;
+  --button-bg: #17628f;
+}
+html[data-theme="dark"]:is([data-palette="forest"], [data-palette="sage"]) {
+  --blue: #75bce8;
+  --aqua: #78c99a;
+  --button-bg: #205f86;
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme]):is([data-palette="forest"], [data-palette="sage"]) {
+    --blue: #75bce8;
+    --aqua: #78c99a;
+    --button-bg: #205f86;
   }
 }
