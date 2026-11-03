@@ -2,8 +2,8 @@
   "owner": "GLab Enterprise (GLab Ent.)",
   "name": "GLab Enterprise",
   "url": "https://guang84.github.io/",
-  "version": "15.5.8",
-  "description": "GLab Enterprise develops practical software products, digital systems and engineering solutions guided by Nature · Technology · Innovation.",
+  "version": "15.5.9",
+  "description": "GLab Enterprise develops practical software, digital products and technical solutions across software, networking, infrastructure, automation and security.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
@@ -23,13 +23,13 @@
       "Innovation"
     ],
     "intro": [
-      "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software products, digital systems and technical solutions. Its work brings together software engineering, network and infrastructure systems, automation, and security-aware tooling to address real operational needs.",
-      "Nature comes first in the GLab identity. Technology is a means of addressing practical needs, and innovation is the disciplined process of turning thoughtful ideas into useful solutions. This outlook informs how GLab Ent. considers resources, materials, energy, infrastructure, maintenance and long-term impact. The aim is to develop work that is useful, responsible, reliable and maintainable."
+      "GLab Enterprise (GLab Ent.) develops practical software products, digital systems and technical solutions. Our work includes software development, network and infrastructure systems, automation, and security-focused tools.",
+      "Nature comes first. We use technology to solve practical problems and look for better ways to build, improve and maintain the things we create. We aim to make solutions useful, dependable and considerate of the environment."
     ],
     "statement": "A journey of a thousand miles begins with a single step.",
     "workLine": "Products, services, engineering projects and technical publications developed and published by GLab Enterprise.",
     "interestLine": "Nature · Technology · Innovation",
-    "background": "GLab Enterprise (GLab Ent.) is an independent, proprietor-led technology and engineering enterprise. It is the business identity behind its products and services, the developer of its software and engineering projects, and the publisher of its technical articles, practical guides, research notes and project documentation. GLab Ent. works across software development, networking, broadband infrastructure, cybersecurity, automation and digital systems. Its objective is to understand practical challenges, frame them correctly and develop solutions that are useful, reliable and maintainable. Nature comes first in the GLab identity. Technology is a means of addressing practical needs, and innovation is the disciplined process of turning thoughtful ideas into useful solutions. This outlook informs how GLab Ent. considers resources, materials, energy, infrastructure, maintenance and long-term impact.",
+    "background": "GLab Enterprise (GLab Ent.) is a proprietor-led technology and engineering enterprise. It develops software products and engineering projects, undertakes scoped technical work, and publishes practical guides and project documentation. Its work spans software development, networking, broadband infrastructure, cybersecurity, automation and digital systems. Nature comes first in the GLab identity. GLab aims to solve practical problems and consider the people, places and resources affected by its work.",
     "interests": [
       {
         "title": "Network Operations",
@@ -53,32 +53,32 @@
       },
       {
         "title": "Environmental Responsibility",
-        "description": "Care for the natural environment through thoughtful problem-framing, local awareness, responsible resource use, reduced waste, repair, long-term usability and consideration of the wider effects of infrastructure and technological development."
+        "description": "Nature is considered alongside practical needs: reduce avoidable waste, keep useful equipment in service, and favour repair, reuse and solutions that can be maintained."
       }
     ]
   },
   "importantLinks": [
     {
-      "label": "GLabNetOps product overview",
-      "description": "The enterprise's network-operations and broadband-management product, with component lifecycle and implementation boundaries documented.",
+      "label": "GLabNetOps",
+      "description": "Product overview for GLab’s network-operations and broadband-management work, with component status and access boundaries.",
       "url": "/projects/glabnetops/",
-      "kind": "Enterprise product"
+      "kind": "Product overview"
     },
     {
       "label": "Services",
-      "description": "Project-based engineering capabilities across ISP workflows, monitoring, GIS, software, authorized systems tooling, and technical documentation.",
+      "description": "Project-based software and engineering work across ISP operations, monitoring, GIS, systems tooling and technical documentation.",
       "url": "/services.html",
-      "kind": "Services"
+      "kind": "Work with GLab"
     },
     {
-      "label": "Products and engineering portfolio",
-      "description": "Browse current, in-development, archived, and retired project records with their published status.",
-      "url": "/projects/",
-      "kind": "Portfolio"
+      "label": "Rongmei Hymnal",
+      "description": "Open the deployed offline-first digital library. Content review and attribution are ongoing.",
+      "url": "https://guang84.github.io/RongmeiHymnal/",
+      "kind": "Open web app"
     },
     {
       "label": "Technical publications",
-      "description": "Read practical guides, engineering notes, product stories, and research-led articles.",
+      "description": "Practical guides, engineering notes, project stories and research from GLab.",
       "url": "/articles/",
       "kind": "Publications"
     }
