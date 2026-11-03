@@ -977,3 +977,25 @@ main :is(h2[id], section[id]) {
   .doc-toc ol, .page-map ol { grid-template-columns: minmax(0, 1fr); gap: 0.55rem; }
   .doc-toc a, .page-map a { font-size: 0.94rem; }
 }
+
+/* Navigation refinement (2026-11-04): use the GLab forest palette for visible
+   page contents markers in light mode; retain the high-contrast blue accent
+   already defined for dark mode. */
+html:not([data-theme="dark"]) .page-map {
+  border-inline-start-color: var(--forest-2);
+  background: color-mix(in srgb, var(--surface) 92%, var(--aqua) 8%);
+}
+html:not([data-theme="dark"]) .page-map-title {
+  color: var(--forest-2);
+}
+html:not([data-theme="dark"]) .page-map a {
+  color: var(--forest-2);
+}
+html:not([data-theme="dark"]) .page-map a::before {
+  color: var(--aqua);
+}
+html:not([data-theme="dark"]) .page-map a:hover,
+html:not([data-theme="dark"]) .page-map a:focus-visible,
+html:not([data-theme="dark"]) .page-map a[aria-current="location"] {
+  color: var(--forest);
+}
