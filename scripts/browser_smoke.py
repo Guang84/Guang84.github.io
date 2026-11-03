@@ -192,7 +192,7 @@ def run_tests():
                 required_content = [
                     "GLab Enterprise",
                     "GLab Ent.",
-                    "GLab is proprietor-led.",
+                    "GLab Enterprise is proprietor-led.",
                     "AI tools and other technical resources may assist with research, planning and documentation",
                     "GLabNetOps",
                     "Nature · Technology · Innovation",
@@ -204,6 +204,9 @@ def run_tests():
                     "Choose the right approach",
                     "repair and reuse",
                     "open the web app",
+                    "Apps and project sites",
+                    "Open the historical site",
+                    "Open the archived site",
                     "On This Page",
                     "Browse products and projects",
                     "We are committed to building a future where technology and nature coexist harmoniously.",
