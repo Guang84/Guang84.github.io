@@ -235,8 +235,8 @@ def run_tests():
                         fail(errors, f"{route}: expected one Content panel")
                         continue
                     heading = toc.locator(".doc-toc-title")
-                    if heading.count() != 1 or heading.inner_text().strip() != "Content:":
-                        fail(errors, f"{route}: missing visible Content heading")
+                    if heading.count() != 1 or heading.inner_text().strip() != "On This Page":
+                        fail(errors, f"{route}: missing visible On This Page heading")
                     if toc.locator("details, summary").count() != 0:
                         fail(errors, f"{route}: Content panel must not be collapsed")
                     links = toc.locator('a[href^="#"]')
@@ -246,11 +246,29 @@ def run_tests():
                         href = links.nth(index).get_attribute("href") or ""
                         if not href.startswith("#") or page.locator(f'[id="{href[1:]}"]').count() != 1:
                             fail(errors, f"{route}: broken Content link {href!r}")
-                    bg = toc.evaluate("(node) => getComputedStyle(node).backgroundColor")
-                    if bg != "rgb(222, 235, 248)":
-                        fail(errors, f"{route}: unexpected Content panel background {bg}")
             except Exception as exc:
                 fail(errors, f"Project/article Content panel check failed: {type(exc).__name__}: {exc}")
+
+            # Static page maps cover major enterprise pages and resolve to real headings.
+            try:
+                for route in ("/", "/about.html", "/services.html", "/contact.html"):
+                    page.goto(base_url + route, wait_until="load")
+                    page_map = page.locator("nav.page-map")
+                    if page_map.count() != 1:
+                        fail(errors, f"{route}: expected one generated On This Page map")
+                        continue
+                    heading = page_map.locator(".page-map-title")
+                    if heading.count() != 1 or heading.inner_text().strip() != "On This Page":
+                        fail(errors, f"{route}: missing visible On This Page heading")
+                    links = page_map.locator('a[href^="#"]')
+                    if links.count() < 2:
+                        fail(errors, f"{route}: generated page map needs at least two links")
+                    for index in range(links.count()):
+                        href = links.nth(index).get_attribute("href") or ""
+                        if not href.startswith("#") or page.locator(f'[id="{href[1:]}"]').count() != 1:
+                            fail(errors, f"{route}: broken generated page-map link {href!r}")
+            except Exception as exc:
+                fail(errors, f"Generated page-map check failed: {type(exc).__name__}: {exc}")
 
             # Search should return the ChatGPT guide through the generated index.
             try:

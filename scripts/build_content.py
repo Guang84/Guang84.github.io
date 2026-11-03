@@ -312,6 +312,164 @@ def validate_site_config() -> list[str]:
         errors.append("data/config/site.json must specify a site version")
     return errors
 
+
+class PageContentsParser(HTMLParser):
+    """Collect meaningful H2 headings inside main, excluding hero, cards and footer UI."""
+    VOID_TAGS = {"area", "base", "br", "col", "embed", "hr", "img", "input", "link", "meta", "param", "source", "track", "wbr"}
+    SKIP_CLASSES = {"doc-toc", "page-map", "project-card", "writing-item", "archive-card", "guide-card", "important-link-card", "interest-card", "project-grid", "writing-list", "archive-grid", "interest-grid", "important-links-grid", "guide-stack"}
+
+    def __init__(self, source: str):
+        super().__init__(convert_charrefs=True)
+        self.line_offsets = [0]
+        for match in re.finditer("\n", source):
+            self.line_offsets.append(match.end())
+        self.stack = []
+        self.headings = []
+        self.ids = set()
+        self.current = None
+
+    def offset(self) -> int:
+        line, column = self.getpos()
+        return self.line_offsets[line - 1] + column
+
+    def handle_starttag(self, tag, attrs):
+        values = dict(attrs)
+        classes = set((values.get("class") or "").split())
+        position = self.offset()
+        start_tag = self.get_starttag_text() or ""
+        inside_main = any(item["tag"] == "main" for item in self.stack)
+        skipped = any(item["skip"] for item in self.stack)
+        if values.get("id"):
+            self.ids.add(values["id"])
+
+        if tag == "h2" and inside_main and not skipped and "doc-toc-title" not in classes and "page-map-title" not in classes:
+            section = next((item for item in reversed(self.stack) if item["tag"] == "section"), None)
+            self.current = {
+                "text": [],
+                "attrs": values,
+                "start": position,
+                "end": position + len(start_tag),
+                "section_start": section["start"] if section else None,
+            }
+
+        own_skip = (
+            tag == "footer"
+            or tag == "nav" and bool(classes & self.SKIP_CLASSES)
+            or bool(classes & self.SKIP_CLASSES)
+            or "data-content-root" in values
+            or tag == "header" and "content-hero" in classes
+        )
+        if tag not in self.VOID_TAGS:
+            self.stack.append({"tag": tag, "start": position, "skip": own_skip})
+
+    def handle_data(self, data):
+        if self.current is not None:
+            self.current["text"].append(data)
+
+    def handle_endtag(self, tag):
+        if tag == "h2" and self.current is not None:
+            self.current["label"] = re.sub(r"\s+", " ", "".join(self.current["text"])).strip()
+            self.headings.append(self.current)
+            self.current = None
+        for index in range(len(self.stack) - 1, -1, -1):
+            if self.stack[index]["tag"] == tag:
+                del self.stack[index:]
+                break
+
+
+def _page_heading_id(label: str, used: set[str], number: int) -> str:
+    slug = re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-") or f"section-{number}"
+    candidate = slug
+    suffix = 2
+    while candidate in used:
+        candidate = f"{slug}-{suffix}"
+        suffix += 1
+    used.add(candidate)
+    return candidate
+
+
+def generate_page_contents() -> int:
+    """Generate static On This Page navigation from each eligible page's H2 headings."""
+    changed = 0
+    for public_path in public_files():
+        if not public_path.endswith(".html"):
+            continue
+        path = ROOT / public_path.lstrip("/")
+        if not path.is_file():
+            continue
+        source = path.read_text(encoding="utf-8")
+        if re.search(r"""<meta\b(?=[^>]*\bname=["']robots["'])(?=[^>]*\bcontent=["'][^"']*noindex)""", source, re.I):
+            continue
+
+        # Curated article and project maps keep their authored section ordering.
+        if re.search(r"""<nav\b(?=[^>]*\bclass=["'][^"']*\bdoc-toc\b[^"']*["'])""", source, re.I):
+            updated = re.sub(
+                r'(<h2\b[^>]*class=["\'][^"\']*doc-toc-title[^"\']*["\'][^>]*>).*?(</h2>)',
+                r'\1On This Page\2',
+                source,
+                count=1,
+                flags=re.I | re.S,
+            )
+            if updated != source:
+                path.write_text(updated, encoding="utf-8")
+                changed += 1
+            continue
+
+        # Rebuild generated maps every time so heading edits cannot leave stale links.
+        source = re.sub(
+            r'<nav\b(?=[^>]*\bclass=["\'][^"\']*\bpage-map\b[^"\']*["\'])[^>]*>[\s\S]*?</nav>\s*',
+            '',
+            source,
+            count=1,
+            flags=re.I,
+        )
+        parser = PageContentsParser(source)
+        parser.feed(source)
+        candidates = [item for item in parser.headings if item.get("label")]
+        if len(candidates) < 2:
+            if path.read_text(encoding="utf-8") != source:
+                path.write_text(source, encoding="utf-8")
+                changed += 1
+            continue
+
+        used = set(parser.ids)
+        links = []
+        tag_patches = []
+        seen = set()
+        for number, heading in enumerate(candidates, start=1):
+            anchor = heading["attrs"].get("id")
+            if not anchor:
+                anchor = _page_heading_id(heading["label"], used, number)
+                tag = source[heading["start"]:heading["end"]]
+                replacement = re.sub(r">$", f' id="{escape(anchor, quote=True)}">', tag)
+                tag_patches.append((heading["start"], heading["end"], replacement))
+            if anchor in seen:
+                continue
+            seen.add(anchor)
+            links.append(
+                f'<li><a href="#{escape(anchor, quote=True)}" data-page-map-link="">{escape(heading["label"])}</a></li>'
+            )
+
+        if len(links) < 2:
+            if path.read_text(encoding="utf-8") != source:
+                path.write_text(source, encoding="utf-8")
+                changed += 1
+            continue
+
+        first = candidates[0]
+        insertion = first["section_start"] if first["section_start"] is not None else first["start"]
+        nav = (
+            '<nav class="page-map" aria-label="On this page">'
+            '<h2 class="page-map-title">On This Page</h2>'
+            '<ol>' + "".join(links) + '</ol></nav>\n'
+        )
+        patches = tag_patches + [(insertion, insertion, nav)]
+        for start, end, replacement in sorted(patches, key=lambda item: (item[0], item[1]), reverse=True):
+            source = source[:start] + replacement + source[end:]
+        path.write_text(source, encoding="utf-8")
+        changed += 1
+    return changed
+
 def build(write: bool, stage: bool) -> list[str]:
     errors=[]
     errors.extend(validate_site_config())
@@ -325,6 +483,7 @@ def build(write: bool, stage: bool) -> list[str]:
         config=json.loads((ROOT/'data/config/site.json').read_text(encoding='utf-8'))
         update_archive(ROOT/'articles/index.html','articles',articles)
         update_archive(ROOT/'projects/index.html','projects',projects)
+        generate_page_contents()
         build_search_index(projects,articles)
         build_feed(articles,config)
         build_sitemap(projects,articles)
