@@ -888,3 +888,8 @@ html[data-theme="dark"]:is([data-palette="forest"], [data-palette="sage"]) {
 .support-upi-id { margin: .3rem 0 .8rem; overflow-wrap: anywhere; font-size: clamp(1.15rem, 2.5vw, 1.5rem); }
 .support-copy-status { min-height: 1.4em; color: var(--muted); font-size: .85rem; }
 @media (max-width: 600px) { .support-section .support-payment { grid-template-columns: minmax(0, 1fr); } }
+
+
+/* Footer business contact link */
+.footer-contact-link{display:inline-flex;align-items:center;gap:.35rem;margin:.25rem 0 .65rem;color:var(--blue);font-size:.9rem;font-weight:650;text-decoration-thickness:1px;text-underline-offset:.2em;overflow-wrap:anywhere}
+.footer-contact-link:hover,.footer-contact-link:focus-visible{color:var(--aqua)}
