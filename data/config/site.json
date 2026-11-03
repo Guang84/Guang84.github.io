@@ -3,7 +3,7 @@
   "name": "GLab Enterprise",
   "url": "https://guang84.github.io/",
   "version": "15.5.8",
-  "description": "GLab Enterprise (GLab Ent.) develops practical software products, digital systems and engineering solutions guided by Technology, Engineering and Nature.",
+  "description": "GLab Enterprise develops practical software products and engineering solutions guided by Nature, Technology and Innovation.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
@@ -18,9 +18,9 @@
   "profile": {
     "greeting": "GLab Enterprise",
     "roles": [
+      "Nature",
       "Technology",
-      "Engineering",
-      "Nature"
+      "Innovation"
     ],
     "intro": [
       "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise dedicated to developing practical software, digital products and technical solutions. Its work brings together software development, network and infrastructure engineering, and problem-solving grounded in real-world needs.",
@@ -28,7 +28,7 @@
     ],
     "statement": "A journey of a thousand miles begins with a single step.",
     "workLine": "Products, engineering services and technical publications developed and published by GLab Enterprise.",
-    "interestLine": "Technology · Engineering · Nature — practical problem-solving, responsible design, maintainable systems and care for the natural environment.",
+    "interestLine": "Nature · Technology · Innovation",
     "background": "GLab Enterprise (GLab Ent.) is an independent, proprietor-led technology and engineering enterprise based in Manipur, India. It is the business identity behind its products and services, the developer of its software and engineering projects, and the publisher of its technical articles, practical guides, research notes and project documentation. GLab Ent. works across software development, networking, broadband infrastructure, cybersecurity, automation and digital systems. Its objective is to understand practical challenges, frame them correctly and develop solutions that are useful, reliable and maintainable. Environmental responsibility is an integral part of this approach. Care for the natural environment is an integral part of the GLab philosophy. An environmentalist outlook means considering the relationship between technology, people, communities and nature before deciding how a problem should be solved. This includes understanding local conditions, using resources thoughtfully, reducing unnecessary waste, favouring repair and long-term usability, and considering the wider consequences of infrastructure and technological development.",
     "interests": [
       {

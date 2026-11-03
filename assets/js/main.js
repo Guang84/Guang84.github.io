@@ -16,6 +16,7 @@ import { initPWA } from "./features/pwa.js";
 import { initShare } from "./features/share.js";
 import { initCodeCopy } from "./features/code-copy.js";
 import { initContent } from "./features/content.js";
+import { initSupportCopy } from "./features/support-copy.js";
 
 
 let glabLoaderFallbackTimer = null;
@@ -160,6 +161,7 @@ const FEATURES = [
   ["pwa", initPWA],
   ["share", initShare],
   ["code-copy", initCodeCopy],
+  ["support-copy", initSupportCopy],
   ["ads", initAds],
 ];
 
