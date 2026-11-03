@@ -178,6 +178,13 @@ def run_tests():
             except PlaywrightTimeoutError:
                 fail(errors, "Home page: enterprise identity or official introduction did not render from site configuration")
 
+            # Shared site navigation and brand caption must remain consistent.
+            expected_navigation = ["Products & Projects", "Engineering Services", "Publications", "About GLab", "Contact"]
+            for selector in ("nav.nav", "[data-mobile-menu] nav"):
+                nav_text = page.locator(selector).text_content() or ""
+                for label in expected_navigation:
+                    if label not in nav_text:
+                        fail(errors, f"Navigation {selector}: missing label {label}")
             # The About page must represent the enterprise and retain its explicit guiding statements.
             try:
                 page.goto(base_url + "/about.html", wait_until="load")
@@ -188,8 +195,9 @@ def run_tests():
                     "proprietor-led development model",
                     "internal AI-assisted systems",
                     "GLabNetOps",
-                    "Identity, Engineering",
-                    "Environmental Responsibility",
+                    "Technology · Engineering · Nature",
+                    "Technology · Engineering · Nature",
+                    "Environmental responsibility as part of engineering",
                     "the business identity behind its products and services",
                     "publisher of its technical articles, practical guides, research notes and project documentation",
                     "GLab Ent. works across software development, networking, broadband infrastructure, cybersecurity, automation and digital systems.",
