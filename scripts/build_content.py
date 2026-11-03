@@ -328,14 +328,14 @@ class PageContentsParser(HTMLParser):
         self.ids = set()
         self.current = None
 
-    def offset(self) -> int:
+    def source_offset(self) -> int:
         line, column = self.getpos()
         return self.line_offsets[line - 1] + column
 
     def handle_starttag(self, tag, attrs):
         values = dict(attrs)
         classes = set((values.get("class") or "").split())
-        position = self.offset()
+        position = self.source_offset()
         start_tag = self.get_starttag_text() or ""
         inside_main = any(item["tag"] == "main" for item in self.stack)
         skipped = any(item["skip"] for item in self.stack)
