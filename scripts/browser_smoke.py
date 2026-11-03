@@ -188,15 +188,14 @@ def run_tests():
             # The About page must represent the enterprise and retain its explicit guiding statements.
             try:
                 page.goto(base_url + "/about.html", wait_until="load")
-                about_text = page.locator("main").inner_text()
+                about_text = page.locator("main").text_content() or ""
                 required_content = [
                     "GLab Enterprise",
                     "GLab Ent.",
                     "proprietor-led development model",
                     "internal AI-assisted systems",
                     "GLabNetOps",
-                    "Technology · Engineering · Nature",
-                    "Technology · Engineering · Nature",
+                    "Nature · Technology · Innovation",
                     "Environmental responsibility as part of engineering",
                     "the business identity behind its products and services",
                     "publisher of its technical articles, practical guides, research notes and project documentation",
@@ -235,7 +234,7 @@ def run_tests():
                         fail(errors, f"{route}: expected one Content panel")
                         continue
                     heading = toc.locator(".doc-toc-title")
-                    if heading.count() != 1 or heading.inner_text().strip() != "On This Page":
+                    if heading.count() != 1 or heading.text_content().strip() != "On This Page":
                         fail(errors, f"{route}: missing visible On This Page heading")
                     if toc.locator("details, summary").count() != 0:
                         fail(errors, f"{route}: Content panel must not be collapsed")
@@ -258,7 +257,7 @@ def run_tests():
                         fail(errors, f"{route}: expected one generated On This Page map")
                         continue
                     heading = page_map.locator(".page-map-title")
-                    if heading.count() != 1 or heading.inner_text().strip() != "On This Page":
+                    if heading.count() != 1 or heading.text_content().strip() != "On This Page":
                         fail(errors, f"{route}: missing visible On This Page heading")
                     links = page_map.locator('a[href^="#"]')
                     if links.count() < 2:
