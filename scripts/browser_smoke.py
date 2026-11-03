@@ -172,7 +172,7 @@ def run_tests():
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('developing practical software products, digital systems and technical solutions')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Nature comes first in the GLab identity'))""",
+                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Our work includes software development, network and infrastructure systems')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Nature comes first. We use technology to solve practical problems'))""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
@@ -192,20 +192,20 @@ def run_tests():
                 required_content = [
                     "GLab Enterprise",
                     "GLab Ent.",
-                    "proprietor-led development model",
-                    "internal AI-assisted systems",
+                    "GLab is proprietor-led.",
+                    "AI tools and other technical resources may assist with research, planning and documentation",
                     "GLabNetOps",
                     "Nature · Technology · Innovation",
-                    "Environmental responsibility as part of engineering",
-                    "the business identity behind its products and services",
-                    "publisher of its technical articles, practical guides, research notes and project documentation",
-                    "GLab Ent. works across software development, networking, broadband infrastructure, cybersecurity, automation and digital systems.",
-                    "independent, proprietor-led technology and engineering enterprise",
-                    "operating context and resource constraints",
-                    "understand practical challenges, frame them correctly",
-                    "Care for the natural environment is an integral part of the GLab philosophy.",
-                    "considering the relationship between technology, people, communities and nature",
-                    "reducing unnecessary waste, favouring repair and long-term usability",
+                    "Nature comes first",
+                    "The work spans software development, networking and broadband infrastructure",
+                    "GLab builds software for network operations and broadband workflows",
+                    "Project pages show what is available, what is still being developed",
+                    "How we work",
+                    "Choose the right approach",
+                    "repair and reuse",
+                    "open the web app",
+                    "On This Page",
+                    "Browse products and projects",
                     "We are committed to building a future where technology and nature coexist harmoniously.",
                     "A journey of a thousand miles begins with a single step.",
                 ]
@@ -216,10 +216,19 @@ def run_tests():
                     fail(errors, "About page: regional location text must remain absent")
                 if "Hi, I’m Guang" in about_text:
                     fail(errors, "About page: still uses the personal homepage greeting")
-                if "Two principles continue to guide" in about_text:
-                    fail(errors, "About page: contains the rejected introductory label")
+                if "This outlook informs how GLab Ent. considers resources" in about_text or "The aim is to develop work that is useful, responsible, reliable and maintainable" in about_text:
+                    fail(errors, "About page: contains the rejected generated-sounding introduction")
+                contents = page.locator("nav.page-map")
+                if contents.count() != 1 or contents.locator(".page-map-title").text_content().strip() != "On This Page":
+                    fail(errors, "About page: missing visible On This Page contents map")
+                for anchor in contents.locator("a[href^='#']").all():
+                    target = anchor.get_attribute("href")
+                    if not target or page.locator(target).count() != 1:
+                        fail(errors, f"About page: contents link has no unique target: {target}")
                 if page.locator('a[href="https://github.com/Guang84/GLabNetOps"]').count() < 1:
                     fail(errors, "About page: missing GLabNetOps GitHub source link")
+                if page.locator('a[href="https://guang84.github.io/RongmeiHymnal/"]').count() < 1:
+                    fail(errors, "About page: missing deployed Rongmei Hymnal app link")
                 if page.locator('footer.site-footer a.udyam-verification-link[href^="https://udyamregistration.gov.in/verifyudyambarcode.aspx"]').count() < 1:
                     fail(errors, "Footer: missing official Udyam verification link")
                 if page.locator('footer.site-footer .udyam-verification-link img[src="/assets/brand/udyam-verification-qr.png"]').count() < 1:
