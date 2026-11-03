@@ -3,7 +3,7 @@
   "name": "GLab Enterprise",
   "url": "https://guang84.github.io/",
   "version": "15.5.8",
-  "description": "GLab Enterprise brings together Nature · Technology · Innovation through practical software products, digital systems and responsible engineering.",
+  "description": "GLab Enterprise develops practical software products, digital systems and engineering solutions guided by Nature · Technology · Innovation.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
@@ -23,13 +23,13 @@
       "Innovation"
     ],
     "intro": [
-      "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise dedicated to developing practical software, digital products and technical solutions. Its work brings together software development, network and infrastructure engineering, and problem-solving grounded in real-world needs.",
-      "Environmental responsibility is an integral part of this approach. GLab Ent. values the natural environment and considers how technology, materials, energy, infrastructure and human activities affect the world around us. From understanding a problem to designing, building and improving a solution, the aim is to create technology that is useful, responsible, maintainable and considerate of its wider impact."
+      "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software products, digital systems and technical solutions. Its work brings together software engineering, network and infrastructure systems, automation, and security-aware tooling to address real operational needs.",
+      "Nature comes first in the GLab identity. Technology is a means of addressing practical needs, and innovation is the disciplined process of turning thoughtful ideas into useful solutions. This outlook informs how GLab Ent. considers resources, materials, energy, infrastructure, maintenance and long-term impact. The aim is to develop work that is useful, responsible, reliable and maintainable."
     ],
     "statement": "A journey of a thousand miles begins with a single step.",
-    "workLine": "Products, engineering services and technical publications developed and published by GLab Enterprise.",
+    "workLine": "Products, services, engineering projects and technical publications developed and published by GLab Enterprise.",
     "interestLine": "Nature · Technology · Innovation",
-    "background": "GLab Enterprise (GLab Ent.) is an independent, proprietor-led technology and engineering enterprise based in Manipur, India. It is the business identity behind its products and services, the developer of its software and engineering projects, and the publisher of its technical articles, practical guides, research notes and project documentation. GLab Ent. works across software development, networking, broadband infrastructure, cybersecurity, automation and digital systems. Its objective is to understand practical challenges, frame them correctly and develop solutions that are useful, reliable and maintainable. Environmental responsibility is an integral part of this approach. Care for the natural environment is an integral part of the GLab philosophy. An environmentalist outlook means considering the relationship between technology, people, communities and nature before deciding how a problem should be solved. This includes understanding local conditions, using resources thoughtfully, reducing unnecessary waste, favouring repair and long-term usability, and considering the wider consequences of infrastructure and technological development.",
+    "background": "GLab Enterprise (GLab Ent.) is an independent, proprietor-led technology and engineering enterprise. It is the business identity behind its products and services, the developer of its software and engineering projects, and the publisher of its technical articles, practical guides, research notes and project documentation. GLab Ent. works across software development, networking, broadband infrastructure, cybersecurity, automation and digital systems. Its objective is to understand practical challenges, frame them correctly and develop solutions that are useful, reliable and maintainable. Nature comes first in the GLab identity. Technology is a means of addressing practical needs, and innovation is the disciplined process of turning thoughtful ideas into useful solutions. This outlook informs how GLab Ent. considers resources, materials, energy, infrastructure, maintenance and long-term impact.",
     "interests": [
       {
         "title": "Network Operations",
@@ -65,7 +65,7 @@
       "kind": "Enterprise product"
     },
     {
-      "label": "Services and technical capabilities",
+      "label": "Services",
       "description": "Project-based engineering capabilities across ISP workflows, monitoring, GIS, software, authorized systems tooling, and technical documentation.",
       "url": "/services.html",
       "kind": "Services"

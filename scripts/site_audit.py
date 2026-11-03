@@ -70,6 +70,8 @@ for page in html_files:
         image_count += 1
         if not has_alt: fail(f'{rel}: image missing alt attribute: {src}')
     text=page.read_text(encoding='utf-8')
+    if rel == "about.html" and re.search(r"\b(?:Manipur|Northeast India|North-East India)\b", text, re.I):
+        fail("about.html: regional location text must remain absent from the enterprise profile")
     footer_match = re.search(r'<footer\b(?=[^>]*\bclass=["\'][^"\']*\bsite-footer\b[^"\']*["\'])[^>]*>[\s\S]*?</footer>', text, re.I)
     if not footer_match:
         fail(f'{rel}: missing enterprise footer component')
@@ -80,6 +82,7 @@ for page in html_files:
             "We are committed to building a future where technology and nature coexist harmoniously.",
             "/assets/brand/udyam-verification-qr.png",
             "https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=",
+            "Official enterprise website",
         ):
             if required not in footer_html:
                 fail(f'{rel}: footer missing required enterprise identity or Udyam verification element: {required}')
@@ -166,12 +169,22 @@ for rel, (page, parser) in parsed_pages.items():
         )
         if not primary_nav or not re.search(r"""href=["']/contact\.html["']""", primary_nav.group(1), re.I):
             fail(f'{rel}: missing Contact link in primary navigation')
+        if primary_nav:
+            if not re.search(r"""<a\b(?=[^>]*href=["']/services\.html["'])[^>]*>Services</a>""", primary_nav.group(1), re.I):
+                fail(f'{rel}: primary navigation must label /services.html as Services')
+            if "Engineering Services" in primary_nav.group(1):
+                fail(f'{rel}: legacy Engineering Services navigation label remains')
         mobile_menu = re.search(
             r"""<div\b(?=[^>]*\bclass=["'][^"']*\bmobile-menu\b[^"']*["'])[^>]*>([\s\S]*?)</div>""",
             raw_page, re.I
         )
         if not mobile_menu or not re.search(r"""href=["']/contact\.html["']""", mobile_menu.group(1), re.I):
             fail(f'{rel}: missing Contact link in mobile navigation')
+        if mobile_menu:
+            if not re.search(r"""<a\b(?=[^>]*href=["']/services\.html["'])[^>]*>Services</a>""", mobile_menu.group(1), re.I):
+                fail(f'{rel}: mobile navigation must label /services.html as Services')
+            if "Engineering Services" in mobile_menu.group(1):
+                fail(f'{rel}: legacy Engineering Services label remains in mobile navigation')
 
 for rel,(page,parser) in parsed_pages.items():
     for attr,value in parser.refs:

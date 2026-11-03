@@ -172,14 +172,14 @@ def run_tests():
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('dedicated to developing practical software, digital products and technical solutions')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Environmental responsibility is an integral part of this approach'))""",
+                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('developing practical software products, digital systems and technical solutions')) && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.includes('Nature comes first in the GLab identity'))""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
                 fail(errors, "Home page: enterprise identity or official introduction did not render from site configuration")
 
             # Shared site navigation and brand caption must remain consistent.
-            expected_navigation = ["Products & Projects", "Engineering Services", "Publications", "About GLab", "Contact"]
+            expected_navigation = ["Products & Projects", "Services", "Publications", "About GLab", "Contact"]
             for selector in ("nav.nav", "[data-mobile-menu] nav"):
                 nav_text = page.locator(selector).text_content() or ""
                 for label in expected_navigation:
@@ -200,6 +200,8 @@ def run_tests():
                     "the business identity behind its products and services",
                     "publisher of its technical articles, practical guides, research notes and project documentation",
                     "GLab Ent. works across software development, networking, broadband infrastructure, cybersecurity, automation and digital systems.",
+                    "independent, proprietor-led technology and engineering enterprise",
+                    "operating context and resource constraints",
                     "understand practical challenges, frame them correctly",
                     "Care for the natural environment is an integral part of the GLab philosophy.",
                     "considering the relationship between technology, people, communities and nature",
@@ -210,6 +212,8 @@ def run_tests():
                 for phrase in required_content:
                     if phrase not in about_text:
                         fail(errors, f"About page: missing enterprise content: {phrase}")
+                if "Manipur" in about_text or "Northeast" in about_text:
+                    fail(errors, "About page: regional location text must remain absent")
                 if "Hi, I’m Guang" in about_text:
                     fail(errors, "About page: still uses the personal homepage greeting")
                 if "Two principles continue to guide" in about_text:
@@ -224,6 +228,35 @@ def run_tests():
                     fail(errors, "About page: Udyam disclosure should be located in the footer only")
             except Exception as exc:
                 fail(errors, f"About page enterprise-profile check failed: {type(exc).__name__}: {exc}")
+
+            # Legal pages must reflect the actual public website features and the separate product terms boundary.
+            try:
+                legal_checks = {
+                    "/privacy.html": [
+                        "Privacy notice",
+                        "Hosting and security records",
+                        "Browser preferences and offline files",
+                        "Google AdSense advertising code",
+                        "Your choices and privacy requests",
+                    ],
+                    "/terms.html": [
+                        "Terms of use",
+                        "Services, products and separate agreements",
+                        "Intellectual property and permitted use",
+                        "Responsible use of technical and security material",
+                        "Privacy notice",
+                    ],
+                }
+                for route, phrases in legal_checks.items():
+                    page.goto(base_url + route, wait_until="load")
+                    legal_text = page.locator("main").text_content() or ""
+                    for phrase in phrases:
+                        if phrase not in legal_text:
+                            fail(errors, f"{route}: missing policy content: {phrase}")
+                    if "Last updated: November 4, 2026." not in legal_text:
+                        fail(errors, f"{route}: missing current policy revision date")
+            except Exception as exc:
+                fail(errors, f"Legal policy page check failed: {type(exc).__name__}: {exc}")
 
             # The project/article contents panel must be visible, single-column and link to real sections.
             try:
