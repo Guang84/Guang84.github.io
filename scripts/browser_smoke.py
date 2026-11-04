@@ -172,7 +172,7 @@ def run_tests():
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.trim() === "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products and technical solutions. Our work includes software development, network and infrastructure systems, automation and security-focused tools.") && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.trim() === "Nature comes first. We use technology to solve practical problems and look for better ways to build, improve and maintain the things we create. Our aim is to develop solutions that are useful, dependable and considerate of the environment.")""",
+                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.trim() === "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products, and technical solutions. Driven by creativity, technological exploration, and a spirit of innovation, GLab is committed to developing useful technologies that address practical needs, encourage new possibilities, and contribute to meaningful progress.") && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.trim() === "Alongside technological development, GLab values the natural environment and aspires to contribute to a future where technology and nature co-exist in harmony. Its approach reflects a commitment to responsible innovation while recognising the importance of the natural world. GLab believes that technological advancement, innovative thinking, and environmental awareness can complement one another, encouraging a more balanced and sustainable approach to the future.")""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
@@ -196,7 +196,7 @@ def run_tests():
                     "AI tools and other technical resources may assist with research, planning and documentation",
                     "GLabNetOps",
                     "Nature · Technology · Innovation",
-                    "Nature comes first",
+                    "Nature, technology & innovation",
                     "The work spans software development, networking and broadband infrastructure",
                     "GLab builds software for network operations and broadband workflows",
                     "Project pages show what is available, what is still being developed",
@@ -209,7 +209,7 @@ def run_tests():
                     "Open the archived site",
                     "On This Page",
                     "Browse products and projects",
-                    "We are committed to building a future where technology and nature coexist harmoniously.",
+                    "GLab aspires to a future where technology and nature co-exist in harmony, guided by thoughtful and responsible innovation.",
                     "A journey of a thousand miles begins with a single step.",
                 ]
                 for phrase in required_content:

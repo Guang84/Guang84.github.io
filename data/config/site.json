@@ -2,8 +2,8 @@
   "owner": "GLab Enterprise (GLab Ent.)",
   "name": "GLab Enterprise",
   "url": "https://guang84.github.io/",
-  "version": "15.5.9",
-  "description": "GLab Enterprise develops practical software, digital products and technical solutions across software, networking, infrastructure, automation and security.",
+  "version": "15.5.10",
+  "description": "GLab Enterprise is an independent technology and engineering enterprise developing practical software, digital products and technical solutions, guided by innovation and a vision for technology and nature to co-exist in harmony.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
@@ -23,13 +23,13 @@
       "Innovation"
     ],
     "intro": [
-      "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products and technical solutions. Our work includes software development, network and infrastructure systems, automation and security-focused tools.",
-      "Nature comes first. We use technology to solve practical problems and look for better ways to build, improve and maintain the things we create. Our aim is to develop solutions that are useful, dependable and considerate of the environment."
+      "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products, and technical solutions. Driven by creativity, technological exploration, and a spirit of innovation, GLab is committed to developing useful technologies that address practical needs, encourage new possibilities, and contribute to meaningful progress.",
+      "Alongside technological development, GLab values the natural environment and aspires to contribute to a future where technology and nature co-exist in harmony. Its approach reflects a commitment to responsible innovation while recognising the importance of the natural world. GLab believes that technological advancement, innovative thinking, and environmental awareness can complement one another, encouraging a more balanced and sustainable approach to the future."
     ],
     "statement": "A journey of a thousand miles begins with a single step.",
     "workLine": "Products, services, engineering projects and technical publications developed and published by GLab Enterprise.",
     "interestLine": "Nature · Technology · Innovation",
-    "background": "GLab Enterprise (GLab Ent.) is a proprietor-led technology and engineering enterprise. It develops software products and engineering projects, undertakes scoped technical work, and publishes practical guides and project documentation. Its work spans software development, networking, broadband infrastructure, cybersecurity, automation and digital systems. Nature comes first. GLab considers the people and places affected by its work, along with the resources a solution needs.",
+    "background": "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products, and technical solutions. Driven by creativity, technological exploration, and a spirit of innovation, GLab is committed to developing useful technologies that address practical needs, encourage new possibilities, and contribute to meaningful progress. Alongside technological development, GLab values the natural environment and aspires to contribute to a future where technology and nature co-exist in harmony. Its approach reflects a commitment to responsible innovation while recognising the importance of the natural world. GLab believes that technological advancement, innovative thinking, and environmental awareness can complement one another, encouraging a more balanced and sustainable approach to the future.",
     "interests": [
       {
         "title": "Network Operations",
@@ -53,7 +53,7 @@
       },
       {
         "title": "Environmental Responsibility",
-        "description": "Nature is considered alongside practical needs: reduce avoidable waste, keep useful equipment in service, and favour repair, reuse and solutions that can be maintained."
+        "description": "GLab values the natural environment and considers environmental awareness alongside practical needs, favouring repair, reuse, reduced waste and solutions that can be maintained."
       }
     ]
   },

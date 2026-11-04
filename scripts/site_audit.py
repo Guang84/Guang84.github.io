@@ -79,7 +79,7 @@ for page in html_files:
         footer_html = footer_match.group(0)
         for required in (
             "A journey of a thousand miles begins with a single step.",
-            "We are committed to building a future where technology and nature coexist harmoniously.",
+            "GLab aspires to a future where technology and nature co-exist in harmony, guided by thoughtful and responsible innovation.",
             "/assets/brand/udyam-verification-qr.png",
             "https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=",
             "Official enterprise website",
