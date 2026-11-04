@@ -1,6 +1,6 @@
 # GLab Enterprise — **Nature · Technology · Innovation**
 
-The official website of **GLab Enterprise (GLab Ent.)**, an independent technology and engineering enterprise working on software, digital products, and practical technical solutions.
+The official website of **GLab Enterprise (GLab Ent.)**, an independent technology and engineering enterprise working on software, digital products, and practical technical solutions. Alongside technological development, GLab values the natural environment and aspires to contribute to a future where **technology and nature co-exist in harmony**. Its approach reflects a commitment to innovation while recognising the importance of the natural world.
 
 ## Website
 
