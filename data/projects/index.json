@@ -27,8 +27,8 @@
       "featured": true,
       "publicationStatus": "published",
       "guide": {
-        "title": "Explore GLabNetOps capabilities",
-        "summary": "See how ISP teams can manage customers and services, map and plan fibre networks, monitor supported devices, investigate alerts and coordinate staff operations. Hardware compatibility and deployment readiness must be validated for each environment."
+        "title": "",
+        "summary": ""
       }
     },
     {
