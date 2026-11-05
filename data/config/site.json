@@ -60,7 +60,7 @@
   "importantLinks": [
     {
       "label": "GLabNetOps",
-      "description": "Product overview for GLab’s network-operations and broadband-management work, with component status and access boundaries.",
+      "description": "ISP operations and network management web app for customer and service workflows, NetVision mapping, fibre planning, device monitoring and staff operations.",
       "url": "/projects/glabnetops/",
       "kind": "Product overview"
     },
