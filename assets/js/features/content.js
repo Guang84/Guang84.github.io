@@ -129,7 +129,7 @@ function projectCard(project, index) {
         tags(project.tags || []),
         el("a", {
           href: detailUrl("projects", project.id),
-          text: "Read complete case study →",
+          text: "Explore project →",
         }),
       ]),
     ],
