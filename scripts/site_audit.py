@@ -79,13 +79,13 @@ for page in html_files:
         footer_html = footer_match.group(0)
         motto_match = re.search(r"""<p\b(?=[^>]*\bclass=["'][^"']*\bsite-footer-motto\b[^"']*["'])[^>]*>(.*?)</p>""", footer_html, re.I | re.S)
         motto_text = re.sub(r"<[^>]+>", "", motto_match.group(1)).strip() if motto_match else ""
-        expected_motto = "GLab aspires to a future where technology and nature co-exist in harmony, guided by thoughtful and responsible innovation."
+        expected_motto = "I believe in building a future where technology and nature co-exist in harmony.— Founder"
         if motto_text != expected_motto:
             fail(f'{rel}: footer motto must be the single approved GLab nature and innovation statement')
         if re.search(r"""class=["'][^"']*\bsite-footer-commitment\b""", footer_html, re.I):
             fail(f'{rel}: duplicate footer commitment must be removed')
         for required in (
-            "GLab aspires to a future where technology and nature co-exist in harmony, guided by thoughtful and responsible innovation.",
+            "I believe in building a future where technology and nature co-exist in harmony.",
             "/assets/brand/udyam-verification-qr.png",
             "https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=",
             "Official enterprise website",
