@@ -999,3 +999,23 @@ html:not([data-theme="dark"]) .page-map a:focus-visible,
 html:not([data-theme="dark"]) .page-map a[aria-current="location"] {
   color: var(--forest);
 }
+
+/* Founder statement: a restrained green highlight that follows the site theme. */
+.site-footer-founder-highlight {
+  display: inline;
+  padding: 0.12em 0.3em;
+  border-radius: 0.22em;
+  background: color-mix(in srgb, var(--aqua) 22%, var(--surface));
+  color: var(--ink);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+.site-footer-founder-signature {
+  display: block;
+  margin-top: 0.45rem;
+  color: var(--aqua);
+  font-size: 0.88rem;
+  font-weight: 700;
+  letter-spacing: 0.025em;
+  text-align: right;
+}
