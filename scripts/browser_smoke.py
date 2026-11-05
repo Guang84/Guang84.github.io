@@ -210,11 +210,12 @@ def run_tests():
                     "On This Page",
                     "Browse products and projects",
                     "GLab aspires to a future where technology and nature co-exist in harmony, guided by thoughtful and responsible innovation.",
-                    "A journey of a thousand miles begins with a single step.",
                 ]
                 for phrase in required_content:
                     if phrase not in about_text:
                         fail(errors, f"About page: missing enterprise content: {phrase}")
+                if "A journey of a thousand miles begins with a single step." in about_text:
+                    fail(errors, "About page: old generic footer motto is still present")
                 if "Manipur" in about_text or "Northeast" in about_text:
                     fail(errors, "About page: regional location text must remain absent")
                 if "Hi, I’m Guang" in about_text:
