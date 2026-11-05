@@ -214,8 +214,12 @@ def run_tests():
                 for phrase in required_content:
                     if phrase not in about_text:
                         fail(errors, f"About page: missing enterprise content: {phrase}")
-                if "A journey of a thousand miles begins with a single step." in about_text:
-                    fail(errors, "About page: old generic footer motto is still present")
+                footer_motto = page.locator("footer.site-footer .site-footer-motto")
+                expected_footer_motto = "GLab aspires to a future where technology and nature co-exist in harmony, guided by thoughtful and responsible innovation."
+                if footer_motto.count() != 1 or footer_motto.first.text_content().strip() != expected_footer_motto:
+                    fail(errors, "About page: footer motto is not the single approved GLab nature and innovation statement")
+                if page.locator("footer.site-footer .site-footer-commitment").count():
+                    fail(errors, "About page: duplicate footer commitment remains")
                 if "Manipur" in about_text or "Northeast" in about_text:
                     fail(errors, "About page: regional location text must remain absent")
                 if "Hi, I’m Guang" in about_text:
