@@ -95,7 +95,7 @@ for page in html_files:
             fail(f"{rel}: founder signature must appear as — Founder")
         motto_match = re.search(r"""<p\b(?=[^>]*\bclass=["'][^"']*\bsite-footer-motto\b[^"']*["'])[^>]*>(.*?)</p>""", footer_html, re.I | re.S)
         motto_text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", motto_match.group(1))).strip() if motto_match else ""
-        expected_motto = "I believe in building a future where technology and nature co-exist in harmony.— Founder"
+        expected_motto = "I believe in building a future where technology and nature co-exist in harmony. — Founder"
         if motto_text != expected_motto:
             fail(f'{rel}: footer motto must be the single approved GLab nature and innovation statement')
         if re.search(r"""class=["'][^"']*\bsite-footer-commitment\b""", footer_html, re.I):
