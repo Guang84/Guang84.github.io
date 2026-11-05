@@ -244,7 +244,7 @@ def sync_shared_footer() -> list[str]:
         return ["Canonical footer template is not a complete site-footer element"]
 
     footer_pattern = re.compile(
-        r'<footer\\b(?=[^>]*\\bclass=["\\\'][^"\\\']*\\bsite-footer\\b[^"\\\']*["\\\'])[^>]*>[\\s\\S]*?</footer>',
+        r'<footer\b(?=[^>]*\bclass=["\'][^"\']*\bsite-footer\b[^"\']*["\'])[^>]*>[\s\S]*?</footer>',
         re.I,
     )
     errors = []
