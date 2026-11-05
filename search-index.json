@@ -1,17 +1,18 @@
 [
   {
     "id": "glabnetops",
-    "summary": "A public overview of GLabNetOps, the network-operations and broadband tooling portfolio developed by GLab Enterprise, with separate product components and documented readiness boundaries.",
+    "summary": "ISP operations web app for customer and service workflows, broadband information, NetVision mapping, GIS fibre planning, network monitoring and staff administration.",
     "tags": [
       "GLabNetOps",
-      "Network Operations",
-      "Broadband",
-      "Automation",
-      "Documentation",
-      "Security"
+      "ISP Operations",
+      "Broadband Management",
+      "NetVision",
+      "GIS & Fibre Planning",
+      "NMS",
+      "OLT & ONU"
     ],
     "type": "Project",
-    "title": "GLabNetOps: Network Operations & Tooling",
+    "title": "GLabNetOps: ISP Operations & Network Management",
     "url": "/projects/glabnetops/"
   },
   {
