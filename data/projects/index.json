@@ -5,19 +5,20 @@
   "items": [
     {
       "id": "glabnetops",
-      "title": "GLabNetOps: Network Operations & Tooling",
-      "category": "Network Operations",
+      "title": "GLabNetOps: ISP Operations & Network Management",
+      "category": "ISP Operations & Network Management",
       "year": 2026,
-      "status": "Public overview · evolving workstream",
-      "summary": "GLabNetOps is a network-operations and broadband-management product developed by GLab Ent. The portfolio documents ISP workflows, network visibility, GIS planning, monitoring, and staff administration while distinguishing component maturity and deployment boundaries.",
-      "updated": "2026-11-01",
+      "status": "Public product overview · evolving product",
+      "summary": "GLabNetOps is GLab Enterprise’s ISP operations and network management web app. It brings customer and service workflows, broadband information, network mapping, fibre planning, device monitoring and staff administration into one operational platform.",
+      "updated": "2026-11-05",
       "tags": [
         "GLabNetOps",
-        "Network Operations",
-        "Broadband",
-        "Automation",
-        "Documentation",
-        "Security"
+        "ISP Operations",
+        "Broadband Management",
+        "NetVision",
+        "GIS & Fibre Planning",
+        "NMS",
+        "OLT & ONU"
       ],
       "repository": {
         "url": "https://github.com/Guang84/GLabNetOps"
@@ -26,8 +27,8 @@
       "featured": true,
       "publicationStatus": "published",
       "guide": {
-        "title": "Review GLabNetOps scope and component status",
-        "summary": "Review the product overview alongside each component's repository, lifecycle, and operating boundary. The documented portfolio does not imply one fully integrated production deployment."
+        "title": "",
+        "summary": ""
       }
     },
     {
