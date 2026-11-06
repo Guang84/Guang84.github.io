@@ -1019,3 +1019,110 @@ html:not([data-theme="dark"]) .page-map a[aria-current="location"] {
   letter-spacing: 0.025em;
   text-align: right;
 }
+
+
+/* Founder statement: a calm, framed brand principle with a responsive layout. */
+.site-footer-principles {
+  width: min(100%, 70rem);
+  margin: 0 auto clamp(2rem, 4vw, 3.25rem);
+}
+.site-footer-founder-card {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  box-sizing: border-box;
+  padding: clamp(1.55rem, 4vw, 2.8rem) clamp(1.25rem, 5vw, 3.25rem)
+    clamp(1.3rem, 3vw, 2rem);
+  border: 1px solid color-mix(in srgb, var(--aqua) 36%, var(--line));
+  border-radius: 1rem;
+  background: linear-gradient(
+    135deg,
+    color-mix(in srgb, var(--aqua) 8%, var(--surface)),
+    var(--surface)
+  );
+  box-shadow: 0 12px 32px color-mix(in srgb, var(--ink) 7%, transparent);
+  text-align: center;
+}
+.site-footer-founder-card::before {
+  position: absolute;
+  inset: 0 clamp(1.2rem, 4vw, 2rem) auto;
+  height: 3px;
+  border-radius: 0 0 999px 999px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--aqua) 18%,
+    var(--aqua) 82%,
+    transparent
+  );
+  content: "";
+}
+.site-footer-founder-card::after {
+  position: absolute;
+  z-index: 0;
+  top: 0.45rem;
+  left: clamp(1rem, 3vw, 2rem);
+  color: color-mix(in srgb, var(--aqua) 18%, transparent);
+  content: "“";
+  font: 600 clamp(3.8rem, 7vw, 5.4rem)/1 Newsreader, Georgia, serif;
+  pointer-events: none;
+}
+.site-footer-principles .site-footer-motto {
+  position: relative;
+  z-index: 1;
+  max-width: 58rem;
+  margin: 0 auto;
+  padding: 0;
+  border: 0;
+  color: var(--ink);
+  font: 500 clamp(1.35rem, 2.35vw, 2rem)/1.38 Newsreader, Georgia, serif;
+  letter-spacing: -0.027em;
+  text-align: center;
+  text-wrap: balance;
+}
+.site-footer-founder-highlight {
+  padding: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--ink);
+  -webkit-box-decoration-break: initial;
+  box-decoration-break: initial;
+}
+.site-footer-founder-signature {
+  position: relative;
+  z-index: 1;
+  width: min(100%, 52rem);
+  margin: 1rem auto 0;
+  padding-top: 0.8rem;
+  border-top: 1px solid color-mix(in srgb, var(--aqua) 28%, var(--line));
+  color: var(--aqua);
+  font: 700 0.84rem/1.5 "DM Mono", ui-monospace, monospace;
+  letter-spacing: 0.045em;
+  text-align: right;
+}
+@media (max-width: 600px) {
+  .site-footer-founder-card {
+    padding: 1.55rem 1rem 1.25rem;
+    border-radius: 0.8rem;
+  }
+  .site-footer-founder-card::after {
+    top: 0.35rem;
+    left: 0.8rem;
+    font-size: 3.6rem;
+  }
+  .site-footer-principles .site-footer-motto {
+    font-size: clamp(1.25rem, 5vw, 1.55rem);
+    line-height: 1.38;
+  }
+  .site-footer-founder-signature {
+    margin-top: 0.85rem;
+    padding-top: 0.7rem;
+    text-align: center;
+  }
+}
+@media print {
+  .site-footer-founder-card {
+    box-shadow: none;
+    background: #fff;
+  }
+}

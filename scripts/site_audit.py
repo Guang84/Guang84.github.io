@@ -89,19 +89,21 @@ for page in html_files:
             fail(fail_template_error)
         elif re.sub(r"\s+", " ", footer_html).strip() != re.sub(r"\s+", " ", shared_footer_template).strip():
             fail(f"{rel}: footer differs from canonical data/templates/site-footer.html; run python scripts/stage_site.py")
+        if not re.search(r"""<div\b(?=[^>]*\bclass=["'][^"']*\bsite-footer-founder-card\b)""", footer_html, re.I):
+            fail(f"{rel}: founder statement is missing its bordered card")
         if not re.search(r"""<mark\b(?=[^>]*\bclass=["'][^"']*\bsite-footer-founder-highlight\b)""", footer_html, re.I):
             fail(f"{rel}: founder statement is missing its green highlight")
         if not re.search(r"""<span\b(?=[^>]*\bclass=["'][^"']*\bsite-footer-founder-signature\b)[^>]*>\s*— Founder\s*</span>""", footer_html, re.I):
             fail(f"{rel}: founder signature must appear as — Founder")
         motto_match = re.search(r"""<p\b(?=[^>]*\bclass=["'][^"']*\bsite-footer-motto\b[^"']*["'])[^>]*>(.*?)</p>""", footer_html, re.I | re.S)
         motto_text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", motto_match.group(1))).strip() if motto_match else ""
-        expected_motto = "I believe in building a future where technology and nature co-exist in harmony. — Founder"
+        expected_motto = "I believe in building a future where technology and nature co-exist harmoniously. — Founder"
         if motto_text != expected_motto:
             fail(f'{rel}: footer motto must be the single approved GLab nature and innovation statement')
         if re.search(r"""class=["'][^"']*\bsite-footer-commitment\b""", footer_html, re.I):
             fail(f'{rel}: duplicate footer commitment must be removed')
         for required in (
-            "I believe in building a future where technology and nature co-exist in harmony.",
+            "I believe in building a future where technology and nature co-exist harmoniously.",
             "/assets/brand/udyam-verification-qr.png",
             "https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=",
             "Official enterprise website",

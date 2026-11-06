@@ -215,10 +215,12 @@ def run_tests():
                     if phrase not in about_text:
                         fail(errors, f"About page: missing enterprise content: {phrase}")
                 footer_motto = page.locator("footer.site-footer .site-footer-motto")
-                expected_footer_motto = "I believe in building a future where technology and nature co-exist in harmony. — Founder"
+                expected_footer_motto = "I believe in building a future where technology and nature co-exist harmoniously. — Founder"
                 footer_motto_text = " ".join(footer_motto.first.text_content().split()) if footer_motto.count() == 1 else ""
                 if footer_motto.count() != 1 or footer_motto_text != expected_footer_motto:
                     fail(errors, "About page: footer motto is not the approved founder statement")
+                if page.locator("footer.site-footer .site-footer-founder-card").count() != 1:
+                    fail(errors, "About page: founder statement is missing its bordered card")
                 if page.locator("footer.site-footer mark.site-footer-founder-highlight").count() != 1:
                     fail(errors, "About page: founder statement is missing its green highlight")
                 if page.locator("footer.site-footer .site-footer-founder-signature").inner_text().strip() != "— Founder":
