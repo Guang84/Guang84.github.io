@@ -47,6 +47,14 @@ def local_target(path: str, current: Path) -> Path:
     return target
 
 errors=[]; warnings=[]
+footer_template_path = ROOT / "data" / "templates" / "site-footer.html"
+try:
+    shared_footer_template = footer_template_path.read_text(encoding="utf-8").strip()
+except OSError as ex:
+    shared_footer_template = ""
+    fail_template_error = f"Cannot read canonical footer template: {ex}"
+else:
+    fail_template_error = ""
 if not SITE.exists():
     print('No _site directory. Run python scripts/stage_site.py first.', file=sys.stderr); raise SystemExit(2)
 html_files=sorted(SITE.rglob('*.html'))
@@ -77,15 +85,23 @@ for page in html_files:
         fail(f'{rel}: missing enterprise footer component')
     else:
         footer_html = footer_match.group(0)
+        if fail_template_error:
+            fail(fail_template_error)
+        elif re.sub(r"\s+", " ", footer_html).strip() != re.sub(r"\s+", " ", shared_footer_template).strip():
+            fail(f"{rel}: footer differs from canonical data/templates/site-footer.html; run python scripts/stage_site.py")
+        if not re.search(r"""<mark\b(?=[^>]*\bclass=["'][^"']*\bsite-footer-founder-highlight\b)""", footer_html, re.I):
+            fail(f"{rel}: founder statement is missing its green highlight")
+        if not re.search(r"""<span\b(?=[^>]*\bclass=["'][^"']*\bsite-footer-founder-signature\b)[^>]*>\s*— Founder\s*</span>""", footer_html, re.I):
+            fail(f"{rel}: founder signature must appear as — Founder")
         motto_match = re.search(r"""<p\b(?=[^>]*\bclass=["'][^"']*\bsite-footer-motto\b[^"']*["'])[^>]*>(.*?)</p>""", footer_html, re.I | re.S)
-        motto_text = re.sub(r"<[^>]+>", "", motto_match.group(1)).strip() if motto_match else ""
-        expected_motto = "GLab aspires to a future where technology and nature co-exist in harmony, guided by thoughtful and responsible innovation."
+        motto_text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", motto_match.group(1))).strip() if motto_match else ""
+        expected_motto = "I believe in building a future where technology and nature co-exist in harmony. — Founder"
         if motto_text != expected_motto:
             fail(f'{rel}: footer motto must be the single approved GLab nature and innovation statement')
         if re.search(r"""class=["'][^"']*\bsite-footer-commitment\b""", footer_html, re.I):
             fail(f'{rel}: duplicate footer commitment must be removed')
         for required in (
-            "GLab aspires to a future where technology and nature co-exist in harmony, guided by thoughtful and responsible innovation.",
+            "I believe in building a future where technology and nature co-exist in harmony.",
             "/assets/brand/udyam-verification-qr.png",
             "https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=",
             "Official enterprise website",

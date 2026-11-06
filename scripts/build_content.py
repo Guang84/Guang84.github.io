@@ -233,6 +233,40 @@ def update_archive(root_path: Path, kind: str, items: list[dict]) -> None:
     replacement=text[start:open_end]+"\n"+"\n".join(cards)+"\n      </div>"
     root_path.write_text(text[:start]+replacement+text[end:],encoding="utf-8")
 
+def sync_shared_footer() -> list[str]:
+    """Apply the canonical footer partial to every HTML page included in the public site."""
+    template_path = ROOT / "data" / "templates" / "site-footer.html"
+    if not template_path.is_file():
+        return ["Missing canonical footer template: data/templates/site-footer.html"]
+
+    template = template_path.read_text(encoding="utf-8").strip()
+    if not template.startswith("<footer") or 'class="site-footer"' not in template or not template.endswith("</footer>"):
+        return ["Canonical footer template is not a complete site-footer element"]
+
+    footer_pattern = re.compile(
+        r'<footer\b(?=[^>]*\bclass=["\'][^"\']*\bsite-footer\b[^"\']*["\'])[^>]*>[\s\S]*?</footer>',
+        re.I,
+    )
+    errors = []
+    updated_count = 0
+    for public_path in public_files():
+        if not public_path.lower().endswith(".html"):
+            continue
+        page = ROOT / public_path.lstrip("/")
+        if not page.is_file():
+            continue
+        source = page.read_text(encoding="utf-8")
+        updated, count = footer_pattern.subn(lambda _: template, source, count=1)
+        if count != 1:
+            errors.append(f"{public_path}: expected exactly one site footer before synchronization, found {count}")
+            continue
+        if updated != source:
+            page.write_text(updated, encoding="utf-8")
+            updated_count += 1
+
+    print(f"Shared footer synchronized across {len([p for p in public_files() if p.lower().endswith('.html')])} public HTML pages ({updated_count} changed).")
+    return errors
+
 def validate_links() -> list[str]:
     errors=[]
     local_re=re.compile(r"\b(?:href|src)\s*=\s*([\"\'])(.*?)\1",re.I|re.S)
@@ -483,6 +517,7 @@ def build(write: bool, stage: bool) -> list[str]:
         config=json.loads((ROOT/'data/config/site.json').read_text(encoding='utf-8'))
         update_archive(ROOT/'articles/index.html','articles',articles)
         update_archive(ROOT/'projects/index.html','projects',projects)
+        errors.extend(sync_shared_footer())
         generate_page_contents()
         build_search_index(projects,articles)
         build_feed(articles,config)

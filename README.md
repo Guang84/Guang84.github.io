@@ -4,6 +4,19 @@ The official website of **GLab Enterprise (GLab Ent.)**, an independent technolo
 
 Alongside technological development, GLab values the natural environment and aspires to contribute to a future where **technology and nature co-exist in harmony**. Its approach reflects a commitment to responsible innovation and environmental awareness, encouraging a more balanced and sustainable future.
 
+## Shared Page Footer
+
+The canonical site footer is maintained in `data/templates/site-footer.html`. Edit that file when changing footer wording, links, or structure; do not make page-by-page footer edits.
+
+Run the staging command to synchronize the shared footer across public HTML pages and rebuild the deployment output:
+
+```bash
+python scripts/stage_site.py
+python scripts/site_audit.py
+```
+
+The site audit checks that each staged page uses the canonical footer template.
+
 ## Website
 
 - [Official Website](https://guang84.github.io/)
