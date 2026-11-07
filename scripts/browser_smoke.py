@@ -240,8 +240,8 @@ def run_tests():
                     target = anchor.get_attribute("href")
                     if not target or page.locator(target).count() != 1:
                         fail(errors, f"About page: contents link has no unique target: {target}")
-                if page.locator('a[href="https://github.com/Guang84/GLabNetOps"]').count() < 1:
-                    fail(errors, "About page: missing GLabNetOps GitHub source link")
+                if page.locator('a[href="https://github.com/Guang84/GLabNetOps"]').count() != 0:
+                    fail(errors, "About page: private GLabNetOps repository link must not be public")
                 if page.locator('a[href="https://guang84.github.io/RongmeiHymnal/"]').count() < 1:
                     fail(errors, "About page: missing deployed Rongmei Hymnal app link")
                 if page.locator('footer.site-footer a.udyam-verification-link[href^="https://udyamregistration.gov.in/verifyudyambarcode.aspx"]').count() < 1:
