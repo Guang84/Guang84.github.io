@@ -8,7 +8,7 @@
       "title": "GLabNetOps: ISP Operations & Network Management",
       "category": "ISP Operations & Network Management",
       "year": 2026,
-      "status": "Public product overview · evolving product",
+      "status": "Public product overview · private source repository",
       "summary": "GLabNetOps is GLab Enterprise’s ISP operations and network management web app. It brings customer and service workflows, broadband information, network mapping, fibre planning, device monitoring and staff administration into one operational platform.",
       "updated": "2026-11-05",
       "tags": [
@@ -20,9 +20,6 @@
         "NMS",
         "OLT & ONU"
       ],
-      "repository": {
-        "url": "https://github.com/Guang84/GLabNetOps"
-      },
       "demoUrl": "",
       "featured": true,
       "publicationStatus": "published",
