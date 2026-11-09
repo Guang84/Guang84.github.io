@@ -7,7 +7,7 @@
       content="width=device-width,initial-scale=1,viewport-fit=cover"
       name="viewport"
     />
-    <meta content="GLabNetOps is GLab Enterprise’s ISP operations and network management web app for customer and service workflows, broadband information, NetVision network mapping, GIS fibre planning, device monitoring and staff administration. Hardware compatibility and deployment readiness depend on local validation." name="description" />
+    <meta content="GLabNetOps is GLab Enterprise’s ISP operations and network management web app. NetVision provides GIS-based physical network mapping and fibre planning; the planned NetVision Topology feature will add a basemap-free hierarchical view combining recorded fibre and splitter relationships with existing OLT/PON/ONU telemetry and node health. Hardware compatibility and deployment readiness depend on local validation." name="description" />
     <meta content="GLab Ent." name="author" />
     <meta content="light dark" name="color-scheme" />
     <meta content="#0d1c15" name="theme-color" />
@@ -36,7 +36,7 @@
     <meta content="website" property="og:type" />
     <meta content="GLab Enterprise" property="og:site_name" />
     <meta content="GLabNetOps: ISP Operations &amp; Network Management — GLab" property="og:title" />
-    <meta property="og:description" content="GLabNetOps is GLab Enterprise’s ISP operations and network management web app for customer and service workflows, broadband information, NetVision network mapping, GIS fibre planning, device monitoring and staff administration. Hardware compatibility and deployment readiness depend on local validation." />
+    <meta property="og:description" content="GLabNetOps is GLab Enterprise’s ISP operations and network management web app. NetVision provides GIS-based physical network mapping and fibre planning; the planned NetVision Topology feature will add a basemap-free hierarchical view combining recorded fibre and splitter relationships with existing OLT/PON/ONU telemetry and node health. Hardware compatibility and deployment readiness depend on local validation." />
     <meta
       content="https://guang84.github.io/projects/glabnetops/"
       property="og:url"
@@ -64,19 +64,19 @@
     <meta content="2026" name="glab:project-year" />
     <meta content="Public product overview · private source repository" name="glab:project-status" />
     <meta name="glab:project-updated" content="2026-11-05" />
-    <meta content="GLabNetOps, ISP Operations, Broadband Management, NetVision, GIS &amp; Fibre Planning, NMS, OLT &amp; ONU" name="glab:project-tags" />
+    <meta content="GLabNetOps, ISP Operations, Broadband Management, NetVision, NetVision Topology, Network Topology, GIS &amp; Fibre Planning, NMS, OLT, PON, ONU &amp; ONT" name="glab:project-tags" />
     <meta content="true" name="glab:project-featured" />
     <meta content="" name="glab:project-demo" />
     <meta content="Not specified" name="glab:project-license" />
     <meta content="GLabNetOps: ISP Operations &amp; Network Management — GLab" name="twitter:title" />
-    <meta name="twitter:description" content="GLabNetOps is GLab Enterprise’s ISP operations and network management web app for customer and service workflows, broadband information, NetVision network mapping, GIS fibre planning, device monitoring and staff administration. Hardware compatibility and deployment readiness depend on local validation." />
+    <meta name="twitter:description" content="GLabNetOps is GLab Enterprise’s ISP operations and network management web app. NetVision provides GIS-based physical network mapping and fibre planning; the planned NetVision Topology feature will add a basemap-free hierarchical view combining recorded fibre and splitter relationships with existing OLT/PON/ONU telemetry and node health. Hardware compatibility and deployment readiness depend on local validation." />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
         "@type": "TechArticle",
         "headline": "GLabNetOps: ISP Operations & Network Management — GLab",
         "name": "GLabNetOps: ISP Operations & Network Management — GLab",
-        "description": "GLabNetOps is GLab Enterprise’s ISP operations and network management web app for customer and service workflows, broadband information, NetVision network mapping, GIS fibre planning, device monitoring and staff administration. Hardware compatibility and deployment readiness depend on local validation.",
+        "description": "GLabNetOps is GLab Enterprise’s ISP operations and network management web app. NetVision provides GIS-based physical network mapping and fibre planning; the planned NetVision Topology feature will add a basemap-free hierarchical view combining recorded fibre and splitter relationships with existing OLT/PON/ONU telemetry and node health. Hardware compatibility and deployment readiness depend on local validation.",
         "author": {
           "@type": "Organization",
           "name": "GLab Ent.",
@@ -222,6 +222,7 @@
         <ol>
           <li><a href="#purpose">What GLabNetOps is for</a></li>
           <li><a href="#capabilities">What you can do</a></li>
+          <li><a href="#netvision-topology">NetVision Topology roadmap</a></li>
           <li><a href="#workflows">How teams can use it</a></li>
           <li><a href="#benefits">Practical benefits</a></li>
           <li><a href="#users">Who it is for</a></li>
@@ -271,7 +272,14 @@
             <p>Permission controls restrict access to customer-identifying details in network views; administrators can also use versioned topology import and export workflows.</p>
           </div></article>
           <article class="project-card"><div class="project-copy">
-            <p class="eyebrow">05 · GIS and engineering</p>
+            <p class="eyebrow">05 · Network topology · In development</p>
+            <h3>Trace the access network with NetVision Topology</h3>
+            <p>Planned as a companion to NetVision, this basemap-free, hierarchical node-and-link view will turn recorded NetVision infrastructure into an interactive topology from upstream and POP equipment through OLTs, PON ports, fibre branches, splitters, FAT/FDB points and mapped ONU/ONT endpoints.</p>
+            <p>The planned integration will combine verified physical connections from NetVision with discovered OLT/PON/ONU relationships and telemetry from existing read-only monitoring collectors. Nodes will show operational, degraded, offline, stale, unknown or inferred states, with branch expansion, search, fault context and topology-integrity checks.</p>
+            <p>OLT discovery cannot identify an unrecorded physical splitter or fibre route. Unmapped relationships will remain visibly incomplete for operator review rather than being guessed. Availability, vendor compatibility and live hardware behaviour require implementation and validation in the application.</p>
+          </div></article>
+          <article class="project-card"><div class="project-copy">
+            <p class="eyebrow">06 · GIS and engineering</p>
             <h3>Plan fibre routes and review optical budgets</h3>
             <p>Draw and measure network routes, record fibre segments and their characteristics, and estimate route distance and optical loss using mapped cable, splice, connector, splitter and engineering-margin inputs. These calculations help with planning and review before field work.</p>
             <p>Route lengths and optical budgets are planning estimates until checked against surveyed routes, actual components and field measurements.</p>
@@ -296,6 +304,25 @@
         </div>
       </section>
 
+      <section class="detail-section" id="netvision-topology">
+        <p class="eyebrow">Network operations · planned development</p>
+        <h2>NetVision Topology: a live view of how the network connects</h2>
+        <p>NetVision remains the primary GIS workspace for recording where network assets are located and how physical fibre infrastructure is connected. NetVision Topology is planned as its companion view: an interactive, basemap-free node-and-connector diagram that explains the network hierarchy and helps operators trace service paths.</p>
+        <h3>Planned topology coverage</h3>
+        <ul>
+          <li><strong>End-to-end hierarchy:</strong> upstream connectivity, data centre or POP, core equipment, OLT, chassis and slots, PON ports, feeder and distribution fibre, joints and closures, primary and secondary splitters, FAT/FDB points, ONU/ONT devices and mapped customer endpoints.</li>
+          <li><strong>Generated from NetVision:</strong> build the physical topology from an existing NetVision map, using saved node, cable and access-port relationships rather than geographical proximity.</li>
+          <li><strong>OLT-assisted discovery:</strong> select an already configured OLT and use the existing server-side read-only collection path to refresh supported inventory and telemetry. Discovered PON membership and ONU records can enrich the logical view.</li>
+          <li><strong>Live operational context:</strong> show the latest collected OLT, PON and ONU state, optical readings where available, timestamps, alerts and stale-data warnings. Topology refresh and an actual OLT poll remain separate actions.</li>
+          <li><strong>Fault investigation:</strong> expand and collapse branches, search equipment, filter faults, inspect a selected node or fibre link, and identify potentially affected downstream devices.</li>
+          <li><strong>Topology integrity:</strong> highlight discovered ONUs without mapped endpoints, PONs without recorded fibre paths, incomplete splitter branches and differences between physical records and observed OLT inventory.</li>
+        </ul>
+        <h3>Physical records and live telemetry are different sources</h3>
+        <p>NetVision is the source of truth for recorded physical assets and fibre connections. OLT monitoring provides observed device, PON and ONU information. An OLT can report registered ONUs and their PON membership, but it generally cannot identify an undocumented splitter, closure or physical cable route. The topology must label unknown and inferred relationships clearly and must never invent physical connections from proximity or telemetry alone.</p>
+        <p>Passive splitters and fibre cables are not independently polled devices. Their condition can only be recorded manually or inferred cautiously from fresh downstream observations. Inferred health must be distinguished from directly collected telemetry.</p>
+        <p><strong>Development status:</strong> This is a planned product capability, not a claim of completed deployment or universal OLT compatibility. Implementation, supported-model testing, performance testing and operational acceptance must be completed before it is presented as generally available.</p>
+      </section>
+
       <section class="detail-section" id="workflows">
         <p class="eyebrow">In everyday use</p>
         <h2>How an ISP team can use it</h2>
@@ -306,7 +333,7 @@
           </div></article>
           <article class="timeline-item"><span class="timeline-label">Network operations</span><div>
             <h3>Investigate a device or access-network issue</h3>
-            <p>Review the latest available device and optical data, check alerts or a correlated incident, then open NetVision to inspect the affected OLT, PON and mapped fibre path. The map and telemetry provide investigation context; staff still verify the fault in the field.</p>
+            <p>Review the latest available device and optical data, check alerts or a correlated incident, then use NetVision for the geographical asset and fibre record. The planned NetVision Topology view will complement it with an end-to-end node-and-link path through OLTs, PON ports, mapped splitter branches and discovered ONUs. Staff still verify physical faults in the field.</p>
           </div></article>
           <article class="timeline-item"><span class="timeline-label">Fibre planning</span><div>
             <h3>Prepare a route or network extension</h3>
@@ -355,6 +382,7 @@
         <h3>Important things to understand</h3>
         <ul>
           <li><strong>Monitoring is scheduled:</strong> SNMP polling runs on configured intervals. It is not push-based streaming or an instant view of every network change.</li>
+          <li><strong>NetVision Topology is planned:</strong> the public product roadmap describes the intended map-generated topology and OLT-assisted telemetry view. Do not treat this roadmap description as proof that the feature has shipped or that every vendor/model is supported.</li>
           <li><strong>Hardware support is specific:</strong> OLT/ONU collection must be checked against the exact vendor, model, firmware, OIDs and real equipment. An adapter or simulator test is not universal hardware certification.</li>
           <li><strong>Network changes are not automated:</strong> monitoring paths are read-only or telemetry-ingestion oriented. GLabNetOps does not automatically provision ONUs, change VLANs, reboot equipment or repair a fault.</li>
           <li><strong>Billing is not automated:</strong> the broadband catalogue is informational. Automated subscription billing, payment collection and accounting are not current capabilities.</li>
