@@ -506,3 +506,50 @@ footer {
     text-align: right;
   }
 }
+
+
+/* Subject-based publication archive */
+.publication-collections {
+  display: grid;
+  gap: clamp(2.5rem, 5vw, 4.5rem);
+}
+.publication-category {
+  min-width: 0;
+  scroll-margin-top: 6rem;
+}
+.publication-category-heading {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(16rem, 0.8fr);
+  align-items: end;
+  gap: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--line);
+}
+.publication-category-heading h2 {
+  margin: 0.25rem 0 0;
+  font-family: Newsreader, Georgia, serif;
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  font-weight: 400;
+  letter-spacing: -0.035em;
+}
+.publication-category-heading > p {
+  max-width: 38rem;
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+.publication-category-list {
+  display: grid;
+  gap: 0;
+}
+.publication-category[hidden],
+.writing-item[hidden] {
+  display: none !important;
+}
+@media (max-width: 700px) {
+  .publication-category-heading {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+}
