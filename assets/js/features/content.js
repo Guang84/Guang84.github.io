@@ -74,7 +74,7 @@ function articleCard(article) {
       className: "writing-item",
       dataset: {
         projectCard: "",
-        category: article.kind || "Article",
+        category: article.category || article.kind || "Article",
         search: query,
       },
       href: detailUrl("articles", article.id),
@@ -180,6 +180,7 @@ function initFilters(root) {
         return button;
       }),
     );
+  const sections = [...root.querySelectorAll("[data-publication-section]")];
   const status = el("p", { className: "search-hint", role: "status" });
   root.after(status);
   function update() {
@@ -189,10 +190,15 @@ function initFilters(root) {
         (category !== "All" && card.dataset.category !== category) ||
         (q && !card.dataset.search.includes(q));
     });
+    sections.forEach((section) => {
+      section.hidden = ![...section.querySelectorAll("[data-project-card]")].some(
+        (card) => !card.hidden,
+      );
+    });
     const count = cards.filter((c) => !c.hidden).length;
     status.textContent = count
-      ? `${count} of ${cards.length} results`
-      : "No matches. Try another search or category.";
+      ? `${count} of ${cards.length} articles`
+      : "No matches. Try another search or subject.";
   }
   if (search) search.addEventListener("input", update);
   update();
