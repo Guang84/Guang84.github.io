@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "contentVersion": "138d7df730e6db95",
-  "updated": "2026-11-02",
+  "contentVersion": "139d7df730e6db95",
+  "updated": "2026-11-10",
   "items": [
     {
       "id": "building-with-nature-in-mind",
@@ -19,7 +19,9 @@
         "Sustainable farming"
       ],
       "publicationStatus": "published",
-      "featured": true
+      "featured": true,
+      "category": "Nature & Environment",
+      "categoryLabel": "Nature"
     },
     {
       "id": "buying-laptop-2026-specs-guide",
@@ -37,7 +39,9 @@
         "India"
       ],
       "publicationStatus": "published",
-      "featured": true
+      "featured": true,
+      "category": "Technology & Engineering",
+      "categoryLabel": "Technology"
     },
     {
       "id": "repair-before-replace",
@@ -53,7 +57,9 @@
         "Sustainability"
       ],
       "publicationStatus": "published",
-      "featured": false
+      "featured": false,
+      "category": "Nature & Environment",
+      "categoryLabel": "Nature"
     },
     {
       "id": "passkeys-and-the-human-side-of-security",
@@ -69,7 +75,9 @@
         "Account safety"
       ],
       "publicationStatus": "published",
-      "featured": true
+      "featured": true,
+      "category": "Cybersecurity & Digital Safety",
+      "categoryLabel": "Security"
     },
     {
       "id": "right-sized-ai",
@@ -85,7 +93,9 @@
         "Responsible technology"
       ],
       "publicationStatus": "published",
-      "featured": true
+      "featured": true,
+      "category": "Innovation & Research",
+      "categoryLabel": "Innovation"
     },
     {
       "id": "better-light-better-night",
@@ -101,7 +111,9 @@
         "Energy"
       ],
       "publicationStatus": "published",
-      "featured": false
+      "featured": false,
+      "category": "Nature & Environment",
+      "categoryLabel": "Nature"
     },
     {
       "id": "soil-sensors-need-ground-truth",
@@ -117,7 +129,9 @@
         "Soil moisture"
       ],
       "publicationStatus": "published",
-      "featured": true
+      "featured": true,
+      "category": "Nature & Environment",
+      "categoryLabel": "Nature"
     },
     {
       "id": "learning-from-soil",
@@ -133,7 +147,9 @@
         "Learning"
       ],
       "publicationStatus": "published",
-      "featured": false
+      "featured": false,
+      "category": "Nature & Environment",
+      "categoryLabel": "Nature"
     },
     {
       "id": "responsible-ai",
@@ -149,7 +165,9 @@
         "Product design"
       ],
       "publicationStatus": "published",
-      "featured": false
+      "featured": false,
+      "category": "Innovation & Research",
+      "categoryLabel": "Innovation"
     },
     {
       "id": "security-is-care",
@@ -166,7 +184,9 @@
         "Operations"
       ],
       "publicationStatus": "published",
-      "featured": true
+      "featured": true,
+      "category": "Cybersecurity & Digital Safety",
+      "categoryLabel": "Security"
     }
   ]
 }
