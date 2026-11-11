@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Under Maintenance</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: system-ui, sans-serif;
+      background: #030712;
+      color: #e5e7eb;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .container {
+      max-width: 600px;
+      width: 100%;
+    }
+
+    /* Animated gear */
+    .gear {
+      font-size: 64px;
+      display: inline-block;
+      animation: spin 3s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    h1 {
+      font-size: 2.5rem;
+      margin: 20px 0 10px;
+      color: #fff;
+    }
+
+    p {
+      color: #9ca3af;
+      font-size: 1.1rem;
+      line-height: 1.6;
+      margin-bottom: 30px;
+    }
+
+    /* Countdown */
+    .countdown {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin-bottom: 30px;
+    }
+    .countdown div {
+      background: #1f2937;
+      border-radius: 8px;
+      padding: 15px 20px;
+      min-width: 80px;
+    }
+    .countdown span {
+      display: block;
+      font-size: 2rem;
+      font-weight: 700;
+      color: #60a5fa;
+    }
+    .countdown small {
+      color: #6b7280;
+      font-size: 0.8rem;
+      text-transform: uppercase;
+    }
+
+    /* Contact */
+    a {
+      color: #60a5fa;
+      text-decoration: none;
+    }
+    a:hover { text-decoration: underline; }
+
+    @media (max-width: 480px) {
+      h1 { font-size: 1.8rem; }
+      .countdown div { min-width: 60px; padding: 10px; }
+      .countdown span { font-size: 1.4rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="gear">⚙️</div>
+    <h1>Under Maintenance</h1>
+    <p>We're working hard to bring you a better experience.
+       Please check back soon!</p>
+
+    <div class="countdown">
+      <div><span id="days">00</span><small>Days</small></div>
+      <div><span id="hours">00</span><small>Hours</small></div>
+      <div><span id="minutes">00</span><small>Mins</small></div>
+      <div><span id="seconds">00</span><small>Secs</small></div>
+    </div>
+
+    <p>Need help? Contact us at <a href="mailto:support@example.com">support@example.com</a></p>
+  </div>
+
+  <script>
+    // Set your maintenance end date here (e.g., 3 days from now)
+    const target = Date.now() + 3 * 24 * 60 * 60 * 1000;
+
+    function update() {
+      const diff = Math.max(0, target - Date.now());
+      const d = Math.floor(diff / 86400000);
+      const h = Math.floor((diff % 86400000) / 3600000);
+      const m = Math.floor((diff % 3600000) / 60000);
+      const s = Math.floor((diff % 60000) / 1000);
+      const pad = n => String(n).padStart(2, '0');
+      document.getElementById('days').textContent = pad(d);
+      document.getElementById('hours').textContent = pad(h);
+      document.getElementById('minutes').textContent = pad(m);
+      document.getElementById('seconds').textContent = pad(s);
+    }
+    update();
+    setInterval(update, 1000);
+  </script>
+</body>
+</html>    
