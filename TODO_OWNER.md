@@ -4,7 +4,7 @@ Owner decisions and evidence required before publication
 
 ## P0 — trust and rights
 
-- [ ] Supply and verify the official support-payment QR before restoring any public payment or donation block. The sample QR and associated UPI identifier have been removed from public site sources. Do not restore either from an unverified image or copied identifier.
+- [x] Owner supplied the support-payment QR. Its UPI payload was decoded successfully and the payee name and SBI UPI handle were checked against the encoded details. Public display restored with a reminder to verify the payee and amount in the UPI app before authorising payment.
 - [ ] Confirm whether GLab Enterprise has permission to use the BSNL name in the Noney BSNL Broadband NMS case study. The existing project name is retained pending confirmation; no affiliation or endorsement is claimed.
 - [ ] Provide or approve a plain-language attribution and licensing note for Rongmei Hymnal. Keep the existing “content review and attribution ongoing” notice until this is resolved. Do not edit song text, attributions, book metadata or datasets as part of this website work.
 

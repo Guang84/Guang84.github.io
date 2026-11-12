@@ -1104,3 +1104,12 @@ html:not([data-theme="dark"]) .page-map a[aria-current="location"] {
     background: #fff;
   }
 }
+
+/* Verified support-payment QR. */
+.support-payment{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:center;gap:clamp(1rem,3vw,2rem);margin-top:1rem}
+.support-qr-wrap{width:min(100%,18rem)}
+.support-qr-wrap img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:.75rem;background:#fff;padding:.5rem}
+.support-qr-caption,.support-copy-status{color:var(--muted);font-size:.85rem;line-height:1.5}
+.support-payment-label{margin-bottom:.25rem;color:var(--muted);font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+.support-upi-id{overflow-wrap:anywhere;font-size:clamp(1.1rem,2.5vw,1.4rem)}
+@media(max-width:620px){.support-payment{grid-template-columns:minmax(0,1fr)}.support-qr-wrap{width:min(100%,15rem)}}

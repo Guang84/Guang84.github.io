@@ -36,7 +36,7 @@ Sampled pages had one H1, `lang` and alt attributes. Validate all pages after me
 
 ## P0 findings
 
-- About published a sample support QR beside a public payment identifier. The About block, copy handler and payment CSS were removed in this branch. The Udyam verification QR in the footer is a separate official registration link and was retained.
+- About published a sample support QR beside a public payment identifier. The initial sample QR/payment block was removed. The owner subsequently supplied a replacement QR; its UPI payload was decoded successfully and its payee/handle checked. The verified owner-supplied QR and support block have now been restored. The separate Udyam verification QR remains unchanged.
 - BSNL is named in the historical Noney case study. Keep the name but ask owner to confirm permission; no affiliation is asserted.
 - Rongmei Hymnal still needs a plain-language attribution/licensing note. Keep the existing “content review and attribution ongoing” notice. Do not modify hymn/song content, attribution data or datasets.
 - Sampled source did not reveal a high-confidence API token or private key. This is not a complete historical git-object secret scan; run a dedicated history scan and rotate any exposed credential.
