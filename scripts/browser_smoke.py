@@ -22,8 +22,8 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "_site"
 VIEWPORTS = [
     ("desktop", 1280, 900),
-    ("tablet", 803, 1024),
-    ("mobile", 390, 844),
+    ("tablet", 768, 1024),
+    ("mobile", 360, 800),
 ]
 
 
@@ -215,7 +215,7 @@ def run_tests():
                     if phrase not in about_text:
                         fail(errors, f"About page: missing enterprise content: {phrase}")
                 footer_motto = page.locator("footer.site-footer .site-footer-motto")
-                expected_footer_motto = "I believe in building a future where technology and nature co-exist harmoniously. — Founder"
+                expected_footer_motto = "We build practical software for ISP operations and network teams. — Founder"
                 footer_motto_text = " ".join(footer_motto.first.text_content().split()) if footer_motto.count() == 1 else ""
                 if footer_motto.count() != 1 or footer_motto_text != expected_footer_motto:
                     fail(errors, "About page: footer motto is not the approved founder statement")
