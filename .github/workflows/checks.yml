@@ -1,0 +1,34 @@
+name: Pull request site checks
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  static-site-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Build the staged static site
+        run: python scripts/stage_site.py
+
+      - name: Check local links and fragments
+        run: node tools/check-links.mjs _site
+
+      - name: Validate HTML structure and site integrity
+        run: python scripts/site_audit.py
