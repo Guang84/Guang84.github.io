@@ -22,8 +22,8 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE = ROOT / "_site"
 VIEWPORTS = [
     ("desktop", 1280, 900),
-    ("tablet", 803, 1024),
-    ("mobile", 390, 844),
+    ("tablet", 768, 1024),
+    ("mobile", 360, 800),
 ]
 
 
