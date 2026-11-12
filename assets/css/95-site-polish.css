@@ -868,28 +868,6 @@ html[data-theme="dark"]:is([data-palette="forest"], [data-palette="sage"]) {
 }
 
 
-/* Support section: responsive payment QR and UPI identifier. */
-.support-payment{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:center;gap:clamp(1rem,3vw,2rem);margin-top:1rem}
-.support-qr-wrap{width:min(100%,16rem)}
-.support-qr-wrap img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:.75rem;background:#fff;padding:.65rem}
-.support-qr-caption,.support-copy-status{color:var(--muted);font-size:.85rem}
-.support-payment-label{margin-bottom:.25rem;color:var(--muted);font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
-.support-upi-id{overflow-wrap:anywhere;font-size:clamp(1.1rem,2.5vw,1.4rem)}
-@media(max-width:620px){.support-payment{grid-template-columns:minmax(0,1fr)}.support-qr-wrap{width:min(100%,13rem)}}
-
-
-/* Support section and payment placeholder presentation. */
-.support-section .support-payment { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(1rem, 3vw, 2rem); align-items: center; }
-.support-qr-wrap { min-width: 0; }
-.support-qr-wrap img { display: block; width: min(100%, 14rem); height: auto; border: 1px solid var(--line); border-radius: var(--radius-m); background: #fff; }
-.support-qr-caption { margin: .6rem 0 0; color: var(--muted); font-size: .85rem; line-height: 1.5; }
-.support-payment-details { min-width: 0; }
-.support-payment-label { margin: 0; color: var(--muted); font: 500 .75rem/1.4 "DM Mono", monospace; letter-spacing: .08em; text-transform: uppercase; }
-.support-upi-id { margin: .3rem 0 .8rem; overflow-wrap: anywhere; font-size: clamp(1.15rem, 2.5vw, 1.5rem); }
-.support-copy-status { min-height: 1.4em; color: var(--muted); font-size: .85rem; }
-@media (max-width: 600px) { .support-section .support-payment { grid-template-columns: minmax(0, 1fr); } }
-
-
 /* Footer business contact link */
 .footer-contact-link{display:inline-flex;align-items:center;gap:.35rem;margin:.25rem 0 .65rem;color:var(--blue);font-size:.9rem;font-weight:650;text-decoration-thickness:1px;text-underline-offset:.2em;overflow-wrap:anywhere}
 .footer-contact-link:hover,.footer-contact-link:focus-visible{color:var(--aqua)}
@@ -1126,3 +1104,12 @@ html:not([data-theme="dark"]) .page-map a[aria-current="location"] {
     background: #fff;
   }
 }
+
+/* Verified support-payment QR. */
+.support-payment{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-items:center;gap:clamp(1rem,3vw,2rem);margin-top:1rem}
+.support-qr-wrap{width:min(100%,18rem)}
+.support-qr-wrap img{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:.75rem;background:#fff;padding:.5rem}
+.support-qr-caption,.support-copy-status{color:var(--muted);font-size:.85rem;line-height:1.5}
+.support-payment-label{margin-bottom:.25rem;color:var(--muted);font-size:.8rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+.support-upi-id{overflow-wrap:anywhere;font-size:clamp(1.1rem,2.5vw,1.4rem)}
+@media(max-width:620px){.support-payment{grid-template-columns:minmax(0,1fr)}.support-qr-wrap{width:min(100%,15rem)}}
