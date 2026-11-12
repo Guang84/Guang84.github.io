@@ -167,16 +167,31 @@ def run_tests():
                             return 0
                         fail(errors, f"{label} {route}: {type(exc).__name__}: {exc}")
 
-            # Home introduction must be synchronized with the configurable copy.
+            # Homepage information architecture must match the ISP-focused product direction.
             page.set_viewport_size({"width": 1280, "height": 900})
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.trim() === "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products, and technical solutions. Driven by creativity, technological exploration, and a spirit of innovation, GLab is committed to developing useful technologies that address practical needs, encourage new possibilities, and contribute to meaningful progress.") && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.trim() === "Alongside technological development, GLab values the natural environment and aspires to contribute to a future where technology and nature co-exist in harmony. Its approach reflects a commitment to responsible innovation while recognising the importance of the natural world. GLab believes that technological advancement, innovative thinking, and environmental awareness can complement one another, encouraging a more balanced and sustainable approach to the future.")""",
-                    timeout=5000,
+                    """() => {
+                      const main = document.querySelector("main.site-home");
+                      const title = main?.querySelector("h1")?.textContent.trim();
+                      const sectionIds = ["what-we-build", "featured-project", "other-projects", "how-we-work", "recent-writing", "contact"];
+                      const ids = sectionIds.map((id) => main?.querySelector("#" + id));
+                      const articles = [...(main?.querySelectorAll('[data-preview="articles"] .writing-item') || [])];
+                      const articleIds = articles.map((item) => new URL(item.href).pathname);
+                      return title === "Software for ISPs and the networks they run."
+                        && sectionIds.every((id, index) => ids[index] && main.querySelectorAll("#" + id).length === 1)
+                        && ids.every((section, index) => index === 0 || ids[index - 1].compareDocumentPosition(section) & Node.DOCUMENT_POSITION_FOLLOWING)
+                        && main.querySelector('.home-status')?.textContent.trim() === "In development · source private"
+                        && articles.length === 3
+                        && articleIds[0] === "/articles/building-with-nature-in-mind/"
+                        && articleIds[1] === "/articles/buying-laptop-2026-specs-guide/"
+                        && articleIds[2] === "/articles/repair-before-replace/";
+                    }""",
+                    timeout=8000,
                 )
             except PlaywrightTimeoutError:
-                fail(errors, "Home page: enterprise identity or official introduction did not render from site configuration")
+                fail(errors, "Home page: ISP-focused hero, section order or newest-three article preview did not render")
 
             # Shared site navigation and brand caption must remain consistent.
             expected_navigation = ["Products & Projects", "Services", "Publications", "About GLab", "Contact"]
@@ -197,19 +212,19 @@ def run_tests():
                     "GLabNetOps",
                     "Nature · Technology · Innovation",
                     "Nature, technology & innovation",
-                    "The work spans software development, networking and broadband infrastructure",
-                    "GLab builds software for network operations and broadband workflows",
-                    "Project pages show what is available, what is still being developed",
+                    "Software and engineering for ISP networks",
+                    "We build software for ISP operations, network monitoring, GIS and fibre planning.",
+                    "Each project page states what is released, in development, archived or retired",
                     "How we work",
                     "Choose the right approach",
                     "repair and reuse",
+                    "Music and reading",
                     "open the web app",
                     "Apps and project sites",
                     "Open the historical site",
                     "Open the archived site",
                     "On This Page",
                     "Browse products and projects",
-                    "GLab aspires to a future where technology and nature co-exist in harmony, guided by thoughtful and responsible innovation.",
                 ]
                 for phrase in required_content:
                     if phrase not in about_text:
