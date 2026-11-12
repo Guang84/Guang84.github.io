@@ -1,6 +1,6 @@
 # GLab Enterprise website audit
 
-Audit baseline: `main` and `upgrade/site-2026` both pointed to `1c959f5` before work. The repository contained 106 tracked files. This is a source audit; no browser/Lighthouse run is claimed.
+Audit baseline: `main` and `upgrade/site-2026` both pointed to `1c959f5` before work. The repository contained 106 tracked files. This is a partial source audit, not a line-by-line review of every tracked text file or binary asset. No browser/Lighthouse run is claimed here.
 
 ## Inventory
 
@@ -36,7 +36,7 @@ Sampled pages had one H1, `lang` and alt attributes. Validate all pages after me
 
 ## P0 findings
 
-- About published a sample support QR beside a public payment identifier. The initial sample QR/payment block was removed. The owner subsequently supplied a replacement QR; its UPI payload was decoded successfully and its payee/handle checked. The verified owner-supplied QR and support block have now been restored. The separate Udyam verification QR remains unchanged.
+- About previously showed a sample support QR beside a public payment identifier. That sample has been replaced by the owner-supplied UPI QR. Its payload decoded and its UPI handle matches the existing site identifier; the payment block now displays the new image with a payee/amount confirmation reminder. This verifies the encoded payload, not bank-account ownership or a completed test transaction. The separate Udyam verification QR remains unchanged.
 - BSNL is named in the historical Noney case study. Keep the name but ask owner to confirm permission; no affiliation is asserted.
 - Rongmei Hymnal still needs a plain-language attribution/licensing note. Keep the existing “content review and attribution ongoing” notice. Do not modify hymn/song content, attribution data or datasets.
 - Sampled source did not reveal a high-confidence API token or private key. This is not a complete historical git-object secret scan; run a dedicated history scan and rotate any exposed credential.
@@ -59,7 +59,7 @@ Home and About lead copy were identical. The article archive is grouped by categ
 
 ## Priorities
 
-- P0: unverified payment QR/identifier removed; BSNL permission, Hymnal rights note and historical secret scan require owner action.
+- P0: owner-supplied payment QR is now live in the About support block; confirm BSNL name permission and Hymnal content rights, and complete the historical secret scan.
 - P1: metadata remediation, split home/about copy, homepage information architecture, globally newest-first article archive, confirm contact email and AdSense consent status.
 - P2: visual accessibility checks, OG image validation, Lighthouse and performance profiling.
 
