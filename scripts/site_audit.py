@@ -88,8 +88,8 @@ for page in html_files:
         canonical_tags = re.findall(r'<link\b(?=[^>]*\brel=["\']canonical["\'])[^>]*>', text, re.I)
         description_value = ""
         if len(description_tags) == 1:
-            value_match = re.search(r'\bcontent=["\']([^"\']*)["\']', description_tags[0], re.I)
-            description_value = value_match.group(1).strip() if value_match else ""
+            value_match = re.search(r'\bcontent=(["\'])(.*?)\1', description_tags[0], re.I)
+            description_value = value_match.group(2).strip() if value_match else ""
         if not title_value:
             fail(f"{rel}: missing page title text")
         elif title_value in first_party_titles:
