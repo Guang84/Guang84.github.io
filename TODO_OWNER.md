@@ -18,8 +18,8 @@ Owner decisions and evidence required before publication
 ## P2 — design and editorial
 
 - [ ] Supply a verified 1200 × 630 social image, or approve the existing image after its dimensions and alt text are checked.
-- [ ] Confirm the preferred spelling standard for all future publications. The revised core site copy uses Indian/British English (“fibre”, “authorised”, “organisation”).
-- [ ] Confirm whether the “Interests” line on About should include Music and Reading, or whether those interests should be omitted from the public profile.
+- [x] Use Indian/British English in revised core website copy (“fibre”, “authorised”, “organisation”). Article bodies were not rewritten.
+- [x] Move Music and Reading to a short Interests line on About; remove them from the homepage capability list.
 
 ## Related repositories (report only)
 
