@@ -27,7 +27,9 @@ jobs:
       - name: Build the staged static site
         run: python scripts/stage_site.py
 
-      - name: Check local links and fragments
+      - name: Check local links, fragments and external redirects
+        env:
+          CHECK_EXTERNAL: "1"
         run: node tools/check-links.mjs _site
 
       - name: Validate HTML structure and site integrity
