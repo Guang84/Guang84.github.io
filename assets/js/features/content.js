@@ -233,14 +233,10 @@ export async function initContent() {
       );
       if (!targets.length) return;
       const items = await loadCatalog(type);
-      // Article catalogues are already sorted by publication date; show exactly the three newest.
-      const selected =
-        type === "articles"
-          ? items.slice(0, 3)
-          : [
-              ...items.filter((x) => x.featured),
-              ...items.filter((x) => !x.featured),
-            ].slice(0, 4);
+      const selected = [
+        ...items.filter((x) => x.featured),
+        ...items.filter((x) => !x.featured),
+      ].slice(0, type === "projects" ? 4 : 6);
       targets.forEach((node) =>
         node.replaceChildren(
           ...(node.dataset.preview === "guides"

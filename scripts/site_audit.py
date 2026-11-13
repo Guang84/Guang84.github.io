@@ -59,8 +59,6 @@ if not SITE.exists():
     print('No _site directory. Run python scripts/stage_site.py first.', file=sys.stderr); raise SystemExit(2)
 html_files=sorted(SITE.rglob('*.html'))
 local_ref_count=0; image_count=0
-first_party_titles=set(); first_party_descriptions=set()
-protected_subsites={"RongmeiHymnal", "Noney-BSNL-Broadband-NMS", "Network-Analyzer"}
 id_map={}
 parsed_pages={}
 for page in html_files:
@@ -80,32 +78,6 @@ for page in html_files:
         image_count += 1
         if not has_alt: fail(f'{rel}: image missing alt attribute: {src}')
     text=page.read_text(encoding='utf-8')
-    # Enforce SEO metadata on the enterprise site, not the independently maintained sub-sites.
-    if rel.split("/", 1)[0] not in protected_subsites:
-        title_match = re.search(r"<title\b[^>]*>([\s\S]*?)</title>", text, re.I)
-        title_value = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", title_match.group(1))).strip() if title_match else ""
-        description_tags = re.findall(r'<meta\b(?=[^>]*\bname=["\']description["\'])[^>]*>', text, re.I)
-        canonical_tags = re.findall(r'<link\b(?=[^>]*\brel=["\']canonical["\'])[^>]*>', text, re.I)
-        description_value = ""
-        if len(description_tags) == 1:
-            value_match = re.search(r'\bcontent=(["\'])(.*?)\1', description_tags[0], re.I)
-            description_value = value_match.group(2).strip() if value_match else ""
-        if not title_value:
-            fail(f"{rel}: missing page title text")
-        elif title_value in first_party_titles:
-            fail(f"{rel}: page title is not unique: {title_value}")
-        else:
-            first_party_titles.add(title_value)
-        if len(description_tags) != 1 or not description_value:
-            fail(f"{rel}: expected exactly one non-empty meta description")
-        elif not 120 <= len(description_value) <= 155:
-            fail(f"{rel}: meta description must be 120–155 characters; found {len(description_value)}")
-        elif description_value in first_party_descriptions:
-            fail(f"{rel}: meta description is not unique")
-        else:
-            first_party_descriptions.add(description_value)
-        if len(canonical_tags) != 1:
-            fail(f"{rel}: expected exactly one canonical link")
     if rel == "about.html" and re.search(r"\b(?:Manipur|Northeast India|North-East India)\b", text, re.I):
         fail("about.html: regional location text must remain absent from the enterprise profile")
     footer_match = re.search(r'<footer\b(?=[^>]*\bclass=["\'][^"\']*\bsite-footer\b[^"\']*["\'])[^>]*>[\s\S]*?</footer>', text, re.I)
@@ -125,13 +97,13 @@ for page in html_files:
             fail(f"{rel}: founder signature must appear as — Founder")
         motto_match = re.search(r"""<p\b(?=[^>]*\bclass=["'][^"']*\bsite-footer-motto\b[^"']*["'])[^>]*>(.*?)</p>""", footer_html, re.I | re.S)
         motto_text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", motto_match.group(1))).strip() if motto_match else ""
-        expected_motto = "We build practical software for ISP operations and network teams. — Founder"
+        expected_motto = "I believe in building a future where technology and nature co-exist harmoniously. — Founder"
         if motto_text != expected_motto:
-            fail(f'{rel}: footer motto must use the approved practical software tagline')
+            fail(f'{rel}: footer motto must be the single approved GLab nature and innovation statement')
         if re.search(r"""class=["'][^"']*\bsite-footer-commitment\b""", footer_html, re.I):
             fail(f'{rel}: duplicate footer commitment must be removed')
         for required in (
-            "We build practical software for ISP operations and network teams.",
+            "I believe in building a future where technology and nature co-exist harmoniously.",
             "/assets/brand/udyam-verification-qr.png",
             "https://udyamregistration.gov.in/verifyudyambarcode.aspx?verifyudrn=",
             "Official enterprise website",

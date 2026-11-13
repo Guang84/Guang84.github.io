@@ -3,7 +3,7 @@
   "name": "GLab Enterprise",
   "url": "https://guang84.github.io/",
   "version": "15.5.10",
-  "description": "We build software for ISPs and network teams, including operations tools, network monitoring, OLT/ONU workflows and fibre planning.",
+  "description": "GLab Enterprise is an independent technology and engineering enterprise developing practical software, digital products and technical solutions, guided by innovation and a vision for technology and nature to co-exist in harmony.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
@@ -23,13 +23,13 @@
       "Innovation"
     ],
     "intro": [
-      "We build practical software for ISP operations, network monitoring, fibre planning and network teams.",
-      "We also publish technical guides and maintain digital projects. Each project shows what is released, in development, archived or retired."
+      "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products, and technical solutions. Driven by creativity, technological exploration, and a spirit of innovation, GLab is committed to developing useful technologies that address practical needs, encourage new possibilities, and contribute to meaningful progress.",
+      "Alongside technological development, GLab values the natural environment and aspires to contribute to a future where technology and nature co-exist in harmony. Its approach reflects a commitment to responsible innovation while recognising the importance of the natural world. GLab believes that technological advancement, innovative thinking, and environmental awareness can complement one another, encouraging a more balanced and sustainable approach to the future."
     ],
-    "statement": "Repair and reuse when practical. Make environmental claims only with evidence.",
-    "workLine": "Software for ISP operations, network monitoring, fibre planning and network tools.",
+    "statement": "A journey of a thousand miles begins with a single step.",
+    "workLine": "Products, services, engineering projects and technical publications developed and published by GLab Enterprise.",
     "interestLine": "Nature · Technology · Innovation",
-    "background": "We build practical software for ISP operations, network monitoring, fibre planning and network teams. We also publish technical guides and maintain digital projects. Each project shows what is released, in development, archived or retired.",
+    "background": "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products, and technical solutions. Driven by creativity, technological exploration, and a spirit of innovation, GLab is committed to developing useful technologies that address practical needs, encourage new possibilities, and contribute to meaningful progress. Alongside technological development, GLab values the natural environment and aspires to contribute to a future where technology and nature co-exist in harmony. Its approach reflects a commitment to responsible innovation while recognising the importance of the natural world. GLab believes that technological advancement, innovative thinking, and environmental awareness can complement one another, encouraging a more balanced and sustainable approach to the future.",
     "interests": [
       {
         "title": "Network Operations",
