@@ -1,0 +1,82 @@
+name: Mobile Lighthouse quality gate
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lighthouse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Build the staged static site
+        run: |
+          python -m pip install -r requirements.txt
+          python scripts/stage_site.py
+          python scripts/release_check.py
+          python scripts/site_audit.py
+
+      - name: Install Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: Install pinned Lighthouse CLI
+        run: npm install --global lighthouse@13.6.0
+
+      - name: Find Playwright Chromium
+        run: |
+          CHROME_PATH="$(python -c 'from playwright.sync_api import sync_playwright; p=sync_playwright().start(); print(p.chromium.executable_path); p.stop()')"
+          test -x "$CHROME_PATH"
+          echo "CHROME_PATH=$CHROME_PATH" >> "$GITHUB_ENV"
+
+      - name: Serve staged site and run mobile audits
+        run: |
+          mkdir -p /tmp/glab-lighthouse
+          python -m http.server 8765 --directory _site >/tmp/glab-lighthouse/server.log 2>&1 &
+          echo $! >/tmp/glab-lighthouse/server.pid
+          for attempt in $(seq 1 30); do
+            if curl --fail --silent http://127.0.0.1:8765/ >/dev/null; then break; fi
+            sleep 1
+          done
+          curl --fail --silent http://127.0.0.1:8765/ >/dev/null
+          for page in home about services; do
+            case "$page" in
+              home) url="http://127.0.0.1:8765/" ;;
+              about) url="http://127.0.0.1:8765/about.html" ;;
+              services) url="http://127.0.0.1:8765/services.html" ;;
+            esac
+            lighthouse "$url" \
+              --chrome-path="$CHROME_PATH" \
+              --chrome-flags="--headless --no-sandbox --disable-dev-shm-usage" \
+              --form-factor=mobile \
+              --only-categories=performance,accessibility,best-practices,seo \
+              --output=json \
+              --output-path="/tmp/glab-lighthouse/$page.json" \
+              --quiet
+          done
+
+      - name: Enforce accessibility, best-practices and SEO scores
+        run: node tools/check-lighthouse.mjs /tmp/glab-lighthouse
+
+      - name: Upload Lighthouse reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: glab-mobile-lighthouse-reports
+          path: /tmp/glab-lighthouse/*.json
+          if-no-files-found: ignore
+          retention-days: 14
