@@ -1,68 +1,73 @@
 # GLab Enterprise website audit
 
-Audit baseline: `main` and `upgrade/site-2026` both pointed to `1c959f5` before work. The repository contained 106 tracked files. This is a partial source audit, not a line-by-line review of every tracked text file or binary asset. No browser/Lighthouse run is claimed here.
+Audit scope: partial source and build-system review of the public enterprise website. The repository baseline had 106 tracked files. This is not a claim that every text and binary file or every historical git object received exhaustive manual review.
 
 ## Inventory
 
 | Area | Purpose |
 |---|---|
 | Root HTML | Home, About, Services, Contact, legal/editorial pages, 404 and offline pages |
-| `articles/` | Archive and 12 article pages |
-| `projects/` | GLabNetOps, Network Analyzer versions, SSH Fleet Doctor, Rongmei Hymnal and historical Noney NMS records |
-| `data/` | Site profile, article/project catalogues, shared footer |
-| `assets/css`, `assets/js` | Themes, responsive layout, accessibility, navigation, search, PWA and ads |
-| `RongmeiHymnal/`, `Noney-BSNL-Broadband-NMS/`, `Network-Analyzer/` | Existing published sub-sites; preserve URLs and data |
+| `articles/` | Article archive and 11 article pages |
+| `projects/` | GLabNetOps, Network Analyzer releases, SSH Fleet Doctor, Rongmei Hymnal and historical Noney NMS records |
+| `data/` | Site profile, article/project catalogues and shared footer template |
+| `assets/css/`, `assets/js/` | Theme, responsive layout, accessibility, navigation, search, PWA and advertising features |
+| `RongmeiHymnal/`, `Noney-BSNL-Broadband-NMS/`, `Network-Analyzer/` | Existing published sub-sites; routes and song/project data are protected |
 | `scripts/`, `.github/workflows/` | Static build, content validation, staging and browser smoke tests |
 
-Potential historical duplicates include Network Analyzer version records and Noney route aliases. Preserve them unless owner confirms removal.
+Potential historical duplicates include Network Analyzer version records and Noney route aliases. These remain in place because they represent historical releases or preserved routes.
 
-## Page metadata baseline
+## Page metadata
 
-| Page | Description length | Canonical |
-|---|---:|---|
-| Home | 228 | Missing |
-| About | 228 | Missing |
-| Services | 225 | Missing |
-| GLabNetOps | 414 | Missing |
-| Articles archive | 179 | Missing |
-| GLabNetOps project story | 263 | Missing |
-| Network Analyzer v2024 | 185 | Missing |
-| Network Analyzer v2026 | 211 | Missing |
-| SSH Fleet Doctor | 346 | Missing |
-| Terms | 103 | Present |
-| Privacy | 128 | Present |
+The first-party HTML pages are being validated for one unique title, one unique canonical URL and one unique 120–155 character description. `scripts/site_audit.py` now enforces these checks during the staged-site audit. The protected sub-sites are excluded from this enterprise-page metadata rule.
 
-Sampled pages had one H1, `lang` and alt attributes. Validate all pages after metadata remediation. The repository already generates sitemap, RSS and service-worker cache versions through `scripts/build_content.py`.
+The enterprise site uses a generated static build. `scripts/build_content.py` sorts article records by publication date descending, generates the RSS feed and creates the deployed article archive from that sorted catalogue. The homepage article preview now uses the first three records from the same date-sorted catalogue.
 
 ## P0 findings
 
-- About previously showed a sample support QR beside a public payment identifier. That sample has been replaced by the owner-supplied UPI QR. Its payload decoded and its UPI handle matches the existing site identifier; the payment block now displays the new image with a payee/amount confirmation reminder. This verifies the encoded payload, not bank-account ownership or a completed test transaction. The separate Udyam verification QR remains unchanged.
-- BSNL is named in the historical Noney case study. Keep the name but ask owner to confirm permission; no affiliation is asserted.
-- Rongmei Hymnal still needs a plain-language attribution/licensing note. Keep the existing “content review and attribution ongoing” notice. Do not modify hymn/song content, attribution data or datasets.
-- Sampled source did not reveal a high-confidence API token or private key. This is not a complete historical git-object secret scan; run a dedicated history scan and rotate any exposed credential.
+- The old About support block paired a sample QR with a payment identifier. The owner supplied a replacement QR. Its encoded UPI payload decoded and the handle matches the identifier already used on the site. The replacement is displayed with a reminder to verify payee and amount in the payment app. This does not independently prove bank-account ownership or a completed test transaction.
+- The separate Udyam verification QR and official verification URL in the footer are unchanged.
+- BSNL is named in the historical Noney case study. Confirm permission to use the name; do not imply affiliation or endorsement.
+- Rongmei Hymnal needs a plain-language attribution/licensing note. Keep the existing “content review and attribution ongoing” notice. Do not edit song text, attribution data, book metadata or datasets as part of this website work.
+- The sampled source scan did not identify a high-confidence API token or private key. It was not a complete historical git-object scan; a dedicated history scan remains an owner/security action.
 
 ## Third parties
 
-Google Fonts (typography); Google AdSense metadata/loader (owner must confirm active ads and consent setup); GitHub Pages (hosting); WhatsApp (outbound contact); Udyam portal (registration verification). No new tracker was added. AdSense configuration is retained pending owner approval.
+- Google Fonts: typography.
+- Google AdSense metadata and loader: retained pending owner confirmation of active ads and consent configuration.
+- GitHub Pages: static hosting.
+- WhatsApp: outbound contact option.
+- Udyam portal: business-registration verification.
 
-## Accessibility
+No additional tracker was introduced. No AdSense configuration was removed without approval.
 
-Existing skip links, main landmarks, focus-visible styles, font-size preferences, dark/light themes and reduced-motion handling were found in source. Keyboard-only, screen-reader, contrast, touch-target and 360/768/1280px checks require a real browser. No score is claimed.
+## Accessibility and responsive design
+
+Existing skip links, main landmarks, focus-visible styles, text-size controls, dark/light themes and reduced-motion handling were retained. The existing Playwright smoke suite exercises key routes and responsive viewports at 360, 768 and 1280 px. This is not a substitute for a manual keyboard/screen-reader review or measured contrast and touch-target checks.
 
 ## SEO, PWA and performance
 
-Sitemap, robots, feed, 404 and offline pages already exist. Validate canonical URLs, 120–155 character unique descriptions, JSON-LD, OG image alt and 1200×630 dimensions, and feed order. Root PWA has a service worker/offline fallback. Rongmei Hymnal is a separate sub-site; no Hymnal service-worker/data changes were made. Image byte sizes, unused CSS/JS and render-blocking resources need browser profiling.
+Sitemap, robots, feed, 404 and offline pages already exist. The homepage already has Organization JSON-LD; the current update aligns its name/logo/description and keeps the GitHub profile in `sameAs`. Article detail pages already include Article JSON-LD.
 
-## Content
+The root site has a service worker and offline fallback. Rongmei Hymnal is a separate sub-site; no Hymnal song data or service-worker files were changed. Lighthouse scores, social-image byte/dimension verification, image compression, unused CSS/JS and render-blocking performance profiling still require dedicated measurement.
 
-Home and About lead copy were identical. The article archive is grouped by category rather than globally newest-first, although source catalogue/feed are date-ordered. Verify article dates against publication history before changing them. Retain BSNL pending permission and the Hymnal review notice. Legal pages were not rewritten.
+## Content and information architecture
+
+- The homepage and About introduction were duplicates. The homepage now leads with ISP/network operations software; About carries the longer enterprise explanation.
+- The homepage is organised as: hero, four build areas, GLabNetOps, other projects with lifecycle labels, four working steps, three newest articles and contact.
+- The homepage no longer presents AI, cybersecurity or sustainable farming as broad enterprise service claims. Project and article evidence remains discoverable through the portfolio and publication archive.
+- Music and Reading now appear as a short Interests line on About, not as homepage capabilities.
+- About replaces generic quotations with a concrete repair/reuse/maintenance practice. The revised footer tagline describes the enterprise's software work.
+- Project lifecycle wording remains grounded in existing project records. GLabNetOps remains in development with private source; Noney production remains retired; Rongmei Hymnal remains deployed with editorial review ongoing; SSH Fleet Doctor remains in development.
+- Legal pages and article bodies were not rewritten.
 
 ## Priorities
 
-- P0: owner-supplied payment QR is now live in the About support block; confirm BSNL name permission and Hymnal content rights, and complete the historical secret scan.
-- P1: metadata remediation, split home/about copy, homepage information architecture, globally newest-first article archive, confirm contact email and AdSense consent status.
-- P2: visual accessibility checks, OG image validation, Lighthouse and performance profiling.
+- P0: replacement support QR is live; BSNL name permission, Hymnal rights note and exhaustive historical secret scan remain owner actions.
+- P1: owner confirmation of public email and AdSense/consent setup; project outcome evidence before any Results section.
+- P2: manual accessibility review, Lighthouse, social-image verification and performance profiling.
 
 ## Related repositories (report only)
 
-The GitHub integration did not expose `Guang84/Google-API-map`; its README, clone commands, stray quote markers, key history/restrictions and contact could not be verified. Review required. Sampled related repositories: GLabNetOps (development, private source); Network Analyzer (Apache-2.0); SSH Fleet Doctor (Apache-2.0 metadata but README appears stale and refers to SSH-Infiltrator); Noney-BSNL-Broadband-NMS (retired environment, no clear repo licence); Rongmei Hymnal (Apache-2.0 applies to software/docs, not song content); Glab-assets (custom brand-assets licence). Public visibility does not grant rights to third-party or cultural content.
+The GitHub integration did not expose `Guang84/Google-API-map`; its README, clone instructions, stray quote markers, Google Maps key history/restrictions and public contact could not be verified. Owner review remains required.
+
+Sampled related repositories: GLabNetOps (development, private source); Network Analyzer (Apache-2.0); SSH Fleet Doctor (Apache-2.0 metadata but README appears stale and refers to SSH-Infiltrator); Noney-BSNL-Broadband-NMS (retired production environment, no clear repo licence); Rongmei Hymnal (Apache-2.0 applies to software/docs, not song content); Glab-assets (custom brand-assets licence). Public visibility does not grant rights to third-party or cultural content.
