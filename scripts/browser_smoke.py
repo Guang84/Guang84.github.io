@@ -33,10 +33,9 @@ def page_route(path: Path) -> str:
         return "/"
     parts = rel.split("/")
     if parts[-1] == "index.html":
-        if len(parts) == 2 and parts[0] in {"articles", "projects"}:
-            return f"/{parts[0]}/"
-        if len(parts) >= 3 and parts[0] in {"articles", "projects"}:
-            return f"/{parts[0]}/{parts[1]}/"
+        if len(parts) == 1:
+            return "/"
+        return "/" + "/".join(parts[:-1]) + "/"
     return "/" + rel
 
 
@@ -72,6 +71,7 @@ def run_tests():
     critical_routes = {
         "/", "/about.html", "/articles/", "/articles/building-with-nature-in-mind/",
         "/projects/", "/services.html", "/projects/glabnetops/", "/projects/noney-bsnl-broadband-nms/",
+        "/nature/", "/technology/", "/innovation/", "/business/",
     }
     urls = [route for route in all_urls if route in critical_routes]
 
@@ -118,7 +118,7 @@ def run_tests():
             # Static audit checks all generated routes and links. Keep browser
             # rendering focused on key entry points at multiple widths, then
             # exercise user-facing interactions on representative pages.
-            responsive_routes = ["/", "/articles/", "/projects/glabnetops/"]
+            responsive_routes = ["/", "/nature/", "/technology/", "/innovation/", "/articles/", "/projects/glabnetops/"]
             viewport_jobs = [("desktop", 1280, 900, urls)]
             for label, width, height in VIEWPORTS[1:]:
                 viewport_jobs.append((label, width, height, responsive_routes))
