@@ -328,6 +328,8 @@ def sync_shared_navigation() -> list[str]:
         '<a href="/projects/">Projects</a>'
         '<a href="/articles/">Insights</a>'
         '<a href="/about.html">About</a>'
+        '<a href="/services.html">Services</a>'
+        '<a href="/contact.html">Contact</a>'
         '<a href="/business/">Business &amp; Support</a>'
     )
     mobile = links + '<button class="button-secondary" type="button" aria-controls="search-dialog" aria-haspopup="dialog" data-search-toggle>Search</button>'

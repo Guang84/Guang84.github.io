@@ -160,6 +160,7 @@ def render_template(kind: str, slug: str, title: str, summary: str) -> str:
         '<a href="/nature/">Nature</a><a href="/technology/">Technology</a>'
         '<a href="/innovation/">Innovation</a><a href="/projects/">Projects</a>'
         '<a href="/articles/">Insights</a><a href="/about.html">About</a>'
+        '<a href="/services.html">Services</a><a href="/contact.html">Contact</a>'
         '<a href="/business/">Business &amp; Support</a>'
     )
     mobile_links = primary_links + (
