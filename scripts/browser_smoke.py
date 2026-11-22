@@ -33,10 +33,9 @@ def page_route(path: Path) -> str:
         return "/"
     parts = rel.split("/")
     if parts[-1] == "index.html":
-        if len(parts) == 2 and parts[0] in {"articles", "projects"}:
-            return f"/{parts[0]}/"
-        if len(parts) >= 3 and parts[0] in {"articles", "projects"}:
-            return f"/{parts[0]}/{parts[1]}/"
+        if len(parts) == 1:
+            return "/"
+        return "/" + "/".join(parts[:-1]) + "/"
     return "/" + rel
 
 
@@ -72,6 +71,7 @@ def run_tests():
     critical_routes = {
         "/", "/about.html", "/articles/", "/articles/building-with-nature-in-mind/",
         "/projects/", "/services.html", "/projects/glabnetops/", "/projects/noney-bsnl-broadband-nms/",
+        "/nature/", "/technology/", "/innovation/", "/business/",
     }
     urls = [route for route in all_urls if route in critical_routes]
 
@@ -118,7 +118,7 @@ def run_tests():
             # Static audit checks all generated routes and links. Keep browser
             # rendering focused on key entry points at multiple widths, then
             # exercise user-facing interactions on representative pages.
-            responsive_routes = ["/", "/articles/", "/projects/glabnetops/"]
+            responsive_routes = ["/", "/nature/", "/technology/", "/innovation/", "/articles/", "/projects/glabnetops/"]
             viewport_jobs = [("desktop", 1280, 900, urls)]
             for label, width, height in VIEWPORTS[1:]:
                 viewport_jobs.append((label, width, height, responsive_routes))
@@ -167,19 +167,27 @@ def run_tests():
                             return 0
                         fail(errors, f"{label} {route}: {type(exc).__name__}: {exc}")
 
-            # Home introduction must be synchronized with the configurable copy.
+            # Home introduction must match the current site configuration.
             page.set_viewport_size({"width": 1280, "height": 900})
             page.goto(base_url + "/", wait_until="load")
             try:
                 page.wait_for_function(
-                    """() => document.querySelector('[data-site-greeting]')?.textContent.trim() === 'GLab Enterprise' && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.trim() === "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products, and technical solutions. Driven by creativity, technological exploration, and a spirit of innovation, GLab is committed to developing useful technologies that address practical needs, encourage new possibilities, and contribute to meaningful progress.") && [...document.querySelectorAll('[data-site-intro] p')].some(p => p.textContent.trim() === "Alongside technological development, GLab values the natural environment and aspires to contribute to a future where technology and nature co-exist in harmony. Its approach reflects a commitment to responsible innovation while recognising the importance of the natural world. GLab believes that technological advancement, innovative thinking, and environmental awareness can complement one another, encouraging a more balanced and sustainable approach to the future.")""",
+                    """async () => {
+                      const response = await fetch('/data/config/site.json', { cache: 'no-cache' });
+                      if (!response.ok) return false;
+                      const config = await response.json();
+                      const greeting = document.querySelector('[data-site-greeting]')?.textContent.trim();
+                      const paragraphs = [...document.querySelectorAll('[data-site-intro] p')].map(p => p.textContent.trim());
+                      return greeting === config.profile.greeting
+                        && JSON.stringify(paragraphs) === JSON.stringify(config.profile.intro);
+                    }""",
                     timeout=5000,
                 )
             except PlaywrightTimeoutError:
-                fail(errors, "Home page: enterprise identity or official introduction did not render from site configuration")
+                fail(errors, "Home page: enterprise identity or introduction did not render from site configuration")
 
-            # Shared site navigation and brand caption must remain consistent.
-            expected_navigation = ["Products & Projects", "Services", "Publications", "About GLab", "Contact"]
+            # Shared navigation must expose the three pillars and main destinations.
+            expected_navigation = ["Nature", "Technology", "Innovation", "Projects", "Insights", "About", "Services", "Contact", "Business & Support"]
             for selector in ("nav.nav", "[data-mobile-menu] nav"):
                 nav_text = page.locator(selector).text_content() or ""
                 for label in expected_navigation:

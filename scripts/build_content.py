@@ -27,8 +27,12 @@ def configured_site_url() -> str:
 
 
 SITE_URL = configured_site_url()
+PILLARS = {"Nature", "Technology", "Innovation"}
+PILLAR_PAGES = [("nature", "Nature"), ("technology", "Technology"), ("innovation", "Innovation")]
 STATIC_PAGES = [
-    ("", "index.html"), ("projects/", "projects/index.html"), ("articles/", "articles/index.html"),
+    ("", "index.html"), ("nature/", "nature/index.html"), ("technology/", "technology/index.html"),
+    ("innovation/", "innovation/index.html"), ("business/", "business/index.html"),
+    ("projects/", "projects/index.html"), ("articles/", "articles/index.html"),
     ("about.html", "about.html"), ("services.html", "services.html"), ("contact.html", "contact.html"), ("privacy.html", "privacy.html"),
     ("terms.html", "terms.html"), ("start-here.html", "start-here.html"),
     ("project-checklist.html", "project-checklist.html"), ("editorial-policy.html", "editorial-policy.html"),
@@ -72,36 +76,67 @@ def meta_item(path: Path, kind: str) -> dict | None:
     info = page_info(path)
     prefix = "glab:article-" if kind == "articles" else "glab:project-"
     m = info.meta
-    # Legacy URL redirects may live under articles/ or projects/ so they can be
-    # deployed, but noindex pages must never become content catalogue records.
     if "noindex" in m.get("robots", "").lower():
         return None
     status = m.get(prefix + ("status" if kind == "articles" else "publication-status"), "draft" if kind == "articles" else "published").lower()
     if status != "published":
         return None
     slug = path.parent.name
-    if not SLUG_RE.fullmatch(slug): raise ValueError(f"Invalid {kind[:-1]} slug: {slug}")
+    if not SLUG_RE.fullmatch(slug):
+        raise ValueError(f"Invalid {kind[:-1]} slug: {slug}")
     title = m.get(prefix + "title", "")
     summary = m.get(prefix + ("excerpt" if kind == "articles" else "summary"), "")
-    if not title or not summary: raise ValueError(f"{path.relative_to(ROOT)} needs {prefix}title and {prefix}{'excerpt' if kind == 'articles' else 'summary'} metadata")
+    if not title or not summary:
+        raise ValueError(f"{path.relative_to(ROOT)} needs {prefix}title and {prefix}{'excerpt' if kind == 'articles' else 'summary'} metadata")
     expected = f"{SITE_URL}/{kind}/{slug}/"
-    if info.canonical != expected: raise ValueError(f"{path.relative_to(ROOT)} canonical must be {expected}")
-    if info.h1 != 1 or info.main != 1 or info.body != 1: raise ValueError(f"{path.relative_to(ROOT)} must have one h1, one main, and one body")
+    if info.canonical != expected:
+        raise ValueError(f"{path.relative_to(ROOT)} canonical must be {expected}")
+    if info.h1 != 1 or info.main != 1 or info.body != 1:
+        raise ValueError(f"{path.relative_to(ROOT)} must have one h1, one main, and one body")
     text = path.read_text(encoding="utf-8")
-    if re.search(r"\{\{[A-Z][A-Z0-9_ -]*\}\}", text): raise ValueError(f"Published page {path.relative_to(ROOT)} contains template placeholders")
+    if re.search(r"\{\{[A-Z][A-Z0-9_ -]*\}\}", text):
+        raise ValueError(f"Published page {path.relative_to(ROOT)} contains template placeholders")
+    pillar = m.get(prefix + "pillar", "").strip()
+    if pillar not in PILLARS:
+        raise ValueError(f"{path.relative_to(ROOT)} needs a valid {prefix}pillar: Nature, Technology, or Innovation")
+    related = list(dict.fromkeys(x.strip() for x in m.get(prefix + "related-pillars", "").split(",") if x.strip()))
+    if any(value not in PILLARS for value in related):
+        raise ValueError(f"{path.relative_to(ROOT)} contains an invalid related pillar")
+    related = [value for value in related if value != pillar]
     tags = [x.strip() for x in m.get(prefix + "tags", "General").split(",") if x.strip()]
     featured = m.get(prefix + "featured", "false").lower() == "true"
-    updated = m.get(prefix + "updated" if kind == "articles" else prefix + "updated", m.get(prefix+"date", ""))
+    updated = m.get(prefix + "updated", m.get(prefix + "date", ""))
     if kind == "articles":
         date = m.get(prefix + "date", "")
-        if not DATE_RE.fullmatch(date): raise ValueError(f"{path.relative_to(ROOT)} has invalid glab:article-date")
-        if not DATE_RE.fullmatch(updated): raise ValueError(f"{path.relative_to(ROOT)} has invalid glab:article-updated")
-        return {"id":slug,"title":title,"date":date,"updated":updated,"excerpt":summary,"kind":m.get(prefix+"kind","Article"),"readTime":m.get(prefix+"read-time",""),"tags":tags,"publicationStatus":"published","featured":featured}
+        if not DATE_RE.fullmatch(date):
+            raise ValueError(f"{path.relative_to(ROOT)} has invalid glab:article-date")
+        if not DATE_RE.fullmatch(updated):
+            raise ValueError(f"{path.relative_to(ROOT)} has invalid glab:article-updated")
+        category = m.get(prefix + "category", pillar)
+        return {
+            "id": slug, "title": title, "date": date, "updated": updated,
+            "excerpt": summary, "kind": m.get(prefix + "kind", "Article"),
+            "readTime": m.get(prefix + "read-time", ""), "tags": tags,
+            "publicationStatus": "published", "featured": featured,
+            "category": category, "categoryLabel": pillar,
+            "pillar": pillar, "relatedPillars": related,
+        }
     year = m.get(prefix + "year", "")
-    if not year.isdigit(): raise ValueError(f"{path.relative_to(ROOT)} needs numeric glab:project-year")
-    if not m.get(prefix+"category") or not m.get(prefix+"status"):
+    if not year.isdigit():
+        raise ValueError(f"{path.relative_to(ROOT)} needs numeric glab:project-year")
+    if not m.get(prefix + "category") or not m.get(prefix + "status"):
         raise ValueError(f"{path.relative_to(ROOT)} needs project category and status metadata")
-    return {"id":slug,"title":title,"category":m[prefix+"category"],"year":int(year),"status":m[prefix+"status"],"summary":summary,"updated":updated or f"{year}-01-01","tags":tags,"repository":{"url":m.get(prefix+"repository","")},"demoUrl":m.get(prefix+"demo",""),"featured":featured,"publicationStatus":"published","guide":{"title":m.get(prefix+"guide-title",""),"summary":m.get(prefix+"guide-summary","")}}
+    return {
+        "id": slug, "title": title, "category": m[prefix + "category"],
+        "year": int(year), "status": m[prefix + "status"], "summary": summary,
+        "updated": updated or f"{year}-01-01", "tags": tags,
+        "repository": {"url": m.get(prefix + "repository", "")},
+        "demoUrl": m.get(prefix + "demo", ""), "featured": featured,
+        "publicationStatus": "published",
+        "guide": {"title": m.get(prefix + "guide-title", ""), "summary": m.get(prefix + "guide-summary", "")},
+        "pillar": pillar, "relatedPillars": related,
+    }
+
 
 def load_records(kind: str) -> list[dict]:
     base = ROOT / kind
@@ -128,12 +163,12 @@ def detail_url(kind: str, item_id: str, fragment: str = "") -> str:
 def build_search_index(projects: list[dict], articles: list[dict]) -> None:
     rows=[]
     for item in projects:
-        base={"id":item["id"],"summary":item.get("summary",""),"tags":item.get("tags",[])}
+        base={"id":item["id"],"summary":item.get("summary",""),"tags":item.get("tags",[]),"pillar":item.get("pillar","Technology"),"relatedPillars":item.get("relatedPillars",[])}
         rows.append({**base,"type":"Project","title":item["title"],"url":detail_url("projects",item["id"])})
         if item.get("guide",{}).get("title"):
             rows.append({**base,"type":"Project guide","title":item["guide"]["title"],"summary":item["guide"].get("summary",base["summary"]),"url":detail_url("projects",item["id"],"#guide")})
     for item in articles:
-        rows.append({"type":item.get("kind","Article"),"id":item["id"],"title":item["title"],"summary":item.get("excerpt",""),"tags":item.get("tags",[]),"url":detail_url("articles",item["id"])})
+        rows.append({"type":item.get("kind","Article"),"id":item["id"],"title":item["title"],"summary":item.get("excerpt",""),"tags":item.get("tags",[]),"pillar":item.get("pillar","Technology"),"relatedPillars":item.get("relatedPillars",[]),"url":detail_url("articles",item["id"])})
     rows.extend([
       {"type":"Guide","id":"start-here","title":"Start here","summary":"Choose a practical reading path through GLab articles and project case studies.","tags":[],"url":"/start-here.html"},
       {"type":"Guide","id":"project-checklist","title":"Before you run a project","summary":"Evaluate prerequisites, permissions, risks, verification, and rollback before trying a project.","tags":[],"url":"/project-checklist.html"},
@@ -220,18 +255,110 @@ def update_archive(root_path: Path, kind: str, items: list[dict]) -> None:
     cards=[]
     if kind=='articles':
         for item in items:
-            query=' '.join([item['id'],item['title'],item.get('excerpt',''),*item.get('tags',[])]).lower()
+            query=' '.join([item['id'],item['title'],item.get('excerpt',''),item.get('pillar',''),item.get('category',''),*item.get('relatedPillars',[]),*item.get('tags',[])]).lower()
             tags=escape(query,quote=True)
-            card=f'<a class="writing-item" data-project-card data-category="{escape(item.get("kind","Article"),quote=True)}" data-search="{tags}" href="{detail_url("articles",item["id"])}"><time class="writing-date" datetime="{escape(item.get("date",""))}">{escape(item.get("date",""))}</time><div><p class="eyebrow">{escape(item.get("kind","Article"))} · {escape(item.get("readTime",""))}</p><h2>{escape(item["title"])}</h2></div><p class="writing-excerpt">{escape(item.get("excerpt",""))}</p><span aria-hidden="true">↗</span></a>'
+            pillar = item.get("pillar", "Technology")
+            card=f'<a class="writing-item" data-project-card data-category="{escape(pillar,quote=True)}" data-pillar="{escape(pillar,quote=True)}" data-search="{tags}" href="{detail_url("articles",item["id"])}"><time class="writing-date" datetime="{escape(item.get("date",""))}">{escape(item.get("date",""))}</time><div><p class="eyebrow">{escape(item.get("kind","Article"))} · {escape(pillar)} · {escape(item.get("readTime",""))}</p><h2>{escape(item["title"])}</h2></div><p class="writing-excerpt">{escape(item.get("excerpt",""))}</p><span aria-hidden="true">↗</span></a>'
             cards.append(card)
     else:
         for index,item in enumerate(items):
             query=' '.join([item['id'],item['title'],item.get('summary',''),item.get('category',''),*item.get('tags',[])]).lower()
             tags_html = ''.join(f"<li>{escape(t)}</li>" for t in item.get("tags", []))
-            card = f"""<article class="project-card" data-project-card data-category="{escape(item.get('category','Other'), quote=True)}" data-search="{escape(query, quote=True)}"><div class="project-card-head"><span class="project-number">{index+1:02}</span><span class="project-status">{escape(item.get('status',''))}</span></div><div class="project-copy"><p class="eyebrow">{escape(item.get('category','Project'))} · {escape(str(item.get('year','')))}</p><h2>{escape(item['title'])}</h2><p>{escape(item.get('summary',''))}</p><ul>{tags_html}</ul><a href="{detail_url('projects', item['id'])}">Explore project →</a></div></article>"""
+            card = f"""<article class="project-card" data-project-card data-category="{escape(item.get('category','Other'), quote=True)}" data-pillar="{escape(item.get('pillar','Technology'), quote=True)}" data-search="{escape(query, quote=True)}"><div class="project-card-head"><span class="project-number">{index+1:02}</span><span class="project-status">{escape(item.get('status',''))}</span></div><div class="project-copy"><p class="eyebrow">{escape(item.get('category','Project'))} · {escape(str(item.get('year','')))}</p><h2>{escape(item['title'])}</h2><p>{escape(item.get('summary',''))}</p><ul>{tags_html}</ul><a href="{detail_url('projects', item['id'])}">Explore project →</a></div></article>"""
             cards.append(card)
     replacement=text[start:open_end]+"\n"+"\n".join(cards)+"\n      </div>"
     root_path.write_text(text[:start]+replacement+text[end:],encoding="utf-8")
+
+def update_pillar_pages(articles: list[dict], projects: list[dict]) -> None:
+    """Build the live article and project selections for each editorial pillar."""
+    def card(item: dict, kind: str) -> str:
+        if kind == "article":
+            href = detail_url("articles", item["id"])
+            summary = item.get("excerpt", "")
+            marker = f"Insight · {item.get('kind', 'Article')} · {item.get('date', '')}"
+        else:
+            href = detail_url("projects", item["id"])
+            summary = item.get("summary", "")
+            marker = f"Project · {item.get('status', '')}"
+        return (
+            f'<a class="pillar-content-card" href="{escape(href, quote=True)}">'
+            f'<span class="eyebrow">{escape(marker)}</span>'
+            f'<h4>{escape(item.get("title", ""))}</h4>'
+            f'<p>{escape(summary)}</p>'
+            f'<span class="pillar-card-link">Explore {kind} →</span></a>'
+        )
+
+    for slug, pillar in PILLAR_PAGES:
+        page = ROOT / slug / "index.html"
+        if not page.is_file():
+            raise ValueError(f"Missing pillar page: {page.relative_to(ROOT)}")
+        source = page.read_text(encoding="utf-8")
+        article_items = [item for item in articles if item.get("pillar") == pillar or pillar in item.get("relatedPillars", [])]
+        project_items = [item for item in projects if item.get("pillar") == pillar or pillar in item.get("relatedPillars", [])]
+        article_html = "".join(card(item, "article") for item in article_items)
+        project_html = "".join(card(item, "project") for item in project_items)
+        if not article_html:
+            article_html = '<p class="empty-state">No publications are currently listed in this pillar.</p>'
+        if project_html:
+            project_section = '<section class="pillar-dynamic-group"><h3>Related projects</h3><div class="pillar-content-grid">' + project_html + '</div></section>'
+        elif pillar == "Nature":
+            project_section = (
+                '<section class="pillar-dynamic-group"><h3>Related projects</h3>'
+                '<p class="empty-state">No Nature-related projects are currently listed in the portfolio. Future work will be added when it is documented.</p></section>'
+            )
+        else:
+            project_section = '<section class="pillar-dynamic-group"><h3>Related projects</h3><p class="empty-state">No projects are currently listed in this pillar.</p></section>'
+        rendered = (
+            '<section class="pillar-dynamic-group"><h3>Insights and publications</h3>'
+            '<div class="pillar-content-grid">' + article_html + '</div></section>' + project_section
+        )
+        marker = re.compile(r'<!-- PILLAR_ITEMS_START -->[\s\S]*?<!-- PILLAR_ITEMS_END -->')
+        updated, count = marker.subn(lambda _: rendered, source, count=1)
+        if count != 1:
+            raise ValueError(f"{page.relative_to(ROOT)} must contain one pair of pillar content markers")
+        page.write_text(updated, encoding="utf-8")
+
+
+def sync_shared_navigation() -> list[str]:
+    """Keep primary and mobile navigation consistent across all published pages."""
+    links = (
+        '<a href="/nature/">Nature</a>'
+        '<a href="/technology/">Technology</a>'
+        '<a href="/innovation/">Innovation</a>'
+        '<a href="/projects/">Projects</a>'
+        '<a href="/articles/">Insights</a>'
+        '<a href="/about.html">About</a>'
+        '<a href="/services.html">Services</a>'
+        '<a href="/contact.html">Contact</a>'
+        '<a href="/business/">Business &amp; Support</a>'
+    )
+    mobile = links + '<button class="button-secondary" type="button" aria-controls="search-dialog" aria-haspopup="dialog" data-search-toggle>Search</button>'
+    primary_re = re.compile(
+        r"""(<nav\b(?=[^>]*\bclass=["'][^"']*\bnav\b[^"']*["'])(?=[^>]*\baria-label=["']Primary["'])[^>]*>)[\s\S]*?(</nav>)""",
+        re.I,
+    )
+    mobile_re = re.compile(
+        r"""(<nav\b(?=[^>]*\baria-label=["']Mobile["'])[^>]*>)[\s\S]*?(</nav>)""",
+        re.I,
+    )
+    errors = []
+    updated_count = 0
+    for public_path in public_files():
+        if not public_path.lower().endswith(".html"):
+            continue
+        page = ROOT / public_path.lstrip("/")
+        source = page.read_text(encoding="utf-8")
+        updated, primary_count = primary_re.subn(lambda match: match.group(1) + links + match.group(2), source, count=1)
+        updated, mobile_count = mobile_re.subn(lambda match: match.group(1) + mobile + match.group(2), updated, count=1)
+        if primary_count == 1 and mobile_count == 1:
+            if updated != source:
+                page.write_text(updated, encoding="utf-8")
+                updated_count += 1
+        elif primary_count != mobile_count:
+            errors.append(f"{public_path}: primary and mobile navigation are not both present")
+    print(f"Shared navigation synchronized across published pages ({updated_count} changed).")
+    return errors
+
 
 def sync_shared_footer() -> list[str]:
     """Apply the canonical footer partial to every HTML page included in the public site."""
@@ -306,6 +433,20 @@ def validate_catalog(items_by_kind: dict[str,list[dict]]) -> list[str]:
             for item in saved.get('items',[]):
                 if 'sections' in item or 'body' in item:errors.append(f"{path.relative_to(ROOT)} must contain metadata only")
     return errors
+
+def validate_content_pillars(items_by_kind: dict[str, list[dict]]) -> list[str]:
+    errors = []
+    for kind, items in items_by_kind.items():
+        for item in items:
+            if item.get("pillar") not in PILLARS:
+                errors.append(f"{kind}/{item.get('id', '?')}: missing or invalid primary pillar")
+            invalid = [value for value in item.get("relatedPillars", []) if value not in PILLARS]
+            if invalid:
+                errors.append(f"{kind}/{item.get('id', '?')}: invalid related pillar(s): {', '.join(invalid)}")
+            if item.get("pillar") in item.get("relatedPillars", []):
+                errors.append(f"{kind}/{item.get('id', '?')}: primary pillar is repeated as a related pillar")
+    return errors
+
 
 def validate_layout_css() -> list[str]:
     """Catch the .detail-section two-column content placement regression."""
@@ -517,6 +658,8 @@ def build(write: bool, stage: bool) -> list[str]:
         config=json.loads((ROOT/'data/config/site.json').read_text(encoding='utf-8'))
         update_archive(ROOT/'articles/index.html','articles',articles)
         update_archive(ROOT/'projects/index.html','projects',projects)
+        update_pillar_pages(articles, projects)
+        errors.extend(sync_shared_navigation())
         errors.extend(sync_shared_footer())
         generate_page_contents()
         build_search_index(projects,articles)
@@ -524,6 +667,7 @@ def build(write: bool, stage: bool) -> list[str]:
         build_sitemap(projects,articles)
         update_service_worker(config)
     errors.extend(validate_catalog({'articles':articles,'projects':projects}))
+    errors.extend(validate_content_pillars({'articles': articles, 'projects': projects}))
     errors.extend(validate_layout_css())
     for loc,rel in STATIC_PAGES:
         if not (ROOT/rel).exists():errors.append(f"Missing required static page: {rel}")

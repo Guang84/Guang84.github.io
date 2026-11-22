@@ -17,6 +17,12 @@ python scripts/site_audit.py
 
 The site audit checks that each staged page uses the canonical footer template.
 
+## Website content and maintenance
+
+The site is a static GitHub Pages publication. Canonical article and project pages are stored as HTML; the build scripts generate the searchable catalogues, archives, RSS feed, sitemap and deployment copy.
+
+For local content authoring and release checks, see [Website maintenance](docs/website-maintenance.md). The local site manager creates unpublished drafts; it is not a browser-based CMS. Do not place GitHub tokens or other credentials in browser-side code. A web CMS requires a separately configured authentication provider before it can write to the repository.
+
 ## Website
 
 - [Official Website](https://guang84.github.io/)
@@ -25,7 +31,7 @@ The site audit checks that each staged page uses the canonical footer template.
 
 ## Copyright & Use of Content
 
-© GLab 2026 Enterprise. All rights reserved.
+© 2026 GLab Enterprise. All rights reserved.
 
 The work presented through this website and its projects reflects the development, ideas, designs, and efforts of GLab Enterprise.
 

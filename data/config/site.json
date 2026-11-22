@@ -2,8 +2,8 @@
   "owner": "GLab Enterprise (GLab Ent.)",
   "name": "GLab Enterprise",
   "url": "https://guang84.github.io/",
-  "version": "15.5.10",
-  "description": "GLab Enterprise is an independent technology and engineering enterprise developing practical software, digital products and technical solutions, guided by innovation and a vision for technology and nature to co-exist in harmony.",
+  "version": "15.6.0",
+  "description": "GLab Enterprise is an independent technology and engineering enterprise exploring practical software, digital products and technical solutions, guided by thoughtful innovation and a commitment to supporting and protecting the natural environment.",
   "email": "he.3.glab.verse@gmail.com",
   "github": "https://github.com/Guang84",
   "ads": {
@@ -23,64 +23,76 @@
       "Innovation"
     ],
     "intro": [
-      "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products, and technical solutions. Driven by creativity, technological exploration, and a spirit of innovation, GLab is committed to developing useful technologies that address practical needs, encourage new possibilities, and contribute to meaningful progress.",
-      "Alongside technological development, GLab values the natural environment and aspires to contribute to a future where technology and nature co-exist in harmony. Its approach reflects a commitment to responsible innovation while recognising the importance of the natural world. GLab believes that technological advancement, innovative thinking, and environmental awareness can complement one another, encouraging a more balanced and sustainable approach to the future."
+      "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise exploring practical software, digital products and technical solutions. Its work spans software development, network and infrastructure systems, automation and security-aware tools.",
+      "Nature, Technology and Innovation guide how GLab thinks, learns and builds. As the enterprise grows, it aims to support, conserve and protect nature through responsible practices, practical contributions within its means, and thoughtful use of technology. GLab distinguishes its principles and intentions from activities and outcomes that have actually been completed."
     ],
     "statement": "A journey of a thousand miles begins with a single step.",
     "workLine": "Products, services, engineering projects and technical publications developed and published by GLab Enterprise.",
     "interestLine": "Nature · Technology · Innovation",
-    "background": "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise developing practical software, digital products, and technical solutions. Driven by creativity, technological exploration, and a spirit of innovation, GLab is committed to developing useful technologies that address practical needs, encourage new possibilities, and contribute to meaningful progress. Alongside technological development, GLab values the natural environment and aspires to contribute to a future where technology and nature co-exist in harmony. Its approach reflects a commitment to responsible innovation while recognising the importance of the natural world. GLab believes that technological advancement, innovative thinking, and environmental awareness can complement one another, encouraging a more balanced and sustainable approach to the future.",
+    "background": "GLab Enterprise (GLab Ent.) is an independent technology and engineering enterprise exploring practical software, digital products and technical solutions. Its work spans software development, network and infrastructure systems, automation and security-aware tools. Nature, Technology and Innovation guide how GLab thinks, learns and builds. As the enterprise grows, it aims to support, conserve and protect nature through responsible practices, practical contributions within its means, and thoughtful use of technology. GLab distinguishes its principles and intentions from activities and outcomes that have actually been completed.",
     "interests": [
       {
-        "title": "Network Operations",
-        "description": "ISP workflows, broadband systems, network visibility, monitoring, and infrastructure context."
+        "title": "Nature & Environmental Responsibility",
+        "description": "Understanding natural systems, favouring repair and reuse where practical, reducing avoidable waste, and supporting credible conservation efforts as capacity allows."
       },
       {
-        "title": "Software Products",
-        "description": "Web applications, operational tools, automation, data workflows, and maintainable software."
+        "title": "Software & Systems Engineering",
+        "description": "Practical web applications, operational software, maintainable systems, data workflows and automation."
       },
       {
-        "title": "Systems & Security",
-        "description": "Linux administration, authorized diagnostics, security-aware engineering, and operational controls."
+        "title": "Networks & Infrastructure",
+        "description": "ISP operations, broadband systems, network monitoring, GIS, fibre planning and infrastructure documentation."
       },
       {
-        "title": "GIS & Infrastructure",
-        "description": "Network mapping, fiber planning, asset context, and practical infrastructure documentation."
+        "title": "Cybersecurity & Digital Resilience",
+        "description": "Authorised diagnostics, least-privilege access, privacy-aware development, secure operations, Linux systems and practical safeguards."
       },
       {
-        "title": "Community Technology",
-        "description": "Digital tools for access, preservation, and locally relevant information services."
+        "title": "Research & Emerging Technology",
+        "description": "Exploring AI, machine learning, measurement, data systems and technical ideas with evidence-led evaluation."
       },
       {
-        "title": "Environmental Responsibility",
-        "description": "GLab values the natural environment and considers environmental awareness alongside practical needs, favouring repair, reuse, reduced waste and solutions that can be maintained."
+        "title": "Community & Digital Preservation",
+        "description": "Building and maintaining useful digital resources while respecting provenance, attribution and community context."
       }
     ]
   },
   "importantLinks": [
     {
-      "label": "GLabNetOps",
-      "description": "ISP operations and network management web app for customer and service workflows, NetVision mapping, fibre planning, device monitoring and staff operations.",
-      "url": "/projects/glabnetops/",
-      "kind": "Product overview"
+      "label": "Nature",
+      "description": "GLab's environmental philosophy, responsible practices, conservation interests and documented initiatives.",
+      "url": "/nature/",
+      "kind": "Pillar"
     },
     {
-      "label": "Services",
-      "description": "Project-based software and engineering work across ISP operations, monitoring, GIS, systems tooling and technical documentation.",
-      "url": "/services.html",
-      "kind": "Work with GLab"
+      "label": "Technology",
+      "description": "Software, engineering, networks, infrastructure, cybersecurity and technical research.",
+      "url": "/technology/",
+      "kind": "Pillar"
     },
     {
-      "label": "Rongmei Hymnal",
-      "description": "Open the deployed offline-first digital library. Content review and attribution are ongoing.",
-      "url": "https://guang84.github.io/RongmeiHymnal/",
-      "kind": "Open web app"
+      "label": "Innovation",
+      "description": "Ideas, research, experiments, prototypes and product development.",
+      "url": "/innovation/",
+      "kind": "Pillar"
     },
     {
-      "label": "Technical publications",
-      "description": "Practical guides, engineering notes, project stories and research from GLab.",
+      "label": "Projects",
+      "description": "Products, software and engineering work with clear lifecycle status and limitations.",
+      "url": "/projects/",
+      "kind": "Portfolio"
+    },
+    {
+      "label": "Insights",
+      "description": "Articles, research notes, technical publications and informed perspectives.",
       "url": "/articles/",
       "kind": "Publications"
+    },
+    {
+      "label": "Business & Support",
+      "description": "Services, business enquiries, contact and support information.",
+      "url": "/business/",
+      "kind": "Business"
     }
   ],
   "appearance": {
