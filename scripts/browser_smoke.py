@@ -193,6 +193,30 @@ def run_tests():
                 for label in expected_navigation:
                     if label not in nav_text:
                         fail(errors, f"Navigation {selector}: missing label {label}")
+            # Public chrome follows the GLabNetOps floating-header and structured-footer pattern.
+            chrome = page.locator(".site-header").evaluate("""element => {
+              const style = getComputedStyle(element);
+              return {
+                position: style.position,
+                radius: parseFloat(style.borderTopLeftRadius),
+                backdrop: style.backdropFilter,
+                width: element.getBoundingClientRect().width,
+              };
+            }""")
+            if chrome["position"] != "sticky" or chrome["radius"] < 24 or chrome["backdrop"] == "none":
+                fail(errors, f"Header: expected a rounded, sticky glass header; got {chrome}")
+            if page.locator(".glab-menu-group").count() != 3:
+                fail(errors, "Navigation: expected Discover, Work and Enterprise menu groups")
+            footer_groups = page.locator("footer.site-footer nav.footer-column")
+            if footer_groups.count() != 3:
+                fail(errors, f"Footer: expected three grouped link columns, found {footer_groups.count()}")
+            if page.locator("footer.site-footer .footer-contact-link").count() != 1:
+                fail(errors, "Footer: missing the GLab business contact block")
+            if page.locator("footer.site-footer .udyam-verification-link").count() != 1:
+                fail(errors, "Footer: missing Udyam verification card")
+            if page.locator("footer.site-footer .site-footer-bottom nav[aria-label='Legal policies'] a").count() < 3:
+                fail(errors, "Footer: legal links are missing from the bottom information row")
+
             # The About page must represent the enterprise and retain its explicit guiding statements.
             try:
                 page.goto(base_url + "/about.html", wait_until="load")

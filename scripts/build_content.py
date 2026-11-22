@@ -320,43 +320,107 @@ def update_pillar_pages(articles: list[dict], projects: list[dict]) -> None:
 
 
 def sync_shared_navigation() -> list[str]:
-    """Keep primary and mobile navigation consistent across all published pages."""
-    links = (
-        '<a href="/nature/">Nature</a>'
-        '<a href="/technology/">Technology</a>'
-        '<a href="/innovation/">Innovation</a>'
-        '<a href="/projects/">Projects</a>'
-        '<a href="/articles/">Insights</a>'
-        '<a href="/about.html">About</a>'
-        '<a href="/services.html">Services</a>'
-        '<a href="/contact.html">Contact</a>'
-        '<a href="/business/">Business &amp; Support</a>'
+    """Render one GLabNetOps-inspired public header and grouped menu on every page."""
+    groups = [
+        ("Discover", [
+            ("Nature", "/nature/", "Nature, responsibility and conservation", '<path d="M20 4c-8 0-14 4-14 11a5 5 0 0 0 5 5c7 0 11-6 9-16Z"/><path d="M5 19c3-5 6-8 11-11"/>'),
+            ("Technology", "/technology/", "Engineering, systems and research", '<rect x="5" y="5" width="14" height="14" rx="2"/><path d="M9 9h6v6H9zM9 1v4m6-4v4M9 19v4m6-4v4M1 9h4m-4 6h4m14-6h4m-4 6h4"/>'),
+            ("Innovation", "/innovation/", "Ideas, experimentation and development", '<path d="m12 3 1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8L12 3Z"/><path d="m19 16 .8 2.2L22 19l-2.2.8L19 22l-.8-2.2L16 19l2.2-.8L19 16Z"/>'),
+        ]),
+        ("Work", [
+            ("Projects", "/projects/", "Products and engineering work", '<rect x="3" y="5" width="18" height="15" rx="2"/><path d="M8 5V3h8v2M3 10h18M10 10v2h4v-2"/>'),
+            ("Insights", "/articles/", "Articles, research and perspectives", '<path d="M6 3h9l4 4v14H6z"/><path d="M14 3v5h5M9 12h7M9 16h7"/>'),
+        ]),
+        ("Enterprise", [
+            ("About", "/about.html", "Identity, philosophy and principles", '<circle cx="12" cy="12" r="9"/><path d="M12 11v5m0-8h.01"/>'),
+            ("Services", "/services.html", "Capabilities and ways to work with GLab", '<path d="M4 7h16M4 12h10M4 17h7"/><circle cx="18" cy="17" r="2"/>'),
+            ("Business & Support", "/business/", "Business information and support", '<path d="M4 5h16v14H4z"/><path d="m4 7 8 6 8-6"/>'),
+            ("Contact", "/contact.html", "Business enquiries and communication", '<path d="M4 5h16v14H4z"/><path d="m4 7 8 6 8-6"/>'),
+        ]),
+    ]
+
+    group_html = []
+    for index, (heading, items) in enumerate(groups, start=1):
+        links = []
+        for label, href, description, icon_path in items:
+            links.append(
+                f'<a class="glab-menu-item" href="{escape(href, quote=True)}">'
+                f'<span class="glab-menu-icon" aria-hidden="true"><svg viewBox="0 0 24 24" focusable="false">{icon_path}</svg></span>'
+                f'<span class="glab-menu-copy"><strong>{escape(label)}</strong><small>{escape(description)}</small></span>'
+                '<span class="glab-menu-arrow" aria-hidden="true">↗</span></a>'
+            )
+        group_html.append(
+            f'<section class="glab-menu-group" aria-labelledby="glab-menu-group-{index}">'
+            f'<h3 id="glab-menu-group-{index}">{escape(heading)}</h3>'
+            + "".join(links) + '</section>'
+        )
+
+    header = '''<header class="site-header" data-site-header>
+  <a aria-label="GLab Enterprise home" class="brand" href="/">
+    <img alt="" class="brand-logo" decoding="async" height="41" src="/assets/brand/glab-mark-64.png" width="41">
+    <span class="brand-label">GLab Enterprise</span>
+  </a>
+  <div class="header-actions">
+    <button aria-controls="search-dialog" aria-haspopup="dialog" aria-label="Search GLab" class="icon-button search-toggle" data-search-toggle title="Search GLab" type="button">
+      <svg class="glab-header-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg>
+    </button>
+    <button aria-label="Decrease text size" class="icon-button font-control" data-font-step="-1" title="Decrease text size" type="button">A−</button>
+    <button aria-label="Increase text size" class="icon-button font-control" data-font-step="1" title="Increase text size" type="button">A+</button>
+    <button aria-label="Switch color theme" aria-pressed="false" class="icon-button theme-toggle" data-theme-toggle title="Switch color theme" type="button"><span aria-hidden="true" data-theme-icon>◐</span></button>
+    <button aria-controls="mobile-menu" aria-expanded="false" aria-haspopup="true" class="menu-toggle" data-menu-toggle title="Open site menu" type="button"><span aria-hidden="true">☰</span><span>Menu</span></button>
+  </div>
+</header>'''
+    menu = (
+        '<div class="menu-backdrop" data-menu-backdrop hidden></div>'
+        '<div class="mobile-menu glab-menu-panel" data-mobile-menu hidden id="mobile-menu">'
+        '<section class="glab-menu-intro"><p class="eyebrow">GLAB ENTERPRISE</p>'
+        '<h2>Explore GLab</h2><p>Find our principles, work, publications and business information.</p></section>'
+        '<nav class="nav glab-menu-nav" aria-label="Primary">'
+        + "".join(group_html) +
+        '</nav></div>'
     )
-    mobile = links + '<button class="button-secondary" type="button" aria-controls="search-dialog" aria-haspopup="dialog" data-search-toggle>Search</button>'
-    primary_re = re.compile(
-        r"""(<nav\b(?=[^>]*\bclass=["'][^"']*\bnav\b[^"']*["'])(?=[^>]*\baria-label=["']Primary["'])[^>]*>)[\s\S]*?(</nav>)""",
+
+    header_re = re.compile(
+        r"""<header\b(?=[^>]*\bclass=["'][^"']*\bsite-header\b[^"']*["'])[^>]*>[\s\S]*?</header>""",
         re.I,
     )
-    mobile_re = re.compile(
-        r"""(<nav\b(?=[^>]*\baria-label=["']Mobile["'])[^>]*>)[\s\S]*?(</nav>)""",
+    menu_re = re.compile(
+        r"""<div\b(?=[^>]*\bclass=["'][^"']*\bmobile-menu\b[^"']*["'])[^>]*>[\s\S]*?</div>""",
         re.I,
     )
+    backdrop_re = re.compile(
+        r"""<div\b(?=[^>]*\bclass=["'][^"']*\bmenu-backdrop\b[^"']*["'])[^>]*>[\s\S]*?</div>""",
+        re.I,
+    )
+
     errors = []
     updated_count = 0
     for public_path in public_files():
         if not public_path.lower().endswith(".html"):
             continue
         page = ROOT / public_path.lstrip("/")
+        if not page.is_file():
+            continue
         source = page.read_text(encoding="utf-8")
-        updated, primary_count = primary_re.subn(lambda match: match.group(1) + links + match.group(2), source, count=1)
-        updated, mobile_count = mobile_re.subn(lambda match: match.group(1) + mobile + match.group(2), updated, count=1)
-        if primary_count == 1 and mobile_count == 1:
-            if updated != source:
-                page.write_text(updated, encoding="utf-8")
-                updated_count += 1
-        elif primary_count != mobile_count:
-            errors.append(f"{public_path}: primary and mobile navigation are not both present")
-    print(f"Shared navigation synchronized across published pages ({updated_count} changed).")
+        if re.search(r"""<meta\b(?=[^>]*\bname=["']robots["'])(?=[^>]*\bcontent=["'][^"']*noindex)""", source, re.I):
+            continue
+        updated, header_count = header_re.subn(lambda _: header, source, count=1)
+        updated, menu_count = menu_re.subn(lambda _: menu, updated, count=1)
+        if header_count != 1 or menu_count != 1:
+            errors.append(
+                f"{public_path}: expected one site header and menu panel, found "
+                f"{header_count} header(s) and {menu_count} menu panel(s)"
+            )
+            continue
+        if backdrop_re.search(updated):
+            updated = backdrop_re.subn(lambda _: '<div class="menu-backdrop" data-menu-backdrop hidden></div>', updated, count=1)[0]
+        else:
+            updated = header_re.sub(lambda match: match.group(0) + '\n<div class="menu-backdrop" data-menu-backdrop hidden></div>', updated, count=1)
+        if updated != source:
+            page.write_text(updated, encoding="utf-8")
+            updated_count += 1
+
+    print(f"GLabNetOps-style header and grouped menu synchronized across {updated_count} public HTML pages.")
     return errors
 
 

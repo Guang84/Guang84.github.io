@@ -194,7 +194,12 @@ for rel, (page, parser) in parsed_pages.items():
         if not primary_nav or not re.search(r"""href=["']/contact\.html["']""", primary_nav.group(1), re.I):
             fail(f'{rel}: missing Contact link in primary navigation')
         if primary_nav:
-            if not re.search(r"""<a\b(?=[^>]*href=["']/services\.html["'])[^>]*>Services</a>""", primary_nav.group(1), re.I):
+            services_link = re.search(
+                r"""<a\b(?=[^>]*href=["']/services\.html["'])[^>]*>([\s\S]*?)</a>""",
+                primary_nav.group(1), re.I
+            )
+            services_label = re.sub(r"<[^>]+>", " ", services_link.group(1)) if services_link else ""
+            if not services_link or not re.search(r"^\s*Services(?:\s|$)", services_label, re.I):
                 fail(f'{rel}: primary navigation must label /services.html as Services')
             if "Engineering Services" in primary_nav.group(1):
                 fail(f'{rel}: legacy Engineering Services navigation label remains')
@@ -205,7 +210,12 @@ for rel, (page, parser) in parsed_pages.items():
         if not mobile_menu or not re.search(r"""href=["']/contact\.html["']""", mobile_menu.group(1), re.I):
             fail(f'{rel}: missing Contact link in mobile navigation')
         if mobile_menu:
-            if not re.search(r"""<a\b(?=[^>]*href=["']/services\.html["'])[^>]*>Services</a>""", mobile_menu.group(1), re.I):
+            services_link = re.search(
+                r"""<a\b(?=[^>]*href=["']/services\.html["'])[^>]*>([\s\S]*?)</a>""",
+                mobile_menu.group(1), re.I
+            )
+            services_label = re.sub(r"<[^>]+>", " ", services_link.group(1)) if services_link else ""
+            if not services_link or not re.search(r"^\s*Services(?:\s|$)", services_label, re.I):
                 fail(f'{rel}: mobile navigation must label /services.html as Services')
             if "Engineering Services" in mobile_menu.group(1):
                 fail(f'{rel}: legacy Engineering Services label remains in mobile navigation')
