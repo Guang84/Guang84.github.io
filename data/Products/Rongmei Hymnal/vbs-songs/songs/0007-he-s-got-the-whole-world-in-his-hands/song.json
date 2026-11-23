@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "vbs-songs",
+  "contentVersion": "1.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "english",
+  "song": {
+    "id": "vbs-007",
+    "number": 7,
+    "source": {
+      "printedNumber": 7,
+      "printedPage": null,
+      "sourceBook": "VBS Songs",
+      "sourceEdition": null,
+      "sourceType": "song-collection"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "english": {
+        "language": "english",
+        "title": "He's Got the Whole World in His Hands",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "structured",
+          "sections": [
+            {
+              "type": "verse",
+              "label": "Verse 1",
+              "lines": [
+                "He's got the whole world in His hands,",
+                "He's got the whole world in His hands,",
+                "He's got the whole world in His hands,",
+                "He's got the whole world in His hands."
+              ]
+            },
+            {
+              "type": "verse",
+              "label": "Verse 2",
+              "lines": [
+                "He's got the little tiny baby in His hands,",
+                "He's got the little tiny baby in His hands,",
+                "He's got the little tiny baby in His hands,",
+                "He's got the whole world in His hands."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "world",
+        "hands",
+        "spiritual"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified",
+        "note": "Traditional African American spiritual; public-domain text."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He's Got the Whole World in His Hands"
+      }
+    }
+  }
+}

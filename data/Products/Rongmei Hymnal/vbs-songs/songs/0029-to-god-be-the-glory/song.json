@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "vbs-songs",
+  "contentVersion": "1.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "english",
+  "song": {
+    "id": "vbs-029",
+    "number": 29,
+    "source": {
+      "printedNumber": 29,
+      "printedPage": null,
+      "sourceBook": "VBS Songs",
+      "sourceEdition": null,
+      "sourceType": "song-collection"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "english": {
+        "language": "english",
+        "title": "To God Be the Glory",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "To God be the glory, great things He hath done;",
+            "So loved He the world that He gave us His Son,",
+            "Who yielded His life an atonement for sin,",
+            "And opened the life gate that all may go in."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified",
+        "note": "Public-domain text by Fanny J. Crosby, 1875."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "To God Be the Glory"
+      }
+    }
+  }
+}

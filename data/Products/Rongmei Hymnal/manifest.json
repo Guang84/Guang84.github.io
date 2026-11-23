@@ -1,0 +1,33 @@
+{
+  "title": "Rongmei Hymnal — Per-Song JSON Export",
+  "schemaVersion": "2.1",
+  "createdAt": "2026-11-23",
+  "totalSongs": 1565,
+  "collections": [
+    {
+      "bookId": "hymdaihlu",
+      "songCount": 930,
+      "path": "hymdaihlu/book.json",
+      "originalSourceSha256": "057f5db687c27d5e5452defee26aa26f6302c1466921b1cbf8332abb8fb1780d"
+    },
+    {
+      "bookId": "vbs-songs",
+      "songCount": 36,
+      "path": "vbs-songs/book.json",
+      "originalSourceSha256": "e45269930ae638d3c4c6ba2c50bfafbec56ac54696b67a1122cfb46c8d44d600"
+    },
+    {
+      "bookId": "ngai-luzaam",
+      "songCount": 294,
+      "path": "ngai-luzaam/book.json",
+      "originalSourceSha256": "2b54ab18f86dfdb80e28ac928c47d1d080a81fb96e4422b30e15306dd3747293"
+    },
+    {
+      "bookId": "buanthanhlu",
+      "songCount": 305,
+      "path": "buanthanhlu/book.json",
+      "originalSourceSha256": "6589a7978e96e79f19b91fceff5f781099acb4e3c7c22f0d0d07cbd4d6cd1c56"
+    }
+  ],
+  "preservationNote": "Original collection JSON files are included under _source-originals/."
+}

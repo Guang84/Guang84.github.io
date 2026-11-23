@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "vbs-songs",
+  "contentVersion": "1.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "english",
+  "song": {
+    "id": "vbs-023",
+    "number": 23,
+    "source": {
+      "printedNumber": 23,
+      "printedPage": null,
+      "sourceBook": "VBS Songs",
+      "sourceEdition": null,
+      "sourceType": "song-collection"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "english": {
+        "language": "english",
+        "title": "Count Your Blessings",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "Count your blessings, name them one by one;",
+            "Count your blessings, see what God hath done;",
+            "Count your blessings, name them one by one;",
+            "Count your many blessings, see what God hath done."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified",
+        "note": "Public-domain hymn by Johnson Oatman Jr., 1897."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Count Your Blessings"
+      }
+    }
+  }
+}

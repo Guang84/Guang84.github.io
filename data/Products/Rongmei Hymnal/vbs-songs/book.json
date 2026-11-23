@@ -1,0 +1,299 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "vbs-songs",
+  "title": "VBS Songs",
+  "contentVersion": "1.0.0",
+  "updatedAt": "2026-08-31",
+  "songCount": 36,
+  "defaultLanguage": "english",
+  "songs": [
+    {
+      "id": "vbs-001",
+      "number": 1,
+      "path": "songs/0001-jesus-loves-me/song.json",
+      "titles": {
+        "english": "Jesus Loves Me"
+      }
+    },
+    {
+      "id": "vbs-002",
+      "number": 2,
+      "path": "songs/0002-jesus-loves-the-little-children/song.json",
+      "titles": {
+        "english": "Jesus Loves the Little Children"
+      }
+    },
+    {
+      "id": "vbs-003",
+      "number": 3,
+      "path": "songs/0003-praise-him-all-ye-little-children/song.json",
+      "titles": {
+        "english": "Praise Him, All Ye Little Children"
+      }
+    },
+    {
+      "id": "vbs-004",
+      "number": 4,
+      "path": "songs/0004-all-things-bright-and-beautiful/song.json",
+      "titles": {
+        "english": "All Things Bright and Beautiful"
+      }
+    },
+    {
+      "id": "vbs-005",
+      "number": 5,
+      "path": "songs/0005-away-in-a-manger/song.json",
+      "titles": {
+        "english": "Away in a Manger"
+      }
+    },
+    {
+      "id": "vbs-006",
+      "number": 6,
+      "path": "songs/0006-i-ve-got-peace-like-a-river/song.json",
+      "titles": {
+        "english": "I've Got Peace Like a River"
+      }
+    },
+    {
+      "id": "vbs-007",
+      "number": 7,
+      "path": "songs/0007-he-s-got-the-whole-world-in-his-hands/song.json",
+      "titles": {
+        "english": "He's Got the Whole World in His Hands"
+      }
+    },
+    {
+      "id": "vbs-008",
+      "number": 8,
+      "path": "songs/0008-this-train-is-bound-for-glory/song.json",
+      "titles": {
+        "english": "This Train Is Bound for Glory"
+      }
+    },
+    {
+      "id": "vbs-009",
+      "number": 9,
+      "path": "songs/0009-we-are-climbing-jacob-s-ladder/song.json",
+      "titles": {
+        "english": "We Are Climbing Jacob's Ladder"
+      }
+    },
+    {
+      "id": "vbs-010",
+      "number": 10,
+      "path": "songs/0010-joshua-fit-the-battle-of-jericho/song.json",
+      "titles": {
+        "english": "Joshua Fit the Battle of Jericho"
+      }
+    },
+    {
+      "id": "vbs-011",
+      "number": 11,
+      "path": "songs/0011-go-tell-it-on-the-mountain/song.json",
+      "titles": {
+        "english": "Go, Tell It on the Mountain"
+      }
+    },
+    {
+      "id": "vbs-012",
+      "number": 12,
+      "path": "songs/0012-swing-low-sweet-chariot/song.json",
+      "titles": {
+        "english": "Swing Low, Sweet Chariot"
+      }
+    },
+    {
+      "id": "vbs-013",
+      "number": 13,
+      "path": "songs/0013-when-the-saints-go-marching-in/song.json",
+      "titles": {
+        "english": "When the Saints Go Marching In"
+      }
+    },
+    {
+      "id": "vbs-014",
+      "number": 14,
+      "path": "songs/0014-give-me-that-old-time-religion/song.json",
+      "titles": {
+        "english": "Give Me That Old-Time Religion"
+      }
+    },
+    {
+      "id": "vbs-015",
+      "number": 15,
+      "path": "songs/0015-were-you-there/song.json",
+      "titles": {
+        "english": "Were You There"
+      }
+    },
+    {
+      "id": "vbs-016",
+      "number": 16,
+      "path": "songs/0016-down-by-the-riverside/song.json",
+      "titles": {
+        "english": "Down by the Riverside"
+      }
+    },
+    {
+      "id": "vbs-017",
+      "number": 17,
+      "path": "songs/0017-michael-row-the-boat-ashore/song.json",
+      "titles": {
+        "english": "Michael, Row the Boat Ashore"
+      }
+    },
+    {
+      "id": "vbs-018",
+      "number": 18,
+      "path": "songs/0018-i-think-when-i-read-that-sweet-story-of-old/song.json",
+      "titles": {
+        "english": "I Think When I Read That Sweet Story of Old"
+      }
+    },
+    {
+      "id": "vbs-019",
+      "number": 19,
+      "path": "songs/0019-dare-to-be-a-daniel/song.json",
+      "titles": {
+        "english": "Dare to Be a Daniel"
+      }
+    },
+    {
+      "id": "vbs-020",
+      "number": 20,
+      "path": "songs/0020-jesus-bids-us-shine/song.json",
+      "titles": {
+        "english": "Jesus Bids Us Shine"
+      }
+    },
+    {
+      "id": "vbs-021",
+      "number": 21,
+      "path": "songs/0021-jesus-wants-me-for-a-sunbeam/song.json",
+      "titles": {
+        "english": "Jesus Wants Me for a Sunbeam"
+      }
+    },
+    {
+      "id": "vbs-022",
+      "number": 22,
+      "path": "songs/0022-i-am-so-glad-that-jesus-loves-me/song.json",
+      "titles": {
+        "english": "I Am So Glad That Jesus Loves Me"
+      }
+    },
+    {
+      "id": "vbs-023",
+      "number": 23,
+      "path": "songs/0023-count-your-blessings/song.json",
+      "titles": {
+        "english": "Count Your Blessings"
+      }
+    },
+    {
+      "id": "vbs-024",
+      "number": 24,
+      "path": "songs/0024-trust-and-obey/song.json",
+      "titles": {
+        "english": "Trust and Obey"
+      }
+    },
+    {
+      "id": "vbs-025",
+      "number": 25,
+      "path": "songs/0025-leaning-on-the-everlasting-arms/song.json",
+      "titles": {
+        "english": "Leaning on the Everlasting Arms"
+      }
+    },
+    {
+      "id": "vbs-026",
+      "number": 26,
+      "path": "songs/0026-holy-holy-holy/song.json",
+      "titles": {
+        "english": "Holy, Holy, Holy"
+      }
+    },
+    {
+      "id": "vbs-027",
+      "number": 27,
+      "path": "songs/0027-joyful-joyful-we-adore-thee/song.json",
+      "titles": {
+        "english": "Joyful, Joyful, We Adore Thee"
+      }
+    },
+    {
+      "id": "vbs-028",
+      "number": 28,
+      "path": "songs/0028-blessed-assurance/song.json",
+      "titles": {
+        "english": "Blessed Assurance"
+      }
+    },
+    {
+      "id": "vbs-029",
+      "number": 29,
+      "path": "songs/0029-to-god-be-the-glory/song.json",
+      "titles": {
+        "english": "To God Be the Glory"
+      }
+    },
+    {
+      "id": "vbs-030",
+      "number": 30,
+      "path": "songs/0030-what-a-friend-we-have-in-jesus/song.json",
+      "titles": {
+        "english": "What a Friend We Have in Jesus"
+      }
+    },
+    {
+      "id": "vbs-031",
+      "number": 31,
+      "path": "songs/0031-rock-of-ages/song.json",
+      "titles": {
+        "english": "Rock of Ages"
+      }
+    },
+    {
+      "id": "vbs-032",
+      "number": 32,
+      "path": "songs/0032-onward-christian-soldiers/song.json",
+      "titles": {
+        "english": "Onward, Christian Soldiers"
+      }
+    },
+    {
+      "id": "vbs-033",
+      "number": 33,
+      "path": "songs/0033-stand-up-stand-up-for-jesus/song.json",
+      "titles": {
+        "english": "Stand Up, Stand Up for Jesus"
+      }
+    },
+    {
+      "id": "vbs-034",
+      "number": 34,
+      "path": "songs/0034-crown-him-with-many-crowns/song.json",
+      "titles": {
+        "english": "Crown Him with Many Crowns"
+      }
+    },
+    {
+      "id": "vbs-035",
+      "number": 35,
+      "path": "songs/0035-come-thou-fount-of-every-blessing/song.json",
+      "titles": {
+        "english": "Come, Thou Fount of Every Blessing"
+      }
+    },
+    {
+      "id": "vbs-036",
+      "number": 36,
+      "path": "songs/0036-i-sing-the-mighty-power-of-god/song.json",
+      "titles": {
+        "english": "I Sing the Mighty Power of God"
+      }
+    }
+  ]
+}

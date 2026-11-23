@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "vbs-songs",
+  "contentVersion": "1.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "english",
+  "song": {
+    "id": "vbs-011",
+    "number": 11,
+    "source": {
+      "printedNumber": 11,
+      "printedPage": null,
+      "sourceBook": "VBS Songs",
+      "sourceEdition": null,
+      "sourceType": "song-collection"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "english": {
+        "language": "english",
+        "title": "Go, Tell It on the Mountain",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "structured",
+          "sections": [
+            {
+              "type": "chorus",
+              "label": "Refrain",
+              "lines": [
+                "Go, tell it on the mountain,",
+                "Over the hills and everywhere;",
+                "Go, tell it on the mountain",
+                "That Jesus Christ is born."
+              ]
+            },
+            {
+              "type": "verse",
+              "label": "Verse 1",
+              "lines": [
+                "While shepherds kept their watching",
+                "O'er silent flocks by night,",
+                "Behold throughout the heavens",
+                "There shone a holy light."
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified",
+        "note": "Traditional spiritual compiled by John W. Work Jr.; public-domain text."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Go, Tell It on the Mountain"
+      }
+    }
+  }
+}
