@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0721",
+    "number": 721,
+    "source": {
+      "printedNumber": 721,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles Macklay",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4 I",
+      "meter": "rregular",
+      "tune": "SS 1188"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai hei hyam thaymei khwan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai hei hyamthaymei khwan akhat swna",
+            "Kandih bamv ’thuic ruan lik nuh khwan ’thei,",
+            "Lauthwan riw phungcna ai samc ruan ni tuang e;",
+            "Maansei nunc khou ai zanghuay ni tuang e,",
+            "Kaniw lung changc ding khang.",
+            "Ai samc tat ni tuang e dih lev duipui guay,",
+            "Maansei lunghpui bamv kathuicna khou;",
+            "Lu khat suanna, pary raclouna,",
+            "’Chumhmei khang dingna, laanhmei ta ’phutluhna,",
+            "Ai tat ni, Ai tat ni, kandih lev duipui kathuic khou.",
+            "",
+            "2 Ai hei swmthaymei khwan khat sw khwan ’thei",
+            "Mpwan ^&8 aswkaeng sw lana,",
+            "Lungh ryanra bammei nunc kai ta ai phu ni,",
+            "Kalingmei, swmloumei latkaeng phungcna,",
+            "Swmlou tat ni tuang e.",
+            "Ai samc tat ni tuang e meic lunghpui bamv ’thuic,",
+            "Kaidai kathuic khou neihlaa riw phungcna,",
+            "Ryanra bammei lungning kathuic khou,",
+            "Ngangcthau dat ngam khang ai ’chamlou ni tuang e;",
+            "Ai tat ni, Ai tat ni, meic lungc geihmei kaidai guay khou.",
+            "",
+            "3 Ai hei theih makmei khwan khat sw khwan ’thei",
+            "Ai kandih samc ’kuay lik ni tuang e;",
+            "Ravguangc ta kalummei naipui bamv ’thuic khou,",
+            "Akhwan kauc ranvna, sat saengcna suan ni,",
+            "Neihla gaichamv lu hei.",
+            "Ai samc tat ni tuang e kalaanv swkaeng khou,",
+            "Ai dinc lik tat ni ’chuzaenghmei chamv hei;",
+            "Ryanramei lung tiineihlaalou ni,",
+            "Ai hei theih makmei khwan khat sw khwan ’thei,",
+            "Ai tat ni, Ai tat ni, ai tat ni kalaanv swkaeng khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "If I Were a Voice",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4 I",
+        "rregular",
+        "SS 1188",
+        "Charles Macklay",
+        "If I Were a Voice",
+        "source hymn 721",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 721."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai hei hyam thaymei khwan",
+        "titleRongmei": "Ai hei hyam thaymei khwan",
+        "titleEnglish": "If I Were a Voice"
+      }
+    }
+  }
+}

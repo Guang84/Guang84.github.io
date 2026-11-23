@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0546",
+    "number": 546,
+    "source": {
+      "printedNumber": 546,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles Wesley",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "3/4",
+      "meter": "S. M.",
+      "tune": "HLC 496"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Athouc akhat nai the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Athouc akhat nai the,",
+            "Ravguangc hym tiidaih khang,",
+            "Theic lakmei bumaengc gulou khang,",
+            "Tingkauh khang chamdaanv khang.",
+            "",
+            "2 ’Taw zuk khou taanv sw khang,",
+            "Langloumei thouc tanh khang,",
+            "Angamv guay tiipatna taanc ni,",
+            "Kaipouc ningmei taanc ni.",
+            "",
+            "3 Akhou ngamv tiilou o,",
+            "Nang hu khou lungc ngam khang;",
+            "’Taw Nang bangc ta chamdaanvlou tho,",
+            "Nang khang na lungc ngam khang.",
+            "",
+            "4 Changkhaanvna huayneyna,",
+            "Nang khou na ngangvlouna,",
+            "Pou, ai Nang ta tii zak lak ge,",
+            "Tingkauh ai ’zwan bam khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A Charge to Keep I Have",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "3/4",
+        "S. M.",
+        "HLC 496",
+        "Charles Wesley",
+        "A Charge to Keep I Have",
+        "source hymn 546",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 546."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Athouc akhat nai the",
+        "titleRongmei": "Athouc akhat nai the",
+        "titleEnglish": "A Charge to Keep I Have"
+      }
+    }
+  }
+}

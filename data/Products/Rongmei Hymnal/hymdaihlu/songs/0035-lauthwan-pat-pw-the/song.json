@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0035",
+    "number": 35,
+    "source": {
+      "printedNumber": 35,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Eleanor Farjeon",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "9/4",
+      "meter": "5.5.5.4. D.",
+      "tune": "HLC 553"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lauthwan pat pw the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Lauthwan pat pw the,",
+            "Rey liang nungc kumcna;",
+            "’Ruayna lu suan e,",
+            "Rey liang nungc kumc,",
+            "Thuanc e lu khwan khang,",
+            "Lauthwan patmei khang,",
+            "Thuanc e Nang Lat khang,",
+            "Suaihiam thanh khang.",
+            "",
+            "2 Tingthw riu keymei,",
+            "Neihriw souc keymei,",
+            "Zikdui tiikeymei,",
+            "Thingnuy guay khang,",
+            "Thuanc e pikwan khang,",
+            "Dui chaicloumei khang,",
+            "Kabwan thau chuyna",
+            "Thau bammei khang.",
+            "",
+            "3 Neihriw akhang e,",
+            "Lauthwan akhang e,",
+            "Eden Pikwan khou",
+            "Tiiloumei 7?|;",
+            "Neihlaana thuanc e,",
+            "Lauthwan patpui sik,",
+            "Ravguangc ?|7 tiimei",
+            "Lauthwan thanh khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "9/4",
+        "5.5.5.4. D.",
+        "HLC 553",
+        "Eleanor Farjeon",
+        "Morning Has Broken",
+        "source hymn 35",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 35."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lauthwan pat pw the",
+        "titleRongmei": "Lauthwan pat pw the"
+      }
+    }
+  }
+}

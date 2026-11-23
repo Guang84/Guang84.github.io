@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0363",
+    "number": 363,
+    "source": {
+      "printedNumber": 363,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "M.E. Survoss",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "SS 207"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neihlaa zaenggay o, Kaipouc khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neihlaa zaenggay o, Kaipouc khou!",
+            "He lungning ntwnmei thiule;",
+            "He Kata laaloumei nuncle;",
+            "Nang ryanra guay 7}$ hac ganc tho.",
+            "",
+            "Neihlaa! .. neihlaa!",
+            "Neihlaalou o, Poubauhmei khou!",
+            "Neihlaa! .. neihlaa!",
+            "Neihlaalou o, Poubauhmei khou!",
+            "",
+            "2 Neihlaa o, Kamei Kaipouc e,",
+            "Kauh lev dih khou daic liangmei e,",
+            "Kalat #^7 ramh guay ta sin e,",
+            "Thuaklou khang ngammei tanhmei e.",
+            "",
+            "3 Nzihmei lam khang ding pwkhou,",
+            "Zauczihmei #^7 ngam ni kumh khou,",
+            "Nang biak lianghmei Ravguangc ricmei,",
+            "Zauczihmei suangc geic e, tanc e.",
+            "",
+            "4 Neihlaa zaenggay o, Kaipouc khou!",
+            "Lu #^7 suan o, Kata thuancna;",
+            "Nkhuangh, nrah lev meic khwan #^7,",
+            "Hallelujah! tingsaeng kauc o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Rejoice in the Lord!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "8.8.8.8. Ref.",
+        "SS 207",
+        "M.E. Survoss",
+        "Rejoice in the Lord!",
+        "source hymn 363",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 363."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neihlaa zaenggay o, Kaipouc khou",
+        "titleRongmei": "Neihlaa zaenggay o, Kaipouc khou",
+        "titleEnglish": "Rejoice in the Lord!"
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0245",
+    "number": 245,
+    "source": {
+      "printedNumber": 245,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "G.F.Root",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.9.9.6. Ref.",
+      "tune": "SS 1165"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gumeipu khou guang tho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Gumeipu khou guang tho, nyan ri tho;",
+            "Kalat khou hei ’niu khang chaeng dinclou;",
+            "’Taw ’niu pangc khou Kamei ding bam the,",
+            "Niamhna saa e: “Guang tho!”",
+            "",
+            "Neihlaa, neihlaana ariw puni,",
+            "Paapc khou <~1 ’niu duakna",
+            "’than pwkhou;",
+            "Gumeipu lev bam kariu puni,",
+            "Nganv dat lakmei kai khou.",
+            "",
+            "2 “Alauc ta khaam riu,” saamei chu lo!",
+            "Meic kathuicna lungh neihlaa thau diu:",
+            "Lwmsiimei maekna Kata laa tho,",
+            "Nyan la ri tho, guang tho!",
+            "",
+            "3 Kamei ’niu pangc khou ’taw hei bam e,",
+            "Piu o, dwan gay nimei Kalatdanv;",
+            "Chu lo, Kakhwan 1<~ niamhna thanv e:",
+            "“Anacthiu, guang ni cho?”"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Come to the Saviour",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "9.9.9.6. Ref.",
+        "SS 1165",
+        "G.F.Root",
+        "Come to the Saviour",
+        "source hymn 245",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 245."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gumeipu khou guang tho",
+        "titleRongmei": "Gumeipu khou guang tho",
+        "titleEnglish": "Come to the Saviour"
+      }
+    }
+  }
+}

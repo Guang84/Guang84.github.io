@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0132",
+    "number": 132,
+    "source": {
+      "printedNumber": 132,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.C.Green",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.10.8.10. Ref.",
+      "tune": "SS 58"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HE MI HEI CH’RYN TUANG E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Mi hei lat changc cho, Jisu @<4",
+            "Kros khou ryanra ’khaengvna ata liumei,",
+            "Ai thay mak khou @<4 zian reymei?",
+            "He, adih ’thukmei Pam cho, Kamei hei!",
+            "",
+            "He, mi hei ch’ryn tuang e!",
+            "Ch’rynmei, ch’ryn liangmei tuang e!",
+            "Heidi daihmei Kazauzian!",
+            "He, mi hei ch’ryn dyng e!",
+            "Ch’rynmei, ch’ryn liangmei tuang e!",
+            "Akhou zianloumei guay hei!",
+            "",
+            "2 Ata phu towpui zaeng thuanc e,",
+            "Gulouna Kadaeng khou tiibamlou e",
+            "P’riuhna Kasuaihiam tiilou bam,",
+            "Jisu hei akhang gay hay hay thau the.",
+            "",
+            "3 He, ata adih ’khwan kan tha!",
+            "’Thukpui ganv 4^& akhou guang tangh mak saanv,",
+            "Thuaklou ngammei Jisu ngamv khou,",
+            "Ai bowlouna Kakhou gutlou mak saanv.",
+            "",
+            "4 Kaganv ’thuic Kamei phu bam e,",
+            "Akhou Kazauzian tii padiklou khang,",
+            "’Thanmei nunc lev kadam laa khang,",
+            "Baihmei lwn khou ata kapuihlou khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Oh, It is Wonderful!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.10.8.10. Ref.",
+        "SS 58",
+        "E.C.Green",
+        "Mi hei lat changc cho?",
+        "Oh, It is Wonderful!",
+        "source hymn 132",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 132."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HE MI HEI CH’RYN TUANG E",
+        "titleRongmei": "HE MI HEI CH’RYN TUANG E",
+        "titleEnglish": "Oh, It is Wonderful!"
+      }
+    }
+  }
+}

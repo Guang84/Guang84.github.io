@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-146",
+    "number": 146,
+    "source": {
+      "printedNumber": 146,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih Panty Gaymei Tat Twan Pwni the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          146 Kandih Panty Gaymei Tattwan Pwni the",
+            "                                11.8.9.10.Ref. 9.9.9.10",
+            "          Doh hei E",
+            "",
+            "          1. Kandih panty gaymei tattwan pwni the;",
+            "             Zaeng 'thaekcpui bamv maek pwni the;",
+            "             Ravguangc, Nang rui zaylou gaeklou o;",
+            "             Nang zauzian rui ata zaykaanlou o.",
+            "",
+            "                        Jisu rui kros khou ryanraa khaengvlou.",
+            "                        Kandih ramgai ai phu dat lak khe;",
+            "                        Tingsaeng zaeng kanloumei ta phu ni;",
+            "                        Kalvari zei luangckeymei kros khoutei.",
+            "",
+            "          2. Siimei duithuak khourui zaykaan patlou o;",
+            "             Namvthanh gaymei khoutei guang khang.",
+            "             Jisu tuang kros hei phungc ngam diu khang,",
+            "             Nang zauzian rui ata zaykaanlou o.",
+            "",
+            "          3. Ai ringhmei panty t'rou khourui thau lana,",
+            "             Namvthanh gaymei khou lungc pwni.",
+            "             Ringhmei Poubauhmei, achaeng zingc the;",
+            "             Gaanc guang o Poubauhmei, ai chaeng maanv the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih Panty Gaymei Tat Twan Pwni the"
+      }
+    }
+  }
+}

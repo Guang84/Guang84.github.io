@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0316",
+    "number": 316,
+    "source": {
+      "printedNumber": 316,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "F.H. Rawley",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 875"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai suan ni Khrista akhang rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai suan ni Khrista akhang ({0",
+            "Theicloumei ch’ynmei p’ry hei;",
+            "Hymdaihmei Kakai ganclouna,",
+            "Kros khou theicloumei p’ry e.",
+            "",
+            "Ai suan ni Khrista akhang ({0",
+            "Theicloumei ch’rynmei p’ry hei;",
+            "Ai suan ni kauh ’thanmei nunc lev",
+            "Kangranmei duipui paengc khou.",
+            "",
+            "2 Ai ruan ’maanmei lauziu khwan e,",
+            "Jisu ({0 phutow datna,",
+            "Zianpui baanc ({0 ata pamclou,",
+            "Kachaeng khou ata zaylou.",
+            "",
+            "3 Bow katupna ai kabiu khou,",
+            "Jisu ({0 tiigaylou the;",
+            "Mik tiatna pingna bam khwan e,",
+            "Jisu ({0 tiiduaklou the.",
+            "",
+            "4 Aruc khou siimei guang bam e,",
+            "Ryanrapui chaeng tat bam e;",
+            "Kum sihni Pou ({0 ’duangh bam e,",
+            "Kabaanc ({0 zaylou bam e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Will Sing the Wonderous Story",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "3/4",
+        "8.7.8.7. Ref.",
+        "SS 875",
+        "F.H. Rawley",
+        "I Will Sing the Wonderous Story",
+        "source hymn 316",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 316."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai suan ni Khrista akhang rui",
+        "titleRongmei": "Ai suan ni Khrista akhang rui",
+        "titleEnglish": "I Will Sing the Wonderous Story"
+      }
+    }
+  }
+}

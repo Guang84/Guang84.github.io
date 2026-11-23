@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-029",
+    "number": 29,
+    "source": {
+      "printedNumber": 29,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chamdaanv latho Lwmloumei Guay",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          29       Chamdaanv Latho Lwmloumei Guay",
+            "                                    8.8.8.8.Ref.8.8.8.8",
+            "",
+            "          Doh hei G",
+            "",
+            "               1. Chamdaanv latho lwmloumei guay,",
+            "                  Lautay nimei ganv guang pwthe.",
+            "                  Kamei rui baengkhuai sinthau the;",
+            "                  Chamdaanv latho lwmloumei guay.",
+            "",
+            "                         Lautay nimei ganv guang pwthe.",
+            "                         Napguy tei minc nzinh ngam the,",
+            "                         Nkhuk keyna mincraam ngam the.",
+            "                         Khuam kaduai nipui ganv di the.",
+            "",
+            "               2. Baengkhuai tei sinna 'tay pwni.",
+            "                  Poubauhmei rui kumna saa e:",
+            "                  Lau guay tei minc nzinh ngam the;",
+            "                  Napchu guay khuam kaduai pwni.",
+            "",
+            "               3. Tingkauh baanch'raa 'thanmei guay nic,",
+            "                  Kaniw tuang baengkhuai sinthau the.",
+            "                  Napguy tei mincraam pwni the;",
+            "                  Daihmei 'thyammei laupuk guay tei.",
+            "",
+            "               4. Minc bammei napthai guayna tei,",
+            "                  Kagung katak kadaa pwni.",
+            "                  'Tay nsaekclou tuang nai lak khe.",
+            "                  Nap guay saamh khou phungcguang pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chamdaanv latho Lwmloumei Guay"
+      }
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0701",
+    "number": 701,
+    "source": {
+      "printedNumber": 701,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Howard B. Grose",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "6/4",
+      "meter": "8.7.8.7. D. Ref.",
+      "tune": "HLC 465"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaipouc khang gay liangmei tii o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaipouc khang gay liangmei tii o,",
+            "Chabwan pumtan 7?| tii o;",
+            "Nang lungning kaguay tiipatna",
+            "Nchumhmei khang adow o;",
+            "Jisu ?|7 kathiak ’chinlou e,",
+            "Kamei bauc e, ping mak ge,",
+            "Biangpiumei, champouhmei lyan o,",
+            "Nang khou gay liangmei tii o.",
+            "",
+            "Kaipouc khang gay liangmei tii o,",
+            "Chabwan pumtan 7?| tii o;",
+            "Ringhbamv ricpwan",
+            "kapwm piuna",
+            "Nchumhmei khang adow o.",
+            "",
+            "2 Kaipouc khang gay liangmei tii o,",
+            "Kata nang ning ’thuk liang o,",
+            "Nang taanv guay khou Kachwn thanv o,",
+            "Ramh guay Kakhang tiipat ro;",
+            "Tiipat ro, nang khang tii puni,",
+            "Ravguangc KaNac ta tii the;",
+            "Neihlaana Kasiamruai sw o,",
+            "Nang khou gay liangmei tii o.",
+            "",
+            "3 Kaipouc khang gay liangmei tii o,",
+            "Zauzian pow 7?| khangclou o;",
+            "Nang ta thuakloupui manv khang 7?|",
+            "Kapumc kahak tiipat the;",
+            "Kahym guay lou ducna key the,",
+            "Nang zaeng khang ?|7 theiclou the,",
+            "Nang lungh gutna Kata ’bwan o,",
+            "Nang khou gay liangmei tii o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Give of Your Best to the Master",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "6/4",
+        "8.7.8.7. D. Ref.",
+        "HLC 465",
+        "Howard B. Grose",
+        "Give of Your Best to the Master",
+        "source hymn 701",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 701."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaipouc khang gay liangmei tii o",
+        "titleRongmei": "Kaipouc khang gay liangmei tii o",
+        "titleEnglish": "Give of Your Best to the Master"
+      }
+    }
+  }
+}

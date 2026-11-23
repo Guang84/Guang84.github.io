@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0016",
+    "number": 16,
+    "source": {
+      "printedNumber": 16,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "6.10.12.10.",
+      "tune": "CSH 157"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HE NGAMP’RYMEI RAVGUANGC",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Ngamp’ryrimei Guangc!",
+            "Nang zanc thuanh khang keyna nkhavlou o;",
+            "Hymdaihmei, rih ngammeipu Ravguangc keylou o;",
+            "Nganv makmeipu ’niw ruc khou guanghtu o.",
+            "",
+            "2 He maansei guanhmei Lat,",
+            "Ngammei Nang baengsaeng _>6 sin gaeklou o,",
+            "Keyna suaihiamlou o, Nang mei nunc ruc khou hei,",
+            "Nang Lat ngamv nai diu khang tiisw lou o.",
+            "",
+            "3 He Bumaengh ’Thanmeile,",
+            "’Niw lev bam ’chamclou o, mi ganv khou hei,",
+            "Meic kathuic lungning khou Nang _>6 guanghtulou o,",
+            "He Bumaengh, ’niw khou _>6 tat dat ri tho.",
+            "",
+            "4 Gaanv Thumh khat Racguangc ta,",
+            "Kauh liangmei khou thuanc diu, tingsaengzaengna,",
+            "Kauh liang, daic liangmei lwn kauh thangc aniu how ni,",
+            "Kanganv maekna chakhwang champouh sw diu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Come, Thou Almighty King!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "6.10.12.10.",
+        "CSH 157",
+        "Anonymous",
+        "Come, Thou Almighty King!",
+        "source hymn 16",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 16."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HE NGAMP’RYMEI RAVGUANGC",
+        "titleRongmei": "HE NGAMP’RYMEI RAVGUANGC",
+        "titleEnglish": "Come, Thou Almighty King!"
+      }
+    }
+  }
+}

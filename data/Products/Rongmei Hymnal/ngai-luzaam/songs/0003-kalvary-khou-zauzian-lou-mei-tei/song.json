@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-003",
+    "number": 3,
+    "source": {
+      "printedNumber": 3,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kalvary khou zauzian lou mei tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kalvary khou zauzian loumei tei.",
+            "Lik khap kan diu kandi nam ru khou hei,",
+            "Nang rui khan patloumei guai hei,",
+            "Theimei rianra pui bam khou bam.",
+            "",
+            "He! Poubaomei nang tigun daimei zauzian rui.",
+            "Ndao khap diu zaat guai nakhou.",
+            "Meiguai lungning paap khou maan ngam",
+            "Nangzan nthanmei thuan ku kandiu.",
+            "",
+            "2. Ai rui rianra rian riu bam khou hei,",
+            "Thou cho, poubaomei ata kanlou khang?",
+            "Kandi khou hei nangzan din khang,",
+            "Nkha loudiu khang mei makge.",
+            "",
+            "3. Kandi nkhuai mei muang zing meikum.",
+            "Zing guang e poubaomei alung khou hei,",
+            "Tigaan lou o nang tikgun rui,",
+            "Alungh mun kum ma puang datni.",
+            "",
+            "4. Nang ta ninga kap be Poubaomei,",
+            "Nzianmei guai tingsaeng lung nipui ram,",
+            "Kap bammei hei tabui nung rui,",
+            "Neihla mikdui phui datni cho.?"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 3",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 3. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kalvary khou zauzian lou mei tei",
+        "titleRongmei": "Kalvary khou zauzian lou mei tei"
+      }
+    }
+  }
+}

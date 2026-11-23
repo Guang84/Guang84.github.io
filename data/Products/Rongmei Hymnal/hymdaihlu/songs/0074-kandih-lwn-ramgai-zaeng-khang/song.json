@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0074",
+    "number": 74,
+    "source": {
+      "printedNumber": 74,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Folliott S.Pierpoin",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7.7. Ref.",
+      "tune": "CSH 108"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih lwn ramgai zaeng khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kandih lwn ramgai zaeng khang,",
+            "Tingpuk kauh ramgai zaeng khang,",
+            "Zianmei #<8 ’niw ringcting saanv",
+            "’Niw daeng guay zynmei zaeng khang.",
+            "",
+            "He ramh guay Kaipouc Nang ta",
+            "Neihlaapui lu #<8 thuanc e.",
+            "",
+            "2 Kaganv ’thuic gaymei zaeng khang,",
+            "Zingbangc lev kalaanv zaeng khang,",
+            "Chyng, ’zaengc, thing-’tauh, nwm zaeng khang,",
+            "Bw, Neih, Gaanchuangcna zaeng khang.",
+            "",
+            "3 Maansei riangluaic guay zaeng khang,",
+            "Khat khat ta zianmei zaeng khang,",
+            "Kauh lev dih pam nunc zaeng khang,",
+            "Kadanthaymei lung zaeng khang.",
+            "",
+            "4 Nang tuang phwamling kaganv ’thuic,",
+            "’Thanmei baanc zay kauh thauna,",
+            "Kabamv ’thuic khou Karamzian",
+            "Nang khang kat bammei zaeng khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "For the Beauty of the Earth",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "7.7.7.7. Ref.",
+        "CSH 108",
+        "Folliott S.Pierpoin",
+        "For the Beauty of the Earth",
+        "source hymn 74",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 74."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih lwn ramgai zaeng khang",
+        "titleRongmei": "Kandih lwn ramgai zaeng khang",
+        "titleEnglish": "For the Beauty of the Earth"
+      }
+    }
+  }
+}

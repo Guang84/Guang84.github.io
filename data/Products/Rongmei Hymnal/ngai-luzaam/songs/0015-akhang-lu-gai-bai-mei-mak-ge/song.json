@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-015",
+    "number": 15,
+    "source": {
+      "printedNumber": 15,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "B",
+      "key": null,
+      "beat": null,
+      "meter": "8.5.8. 5. ",
+      "tune": "Isaiah 12:2"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Akhang lu gai bai mei mak ge",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Akhang lugai baimei mak ge,",
+            "Hei kandi khou hei,",
+            "Akhang khrista theilou mei tei,",
+            "Lu gailiang mei e.",
+            "",
+            "He! Alu gailiang mei khrista kiu e,",
+            "Nthiam khou le lung rianra khou,",
+            "Arang khang le ngang pui tuang khang nang e.",
+            "",
+            "2. Kandih lu gaimei guai tei mu,",
+            "Mun kum ma tuai e,",
+            "Poubaomei thuan pui lu gaimei",
+            "Tuaidat pulak khe.",
+            "",
+            "3. Rianra na kapbam khou tei ni",
+            "Zian loumei nang.. e,",
+            "Baimei ta ai ning khang makge,",
+            "Khrista ta ham na.",
+            "",
+            "4. David khang ni raeng gaimei e,",
+            "Poubaomei zianmei,",
+            "Akhang ni nang raeng gaimei e,",
+            "He! Poubaomei le."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 15",
+        "Khristian Luzaam PDF",
+        "Chord: B",
+        "Meta 3: 8.5.8. 5. ",
+        "Meta 4: Isaiah 12:2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 15. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 15,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Akhang lu gai bai mei mak ge",
+        "titleRongmei": "Akhang lu gai bai mei mak ge"
+      }
+    }
+  }
+}

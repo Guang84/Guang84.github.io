@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0019",
+    "number": 19,
+    "source": {
+      "printedNumber": 19,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Latin Hymn",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7.7.",
+      "tune": "CW 114"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingmik kathuic neihmik patna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingmik ’thuic neihmik patna",
+            "Lauthwan pum tiigaanclou kumc,",
+            "Pou ’niw lungh khat na swna",
+            "’Niw lungsyng Nang ta thuanc e.",
+            "",
+            "2 Tingmik ’thuic taektw tiilou,",
+            "Gaymei guay Nang khou ^&8 e,",
+            "’Niw bumaengc khang pumtan hei",
+            "Ringhmei ’Tyan, Nang khou ^&8 e.",
+            "",
+            "3 Paapc khou ^&8 gaeklou na ro,",
+            "Zayloumeipu swlou o,",
+            "Nang khou ^&8 maeng tat mak khang,",
+            "’Niw phaykaamv ta gaeklou o.",
+            "",
+            "4 Bumaengh ^&8 tiiluanlou o,",
+            "Nang ningmei khou tat ngam khang;",
+            "’Niw Nang Lat kathai bam khou",
+            "Ningting tiilou o, Kaipouc. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "As The Sun Doth Daily Rise",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "7.7.7.7.",
+        "CW 114",
+        "Latin Hymn",
+        "As The Sun Doth Daily Rise",
+        "source hymn 19",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 19."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingmik kathuic neihmik patna",
+        "titleRongmei": "Tingmik kathuic neihmik patna",
+        "titleEnglish": "As The Sun Doth Daily Rise"
+      }
+    }
+  }
+}

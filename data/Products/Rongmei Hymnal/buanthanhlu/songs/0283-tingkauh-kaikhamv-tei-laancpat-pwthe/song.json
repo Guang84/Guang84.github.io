@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-283",
+    "number": 283,
+    "source": {
+      "printedNumber": 283,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh Kaikhamv tei Laancpat pwthe",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          283 Tingkauh Kaikhamv tei Laancpat",
+            "                              9.6.9.Ref. 10.8.4",
+            "          Doh hei D",
+            "",
+            "          1. Tingkauh kaikhamv tei laancpat pwthe;",
+            "             Baanch'raa guay tei dingna.",
+            "             Lwmmei guay ta laa khang key pwni.",
+            "",
+            "                      Baanh hiwna neihlaamei kim dat lak he,",
+            "                      Swkaeng naina samc pwni e,",
+            "                      Kaanpatmei guay.",
+            "",
+            "          2. Ringhmei thingbang lim gaymei khoutei,",
+            "             'Thanmei alauc guay rui,",
+            "             Mpwan kumcna khoutei samc bam e.",
+            "",
+            "          3. Heic ramc gay khoutei lungc nimei guay,",
+            "             Lwm tho Kaipouc Khrista,",
+            "             Muangh khou dungcna Kamei key pwni.",
+            "",
+            "          4. Kumna dinc e chamdaanvmei ganv e;",
+            "             Thow pwnic chamdaanvmei,",
+            "             Kaipouc Khrista guang khou tat 'chamc ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh Kaikhamv tei Laancpat pwthe"
+      }
+    }
+  }
+}

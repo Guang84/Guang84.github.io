@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0557",
+    "number": 557,
+    "source": {
+      "printedNumber": 557,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Jay Holmes Smith",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "Irregular.",
+      "tune": "CW 487"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thau tho, kandih kathuic khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thau tho, kandih kathuic khou maansei zaat guay,",
+            "Ravguangc tuang guanghdic kathanc aniu kasiamh di kho;",
+            "’Niu lunghchamh kho, bauhmei, machunhmei nai kho,",
+            "Ringhmei Kaipouc kandih khou tatruan guang dat pw the,",
+            "Zauc lo, Kamei guang dat pw the;",
+            "Maansei lung khou ringhmei",
+            "maibwang latkaeng ?|7 hylou khang,",
+            "Katuang Bumaengc ngamv paan khou ?|7,",
+            "Heipui zuk khou thuakloumei taanv tii guang tangh khang.",
+            "",
+            "2 Thau tho, ngammei, pumtan naimei nac thiule,",
+            "’Suanmei nunc ?|7 Ravguangc khou ’twnmei latzan huay e;",
+            "Swmmay nunc dam tiilou niina tiilou tio,",
+            "Agaamvmei nunc ?|7 kaniw dam asut mak kan diu;",
+            "’Suan liangmei khang aniu thouc nai,",
+            "Kaniw ta tiiduaklou khang ?|7 ’niu ngamv guay tiigut kho,",
+            "Lungning daihmei nyngswmei kiu",
+            "Bangh sw bammei nunc ta tiiduakloumei hei e.",
+            "",
+            "3 Siimei ngamv sinmei nunc 7?| buybaeng sin e,",
+            "Aniu thu Nang ta pamc e,",
+            "biangpiumei nunc swna;",
+            "Karaengmei pwanzingh tancna ’liu bam sihni,",
+            "Lauthwan ramgai khou Nang tuang zianmei kros ta how e,",
+            "Tiigaymei riw gaancna bam e,",
+            "Theic dat lakmei machunc 7?|",
+            "Kabaansyam guay ?|7 lyan e,",
+            "Martair nunc kumc Nang lev tat re,",
+            "Maansei nac nunc guay Ravguangc nac sw ngam mak saanv.",
+            "Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Come Forth, Ye Men of Every Race",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "Irregular.",
+        "CW 487",
+        "Jay Holmes Smith",
+        "Come Forth, Ye Men of Every Race",
+        "source hymn 557",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 557."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thau tho, kandih kathuic khou",
+        "titleRongmei": "Thau tho, kandih kathuic khou",
+        "titleEnglish": "Come Forth, Ye Men of Every Race"
+      }
+    }
+  }
+}

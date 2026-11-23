@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0071",
+    "number": 71,
+    "source": {
+      "printedNumber": 71,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Joseph Addition",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "2/2",
+      "meter": "L.M. D.",
+      "tune": "HLC 54"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kanganv maekmei nsa karaeng",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kanganv maekmei nsaa karaeng,",
+            "Nrym gaymei tingpuk ramgai,",
+            "Gaanchuangc padikmei tingpuk ?|7",
+            "Damcloumeipu ningting lyan e.",
+            "Tingmik ’thuic neihmik patmei ?|7",
+            "Damcloumeipu ngamv ta lyan e,",
+            "Kandih kathuic khou lyanlou e,",
+            "Ngamp’rymeipu Ravguangc taanv ta.",
+            "",
+            "2 Neihkhyam keyna zingc key pwkhou,",
+            "Bw ?|7 p’ry hei rac lyn dat the;",
+            "Zingbangc kathuic kaluaih luaihna,",
+            "Kata Damhmeipu ta thuanc e,",
+            "Gaanphiu, gaanchuangc kaguay ?|7 nic",
+            "Kadwan swna p’ry hei rac e,",
+            "Kaniw chaenglwan samc kaan bam khou",
+            "Dihpy dihba tiithay lik e.",
+            "",
+            "3 Chingkhiuhna reih reina tat re,",
+            "Kaniw changlwan samc ’kuay bam khou;",
+            "Kaniw khwanring chu pat mak ge,",
+            "Kangran gayna gaancna bam khou,",
+            "’Ki lwmmei nukuanc ?|7 chu e,",
+            "Kaniw neihlaamei khwanring 7?|,",
+            "Tingsaengzaeng thuancna suan bam e:",
+            "“ ’Niu ta Ravguangc ?|7 damclou e.”"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Spacious Firmament On High",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "2/2",
+        "L.M. D.",
+        "HLC 54",
+        "Joseph Addition",
+        "The Spacious Firmament On High",
+        "source hymn 71",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 71."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kanganv maekmei nsa karaeng",
+        "titleRongmei": "Kanganv maekmei nsa karaeng",
+        "titleEnglish": "The Spacious Firmament On High"
+      }
+    }
+  }
+}

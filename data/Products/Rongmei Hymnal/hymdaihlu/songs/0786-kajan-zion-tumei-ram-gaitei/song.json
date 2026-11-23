@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0786",
+    "number": 786,
+    "source": {
+      "printedNumber": 786,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "9.8.7.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kajan Zion tumei ram gaitei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kajan Zion tumei ram gai4@&,",
+            "Ninga phang e tingmik kathui;",
+            "Khou 4@& lung khang jai lou o,",
+            "Nban thai pui ram khou.",
+            "",
+            "Chorus:",
+            "He ai ninge kanloumeipu,",
+            "Lili puang Guang Immanuel;",
+            "Nthanmei dui 4@& luange,",
+            "Ai rui hei 4@& ning thuk ge.",
+            "",
+            "2. Pap le nthiampui rih rui dai e,",
+            "Pinge pap rihta adou khang;",
+            "He kauh bumang sam kei o,",
+            "Aniu ta kanlou khang.",
+            "",
+            "3. Lung geimei rui banthai khang makge,",
+            "Hei kandih rianra ram khou hei;",
+            "Npat louna tat ni e,",
+            "Kauh kanaan ram gai thang.",
+            "",
+            "4. Kalvari siangding kross rukhou 4@&,",
+            "Khang lou the aniu Guang Jisu;",
+            "Ai rui hei 4@& mu lak khe,",
+            "Hallelujah Amen."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "9.8.7.6.",
+        "Kajan Zion tumei ram gaitei",
+        "source hymn 56",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 56."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kajan Zion tumei ram gaitei",
+        "titleRongmei": "Kajan Zion tumei ram gaitei"
+      }
+    }
+  }
+}

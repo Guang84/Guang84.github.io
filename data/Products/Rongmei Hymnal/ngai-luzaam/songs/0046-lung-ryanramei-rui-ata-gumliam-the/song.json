@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-046",
+    "number": 46,
+    "source": {
+      "printedNumber": 46,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "10.6.9.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lung ryanramei rui ata gumliam the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Lungh rianra mei rui ata gumliam the,",
+            "Theimei chang duanggut khang,",
+            "Lwmmei rui theimei ta ngam lou the,",
+            "Kanloumeipu rui kaoguang.",
+            "",
+            "Neila the ntao mu ai rui na,",
+            "Poubaomei nzian mei,",
+            "Zian thaymei Pu;",
+            "Abumaeng ta kanpat lou the.",
+            "",
+            "2. Laoziuna bampui ram guang tang pukhou,",
+            "Neila na ariu ni,",
+            "Theimei Jordan dui kanpat pukhou,",
+            "Tingkao khumkih khou bam ni.",
+            "",
+            "3. Neilamei lung ning gaimei naimei hei,",
+            "Jisu rui ti tuang e,",
+            "Kandi neila mei khang suang gai e,",
+            "Tingkao neila mei tei mu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 46",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 10.6.9.7."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 46. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 46,
+        "match": "title-match-0.97"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lung ryanramei rui ata gumliam the",
+        "titleRongmei": "Lung ryanramei rui ata gumliam the"
+      }
+    }
+  }
+}

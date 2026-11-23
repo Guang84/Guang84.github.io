@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-054",
+    "number": 54,
+    "source": {
+      "printedNumber": 54,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Penticost nung kum na he poubaomei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Penticost nung kum ma he Poubaomei ,",
+            "Guang lou dat ro mei kapum na khou;",
+            "Ting saeng gaimei chaeng tei maan dat mak khang",
+            "Zaipat lou dat ro.",
+            "",
+            "Rianra zingh mei ram tigaan lou diu khang ,",
+            "Tikei lou dat ro nang zauzian gaimei;",
+            "Pap guai na kaothan khang mai chuang mei kum",
+            "Bumaeng than guang o.",
+            "",
+            "2. Theimei ngan na khang na thei kanmei guai,",
+            "Kandi neihlamei lanimei guai;",
+            "Nduang gutro tingsaeng gaimei ram khou,",
+            "Maan nimei guai ta.",
+            "",
+            "3. Bumaeng thanmei nzian mei guang datro.",
+            "Ringh ni the pap khou maan mei guai rui;",
+            "Ting saeng ringh nimei chaeng tei thai mak na,",
+            "Maan ngam kanni the.",
+            "",
+            "4. Musaeng lang khe thing ru khou khaeng loumei,",
+            "Aniu lungh zingh mei rui duam liam na;",
+            "Ti maanlou o kandi neihlamei guai,",
+            "Nang ta ning dat khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 54",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 54. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Penticost nung kum na he poubaomei",
+        "titleRongmei": "Penticost nung kum na he poubaomei"
+      }
+    }
+  }
+}

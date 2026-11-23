@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0059",
+    "number": 59,
+    "source": {
+      "printedNumber": 59,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Isaac Walts",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "C.M. SS 513",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Ravguangc , he aniw Kaipouc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Ravguangc, he aniw Kaipouc,",
+            "Reynungc hu thangc Kaipouc,",
+            "Pwanzingh guang khou duppuibamv Nang,",
+            "’Niw tuang tingsaeng kai e.",
+            "",
+            "2 Luanghbut guay hei damh mak khou #^5,",
+            "Kandih nai mak khou #^5,",
+            "Nganv makmei thangc #^5 Ravguangc e,",
+            "Nganv makna kum bam ni.",
+            "",
+            "3 Tingkwm ching hei Nang mik zaw khou",
+            "Tingzyn khat ganv na kumc,",
+            "Neihpat makmei hu khou zingbangc",
+            "Katumcna luai kan kumc.",
+            "",
+            "4 Kaganv #^5 luangc bammei dui kumc,",
+            "Maansei guay ta phungc tat,",
+            "’Muc kan the, kaniw ta mang kumc,",
+            "Maek khe, tinggaanc pat khou.",
+            "",
+            "5 He Ravguangc, ’khavloumei Kaipouc!",
+            "Aniw machunc Nang e;",
+            "Tingsaeng aniw kai swlou o,",
+            "Ringc bam saanv gaeklou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O God, our Help in Ages Past",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "C.M. SS 513",
+        "Isaac Walts",
+        "O God, our Help in Ages Past",
+        "source hymn 59",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 59."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Ravguangc , he aniw Kaipouc",
+        "titleRongmei": "He Ravguangc , he aniw Kaipouc",
+        "titleEnglish": "O God, our Help in Ages Past"
+      }
+    }
+  }
+}

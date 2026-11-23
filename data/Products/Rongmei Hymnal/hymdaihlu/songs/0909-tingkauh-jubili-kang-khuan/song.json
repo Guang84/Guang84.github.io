@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0909",
+    "number": 909,
+    "source": {
+      "printedNumber": 909,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh jubili kang khuan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Tingkauh Jubili kang khuan king o,",
+            "Tat dat makkhe hiu bammei khuan tei;",
+            "Pap phungmmei nun mu chu thui lak,",
+            "Kinga guang tho nian puni the.",
+            "",
+            "Chorus:",
+            "Tat nimei tingkauh ram khou tei,",
+            "Tingsang neila nban thaini;",
+            "Kam thao dikho jianmei nun le,",
+            "Tingkauh jubili kang khuan king o.",
+            "",
+            "2. Thei handat ritho lumloumei guai,",
+            "Kandih hei rianra jingpui bam de;",
+            "Kap kalangmei !-2 jing sini,",
+            "Kauh Jubili kang khuan tei king o.",
+            "",
+            "3. Tang jai puni the tingkauh ram kiu,",
+            "Houjai nithe kaipou Khrista lun;",
+            "Halleluijah sam kan nithe,",
+            "Tingkauh guang jubili ngai khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "9.9.8.8.",
+        "Tingkauh jubili kang khuan",
+        "source hymn 179",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 179."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh jubili kang khuan",
+        "titleRongmei": "Tingkauh jubili kang khuan"
+      }
+    }
+  }
+}

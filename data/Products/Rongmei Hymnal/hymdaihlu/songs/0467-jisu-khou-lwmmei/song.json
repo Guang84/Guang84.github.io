@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0467",
+    "number": 467,
+    "source": {
+      "printedNumber": 467,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. Louisa M.R. Stead",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "3 Alex 161"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU KHOU LWMMEI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu khou lwmmei gay changh e;",
+            "Kalat ta lwm rapmei hei,",
+            "Kalatryan khou ngangvloumei hei,",
+            "Kaipouc lat ta thaymei hei.",
+            "",
+            "Jisu, Jisu, Kata ai lwm,",
+            "Kamei akhang suai zat mak;",
+            "Jisu, Jisu kunghmei Jisu!",
+            "Zauzian paan lwm ’tip bam ni!",
+            "",
+            "2 Jisu khou lwmmei adih gay,",
+            "Sw ’thanmei zei khou lwmmei,",
+            "Tiigaymei, sw ’thanmei dui khou,",
+            "Lwmpui paan ?|7 lupmei hei!",
+            "",
+            "3 Jisu khou lwmmei gay changh e;",
+            "Paapc lwnlung ganclou ducna,",
+            "Ringhmei, zaeng ’thaekcmei, chuzaenghmei,",
+            "Jisu khou ?|7 laamei hei.",
+            "",
+            "4 Neihlaa the, Nang khou ai lwmna",
+            "Kunghmei Gumei pu Jisu!",
+            "Ata ’duanghloumei ai thay e,",
+            "Katwan nganv ’duanghlou puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Trust in Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "3 Alex 161",
+        "Mrs. Louisa M.R. Stead",
+        "Trust in Jesus",
+        "source hymn 467",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 467."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU KHOU LWMMEI",
+        "titleRongmei": "JISU KHOU LWMMEI",
+        "titleEnglish": "Trust in Jesus"
+      }
+    }
+  }
+}

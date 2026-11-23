@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0183",
+    "number": 183,
+    "source": {
+      "printedNumber": 183,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. C.F. Alexander",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6.",
+      "tune": "SS 1134"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Diak chuymei chyngbut khat nai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Diakc chuymei chyngbut khat nai e,",
+            "Kaidai tuang raengh paengc khou;",
+            "Khou7}$ Pou ta hianbin khwan e,",
+            "’Niu ta gu khang theiclou.",
+            "",
+            "2 Karamrianra ’khaengvlou thukh 7}$",
+            "’Niu thay tangc thuy mak ge;",
+            "’Ki ’niu thay e, ’niu zaeng khang e,",
+            "Kamei kros khou theihmei.",
+            "",
+            "3 ’Niu ta kuaklou khang #^7 theiclou,",
+            "’Niu gaymei sw diu khang;",
+            "Kunghmei Kazei #^7 gulouna,",
+            "’Niu tingkauh ku diu khang.",
+            "",
+            "4 Paapc manv 7}$ khangclou",
+            "khang biuhmei",
+            "Baihmei mei maek khwan e;",
+            "Kamei na de tingkauh kaikhamv",
+            "’Niu khang laanclou ngammei.",
+            "",
+            "5 He heidi kungcna zianlou the!",
+            "’Niu nic Kata zian kho;",
+            "Thuakloumei Kazei khou lwmna,",
+            "Kataanv ’niu nic taanc kho.",
+            "",
+            "Optional Chorus",
+            "He heidi kungcna zianlou the,",
+            "’Niu nic Kata zian kho;",
+            "Thuakloumei Kazei khou lwm kho,",
+            "Kataanv taanh khang sw kho."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "There is a Green Hill Far Away",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "8.6.8.6.",
+        "SS 1134",
+        "Mrs. C.F. Alexander",
+        "There is a Green Hill Far Away",
+        "source hymn 183",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 183."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Diak chuymei chyngbut khat nai",
+        "titleRongmei": "’Diak chuymei chyngbut khat nai",
+        "titleEnglish": "There is a Green Hill Far Away"
+      }
+    }
+  }
+}

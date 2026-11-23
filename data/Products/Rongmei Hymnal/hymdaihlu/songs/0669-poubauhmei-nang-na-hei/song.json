@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0669",
+    "number": 669,
+    "source": {
+      "printedNumber": 669,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Edith Jones",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.6.6.6.8.8.",
+      "tune": "CW 609"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubauhmei , Nang na hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Poubauhmei, Nang na hei",
+            "’Khavlou ngammei pu e,",
+            "Chulou o, ’niw huaymei,",
+            "N-gyn phaylaanhmei khang;",
+            "Ngamp’rymei baanc #^7 sungclou o,",
+            "Dui-rih kaanna tatmei nunc ta.",
+            "",
+            "2 Zianmei #^7 sungclou o,",
+            "Kaniw chaenglwan ’thuic khou,",
+            "Nang tuang gaanhmei, ’chumhmei,",
+            "Kaniw lung khou nai diu;",
+            "Ramh guay khou Nang chwn khou lungcna,",
+            "Kaniw lung chuzaenghna tat diu.",
+            "",
+            "3 Kaniw ta gaeklou o,",
+            "Tasiat-chariat khou #^7,",
+            "Kaniw khou ’chamlou o,",
+            "Nang ngamv suai zat mak ge;",
+            "Kaniw lev tat ’chamc mak sihni",
+            "Pou, Nang baanc khou nsinlou the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Father, Who Art Alone",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "6.6.6.6.8.8.",
+        "CW 609",
+        "Edith Jones",
+        "Father, Who Art Alone",
+        "source hymn 669",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 669."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubauhmei , Nang na hei",
+        "titleRongmei": "Poubauhmei , Nang na hei",
+        "titleEnglish": "Father, Who Art Alone"
+      }
+    }
+  }
+}

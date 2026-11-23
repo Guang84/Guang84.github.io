@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0907",
+    "number": 907,
+    "source": {
+      "printedNumber": 907,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kagan tat khou niuni tatre",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kagan tat khou niuni tat re,",
+            "Tingmik tatmei kum tat re;",
+            "Hei dih hei pat lou jai ni the,",
+            "Niu kai tingkauh thang tat khang.",
+            "",
+            "Chorus:",
+            "Kagan !-2 tatmei khou niuni tatre (2),",
+            "Aniu !-2 aniu kai biak juan bam e;",
+            "Kagan !-2 tatmei khou niuni tatre.",
+            "",
+            "2. Tingkum rambiu niu lung guang the,",
+            "Lungkei lungku lungriu the;",
+            "Lung rianra neila ariu the,",
+            "Kap guai nui guai na lung the.",
+            "",
+            "3. He tingmik thui pouhta lum kho,",
+            "Nchummei khou jailou khang;",
+            "Kum thei niu chang man mak puni,",
+            "Pap le jingbang chang khou tei.",
+            "",
+            "4. Kandih changchiam guai tat ngamna,",
+            "Kachiam khath khat tat luaina;",
+            "Bumang lungpui bam tang ni the,",
+            "Ngin chang tat luai pu khou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "8.7.8.7.",
+        "Kagan tat khou niuni tatre",
+        "source hymn 177",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 177."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kagan tat khou niuni tatre",
+        "titleRongmei": "Kagan tat khou niuni tatre"
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-032",
+    "number": 32,
+    "source": {
+      "printedNumber": 32,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ch'rynmei Jisu Zauzian",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          32      Ch'rynmei Jisu Zauzian",
+            "                       6.6.8.6.Ref. 10. 12. 11",
+            "          Doh hei E",
+            "",
+            "          1. Ch'rynmei Jisu zauzian,",
+            "             Apaap 'suangc daic ranv e.",
+            "             Ai kumhmei paapc phunghmei nac khang,",
+            "             Kazei luangckeylou the.",
+            "",
+            "               Karam zianlou ai makumh ngam thuy mak.",
+            "               Apumtan akhwan naipui kamv thuanc bam sihnic,",
+            "               Thuanc kim thuy lak ge ch'rynmei Jisu zauzian.",
+            "",
+            "          2. 'Zianmei baanc rui zaapna,",
+            "             Aniw ta kaw bam e.",
+            "             'Zianmei guay Akhou guanglou o,",
+            "             Ai zaeng tithaekclou ni.",
+            "",
+            "          3. Nang zaw karih pat ro,",
+            "             Gu'meipu biak thangc tei.",
+            "             Nang khuay guay tei kuaklou pwni,",
+            "             Twna 'zianna saa e.",
+            "",
+            "          4. Dihmei guay chakzauc lo:",
+            "             Kaganv hei rauguang the.",
+            "             Nuhloupui ganv khou guangmei guay,",
+            "             Gui gay san gaymei e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ch'rynmei Jisu Zauzian"
+      }
+    }
+  }
+}

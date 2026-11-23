@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-195",
+    "number": 195,
+    "source": {
+      "printedNumber": 195,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang Jisu ta How khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          195 Nang Jisu ta How khang",
+            "                         11.11. Ref. 5. 6. 6",
+            "          Doh hei. D",
+            "",
+            "          1. Nang Jisu ta how khang chamdaanvna bam o (3)",
+            "             Aseic Kakhwan chu the, lungning tanh ritho.",
+            "",
+            "                       Lungning tanh ritho (4)",
+            "                       Aseic Kakhwan chu the,",
+            "                       Lungning tanh ritho.",
+            "",
+            "          2. Jisu hei chaeng e, 'chumhmei lev ringhmei e (3)",
+            "             Aseic Kakhwan chu the, lungning tanh ritho.",
+            "",
+            "          3. Tingsaeng zaeng ringhmei panty nang laa la tho (3)",
+            "             Aseic Kakhwan chu the, lungning tanh ritho.",
+            "",
+            "          4. Ravmaengc kalummei khourui nang tatpat tho (3)",
+            "             Aseic Kakhwan chu the, lungning tanh ritho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang Jisu ta How khang"
+      }
+    }
+  }
+}

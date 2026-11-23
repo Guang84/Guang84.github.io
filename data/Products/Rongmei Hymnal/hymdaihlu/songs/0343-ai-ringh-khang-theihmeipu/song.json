@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0343",
+    "number": 343,
+    "source": {
+      "printedNumber": 343,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8.6. Ref.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai ringh khang theihmeipu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai ringh khang theihmeipu Khrista",
+            "Ravguangc Nac ta zian e;",
+            "Taanvphy thaymei ’dauhna ai ^&8",
+            "Kaipat Kakhang phungc guang.",
+            "",
+            "Akaipat thyam sic Poubauhmei",
+            "Laalou o, ai huay e;",
+            "Aphaan Khrista lungc lyn kan diu,",
+            "Alung khou tingsaengzaeng.",
+            "",
+            "2 Ramh biuhmei kaipat ravkatpuat",
+            "Phungc guang khang phutow mak,",
+            "Dih lanv na thu biuc zat lak khe,",
+            "AGuangc khang katlou khang.",
+            "",
+            "3 Tabui kaipat kat bam sihni",
+            "Apow khangc ngam thuy lak,",
+            "Apumc ananw guay phungc guang",
+            "Nringh kaipat swna.",
+            "",
+            "4 Ananw guay ai tiipat the,",
+            "Kaipouc Nang taanv taanh khang;",
+            "Gaychamv riw hei phungc gaanc",
+            "tat ni",
+            "Meic nunc Khrista how khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A Living Sacrifice",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/8",
+        "8.6.8.6. Ref.",
+        "Anonymous",
+        "NRINGH KAIPAT",
+        "A Living Sacrifice",
+        "source hymn 343",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 343."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai ringh khang theihmeipu",
+        "titleRongmei": "Ai ringh khang theihmeipu",
+        "titleEnglish": "A Living Sacrifice"
+      }
+    }
+  }
+}

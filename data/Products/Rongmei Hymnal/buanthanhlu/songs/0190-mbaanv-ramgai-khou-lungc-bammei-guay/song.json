@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-190",
+    "number": 190,
+    "source": {
+      "printedNumber": 190,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Mbaanv Ramgai khou Lungc Bammei Guay",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          190 Mbaanv Ramgai Khou Lungc Bammei Guay",
+            "                             9.9.9.Ref. 10.9.9",
+            "",
+            "          1. Mbaanv ramgai khou lungc bammei guay,",
+            "             Kaganv khatna khangrui lungc bammei,",
+            "             Amaan pwni the kandih guay hei.",
+            "",
+            "                  Poubauhmei hu khou aniw ding pwkhou,",
+            "                  Latzan sw pwni zaatc guayna ta;",
+            "                  Kandih ramgai guay ganclou duc ni.",
+            "",
+            "          2. Zinghpui bamve aniw kandic hei;",
+            "             Simei rui 'thiam bam kaganv thuih khou;",
+            "             Kum sihnic Pou' rui duanghlou pwni.",
+            "",
+            "          3. Lungh ryanraamei phaan neihlaamei rui,",
+            "             Kaipouc khou lwmloumei guay khang mu,",
+            "             Timaan lak ge twna dinclou e.",
+            "",
+            "          4. 'Taw kandih puat guay ganclou duc ni,",
+            "             Poubauhmei Nang ringhmei lat guay tei,",
+            "             Panty nai bam saanv suanna bam ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Mbaanv Ramgai khou Lungc Bammei Guay"
+      }
+    }
+  }
+}

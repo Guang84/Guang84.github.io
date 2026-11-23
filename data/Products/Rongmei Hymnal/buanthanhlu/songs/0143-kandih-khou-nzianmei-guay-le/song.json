@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-143",
+    "number": 143,
+    "source": {
+      "printedNumber": 143,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou Nzianmei guay le",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          143 Kandih Khou Nzianmei Guayle!",
+            "                                8.9.8.8.Ref. 6. 7.7.9",
+            "          Doh hei Eb",
+            "",
+            "          1. Kandih khou nzianmei guay le !",
+            "             Jisu rui nzianna kawbam the.",
+            "             Akhou guang o, paapc kuaklou ni;",
+            "             Tingsaeng ringcsuangmei tilou ni.",
+            "",
+            "                        Guang o, kawmei chu lo;",
+            "                        Panty tingmik luai mak khou.",
+            "                        Lwm tho ringhmei Jisu khou;",
+            "                        Ningngam thuy pwlak khe 'thei thangc mu.",
+            "",
+            "          2. Malaa rio nzianmei guay le !",
+            "             Kadan o, nang bumaengc 'maan mak khang.",
+            "             Paapc rui bumaengh swmaan tuang e;",
+            "             Paapc kuak ge thei bumaengh ringc ni.",
+            "",
+            "          3. Jisu ramgai guang 'bapzauc lo;",
+            "             Kandih puat guay nang tuang sw sihnic,",
+            "             Bumaengh 'maan ethei gaengna cho ?",
+            "             Bumaengh lev tabui 'khiak ni cho?"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou Nzianmei guay le"
+      }
+    }
+  }
+}

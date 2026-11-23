@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0565",
+    "number": 565,
+    "source": {
+      "printedNumber": 565,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Colin Sterne",
+      "composer": null,
+      "arranger": null,
+      "chord": "Fb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.8.8.7.7. Ref",
+      "tune": "CSH 358"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandihmei khou raclou nimei p’ry",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kandihmei khou raclou niimei p’ry nai,",
+            "’Chumhmei khou zaylou nimei p’ry,",
+            "Nchumh liangmei zauzian p’ry e,",
+            "Chuzaenghmei gaanhmei p’ry e. (2)",
+            "",
+            "Zingh khou )}3 lauthwan tiiguanhlou ni,",
+            "Lauthwan khou )}3 kalaanv guanhlou,",
+            "Khrista guangcdic, dih khou keylou ni,",
+            "Nzianmei gaanhmei guangcdic.",
+            "",
+            "2 Kandihmei khou suanlou nimei lu nai,",
+            "Pou ta thuanc bam niimei lu e;",
+            "Mi lu )}3 siimei ta ngam ni,",
+            "Mi )}3 suc-rih sw ’maan ni.(2)",
+            "",
+            "3 Kandihmei khang gaypui latchamv khat nai,",
+            "Tingkauh thangc bammei Kapu )}3",
+            "’Niu khang Kanac tiikeylouna,",
+            "Zianmei lyanloumei chamv e. (2)",
+            "",
+            "4 Kandihmei khang lyanlou niimei pu nai,",
+            "Ryanra ’khaengvloumei Jisu e,",
+            "Kandih tuang saengcdaihmei nunc nic",
+            "Ravguangc khou guang kan diu khang. (2)"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "We’ve a Story to Tell to the Nations",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Fb",
+        "4/4",
+        "10.8.8.7.7. Ref",
+        "CSH 358",
+        "Colin Sterne",
+        "We’ve a Story to Tell to the Nations",
+        "source hymn 565",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 565."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandihmei khou raclou nimei p’ry",
+        "titleRongmei": "Kandihmei khou raclou nimei p’ry",
+        "titleEnglish": "We’ve a Story to Tell to the Nations"
+      }
+    }
+  }
+}

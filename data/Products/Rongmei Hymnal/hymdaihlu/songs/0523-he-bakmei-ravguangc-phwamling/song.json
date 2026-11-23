@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0523",
+    "number": 523,
+    "source": {
+      "printedNumber": 523,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Marion Franklin Ham",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "CW 433"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HE BAKMEI, RAVGUANGC PHWAMLING",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He bakmei Ravguangc Phwamling,",
+            "Chwnchamh makmei phwam hei",
+            "Latlu ^&8 swkow ngam the,",
+            "Ringhmei, ’chumhmei, chaeng ta;",
+            "Swangdwang maekmei kandic ^&8",
+            "Nang ta zaucna bam e,",
+            "He Khrista Gaychamv Phwamling",
+            "Nang tabui saa ni cho?",
+            "",
+            "2 Zinghmei ngamv ^&8 taanv sw e,",
+            "Zauczihmei rihmei kumc,",
+            "’Twnmei, ’chumhmei, nzihmei,",
+            "Rihpan biak ’dow guang the,",
+            "Siimei ngamv ^&8 kandih ’thuic",
+            "Meic guay ta zyn guang the,",
+            "Ravguangc Phwamling pumtan khou",
+            "Thau tho, nang dyng ding tho!",
+            "",
+            "3 Kalangv langv khaihmei ’thaekc tho,",
+            "Agay-agi taan tho,",
+            "Chuzaenghmei Guangc Nac Khrista",
+            "Chuanghphey zay kauh thau o,",
+            "Kaipouc, lwmmei, khat na de,",
+            "Ravguangc khat na lwm e;",
+            "Tat tho, Phwamling lungh ’chamh o,",
+            "Kazanc khou rih ngam tho!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O Church of God, Divided",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "7.6.7.6. D.",
+        "CW 433",
+        "Marion Franklin Ham",
+        "O Church of God, Divided",
+        "source hymn 523",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 523."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HE BAKMEI, RAVGUANGC PHWAMLING",
+        "titleRongmei": "HE BAKMEI, RAVGUANGC PHWAMLING",
+        "titleEnglish": "O Church of God, Divided"
+      }
+    }
+  }
+}

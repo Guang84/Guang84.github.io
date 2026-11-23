@@ -1,0 +1,139 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0142",
+    "number": 142,
+    "source": {
+      "printedNumber": 142,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Isaac Watts",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.6.6.6.8.8.",
+      "tune": "HLC 70"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ningting, nzianmei, ngamv khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ningting, zianmei, ngamv khou",
+            "Thuanc bammei zanc guay hei",
+            "Meic _>6 thay tanghmei guay,",
+            "Baanch’ra nunc thuanhmei guay",
+            "Kariu sihni khat sic biuh mak,",
+            "Gumeipu zanc ta kida khang.",
+            "",
+            "2 Ravguangc Muhzwng Daihmei,",
+            "Nang ta ai _>6 thuanc e,",
+            "Nang paan _>6 neihlaamei,",
+            "Ringhbamv chamv hei guang e;",
+            "Paapc kuakloumei, t’ruaih ta ngammei,",
+            "Chuzaenghmei, neihlaamei chamv hei.",
+            "",
+            "3 Jisu Tingkuh Daihmei,",
+            "Kazei keyna theiclou,",
+            "Khuay naimei alung khang,",
+            "Baihmei ravcha maek ge;",
+            "Kazei ngamv _>6 paapc kuaklou the,",
+            "’Taw akhang dinglouna bam e.",
+            "",
+            "4 Nang hei ’chamloumeipu,",
+            "Zayloumei, Kaipouc e,",
+            "Ata gaengcloumeipu,",
+            "Nang daeng tiituanclou o;",
+            "Aphay kaamv hei chaeng maanv mak khang,",
+            "Siimei chaeng khou tiitatlou rio.",
+            "",
+            "5 Gumeipu, aKaipouc,",
+            "Rih ngammeipu, aGuangc,",
+            "Nang builwang lev baengsaeng,",
+            "Nang guangcdic ta thuanc e;",
+            "Ngamv Nang tuang e, neihlaana ai",
+            "Nang phaypav bangc khou gutlou e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Join All the Glorious Names",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "6.6.6.6.8.8.",
+        "HLC 70",
+        "Isaac Watts",
+        "Join All the Glorious Names",
+        "source hymn 142",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 142."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ningting, nzianmei, ngamv khou",
+        "titleRongmei": "Ningting, nzianmei, ngamv khou",
+        "titleEnglish": "Join All the Glorious Names"
+      }
+    }
+  }
+}

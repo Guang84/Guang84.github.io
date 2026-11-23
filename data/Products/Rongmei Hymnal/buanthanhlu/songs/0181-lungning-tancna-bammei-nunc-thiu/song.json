@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-181",
+    "number": 181,
+    "source": {
+      "printedNumber": 181,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lungning Tancna Bammei nunc Thiu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          181 Lungning Tancna Bammei Nunc Thiu",
+            "                             8.7.8.7.Ref. 7. 7. 8. 6",
+            "          Doh hej Gb",
+            "",
+            "          1. Lungning tancna bammei nunc thiu,",
+            "             Kaganv hei 'naa guang pwthe;",
+            "             Nang adih kamv nyan bam tu cho?",
+            "             Kaganv hei 'naa guang pwthe.",
+            "",
+            "                  Ravguangc rui 'seic tingmik khou,",
+            "                  Nang panty laa kan ethei,",
+            "                  Nang ta maikwam khou raw pwni;",
+            "                  Lungh laic guang mak gethei.",
+            "",
+            "          2. Daihmei nic nthyammei guay nic,",
+            "             Latzan sw ni Ravguangc rui;",
+            "             Nang ta latzan swpui nungc kiu,",
+            "             Tabui lat nang daw ni cho?",
+            "",
+            "          3. Jahuan kathumh, panguh khoutei,",
+            "             Jisu rui kumcna saa e:",
+            "             Bumaengh khou puancthanh mak gethei,",
+            "             Tingkaut. kandic how lak ge.",
+            "",
+            "          4. Nang Bumaengh laatow mak gethei,",
+            "             Nang ringcting hei luai pwkhou,",
+            "             Tingsaeng zaeng nang huc ndyangna,",
+            "             Maikwam khou ryanraa khaengv ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lungning Tancna Bammei nunc Thiu"
+      }
+    }
+  }
+}

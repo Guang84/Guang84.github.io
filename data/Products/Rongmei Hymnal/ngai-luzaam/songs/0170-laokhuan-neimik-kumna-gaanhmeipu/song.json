@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-170",
+    "number": 170,
+    "source": {
+      "printedNumber": 170,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Laokhuan neimik kumna gaanhmeipu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Laokhuan neimik kumna gaanhmeipu,",
+            "Keipui nung saan gaimei suni",
+            "Guang puni the, tingkao thanmei nun guai teile.",
+            "",
+            "Neila san gaimei tei aniu lani",
+            "Champaan zianmei nunle.",
+            "",
+            "2. Laukhuan tingzin tei tat maan kanthe,",
+            "Aniu panti ni naguang the,",
+            "Tingkao Jerusalem namdai gaimei khoutei,",
+            "Neila san gaimei tei aniu lani,",
+            "Champaan zianmei nunle,",
+            "",
+            "3. Zianmei nunta riuni tingkao thang,",
+            "Khoutei ringmei thingbang lim khou,",
+            "Neila puilu thantei suani hallelujah.",
+            "Neilana bam puni aniu lani",
+            "Champaan zianmei nun e.",
+            "",
+            "4. Hei kandi rianra puiram khou hei,",
+            "Ntam lak nipui bam kandi",
+            "Khouhei makge, Pourui dam loumei kaidai nai",
+            "Raguang zanta saanna aniu lani",
+            "Champaan zianmei nunle."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 170",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 170. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Laokhuan neimik kumna gaanhmeipu",
+        "titleRongmei": "Laokhuan neimik kumna gaanhmeipu"
+      }
+    }
+  }
+}

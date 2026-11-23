@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0841",
+    "number": 841,
+    "source": {
+      "printedNumber": 841,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "10.8.9.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Reinung mujung guai rui sakan mei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Reinung mujung guai #@8 sakan mei kum,",
+            "Asei hei khrista puan lou the;",
+            "Kamei himdaimei Raguang nah e,",
+            "Kakhou chujangmei nai kan diu.",
+            "",
+            "Chorus:",
+            "Khristamei guai neila janggai o,",
+            "Khrista puan lou the;",
+            "Aniu tat dikho Bethlehem nganna,",
+            "Kata kalum khang,",
+            "Himdaimei guang nah,",
+            "Chujangmei nai diu.",
+            "",
+            "2. Laujiu gangmei guai laujiu gang bam khou,",
+            "Banchra him #@8 kaniu dang gan;",
+            "Neila jang gaimei lat ai phung guange,",
+            "Nangniu khang Khrista puan the.",
+            "",
+            "3. Banchra guai #@8 Raguang him ta thuanne,",
+            "Suanne kaniu neilamei lu;",
+            "Tingkauh thu Raguang himdaimei su diu,",
+            "Nban khou nchu njangmei nai diu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "10.8.9.8.",
+        "Reinung mujung guai rui sakan mei",
+        "source hymn 111",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 111."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Reinung mujung guai rui sakan mei",
+        "titleRongmei": "Reinung mujung guai rui sakan mei"
+      }
+    }
+  }
+}

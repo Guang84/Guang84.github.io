@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0601",
+    "number": 601,
+    "source": {
+      "printedNumber": 601,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Oxenhar",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6.",
+      "tune": "CSH 180"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khrista khou neihpat neihkey maek",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Khrista khou neihpat neihkey maek,",
+            "Dihpy dihba maek ge.",
+            "Mi hei zianmei phwam daih khat de,",
+            "Dih pwm tuang phwam dai de.",
+            "",
+            "2 Khrista khou kabamv ’thuic mei lung",
+            "Lungh khat chwn khat sw e;",
+            "Kataanvruai hei kachaekcriang e,",
+            "Meic guay ta banglou e.",
+            "",
+            "3 Lwmmei khou chana swmei thiu,",
+            "Nang zaat baic baic sihni,",
+            "Pu ta na swna siamruaimei",
+            "Khrista khwangmei nunc e.",
+            "",
+            "4 Khrista khou neihpat neihkey k’riu,",
+            "Dihpy dihba k’riu the;",
+            "Khrista luihmei guay khat na de,",
+            "Kandih pwm khat na de."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "In Christ There is no East or West",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "8.6.8.6.",
+        "CSH 180",
+        "John Oxenhar",
+        "In Christ There is no East or West",
+        "source hymn 601",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 601."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khrista khou neihpat neihkey maek",
+        "titleRongmei": "Khrista khou neihpat neihkey maek",
+        "titleEnglish": "In Christ There is no East or West"
+      }
+    }
+  }
+}

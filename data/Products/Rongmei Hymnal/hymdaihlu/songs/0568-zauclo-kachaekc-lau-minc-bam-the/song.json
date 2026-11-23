@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0568",
+    "number": 568,
+    "source": {
+      "printedNumber": 568,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. D. Ref.",
+      "tune": "RS 645"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zauclo, kachaekc lau minc bam the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zauclo, kachaekc lau minc bam the,",
+            "’Bui khang nang aliauh bam cho?",
+            "Lau thu daic taymei thu rau e,",
+            "Pou ({0 nang ta kahaw e;",
+            "Kaganv rau the, tatna taanc tho,",
+            "Pou ({0 kaw dat dat bam khou;",
+            "Nang lunghgutna daw chuylou tio;",
+            "“Pou, ai tat ni the,” twna.",
+            "",
+            "He ’king o! tynmei",
+            "lautaymei nunc lu kiu,",
+            "Laupuk gaymei thangc 0({;",
+            "Kaniw pangc khou gutna taanc o,",
+            "Pou ({0 nang ta kahaw e.",
+            "",
+            "2 Nang lung tiineihlaaloumei pu,",
+            "Lungh swmmei pu phungc tat ro;",
+            "Lakmei chana-punav nunc nic,",
+            "Nang kumcna neihlaa kan diu;",
+            "Tat tho, kaniw puat phungc ’khav tio,",
+            "Kamei phungc tat lak bam the,",
+            "Kamei lev khuksunna ney o,",
+            "Kamei lev lwmna huay o.",
+            "",
+            "3 Bumaengh khuam tat tho, Jisu khang,",
+            "Kunghmei bumaengc tiiringc o;",
+            "Zaylou tio, zianmei chaengmun khou,",
+            "Gut nipui thiak dinclou tio;",
+            "Bumaengh khuam tat tho,Jisu khang,",
+            "Ringh saanv,tanh saanv taanc laa tho;",
+            "Nang taanv guay luai guangpui nungc kiu",
+            "Pou hu khou neihlaa puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Lo, the Golden Fields",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "8.7.8.7. D. Ref.",
+        "RS 645",
+        "Fanny J. Crosby",
+        "Lo, the Golden Fields",
+        "source hymn 568",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 568."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zauclo, kachaekc lau minc bam the",
+        "titleRongmei": "Zauclo, kachaekc lau minc bam the",
+        "titleEnglish": "Lo, the Golden Fields"
+      }
+    }
+  }
+}

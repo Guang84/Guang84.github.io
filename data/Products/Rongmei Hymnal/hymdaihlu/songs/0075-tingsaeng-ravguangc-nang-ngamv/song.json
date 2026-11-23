@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0075",
+    "number": 75,
+    "source": {
+      "printedNumber": 75,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Henry H.Tweedy",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "2/2",
+      "meter": "8.6.8.6. D.",
+      "tune": "HLC 494"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingsaeng Ravguangc, Nang ngamv",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingsaeng Racguangc, Nang ngamv #^7 sin,",
+            "Mwnpwang lev gaanchuangc ta;",
+            "Nang khou kakwm kaganv maek ge,",
+            "’Naamei, duhmei maek ge,",
+            "Zaatc baihmei dih baihmei maek ge,",
+            "Thaylou makpui mei maek;",
+            "He muhzwng ling nunc thouc guang o,",
+            "’Niw dic Nang khang sw khang.",
+            "",
+            "2. ’Chumhmei Racguangc, Science #^7 phu e,",
+            "Lwmmei nunc #^7 bwan e,",
+            "’Phumei nunc lung tiigaanclou o,",
+            "Kandih kabamv ’thuic khou;",
+            "’Khuaimei, ’pangmei, pingmei guay lev",
+            "Tamzinghmei hac ganc o;",
+            "Kauh ningting #^7 ’niw panty chaeng",
+            "’Thanna tiigaanh mak saanv.",
+            "",
+            "3 How gaymei Racguangc, Nang ta lyan,",
+            "Maansei thyamrav guay khou,",
+            "Maansei latsaav, luswan guay khou,",
+            "Lungning ’thanmei lung khou;",
+            "How siimei ganh khang ’khavlou o,",
+            "Nang ta how ’than ngam khang;",
+            "Nyngswmei panty ramgai ta",
+            "Meic guay how ngam kan diu.",
+            "",
+            "4 He ’twnmei lev zauzian Racguangc,",
+            "Khrista #^7 lungc lyanmei",
+            "Kapanty #^7 Nang ta lungc lyan,",
+            "Nang ningmei taanclou e;",
+            "Gaychamv p’ry hei katiulou o,",
+            "Nang kumcna lungc lyan khang,",
+            "Meic kathuic Khrista ta thay khang,",
+            "Dih kathuic ta ngam khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Eternal God, Whose Power Uphold",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "2/2",
+        "8.6.8.6. D.",
+        "HLC 494",
+        "Henry H.Tweedy",
+        "Eternal God, Whose Power Uphold",
+        "source hymn 75",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 75."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingsaeng Ravguangc, Nang ngamv",
+        "titleRongmei": "Tingsaeng Ravguangc, Nang ngamv",
+        "titleEnglish": "Eternal God, Whose Power Uphold"
+      }
+    }
+  }
+}

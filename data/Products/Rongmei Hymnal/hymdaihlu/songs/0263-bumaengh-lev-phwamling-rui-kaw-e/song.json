@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0263",
+    "number": 263,
+    "source": {
+      "printedNumber": 263,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. A.T. PiersonLinghmei",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 369"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Bumaengh lev phwamling rui kaw e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Bumaengh lev phwamling <~1 kaw e,",
+            "Ringhmei dui guang zangv tho;",
+            "Suaihiam latchamv, Gaychamv",
+            "kiu e,",
+            "Paapc khou lakmei nunc khang.",
+            "",
+            "Bumaengh <~1 kaw e,",
+            "Phwamling <~1 kaw,",
+            "Ringhmei dui 1<~ nsaa",
+            "guangna zangv lo",
+            "",
+            "2 Chumei kathuic “Guang o,” kaw diu,",
+            "Neihlaa sakhi tii diu;",
+            "Ai chu the, duiriang phu tow the,",
+            "Ai zangvna ’taw ringc the.",
+            "",
+            "3 He t’rii bammei bumaengh guayle,",
+            "Ganc tho, bakmei duilai;",
+            "Guangna zangv tho zangv guai khou <~1",
+            "Bumaengh t’rii kim puni.",
+            "",
+            "4 “Guang ni” twmei kamv guang nuh e,",
+            "Khrista tiikimlou ni;",
+            "Kamanv maek ge, nang lev akhang,",
+            "Guang niimei kathuic khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Gospel Call",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "6/8",
+        "8.6.8.6. Ref.",
+        "SS 369",
+        "Rev. A.T. PiersonLinghmei",
+        "The Gospel Call",
+        "source hymn 263",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 263."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Bumaengh lev phwamling rui kaw e",
+        "titleRongmei": "Bumaengh lev phwamling rui kaw e",
+        "titleEnglish": "The Gospel Call"
+      }
+    }
+  }
+}

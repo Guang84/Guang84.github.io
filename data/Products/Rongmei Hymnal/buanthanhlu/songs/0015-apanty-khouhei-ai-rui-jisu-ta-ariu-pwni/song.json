@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-015",
+    "number": 15,
+    "source": {
+      "printedNumber": 15,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Apanty Khouhei Ai rui Jisu ta Ariu Pwni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          15      Apanty Khouhei ruina Jisu ta",
+            "                              14.14.14.Ref.14.15.7",
+            "          Doh hei Gb",
+            "",
+            "                  Apanty khou hei ruina Jisu ta ariu pwni",
+            "                  Kamei guang dat pwkhou kiu",
+            "                  kata sowriu ni 'zuanh makna",
+            "                  Apanty khouhei ruina.",
+            "          1. Kalwn kaliak gay liangmei 'zianna",
+            "                                  nuic rimhrim lana (2)",
+            "             Ata laa khang key pwni paapc",
+            "                                 padikmei 'dih khouhei.",
+            "          2. Abumaengc hei ruina nic Kalat tei",
+            "                                 chulou khourui (2)",
+            "             Abumaeng hei neihlaa the, Kamei",
+            "                                  abumaengc kaipouc.",
+            "          3. Kamei key datpui nungc kiu ai rui",
+            "                                  Kata sowriu ni (2)",
+            "             Neihlaa zaenggaymei ruina gulou thaymei",
+            "                                             kaipouc ta.",
+            "",
+            "          4. Pou' Jisu ta nzian o, Kalatdanv",
+            "                                          guay tei piu o (2)",
+            "             Nang ta phungckulou pwni gay liangmei",
+            "                                              tingkauh khoutei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Apanty Khouhei Ai rui Jisu ta Ariu Pwni"
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0486",
+    "number": 486,
+    "source": {
+      "printedNumber": 486,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Isaac Watts",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "3/4",
+      "meter": "11.7.11.7.10.7.11.7.",
+      "tune": "HLC 325"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ata Gaenghmeipu rui ramh guay",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ata Gaenghmei pu ^&8 ramh guay tiilou ni,",
+            "Jehovah hei Kazanc e;",
+            "’Diakc gaymei ’phuaihpung khou ata tiitulou,",
+            "Luangc bammei duithuak daeng khou;",
+            "Maeng nimei chwn ta zay guanglou at re,",
+            "Kachaeng khou tat mak pwkhou,",
+            "Karamzian paan khou ^&8 ata zaylou e,",
+            "’Twnmei lev zauzian chaeng khou.",
+            "",
+            "2 Theihmei nzaengc lym 8^& ai tat kaan pwkhou,",
+            "Nang tat ’duanghna ai ping mak,",
+            "Nang ’khavloumei latkaeng khat na saa pwkhou,",
+            "Ai pingmei guay tii ’maan e;",
+            "Ata zauczihmei nunc ^&8 zauc bam khou",
+            "Akhang taektw chamdaanvlou;",
+            "Abuangc hei suaihiam ^&8 padik lyam key the,",
+            "Apy khou thauh teylou e.",
+            "",
+            "3 Ravguangc tuang suai makmei chamdaanvloumei 8^&",
+            "Aringcting saanv laa tow ni,",
+            "Nang tuang kai hei akhang lunghpui bamv sw diu,",
+            "Ataanv guay khou Nang pian diu,",
+            "Hei khou 8^& akhang zaengthaek laa tow ni,",
+            "Baihmei nunc riu lak bam khou,",
+            "Zawthay makmei ginpu akhat sw makna",
+            "Kanac khat swna lungc ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "My Shepherd Will Supply My Needs",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "3/4",
+        "11.7.11.7.10.7.11.7.",
+        "HLC 325",
+        "Isaac Watts",
+        "My Shepherd Will Supply My Needs",
+        "source hymn 486",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 486."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ata Gaenghmeipu rui ramh guay",
+        "titleRongmei": "Ata Gaenghmeipu rui ramh guay",
+        "titleEnglish": "My Shepherd Will Supply My Needs"
+      }
+    }
+  }
+}

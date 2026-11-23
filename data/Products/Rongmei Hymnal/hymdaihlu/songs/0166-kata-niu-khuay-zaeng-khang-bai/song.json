@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0166",
+    "number": 166,
+    "source": {
+      "printedNumber": 166,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Thomas O Chishom",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "Irregular",
+      "tune": "HLC 135"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kata ’niu khuay zaeng khang bai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kata ’niu khuay zaeng khang bai zamh the,",
+            "Kamei $%6 ’niu paap guay kros ruc khou phungclou;",
+            "’Niu khang chuzaenghmei tiilou,",
+            "Bangcloumei ta riclou the;",
+            "Kazam paan $%6 (3) ’niu gay dat the.",
+            "",
+            "2 ’Khuaimei pangc khou Kata chaklou the,",
+            "Kata Ravguangc $%6 ganc patmei khang chaklou,",
+            "’Niu ravcha swna theiclou;",
+            "Latzan latdanv tii ’thuih khang,",
+            "’Niu paap guay 6$% (3) Kakhou lou the.",
+            "",
+            "3 ’Niu meic guay chaeng maanvna maeng tat the,",
+            "Lauziu Gaenghmeipu khou $%6 ’niu tat duc the;",
+            "’Ki Kamei $%6 phungc guang e,",
+            "’Niu ta khow’tauh ram khou $%6;",
+            "Kai ’duangh guang e (3) Ravguangc pamv khou.",
+            "",
+            "4 Thow $%6 Katuang meikin chak ngam cho?",
+            "Kros khou Kamei rih ngammei thow dinc ’dauh ni?",
+            "Theihmei nunc aching ’ching 6$%",
+            "Kathei layna ringc dat the;",
+            "Rih ngammei pu (3) guang nimei Guangc!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Thomas O Chishom",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "Irregular",
+        "HLC 135",
+        "Thomas O Chishom",
+        "He Was Wounded",
+        "source hymn 166",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 166."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kata ’niu khuay zaeng khang bai",
+        "titleRongmei": "Kata ’niu khuay zaeng khang bai",
+        "titleEnglish": "Thomas O Chishom"
+      }
+    }
+  }
+}

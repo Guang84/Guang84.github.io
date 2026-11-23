@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-220",
+    "number": 220,
+    "source": {
+      "printedNumber": 220,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nzianmei Apui Apu rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          220 Nzianmei Apui Apu rui",
+            "                        8.8.8.8.Ref. 8. 8. 8.8",
+            "",
+            "          1. Nzianmei apui apu rui,",
+            "             Dinclou mak ge lat gaymei guay,",
+            "             Bumaengh Thanmei rui dinclou e,",
+            "             Nchumhmei lev nzianmei lat.",
+            "",
+            "                  Kaganv thuih Pou ta ai thuanc ni,",
+            "                  Ryanraa pwnic neihlaa pwnic,",
+            "                  Syan-lanv maekna lungcsii sihnic,",
+            "                  Bible heirui asyan-lanv e.",
+            "",
+            "          2. Apoubauhmei siamruai sw khang,",
+            "             Kaamcthau ni the zingc nic gaanc nic,",
+            "             Pou, ata zaythaulou na ro,",
+            "             Israel nunc ta zayloumei kumc.",
+            "",
+            "          3. Heic kandic ramh kaguayna hei,",
+            "             Lwm khang maek ge nang bangc ai mu,",
+            "             Tingkauh lungning nthanmei tei,",
+            "             Tithaylou o nang bangc akhou,",
+            "",
+            "          4. Poubauhmei le, nduanghlou o,",
+            "             Ryanraa khou nic neihlaa khou nic,",
+            "             Tingkauh Bumaengh Nthanmei rui,",
+            "             Zaylou na ro nang bangc ata."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nzianmei Apui Apu rui"
+      }
+    }
+  }
+}

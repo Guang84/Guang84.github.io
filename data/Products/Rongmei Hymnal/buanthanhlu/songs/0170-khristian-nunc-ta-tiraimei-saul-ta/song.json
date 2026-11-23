@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-170",
+    "number": 170,
+    "source": {
+      "printedNumber": 170,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khristian nunc ta Tiraimei Saul ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          170 Khristian Nunc ta Tiraimei Saul ta",
+            "                              9.9.8.9.Ref.7. 8. 8.6",
+            "          Doh hei Db",
+            "",
+            "          1. Khristian nunc ta tiraimei Saul ta,",
+            "             Ravguangc rui karuc khou latzan sw:",
+            "             Damaskas namvdai raengcbangc khou,",
+            "             Ravguangc rui kakhou ch'rynmei tihow'.",
+            "",
+            "                  Saul, Saul twna kauckey the;",
+            "                  \"Poubauhmei, nang thow cho\" 'thanv e.",
+            "                  \"Ai hei nang rai bammei Jisu tei e\" twna daw the.",
+            "",
+            "          2. Mi tangv tei Saul tei Paul kaw kan the:",
+            "             Thau lana namvdai thangctei tat tho;",
+            "             Nang khuay guayna kuaklou ngam the;",
+            "             Meic kaguay khou Gaichamv dinctat tho.",
+            "",
+            "          3. Heic tangvtei Paul tei lungh laic kan the;",
+            "             Kamei rui railou kanmei guay khou,",
+            "             Khrista' Gaichamv dinctat kan the.",
+            "             Meic ching ching rui ringhbamv laa kan the.",
+            "",
+            "          4. Nthanmei Paul rui Gaichamv dinh khou,",
+            "             Ruamc mei guangc Nero rui lunghpuamc the;",
+            "             Karuc khoutei latzan sw the:",
+            "             Baengsaeng rui kapy dangvtap kan the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khristian nunc ta Tiraimei Saul ta"
+      }
+    }
+  }
+}

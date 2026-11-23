@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0472",
+    "number": 472,
+    "source": {
+      "printedNumber": 472,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Ripon",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.11.",
+      "tune": "CW 406"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Adih ntip cho he ’thanmei nuncle",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Adih ntip cho he nthan mei nuncle,",
+            "Ravguangc tuang Lat khou lwm bammei Kaiphwn hei;",
+            "Hei suangc mbuna Kamei saa khang maek khe,",
+            "Jisu khou ngangvloumei guangmei nangniw khou.",
+            "",
+            "2 “Ping riu Ai nangniw lev tat ’chamc tanv bam de,",
+            "Ai na Ravguangc e, Ai nang ta ’khavlou ni,",
+            "Pumtan tiilouna nang ta tiidinglou ni,",
+            "Ngamp’rymei baanc $%6 nang ta pamclou puni.",
+            "",
+            "3 “Dui dai tat kaan khang Ai nang ta kaw pwkhou,",
+            "Ryanra duiluat $%6 nang ta liak bin lak ge,",
+            "Nang lev tat ’chamcna nang ta ’khavlou puni,",
+            "Nang ryanra guay ta suaihiam tiiguanhlou ni.",
+            "",
+            "4 Mai kumc nchanvmei nang chaeng khou ’riw pwkhou,",
+            "Biuhmei zauzian 6$% nang khang tiilou puni;",
+            "Maibwang $%6 nang ta raw kasic ngam lak ge,",
+            "’Phuammei raw ’thanna tii ’than ranvlou puni.",
+            "",
+            "5 Jisu khou ngangc phaengc bammei bumaengc 6$%",
+            "Zauczihmei baanc khou Ai ganc ’rulou zat lak;",
+            "Maikwam ngamv guay $%6 kata kanuk sihni",
+            "Ai $%6 khat sihni ganc ’rulou zat lak ge."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "How Firm a Foundation",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "11.11.11.11.",
+        "CW 406",
+        "John Ripon",
+        "How Firm a Foundation",
+        "source hymn 472",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 472."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Adih ntip cho he ’thanmei nuncle",
+        "titleRongmei": "Adih ntip cho he ’thanmei nuncle",
+        "titleEnglish": "How Firm a Foundation"
+      }
+    }
+  }
+}

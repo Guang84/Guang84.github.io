@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-040",
+    "number": 40,
+    "source": {
+      "printedNumber": 40,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "8.9.9.6.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Adam tarou zing mei rui kham",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Adam tarou zingmei rui kham ,",
+            "Meiguai zai pat khang thou guangni cho?",
+            "Kaniu lung geimei ti nchu khang,",
+            "Kaniu paap zaeng thei khang,",
+            "Tingkao laoziu na puan.",
+            "",
+            "Halleluijah neilana thuan ku o",
+            "Kao guang jubilee ta,",
+            "Bethlehem le kalvary ching ru khou,",
+            "Kanloumei sien miu khuang.",
+            "",
+            "2. Salem bang khou misor namdai,",
+            "Niuta kalloumei sien miu rui khuang.",
+            "Nang niu khang rui tingkao laoziu na.",
+            "Zeihaeng rui karuna,",
+            "Houmu mei namdai khou.",
+            "",
+            "3. Thei thang houmu mei rih thao e,",
+            "Pap rui nang bumaeng gumliam louna,",
+            "Ziho- zeri chingru khou guang na,",
+            "Hosanna sin guang na",
+            "Salem chuangphei bang khou.",
+            "",
+            "4. Salem guang chuang bang khou ringmei,",
+            "Salem Poubaomei rui suaihiem mei",
+            "Ziho-zeri chingru khou bamguai meiguai",
+            "Rui lai ngam puni e,",
+            "Halleluiah Amen."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 40",
+        "Khristian Luzaam PDF",
+        "Chord: Bb",
+        "Meta 3: 8.9.9.6.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 40. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 40,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Adam tarou zing mei rui kham",
+        "titleRongmei": "Adam tarou zing mei rui kham"
+      }
+    }
+  }
+}

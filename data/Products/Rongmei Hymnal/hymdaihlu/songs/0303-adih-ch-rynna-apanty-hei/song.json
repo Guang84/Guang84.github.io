@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0303",
+    "number": 303,
+    "source": {
+      "printedNumber": 303,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "R.H. Mc Daniel",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": ". 4/4",
+      "meter": "12.8.12.8. Ref.",
+      "tune": "3 Alex 378"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Adih ch’rynna apanty hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Adih ch’rynna apanty hei tiiguanhlou cho!",
+            "Jisu alung khou gut khou ^&5!",
+            "Ai phu bammei gaanhmei 5^& alung khou nai the,",
+            "Jisu alung khou gut khou ^&5!",
+            "",
+            "Jisu alung khou gut khou ^&5!(2)",
+            "Neihlaamei alung khou duiluat kumc daic thau e,",
+            "Jisu alung khou gut khou ^&5!",
+            "",
+            "2 ’Taw mu akhang suai lakmei rigwnmei nai the,",
+            "Jisu alung khou gut khou ^&5!",
+            "Lwmsiimei muangc ^&5 achaeng sw zingc dat mak khe,",
+            "Jisu alung khou gut khou ^&5!",
+            "",
+            "3 Theihmei nzaengc khou akhang mu gaanhmei nai the,",
+            "Jisu alung khou gut khou ^&5!",
+            "Tingkauh tuang raengckat 5^& alung khou phaengc how the,",
+            "Jisu alung khou gut khou ^&5!",
+            "",
+            "4 Tingkauh kaidai khou 5^& lungh",
+            "khang ai tat puni,",
+            "Jisu alung khou gut khou ^&5!",
+            "Tingkauh kai ’zwan tat bam khou hei ai neihlaa e,",
+            "Jisu alung khou gut khou ^&5!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Since Jesus Came Into My Heart!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        ". 4/4",
+        "12.8.12.8. Ref.",
+        "3 Alex 378",
+        "R.H. Mc Daniel",
+        "JISU ALUNG KHOU GUT KHOU RUI",
+        "Since Jesus Came Into My Heart!",
+        "source hymn 303",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 303."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Adih ch’rynna apanty hei",
+        "titleRongmei": "Adih ch’rynna apanty hei",
+        "titleEnglish": "Since Jesus Came Into My Heart!"
+      }
+    }
+  }
+}

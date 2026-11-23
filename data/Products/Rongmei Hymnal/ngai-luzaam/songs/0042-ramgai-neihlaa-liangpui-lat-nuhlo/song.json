@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-042",
+    "number": 42,
+    "source": {
+      "printedNumber": 42,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "9.8.8.8.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ramgai neihlaa liangpui lat nuhlo",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ramgai neihla liangpui lat nuhlo,",
+            "Kandi khou rui phaengzau lana;",
+            "Ai bamni e ramgai khou tei,",
+            "Kandi lungh rianra tuanpu khou,",
+            "Ai bamni e hei ramgai khou.",
+            "",
+            "Rianramei abumaeng tatro,",
+            "Kanloumeipu Poubaomei Jisu thei laina;",
+            "Nang paap nritmei guai kandi khou hei lou du lana,",
+            "Ramgai tei nzuanna tatro, tatro.",
+            "",
+            "2. Ning e gaina bammei nun ram tei,",
+            "Ramgai zauna lu suanpui bam;",
+            "Samthai e thei ngumzaina kum,",
+            "Sam kanni e ramgai zuanna,",
+            "Ringhpui thingbang khou sam tangni.",
+            "",
+            "3. Ringhpui tingmik tei ningtou pukhou,",
+            "Kandih rianramei rui gumliam;",
+            "Ai lung geic mei guay hei maan khang,",
+            "Kanloumei nah bam phuna,",
+            "He! Abumaeng le sam tatro."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 42",
+        "Khristian Luzaam PDF",
+        "Chord: Bb",
+        "Meta 3: 9.8.8.8.9."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 42. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 42,
+        "match": "title-match-0.93"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ramgai neihlaa liangpui lat nuhlo",
+        "titleRongmei": "Ramgai neihlaa liangpui lat nuhlo"
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-058",
+    "number": 58,
+    "source": {
+      "printedNumber": 58,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guloumeipu ta Tingsaengcna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          58 Guloumeipu ta Tingsaengcna",
+            "                        8.8.12.6. 6. Ref. 9. 8. 6. 6.7.5",
+            "          Doh hei G",
+            "",
+            "          1. Guloumeipu ta tingsaengcna,",
+            "             Amucna ai lungc bam khwan e.",
+            "             Mi kandic ramgai hei tingsaeng zaeng",
+            "             khang hamh e.",
+            "             Zauzian rui 'duanghlou ni,",
+            "             Kaguangcdic tangh mak saanv.",
+            "",
+            "                        He charyn e Katuang zauzian hei;",
+            "                        Akhangrui e khaengvloumei tei;",
+            "                        Guangna thuancku di kho;",
+            "                        'Niw Guloumeipu ta.",
+            "                        Kata thuancku mak gethei,",
+            "                        Neihlaamei maek ge.",
+            "",
+            "          2. Kandih puat ta ai phu khwan e;",
+            "             Kandih lungc suangpui bamv hamh e:",
+            "             Heic kandic rui ata tineihlaa ngammak ge.",
+            "             Zauzian rui ata kaw,",
+            "             Hanguang dat khang kaw e.",
+            "",
+            "          3. Ai guang dat the Guloumeipu;",
+            "             Hanguang dat the ai nang pamv khou.",
+            "             Ai rui huayneymei guay Nang rui dawlou bam e:",
+            "             Alung khou tiilou e,",
+            "             Tingsaeng ringhmei latryan."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guloumeipu ta Tingsaengcna"
+      }
+    }
+  }
+}

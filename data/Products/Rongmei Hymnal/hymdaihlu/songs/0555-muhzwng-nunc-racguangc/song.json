@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0555",
+    "number": 555,
+    "source": {
+      "printedNumber": 555,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Denis Wortsman",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.10.10.10.",
+      "tune": "CW 472"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "MUHZWNG NUNC RACGUANGC",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Muhzwng nunc Racguangc, Nang suaihiamlou o,",
+            "Elijah ngamv Elisha khou tii kumc,",
+            "Meickin kathuic khou ’thukmei thouc khang kaw,",
+            "Kin kathuic gay ranvmei kin tiisw o.",
+            "",
+            "2 Nang thauh teylou o, muhzwng nunc khou hei,",
+            "Kaniw nu ’tak diu, Ravguangc,",
+            "Nang Lat khou;",
+            "Baucna saa diu, kage naimei lat 5^&,",
+            "Katiulou khang, siimei ta sw bak khang.",
+            "",
+            "3 Tingkuh nunc hei nic huayney ngam kan diu,",
+            "Kuakloumei, zianmei, chuzaenghmei nai khang;",
+            "Kandihmei nunc ^&5 laa laanh pw sihni,",
+            "Khrista kumc kaniw katpat ngam kan diu.",
+            "",
+            "4 Pou, thauh teylou o guangh swna lungh khang,",
+            "Nah ’Pouh Bumaengc ^&5 pumtan tiilou o;",
+            "Guangh pyrun, baengsaeng, kaniw khang hamh e,",
+            "Khrista ramzian ^&5 guanghdic ta ngam ni.",
+            "",
+            "5 He muhzwng guangh nunc zuk 5^& hanc guang tho,",
+            "He ’chumhmei lwmmei, ’niw zuk ta sin o;",
+            "Jisu Khrista ’niw lev lungc ’chamclou o,",
+            "Lakmei dic hei Nang guanghdic ta ’khwan e. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "God of the Prophets",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "10.10.10.10.",
+        "CW 472",
+        "Denis Wortsman",
+        "God of the Prophets",
+        "source hymn 555",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 555."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "MUHZWNG NUNC RACGUANGC",
+        "titleRongmei": "MUHZWNG NUNC RACGUANGC",
+        "titleEnglish": "God of the Prophets"
+      }
+    }
+  }
+}

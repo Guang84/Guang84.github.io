@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0806",
+    "number": 806,
+    "source": {
+      "printedNumber": 806,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "8.9.11.11.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kanan njang Sharon mungai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kanan njang Sharon mun gai,",
+            "Rommei nun rui subao louna;",
+            "Kandih hei jing the Sharon baolou khou rui,",
+            "Gumliammei maknga puina nunhni rianra,",
+            "Rim gaimei Sharon mun baolou khou rui.",
+            "",
+            "2. Sharon mungai baolou kho rui,",
+            "Kakhou lung rianra loumei nun khou;",
+            "Lili rui puang lou kaniu lung jingmei khou,",
+            "Kaniu rukhou lauthuan ganphiu rui ganguang,",
+            "Kaniu bam neilamei mundui rim lik.",
+            "",
+            "3. Sharon munpuang ganguang datro,",
+            "Zeliangrong kandih jingmei khou hei;",
+            "Muangrui jinge nangpuan gaimei suliam khang,",
+            "Nei rui patna nang puang gaimei ndao o,",
+            "Kandihmei rui nang ramgai ta hou khang.",
+            "",
+            "4. Kanan njang Sharon mungai,",
+            "Zeliangrong kandih khou guang datro;",
+            "Nban thaini the nangbang nun guai ruina,",
+            "Ninga nangta phang the kandih mei guuai rui,",
+            "Zeliangrong guai rui ni neila ni the.",
+            "",
+            "5. He Sharon mun ta hou ni the,",
+            "Tingkauh kandih thu puangmei 2!- le;",
+            "Siangloumei kross rukhou baolou kanmei 2!-,",
+            "Tingkauh tikgun phunga ring dat khou ruina,",
+            "Hou mumei pap ta rih sutan puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "8.9.11.11.10.",
+        "Kanan njang Sharon mungai",
+        "source hymn 76",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 76."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kanan njang Sharon mungai",
+        "titleRongmei": "Kanan njang Sharon mungai"
+      }
+    }
+  }
+}

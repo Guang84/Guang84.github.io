@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0205",
+    "number": 205,
+    "source": {
+      "printedNumber": 205,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "T.Kelly",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7.7.7.8.7.",
+      "tune": "SS 149"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’King o, ’rah lev khwan chingruh rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’King o! ’rah lev khwan ching ruh )}3",
+            "Kauh thangc thuanhpui lu suan e:",
+            "Zian thaymei Jisu guanghtu the,",
+            "Tingkauhmei guay neihlaa e;",
+            "Zauc lo, guanghbamv khou dungcna",
+            "Jisu )}3 kandih sin the,",
+            "Hallelujah! Hallelujah!",
+            "Jisu )}3 kandih sin the.",
+            "",
+            "2 Hymdaih Guangc! tingsaeng",
+            "guanghtu o,",
+            "Nang Guangc pyrun nganv lak ge;",
+            "Nang mei nunc ta thow )}3 sihni",
+            "Nang khou )}3 tii’tamv ngam mak,",
+            "Nang zauzian khou neihlaana,",
+            "Nang zawpaanv ta zauc bam ni,",
+            "Hallelujah! Hallelujah!",
+            "Nang zawpaanv ta zauc bam ni.",
+            "",
+            "3 Guloumeipu key dat ’khap tho,",
+            "Hymdaih tingmik phungc guang tho,",
+            "Nang khwan ch’rynmei 3)^ chu pwkhou",
+            "Tingpuk, kandih ’maan puni,",
+            "Kachaekc, ’rac downa suan ni:",
+            "“Aniu Guangc hei hymdaic diu!”",
+            "Hallelujah! Hallelujah!",
+            "Aniu Guangc hei hym daic diu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Hark! Ten Thousand Harps and Voices!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "8.7.8.7.7.7.8.7.",
+        "SS 149",
+        "T.Kelly",
+        "Hark! Ten Thousand Harps and Voices!",
+        "source hymn 205",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 205."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’King o, ’rah lev khwan chingruh rui",
+        "titleRongmei": "’King o, ’rah lev khwan chingruh rui",
+        "titleEnglish": "Hark! Ten Thousand Harps and Voices!"
+      }
+    }
+  }
+}

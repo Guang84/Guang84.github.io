@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0821",
+    "number": 821,
+    "source": {
+      "printedNumber": 821,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "11.9.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Man guang the aniu kandih",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Man guang the aniu kandih ringmei tingmik,",
+            "Neila pui tingmik ni man ni the;",
+            "Tingmik thui neila khang mak ge,",
+            "Nulo nang ring bam khou.",
+            "",
+            "Chorus:",
+            "Kandih champan jianmei ntamdat kansini,",
+            "Neilana lung khat na suna;",
+            "Hei kandih ringmei dui sini,",
+            "Apoubaumei tanh tan dikho.",
+            "",
+            "2. Jingbang jingmei le kalat ncham khang 0({,",
+            "Kandih rianramei su katuak ge;",
+            "Alung geimei su man lou o,",
+            "Kapmei hei timan no.",
+            "",
+            "3. Poubaumei nduango njianmei guai ta,",
+            "Nang bampui ram gaimei hou khang 0({;",
+            "Ntam mei hei nai pulak khe,",
+            "Lung geimei pang thang 0({.",
+            "",
+            "4. Kandih kapmei guai le ntam ping lak khe,",
+            "Ganchuanga guai bampui ram gaimei;",
+            "Lu0({ suanna ruak 0({ gaina,",
+            "Kagun dai tingkauh ram."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Man guang the aniu kandih",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "11.9.8.6.",
+        "Man guang the aniu kandih",
+        "source hymn 91",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 91."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Man guang the aniu kandih",
+        "titleRongmei": "Man guang the aniu kandih",
+        "titleEnglish": "Man guang the aniu kandih"
+      }
+    }
+  }
+}

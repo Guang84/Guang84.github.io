@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0631",
+    "number": 631,
+    "source": {
+      "printedNumber": 631,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Dr.H.Bonar.",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.9.8.8. Ref.",
+      "tune": "SS 1032"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He puchaih thiu, huayneiyna bam tho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He pu-chaihthiu, huayneyna bam tho!",
+            "Kaganv rau the! Ravguangc kaw bam the!",
+            "Kaganv luaimei kaeng hiw bam the,",
+            "Kaganv tyn khou lungc bam di the.",
+            "",
+            "Tingsaeng ganv kiu ’naa guang pw the!",
+            "Tingsang ganv kiu ’naa guang pw the!",
+            "",
+            "2 He pu-chaih thiu, Pou ta thuanc bam tho,",
+            "Tingpuk laanc the, rih hei luai guang the;",
+            "Hymdaihmei kiu ’naa guang pw the,",
+            "Guangh guay Guangc kiu guang puni the!",
+            "",
+            "3 He pu-chaih thiu, changkhaanvna bam tho!",
+            "Kaganv, tingkwm, kating luai guang the,",
+            "’Khwan tho, theic kan nimei pu ta",
+            "Kabuc sin tut khang ’khwanmei kumc.",
+            "",
+            "4 He pu-chaih thiu, zauc lo, gaanc pat the!",
+            "Theihmei t’rou khou ^&8 ringcthau pw the,",
+            "Sianlang langna chamdaanv bam tho;",
+            "Zauc lo, Nowpouc 8^& guang pw the!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "9.9.8.8. Ref.",
+        "SS 1032",
+        "Dr.H.Bonar.",
+        "Pray, Brethren, Pray!",
+        "source hymn 631",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 631."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He puchaih thiu, huayneiyna bam tho",
+        "titleRongmei": "He puchaih thiu, huayneiyna bam tho"
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0558",
+    "number": 558,
+    "source": {
+      "printedNumber": 558,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Frederick L. Hosmer",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.5.6.5. D. Ref.",
+      "tune": "CW 498"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ZUK KATHUIC HU BIAK THANGC",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zuk kathuic hu biak thangc,",
+            "Kariang taek makna,",
+            "Lwmloumei nunc tat re;",
+            "Ravguangc kawmei khou;",
+            "Kaipat thu bai bai e,",
+            "Lungning khat na de;",
+            "Taanvbamv kasing geic e,",
+            "Swan thu khat na de.",
+            "",
+            "Zuk kathuic hu biak thangc,",
+            "Kariang taek makna,",
+            "Lwmloumei nunc tat re,",
+            "Ravguangc kawmei khou.",
+            "",
+            "2 Guanghdic daic khith khit re,",
+            "Zianmei ^&8 sin e;",
+            "Lwmmei how tangh mak saanv",
+            "’Niu taanc ranv bam ni;",
+            "Muhzwng nunc dinc kasuakc,",
+            "Martair nunc ^&8 suan,",
+            "Lu hymei nunc thuanc e,",
+            "Bauhmei nunc theiclou.",
+            "",
+            "3 ’Niu raa na rih ngam mak,",
+            "’Niu raa na bouh mak,",
+            "Ngammei, bauhmei kathuic",
+            "Meic guay kazauh e;",
+            "Ravguangc taanv ^&8 bangclou",
+            "Ringhmei phwam swna,",
+            "’Niu kalung nchamc e,",
+            "Tangc nimei biak thangc."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Forward Through the Ages",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "6.5.6.5. D. Ref.",
+        "CW 498",
+        "Frederick L. Hosmer",
+        "Forward Through the Ages",
+        "source hymn 558",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 558."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ZUK KATHUIC HU BIAK THANGC",
+        "titleRongmei": "ZUK KATHUIC HU BIAK THANGC",
+        "titleEnglish": "Forward Through the Ages"
+      }
+    }
+  }
+}

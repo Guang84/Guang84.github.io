@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0387",
+    "number": 387,
+    "source": {
+      "printedNumber": 387,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. J.C. Ludgate",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6.Ref.",
+      "tune": "SSSH 470"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU HEI APAM",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu pam swmei adih gay,",
+            "Ai kumhmei ’suanmei {:1!",
+            "Kakumhmei baihmei pam nai cho,",
+            "Tingkauh khou zaylou khang?",
+            "",
+            "Jisu hei aPam",
+            "Tingkauh tuang Pam e;",
+            "Adihkamv gaymei duangda cho,",
+            "Jisu hei aPam kiu e.",
+            "",
+            "2 Pam baihmei guay ’maan",
+            "kan pwkhou,",
+            "Baihmei guay suai pwkhou;",
+            "Neihlaamei, chuzaenghmei tiimei",
+            "Pam kiu Kamei na de.",
+            "",
+            "3 Zinghmei khou {:1 zayloumei Pam,",
+            "Chaeng zay thaymei Pam e;",
+            "Aramsuan ’khavloumei Pam e;",
+            "Pow khangcloumei Pam e.",
+            "",
+            "4 ’Nau sunupui ganv khou Pam e,",
+            "Theihmei ’naa guang khou Pam;",
+            "Theihmei nzaengc tatruan bam khou",
+            "Nkhavloumei Pam e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Friendship with Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "8.6.8.6.Ref.",
+        "SSSH 470",
+        "Rev. J.C. Ludgate",
+        "Jisu pam swmei adih gay",
+        "Friendship with Jesus",
+        "source hymn 387",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 387."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU HEI APAM",
+        "titleRongmei": "JISU HEI APAM",
+        "titleEnglish": "Friendship with Jesus"
+      }
+    }
+  }
+}

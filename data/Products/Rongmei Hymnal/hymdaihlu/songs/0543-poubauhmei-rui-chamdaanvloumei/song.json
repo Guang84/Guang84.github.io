@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0543",
+    "number": 543,
+    "source": {
+      "printedNumber": 543,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Rowe",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7.",
+      "tune": "CW 468"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubauhmei, rui chamdaanvloumei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Poubauhmei #^7 chamdaanvloumei",
+            "Taektw 7}$ ’niu tu luai the;",
+            "’Niu bumaengc hei chaenghringc kan diu,",
+            "Kata luicna daicthau diu!",
+            "",
+            "2 Kakheiliak ta ’niu zauc mincna,",
+            "’Niu panty khou lungc lyan diu;",
+            "Kata ’niu Poubauhmei swna",
+            "Kalatdanv ta champouh diu.",
+            "",
+            "3 Ravguangc ta zianmei lungc lyanna",
+            "Kachaenglwan khou tat chuyna,",
+            "Kakhou lwmmei neihlaamei e,",
+            "Tingsaeng chuzaenghmei nai e.",
+            "Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "From the Table Now Retiring",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "3/4",
+        "8.7.8.7.",
+        "CW 468",
+        "John Rowe",
+        "From the Table Now Retiring",
+        "source hymn 543",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 543."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubauhmei, rui chamdaanvloumei",
+        "titleRongmei": "Poubauhmei, rui chamdaanvloumei",
+        "titleEnglish": "From the Table Now Retiring"
+      }
+    }
+  }
+}

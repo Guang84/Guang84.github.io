@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0104",
+    "number": 104,
+    "source": {
+      "printedNumber": 104,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles Wesley",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.8.12.8. Ref.",
+      "tune": "SS 35"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He guang o alung khou Jisu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang Guangc bamvpaeng lev Guangh pyrun 4@< lou ducna,",
+            "Kandih khou akhang Nang guang e,",
+            "’Ki Bethlehem namv khou 4@<",
+            "Nang khang kai maek ge,",
+            "Nang ta puancloupui bamv khang 4@<.",
+            "",
+            "He guang o, alung khou Jisu!",
+            "Alung khou Nang khang bamv nai e;",
+            "He guang o, alung khou Pou Jisu!",
+            "Nang khang bamv nai e, alung khou.",
+            "",
+            "2 Kauh kaidai kachin e, Nang",
+            "Guangc hym ndauhna,",
+            "Baanch’ra nunc @{4 lu suan nungc 4@<;",
+            "Kum sihni kandih khou niamhna Nang keylou e,",
+            "Liwmei lwn swna puanclou the.",
+            "",
+            "3 Asacsii khang kai nai, ’ruayn khang kabou nai,",
+            "Nwmding, ’ngouhding thinglym khou 4@<;",
+            "’Ki Ravguangc Nac, Nang laeng thu kandih @{4 sw e,",
+            "Galili ramv tazikramv khou.",
+            "4 He Poubauhmei, Nang mei guay ta riclou nimei,",
+            "Ringhmei lat phungcna Nang guang e;",
+            "Malaana sinnuina sauh pyrun runlouna,",
+            "Kalvari chyng thangc zay tat re.",
+            "He guang o, alung khou Jisu,",
+            "Angangvbamv Nang tuang kros na de,",
+            "He guang o, alung khou Pou Jisu,",
+            "Angangvbamv Nang tuang kros na de.",
+            "",
+            "5 Tingkauh kaidai khuangc hiwna, baanch’ra lu suanna,",
+            "Rihngamna Nang key datpui nungc ;",
+            "Ata nic kawlou o, Poubauhmei Nang kai khou,",
+            "\"Nang khang nic bamv nai e,\" twna.",
+            "",
+            "Ai neihlaa puni, Pou Jisu",
+            "Nang @{4 ata kaw pat pwkhou,",
+            "Ai neihlaa bam puni, Pou Jisu",
+            "Nang @{4 ata kaw pat pwkhou,"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Room for Thee",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "12.8.12.8. Ref.",
+        "SS 35",
+        "Charles Wesley",
+        "Nang guangc bamvpaeng lev",
+        "NANG KHANG BAMV NAI E",
+        "Room for Thee",
+        "source hymn 104",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 104."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He guang o alung khou Jisu",
+        "titleRongmei": "He guang o alung khou Jisu",
+        "titleEnglish": "Room for Thee"
+      }
+    }
+  }
+}

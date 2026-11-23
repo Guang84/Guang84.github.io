@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0624",
+    "number": 624,
+    "source": {
+      "printedNumber": 624,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Eliza E.Hewitt.",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "RS 400"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ch’rynmei Jisu ramzian suan kho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ch’rynmei Jisu zauzian suan kho,",
+            "Karamzian lu hei suan kho;",
+            "Aniu bamv khang tingkauh kai khou",
+            "Kamei chamdaanvlou puni.",
+            "",
+            "’Niu tingkauh tanghpui nungc kiu",
+            "Adih neihlaapui tingmik puni cho!",
+            "Jisu ta how pwkhou",
+            "’Niu rih-ngam lu kaucna suan ni.",
+            "",
+            "2 Tingkauh ’zwan tatpui",
+            "chaenglwan khou",
+            "Muangh }?2 gumliam bam nuh e;",
+            "’Ki tingkauh ramc guang tangc pwkhou",
+            "Ryanra zinghmei nai lak khe.",
+            "",
+            "3 Kum ethei Kalat diu piu kho,",
+            "Tingmik ’thuic siamruai sw kho;",
+            "Hymdaihmei Kazaw how pwkhou,",
+            "’Niu ryanra guay ’muc puni.",
+            "",
+            "4 Aniu khang swan chamdaanvlou the!",
+            "Karamgai how nuangc ni the;",
+            "Kachaekc raengcmun laanc nuangc ni the,",
+            "Kachaekc chaeng khou ruan ni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "When We All Get to Heaven",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "RS 400",
+        "Eliza E.Hewitt.",
+        "’NIU TINGKAUH TANGHPUI NUNGC KIU",
+        "When We All Get to Heaven",
+        "source hymn 624",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 624."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ch’rynmei Jisu ramzian suan kho",
+        "titleRongmei": "Ch’rynmei Jisu ramzian suan kho",
+        "titleEnglish": "When We All Get to Heaven"
+      }
+    }
+  }
+}

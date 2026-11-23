@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-199",
+    "number": 199,
+    "source": {
+      "printedNumber": 199,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kauliangmei khou Raguang Himdaimei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kauh liangmei khou Raguang Himdaimei sudiu!",
+            "Chuzaengmei nai diu;",
+            "Kalung kunloumei khou",
+            "Banchra nun lu kagaeng Bethlehem rukhou",
+            "Kandi rui kaodao diu banchra nun lu kiu.",
+            "",
+            "2. Khristian nun lungthau diu",
+            "Puanpui khuan chu khou",
+            "Ngang phaengna zau kudiu",
+            "Banchra nun biak thang",
+            "Tingpuk kachin lik the, neila lukhuan rui",
+            "Kauh le dih khou chuzaengmei nai diu tu e.",
+            "",
+            "3. Jehovah thauh teilou nimei nga na le",
+            "Immanuel ‘niu ta bam nduanglou khang",
+            "Nrian lou mei Mesiah kiu kamei e;",
+            "Meinun ni neilapui khuan hazam kau diu",
+            "",
+            "4. Raguang le mansei ta zaikariu lou the",
+            "Kau banchra kangdai lu hei kumna suan e;",
+            "Lauziu gaengmei nun chu puanpui zingbang khou,",
+            "Duan gai panti lungsing diu ‘niu Guang Jisu!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 199",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 199. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kauliangmei khou Raguang Himdaimei",
+        "titleRongmei": "Kauliangmei khou Raguang Himdaimei"
+      }
+    }
+  }
+}

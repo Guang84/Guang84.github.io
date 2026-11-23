@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0718",
+    "number": 718,
+    "source": {
+      "printedNumber": 718,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J.Crosby.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "7.7.7.7.7.5.7.7.7.7.",
+      "tune": "SS 1173"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang paap haengc mumh bam sihni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Nang paap haengcmumh bam sihni,",
+            "Gunh kumcna tii’phwanlou ni;",
+            "Mi 6_> haengcmumh bam sihni,",
+            "Langhpanv kumc ’phwan ni:”",
+            "“Nang paap 6_> haengcmumh sihni,",
+            "Nang paap 6_> haengcmumh sihni,",
+            "Gunh kumcna tii’phwanlou ni,",
+            "Gunh kumcna tii’phwanlou ni.”",
+            "",
+            "2 Nang ta huaymei khwan ’king o;",
+            "Ravguangc khou hanc guang at tho!",
+            "Kamei zian thaymeipu e,",
+            "Zianmei Kaipouc e;",
+            "Nang ta huaymei khwan ’king o:",
+            "Nang ta huaymei khwan king o:",
+            "Ravguangc khou hanc guang dat tho!",
+            "Ravguangc khou hanc guang dat tho!",
+            "",
+            "3 Nang paap guay kuaklou puni,",
+            "Ningtow bam dat zat lak khe;",
+            "“Ata zauc lo, he meic nunc,”",
+            "Ravguangc _>6 saa e.",
+            "Nang paap guay kuaklou puni,",
+            "Nang paap guay kuaklou puni,",
+            "Ningtow bam dat zat lak khe,",
+            "Ningtow bam dat zat lak khe."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“Though Your Sins be as Scarlet”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "7.7.7.7.7.5.7.7.7.7.",
+        "SS 1173",
+        "Fanny J.Crosby.",
+        "“Though Your Sins be as Scarlet”",
+        "source hymn 718",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 718."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang paap haengc mumh bam sihni",
+        "titleRongmei": "Nang paap haengc mumh bam sihni",
+        "titleEnglish": "“Though Your Sins be as Scarlet”"
+      }
+    }
+  }
+}

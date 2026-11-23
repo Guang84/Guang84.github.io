@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0393",
+    "number": 393,
+    "source": {
+      "printedNumber": 393,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Will L. Thompson",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8.6.8.8.11.",
+      "tune": "3 Alex 98"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU HEI RAMH GUAYNA DI THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu hei ramh guay na di the,",
+            "Ringhmei neihlaamei e;",
+            "Kamei tingmik ’thuic pumtan e,",
+            "Kapaan hamhna bow ni;",
+            "Lungh ryanra khou Kakhou guang e,",
+            "Kakumc tiineihlaamei maek ge,",
+            "Lungh ryanra khou tiineihlaamei",
+            "Kaipouc e!",
+            "",
+            "2 Jisu hei ramh guayna di the,",
+            "Ryanra ganv khou Pam e Suaihiam laa khang Kakhou ai guang,",
+            "Kamei tiidat dat re;",
+            "Kamei ^&5 ting-neih tiilou e,",
+            "Kathai luak khang kathai tiilou,",
+            "Neihriw lev ting, kathai tiilou,",
+            "Kaipouc ^&5!",
+            "",
+            "3 Jisu hei ramh guay na di the,",
+            "Ai Kalat piu chuy ni,",
+            "’Kumhna ai nuh mak ngam ni cho,",
+            "Hei di gaymei Pam ta?",
+            "Kathei laymei ntwnmei e,",
+            "Katuang kros ahu khou louna",
+            "Zingbangc kalaanv Kathei lay ni,",
+            "Kaipouc thei!",
+            "",
+            "4 Jisu hei ramh guay na di the,",
+            "Baihmei pam kage maek,",
+            "’Taw Kata lwm, ai lwm bam ni,",
+            "Panty luaimei nganvna;",
+            "Kata lungc ’chamcmei adih gay,",
+            "Mut dat makmei gaymei panty!",
+            "Ringc taek makmei, neihlaa suang- mei, Kakhou nai!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus is all the World to Me!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/8",
+        "8.6.8.6.8.8.11.",
+        "3 Alex 98",
+        "Will L. Thompson",
+        "Jesus is all the World to Me!",
+        "source hymn 393",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 393."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU HEI RAMH GUAYNA DI THE",
+        "titleRongmei": "JISU HEI RAMH GUAYNA DI THE",
+        "titleEnglish": "Jesus is all the World to Me!"
+      }
+    }
+  }
+}

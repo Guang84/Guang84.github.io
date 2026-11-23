@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-074",
+    "number": 74,
+    "source": {
+      "printedNumber": 74,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Ravguangc Nang Chwn Dinclou.o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          74 He Ravguangc Nang Chwn Dinclou o",
+            "                          8.10.10. 10.Ref.5. 15. 6.5.5.4.6",
+            "          Doh hei D",
+            "",
+            "          1. He Ravguangc Nang chwn dinclou o;",
+            "             Dungcna bam khang ny tatna bam khang cho ?",
+            "             Napchu guay khuamguang khang kawlou tu cho ?",
+            "             Nkhwan bam e, he Ravguangc, Nang chwn tei.",
+            "",
+            "                  Ai thay the Ravguangc, (2)",
+            "                  Laudai tei 'tay khang e,",
+            "                  Ata kawloumei.",
+            "                  Bumaengh guay khuam khang",
+            "                  Kawmei khwan tei,",
+            "                  Ai chu e he Ravguangc!",
+            "",
+            "          2. He Ravguangc Nang phaykaamv suicna,",
+            "             Duidai ramv khou nic, tauh ramv khou pwnic,",
+            "             Zinghmei lim rui ata liamguang sihnic,",
+            "             Minc bammei napguy guay ta'pat lak khe.",
+            "",
+            "          3. Ai nyanmei maekna khuamtat ni:",
+            "             Raam kan ni the minc bammei napguy guay;",
+            "             Raam kan nimei ta thow khuamguang ni cho?",
+            "             Tingzyn neihmik key mak khou khuamguang khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Ravguangc Nang Chwn Dinclou.o"
+      }
+    }
+  }
+}

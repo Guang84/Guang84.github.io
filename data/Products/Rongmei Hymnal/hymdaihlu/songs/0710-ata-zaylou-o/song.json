@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0710",
+    "number": 710,
+    "source": {
+      "printedNumber": 710,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W.L.Thompson",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.12.11.8.5. Ref.",
+      "tune": "SS 1198"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ATA ZAYLOU O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ata zaylou o, aPu, kai zay guanglou o;",
+            "Zingc liangmei ganv khou",
+            "nchanvmei !}2 zyn pwkhou,",
+            "Alung ta bangclou o, ai maengtat mak khang;",
+            "Chaengdaeng khou ai pun key mak khang,",
+            "Ata zaylou o.",
+            "",
+            "Ata zaylou o, aPu, kai zaylou o;",
+            "Chaengdaeng khou ai pun key mak khang",
+            "Ata zaylou o.",
+            "",
+            "2 Ata zaylou o, aPu, kai zay guanglou o;",
+            "Nang na !}2 zaylou ngam arana tat ngam mak,",
+            "Ai neihlaana lay ni, tingsaeng lay bam ni,",
+            "Nang tuang zianmei baanc !}2 ata",
+            "Kai zay guanglou o.",
+            "",
+            "3 Ata zaylou o, aPu, kai zayguanglou o;",
+            "Ringhting hei luai pwkhou",
+            "’tamvpui ganv guang pwkhou,",
+            "Tamzinghmei dih khou !}2",
+            "tingsaeng zaengthaek khang,",
+            "Ata zaylou o, he aPu,",
+            "Kai zay guanglou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Lead Me Gently Home",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "12.12.11.8.5. Ref.",
+        "SS 1198",
+        "W.L.Thompson",
+        "Lead Me Gently Home",
+        "source hymn 710",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 710."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ATA ZAYLOU O",
+        "titleRongmei": "ATA ZAYLOU O",
+        "titleEnglish": "Lead Me Gently Home"
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-037",
+    "number": 37,
+    "source": {
+      "printedNumber": 37,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.9.8.",
+      "tune": "Psalms 91:4"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kasubang kabam gaimei khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kasubang kabam gaymei khou",
+            "Kanloumei guai ban thai puni",
+            "Kaniu guay tei tingsaeng ringmei la-",
+            "Pui kan khou neila puni the.",
+            "",
+            "Lung puni lungsuang puni the",
+            "Zauzian Poubaomei ta thuan na,",
+            "Tingsaengzaeng neihla bam puni the",
+            "Kasubang mangbam gaimei khou.",
+            "",
+            "2. Kasubang kabam gaimei khou",
+            "Kapmei rianramei nailak khe",
+            "Simei le nthiemmei rihdai e,",
+            "Meimak ge namdai gaimei khou",
+            "",
+            "3. Kasubang kabam gaimei khou",
+            "Rianra rianriumei nailak khe.",
+            "Ringpui duikhun khou duilou puni",
+            "Gunh mphwanmei suang phwan puni.",
+            "",
+            "4. He! hei khou tei bammei nun tei",
+            "Kandih rianramei khaeng lak khe.",
+            "Tingkauhram gaimei tei lapuni,",
+            "Tingkau raengguai haeng puni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 37",
+        "Khristian Luzaam PDF",
+        "Chord: Bb",
+        "Meta 3: 8.8.9.8.",
+        "Meta 4: Psalms 91:4"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 37. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 37,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kasubang kabam gaimei khou",
+        "titleRongmei": "Kasubang kabam gaimei khou"
+      }
+    }
+  }
+}

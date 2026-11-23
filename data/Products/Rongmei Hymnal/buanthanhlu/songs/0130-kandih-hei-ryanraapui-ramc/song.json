@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-130",
+    "number": 130,
+    "source": {
+      "printedNumber": 130,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih hei Ryanraapui Ramc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          130 Kandih Hei Ryanraapui Ramc",
+            "                             7.7.7.7.7. Ref. 8. 7.7.7.7",
+            "          Doh hei A",
+            "",
+            "          1. Kandih hei ryanraapui ramc;",
+            "             Chwnsi mikdui luanghpui ramc.",
+            "             Tabui nungc tat rini cho?",
+            "             Akhang zaeng 'thaekcpui bamv maek;",
+            "             Zaylou o, Nang baan zat rui.",
+            "",
+            "                  Jisu rui aniw khou saa e:",
+            "                  Taanv ryanraana taanhmei lev,",
+            "                  Puatcrith phunghmei kapwmna,",
+            "                  Akhou guang o, nangniw guay,",
+            "                  Ai rui zaeng tithaekclou ni.",
+            "",
+            "          2. Lungh ryanraamei kapwmna,",
+            "             Jisu rui tineihlaalou;",
+            "             Suanmei guay ta titanclou;",
+            "             Miktiatmei ta tihowlou;",
+            "             Ringhpui chaeng khou tei zaylou.",
+            "",
+            "          3. Taanv ryanraana taanhmei lev",
+            "             Puatcrith phunghmei kapwmna",
+            "             Akhou lou o, Kapwmna.",
+            "             Apuatrith hei thu 'thaan e,",
+            "             \"Khamhpui nungc zaeng tithaekc ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih hei Ryanraapui Ramc"
+      }
+    }
+  }
+}

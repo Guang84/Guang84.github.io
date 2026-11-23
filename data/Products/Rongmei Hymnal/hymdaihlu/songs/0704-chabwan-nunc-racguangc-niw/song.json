@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0704",
+    "number": 704,
+    "source": {
+      "printedNumber": 704,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William Byron Forbush",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.8.8. D.",
+      "tune": "CW 608"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chabwan nunc Racguangc,’niw",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Chabwan nunc Racguangc ’niw Nang khou",
+            "’Niw lungning #<8 thuanhmei phungc guang,",
+            "Akhyampui mung kathuic na khou,",
+            "Aseic dou tuang ningting zuk khou;",
+            "Chabwan Racguangc, Nang ’khavlou o,",
+            "’Niw ’muc mak khang, ’niw ’muc mak khang.",
+            "",
+            "2 Pumh-gay zei-gay, phaay-baanh tancna,",
+            "Tanc-bauhmei ta rili pwkhou;",
+            "Gay ranvpui lanv 8}@ tiilou o,",
+            "Sw ’kamh makmei, biangpiumei lung,",
+            "Chabwan Racguangc, pumtan tii o,",
+            "’Chumhmei taanh khang, ’chumhmei taanh khang.",
+            "",
+            "3 Akhyam rilimei dwan guay khou",
+            "Pumtan lev ’khapmei phu pwkhou,",
+            "Ranv dianghmei ringhting ric nai e,",
+            "Khou8}@ pumtan kage nai khou,",
+            "Chabwan Racguangc, katiulou o,",
+            "Nang ningmei 8}@ ’niw taanc",
+            "ngam khang. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "God of Our Youth, to Whom We Yield",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "8.8.8. D.",
+        "CW 608",
+        "William Byron Forbush",
+        "God of Our Youth, to Whom We Yield",
+        "source hymn 704",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 704."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chabwan nunc Racguangc,’niw",
+        "titleRongmei": "Chabwan nunc Racguangc,’niw",
+        "titleEnglish": "God of Our Youth, to Whom We Yield"
+      }
+    }
+  }
+}

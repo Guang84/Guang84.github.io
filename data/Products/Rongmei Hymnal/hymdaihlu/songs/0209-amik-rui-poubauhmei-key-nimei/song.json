@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0209",
+    "number": 209,
+    "source": {
+      "printedNumber": 209,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Julia Ward Howe",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "15.15.15.6. Ref.",
+      "tune": "SS 697"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Amik rui Poubauhmei key nimei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Amik <~1 Poubauhmei key nimei",
+            "hymdaihmei ta how the;",
+            "Kalungpuam drakha peicloumei",
+            "khou Kaphay nii pat pw the,",
+            "Katuang meic pingmei baengsaeng khou <~1 tingpalikmei pat the;",
+            "’Niu Ravguangc ruan pat the.",
+            "",
+            "Kahym daic e, Hallelujah!",
+            "Kahym daic e, Hallelujah Kahym daic e, Hallelujah!",
+            "’Niu Racguangc ruan pat the.",
+            "",
+            "2 Kauh ricmei nunc rigaanv mairam chung khou Pou ta ai how the;",
+            "Tingzyn zikdui ding khou Kakhang kaniw <~1 ravcha swlou;",
+            "’Chumhmei Kalatzan 1<~ chuangc",
+            "bammei maibwang riw khou how the;",
+            "’Niu Racguangc ruan pat the.",
+            "",
+            "3 Kamei <~1 trampet ’muan kan the,",
+            "ngalanh khang ’muan dat lak khe;",
+            "Kalatzan bamvpaeng hu khou",
+            "meic guay lung ta nzang bam the,",
+            "’Khap tho, he abumaengc,neihlaana",
+            "Kamei kaw khou daw khang;",
+            "’Niu Racguangc ruan pat the.",
+            "",
+            "4 Duipui paengc thangc lilipwang ding",
+            "khou Khrista puanclou khwan e,",
+            "Nang lev ata tiiguanhlih ngammei",
+            "hym Kakhou nai khwan e;",
+            "’Niu khang Kamei theiclou kumc ’niu",
+            "nic meic nunc khang theiclcou kho;",
+            "’Niu Racguangc ruan pat the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "209 Our God is Marching on",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "15.15.15.6. Ref.",
+        "SS 697",
+        "Julia Ward Howe",
+        "Kahym daic e Halleluijah",
+        "209 Our God is Marching on",
+        "source hymn 209",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 209."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Amik rui Poubauhmei key nimei",
+        "titleRongmei": "Amik rui Poubauhmei key nimei",
+        "titleEnglish": "209 Our God is Marching on"
+      }
+    }
+  }
+}

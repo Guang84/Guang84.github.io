@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-249",
+    "number": 249,
+    "source": {
+      "printedNumber": 249,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc rui Dinhmei Ganv tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          249 Ravguangc rui Dinhmei Ganv tei",
+            "                           11.7.9.8.8. Ref. 8. 7.8. 8",
+            "          Doh hei D",
+            "",
+            "          1. Ravguangc rui dinhmei ganv tei guang tangc pwthe:",
+            "             Kabamv thuih khou pat bam the;",
+            "             Kakwm kaganv nic kalaic ngam the.",
+            "             Zinghmei tei guang zaic pwni the,",
+            "             Ravguangc khou nang lwmlou la tho.",
+            "                  He Ravguangc, ata 'zianlou o,",
+            "                  Ai ryanraa ryanriu bam khou,",
+            "                  Ata 'zianlou nimei maekna.",
+            "                  Ravguangc ata nzianlou o.",
+            "          2. Heic kandih hei mu Nouha kaanc khou kumc the:",
+            "             Ravguangc ta mpat ngam the.",
+            "             Kandih ramgai ta phumei guay rui,",
+            "             Maikwam khou kaniw gut pwni.",
+            "             Tingsaeng ryanraa akhaengv pwni.",
+            "          3. Nzianmei tat rey kanmei rupryan guay rui,",
+            "             Ata nkhwanna bam the,",
+            "             Ai rui ryanraa ryanriu akhaengvna.",
+            "             Ata 'khavlou nimei maekna;",
+            "             Ravguangc ata nkhavlou o.",
+            "",
+            "          4. Aniw panty hei mu tỉngzyn ganv kumc the;",
+            "             Mwnpwang kumcna tuai pwni.",
+            "             Tat kanmei ganv tei guang dat lak khe,",
+            "             Nang rui kapna huay bam sihnic,",
+            "             Kaganv tei ngalanc dat lak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc rui Dinhmei Ganv tei"
+      }
+    }
+  }
+}

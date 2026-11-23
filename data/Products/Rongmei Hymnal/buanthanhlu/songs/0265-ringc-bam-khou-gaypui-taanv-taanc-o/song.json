@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-265",
+    "number": 265,
+    "source": {
+      "printedNumber": 265,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ringc bam khou Gaypui Taanv Taanc o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          265 Ringc bam khou Gaypui Taan Taanc o",
+            "                                 8.6.8.8. Ref. 7. 6. 8.9",
+            "",
+            "          1. Ringc bam khou gaypui taanv taanc o.",
+            "             Paapc tuang neihlaa guayrui,",
+            "             Aseic Jisu zanc khouruina",
+            "             Hymdaihmei pyrun run pwni.",
+            "",
+            "                     He, Kandih guangcna pyrun,",
+            "                     Tingsaeng khang sw ngammak,",
+            "                     Tingkauh thu Ringhmei Guangh pyrun,",
+            "                     Lungh laicguangmei guay rui run pwni.",
+            "",
+            "          2. Reynungc Eden Pikwan khoutei,",
+            "             Eve lev Adam ruina,",
+            "             Kaney bamv mpatlou ducna,",
+            "             Siimei paap rui nduangh tat the.",
+            "",
+            "          3. Kaniw khwan lev Immanuel,",
+            "             Lungh ryanraamei 'dih khou,",
+            "             Neihkhat kiu Cananramc gay khou.",
+            "             Lwmmei guoy lev ruantat bam ni.",
+            "",
+            "          4. Nritmei paap puat luak gancna,",
+            "             Gaanhmei khou guang pwkhou,",
+            "             Zinghmei bamv mpatlou ducna,",
+            "             'Niw lung zinghmei guay 'maan pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ringc bam khou Gaypui Taanv Taanc o"
+      }
+    }
+  }
+}

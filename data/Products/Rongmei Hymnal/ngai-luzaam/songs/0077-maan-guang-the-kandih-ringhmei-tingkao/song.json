@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-077",
+    "number": 77,
+    "source": {
+      "printedNumber": 77,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Maan guang the kandih ringhmei tingkao",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Maan guang the kandi ringhmei tingkao gaimei ‘na the,",
+            "Ai kalanga zau bam e guang tangnimei ram tei;",
+            "Kandi zinghbang kumsini ‘tik kagun daihpui ram,",
+            "Na guang the Immanuel namdaih gaimei tei.",
+            "",
+            "2. He! Jisu duikhun e Nang nzianmei duidai e,",
+            "Kandi khou rianramei hei Tingkao thu gai khang e;",
+            "Rianramei kandi khou hei lungni Nang paan khou rui,",
+            "Tik daihmei Immanuel Poubaomei pan rui.",
+            "",
+            "3. Kauh latzan sumei Pu rui ‘zianloupui zaeng khou rui,",
+            "Rianrana kabmei nun khang tilouni tingkao ram;",
+            "Hou khang ning e Nangpaan rui tingkao gaipui ram tei,",
+            "Neih keidat makpui ram e zinghmei naidat mak.",
+            "",
+            "4. Noupeih rui noupouhpu lun hounimei kum ai ni,",
+            "Houni e namdaih khang suang ‘zianmei Poubaomei lun;",
+            "Lanimei Guangh pirun suang ning thukge timei pu,",
+            "Akhang tikgun dailiangmei Lauziu Na tei e.",
+            "",
+            "5. Tingkao Guangh nzianmei rui kandi ti-neihlalou,",
+            "Rianramei guanglou sini nzianmei ru ngam e;",
+            "Thuanku o Poubaomei ta thuaihian liangmei Pu ta,",
+            "Akhang tilou the Salem namthanh gaimei tei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 77",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 77. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Maan guang the kandih ringhmei tingkao",
+        "titleRongmei": "Maan guang the kandih ringhmei tingkao"
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-051",
+    "number": 51,
+    "source": {
+      "printedNumber": 51,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gospel rui Kawmei Laalou Khap dikho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          51 Gospel rui Kawmei Laalou Khap latho.",
+            "                          10.9.10. 10.Ref. 10. 10.10. 10",
+            "",
+            "          1 Gospel rui kawmei laalou khap dikho,",
+            "            Tingmik 'thuih tiilou ringhmei Chamv tei,",
+            "            Tingmik thuih 'naaguang the Ravguangc kandic.",
+            "            Kaganv hei katumcna 'naaguang pwthe.",
+            "",
+            "                     Laupouc rui khuamguang nthuih pwkhou,",
+            "                     Laaloumei nunc 'zat biak thangc bam pwni;",
+            "                     Laalou makmei nunc baanc haamvpat pwni,",
+            "                     Tihkic nyan the twna Pou' saa pwni.",
+            "",
+            "          2. Khrista Guangcdic Tingkauh chaengmun 'naa the.",
+            "             Tingmik'thuih'naa the chamdaanv latho.",
+            "             Baanch'raa aching-ching lev key pwni the.",
+            "             Kandih kwnkuay maansei khuamguang pwni the.",
+            "",
+            "          3. Heiczaengrui chanaa thiu chamdaanv latho,",
+            "             Gospel rui kawmei laalou la tho.",
+            "             Poubauhmei guang pwkhou 'niw neihlaana",
+            "             Tingsaeng zaeng gaypui kandic khou lungc ni.",
+            "",
+            "          4. Ndaapc tari suc-nuc naunianmei maek,",
+            "             Chwnsi zaengsi kapmei nai lak khe.",
+            "             Poubauhmei guang pwkhou 'niw neihlaana",
+            "             Tingsaeng zaeng gaypui kandic khou lungc ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gospel rui Kawmei Laalou Khap dikho"
+      }
+    }
+  }
+}

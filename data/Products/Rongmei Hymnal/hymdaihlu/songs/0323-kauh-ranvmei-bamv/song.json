@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0323",
+    "number": 323,
+    "source": {
+      "printedNumber": 323,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Johnson Oatman, Jr.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.8.8.8. Ref. 3",
+      "tune": "Alex 165"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KAUH RANVMEI BAMV",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingkauh chaeng ai tat ku bam the,",
+            "Tingmik ’thuic kauh hay hay ku the;",
+            "Ai huayney e, chaenglwan khou hei;",
+            "“Kauh ranvmei khou,Pou,zaylou o.”",
+            "",
+            "He Poubauhmei, zay kulou o,",
+            "Lwmmei paan ?|7 tingkauh zaengc khou,",
+            "Khou7?| zianmei neihlaamei nai,",
+            "Kauh ranvmei bamv khou zaylou o.",
+            "",
+            "2 Alungning ?|7 bam nii mak khe,",
+            "Lwmsii, pingmei geihpui bamv khou,",
+            "Gaanv saekc ?|7 bam nii khwan sihni",
+            "Ai machunh e, kauh ranvmei bamv.",
+            "",
+            "3 Ai ku nii e, muangh ruc thangc 7?|,",
+            "Nrangting patmei tingpuk thangc,",
+            "Kandih tuang katuakcmei ruc thangc,",
+            "Chuzaenghmei bamv thangc 7?| ’thaekc khang.",
+            "",
+            "4 Kauh liangmei thangc ku tangc nii e,",
+            "Chaenglwan siina ku kungc sihni;",
+            "Ku bam khou alu kagaengv ni,",
+            "Kauh ranvmei khou, Pou, zaylou o.",
+            "",
+            "5 Chyng hei ku bam khou zaylou o,",
+            "Zayloumei maekna ku ping e;",
+            "Tingkauh khou ai ku tangc pwkhou,",
+            "Kaipouc Nang ta thuancna bam ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Tingkauh chaeng ai tat ku bam the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "8.8.8.8. Ref. 3",
+        "Alex 165",
+        "Johnson Oatman, Jr.",
+        "Tingkauh chaeng ai tat ku bam the",
+        "Higher Ground",
+        "source hymn 323",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 323."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KAUH RANVMEI BAMV",
+        "titleRongmei": "KAUH RANVMEI BAMV",
+        "titleEnglish": "Tingkauh chaeng ai tat ku bam the"
+      }
+    }
+  }
+}

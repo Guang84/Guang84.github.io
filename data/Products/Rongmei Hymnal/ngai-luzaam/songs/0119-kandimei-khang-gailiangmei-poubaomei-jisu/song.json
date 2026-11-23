@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-119",
+    "number": 119,
+    "source": {
+      "printedNumber": 119,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandimei khang gailiangmei Poubaomei Jisu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandimei khang gailiangmei Poubaomei Jisu",
+            "Tingkao kaguangh bam lou duna rianramei khaeng e",
+            "Rianra nimei thai sini",
+            "Theih khang tei ping makge Poubaomei Jisu tei.",
+            "",
+            "Gaipui tingmik gaipui tingmik,",
+            "Gaipui tingmik nung Jisu puan e.",
+            "",
+            "2. Lungsimei banghpui khou rui puan e Jisu tei,",
+            "Kandihmei lun kumna ngana suna puanlou the;",
+            "Bethlehem kailuangla khou,",
+            "Khou tei Poubaomei puan e maansei lun phunga.",
+            "",
+            "3. Ravguangc rui kanah ndiulouna zau bam e,",
+            "Paap bangh nun guay rui kanloumei bam lakhang tei rui,",
+            "Bumaeng Thanmei lakhang tei,",
+            "Kandihmei paap phunglou khang ndiu keilou the.",
+            "",
+            "4. Maansei kathuih kaanpatpui bam lakhang cinlou,",
+            "Kros rukhou rianra khaenga kazei keilou kan the;",
+            "Tarou khou neithumh zipma,",
+            "Kapu bam khou bamdat khang tingkao kukan the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 119",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 119. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandimei khang gailiangmei Poubaomei Jisu",
+        "titleRongmei": "Kandimei khang gailiangmei Poubaomei Jisu"
+      }
+    }
+  }
+}

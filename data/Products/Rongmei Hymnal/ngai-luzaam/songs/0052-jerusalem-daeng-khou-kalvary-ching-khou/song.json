@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-052",
+    "number": 52,
+    "source": {
+      "printedNumber": 52,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "11.10.11.",
+      "tune": "Isaiah 53:5"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jerusalem daeng khou Kalvary ching khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Jerusalem daeng khou Kalvary ching khou,",
+            "Kanloumei Pu thingru khou zai thaupui bam;",
+            "Khou tei Bumaeng Thanmei rui duang gutro.",
+            "",
+            "Hou khang ning e kanloumei Pu ta,",
+            "Kaphaai kabaan kanaek khou zam tei rui;",
+            "Nkhuaimei azaeng khou rui khaengh lou the.",
+            "",
+            "2. Juda daihmei nunle amuh nun tei rui,",
+            "Sinnui lana zau bam Zion pi lung khou;",
+            "Siangding thingru khou tei hianbinlou the.",
+            "",
+            "3. Guangna zaulo kanloumei Pu nzaenghmei,",
+            "Rianra rianriu khangna zion pilung khou;",
+            "Simei rui gumliamna kazau si the.",
+            "",
+            "4. Tingkao Guangh Na theih nung ‘thanmei nun chunsi,",
+            "Kaniu Guangh theihmei ta zau ngammei makge;",
+            "Poubaomei theipui nung kandi zing e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 52",
+        "Khristian Luzaam PDF",
+        "Chord: C",
+        "Meta 3: 11.10.11.",
+        "Meta 4: Isaiah 53:5"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 52. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 52,
+        "match": "title-match-0.94"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jerusalem daeng khou Kalvary ching khou",
+        "titleRongmei": "Jerusalem daeng khou Kalvary ching khou"
+      }
+    }
+  }
+}

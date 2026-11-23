@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0540",
+    "number": 540,
+    "source": {
+      "printedNumber": 540,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "James Montgomery",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "C.M.",
+      "tune": "CW 465"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Lauziu Gaenghmeipu ’niwta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He lauziu Gaenghmei pu ’niw ta,",
+            "’Niw zaeng tiitanclou o,",
+            "Tazikramv khou tuang manna lev",
+            "’Tauhbut tuang dui 8^& ^&8.",
+            "",
+            "2 Ndaapc t’riina ngam mak bam e,",
+            "Nang sw kanmei kumcna,",
+            "Nang rianra paan ^&8 tiiguangmei",
+            "Kauh neilaa ta phu e.",
+            "",
+            "3 Taektw na ^&8 ’niw ringc ngam mak,",
+            "Zauzian Latkaeng paan ^&8",
+            "Tingkauh ’zwan khang pumtan tiilou,",
+            "’Niw lunghpui bamv tangh khang.",
+            "",
+            "4 ’Tyan bybak khou bam ’chamclou o,",
+            "’Niw ta gancrulou rio,",
+            "Guloumei pu bam ’duanghlou o,",
+            "’Niw ta tiitulou o.",
+            "",
+            "5 Zauzian paan ^&8 tu ’chamclou o,",
+            "Nang pumc lev Nang zei 8^&",
+            "Ringhmei ’tyan, drakhadui swna,",
+            "Tingsaeng tiitulou o. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Shepherd of Souls, Refresh and Bless",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "C.M.",
+        "CW 465",
+        "James Montgomery",
+        "Shepherd of Souls, Refresh and Bless",
+        "source hymn 540",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 540."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Lauziu Gaenghmeipu ’niwta",
+        "titleRongmei": "He Lauziu Gaenghmeipu ’niwta",
+        "titleEnglish": "Shepherd of Souls, Refresh and Bless"
+      }
+    }
+  }
+}

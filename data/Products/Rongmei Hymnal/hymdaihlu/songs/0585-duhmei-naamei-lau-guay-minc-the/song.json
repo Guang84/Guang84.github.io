@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0585",
+    "number": 585,
+    "source": {
+      "printedNumber": 585,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 1086"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Duhmei, ’naamei lau guay minc the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Duhmei, ’naamei lau guay minc the,",
+            "Lauzamdai minc ngam bam the;",
+            "Luanghbut guay lev nzaengc guay khou,",
+            "Lau hei minc nzinh zin the.",
+            "",
+            "Laupouc, lautaymei thouclou o,",
+            "’Niu huay bammei chulou o;",
+            "’Taw thouclou tho, napchu khuam khang,",
+            "Lautay ganv hei rii mak khou.",
+            "",
+            "2 Thouclou o, lauthwan khwanzingh khou,",
+            "Thouclou o, kalaanv ganv khou,",
+            "Tingzyn neic hei key changh mak khou,",
+            "Kabamv ’thuic khou khuam tat khang.",
+            "",
+            "3 Napguy guay nkhuk key bam the,",
+            "Khuam tho, minc raam changh mak khou;",
+            "Tingzyn keyna kai guang pwkhou,",
+            "’Niu neihlaana guang puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A Call for Reapers",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "8.7.8.7. Ref.",
+        "SS 1086",
+        "Anonymous",
+        "LAUPOUC, LAUTAYMEI THOUCLOU O",
+        "A Call for Reapers",
+        "source hymn 585",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 585."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Duhmei, ’naamei lau guay minc the",
+        "titleRongmei": "Duhmei, ’naamei lau guay minc the",
+        "titleEnglish": "A Call for Reapers"
+      }
+    }
+  }
+}

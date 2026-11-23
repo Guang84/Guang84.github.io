@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-198",
+    "number": 299,
+    "source": {
+      "printedNumber": 198,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "12.9.12.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Niu thuan kho Raguang tuang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Niu thuankho Raguang tuang chrinmei kajaujian khang,",
+            "Tak makna gaklou bam puijang khang;",
+            "Agau rim kum niu thuanmei khuanni ku kandiu;",
+            "Kalum khang guang kaduai bam khouhei.",
+            "",
+            "Chorus:",
+            "Thuan dikho kalum kho,",
+            "Katuang tan guuai jang khang;",
+            "Karamgai karam gaklu din kho,",
+            "Agau rim kum niu thuanmei khuanni ku kandiu,",
+            "Kalum khang guang kaduai bam khou hei.",
+            "",
+            "2. Niu thuan kho kajaujian tuang chrinmeiKaipat tei,",
+            "Kamei ({0 niu khou lian loumei khang;",
+            "Jisu le madiatna kadam lacham pukhou,",
+            "Kabampang dang niuta jai guangni.",
+            "",
+            "3. Huainei kho kasuaihiam tak maknaTilou khang,",
+            "Niu changluan tigan lou bamdiu khang;",
+            "Kamei ({0 aniuta titui lou pui pan({0,",
+            "Niu bumang kaguangdih khou lungkhang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 198",
+        "SQLite BookTypeID 2",
+        "Key: D",
+        "Meter: 12.9.12.9.",
+        "Chord: D",
+        "Meta 3: 12.9.12.9."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 198); no high-confidence title match was found in the PDF list. The digital catalogue number is 299; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 198,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Niu thuan kho Raguang tuang",
+        "titleRongmei": "Niu thuan kho Raguang tuang"
+      }
+    }
+  }
+}

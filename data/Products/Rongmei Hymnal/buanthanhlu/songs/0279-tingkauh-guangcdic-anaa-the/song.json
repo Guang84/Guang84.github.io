@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-279",
+    "number": 279,
+    "source": {
+      "printedNumber": 279,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh Guangcdic Anaa the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          279 Tingkauh Guangcdic Anaa the",
+            "                           11.9.5.9. ref. 6.9.",
+            "",
+            "          1. Tingkauh Guangcdic anaa the lunghlaic la tho.",
+            "             Kaipouc Jisu rui kumna saa e -",
+            "             Lwmloumei guay rui",
+            "             Tingsaeng zaeng ringcsuangmei laa pwni.",
+            "",
+            "                  Gaymei chamv dinctat ro (2)",
+            "                  Kandih kabamv 'thuih khou dinctat ro.",
+            "",
+            "          2. Ringhpouc rui saa e, guango, athei lay o,",
+            "             Ai rui meic nymmei tiswlou 'ni.",
+            "             Khav nym bam khourui",
+            "             Kaipouc Jisu thei laytat kan the.",
+            "",
+            "          3. Kakwm kaganv nai makna Gaychamv dinc o.",
+            "             Kaipouc Jisu rui kumna saa e -",
+            "             Laupuk thu daic e,",
+            "             Taanv taanclou nimei thu meic rau e.",
+            "",
+            "          4. Bumaengh khuamguangmei guay tei nyngtyngmei e.",
+            "             Kaipouc Jisu rui kumna saa e -",
+            "             Taanc chuyloumei khang,",
+            "             Ai rui kakhang swan tilou pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh Guangcdic Anaa the"
+      }
+    }
+  }
+}

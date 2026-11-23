@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0658",
+    "number": 658,
+    "source": {
+      "printedNumber": 658,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Oliver W.Holmes",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "L.M.",
+      "tune": "CW 602"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zauclo, Kaipouc Ravguangc, Nang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zauzian Kaipouc Ravguangc, Nang ({0",
+            "Kaikhunh ramgai, pamrai tiilou;",
+            "Nang lauziu pang ta pamclou e,",
+            "Kahunungc kumc kadanlou e.",
+            "",
+            "2 ’Niw khwan hei Nang chulou lak cho,",
+            "Lungh khat swna thuanhmei khwan hei,",
+            "Neihlaa zaenggaymei lu khwan ({0",
+            "Thuancku kariu bammei khwan hei.",
+            "",
+            "3 Suaihiam lungc towmei guay zaeng khang,",
+            "Ryanramei lungc riumei guay khang,",
+            "Zangsii-zaenggay lungc riumei khang,",
+            "Theihmei ’tamvmei guay khang thuanc e.",
+            "",
+            "4 Tat kanmei kalaanv neicriw khang,",
+            "Mut changh kan nimei gaanh riw khang,",
+            "Neihkhyam key kanmei panty khang,",
+            "Kauhranvmei panty khang thuanc e.",
+            "",
+            "5 Pu Ravguangc,Nang zauzian paan ({0",
+            "’Niw riangluaic guay ta pamclou o,",
+            "Tingkauh thangc khang chamdaanvlou o,",
+            "’Niw khou chuzaenghmei tiilou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Thou Gracious God",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "3/4",
+        "L.M.",
+        "CW 602",
+        "Oliver W.Holmes",
+        "Thou Gracious God",
+        "source hymn 658",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 658."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zauclo, Kaipouc Ravguangc, Nang",
+        "titleRongmei": "Zauclo, Kaipouc Ravguangc, Nang",
+        "titleEnglish": "Thou Gracious God"
+      }
+    }
+  }
+}

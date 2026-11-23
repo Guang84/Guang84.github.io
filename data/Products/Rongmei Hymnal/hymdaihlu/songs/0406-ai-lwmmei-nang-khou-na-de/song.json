@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0406",
+    "number": 406,
+    "source": {
+      "printedNumber": 406,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. Ray Palmer",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.6.4.6.6.6.4.",
+      "tune": "SS 235"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AI LWMMEI NANG KHOU NA DE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai lwmmei Nang khou de,",
+            "Kalvari Lauziu Nac,",
+            "Guloumeipu;",
+            "Chulou o, ai huay e,",
+            "Kuaklou o, akhuay guay,",
+            "’Seic khou ({0 Nang khang na",
+            "Ai lungc ni the.",
+            "",
+            "2 Gaymei Nang zauzian hei",
+            "’Suanmei alungsyng khou,",
+            "Ngamv swlou o;",
+            "Nang akhang theiclou kumc",
+            "Nang khang aramzian hei",
+            "’Thanmei ’mit makmei mai",
+            "Tiiswlou o.",
+            "",
+            "3 Zinghmei panty chaeng khou",
+            "Nang ({0 chaeng zaylou o,",
+            "Ai tat bam khou;",
+            "Zinghmei tiigaanclou o,",
+            "Amikdui roulou o;",
+            "Nang khou ({0 chaeng ’maanv khang",
+            "Pou, nuhlou rio.",
+            "",
+            "4 Mang kumhmei panty hei",
+            "Mutna theihmei 0({ ({0",
+            "Nganv guang pwkhou,",
+            "Zianlou o, Poubauhmei,",
+            "Laa ganclou o, pingmei,",
+            "Phungc kulou o, kauh thangc",
+            "Abumaengc ta."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "My Faith Looks up to Thee",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "6.6.4.6.6.6.4.",
+        "SS 235",
+        "Rev. Ray Palmer",
+        "My Faith Looks up to Thee",
+        "source hymn 406",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 406."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AI LWMMEI NANG KHOU NA DE",
+        "titleRongmei": "AI LWMMEI NANG KHOU NA DE",
+        "titleEnglish": "My Faith Looks up to Thee"
+      }
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0112",
+    "number": 112,
+    "source": {
+      "printedNumber": 112,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Joseph Mohr",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "6/8",
+      "meter": "Irregular.",
+      "tune": "CW 188"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thanpui neic zingbangc tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Thanpui neic zingbangc 6$%!",
+            "Ramh kaguay rimh rim khou,",
+            "Kapui lev Ngana daeng gaanc e,",
+            "Mangui phunghmei ’thanpui Ngana 6$%,",
+            "Zip bam e, reih reina,",
+            "Kauh tuang ’chuzaenghmei khou.",
+            "",
+            "2 Rimh rimpui zingbangc 6$%!",
+            "Lauziu gaengh mei chu e,",
+            "Kauh baanch’ra nunc lu hei kumcna:",
+            "“Hallelujah! Guangh ta thuanc kho!",
+            "Jisu Khrista puanc the,",
+            "Guloumeipu Jisu e”.",
+            "",
+            "3 ’Thanpui neic zingbangc 6$%!",
+            "Ravguangc Nac zianmei riw,",
+            "’Thanmei Nang zaw khou $%6 gaanc e,",
+            "Thuakloumei zauzian lauthwan riw,",
+            "Jisu Nang puanh nungc 6$%,",
+            "Jisu Nang puanh nungc 6$%.",
+            "",
+            "4 Rimh rimpui zingbangc hei",
+            "He gaanchuangc, gaanc key o;",
+            "Kauh baanch’ra lev lu suan ’chamc kho,",
+            "Hallelujah! aniu Guangc khang,",
+            "Jisu Khrista puanc the,",
+            "Guloumeipu Jisu e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Silent Night, Holy Night!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "6/8",
+        "Irregular.",
+        "CW 188",
+        "Joseph Mohr",
+        "Silent Night, Holy Night!",
+        "source hymn 112",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 112."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thanpui neic zingbangc tei",
+        "titleRongmei": "Thanpui neic zingbangc tei",
+        "titleEnglish": "Silent Night, Holy Night!"
+      }
+    }
+  }
+}

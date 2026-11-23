@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0673",
+    "number": 673,
+    "source": {
+      "printedNumber": 673,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Martin Rinkart",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.7.6.7.6.6.6.6.",
+      "tune": "HLC 564"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Taw thu ’niu Ravguangc ta thuanc e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Taw thu ’niu Ravguangc ta",
+            "’Niu khwan lev baanh )}3 thuanc e,",
+            "Ch’rynmei taanv taanclou the,",
+            "Kandihmei guay neihlaa e;",
+            "Aniu pui pamv khou )}3",
+            "’Taw nganv suaihiamlou the,",
+            "Zianmei kaipat peyna",
+            "’Taw nganv laatow bam e.",
+            "",
+            "2 He priuhmei Racguangc hei",
+            "’Niu ringcting saanv bam ’duangh diu,",
+            "’Niu ta tii neihlaa diu,",
+            "Chuzaenghmei lung tiilou diu,",
+            "Kazauzian lungc ’dauh diu,",
+            "Dwangdangv khou zaylou diu,",
+            "Siimei guanglou mak khang",
+            "’Taw nic, thei thangc nganvna.",
+            "",
+            "3 Thwan lev thuanckumei hei",
+            "Pu Ravguangc khang sw kan diu,",
+            "Kauh thangc guanghtu bammei",
+            "Nah Pouh ta thuanhmei sw diu;",
+            "Tingsaengzaeng Ravguangc ta",
+            "Kauh lev dih )}3 thuanc diu,",
+            "Kahunungc kumc ’taw nic",
+            "Tingsaengzaeng nganv thuanc diu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Now Thank We All Our God",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "6.7.6.7.6.6.6.6.",
+        "HLC 564",
+        "Martin Rinkart",
+        "Now Thank We All Our God",
+        "source hymn 673",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 673."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Taw thu ’niu Ravguangc ta thuanc e",
+        "titleRongmei": "’Taw thu ’niu Ravguangc ta thuanc e",
+        "titleEnglish": "Now Thank We All Our God"
+      }
+    }
+  }
+}

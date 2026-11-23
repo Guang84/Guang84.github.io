@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0129",
+    "number": 129,
+    "source": {
+      "printedNumber": 129,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. A.B.Simpson",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "13.13.13.13. Ref.",
+      "tune": "RS 385"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "DOULANEIC, ASEIC, TINGSAENGZAENG",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Lwm rapna laa nuhmei chamv he adih kamv gay cho!",
+            "“Doulaneic, aseic, tingsaengzaeng Jisu nchamc e!”",
+            "Paapc phunghmei ta kuaklou bam e, naumei tiigay e;",
+            "Zaengsiimei ta tiineihlaa e, pwanzingh khaam ngam e.",
+            "",
+            "“Doulaneic, aseic, tingsaeng- zaeng Jisu nchamc e!”",
+            "Ramh guayna kalaic e Jisu thu kalaih mak ge,",
+            "Kazanc hym daic diu!",
+            "Kazanc hym daic diu!",
+            "Ramh guay kumc Jisu kalaih mak,",
+            "Kazanc hym daic diu!",
+            "",
+            "2 Jisu paapc phunghmei nunc Pam e, paapc mei ta phu e;",
+            "Paapc mei lunghlaicna kalum o, ney o, khuksunna;",
+            "Jisu saa e: “Tii ’khuai lak e, paapc taanc dat ri tho!”",
+            "Kuakloupui lat ’taw nic saa e, reynungc saa kan kumc.",
+            "",
+            "3 Dui kamuatcmei duipui chung khou tatmei pu hei #^7,",
+            "Galili khou kumc ’niu khou nic pwanzingh khaam ngam e;",
+            "Gethsamani khou kapna huayney kanmei pu #^7,",
+            "Aniu ryanra akhaengv ’khavna phungc ’duanghlou bam e.",
+            "",
+            "4 Emma-u thangc tatmei nunc lev Kamei tat ’chamc kumc,",
+            "Panty chaenglwan khou hei ’niu lev tat ’chamcna bam e;",
+            "Muangh khou ku kanmei Jisu 7}$ ’niu how nuangc ni the;",
+            "Pou Jisu key katumclou tho, aniw huay bam e!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Rev. A.B.Simpson",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "6/8",
+        "13.13.13.13. Ref.",
+        "RS 385",
+        "Rev. A.B.Simpson",
+        "Lwm rapna laa nuhmei chamv",
+        "Yesterday, Today, Forever",
+        "source hymn 129",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 129."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "DOULANEIC, ASEIC, TINGSAENGZAENG",
+        "titleRongmei": "DOULANEIC, ASEIC, TINGSAENGZAENG",
+        "titleEnglish": "Rev. A.B.Simpson"
+      }
+    }
+  }
+}

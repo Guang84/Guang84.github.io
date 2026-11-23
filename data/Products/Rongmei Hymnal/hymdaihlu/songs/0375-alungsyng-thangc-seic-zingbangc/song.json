@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0375",
+    "number": 375,
+    "source": {
+      "printedNumber": 375,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. W.D. Cornell",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/8",
+      "meter": "12.9.12.9. Ref.",
+      "tune": "SS 658"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Alungsyng thangc ’seic zingbangc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Alungsyng thangc ’seic zingbangc lu gaymei guang e;",
+            "Lu khwan 5^& kida nuhmei lu maek;",
+            "Kauh lu khwan kumhmei nuh gay khwan 5^& ^&5 phungc guang,",
+            "Taek makna chuzaenghmei alung khou.",
+            "",
+            "Chuzaengh! Ch’rynmei chuzaengh!",
+            "Pu ^&5 kauh thangc ^&5 tiikeymei hei!",
+            "Ai huay e, tingsaengh alung khou bamlou o;",
+            "Kasyng maekmei zauzian paan ^&5.",
+            "",
+            "2 Alungsyng khou nai bammei chuzaenghmei khou hei,",
+            "Adihkamv ’thukmei lanv daih nai cho?",
+            "Mi ti hei ramh baihmei ^&5 sw ’maan dat lak khe,",
+            "Nganv makmei kaganv ^&5 tat bam khou.",
+            "",
+            "3 Ch’rynmei chuzaenghmei khou hei ai zaeng ’thaek bam e,",
+            "Jisu ramgaeklou khou kwmlouna;",
+            "Zingbangc kalaanv siimei khou ^&5ata gaeklou,",
+            "Kahymdai ^&5 alung padiklou.",
+            "",
+            "4 Chuzaenghmei kaidai khou ai guang tanghpui nungc kiu,",
+            "Kaipouc ta howna zaenggay ni the,",
+            "Thuakloumei nunc ^&5 suan nimei lu pangc khou kiu,",
+            "Heipui lu hei nic suan puni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Peace! Wonderful Peace!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/8",
+        "12.9.12.9. Ref.",
+        "SS 658",
+        "Rev. W.D. Cornell",
+        "CHUZAENGH! CH’RYNMEI!",
+        "Peace! Wonderful Peace!",
+        "source hymn 375",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 375."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Alungsyng thangc ’seic zingbangc",
+        "titleRongmei": "Alungsyng thangc ’seic zingbangc",
+        "titleEnglish": "Peace! Wonderful Peace!"
+      }
+    }
+  }
+}

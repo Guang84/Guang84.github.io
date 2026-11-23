@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-076",
+    "number": 76,
+    "source": {
+      "printedNumber": 76,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Ravguangc Nang Ramzian hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          76 He Ravguangc Nang Ramzian Hei",
+            "                       10.10.11. 10.Ref. 10.11.10. 10",
+            "          Doh hei D",
+            "",
+            "          1. He Ravguangc Nang ram zian hei ch'ryn dyng e,",
+            "             Tampypeic sw khang nang rui ata damclou.",
+            "             Tamzanh thaymei pui sw diu khang tilou o;",
+            "             Ai ramh khatsihnic thay mak ge Ravguangc.",
+            "",
+            "                  Nang suaihiam sing chakna ai lungc bam ni.",
+            "                  Nang tuang nyngtyng gaymei akhou tiilou o;",
+            "                  Khristian kaikhunc ramgai lungc lyan ngam khang,",
+            "                  He Ravguangc Nang suaihiam tiikeylou o.",
+            "",
+            "          2. Kaikhunh khou nchu nzaenghna lungh khang,",
+            "             Ravchap tatmei pui swna lungc lyan ngam khang,",
+            "             Ravguangc kahawmei panty khou lungc diu khang,",
+            "             Ravguangc khang tipat thayna lungc diu khang.",
+            "",
+            "          3. Ravguangc, phaysuyna lungclou khwan sihnic.",
+            "             Ngalanc guang e akhuay guay kuaklou diu khang.",
+            "             Tingsaeng Nang siamruai sw dat khang laalou o.",
+            "             Tingsaeng neihlaamei panty khou lungh khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Ravguangc Nang Ramzian hei"
+      }
+    }
+  }
+}

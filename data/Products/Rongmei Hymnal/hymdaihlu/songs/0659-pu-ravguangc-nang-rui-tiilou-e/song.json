@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0659",
+    "number": 659,
+    "source": {
+      "printedNumber": 659,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "L.M.",
+      "tune": "CW 600"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pu Ravguangc Nang rui tiilou e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Pu Ravguangc, Nang <~1 tiilou e,",
+            "’Thuihmei zianmei meic guayna",
+            "khang;",
+            "’Niw thuancku e, aniw guay khang,",
+            "Heizumei suaihiam tiimei khang.",
+            "",
+            "2 Kaikhunh suaihiam khang",
+            "thuancku e,",
+            "Pui ramzian lev pu ramkadan,",
+            "Ruprian nunc lev ’chamloumei nunc,",
+            "’Niw lev puatrith phungc",
+            "’chamcmei khang.",
+            "",
+            "3 How khang ’niw mik, chu khang nukuanc,",
+            "’Khavlou khang baanhpwam",
+            "tiiloumei,",
+            "Puatrith phungh khang boukhuak tanhmei,",
+            "Phay-baanh ’thuihmei khang",
+            "thuancku e.",
+            "",
+            "4 Pingmei ta ngammei ramlum khang,",
+            "Zianthaymei lung tiiloumei khang,",
+            "Taanh khang pumtan, bauhmei",
+            "lung khang,",
+            "Ramh guay Kaipouc, Nang ta thuanc e.",
+            "",
+            "John H.Holmes"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O Father, Thou Who Givest All",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "L.M.",
+        "CW 600",
+        "O Father, Thou Who Givest All",
+        "source hymn 659",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 659."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pu Ravguangc Nang rui tiilou e",
+        "titleRongmei": "Pu Ravguangc Nang rui tiilou e",
+        "titleEnglish": "O Father, Thou Who Givest All"
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-180",
+    "number": 180,
+    "source": {
+      "printedNumber": 180,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubaomei khuan tei nking o Kandimei guai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Poubaomei khuan tei nking o Kandimei guai le;",
+            "Kamei guangnipui gan tang the Aniu ta lakhang.",
+            "",
+            "Guang puthe, guang puthe",
+            "Muang rukhou dung lana",
+            "Himdaina keimei hou puni the.",
+            "",
+            "2. Kakhou lumloumei guai nata Lathau kanpui tang",
+            "Loudumei maansei guai tei mu Mansuang puni the.",
+            "",
+            "3. Rianramei maikuam lung khou tei Tingkum ching akha",
+            "Tingsaeng rianra na khaeng puni, Lumlou makmei guai.",
+            "",
+            "4. Kakhou lumloumei guai tei mu Neikum gaan puni;",
+            "Neilamei kimdat pulak khe Poubaomei hukhou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 180",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 180. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubaomei khuan tei nking o Kandimei guai",
+        "titleRongmei": "Poubaomei khuan tei nking o Kandimei guai"
+      }
+    }
+  }
+}

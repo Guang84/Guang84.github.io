@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0695",
+    "number": 695,
+    "source": {
+      "printedNumber": 695,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous.",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "C.M. D.",
+      "tune": "CW 316"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai ning e p’ry guangc gaymei tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Takmei <~1 kaningting phungc guang,",
+            "Naimei <~1 lanv phungc guang,",
+            "Gaanv saekc <~1 kaniw tuang saeng-dai,",
+            "Pumtan, pumhgay phungc guang;",
+            "’Niu nic ’niu tuang lanv gay liangmei",
+            "Guangh khang phungc guang nii e,",
+            "’Niu khou lanv lev ningting maek ge;",
+            "Tabui katlou kho cho?",
+            "",
+            "2 Zianmei lung Kakhou phungcguang ni,",
+            "Thuanckumei lung tii ni,",
+            "’Thanmei chaeng khou ’niu tat ngam khang,",
+            "Niamhna ’niu karamc ni.",
+            "Hei guay hei the ’niu tuang lanv kiu,",
+            "Guangh khou kat nimei kiu;",
+            "Lungcsii liangmei nac <~1 sihni",
+            "Mi hei katlou ngam e.",
+            "",
+            "3 ’Niu thouc kamung guay phungc guang ni,",
+            "Tingmik kathuic thouc 1<~;",
+            "Kata tiipian khang karamc ni,",
+            "Kai khou, school khou, rwan khou;",
+            "Mi hei gay ranvmei lanv kiu e,",
+            "’Niu Guangc khang katlou khang;",
+            "Alauc <~1 nganv phungc guang ngam e,",
+            "Lanv daih suangc ’thuk diang e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Wise May Bring Their Learning",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "C.M. D.",
+        "CW 316",
+        "Anonymous.",
+        "The Wise May Bring Their Learning",
+        "source hymn 695",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 695."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai ning e p’ry guangc gaymei tei",
+        "titleRongmei": "Ai ning e p’ry guangc gaymei tei",
+        "titleEnglish": "The Wise May Bring Their Learning"
+      }
+    }
+  }
+}

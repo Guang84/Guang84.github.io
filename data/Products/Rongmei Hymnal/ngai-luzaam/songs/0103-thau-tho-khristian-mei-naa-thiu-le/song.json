@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-103",
+    "number": 103,
+    "source": {
+      "printedNumber": 103,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thau tho khristian mei naa thiu le",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Thau tho khristian mei naa thiu le,",
+            "Kaganv mak khe zipsaeng bam khang",
+            "Mbaan puat ta ganhlou ngamma",
+            "Bumaeng ring nimei chaeng phu tho.",
+            "",
+            "Ai kahau makge meinun ram neihla ta",
+            "Ravguangc rui na kauna bam khou",
+            "Simei taan guay ganlou ngamma",
+            "Taan tho nang bumaeng ringkhang tei.",
+            "",
+            "2. Kaganv mak khe champan thiu le",
+            "Heidii duimei panti lung khou",
+            "Rianra rianriu mei guai khaenga",
+            "Taantho nang bumaeng ringkhang tei.",
+            "",
+            "3. Khoutei lumlou makmei guay mw",
+            "Tingkao thanmei nun hu khoutei",
+            "Theimei rui kaniu phaan suna",
+            "Rianra rianriu khaeng puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 103",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 8.8.8.8."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 103. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 126,
+        "match": "title-match-0.93"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thau tho khristian mei naa thiu le",
+        "titleRongmei": "Thau tho khristian mei naa thiu le"
+      }
+    }
+  }
+}

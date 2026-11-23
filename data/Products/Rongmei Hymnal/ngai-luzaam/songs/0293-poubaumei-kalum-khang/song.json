@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-191",
+    "number": 293,
+    "source": {
+      "printedNumber": 191,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "6.6.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubaumei kalum khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Poubaumei kalum khang,",
+            "Guang kariu bam khou hei;",
+            "Nangjao kari nthei lou rio,",
+            "Aniu nkhuai sini.",
+            "",
+            "2. Ai nkhuaimei guai,",
+            "Nang hukhou phung guang e;",
+            "Tiduaklou khang le khiu than khang,",
+            "Nang khou njuan guang e.",
+            "",
+            "3. Aram khuai phu ngam mak,",
+            "Ata ti than khang hei;",
+            "Kumsini nang jaujian thaimei,",
+            "Timan lou o nang ({0.",
+            "",
+            "4. Hei kumma neimei hei,",
+            "Lalu o poubaumei;",
+            "Kandih lungning guai timan o,",
+            "Ti o lungning gaimei.",
+            "",
+            "5. Raguang ta kalummei guai,",
+            "Suaihiam gaimei latou;",
+            "Thei pukhou tingjkauh thang lungni,",
+            "Tingkauh thanmei nun le."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 191",
+        "SQLite BookTypeID 2",
+        "Key: A",
+        "Meter: 6.6.8.6.",
+        "Chord: A",
+        "Meta 3: 6.6.8.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 191); no high-confidence title match was found in the PDF list. The digital catalogue number is 293; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 191,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubaumei kalum khang",
+        "titleRongmei": "Poubaumei kalum khang"
+      }
+    }
+  }
+}

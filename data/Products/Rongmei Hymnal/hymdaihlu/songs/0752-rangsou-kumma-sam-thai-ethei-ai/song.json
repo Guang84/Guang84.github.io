@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0752",
+    "number": 752,
+    "source": {
+      "printedNumber": 752,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.9.9.9.",
+      "tune": "Kalum Luh 53:6"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Rangsou kumma sam thai ethei ai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Rangsou kumma samthai ethei ai,",
+            "Poubaumei thei pui ching jao tat ni;",
+            "Hei khou 7#@ kanloumei 7#@ hou ni,",
+            "Jeih kumma talandui pat mei 7#@,",
+            "Jianmei phei nuai rui thut nthan ni.",
+            "",
+            "Chorus:",
+            "He kalvari (2)",
+            "Nang rukhou guang hin binlou the;",
+            "Thao lana hianmei 7#@ sat pat ro,",
+            "Kajeih luang keimei thut nthan no.",
+            "",
+            "2. Kidron dui le nangni thao lana,",
+            "Nang pou tari meita tijang tio;",
+            "Joukhiang rui tari kim pulak khe,",
+            "Tatna kajan nthanmei bam khou,",
+            "Nchu njanga dui tijang o.",
+            "",
+            "3. Ata ninga tari tuang ethei,",
+            "Kidron dui le tuna kao ethei;",
+            "Hei khou 7#@ tijang lou ni tuang e,",
+            "Nangta ninga tari pui tuang e,",
+            "Abumang tat na dui tijang o.",
+            "",
+            "4. Ai tat sini bui tuang sulou ni,",
+            "Poubaumei tari kim dui khang 7#@;",
+            "Airui ram khat sini thai makge,",
+            "Tat mu tat ni the kalvari thang,",
+            "Kajeih luang keimei sini thutni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "9.9.9.9.9.",
+        "Kalum Luh 53:6",
+        "Rangsou kumma sam thai ethei ai",
+        "source hymn 22",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 22."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Rangsou kumma sam thai ethei ai",
+        "titleRongmei": "Rangsou kumma sam thai ethei ai",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

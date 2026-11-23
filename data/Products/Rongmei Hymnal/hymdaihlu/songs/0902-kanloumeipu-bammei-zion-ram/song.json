@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0902",
+    "number": 902,
+    "source": {
+      "printedNumber": 902,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "Irregular",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kanloumeipu bammei Zion ram",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kanloumeipu bammei Zion ramgai,",
+            "Achun sinung ai ning touna ainiBam khang ninge;",
+            "Kandih khou pui-pu lun thai mak,",
+            "Kandih khou kiruai kum rianra sini,",
+            "Ninge nang thuk pui jei.",
+            "",
+            "2. Ai jip chiang thao pui-pu lun thai maknga,",
+            "Mikdui !-2 noudui phan sunaLung hei padik bam;",
+            "Khou-mang pui-pu lun thai mak kum,",
+            "Jangsi mikdui luangmei !-2 duan suna,",
+            "Achun sina ai kap.",
+            "",
+            "3. Thou !-2 ata kanah kao lou nicho?",
+            "Ai puai tatna apui ta kaokiDaoloumei makge;",
+            "Abunga samei khuan tei,",
+            "Apui khuan suna ai phu guang sini,",
+            "Ata puang lou mak ge.",
+            "",
+            "4. Apui ata nban khou puan lou ki,",
+            "Ai kap khou sumloumei makngaBui thang tat kan tu cho?",
+            "Ai lat luna kapmei mikdui,",
+            "Roulou nimei makge kandih khouhei,",
+            "Dap tari kim mak ge."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "Irregular",
+        "Kanloumeipu bammei Zion ram",
+        "source hymn 172",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 172."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kanloumeipu bammei Zion ram",
+        "titleRongmei": "Kanloumeipu bammei Zion ram"
+      }
+    }
+  }
+}

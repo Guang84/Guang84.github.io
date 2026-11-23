@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0655",
+    "number": 655,
+    "source": {
+      "printedNumber": 655,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Dorothy F.Gurney",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10.",
+      "tune": "HLC 529"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HE ’THUIHMEI ZIANMEI MAANSEI THAY",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He ’thuihmei ’zianmei, maansei thay tangc lakmei",
+            "Nang bamvpaeng hu khou khuksunna ney e;",
+            "Mi nei ramzian hei mut makmei sw kan diu,",
+            "Nang )}3 suamloumei tampy thanh khou hei.",
+            "",
+            "2 He Ringhmei Bangbi, mi nei khang hei Nang )}3,",
+            "’Zaenghmei, zianthaymei, lwmmei tiilou o;",
+            "Bauhmei machunhmei,",
+            "khaengvsaenghmei tiilou o;",
+            "Theic-suc ping makmei ramlum tiilou o.",
+            "",
+            "3 Nang tuang neihlaa )}3 dih ryanra tii-’maan diu,",
+            "Nang tuang ’chu-’zaengh )}3 katuakcmei swm diu;",
+            "Kaney ringcting khou gay ranvmei guang nimei,",
+            "Tingsaeng hymdaihmei panty ta ning diu.",
+            "",
+            "4 He zianthaymei pu, kuaklou thaymei Kaipouc,",
+            "’Niw )}3 huaymei hei Nang )}3 chulou diu,",
+            "Mi tampy thanh khou Nang )}3 suaicsamclou tho,",
+            "Pu, Nah, Bumaengh ’Thanmei zanc khou ney e. A-men."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O Perfect Love",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "11.10.11.10.",
+        "HLC 529",
+        "Dorothy F.Gurney",
+        "O Perfect Love",
+        "source hymn 655",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 655."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HE ’THUIHMEI ZIANMEI MAANSEI THAY",
+        "titleRongmei": "HE ’THUIHMEI ZIANMEI MAANSEI THAY",
+        "titleEnglish": "O Perfect Love"
+      }
+    }
+  }
+}

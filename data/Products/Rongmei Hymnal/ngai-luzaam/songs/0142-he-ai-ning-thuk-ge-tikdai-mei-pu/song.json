@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-142",
+    "number": 142,
+    "source": {
+      "printedNumber": 142,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He! Ai ning thuk ge tikdai mei pu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He! Ai ning thuk ge tik daimei pu,",
+            "Nthanmei guai bampui ram tei;",
+            "Ram gai khou tei bam mei guai rui,",
+            "Rian ramei thai makge, kap khang tei ning makge.",
+            "Zianmei alau guay kum neih lana bam kan the.",
+            "",
+            "Kandi hei lani mak,",
+            "Loudu kan the handat ni mak,",
+            "Kaniu njuan pui ram tei nei lana tang the.",
+            "",
+            "2. Ai hei tabui nung guang tang ni cho?",
+            "Tuna ai rui ning tan makge;",
+            "Kap mak khang tei ai rui nu mak,",
+            "Kaniu bam pui ram le kaniu lung pui ram tei,",
+            "Tingkao ramgai ninga kapmak khang tei nu mak.",
+            "",
+            "3. Ai hei mu He! Raguangh nthan mei,",
+            "Nang rui kandi khou hei patlou;",
+            "Kapma rian rana ai bam e,",
+            "Rianra pui kandi khou nangta ning tan makge.",
+            "Ata muhlou rio ryanra mei nah ata."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 142",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 142. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He! Ai ning thuk ge tikdai mei pu",
+        "titleRongmei": "He! Ai ning thuk ge tikdai mei pu"
+      }
+    }
+  }
+}

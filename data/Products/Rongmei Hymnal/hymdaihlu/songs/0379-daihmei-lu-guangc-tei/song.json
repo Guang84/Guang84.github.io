@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0379",
+    "number": 379,
+    "source": {
+      "printedNumber": 379,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "13.8.13.8. Ref.",
+      "tune": "RS 35"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Daihmei lu guangc tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Daihmei lu guangc 8^& aniu suan kim nii zat mak ge;",
+            "Ravguangc hym daic, Hallelujah!",
+            "Aniu ramlum daicthaumei lev lu heisuan ranv ni;",
+            "Ravguangc hym daic Hallelujah!",
+            "",
+            "He Pu Ravguangc nac thiule,",
+            "Lu hei kauc ranvna suan kho,",
+            "Chaeng hei gaanc gayna bam the,",
+            "’Niu bumaengc hei samc thau the,",
+            "Khith khitna ’niu tat gut re,",
+            "Guangh kaidai thangc 8^& ’zwanna!",
+            "Ravguangc hym daic,Hallelujah!",
+            "",
+            "2 Thuakloumei zauzian tuang",
+            "neihlaa khou aniu bam e,",
+            "Ravguangc hym daic, Hallelujah!",
+            "Neihlaa swkaeng ^&8 chyngtwan",
+            "ku khang ’niu samc ku e,",
+            "Ravguangc hym daic, Hallelujah!",
+            "",
+            "3 Kaphut ^&8 kasiamhmei kaidai thang ’niu tat bam e,",
+            "Ravguangc hym daic, Hallelujah!",
+            "Tik gunc daicna Guangh ^&8 bammei ’niu how nuangc ni the,",
+            "Ravguangc hym daic, Hallelujah!",
+            "",
+            "4 Khou 8^& thuakloumei lu thanh ’niu neihlaana kauc ni,",
+            "Ravguangc hym daic, Hallelujah!",
+            "Jisu thuanhpui lu thanh 8^&",
+            "’thanmei nunc lev suan ni,",
+            "Ravguangc hym daic, Hallelujah!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Glory to God, Hallelujah!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "13.8.13.8. Ref.",
+        "RS 35",
+        "Fanny J. Crosby",
+        "He Pu Ravguangc nac thiule",
+        "RAVGUANG C HYMDAIH HALLEUJAH!",
+        "Glory to God, Hallelujah!",
+        "source hymn 379",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 379."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Daihmei lu guangc tei",
+        "titleRongmei": "Daihmei lu guangc tei",
+        "titleEnglish": "Glory to God, Hallelujah!"
+      }
+    }
+  }
+}

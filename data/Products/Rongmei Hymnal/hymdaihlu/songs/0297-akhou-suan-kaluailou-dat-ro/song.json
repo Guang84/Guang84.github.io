@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0297",
+    "number": 297,
+    "source": {
+      "printedNumber": 297,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "P.P. Bliss",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8.6.6.6. Ref.",
+      "tune": "SS 357"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Akhou suan kaluailou dat ro",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Akhou suan kaluaihlou dat ro,",
+            "Ch’rynmei Ringhmei Lat 1<:!",
+            "Karamgai tiithay ’bulou o,",
+            "Ch’rynmei Ringhmei Lat 1<:,",
+            "He Ringhmei, Gaymei Lat,",
+            "Lwmmei taanv dinclou o!",
+            "",
+            "Gay liangmei Lat! Ch’ryn liangmei Lat!",
+            "Gay liang ch’ryn liangmei Lat!",
+            "Gay liangmei Lat! Ch’ryn liangmei Lat!",
+            "Ch’ryn liangmei Ringhmei Lat!",
+            "",
+            "2 Guigaymei Khrista {:1 tii e,",
+            "Ch’rynmei Ringhmei Lat {:1!",
+            "He paapc mei, kawmei kiu ’king o,",
+            "Ch’rynmei Ringhmei Lat 1<:!",
+            "Ramh guay nsa tiina",
+            "Tingkauh ku khang zaengv bam.",
+            "",
+            "3 Gaychamv kaeng hei kagaengv bam e!",
+            "Ch’rynmei Ringhmei Lat 1<:!",
+            "Kuakloumei, chuzaenghmei tii e,",
+            "Ch’rynmei Ringhmei Lat {:1!",
+            "Jisu na {:1 gulou,",
+            "’Than suang khang tiiswlou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Wonderful Words of Life!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/8",
+        "8.6.8.6.6.6. Ref.",
+        "SS 357",
+        "P.P. Bliss",
+        "CH’RINYMEI RINGHMEI LAT",
+        "Wonderful Words of Life!",
+        "source hymn 297",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 297."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Akhou suan kaluailou dat ro",
+        "titleRongmei": "Akhou suan kaluailou dat ro",
+        "titleEnglish": "Wonderful Words of Life!"
+      }
+    }
+  }
+}

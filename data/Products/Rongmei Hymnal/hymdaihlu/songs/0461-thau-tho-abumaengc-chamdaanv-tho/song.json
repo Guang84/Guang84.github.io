@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0461",
+    "number": 461,
+    "source": {
+      "printedNumber": 461,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Philip Doddridge",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "C.M. Repeats.",
+      "tune": "HLC 454"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thau tho, abumaengc chamdaanv tho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thau tho, abumaengc chamdaanv tho,",
+            "Hu thangc baucna gut tho,",
+            "Tun kazauhna kauh chaeng pak tho,",
+            "Rihngam pyrun laa khang. (2)",
+            "",
+            "2 Sakhi <~1 muangh kumc bam ’kuay e,",
+            "Nang ta kachui bam the,",
+            "Thei thangc guay ta amuc ngam tho,",
+            "Hu biak thangc tat gut tho. (2)",
+            "",
+            "3 ’King o, Ravguangc <~1 kauh thangc <~1",
+            "Nang ta kachui bam the;",
+            "Kabaanc kahak <~1 swan tii ni",
+            "Nang machunh bammei 1<~. (2)",
+            "",
+            "4 He Gumeipu, Nang lyanlou kumc",
+            "Achaenglwan pak thau the;",
+            "Rihngam guangna Nang phaypav khou",
+            "Aswan guay katlou ni. (2)"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Awake, My Soul,",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "C.M. Repeats.",
+        "HLC 454",
+        "Philip Doddridge",
+        "Awake, My Soul,",
+        "source hymn 461",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 461."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thau tho, abumaengc chamdaanv tho",
+        "titleRongmei": "Thau tho, abumaengc chamdaanv tho",
+        "titleEnglish": "Awake, My Soul,"
+      }
+    }
+  }
+}

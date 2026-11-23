@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0295",
+    "number": 295,
+    "source": {
+      "printedNumber": 295,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Source Unknown",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "GSC 240"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang lat tei ai zian e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc Lat hei nchumhmei e,",
+            "Meic lung tiineihlaa e;",
+            "Poubauhmei latdanv hei ’than e,",
+            "Gaanhmei tiihowlou e. 2",
+            "",
+            "Nang Lat ta ai zian e,",
+            "Nang Lat ta ai zian e,",
+            "Neihmaryn mi khou hei ai makumh e;",
+            "Nang Lat ta ai zian e,",
+            "Nang Lat ta ai zian e,",
+            "Neihmaryn mi khou hei ai makumh e.",
+            "",
+            "2 Ravguangc ta pingmei hei ’thuih e,",
+            "Tingsaeng kachac lak khe,",
+            "Poubauhmei latzan ’thuihmei e,",
+            "’Twnmei khou zaylou e.",
+            "",
+            "3 Kachaekc kaphut suangc kunghmei e,",
+            "Ning ’thukna sin khang e;",
+            "’Khuaihbou khou )}3 nzuk keymei",
+            "’Khuaihdui suangc ’deih ranv e.",
+            "",
+            "4 Akumhna lungc ni cho twmei",
+            "Kabangc ta ’chamlou e,",
+            "Kalatdanv piupuimei guay khang",
+            "Swan daih chamdaanvlou e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Statutes of the Lord!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "6/8",
+        "8.6.8.6. Ref.",
+        "GSC 240",
+        "Source Unknown",
+        "Ravguangc lat hei nchumhmei e",
+        "The Statutes of the Lord!",
+        "source hymn 295",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 295."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang lat tei ai zian e",
+        "titleRongmei": "Nang lat tei ai zian e",
+        "titleEnglish": "The Statutes of the Lord!"
+      }
+    }
+  }
+}

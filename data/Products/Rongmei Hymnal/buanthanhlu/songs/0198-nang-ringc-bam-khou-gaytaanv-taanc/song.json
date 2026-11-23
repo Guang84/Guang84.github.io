@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-198",
+    "number": 198,
+    "source": {
+      "printedNumber": 198,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang Ringc Bam khou Gaytaanv Taanc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          198 Nang Ringc Bam khou Gaytaanv Taanc o",
+            "                                8.8.7.6.Ref. 9.7.7. 6",
+            "          Doh hei D",
+            "",
+            "          1. Nang ringc bam khou gaytaanv taanc o;",
+            "             Kaganv maek khe katumc la tho.",
+            "             Thow kumhmei rui panty luai-",
+            "             Pwkhou lungh niuc pwni.",
+            "",
+            "                  Thei han datna bammei guay thiu le,",
+            "                  Nang hu thangc zauc pat dat ro;",
+            "                  Nang hu khou cross ding bam e;",
+            "                  Zaucna huayney dat ro.",
+            "",
+            "          2. Nang tingsaengcna maeng tat sihnic,",
+            "             Hanguang dat ro laalou pwni;",
+            "             Nang khang aseic hei di the,",
+            "             Laalou nuhpui ganv kiu.",
+            "",
+            "          3. Aseic nang tuang e nthuanh thu",
+            "             Ravguangc tuang di the zianmei nunc.",
+            "             Nang paap tei haengc bam sihnic,",
+            "             Gunh kumc tiphwanlou ni.",
+            "",
+            "          4. Kaganv 'twan mak khou guang la tho,",
+            "             Nang ta 'zianna kawna bam the.",
+            "             Tingkauh thangc rui kauckey e:",
+            "             Kaganv maek khe twna."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang Ringc Bam khou Gaytaanv Taanc"
+      }
+    }
+  }
+}

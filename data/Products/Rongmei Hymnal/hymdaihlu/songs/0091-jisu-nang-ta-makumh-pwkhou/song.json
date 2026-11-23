@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0091",
+    "number": 91,
+    "source": {
+      "printedNumber": 91,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Bernard of Clairvaux",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.6.8.6.",
+      "tune": "SS 60"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu Nang ta makumh pwkhou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu, Nang ta makumh pwkhou,",
+            "Lungh neihlaa padik ge;",
+            "Nang zaw howmei gay ranv diangc e,",
+            "Nang hu khou zaeng swmei.",
+            "",
+            "2 Khwan lev lung ^&8 suan tangc thuih lak,",
+            "Makumh pat thuih lak e,",
+            "Nang zanc suangc nuh gay dianghmei khwan,",
+            "He Guloumeipule!",
+            "",
+            "3 He lungh bakmei khang machunhmei!",
+            "He niamhmei nunc neihlaa!",
+            "Bowmei ta Nang adih zianlou!",
+            "Phumei khang suaihiam lou.",
+            "",
+            "4 Phutowmei nunc khang mu Nang hei",
+            "Ch’rynmei suaihiam kiu e!",
+            "Jisu ramzian tuang thukh hei mu",
+            "Kamei nunc na thay e.",
+            "",
+            "5 Jisu, Nang na de ’niw neihlaa,",
+            "Nang aniw thuanh sw diu!",
+            "Nang hei aniw hymdaih sw diu!",
+            "’Taw nic, tingsaengzaengna."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus, the very Thought of Thee",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "3/4",
+        "8.6.8.6.",
+        "SS 60",
+        "Bernard of Clairvaux",
+        "Jesus, the very Thought of Thee",
+        "source hymn 91",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 91."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu Nang ta makumh pwkhou",
+        "titleRongmei": "Jisu Nang ta makumh pwkhou",
+        "titleEnglish": "Jesus, the very Thought of Thee"
+      }
+    }
+  }
+}

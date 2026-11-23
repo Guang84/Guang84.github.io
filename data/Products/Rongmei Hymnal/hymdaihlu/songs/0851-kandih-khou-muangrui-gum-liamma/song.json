@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0851",
+    "number": 851,
+    "source": {
+      "printedNumber": 851,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou muangrui gum liamma",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih khou muang#!7 gum liamma,",
+            "Rianrmei kasu bang khou lou;",
+            "Rianramei le jingmei khou hei,",
+            "Theimei #!7 kasu bang khou lou.",
+            "",
+            "",
+            "He rianra e, he rianra e,",
+            "Pap #!7 rih dailiang e;",
+            "Kalvari khou thei loumei tei,",
+            "Sangam maknga ningtan makge.",
+            "",
+            "2. Poubaumei le kandih ram khou,",
+            "Thou cho rih su tat nimei kiu?",
+            "Tingkau bumang #!7 than bamma,",
+            "Ai tat ni the suthan lou khang.",
+            "",
+            "He neila e, he neila e,",
+            "Gospel phung guang meita;",
+            "Nthuk pui pari phung guang mei tei,",
+            "Phung guang mei tan hei gai dinge.",
+            "",
+            "3. Pap le jingmei tei tat kan the,",
+            "Pap le jingmei khou bammei nun;",
+            "Bethlehem munpuang guang dat ro,",
+            "Jubili kang khuan kahao e.",
+            "",
+            "Halleluijah, halleluijah,",
+            "Rianramei rih man the;",
+            "Thuaihian liangmei poubaumei le,",
+            "Nthuk pui pari tei gailiang e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "8.8.8.8.",
+        "Kandih khou muangrui gum liamma",
+        "source hymn 121",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 121."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou muangrui gum liamma",
+        "titleRongmei": "Kandih khou muangrui gum liamma"
+      }
+    }
+  }
+}

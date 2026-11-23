@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-181",
+    "number": 181,
+    "source": {
+      "printedNumber": 181,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkaomei guai ningtou pukhou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Tingkaomei guai ningtou pukhou",
+            "Poubaomei Jisu daeng khou mu",
+            "Ndaap tarimei nai lak khe",
+            "Tingkao ram tang pukhou.",
+            "",
+            "2. Apu Raguang ai zipthau kum",
+            "Lung rianramei mankhang thaimak;",
+            "Ai bammei kandi khou hei mu",
+            "Nuipat khang ni makge,",
+            "Nuipat khang ni makge.",
+            "",
+            "3. Apoubaomei ai bammei hei",
+            "Lungning rianrapui ram rana;",
+            "Thiammei kandi pap ram dei e",
+            "Lung baanthai khang makge,",
+            "Lung baanthai khang makge.",
+            "",
+            "4. Jisu akhang kasiampui ram,",
+            "Tabui nung rui guangtang nicho?",
+            "Ai ningbam khou tang e thei mu",
+            "Lung rianra dat lak khe,",
+            "Lung rianra dat lak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 181",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 181. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkaomei guai ningtou pukhou",
+        "titleRongmei": "Tingkaomei guai ningtou pukhou"
+      }
+    }
+  }
+}

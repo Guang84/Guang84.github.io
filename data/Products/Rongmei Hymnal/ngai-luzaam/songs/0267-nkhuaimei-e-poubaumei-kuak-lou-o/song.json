@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-131",
+    "number": 267,
+    "source": {
+      "printedNumber": 131,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "10.6.4.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nkhuaimei e poubaumei kuak lou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nkhuaimei e poubaumei kuak lou o,",
+            "Ai lunglai na guang e;",
+            "Nang phai bang khou.",
+            "",
+            "Chorus:",
+            "Adang khou bam makge thei,",
+            "Kandih ai thei pui bam;",
+            "Nang phai bang khou.",
+            "",
+            "2. Baimei gaimei mak ge,",
+            "Kandih khou hei ,",
+            "Ntao nang khuan chuna ai guang datthe.",
+            "",
+            "3. Poubaumei le nang %&6,",
+            "Khiu than lou o;",
+            "Nangta ninga ai%&6 rih hei ngam ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 131",
+        "SQLite BookTypeID 2",
+        "Key: D",
+        "Meter: 10.6.4.",
+        "Chord: D",
+        "Meta 3: 10.6.4."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 131); no high-confidence title match was found in the PDF list. The digital catalogue number is 267; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 131,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nkhuaimei e poubaumei kuak lou o",
+        "titleRongmei": "Nkhuaimei e poubaumei kuak lou o"
+      }
+    }
+  }
+}

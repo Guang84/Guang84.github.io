@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-174",
+    "number": 174,
+    "source": {
+      "printedNumber": 174,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lwmloumei Nouha rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          174 Lwmloumei Nouha rui",
+            "                        12.10.7. 10.Ref. 9.8.10.10",
+            "          Doh heiD",
+            "          1. Lwmloumei Nouha rui chamdaanvmei tei zauc lo,",
+            "             Paapc tuang duidai tei guang makpui hu khou;",
+            "             Ravguangc lat khou lwmlouna,",
+            "             Paapc tuang duidai tei kaan khang hih ruaic the.",
+            "                  Ntaw ganv khou nic thow kumhmei rui,",
+            "                  Kabumaengc ta nzianmei guay;",
+            "                  Chamdaanv tho Jisu guang makpui hu khou,",
+            "                  Tingkauh Jirusalem khoutei lungh khang.",
+            "",
+            "          2. Poubauhmei Jisu guang pwkhou heic kandic hei,",
+            "             Zy khou gaanv nei rui zipna bam pwni;",
+            "             Lwmmei ta laathau pwni;",
+            "             Lwm makmei ta ganclou ni heic khoutei.",
+            "          3. Poubauhmei Jisu guang pwkhou heic kandic hei,",
+            "             'Tumei gaanvnei rui nap riak bam pwni;",
+            "             Lwmmei ta laathau pwni;",
+            "             Lwmmakmei ta ganclou ni heic khoutei.",
+            "          4. Poubauhmei Jisu guang pwkhou heic kandic hei,",
+            "             Meic gaanvnei rui laupuk khou bam pwni;",
+            "             Lwmmei ta laathau pwni;",
+            "             Lwmmakmei ta ganclou ni heic khoutei.",
+            "",
+            "          5. Poubauhmei Jisu guang pwkhou heic kandic hei,",
+            "             Lwmmei lev lwmmakmei lungc 'chamc ethei,",
+            "             Poubauhmei guang pwkhou kiu,",
+            "             Mi ganv khou kiu kaikhunh ntam pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lwmloumei Nouha rui"
+      }
+    }
+  }
+}

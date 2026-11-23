@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0707",
+    "number": 707,
+    "source": {
+      "printedNumber": 707,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "L.H. Edmunds",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10. Ref.",
+      "tune": "SS 1158"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "GAANHMEI KHOU TATNA",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guloumeipu phaykaamv suih khang karamcna,",
+            "’Niu Guangc Jisu thei lay khang karamcna,",
+            "Kakheiliak #^5 ’niu panty kasiamhlouna,",
+            "Adih gay tu cho, Kakaamv lay kaamhmei!",
+            "",
+            "Guloumeipu phaykaamv lay",
+            "kaamhmei adih gay cho!",
+            "Gaanhmei khou tatna,",
+            "gaanhmei khou tatna,",
+            "Guloumeipu phaykaamv lay",
+            "kaamhmei adih gay cho!",
+            "’Chumhmei chaeng zaylou!",
+            "",
+            "2 ’Niu chaenglwan khou tat biang khang ’thiam guang pwkhou,",
+            "Zayloumeipu daeng khou tat tuanc ranvna,",
+            "Gaeklou ngammei Kabaancpwam tihei lwmna,",
+            "Adih neihlaa cho, Kata thuancku kho!",
+            "",
+            "3 Lwmmei paan #^5 Kaipouc thei ’niu lay tatna",
+            "Tangc nipui bamv thangc khith khitna guangna,",
+            "Aniu Guangc tuang kagai 5#^ howpui nungc kiu,",
+            "Adih neihlaa ni, Kadaeng khou bamna!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Walking in the Light",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "11.10.11.10. Ref.",
+        "SS 1158",
+        "L.H. Edmunds",
+        "Guloumeipu phaykaamv suih khang",
+        "Walking in the Light",
+        "source hymn 707",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 707."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "GAANHMEI KHOU TATNA",
+        "titleRongmei": "GAANHMEI KHOU TATNA",
+        "titleEnglish": "Walking in the Light"
+      }
+    }
+  }
+}

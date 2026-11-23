@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0687",
+    "number": 687,
+    "source": {
+      "printedNumber": 687,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Miss J.Pollard",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.7.12.7. Ref.",
+      "tune": "SS 1127"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NEIHLAA KANG HIW E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neihlaa kaeng hiw e, alauc nunc lu suan bam e,",
+            "Kaniw lu #^7 kachin the;",
+            "Neihlaamei lu khwan #^7,",
+            "zaenggaymei khwanring #^7,",
+            "Lu riang 7}$ tiipadik the.",
+            "",
+            "Neihlaa kaeng khwan hiw nthaekc riu nang tuang kaeng khwan.",
+            "’King o, suan bammei lu khwan, neihlaa kaeng khwan.",
+            "Alauc nuncle, suan ’thaekc riu nangniw lu swan 7}$,",
+            "’King o,suan bammei lu khwan, neihlaa kaeng khwan.",
+            "",
+            "2 Neihlaa kaeng hiw e alauc nunc lu suan bam e,",
+            "’King o, kaniw khwan ranvna,",
+            "Aniu nu khou chu guang bam e, chingkhiuh lu 7}$,",
+            "Tingkauh tuang lu khwan kumc e.",
+            "",
+            "3 Kandih gaanc gay ranv kumc",
+            "lungning neihlaa ranv kumc,",
+            "Kaniw lu khwan gaymei #^7,",
+            "Lungning ryanramei tii ’maanna tiineihlaa e,",
+            "Neihlaana suanmei khwan #^7.",
+            "",
+            "4 Neihlaa lu khwan hei ’naa ranv e, chu ’than ranv e,",
+            "Lungh kadunhmei maek pwkhou,",
+            "Tingpuk hei how gay e, lu hei chu ’than ranv e,",
+            "Neihlaa kaeng khwan kabamv ’thuic."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "12.7.12.7. Ref.",
+        "SS 1127",
+        "Miss J.Pollard",
+        "Joy-Bells",
+        "source hymn 687",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 687."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NEIHLAA KANG HIW E",
+        "titleRongmei": "NEIHLAA KANG HIW E"
+      }
+    }
+  }
+}

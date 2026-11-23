@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-078",
+    "number": 78,
+    "source": {
+      "printedNumber": 78,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Heic Kandic hei Mu Ningsumhpui Kandic e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          78 Heic Kandic Hei Mu Nyngsumhpui Kandic e",
+            "                             11.11.8.8. Ref. 9. 9.9.9",
+            "          Doh hei E",
+            "",
+            "          1. Heic kandic hei mu nyngsumhpui kandic e.",
+            "             Heicpui 'dic ta Jisu ruina gulou the.",
+            "             Kata lwm o neihlaa bam khang.",
+            "             Heic kandic ta damclou khwan e.",
+            "",
+            "                      He lwmlou lak cho nzianmei guay,",
+            "                      Kaganv rui nang ta nkhwan mak ge.",
+            "                      Kaipouc rui nang ta kawna bam khou;",
+            "                      Bumaengh ta nsaa 'rai bam tu cho?",
+            "",
+            "          2. Ravguangc rui 'niw ta baanh zaapna kaw bam e.",
+            "             Bumaengh amaan nimei khourui hanguang o.",
+            "             Mbaanv chwn guay 'patlou ngamna,",
+            "             Bumaengh ringc nimei guay guang o.",
+            "",
+            "          3. Aniw panty mu matat khatna khang de:",
+            "             Kaganv tingmik hei katumcna duiguang the.",
+            "             Baanh zaapna kaw bam khwan sihnic,",
+            "             Kaganv hei ngalanc dat lak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Heic Kandic hei Mu Ningsumhpui Kandic e"
+      }
+    }
+  }
+}

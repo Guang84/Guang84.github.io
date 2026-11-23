@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-098",
+    "number": 98,
+    "source": {
+      "printedNumber": 98,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu Jisu Nang raana de",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          98      Jisu Jisu Nang Raana De",
+            "                           8.7.8.7. Ref. 8. 7",
+            "          Doh hei E",
+            "",
+            "          1. Jisu Jisu Nang raana de",
+            "             Paapc phunghmei ta 'zianloumei",
+            "             Nang mei nunc ta 'zianpui zaengrui",
+            "             Nang zei rui thuak patlou the.",
+            "",
+            "                      Ata thaylou o thaylou o",
+            "                      He Jisu aniu Ravguangc      }2",
+            "",
+            "          2. Nwan phunghmei kandic ruc khouvhei",
+            "             Maansei huayney bam geic e",
+            "             Aniu chwn sii e nang raana",
+            "             Aniu khang ryanraa khaengvlou.",
+            "",
+            "          3. He Jisu Nang Lat piu diuc khang",
+            "             Nang lung gaymei tiilou o",
+            "             Aniu pumtan maekpui zaengrui",
+            "             Nang rui 'niu ta gulou o.",
+            "",
+            "          4. Aniu dui khou Baptais swe",
+            "             Heic tei rui biumei hamh e",
+            "             Bumaengh 'Thanmei Baptais sw khang",
+            "             He Jisu rui tiilou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu Jisu Nang raana de"
+      }
+    }
+  }
+}

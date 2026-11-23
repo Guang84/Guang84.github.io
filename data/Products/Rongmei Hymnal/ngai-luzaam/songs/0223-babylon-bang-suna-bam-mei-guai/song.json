@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-223",
+    "number": 223,
+    "source": {
+      "printedNumber": 223,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Babylon bang suna bam mei guai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Babylon bang suna bam mei guai",
+            "Kapma zion ram ta phang zau lo,",
+            "Rianra mei zaengthaek khang Ravguangc ta ning na kap e",
+            "Ntao mu suaihiam lou di tho.",
+            "",
+            "Zaeng thaek khang zai lou o ]2",
+            "Ning tou na Ravguangc ta kao bam e.",
+            "",
+            "2. Panti puanczing duidai ruh khou hei",
+            "Tingmik thui ai rui ningna huai e",
+            "Tingkao ram guang tang khang neihla na nangta ning e.",
+            "Zianmei guay lung nipui ram tei.",
+            "",
+            "Neila mei zion lu ]2",
+            "Suan na Raguangh ta thuan ku dikho.",
+            "",
+            "3. Kandi ryanra ramc khou ruan tat na",
+            "Kagan thui Gumeipu ta ning e,",
+            "Rianra mei khang na jingpui kandi khou bam san khou",
+            "He araguangh khuan ngam mak ge.",
+            "",
+            "Nang ram than khou lung khang, ]2",
+            "Ning na kandi hei lani mak ge.",
+            "",
+            "4. Rei khou Eden pap zaeng ryanra rui",
+            "Zingmei rui kandi ta guam liam the",
+            "Tingkao neithan patpui Eden namthan gaimei tei",
+            "Alung khou hei ningtan makge.",
+            "",
+            "Guang tang khang Zailou o, ]2",
+            "Phuna Ravguangc ta ai kaobam e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 223",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 223. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Babylon bang suna bam mei guai",
+        "titleRongmei": "Babylon bang suna bam mei guai"
+      }
+    }
+  }
+}

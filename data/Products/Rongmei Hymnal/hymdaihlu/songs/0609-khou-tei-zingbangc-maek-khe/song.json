@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0609",
+    "number": 609,
+    "source": {
+      "printedNumber": 609,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John R.Clements.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "7.6.7.6. Ref.",
+      "tune": "SS 1012"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KHOU TEI ZINGBANGC MAEK KHE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neih key dat makpui ramc khou,",
+            "Namvdai gaymei nai e;",
+            "Kamv datmei nai dat lak khe,",
+            "Khou5^& zingbangc maek khe.",
+            "",
+            "Ravguangc ^&5 mikdui roulou,",
+            "Theihmei, suhmei, pingmei maek;",
+            "Tingkwm sing phuc dat lak khe,",
+            "“Khou5^& zingbangc maek khe.”",
+            "",
+            "2. Raenghkat guay 5^& kangran e,",
+            "Namvdai gaymei khou 5^&;",
+            "Chaengluang guay kachaekc ^&5 sw,",
+            "Khou5^& zingbangc maek khe.",
+            "",
+            "3 Raenghmun 5^& ’bangh zat mak ge,",
+            "Namvdai gaymei khou 5^&;",
+            "Ringhphaeng dui khou5^& luangc e,",
+            "Khou5^& zingbangc maek khe.",
+            "",
+            "4 Neih riw hei kage maek khe,",
+            "Namvdai gaymei khou 5^&;",
+            "Lauziu Nac ^&5 gaanc bam e,",
+            "Khou5^& zingbangc maek khe."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "No Night There",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "3/4",
+        "7.6.7.6. Ref.",
+        "SS 1012",
+        "John R.Clements.",
+        "Neih key dat makpui ramc khou",
+        "No Night There",
+        "source hymn 609",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 609."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KHOU TEI ZINGBANGC MAEK KHE",
+        "titleRongmei": "KHOU TEI ZINGBANGC MAEK KHE",
+        "titleEnglish": "No Night There"
+      }
+    }
+  }
+}

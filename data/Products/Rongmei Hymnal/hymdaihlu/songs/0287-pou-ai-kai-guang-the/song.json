@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0287",
+    "number": 287,
+    "source": {
+      "printedNumber": 287,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William J.Kirkpatrick",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.5.8.5. Ref.",
+      "tune": "SS 471"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "POU, AI KAI GUANG THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc khou ?|7 ai tat duc the,",
+            "’Taw ai kai guang the,",
+            "Paapc chaeng khou ai tat saengckhwan the,",
+            "Pou, ai kai guang the.",
+            "",
+            "Kai guang the, kai guang the,",
+            "Tat ’maan dat lak khe;",
+            "Zauzian paan Nang mei sw ni,",
+            "Pou, ai kai guang the.",
+            "",
+            "2 Kunghmei kaganv guay sw ’maan the,",
+            "’Taw ai kai guang the;",
+            "Mikdui keyna alung laic the,",
+            "Pou, ai kai guang the.",
+            "",
+            "3 Paapc khou ai ryanra the, Kaipouc,",
+            "’Taw ai kai guang the;",
+            "Nang lat, Nang zauzian ai lwm ni,",
+            "Pou, ai kai guang the.",
+            "",
+            "4 Bumaengh nau the, lungh kabiu the,",
+            "’Taw ai kai guang the;",
+            "Pumtan, machunh tii ’thanlou o,",
+            "Pou, ai kai guang the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Lord, I’m Coming Home",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.5.8.5. Ref.",
+        "SS 471",
+        "William J.Kirkpatrick",
+        "Ravuangc khou rui tat duc the",
+        "Lord, I’m Coming Home",
+        "source hymn 287",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 287."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "POU, AI KAI GUANG THE",
+        "titleRongmei": "POU, AI KAI GUANG THE",
+        "titleEnglish": "Lord, I’m Coming Home"
+      }
+    }
+  }
+}

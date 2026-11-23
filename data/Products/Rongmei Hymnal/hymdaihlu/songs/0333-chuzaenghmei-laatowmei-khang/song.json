@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0333",
+    "number": 333,
+    "source": {
+      "printedNumber": 333,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Elisha A. Hoffman",
+      "composer": null,
+      "arranger": null,
+      "chord": "B",
+      "key": null,
+      "beat": "3/4",
+      "meter": "12.9.12.9. Ref.",
+      "tune": "AACH 388"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chuzaenghmei laatowmei khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Chuzaenghmei laatow khang, nang ramlum mbu khang,",
+            "Lunghgutna, ranvna nang huayney the,",
+            "’Ki nang zaengthaek lak ge,suaihiam sing laa tangc lak,",
+            "Ramh guay ravchaapaeng khou kat mak saanv.",
+            "",
+            "Khaengmei ravchaapaeng khou ramh guay katlou the cho?",
+            "Bumaengh {:1 nang lung ta sin tha?",
+            "Nang chuzaengh zaengthaek- mei suaihiam laatow puni,",
+            "Nang pumc, nang bumaengc katgut ti thei.",
+            "",
+            "2. Kaipouc lev tat ’chamcna Kalat riw khou lungcna,",
+            "Chuzaenghmei, pianmei laa tow nii ’thei,",
+            "Kachwn khou nang lungc o, siimei khou {:1 duak khang,",
+            "Ravchaapaeng khou nang tuang guay kat ro.",
+            "",
+            "3 Aniu thay tangc zat lak, Pou {:1 taanclou nimei,",
+            "’Niu {:1 suaihiam khang huayneymei khou,",
+            "’Niu pumc, ’niu bumaengc hei",
+            "Kamei {:1 sin mak saanv,",
+            "Ravchaapaeng khou ramh guay kat mak saanv.",
+            "",
+            "4 ’Niu thay puni Kamei ’zianmei bun key nimei,",
+            "’Niu lung kasyng neihlaa tangc nimei,",
+            "Kahu khou ’niu kadam laa ’chamc nimei ramgai,",
+            "’Niu tuang guay Kakhou katlou pwkhou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Is Your All On the Alter?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "B",
+        "3/4",
+        "12.9.12.9. Ref.",
+        "AACH 388",
+        "Elisha A. Hoffman",
+        "KHAENGMEI RAVCHAPAENG KHOU",
+        "Is Your All On the Alter?",
+        "source hymn 333",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 333."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chuzaenghmei laatowmei khang",
+        "titleRongmei": "Chuzaenghmei laatowmei khang",
+        "titleEnglish": "Is Your All On the Alter?"
+      }
+    }
+  }
+}

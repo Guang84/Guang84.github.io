@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-243",
+    "number": 243,
+    "source": {
+      "printedNumber": 243,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc Ramzian Adih Daic cho!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          243 Ravguangc Ramzian Adih Daic cho?",
+            "                             8.8.8.8. Ref. 10.12. 12.12",
+            "",
+            "          1. Ravguangc ramzian adih daic cho!",
+            "             Kata luicna damclou khwanmei",
+            "             Kabaansyam guay khou 'thuk liange",
+            "             Ravguangc rui nzianloumei hei",
+            "",
+            "                  Pou' ta thuanc o kasuaihiam tiilou the",
+            "                  Panty gaymei tiiloumei hei kasuaihiam e",
+            "                  Ravguangc ramzian kandih khouhei padik khwan e",
+            "                  Ravguangc zauzian tiiloumei hei thuancku di kho.",
+            "",
+            "          2. Ravguangc latdanv piumei guay khang",
+            "             Tingsaeng ringgmei tiikhang 'rianhlou",
+            "             Nchummei gaimei tan mei guai",
+            "             Tingsaeng guangcdic khou lungc pwni.",
+            "",
+            "          3. Kandih taanvdwan luaiguang pwkhou",
+            "             Nkhamhpui ganv guang pwkhou kiu",
+            "             Nchumhmei gaymei taanhmei guay",
+            "             Ravguangc rui swan tii pwni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc Ramzian Adih Daic cho!"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-061",
+    "number": 61,
+    "source": {
+      "printedNumber": 61,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nzian puiram ning tan mak ge",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nzian pui ram ning tan mak ge,",
+            "Rianra ram me hei tei;",
+            "Ring bam san hei rianra khang nai,",
+            "Ai lei ni kap pui ram.",
+            "",
+            "Kandi rian ra mei man pu khou,",
+            "Kap pui ting...mik ni man ni;",
+            "Poubaomei lun hou pu khou rui,",
+            "Ning dat lak khe kandi hei.",
+            "",
+            "2. Kalvary nthuk pui zei rui,",
+            "Tingkao kaikham laan lou;",
+            "Gutla tho he abumaeng le,",
+            "Nang ram tang khang na the.",
+            "",
+            "3. Kapmei rian ra mei man ni the,",
+            "Jordan dui pang thang tei;",
+            "He! Abumang le patla tho,",
+            "Kandi kab pui ram hei.",
+            "",
+            "4. Tabui nung guang tang nina cho?",
+            "Tingkao gaipui ram tei;",
+            "Kandi ram hei patlou pukhou",
+            "Ning lak khe kap pui ram."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 61",
+        "Khristian Luzaam PDF",
+        "Chord: D",
+        "Meta 3: 8.8.8.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 61. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 61,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nzian puiram ning tan mak ge",
+        "titleRongmei": "Nzian puiram ning tan mak ge"
+      }
+    }
+  }
+}

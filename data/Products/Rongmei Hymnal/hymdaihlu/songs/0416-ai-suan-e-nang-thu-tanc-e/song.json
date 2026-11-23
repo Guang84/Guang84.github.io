@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0416",
+    "number": 416,
+    "source": {
+      "printedNumber": 416,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7.9. Ref.",
+      "tune": "SSSH 331"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai ’suan e Nang thu tanc e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai ’suan e, Nang thu tanc e,",
+            "Jisu ata gaeklou o,",
+            "Ai lungh kwnna bam puni,",
+            "Ai Nang daeng tat tuancna bam aanv khou.",
+            "",
+            "Nang daeng tiitat tuanclou o,",
+            "Jisu, Nang chwnmei ethei,",
+            "Tingmik ’thuic tiitat tuanclou o,",
+            "Nuhlou o, Kaipouc, nuhlou o.",
+            "",
+            "2 Phahraengh, ryanramei dic khou,",
+            "Phaysuy khou thow kadanlou?",
+            "Arianra thow phungc ’khav cho?",
+            "Meic maek ge, he Kaipouc, Nang na de.",
+            "",
+            "3 ’Suanmei panty mut pwkhou,",
+            "Aganv ating luai pwkhou,",
+            "Ata zay guang tuanclou o,",
+            "Nang guangcdic tingkauh ramc gaymei khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Just a Closer Walk With Thee",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "7.7.7.9. Ref.",
+        "SSSH 331",
+        "Anonymous",
+        "NANG DAENG TIITAT TUANCLOU O",
+        "Just a Closer Walk With Thee",
+        "source hymn 416",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 416."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai ’suan e Nang thu tanc e",
+        "titleRongmei": "Ai ’suan e Nang thu tanc e",
+        "titleEnglish": "Just a Closer Walk With Thee"
+      }
+    }
+  }
+}

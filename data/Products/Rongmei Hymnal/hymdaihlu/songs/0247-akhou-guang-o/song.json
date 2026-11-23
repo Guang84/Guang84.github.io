@@ -1,0 +1,148 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0247",
+    "number": 247,
+    "source": {
+      "printedNumber": 247,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles P.Jones",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.11. Ref.",
+      "tune": "SSSH 289"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AKHOU GUANG O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Chu lo, ryanramei thiu, Poubauhmei kaw e:",
+            "“He puatrith phunghmei thiu, Akhou guang ’thaekc go,",
+            "Guang tho, nyan bam ri tho,",
+            "Ai phungclou pumc e,",
+            "Nang puatrith, dwanman guay",
+            "Akhou phungc guang o.”",
+            "",
+            "“A .. khou guang o, zaeng ..",
+            "tii ’thaekclou ni;",
+            "A .. puat hei nang phungc o,",
+            "A .. lat hei piu o;",
+            "Ai lungh niamhmei pu e,",
+            "Angamv ta lwm o:",
+            "Guang o, Athiak chiw e,",
+            "Apuat hei ’thaan e.",
+            "",
+            "2 Nang lung kwn tuang maekna",
+            "maeng tat bam tu cho,",
+            "Lwmsii, dwan manhmei >|3",
+            "nang puatrith swna?",
+            "Mphuammei lungning >|3",
+            "sw kaguakc bu cho?",
+            "Phungc guang o Jisu khou",
+            "zaeng tii’thaekclou ni.",
+            "",
+            "3 Paapc >|3 zinghmei chyng",
+            "khou kalanv-kalowna,",
+            "Maikwam maikhunc biak thangc",
+            "’zwan tat bam tu cho?",
+            "Paapc ngamv >|3 rairiuna sw",
+            "kaguakc bu cho?",
+            "’King o, Lauziupouc khwan,",
+            "“Akhou guang ’thaekc tho.”",
+            "",
+            "4 Nthiammei >|3 nang ta ngam",
+            "katup bu cho?",
+            "Nang ’suanmei lwnlung khang",
+            "ryanra bam tu cho?",
+            "Khrista sw ’thanlou ni nang",
+            ">|3 ney tithei;",
+            "Bumaengh ’Thanmei khou",
+            "zaeng tii’thaekclou puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Come Unto Me",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "11.11.11.11. Ref.",
+        "SSSH 289",
+        "Charles P.Jones",
+        "Chu lo ryanrameithiu",
+        "Come Unto Me",
+        "source hymn 247",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 247."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AKHOU GUANG O",
+        "titleRongmei": "AKHOU GUANG O",
+        "titleEnglish": "Come Unto Me"
+      }
+    }
+  }
+}

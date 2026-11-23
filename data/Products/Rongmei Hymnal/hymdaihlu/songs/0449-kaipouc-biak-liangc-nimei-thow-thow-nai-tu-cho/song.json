@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0449",
+    "number": 449,
+    "source": {
+      "printedNumber": 449,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Frances R. Havergal",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.11. Ref.",
+      "tune": "RS 8"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaipouc biak liangc nimei thow thow nai tu cho?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaipouc biak liangc nimei thow thow nai tu cho?",
+            "Bumaengh phu khang thow thow zaucgaylou ni cho?",
+            "Kandih biak ’patlouna thow rih sw nic cho?",
+            "Poubauhmei biak liangcna tat nimei thow cho?",
+            "",
+            "Guangh siamruai sw nipui mei kiu thow nai cho?",
+            "Bumaengh phu guangmei khou thow ’khavlou nic cho?",
+            "Kaipouc, Nang zauzian ?|7 thuakloupui paan ?|7,",
+            "Kaipouc biak lianghmei nunc, ’niw Nang mei nunc e.",
+            "",
+            "2 Hymdaihmei khang hamh e, pyrun khang hamh e,",
+            "’Niu rihmei swmei hei, rih-lu suanmei hei;",
+            "’Niu phaan theihmei pu ta ’zianpui zaeng ?|7 e;",
+            "Jisu ricmei guay ?|7 Kabiak liangh khang e.",
+            "",
+            "3 He Jisu, aniw ta Nang ?|7 liulou the,",
+            "Kachaekc kaphut ?|7 hamh, Nang pumc zei ?|7 de;",
+            "Nang khou guangmei guay khou Nang suaihiam tiilou,",
+            "Kaipouc, Nang ?|7 ’niw ta tiiduaklou tuang e!",
+            "",
+            "4 Rih kiu adow kunghmei, tanhmei bam nuh e,",
+            "Kum sic Guangh ric mei ta baihmei ?|7 ngam lak,",
+            "Kachuangcphey kazit bam, rih ngam puni the,",
+            "’Chumhmei ?|7 suai makna rih ngam puni de."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Who is on the Lord’s Side?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "11.11.11.11. Ref.",
+        "RS 8",
+        "Frances R. Havergal",
+        "Who is on the Lord’s Side?",
+        "source hymn 449",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "derived-title",
+        "note": "No RongmeiIndexes row; title derived from source book 1, hymn 449 lyric text."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaipouc biak liangc nimei thow thow nai tu cho?",
+        "titleRongmei": "Kaipouc biak liangc nimei thow thow nai tu cho?",
+        "titleEnglish": "Who is on the Lord’s Side?"
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0496",
+    "number": 496,
+    "source": {
+      "printedNumber": 496,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "C. Austin Miles",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.9.10.7. Ref.",
+      "tune": "CSH 99"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KAMEI AI LEV TAT ’CHAMCNA KACHUCNA",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Lauthwanzingh zikdui phui mak khou",
+            "Pikwan khou araana guang thuan ’ki,",
+            "Anu khou ramh khwan akhat chuguang e;",
+            "Ravguangc Nac Jisu khwan e.",
+            "",
+            "Kamei ai lev tat ’chamcna kachucna",
+            "Saalou e, Ai Kamei di the;",
+            "Khou0({ aney bam ’chamcmei ramneilaa",
+            "Meic baihmei thay tangh mak ge.",
+            "",
+            "2 Kakhwan ramgai 0({ chu pwkhou,",
+            "’Ruayna guay lu suanmei nthaekc ge;",
+            "Kamei ({0 tiimei lu khwan gaymei 0({",
+            "Alung khou suanna bam e.",
+            "",
+            "3 Pikwan khou ai bam saengc nii e,",
+            "Adaeng guay hei zingc ngam kan sihni,",
+            "’Ki ryanra khwan ({0 tat khang thouclou e,",
+            "Ata Kamei kaw bam e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "In the Garden",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/8",
+        "8.9.10.7. Ref.",
+        "CSH 99",
+        "C. Austin Miles",
+        "Lauthwan zikdui phui mak khou",
+        "In the Garden",
+        "source hymn 496",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 496."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KAMEI AI LEV TAT ’CHAMCNA KACHUCNA",
+        "titleRongmei": "KAMEI AI LEV TAT ’CHAMCNA KACHUCNA",
+        "titleEnglish": "In the Garden"
+      }
+    }
+  }
+}

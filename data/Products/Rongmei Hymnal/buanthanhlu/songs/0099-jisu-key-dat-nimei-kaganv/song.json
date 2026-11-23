@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-099",
+    "number": 99,
+    "source": {
+      "printedNumber": 99,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu Key Dat nimei Kaganv",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          99 Jisu Key dat Nimei Kaganv",
+            "               (Thess. 4:16-17 ; Matt. 24:30-3 1)",
+            "                        8.4.6.6. 8. 9. 8. 8.8. 8",
+            "",
+            "          1. Jisu key dat nimei kaganv",
+            "             'Naaguang pwthe.",
+            "             Heickandic luai pwkhou,",
+            "             Chamdaanv la tho zaatcguay,",
+            "             Kamei guang khou kaswan laa khang,",
+            "             Kandih tingpuk guay maanpui nungc kiu.",
+            "",
+            "               Tingkauh chaeng khou ai tat pwni,",
+            "               Guangh bamvpaeng khou guang kariu ni;",
+            "               Halleluijah Zaatc guayna rui - kariu ni.",
+            "               Guangh bamvpaeng khou guang",
+            "",
+            "          2. Kauckeypui khwan tei lev Ravguangc Baenggun khwan rui,",
+            "             Kamei kahak key pwni, Khrista khou theic kanmei",
+            "             Zianmei nunc tei thau rey pwni,",
+            "             Mi tangv ringc bammei lev kariu ni.",
+            "",
+            "          3. Tingkauh kaidai thangc tei, Gaanhmei riw padik ge,",
+            "             Khoutei Khrista lungc bame, Kamei lev bam' chamc ni,",
+            "             Muangh ruc khourui phungcku pwni,",
+            "             Tingsaeng zaengna lungc bam ni khoutei.",
+            "",
+            "          4. Mphwanmei pheybaan rui Apwan swna lungc ni.",
+            "             Khrista riw gaanhmei bangc khou, Kata thuanhmei khwan rui,",
+            "             Trumpet khwan lev alim khwan rui,",
+            "             Tingkauh kaidai khou suanna bam ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu Key Dat nimei Kaganv"
+      }
+    }
+  }
+}

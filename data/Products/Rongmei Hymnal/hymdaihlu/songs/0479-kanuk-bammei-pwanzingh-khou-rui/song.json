@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0479",
+    "number": 479,
+    "source": {
+      "printedNumber": 479,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Hugh Stowell",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "6/4",
+      "meter": "L.M.",
+      "tune": "HLC 430"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kanuk bammei pwanzingh khou rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kanuk bammei pwanzingh khou <~1,",
+            "Ryanramei duiluat guay khou <~1,",
+            "Duploupui bamv, zaengthaekpui bamv,",
+            "Zauzian bamvpaeng bangc khou nai e.",
+            "",
+            "2 Neihlaapui thauc 1<~ Jisu <~1",
+            "’Niu py khou teyloupui bamv nai;",
+            "Zei <~1 liuloumei, ’thuk liangmei",
+            "Zauzian bamvpaeng 1<~ gay liang e.",
+            "",
+            "3 Lungning manyatpui bamv nai e,",
+            "Ruprian guay lungh khat swpui bamv,",
+            "Bam ’tamv sihni lwmmei paan <~1",
+            "Zauzian bamvpaeng khou sow ’riw e.",
+            "",
+            "4 ’Bui thangc ’khavlou khang ai pak ni,",
+            "’Thiam ’chanv khou, chwnsw, diwsii khou,",
+            "Maikwam ngamv ta ’kumhna ngam ni,",
+            "Zauzian bamvpaeng 1<~ maek khwan ’thei!",
+            "",
+            "5 Khou1<~ egal kumc samc ku ni,",
+            "Paapc chwn <~1 zyn makpui bamv khou;",
+            "Tingkauhmei nunc ta sow ’riw ni,",
+            "Hymdaihmei zauzian bamvpaeng khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "From Every Stormy Wind that Blows",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "6/4",
+        "L.M.",
+        "HLC 430",
+        "Hugh Stowell",
+        "From Every Stormy Wind that Blows",
+        "source hymn 479",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 479."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kanuk bammei pwanzingh khou rui",
+        "titleRongmei": "Kanuk bammei pwanzingh khou rui",
+        "titleEnglish": "From Every Stormy Wind that Blows"
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-188",
+    "number": 291,
+    "source": {
+      "printedNumber": 188,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "11.7.11.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai tingmik thui kaipou nang thei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai tingmik thui kaipou nang thei lai tatni,",
+            "Ai hei kaipou nang tuang e;",
+            "Changkhou ai punkei bam khuansini nanghei,",
+            "Akaipou sulou bam e.",
+            "",
+            "Chorus:",
+            "Nthiammei puanjing ran guang pusini,",
+            "Ting-nei sihguang sini ai nang tuang;",
+            "Tingsangjang khang ai nangtuang suni the,",
+            "Ai hei kaipou nang tuang e.",
+            "",
+            "2. Meinun +:1 karang jaojih guang khuansini,",
+            "Ai hei kaipou nang tuang e;",
+            "Champan guai ata ganlou du pusini,",
+            "Ai hei kaipou nang tuang e.",
+            "",
+            "3. Kandih kabam thui khou ruantat bamsini,",
+            "Ai hei kaipou nang tuang e;",
+            "Ai thei ni ringni tabui guang pusini,",
+            "Ai hei kaipou nang tuang e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 188",
+        "SQLite BookTypeID 2",
+        "Key: D",
+        "Meter: 11.7.11.7.",
+        "Chord: D",
+        "Meta 3: 11.7.11.7."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 188); no high-confidence title match was found in the PDF list. The digital catalogue number is 291; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 188,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai tingmik thui kaipou nang thei",
+        "titleRongmei": "Ai tingmik thui kaipou nang thei"
+      }
+    }
+  }
+}

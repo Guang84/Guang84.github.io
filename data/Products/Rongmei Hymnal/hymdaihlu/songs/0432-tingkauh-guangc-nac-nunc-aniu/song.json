@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0432",
+    "number": 432,
+    "source": {
+      "printedNumber": 432,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J. Kennick",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "7.7.7.7. Ref.",
+      "tune": "SS 838"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh Guangc nac nunc aniu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingkauh Guangc nac nunc aniu",
+            "Kai ’zwan bam khou lu suan kho;",
+            "Guloumei pu ta thuanc kho:",
+            "Ch’rynmei taanv lev lwnlung khang.",
+            "",
+            "’Niu kai zwan .. Ravguangc bamv thangc,",
+            "Pu-pou nunc .. tatpui chaeng e,",
+            "Kaniw neih .. laana bam e;",
+            "Aniu how nuangc puni the.",
+            "",
+            "2 Phaengc zauclo, gaanhmei nac thiu,",
+            "Zion kaidai kiu how the,",
+            "Khou 8^& aniu lungc puni,",
+            "’Niu Kaipouc ta how puni.",
+            "",
+            "3 Ping ri tho, baucna ding tho,",
+            "Ramvrei daeng khou tat bam khou!",
+            "“Rouh makna tat tho,” twna",
+            "Ravguangc Nac Jisu saa e.",
+            "",
+            "4 Kaipouc Nang lat piu ni the,",
+            "Dih puat guay ganclou ni the,",
+            "Nang ta na ’niw zauc ni the,",
+            "Nang thei ’niw lay tat ni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Children of the Heavenly King",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "7.7.7.7. Ref.",
+        "SS 838",
+        "J. Kennick",
+        "Children of the Heavenly King",
+        "source hymn 432",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 432."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh Guangc nac nunc aniu",
+        "titleRongmei": "Tingkauh Guangc nac nunc aniu",
+        "titleEnglish": "Children of the Heavenly King"
+      }
+    }
+  }
+}

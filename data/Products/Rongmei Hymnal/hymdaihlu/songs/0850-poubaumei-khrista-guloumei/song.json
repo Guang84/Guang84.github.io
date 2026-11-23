@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0850",
+    "number": 850,
+    "source": {
+      "printedNumber": 850,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubaumei Khrista guloumei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Poubaumei Khrista guloumei,",
+            "Thuan ku dikho jat guai na #@8;",
+            "Neila gaina bam kariu khang,",
+            "Kajaujian #@8 nduang lou kandiu.",
+            "",
+            "Chorus:",
+            "Thuan ku dikho kaguangta aniu,",
+            "Kamei #@8 nduang lou khou #@8;",
+            "Ntam kanmei jianmei guai le,",
+            "Neilana aniu ariu dat the.",
+            "",
+            "2. Khrista jan khou jianmei guai le,",
+            "Nangniu jau hou khang neila na;",
+            "Ariu loupui welcome bam khou,",
+            "Thuan pui lu khuan #@8 lung neila the.",
+            "",
+            "3. Hei tei kumma nkham pui nung,",
+            "Tingkauh thanmei guai ni neila;",
+            "Kandih mei le kauh thanmei guai,",
+            "Kajan thuan pui lu suan cham puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "8.8.8.9.",
+        "Poubaumei Khrista guloumei",
+        "source hymn 120",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 120."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubaumei Khrista guloumei",
+        "titleRongmei": "Poubaumei Khrista guloumei"
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-174",
+    "number": 174,
+    "source": {
+      "printedNumber": 174,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Rianra kapmei zaengthak puibam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Rianra kapmei zaengthak puibam;",
+            "Panti neikeimei paengthang,",
+            "Aini guangbam ni hei khou tei",
+            "Khou tei aniu lungcham khang.",
+            "",
+            "2. Rianrana chaeng maan tatmei guai",
+            "Kaipou khou ngalan guang tho;",
+            "Nchummei chaeng guang khou gut tho,",
+            "Kachaek namdai chaeng kiu e.",
+            "",
+            "3. Neikeipui gan tingzin guang the,",
+            "Kaitat khang kamthau dikho;",
+            "Neikeilouna zingguang pukhou,",
+            "Nangta kau handat lak khe.",
+            "",
+            "4. Tingkao kachaek tingthan patna",
+            "Zianmei guai guang kariuna,",
+            "Seraphim guai lungpui ram khou",
+            "Aniu guang bamcham datni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 174",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 174. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Rianra kapmei zaengthak puibam",
+        "titleRongmei": "Rianra kapmei zaengthak puibam"
+      }
+    }
+  }
+}

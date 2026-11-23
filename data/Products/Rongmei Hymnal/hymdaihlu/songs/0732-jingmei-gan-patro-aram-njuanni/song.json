@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0732",
+    "number": 732,
+    "source": {
+      "printedNumber": 732,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.10",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jingmei gan patro aram njuanni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Jingmei gan patro aram njuan ni,",
+            "Kandih khou hei abumang chun kei mak;",
+            "Pou rui damloumei Salem than juanni.",
+            "",
+            "Chorus:",
+            "He theina ringdat puinung, tikgun daimei ,",
+            "Namthan gaimei khou jai lou o;",
+            "Duipang ram gai mei khou",
+            "Jingmei, theimei nganna ai rui thuan ni.",
+            "",
+            "2. Poubaumei ai kap nanglun hou maknga,",
+            "Achun geina bam kei bam guang thui mak",
+            "Zion kaipou bui thang bam kan tucho?",
+            "",
+            "3. Ringmei, Poubaumei achang jingmei khou,",
+            "Gan guang o poubaumei achang man the;",
+            "Lung jingmei le tarou rui gumliam the.",
+            "",
+            "4. Ai ringmei panti tarou khou ruina,",
+            "Kanloumei nkhuan pui bam ai juanni;",
+            "Duikhuan chu makmei khou ai jang thakni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "10.10.10",
+        "Jingmei gan patro aram njuanni",
+        "source hymn 2",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 2."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jingmei gan patro aram njuanni",
+        "titleRongmei": "Jingmei gan patro aram njuanni"
+      }
+    }
+  }
+}

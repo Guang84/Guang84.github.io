@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0848",
+    "number": 848,
+    "source": {
+      "printedNumber": 848,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "9.6.12.6.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Alung rianra gan khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Alung rianra gan khou poubaumei,",
+            "Sam guango alung khou;",
+            "Rianramei nanun guai nthaknga bammei tei,",
+            "Din lou o karam thuan,",
+            "Lung rianramei khou ai bam san khou hei.",
+            "",
+            "Chorus:",
+            "Kahim daimei lu tei,",
+            "Ai #@8 thuan ngam thui mak;",
+            "Kauh sianmui khuan gaimei,",
+            "Thuankumei sianmui khuan gaimei akhang.",
+            "",
+            "2. Kandih rianramei ram khou lung rianra,",
+            "Kapma jangsi bam sini;",
+            "Theimei dui kanpat khou apu #@8 njianmei,",
+            "He ata chang riu ni,",
+            "Rianramei mikdui keimei nai lak khe.",
+            "",
+            "3. Ai khou hei ntam dat nimei lat,",
+            "Sa lak khe kabam thui khou;",
+            "Namthan gai khou laujiuna #@8 tingsang ganbam,",
+            "Nthanmei Seraphim guai,",
+            "Thuankumei hei kim dat jat pulak khe.",
+            "",
+            "4. Hei khou tei tangkhang tingmik kathui,",
+            "Kandih rianramei #@8 kham;",
+            "Ai nkhuan ngam makge namthan gaimei tei hei,",
+            "Guloumei guai khuan na,",
+            "He Salem than hou khang khuan ngam makge."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "9.6.12.6.10.",
+        "Alung rianra gan khou",
+        "source hymn 118",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 118."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Alung rianra gan khou",
+        "titleRongmei": "Alung rianra gan khou"
+      }
+    }
+  }
+}

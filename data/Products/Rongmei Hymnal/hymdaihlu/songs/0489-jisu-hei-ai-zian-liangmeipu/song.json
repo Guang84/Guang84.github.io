@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0489",
+    "number": 489,
+    "source": {
+      "printedNumber": 489,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Geo. D. Mackay",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "L.M. Ref.",
+      "tune": "SS 646"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu hei ai zian liangmeipu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu, he ai zian liangmei pu,",
+            "Nang zauzian 7}$ ai huayney e;",
+            "He kaipat kiu tiilou pw ’thei",
+            "Nang ta zian dianghmei khou piu ni.",
+            "",
+            "Baihmei nunc #^7 .. machunh tan diu,",
+            "Kachaekc-kaphut ramgai ta kiu!",
+            "How gaymei ta .. ai machunh lak,",
+            "Nang hei akhang tingkauh kiu the.",
+            "",
+            "2 Dih tuang ’thuk liangmei ramzian 7}$",
+            "Nang ramzian hu khou ramh hamh e,",
+            "Rigwnna phaan e, Pou, Nang ta",
+            "’Bui nungc ai how ni cho twna.",
+            "",
+            "3 Paradais khou neihlaa sihni,",
+            "How gaymei mwnpwang how sihni,",
+            "Tingkauh ramgai #^7 lyn lak ge,",
+            "Nang ramzian de akhang ’thukmei.",
+            "",
+            "4 Nang bam mak ’thei kauh ramgaan #^7",
+            "Alung kwn khang gaanclou ngam lak;",
+            "Ryanra dic khou sic Nang bam ’thei",
+            "Kauh ramneihlaa #^7 padik ge."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus, Beloved of My Heart",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "L.M. Ref.",
+        "SS 646",
+        "Geo. D. Mackay",
+        "Jesus, Beloved of My Heart",
+        "source hymn 489",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 489."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu hei ai zian liangmeipu",
+        "titleRongmei": "Jisu hei ai zian liangmeipu",
+        "titleEnglish": "Jesus, Beloved of My Heart"
+      }
+    }
+  }
+}

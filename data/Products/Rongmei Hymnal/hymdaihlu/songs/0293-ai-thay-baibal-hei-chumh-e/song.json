@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0293",
+    "number": 293,
+    "source": {
+      "printedNumber": 293,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Gene Routh",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "6/4",
+      "meter": "9.7.9.7. Ref.",
+      "tune": "SSSH 378"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AI THAY BAIBAL HEI ’CHUMH E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai thay, Baibal hei Ravguangc Lat re,",
+            "Kaguangc Kathanc Latdyng hei,",
+            "Ravguangc Kakhou #^5 patmei Lat re,",
+            "Ai thay, Baibal hei ’chumh e.",
+            "",
+            "Ai thay, .. ai thay,",
+            "Ai thay, Baibal hei ’chum e,",
+            "Ravguangc tuang Lat re,",
+            "Kalat pwm hei,",
+            "Ai thay Baibal hei ’chumh e.",
+            "",
+            "2 Ai thay, Khrista tuang p’ry hei ’chumh e,",
+            "Liuchang khou #^5 puanhmei 5#^,",
+            "Puanhmei, theihmei lev ringcthaumei 5#^,",
+            "Dih khou key dat nimei 5#^.",
+            "",
+            "3 Ai thay Baibal Lat pwm hei ’chumh e,",
+            "Akhou chuzaenghmei tii e;",
+            "Hei #^5 ata tiineihlaalou e,",
+            "Paapc ta ngam khang swlou e.",
+            "",
+            "4 Meic nunc Baibal Lat lwm mak sihni,",
+            "Kathukh 5#^ dinclou khang e;",
+            "’Chumhmei hei dinhpui sik gay ku e,",
+            "Ai thay, Baibal hei ’chumh e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Know the Bible is True",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "6/4",
+        "9.7.9.7. Ref.",
+        "SSSH 378",
+        "Gene Routh",
+        "I Know the Bible is True",
+        "source hymn 293",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 293."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AI THAY BAIBAL HEI ’CHUMH E",
+        "titleRongmei": "AI THAY BAIBAL HEI ’CHUMH E",
+        "titleEnglish": "I Know the Bible is True"
+      }
+    }
+  }
+}

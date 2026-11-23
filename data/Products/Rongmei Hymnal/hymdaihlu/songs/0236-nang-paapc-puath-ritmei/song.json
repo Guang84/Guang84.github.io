@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0236",
+    "number": 236,
+    "source": {
+      "printedNumber": 236,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. C.H.Morris",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/4",
+      "meter": "10.8.10.8. Ref.",
+      "tune": "RS 245"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang paapc puath ritmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang paapc puat ’ritmei phungc liat lak ethei,",
+            "Nang lung khou Jisu tiigut ro;",
+            "Panty thanh khou nang lungc dat nii ethei,",
+            "Nang lung khou Jisu tiigut ro.",
+            "",
+            "’Taw hei nang lwmsii taan tho,",
+            "’Taw hei Kata laalou tho;",
+            "’Taw hei kaikhamv laanclou tho,",
+            "Nang lung khou Jisu tiigut ro.",
+            "",
+            "2 Nang ’thanmei panty khou lungc nii ethei,",
+            "Nang lung khou Jisu tiigut ro;",
+            "Sw ’thanloumei duipuakkai luangc bam e,",
+            "Nang lung khou Jisu tiigut ro.",
+            "",
+            "3 Nang pammei #<8 nang ta ganclou ethei,",
+            "Nang lung khou Jisu tiigut ro;",
+            "Jisu na hei gay liangmei Pam kiu e,",
+            "Nang lung khou Jisu tiigut ro.",
+            "",
+            "4 Neihlaa zaenggay lu nang suan nii ethei,",
+            "Nang lung khou Jisu tiigut ro;",
+            "Zaeng ’thaekcmei kai khou",
+            "nang lungc nii ethei,",
+            "Nang lung khou Jisu tiigut ro."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Let Jesus Come Into Your Heart",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/4",
+        "10.8.10.8. Ref.",
+        "RS 245",
+        "Mrs. C.H.Morris",
+        "’Taw hei nang lwmsii taan tho",
+        "Let Jesus Come Into Your Heart",
+        "source hymn 236",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 236."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang paapc puath ritmei",
+        "titleRongmei": "Nang paapc puath ritmei",
+        "titleEnglish": "Let Jesus Come Into Your Heart"
+      }
+    }
+  }
+}

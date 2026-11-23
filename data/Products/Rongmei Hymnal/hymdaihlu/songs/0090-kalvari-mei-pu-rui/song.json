@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0090",
+    "number": 90,
+    "source": {
+      "printedNumber": 90,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "M.P.Ferguson",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "RS 202"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KALVARI MEI PU RUI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kandih khou gay liangsinghmeipu,",
+            "Daihmei khou daic liangsingmeipu,",
+            "Ravguangc gunc padik sikhmeipu,",
+            "He ch’rynmei Kalvarimeipu!",
+            "",
+            "Kalvarimeipu ^&8",
+            "Alungning ta ngam the,",
+            "Ai duak khang theiclou the,",
+            "Zauzian thaymeipu e!",
+            "",
+            "2 Paapcmei bumaengc ta tiiringclou,",
+            "Kang bangcloumei ta ricpatlou,",
+            "Aniu duak khang Kazei keylou,",
+            "Zianthaymei Kalvarimeipu!",
+            "",
+            "3 Maansei khang gay liangmei kaipat",
+            "Saa ngam makmei zauzian tiilou,",
+            "’Than thiakh thiakmei lwnlung tiilou,",
+            "P’riuhmei Kalvarimeipu ^&8!",
+            "",
+            "4 Tiineihlaaloumeipu Jisu,",
+            "Gay liangpui neic Nang ta ’riw ni,",
+            "Nang tik Nang gunc gaymei how ni,",
+            "He ch’rynmei Kalvarimeipu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "That Man of Calvary",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "6/8",
+        "8.8.8.8. Ref.",
+        "RS 202",
+        "M.P.Ferguson",
+        "Kandih khou gay liang singmeipu",
+        "That Man of Calvary",
+        "source hymn 90",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 90."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KALVARI MEI PU RUI",
+        "titleRongmei": "KALVARI MEI PU RUI",
+        "titleEnglish": "That Man of Calvary"
+      }
+    }
+  }
+}

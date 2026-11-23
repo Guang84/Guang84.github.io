@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0550",
+    "number": 550,
+    "source": {
+      "printedNumber": 550,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Lucy E. Cambeli",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "10.10.10.9. Ref.",
+      "tune": "AACH 231"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang tuang thouc tei ngampui kamv",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang tuang thouc 0({ ngampui kamv taanc chuyna",
+            "Gumei pu chamv meic nunc khou dinc ethei,",
+            "Lungh tangkhyn riu, meic nunc lwm mak sihni,",
+            "Kaipouc saa puni, “Taanc chuy dyng the.”",
+            "",
+            "O, achaenglwan ai tatluai guangpui nungc kiu,",
+            "Ryanra lakna, rih ngamna guang pwkhou,",
+            "Builwang ’tunghna kros puancna ai guang pwkhou,",
+            "Kaipouc saa puni, “Taanc chuy dyng the.”",
+            "",
+            "2 Ning laanh khwan e, Guloumei pu ta nic,",
+            "Kros khou swluai, Ravguangc Nac kahak ta;",
+            "Chu lo, Kamei Kapu khou huaybam e;",
+            "“Anyng hamh e, Nang nyng sw kan diu.”",
+            "",
+            "3 Mi ringhting tuang taanvdwan hei luai pwkhou,",
+            "Nang taanv guay khang swan",
+            "laa khang guang pwkhou,",
+            "Adih gaymei zaengthaekpui latkaeng cho,",
+            "Kamei saa pwkhou: “Taanc chuy dyng the.”",
+            "",
+            "4 Nang ngampui kamv karamcna taanc sihni,",
+            "Guang tangc lakna, phaybaanh zamh ngam sihni,",
+            "Kros 0({ phungcna Kata sowriw ’khap tho,",
+            "Kamei saa puni: “Taanc chuydyng the.”"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O, achaenglwan ai tat luaiguangpui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "3/4",
+        "10.10.10.9. Ref.",
+        "AACH 231",
+        "Lucy E. Cambeli",
+        "O, achaenglwan ai tat luaiguangpui",
+        "\"Well Done\"",
+        "source hymn 550",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 550."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang tuang thouc tei ngampui kamv",
+        "titleRongmei": "Nang tuang thouc tei ngampui kamv",
+        "titleEnglish": "O, achaenglwan ai tat luaiguangpui"
+      }
+    }
+  }
+}

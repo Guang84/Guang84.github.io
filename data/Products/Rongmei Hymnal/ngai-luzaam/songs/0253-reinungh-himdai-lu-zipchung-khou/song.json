@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-253",
+    "number": 253,
+    "source": {
+      "printedNumber": 253,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Reinungh himdai lu zipchung khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Reinungh himdai lu zipchung khou,",
+            "Baanch’ra nun suan guang e,",
+            "Kaniu kachaek nrah gei na",
+            "Kauh Guang cham phung guang e,",
+            "“Dih khou chuzaengmei nai kandiu,",
+            "Kalung kunloumei khou”",
+            "Kandimei guai rui rim-rim bam,",
+            "Baanch’ra nun lu king khang,",
+            "",
+            "2. Chuzaengmei sukaeng kalaaphna,",
+            "Tingpuk samkaan kei e,",
+            "Tingkau lukhuan kagaeng guang e",
+            "Lakmei kandi rukhou;",
+            "Kaniu sukaeng tei laampatlou",
+            "Rianra nzaeng rukhou,",
+            "Pap kandi simei khuan rukhou,",
+            "Baanch’ra guai lusuan bam.",
+            "",
+            "3. Nangniu, panti rianra bang khou,",
+            "Puatrit phung bammei guai,",
+            "Rianramei phaikaam nzaengna",
+            "Tatku bammei nun thiu",
+            "Gai liangmei gan ntau guang the;",
+            "Zaulana guangkhap tho!",
+            "Rianra chaengdaeng khou nthaekna,",
+            "Baanch’ra nun lu king o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 253",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 253. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Reinungh himdai lu zipchung khou",
+        "titleRongmei": "Reinungh himdai lu zipchung khou"
+      }
+    }
+  }
+}

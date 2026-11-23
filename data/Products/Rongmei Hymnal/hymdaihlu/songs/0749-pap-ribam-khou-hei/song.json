@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0749",
+    "number": 749,
+    "source": {
+      "printedNumber": 749,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "9.10.8.13.9.",
+      "tune": "Luk 23:23 – 25"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pap ribam khou hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Pap ribam khou hei tingkau guang nah,",
+            "Sau pirun runloumei 8#@ thai na;",
+            "Lung rianrana kalum bam khou,",
+            "Jei luang kumma talan dui kei Getsamani khou,",
+            "Nim kan the Israel nun ruina.",
+            "",
+            "Chorus:",
+            "Lani mak ge, lani makge,",
+            "Israel nang rui lani mak;",
+            "Karu khou ti nkhuailou khang meinun rui phuna,",
+            "Pilat nang latjan su han datro.",
+            "",
+            "2. Kandih guang lani mak Judah nun,",
+            "Kalvari ching rukhou hian bin louna;",
+            "Kapui Mary lung rianrana,",
+            "Munrim gaimei tuai kanmei 8#@ kalung rianrana,",
+            "Guang supui ram 8#@ la mak khou rui.",
+            "",
+            "3. Rianra the tarou lung jingmei khou,",
+            "Aniu guangh njangmei tat pui nung mu;",
+            "Jerusalem rakai lung khou,",
+            "Khamthing phei siat kak kan the, banglani jai the,",
+            "Nthanmei bumang than guang dat ro.",
+            "",
+            "4. Riu kanthe pap ri adou tang khou,",
+            "Kandih hei poubaumei le Khrista ram;",
+            "Pap rita ngammei guang daimei,",
+            "Nthuk pui jei rui liu lou the kalvari ching khou,",
+            "Ncham lou kan the poubaumei rui."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "9.10.8.13.9.",
+        "Luk 23:23 – 25",
+        "Pap ribam khou hei",
+        "source hymn 19",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 19."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pap ribam khou hei",
+        "titleRongmei": "Pap ribam khou hei"
+      }
+    }
+  }
+}

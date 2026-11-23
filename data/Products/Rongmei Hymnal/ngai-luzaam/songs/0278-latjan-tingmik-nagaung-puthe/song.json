@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-165",
+    "number": 278,
+    "source": {
+      "printedNumber": 165,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Latjan tingmik nagaung puthe",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Latjan tingmik naguang puthe (3),",
+            "Kagan naguang puthe.",
+            "",
+            "Chorus:",
+            "Kap puni khuaimei guai (3),",
+            "Jisu latjan khou khuaimei guai.",
+            "",
+            "2. Kao bam sini guang nituang ram (3),",
+            "Pap padik mei guai mu.",
+            "",
+            "3. Pap phungmei guai guagtang ngam mak (3),",
+            "Tingkauh kandih khou kiu.",
+            "",
+            "4. Kauh kandih khou guang nimei guai (3),",
+            "Kross phungmei na khang de.",
+            "",
+            "Favourite song: G. Khuandin"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 165",
+        "SQLite BookTypeID 2",
+        "Key: D",
+        "Meter: 8.8.8.6.",
+        "Chord: D",
+        "Meta 3: 8.8.8.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 165); no high-confidence title match was found in the PDF list. The digital catalogue number is 278; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 165,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Latjan tingmik nagaung puthe",
+        "titleRongmei": "Latjan tingmik nagaung puthe"
+      }
+    }
+  }
+}

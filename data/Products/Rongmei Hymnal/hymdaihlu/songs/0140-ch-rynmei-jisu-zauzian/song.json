@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0140",
+    "number": 140,
+    "source": {
+      "printedNumber": 140,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Haldor Lillenas",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6.7.6.7.5 Ref.",
+      "tune": "CSH 399"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ch’rynmei Jisu zauzian",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ch’rynmei Jisu zauzian hei",
+            "Apaap khang suangc daic e;",
+            "Abaley na @{4 ’kumhna",
+            "Mi hei thuanc ngam ni cho?",
+            "Apuatrith 4@< laa ganclou,",
+            "Abumaengc tiiduaklou;",
+            "Ch’rynmei Jisu zauzian hei",
+            "Akhou guang tangc the.",
+            "",
+            "",
+            "Kida khang maekmei",
+            "Jisu zauzian, kida khang maekmei,",
+            "Kamuatcmei duipui khang suangc ’thuk ge,",
+            "Duipui suangc ’thuk,",
+            "Jisu zauzian hei akhang biuc e, Akhang nganv biuc e,",
+            "Akhuay guay suangc daic ranv e, Kazauzian,",
+            "Jisu zauzian apaap suangc daic e;",
+            "Kunghmei Jisu zanc hei tiidaic pat ro, thuanc o, Kazanc!",
+            "",
+            "2 Jisu zauzian amaanmei",
+            "Kathuic khou guang tangclou,",
+            "Jisu zauzian @{4 ata",
+            "Tingsaengzaeng khang gulou,",
+            "Bangcloumei kangriang riclou,",
+            "Ata nyng tiiswlou;",
+            "Ch’rynmei Jisu zauzian hei",
+            "Akhou guang tangc the.",
+            "",
+            "3 Ch’rynmei Jisu zauzian hei",
+            "’Phuam liangmei khou tangclou,",
+            "Hei zauzian @{4 paapc mei ta",
+            "Ravguangc nac tii swlou,",
+            "Chuzaenghmei lev tingkauh hei",
+            "Tingsaengzaeng khang liulou,",
+            "Ch’rynmei Jisu zauzian hei",
+            "Akhou guang tangc the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Wonderful Grace of Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "7.6.7.6.7.6.7.5 Ref.",
+        "CSH 399",
+        "Haldor Lillenas",
+        "Wonderful Grace of Jesus",
+        "source hymn 140",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 140."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ch’rynmei Jisu zauzian",
+        "titleRongmei": "Ch’rynmei Jisu zauzian",
+        "titleEnglish": "Wonderful Grace of Jesus"
+      }
+    }
+  }
+}

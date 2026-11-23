@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-187",
+    "number": 187,
+    "source": {
+      "printedNumber": 187,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Reinung nrian lou mei di khou Poubaomei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Reinung nrian lou mei di khou Poubaomei rui",
+            "Kamei nun ta lung dat diu khang ninga",
+            "Poupei guaita zai pat lou dat the.",
+            "",
+            "Lumna piumei guai khang nade",
+            "Nrianloumei Kanaan ram tei;",
+            "Kachaek kaphut rui supui ram,",
+            "Khou tei gut khang ai lunglai ni.",
+            "",
+            "5. Lumlou makmei Israel zatguai tei rui",
+            "Pharaoh bang khou rui zai pat lou sini",
+            "Poubaomei zauzian ta thailou mak.",
+            "",
+            "6. Zianmei nunta zaipat nimei zingbang khou tei",
+            "Lauziu zei rui chaengmun khou tei lou na",
+            "Kaniu ta Raguang rui kanlou the.",
+            "",
+            "7. Raguang rui kandi ta Heidi kam zianlouna",
+            "Kana mpou ‘khat namei ta tilou;",
+            "Kata lummei guai ring dat diu khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 187",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 187. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Reinung nrian lou mei di khou Poubaomei",
+        "titleRongmei": "Reinung nrian lou mei di khou Poubaomei"
+      }
+    }
+  }
+}

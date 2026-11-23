@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-073",
+    "number": 73,
+    "source": {
+      "printedNumber": 73,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Bui khang zaengsini cho ringhmei chaeng",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Bui khang zaengsini cho ringhmei chaeng tatmei khang",
+            "Rianra mei pat louna Ravguangc khou bam kan the,",
+            "Neihla na zaeng nthaek kan the,",
+            "Jisu daeng khou lung chamh dat khang.",
+            "",
+            "2. Tat du kan the kandi rianra mei patlou na,",
+            "Su-nuh naonian mei guai ganlou na tatkan the,",
+            "Tingkao kandi ramgai khoutei",
+            "Khrista Jisu le lung datni.",
+            "",
+            "3. Chunsina bam ri o, zaeng sina bam ri o,",
+            "Kandi rianra heizu gan louna tat kan the;",
+            "Kapma huai bammei tei ruina,",
+            "Ngalan guang dat pukhang hamh the.",
+            "",
+            "4. Chunsi zaengsi mei mak, mikdui ni keidat mak,",
+            "Hei ram khou tei aniu meiguai ni ku puni;",
+            "Hei kandi hei ganlou pukhou,",
+            "Aniu meiguai ni tat puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 73",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 73. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Bui khang zaengsini cho ringhmei chaeng",
+        "titleRongmei": "Bui khang zaengsini cho ringhmei chaeng"
+      }
+    }
+  }
+}

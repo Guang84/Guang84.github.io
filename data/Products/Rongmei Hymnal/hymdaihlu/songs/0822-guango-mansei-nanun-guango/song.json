@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0822",
+    "number": 822,
+    "source": {
+      "printedNumber": 822,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guango mansei nanun guango",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Guango mansei nahnun guango,",
+            "Damloumei pu Raguang khou;",
+            "Lat hei gaipui ringpui lat re,",
+            "Ai phung guang the guang king o.",
+            "",
+            "Chorus:",
+            "Hei nade gaimei ringpui lat,",
+            "Hei nade bumang ring khang mu;",
+            "Raguang Nah Jisu Khrista 0({,",
+            "Aniu khang rui tilou the.",
+            "",
+            "2. Mundan rakhang napkao ngaimei,",
+            "Gan ngammo kapumma 0({;",
+            "Hei 0({ gai khang gang khang mak ge,",
+            "Hei 0({ man tuange nang khang.",
+            "",
+            "3. Latjan sukhang tingmik nathe,",
+            "Katumma lunglai latho;",
+            "Panti tingmik hei luai pukhou,",
+            "Guang puni latjan tingmik.",
+            "",
+            "4. Latjan sukhou khuai mak khang mu,",
+            "Jisu khou gutmei nade;",
+            "Hei 0({ rammak baimei thu mak khe,",
+            "Jisu nade ring khang mu.",
+            "",
+            "5. Kei puni kaguang Khrista 0({,",
+            "Tingkkauh thanmei nun guai le;",
+            "Bumang kapum khuam kariu na,",
+            "Latjan suni kapum ta."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "8.7.8.7.",
+        "Guango mansei nanun guango",
+        "source hymn 92",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 92."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guango mansei nanun guango",
+        "titleRongmei": "Guango mansei nanun guango"
+      }
+    }
+  }
+}

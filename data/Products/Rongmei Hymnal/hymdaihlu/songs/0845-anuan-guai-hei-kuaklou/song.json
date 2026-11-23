@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0845",
+    "number": 845,
+    "source": {
+      "printedNumber": 845,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Anuan guai hei kuaklou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Anuan guai hei kuaklou lana,",
+            "Nbanthai na bam ni e;",
+            "Alung khou hei Raguang Jisu,",
+            "Nbanthai na bam ni e.",
+            "",
+            "Chorus:",
+            "Nang bam ethei (2),",
+            "Nbanthai na bam ni e;",
+            "Alung khou he Raguang Jisu,",
+            "Kagan thui bam duanglou o.",
+            "",
+            "2. Nangta ai#@8 champan khan lou,",
+            "Nangta ai jai thao lou e;",
+            "Kandih khou neilamei suang mu,",
+            "Tingkauh neilamei gai e.",
+            "",
+            "3. Bang pui riang hei ri pat lou o,",
+            "Abumang kan pat lou o;",
+            "Jingmei khou hei bam sang lak khe,",
+            "Neiriu kum tiganlou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "8.7.8.7.",
+        "Anuan guai hei kuaklou",
+        "source hymn 115",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 115."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Anuan guai hei kuaklou",
+        "titleRongmei": "Anuan guai hei kuaklou"
+      }
+    }
+  }
+}

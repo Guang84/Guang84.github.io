@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0426",
+    "number": 426,
+    "source": {
+      "printedNumber": 426,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7. D. 7.",
+      "tune": "SS 522"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "CHAENG SAANV SAENGH GUMEIPU",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Chaeng saanvsaengh Gumei pu zaylou,",
+            "Baihmei ta ning khang nai cho?",
+            "Kazauzian ai lwmsii ni cho,",
+            "Ringhting saanv zaylou bam khou?",
+            "Tingkauh tuang chuzaengh, swmloumei",
+            "Lwmpui paan }?2 lungc tow the!",
+            "Tabui tuang akhou pat sihni",
+            "Jisu }?2 gay khang swlou. (2)",
+            "",
+            "2 Chaeng saanvsaengh Gumei pu zaylou,",
+            "Chaenglwan ’thuic tiineihlaalou;",
+            "Nchanvmei ganv ’thuic ’khavlou e,",
+            "Ringhpui ’Tyan }?2 makuatlou,",
+            "Lakna akaamv kachac pwkhou,",
+            "Abumaengc }?2 t’rii pwkou,",
+            "Taudaic khou duipuak tiipatna",
+            "Ai t’riimei tiikimlou e. (2)",
+            "",
+            "3 Chaeng saanvsaengh Gumei pu zaylou,",
+            "He padikmei Karamzian!",
+            "Kauh thangc akhang aPu kai khou",
+            "Zaeng ’thaekc suangmei ’rianhlou e;",
+            "Theic dat lakmei pumc khou guanhna",
+            "Abumaengc samc ku pwkhou,",
+            "Mi hei nganv makmei lu sw ni:",
+            "Chaeng saanv Jisu zaylou e. (2)"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "All the Way",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "8.7.8.7. D. 7.",
+        "SS 522",
+        "Fanny J. Crosby",
+        "All the Way",
+        "source hymn 426",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 426."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "CHAENG SAANV SAENGH GUMEIPU",
+        "titleRongmei": "CHAENG SAANV SAENGH GUMEIPU",
+        "titleEnglish": "All the Way"
+      }
+    }
+  }
+}

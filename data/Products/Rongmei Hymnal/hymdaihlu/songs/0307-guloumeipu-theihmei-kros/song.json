@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0307",
+    "number": 307,
+    "source": {
+      "printedNumber": 307,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.A. Hoffman",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.9.9.5. Ref.",
+      "tune": "CSH 308"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guloumeipu theihmei kros",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guloumeipu theihmei kros bangc khou,",
+            "Paapc khou ^&8 sw ’thanlou khang huay e,",
+            "Alungsyng khou Kazei rimlou the;",
+            "Kazanc hym daic diu!",
+            "",
+            "Kazanc hym daic diu!",
+            "Kazanc hym daic diu!",
+            "Alungsyng khou Kazei rimlou the;",
+            "Kazanc hym daic diu!",
+            "",
+            "2 Paapc khou ^&8 ch’ryn sihna gulou the!",
+            "Jisu alung khou bam chuy bam the;",
+            "Ata laamei 8^& kros khou 8^& e;",
+            "Kazanc hym daic diu!",
+            "",
+            "3 Adih kunghmei zei duipuakkai cho!",
+            "Ai neihlaa sihna khou 8^& lup the;",
+            "Khou 8^& Jisu ata sw ’than the,",
+            "Kazanc hym daic diu!",
+            "",
+            "4 Zei puakkai khou hei nang guang la tho,",
+            "Jisu pamv khou nang bumaengc guang tho;",
+            "Lup tho, aseic sw ’than thiak la tho;",
+            "Kazanc hym daic diu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Glory to His Name!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "9.9.9.5. Ref.",
+        "CSH 308",
+        "E.A. Hoffman",
+        "Kazanc hym daic diu",
+        "Glory to His Name!",
+        "source hymn 307",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 307."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guloumeipu theihmei kros",
+        "titleRongmei": "Guloumeipu theihmei kros",
+        "titleEnglish": "Glory to His Name!"
+      }
+    }
+  }
+}

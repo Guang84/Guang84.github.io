@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-149",
+    "number": 149,
+    "source": {
+      "printedNumber": 149,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih Paapc rui Zingc the APoubauhmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          149 Kandih Paap Rui Zingc The",
+            "                          10.10.Ref. 7. 6. 7.5",
+            "          Doh hei D",
+            "",
+            "          1. Kandih paap rui zingc the aPoubauhmei,",
+            "             Ai Nang phay bangc khou gulou khang guang e.",
+            "",
+            "                  Akhou Nang bam mak gethei,",
+            "                  Theihmei kandic akhang.",
+            "                  Tingkauh ramgai ta how khang",
+            "                  Ata zaylou o.",
+            "",
+            "          2. Neihlaamei maek ge heic kandic khouhei,",
+            "             Nang ramgai ta how khang Nang khou guang e.",
+            "",
+            "          3. Heic saan Nang khourui maengtat khwan sihnic,",
+            "             Nang khwan chuna ai rui ngalancguang e.",
+            "",
+            "          4. He Poubauhmei ata swthanlou o,",
+            "             Nang ramc tangh khang paapc ric ta adow ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih Paapc rui Zingc the APoubauhmei"
+      }
+    }
+  }
+}

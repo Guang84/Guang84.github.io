@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0578",
+    "number": 578,
+    "source": {
+      "printedNumber": 578,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Robert Murray",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "CW 541"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Duipui khou rui duipui nganv",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Duipui khou #<8 duipui nganv,",
+            "Pou, Nang ta laalou diu;",
+            "Nang ta bwanna kalum diu;",
+            "Guangh, Nang lat piu kan diu;",
+            "Chyngkauh guay lev nzaengc guay,",
+            "Nwm lev laupuk guay #<8,",
+            "Duibaek, zeihlat, duipuak guay",
+            "Kaipouc, Nang ta thay diu.",
+            "",
+            "2 He Khrista, Nang zanc zaeng khang,",
+            "’Niw kandih zaeng khang #<8,",
+            "’Niw niamhna Nang khou huay e,",
+            "Nang hym lungc lyan ngam khang,",
+            "Pou, Jisu, Nang baanbaengv ta",
+            "’Niw thay khang swlou o;",
+            "’Niw ravpuat tiigaylou o,",
+            "’Thiammei ta rih ngam khang.",
+            "",
+            "3 He Guloumei pu, ’niw Guangc,",
+            "Gaeklou, zaylou na ro;",
+            "Nang ramzian, Nang tuang gaanhmei,",
+            "Lungc lyan khang ’khavlou o;",
+            "Biangpiuna siamruai sw khang,",
+            "Nang lat #<8 zin lik khang,",
+            "Duipui khou #<8 duipui nganv,",
+            "Nang ta laalou mak saanv.",
+            "Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "From Ocean Unto Ocean",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "7.6.7.6. D.",
+        "CW 541",
+        "Robert Murray",
+        "From Ocean Unto Ocean",
+        "source hymn 578",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 578."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Duipui khou rui duipui nganv",
+        "titleRongmei": "Duipui khou rui duipui nganv",
+        "titleEnglish": "From Ocean Unto Ocean"
+      }
+    }
+  }
+}

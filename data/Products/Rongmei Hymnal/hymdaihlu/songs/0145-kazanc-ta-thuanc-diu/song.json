@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0145",
+    "number": 145,
+    "source": {
+      "printedNumber": 145,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William H.Clark",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "L.M. Ref.",
+      "tune": "HLC 81"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kazanc ’ta thuanc diu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thuanc o, kauh thangc guanghtu bammei,",
+            "Ngamp’rymei Racguangc ta;",
+            "KaNac ta theih khang tiipat re,",
+            "Meic nunc ta thuaklou khang.",
+            "",
+            "",
+            "Kazanc ta thuanc diu! Kazanc ta thuanc diu!",
+            "Poubauhmei zanc thuanhmei sw diu!",
+            "Kazanc ta thuanc diu! Kazanc ta thuanc diu!",
+            "Poubauhmei zanc thuanhmei sw diu!",
+            "",
+            "2 Kazanc hei kauh liangsingmei e,",
+            "Kauh hay hay ku bam e;",
+            "Pu Ravguangc baanzat khou bam e,",
+            "Baanch’ra nunc ^&8 bwan e.",
+            "",
+            "3 Guloumeipu, maansei nunc hei",
+            "Paapc khou ’maanna bam khou,",
+            "Ringhmei chaeng Nang ^&8 kasiamhlou,",
+            "Kaniw khang theiclouna.",
+            "",
+            "4 Kazanc Chamloumeipu kaw e,",
+            "Chuzaenghmei Guangc Nac e,",
+            "Rih ngammeipu guanghdic guay ta",
+            "Tingsaengzaeng sin puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "All Praise to Him Who Reigns Above",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "L.M. Ref.",
+        "HLC 81",
+        "William H.Clark",
+        "Thuanc o kauh thangc guanghtu",
+        "All Praise to Him Who Reigns Above",
+        "source hymn 145",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 145."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kazanc ’ta thuanc diu",
+        "titleRongmei": "Kazanc ’ta thuanc diu",
+        "titleEnglish": "All Praise to Him Who Reigns Above"
+      }
+    }
+  }
+}

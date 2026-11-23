@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0483",
+    "number": 483,
+    "source": {
+      "printedNumber": 483,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Caesar Malan",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/8",
+      "meter": "C.M. Ref.",
+      "tune": "SS 878"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Adih gay cho, he Gumeipu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Adih gay cho, he Gumeipu,",
+            "Nang pamv khou zaengswmei!",
+            "Ryanra ganv khou ’khavlou bammei,",
+            "Nang pumtan ta thaymei!",
+            "",
+            "“Tigut ro, .. nang rianra Kakhou,",
+            "Tigut ro, .. nang rianra Kakhou,",
+            "Tigut ro, .. nang rianra Kakhou,",
+            "Kamei nang ta kadanlou bam e.”",
+            "",
+            "2 Adwanman Nang khou tiiloumei,",
+            "Nang ^&5 kahawmei e;",
+            "Tamangvmei lev ryanrapui sik",
+            "Nang khou tiithaylou e.",
+            "",
+            "3 Nang ramzian 5^& ai ^&5 lwm ni,",
+            "Nang na ta zauc bam ni,",
+            "Ryanrapui lung tii ’chulou khang",
+            "Nang khou ai huayney e.",
+            "",
+            "4 Theidwan khang ^&5 kadan lana",
+            "Lungh ryanra bam ni cho?",
+            "’Bui khang lwm makna pingmei ^&5",
+            "Alung padik ni cho?"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“Casting All Your Care Upon Him”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/8",
+        "C.M. Ref.",
+        "SS 878",
+        "Caesar Malan",
+        "TIIGUT RO NANG RIANRA KAKHOU",
+        "“Casting All Your Care Upon Him”",
+        "source hymn 483",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 483."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Adih gay cho, he Gumeipu",
+        "titleRongmei": "Adih gay cho, he Gumeipu",
+        "titleEnglish": "“Casting All Your Care Upon Him”"
+      }
+    }
+  }
+}

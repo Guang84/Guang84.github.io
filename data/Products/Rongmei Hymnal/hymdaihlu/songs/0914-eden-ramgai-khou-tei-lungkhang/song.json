@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0914",
+    "number": 914,
+    "source": {
+      "printedNumber": 914,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Eden ramgai khou tei lungkhang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Eden ramgai khou tei lung khang,",
+            "Guang nimei tingmik naguang the;",
+            "Panti luaina tatpui nung kiu,",
+            "Guangtang puni kauh kaidai khou.",
+            "",
+            "Chorus:",
+            "Alungning le abumang hei,",
+            "Tingkauh ram khou ruanna tatbam;",
+            "Nban ram khou hei lung nimak ge,",
+            "Tat kan dikho jianmei nun le.",
+            "",
+            "2. Mangthang hougaimei khang suang e,",
+            "Laujiu nah +:1 gan na bam e;",
+            "Mang man ritho kagan mak khe,",
+            "Jaipat lou ni pou Khrista +:1.",
+            "",
+            "3. Kauh ramgai tang mak khang lunggei,",
+            "Jingmei muang +:1 gum liam bam e;",
+            "Gan guang datro kanloumei pu,",
+            "Ringmei thinglim khou jang suni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "8.8.8.8.",
+        "Eden ramgai khou tei lungkhang",
+        "source hymn 184",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 184."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Eden ramgai khou tei lungkhang",
+        "titleRongmei": "Eden ramgai khou tei lungkhang"
+      }
+    }
+  }
+}

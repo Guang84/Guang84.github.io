@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0030",
+    "number": 30,
+    "source": {
+      "printedNumber": 30,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J.E.Rankin, D.D",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.8.8.9. Ref.",
+      "tune": "SS 298"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang ta Ravguangc rui ’duanghlou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang ta Ravguangc }?2 ’duanghlou pwdiu!",
+            "Katuang latdyn }?2 zaylou diu,",
+            "Kalauziu pangc khou gaengclou diu,",
+            "’Riw dat mak saanv Ravguangc ’duanghlou diu!",
+            "",
+            "’Riw mak saanv, ..’riw mak saanv,",
+            "’Riw mak saanv,Jisu pamv khou;",
+            "Riw mak saanv, .. ’riw mak saanv,",
+            "’Riw dat mak saanv Ravguangc ’duanghlou diu!",
+            "",
+            "2 Nang ta Ravguangc }?2 ’duanghlou pwdiu!",
+            "Kaswkaeng khou nkamhlou diu,",
+            "Tingmik ’thuic manna tiilou diu,",
+            "’Riw dat mak saanv Ravguangc ’duanghlou diu!",
+            "",
+            "3 Nang ta Ravguangc }?2 ’duanghlou pwdiu!",
+            "Theih chaengkhaek }?2 zyn guang pwkhou,",
+            "Zianthaymei baanc }?2 pamclou diu,",
+            "’Riw dat mak saanv Ravguangc ’duanghlou diu!",
+            "",
+            "4 Nang ta Ravguangc }?2 ’duanghlou pwdiu!",
+            "Nang ruc khou zianmei chuangh daanc diu,",
+            "Theihmei duiluat ta tii’maan diu,",
+            "’Riw dat mak saanv Ravguangc ’duanghlou diu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "God be with You!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "9.8.8.9. Ref.",
+        "SS 298",
+        "J.E.Rankin, D.D",
+        "God be with You!",
+        "source hymn 30",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 30."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang ta Ravguangc rui ’duanghlou",
+        "titleRongmei": "Nang ta Ravguangc rui ’duanghlou",
+        "titleEnglish": "God be with You!"
+      }
+    }
+  }
+}

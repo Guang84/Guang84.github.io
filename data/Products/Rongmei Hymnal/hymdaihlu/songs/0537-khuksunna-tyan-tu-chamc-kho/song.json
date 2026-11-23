@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0537",
+    "number": 537,
+    "source": {
+      "printedNumber": 537,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Louis F. Benson",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7.",
+      "tune": "CW 463"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khuksunna ’tyan tu ’chamc kho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang ^&5 bybakloumei ’tyan khang,",
+            "Nang tiimei drakhadui khang,",
+            "Nang ^&5 tiiloumei latkaeng khang,",
+            "Pou, Nang ta ’niw thuancku e.",
+            "",
+            "2 ’Niw ta Nang ’zianloumei paan ^&5,",
+            "Chuzaenghmei tiimei paan ^&5,",
+            "Tingkauh thangc kawloumei paan ^&5,",
+            "’Niw panty sw ’thanlou o.",
+            "",
+            "3 Hymdaihmei thangc ’thanmei nunc 5^&",
+            "Pu pamv khou zaengsw bam e;",
+            "Nang ta ’khwan bammei",
+            "phwamling hei",
+            "Zianmei riang taek mak kan diu.",
+            "",
+            "4 Nang taanv khou ’niw ta ’khavlou o,",
+            "’Niw lung ta sin-gaeklou o;",
+            "’Niw ta thoucloumei kandih khou,",
+            "Pou, Nang guangcdic tii guang o. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "For The Bread",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "8.7.8.7.",
+        "CW 463",
+        "Louis F. Benson",
+        "Nang rui bybakloumei ’tyan khang",
+        "For The Bread",
+        "source hymn 537",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 537."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khuksunna ’tyan tu ’chamc kho",
+        "titleRongmei": "Khuksunna ’tyan tu ’chamc kho",
+        "titleEnglish": "For The Bread"
+      }
+    }
+  }
+}

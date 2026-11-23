@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0248",
+    "number": 248,
+    "source": {
+      "printedNumber": 248,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.T. Cassel",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.12.12.8.",
+      "tune": "RS 75"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai hei ginpu khat re",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai hei ginpu khat re, gin ramc kandic khou hei,",
+            "Akai thu duh thangc e, kachaekc kandi thangc 4@<,",
+            "Ai hei dihkhynmei e, duipaengc",
+            "thangc guanghdic tuang;",
+            "AGuangc taanv khang ai bam tuang e.",
+            "",
+            "Ai phungc guangmei chamv kiu hei e,",
+            "Baanch’ra nunc suan nimei chamv e,",
+            "O, nang guat sa la tho,”",
+            "Twna aGuangc saa e.",
+            "\"Ravguangc khou nang guat sw la tho.\"",
+            "",
+            "2 Mi hei Guangh latdanv e,",
+            "kabamv ’thuic meic guayna,",
+            "Lunghlaicna ngalanc tho,",
+            "siimei paapc phac khou @{4;",
+            "Latpiumei guay tingsaeng",
+            "Kamei lev guanghtu ni,",
+            "AGuangc khang ataanv kiu hei the.",
+            "",
+            "3 Akai kachan diangc e, Sharon",
+            "mwnpuang ’zaengc suangc,",
+            "Ringcsuang, neihlaa suangmei",
+            "kabamv ’thuic khou nai e;",
+            "Khou4@< maansei nunc @{4 gut",
+            "nuhpui thiak dinh khang",
+            "AGuangc @{4 ata thouclou e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The King’s Business",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "12.12.12.8.",
+        "RS 75",
+        "E.T. Cassel",
+        "GUANGH TUANG TAANV",
+        "The King’s Business",
+        "source hymn 248",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 248."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai hei ginpu khat re",
+        "titleRongmei": "Ai hei ginpu khat re",
+        "titleEnglish": "The King’s Business"
+      }
+    }
+  }
+}

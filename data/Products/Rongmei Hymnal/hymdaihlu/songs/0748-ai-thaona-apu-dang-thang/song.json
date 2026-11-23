@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0748",
+    "number": 748,
+    "source": {
+      "printedNumber": 748,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "12.8.12.8. ",
+      "tune": "Luk 15; 11 – 241."
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai thaona apu dang thang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai thaona apu dang thang tat dat kan nithe,",
+            "Ahu khou muang jingmei kum jing;",
+            "Ata jianlou nimei mak ge hei kandih khou,",
+            "Apu ramma ari rana.",
+            "",
+            "Chorus:",
+            "Nkhuai-na man kan sini,",
+            "Karam gai 8#@ tuai mak;",
+            "Ai rui lunglai dat re thei,",
+            "Gaimei la dat nu e.",
+            "",
+            "2. Apu kai khou 8#@ sian lan naimei guai 8#@ mu,",
+            "Rianra rianriumei guai khang e;",
+            "Apumsa rui nap dap tari na thei nicho?",
+            "Bui sukhang rianra tat tu cho?",
+            "",
+            "3. Adi gai cho apu dang khou bam pui kan khou,",
+            "Kandih gaimei phu loumei guai;",
+            "Ai rui thai than lana apu ta ning dat the,",
+            "Lum gaina ai nei dat ni the.",
+            "",
+            "4. Ai nkhuai mei rui rianra rianriu na bam the,",
+            "Akhang bam tilou dat ethei;",
+            "Kandih munpuang arihta ai ning dat lak khe,",
+            "Puang chui lou pui gan ni dui e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "12.8.12.8. ",
+        "Luk 15; 11 – 241.",
+        "Ai thaona apu dang thang",
+        "source hymn 18",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 18."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai thaona apu dang thang",
+        "titleRongmei": "Ai thaona apu dang thang",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

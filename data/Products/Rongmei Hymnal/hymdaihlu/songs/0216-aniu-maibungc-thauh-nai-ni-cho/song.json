@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0216",
+    "number": 216,
+    "source": {
+      "printedNumber": 216,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.R.Latta",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.5.8.5.7.7.5. Ref.",
+      "tune": "SS 185"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aniu maibungc thauh nai ni cho?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Aniu maibungc thauh nai ni cho,",
+            "Nowpouc guang pwkhou?",
+            "Aniu mairiw gaanc chuy ni cho,",
+            "Nowpouc guang pwkhou?",
+            "Zingbangc kiu, ch’rynpui zingbangc,",
+            "’Niu maibungc gaanc gay ni cho,",
+            "Nowpouc guang pwkhou.",
+            "",
+            "He, chamdaanv lo! (3)",
+            "Nowpouc guang pwkhou!",
+            "",
+            "2 “Nowpouc guang the, ariw la tho,”",
+            "Kawmei chu ni cho?",
+            "Neihlaapui khwan kauc ’daw ni cho,",
+            "Nowpouc guang pwkhou?",
+            "Zingbangc kiu, ch’rynpui zingbangc,",
+            "’Niu maibungc gaanc chuy ni cho,",
+            "Nowpouc guang pwkhou?",
+            "",
+            "3 Chamdaanv luai nyan bam la ri tho,",
+            "Nowpouc guang mak saanv;",
+            "Ntamvpui tuang pat maanv pwng e,",
+            "Nowpouc guang pwkhou;",
+            "Zingbangc kiu, ch’rynpui zingbangc,",
+            "’Niu maibungc gaanc chuy ni cho,",
+            "Nowpouc guang pwkhou?",
+            "",
+            "4 Hymdaicna ’niu ariw puni,",
+            "Nowpouc guang pwkhou!",
+            "“Hallelujah! kaucna ’riw ni,",
+            "Nowpouc guang pwkhou!",
+            "Zingbangc kiu, ch’rynpui zingbangc,",
+            "’Niu maibungc gaanc chuy puni,",
+            "Nowpouc guang pwkhou!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "When the Bridgroom Comes!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "8.5.8.5.7.7.5. Ref.",
+        "SS 185",
+        "E.R.Latta",
+        "He Chamdaanv lo",
+        "NOWPOUC GUANG PWKHOU",
+        "When the Bridgroom Comes!",
+        "source hymn 216",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 216."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aniu maibungc thauh nai ni cho?",
+        "titleRongmei": "Aniu maibungc thauh nai ni cho?",
+        "titleEnglish": "When the Bridgroom Comes!"
+      }
+    }
+  }
+}

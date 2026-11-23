@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0457",
+    "number": 457,
+    "source": {
+      "printedNumber": 457,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Hay",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.8.6.8.6.8.6",
+      "tune": "CW 368"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kakhanhmei maekmei kumcna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kakhanhmei maekmei kumcna",
+            "’Niu baanc zay thau mak ge;",
+            "Machunhmei maekmeipu kumcna",
+            "Theih khang na lwm mak ge;",
+            "’Niu lwmmei hei egal ruay kumc",
+            "Neihmik biak zauc ku ni,",
+            "Neihlaana Nang khou kauc ku e,",
+            "Pou, Nang ningmei sw diu!",
+            "",
+            "2 Kheih siimei )}3 meic guay ta",
+            "Katuan bin guang pwkhou,",
+            "Kaniw phay bangc khou ’bum key khang",
+            "Nang )}3 laengvlou mak ge,",
+            "Nang zanc khou ’niw ngamv",
+            "sin thay ni,",
+            "Baantan lev latkaeng )}3;",
+            "Meic guay lungpuam ding khou kaniw",
+            "Nang Lat chamv thay kan diu.",
+            "",
+            "3 ’Suanmei khang pumtan tii Pouc,",
+            "Tanhmei ta tii ’twnlou;",
+            "Duaihmei lat maek, ney tumei maek,",
+            "Gaypui lwn swmei maek;",
+            "Tingpuk bangc khou maansei khat )}3",
+            "Khat ta rai bammei ta,",
+            "He Pou, Nang baanc ngamv lyanlou o,",
+            "Nang ningmei 3)^ sw diu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Not in Dumb Resignation",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "7.6.8.6.8.6.8.6",
+        "CW 368",
+        "John Hay",
+        "Not in Dumb Resignation",
+        "source hymn 457",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 457."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kakhanhmei maekmei kumcna",
+        "titleRongmei": "Kakhanhmei maekmei kumcna",
+        "titleEnglish": "Not in Dumb Resignation"
+      }
+    }
+  }
+}

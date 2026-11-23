@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0692",
+    "number": 692,
+    "source": {
+      "printedNumber": 692,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Nellie Talbot",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 1129"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu thouclou e, kakhang gaanc bam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu !}2 ata kahaw e,",
+            "Neih builwang sw bam khang;",
+            "Kata tiipian khang karamc ni,",
+            "Kai khou, kabamv ’thuic khou.",
+            "",
+            "Neih builwang, neih builwang;",
+            "Jisu !}2 ata kahaw e,",
+            "Neih builwang, neih builwang;",
+            "Kakhang neih builwang sw ni.",
+            "",
+            "2 Ai zianthaymei ta kahaw e,",
+            "Kadanlou thaymei ta;",
+            "Kanac nunc adih neihlaa cho,",
+            "’Twnmei lungc lyan ngam khang.",
+            "",
+            "3 Jisu ’khalou khang ai huay ni,",
+            "Paapc khou keylou mak khang,",
+            "Karamgai ta ai lungc lyan khang,",
+            "Kakhang lungc gaanc bam khang.",
+            "",
+            "4 Jisu khang neih builwang sw ni,",
+            "Karamc tithei ngam ni;",
+            "Kaganv ’thuic Kasiamruai sw ni,",
+            "Hei tangv kauh thangc lungc ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I’ll be a Sunbeam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/8",
+        "8.6.8.6. Ref.",
+        "SS 1129",
+        "Nellie Talbot",
+        "I’ll be a Sunbeam",
+        "source hymn 692",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 692."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu thouclou e, kakhang gaanc bam",
+        "titleRongmei": "Jisu thouclou e, kakhang gaanc bam",
+        "titleEnglish": "I’ll be a Sunbeam"
+      }
+    }
+  }
+}

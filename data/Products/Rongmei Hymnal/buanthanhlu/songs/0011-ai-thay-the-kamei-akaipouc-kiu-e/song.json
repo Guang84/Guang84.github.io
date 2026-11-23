@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-011",
+    "number": 11,
+    "source": {
+      "printedNumber": 11,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai Thay the Kamei Akaipouc Kiu e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          11     Ai Thay The Kamei Akaipouc Kiu e",
+            "                            10. 11. 12. 13. Ref. 8. 9. 10",
+            "",
+            "          Doh hei D",
+            "",
+            "          1. Ai thay the kamei akaipouc kiu e.",
+            "             Kagangv tingsaengcna paapc rui ata guanghtu.",
+            "             Kamei Kalvari khou theihmei nsaa hamh e,",
+            "             Ai ringhbamv laa khang e Kamei theihmei.",
+            "",
+            "                      Apaap tei phucna ai ping e,",
+            "                      Poubauhmei Nang bamna ai ping mak.",
+            "                      Nang khou rui ducna ai tat dat lak khe.",
+            "          2. Kagangv tingsaengcna simei khou ruan tat.",
+            "             Gay taanv taanh khang apanty dui guang kumc the.",
+            "             Akumh ni cho Poubauhmei le, 'khavlou na ro!",
+            "             Nkhuaipui taanv guay ai taanc dat lak khe.",
+            "",
+            "",
+            "          3. Nang rui Kalvari khou tei ryanraana,",
+            "             Zei keymei tei alung rui ning taan mak ge.",
+            "             Hei tei akhang rui hamhna cho Poubauhmei le!",
+            "             Nkhuaipui chwn guay ai ning dat lak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai Thay the Kamei Akaipouc Kiu e"
+      }
+    }
+  }
+}

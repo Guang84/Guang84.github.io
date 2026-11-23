@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0702",
+    "number": 702,
+    "source": {
+      "printedNumber": 702,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Ferdinand Q. Blandchard",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "L.M.",
+      "tune": "CW 217"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Jisu, Nazareth chabwan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Jisu, Nazareth chabwan,",
+            "Guang nimei ric khang chamdaanv khang",
+            "Meic guay lung khou tiihowlou o,",
+            "’Thuihmei ’thanmei Nang panty ta.",
+            "",
+            "2 He Khrista Nang Latkaeng paan ^&8",
+            "Galili ta tii chingkhiuhlou,",
+            "Tiiduak ngammei Nang Lat tihei",
+            "’Niw lung khou tiichingkhiuhlou o.",
+            "",
+            "3 He ryanra khaengvmeipu Jisu,",
+            "Zianpui zaeng kros khou theihmeipu,",
+            "Nang rianra 8^& nsaa hamh e,",
+            "Nang zauzian khou ’niw lwm pwkhou.",
+            "",
+            "4 He padikmei panty Kaipouc,",
+            "Puanhmei khou ^&8 rih ngammei nganv,",
+            "Nang ta phaengcna ’niw huayney e,",
+            "Nang ngamv 8^& ’niw khang tiilou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O Jesus, Youth of Nazareth",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "L.M.",
+        "CW 217",
+        "Ferdinand Q. Blandchard",
+        "O Jesus, Youth of Nazareth",
+        "source hymn 702",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 702."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Jisu, Nazareth chabwan",
+        "titleRongmei": "He Jisu, Nazareth chabwan",
+        "titleEnglish": "O Jesus, Youth of Nazareth"
+      }
+    }
+  }
+}

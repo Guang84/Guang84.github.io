@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0738",
+    "number": 738,
+    "source": {
+      "printedNumber": 738,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.9",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Man kandiu rianra rianriumei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Man kandiu rianra rianriumei,",
+            "Njianmei le ntammei ni;",
+            "Kapma rianramei guai 9!@ni,",
+            "Tingsang neilamei su dat kandiu.",
+            "",
+            "Chorus:",
+            "Rianra rianriu mei nai lak khe,",
+            "Kanloumeipu bam pui ram khou;",
+            "Kandih rianramei khang lak khe,",
+            "He! abumang neila na tatro.",
+            "",
+            "2. Airui ning bam e guang dat khang,",
+            "Kagan le tingmik na guangthe;",
+            "Kandih puat guai hei bai ngam the,",
+            "Njuan no pou rui jianlou pui ram.",
+            "",
+            "3. Champan thiu le lung neilahna,",
+            "Zion poubaumei ta thuan no;",
+            "Nkhuai mei guai ta kuaklou na,",
+            "Jai gut lou ni Tingkau ram khou 9!@."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "8.8.8.9",
+        "Man kandiu rianra rianriumei",
+        "source hymn 8",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 8."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Man kandiu rianra rianriumei",
+        "titleRongmei": "Man kandiu rianra rianriumei",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-028",
+    "number": 28,
+    "source": {
+      "printedNumber": 28,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chabwan guay Nic 'Suankey de",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          28       Chabwan guay nic 'suankey de",
+            "                              7.7.8.8.10.Ref.8.9.8.9",
+            "",
+            "               1. Chabwan guay ni 'suankey de,",
+            "                  Alauc guay nic lakkey de.",
+            "                  Ringhpouc khou ngangvloumei guay mu,",
+            "                  Eagle mou kumc samcku pwni;",
+            "                  Kaniw pakbam sihnic 'suankey lak ge.",
+            "",
+            "                         Maansei khou ngangvloumei suangc mu,",
+            "                         Ringhpouc khou duploumei rui gay e.",
+            "                         Guangh nunc khou ngangvloumei suangc mu,",
+            "                         Ringhpouc khou duploumei rui gay e.",
+            "",
+            "               2. Nang pumtan rui ngammak ge,",
+            "                  Bumaengc ric sw nimei tei,",
+            "                  How makmei ric dou nimei tei,",
+            "                  Ringhpouc bumaengc paan rui ngam ni.",
+            "                  Huayney ranvmei guay rui rih hei ngam ni.",
+            "",
+            "               3. Bumaengh khuamguangmei khangtei,",
+            "                  Hymdaihmei pyrun tii ni.",
+            "                  Tingkauh Guangcdic gaymei khoutei,",
+            "                  Ringhpouc ta thuanckuna bam ni,",
+            "                  Hallelujah kaucna thuanc bam ni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chabwan guay Nic 'Suankey de"
+      }
+    }
+  }
+}

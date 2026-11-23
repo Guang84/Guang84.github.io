@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0225",
+    "number": 225,
+    "source": {
+      "printedNumber": 225,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. Godfrey Thring",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.5.6.5. D. Ref.",
+      "tune": "SS 197"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chulou o, duipuisyng",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Chulou o, duipuisyng",
+            "’Thukmei ta gungcna,",
+            "Thau reymei baansyam ta",
+            "Tiiringc thaumei pu;",
+            "Bumaengh ’Thanmei Nang {:1",
+            "Ringhmei thiu tiilou,",
+            "’Niw khou mbunlou o,",
+            "Nang ta layluih khang.",
+            "He gaanhmei lev ringhmei,",
+            "’Niw khwan chulou o;",
+            "Huayneymei lev thuanhmei",
+            "Kariuna suan e.",
+            "",
+            "2 Muangh maekmei tingpuk khou",
+            "Neihmik pat pwkhou,",
+            "Nang ’naa bammei thay ni,",
+            "He Bumaengh ’Thanmei;",
+            "Gaanclou o, Nang riw 1<:,",
+            "Muangh gummei maekna,",
+            "’Niw hu khou ringhting hei",
+            "Nang chwn khou lungh khang.",
+            "",
+            "3 Kalaanv neicrin kin khou,",
+            "Rih tanc liang pwkhou,",
+            "’Niw ta phungc kulou o,",
+            "Gumeipu pamv khou;",
+            "Khou 1<: ai duplou ni,",
+            "’Niw taanv luai mak saanv;",
+            "Khou 1<: rih adow ni,",
+            "Rih hei ngam mak saanv.",
+            "",
+            "4 Neihkhyam key kan pwkhou,",
+            "Chwn karum pwkhou,",
+            "Zingc ranv khith khit pwkhou,",
+            "Lungh ryanra pwkhou,",
+            "Nang ramzian kadan {:1",
+            "Tiigaanclou pw diu,",
+            "Hymdaih riw souclou diu,",
+            "Tingzyn tingpuk khou.",
+            "",
+            "5 Lauthwan, kalaanv, tingzyn,",
+            "’Bui ganv khou punic,",
+            "Nang khou {:1 chaengh ringhmei",
+            "Tiilou o, ’niw khou;",
+            "Tiiringc ngammei ramring",
+            "Karamzian ramring,",
+            "Theihmei tiiringc ngammei",
+            "Kauh ramring tii o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Hear Us, Thou That Broodedst",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "6.5.6.5. D. Ref.",
+        "SS 197",
+        "Rev. Godfrey Thring",
+        "Hear Us, Thou That Broodedst",
+        "source hymn 225",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 225."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chulou o, duipuisyng",
+        "titleRongmei": "Chulou o, duipuisyng",
+        "titleEnglish": "Hear Us, Thou That Broodedst"
+      }
+    }
+  }
+}

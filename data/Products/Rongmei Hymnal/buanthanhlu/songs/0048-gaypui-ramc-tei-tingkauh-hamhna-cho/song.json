@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-048",
+    "number": 48,
+    "source": {
+      "printedNumber": 48,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gaypui Ramc tei Tingkauh Hamhna cho?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          48 Gaypui Ramc tei Tingkauh Hamhna Cho?",
+            "                                     9.9.9.3.9.9.9",
+            "          1. Gaypui ramc tei tingkauh hamhna cho? (3)",
+            "             Ai tat ni.",
+            "             Gaypui ramc tei tingkauh hamhna cho? (2)",
+            "             Ai tat ni, ai tat ni heic ramc thangc.",
+            "          2. Neihmik key dat makpui ramc khoutei (3)",
+            "             Ai tat ni.",
+            "             Neihmik key dat makpui ramc khoutei (2)",
+            "             Ai tat ni, ai tat ni heic ramc thangc.",
+            "          3. Khuaihdui luangce, guaih noudui luangc e (3)",
+            "             Heic ramc tei.",
+            "             Khuaihdui luangc e, guaih noudui luangc e (2)",
+            "             Ai tat ni, ai tat ni heic ramc thangc.",
+            "          4. Zinghmei nai dat makpui ramc khoutei (3)",
+            "             Ai tat ni.",
+            "             Zinghmei nai dat makpui ramc khoutei (2)",
+            "             Ai tat ni, ai tat ni heic ramc thangc..",
+            "          5. Ryanraa ryanriumei maekpui ramc thangc (3)",
+            "             Ai tat ni.",
+            "             Ryanraa ryanriumei maekpui ramc thangc (2)",
+            "             Ai tat ni, ai tat ni heic ramc thangc.",
+            "          6. Mwnpwang gaymei puanghpui ramc thangc tei (3)",
+            "             Ai tat ni.",
+            "             Mwnpwang gaymei puanghpui ramc thangc tei (2)",
+            "             Ai tat ni, ai tat ni heic ramc thangc.",
+            "          7. Hallelujah he Hellelujah (3)",
+            "             Thuanc bam ni.",
+            "             Hallelujah he Hallelujah (2)",
+            "             Thuanc bam ni, Thuanc bam ni heic ramc thangc."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gaypui Ramc tei Tingkauh Hamhna cho?"
+      }
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0162",
+    "number": 162,
+    "source": {
+      "printedNumber": 162,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Thomas Tiplady",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.5.8.5. D.",
+      "tune": "CW 229"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Olive bang ding khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Oliv bang ding khou, he Khrista,",
+            "Nang huayney khwan e;",
+            "Ngangc thaumei Nang zawpaanv khou 8^&",
+            "Bwriw souclou e,",
+            "Ryanra langvna Nang sanpiangc khou",
+            "Zeithw puak pat the!",
+            "’Ki Nang puat ’rithmei ganc key mak,",
+            "Pou, Nang ta thuanc e.",
+            "",
+            "2 Nang thei laypui zaeng ryanramei,",
+            "Gaanc patmei riw khou,",
+            "Pikwan khou Nang kros laa thaumei",
+            "’Niw phaengc how kan diu;",
+            "Nang ningmei taanv khou ryanramei",
+            "Azuh ’riw nuh e,",
+            "Taanvdwan kathuic khou nic Nang khang",
+            "Lwmnuhmei sw diu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Where the Olive’ Grove Stood Darkly",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "8.5.8.5. D.",
+        "CW 229",
+        "Thomas Tiplady",
+        "Where the Olive’ Grove Stood Darkly",
+        "source hymn 162",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 162."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Olive bang ding khou",
+        "titleRongmei": "Olive bang ding khou",
+        "titleEnglish": "Where the Olive’ Grove Stood Darkly"
+      }
+    }
+  }
+}

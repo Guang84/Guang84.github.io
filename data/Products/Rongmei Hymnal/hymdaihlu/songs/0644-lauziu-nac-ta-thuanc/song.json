@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0644",
+    "number": 644,
+    "source": {
+      "printedNumber": 644,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Julia H.Johnston.",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.11. Ref.",
+      "tune": "SS 1020"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lauziu Nac ta thuanc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thuakloumei nunc tingkauh khou lu suan bam e,",
+            "Kaniw pyrun guay Guangh hu khou lou keyna;",
+            "Dih ryanra lev pingmei, siimei guay ’maan the,",
+            "Thuakloumei ’thanmei nunc 4@<",
+            "lu thanh suan e!",
+            "",
+            "Lau .. ziu Nac ta thuanc,",
+            "Kalvari khou suluaimei pu,",
+            "Lau .. ziu Nac ta thuanc,",
+            "Tingsaengzaeng ringcbammei pu ta.",
+            "",
+            "2 He, nthuih kanmei zauzian tuang ch’rynmei lu!",
+            "He, namhgaymei padikmei kachaekc ’gaw kuak!",
+            "Paapc mei khang theicna ringc datmei pu paan @{4,",
+            "Muh lev guangh swna tingsaeng ’niu lungc puni.",
+            "",
+            "3 Kaniw chy lev pwan sou ’thanmei nunc na @{4",
+            "’Thanmei nunc lu khou 4@< lay suan ngam khang de,",
+            "He Kaipouc, ’niu tuang paapc guay khiu ’thanlou o,",
+            "Hymdaih neihlaa lu 4@< ’taw tii-suanlou tho."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "They Sing a New Song",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "11.11.11.11. Ref.",
+        "SS 1020",
+        "Julia H.Johnston.",
+        "Thuakloumei nunc tingkauh khou lu",
+        "They Sing a New Song",
+        "source hymn 644",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 644."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lauziu Nac ta thuanc",
+        "titleRongmei": "Lauziu Nac ta thuanc",
+        "titleEnglish": "They Sing a New Song"
+      }
+    }
+  }
+}

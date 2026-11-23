@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-013",
+    "number": 13,
+    "source": {
+      "printedNumber": 13,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": null,
+      "meter": "7.5.7.5",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lung ryanramei muang ding khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Lung rianra mei muangding khou,",
+            "Ai rui bam khuan e,",
+            "Neihlamei neiriu tuaina,",
+            "Timaan ni makge.",
+            "",
+            "He! Suaihiem lou o nang ta ning e,",
+            "Aru khou gan guang o,",
+            "Zingmei ri rui ata ding kham ma",
+            "Tigan no tingsaeng ganpui riu,",
+            "Neihlapui ram khou zaigut lou o.",
+            "",
+            "2. Adam tarou zing mei khou,",
+            "Nang rui gan bam kun,",
+            "Kalloumei nang zei paan rui,",
+            "Nang ta ningtan mak.",
+            "",
+            "3. Kalang mei khuan rui padik,’",
+            "Zaatguai na lung khou,",
+            "He! Eden mei tuai pui tang,",
+            "Ningmei rui thuai e.",
+            "",
+            "4. Theithu bumaeng kandih khou,",
+            "Neihlaa pui kan khou,",
+            "Rianramei kandi mun ta,",
+            "Ningdat pulak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 13",
+        "Khristian Luzaam PDF",
+        "Chord: Eb",
+        "Meta 3: 7.5.7.5"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 13. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 13,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lung ryanramei muang ding khou",
+        "titleRongmei": "Lung ryanramei muang ding khou"
+      }
+    }
+  }
+}

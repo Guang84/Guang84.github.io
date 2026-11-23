@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0705",
+    "number": 705,
+    "source": {
+      "printedNumber": 705,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Lyman G.Guyler.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "12/8",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "SS 1108"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thuanpui lu rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thuanhpui lu #^7 zaenggay lu #^7",
+            "Lungh neihlaana Kata thuanc kho,",
+            "Zianna zaylou bammeipu ta,",
+            "Chabwan nunc ta zianmeipu ta.",
+            "",
+            "Neihlana ’niu ding kho,",
+            "Lungh lev baanh kariuna,",
+            "’Maanmei ta khuam guang kho,",
+            "Paapc lev siimei khou #^7;",
+            "Mi hei aniu thouc e,",
+            "Kazanc hym tiidaihmei,",
+            "Thuakloumeipu Jisu lam lev",
+            "Karamzian ’dauhmei hei.",
+            "",
+            "2 Khou hei aniu kariu bammei",
+            "Nzianmei phwam, kunghmei rup nunc,",
+            "’Niu ravsuai ’gaw rym kumc ku diu;",
+            "Zauzian Kaipouc Ravguangc bamv khou.",
+            "",
+            "3 He Pou Ravguangc, alauc nunc Pam,",
+            "Chaeng zaylou o, gaeksianlou o,",
+            "Ngammei Nang baanc #^7 zaylou o,",
+            "Chabwan phwam ta kakalou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Our Christian Band",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "12/8",
+        "8.8.8.8. Ref.",
+        "SS 1108",
+        "Lyman G.Guyler.",
+        "Our Christian Band",
+        "source hymn 705",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 705."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thuanpui lu rui",
+        "titleRongmei": "Thuanpui lu rui",
+        "titleEnglish": "Our Christian Band"
+      }
+    }
+  }
+}

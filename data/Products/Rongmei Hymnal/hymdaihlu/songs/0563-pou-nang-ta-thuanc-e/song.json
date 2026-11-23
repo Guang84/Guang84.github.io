@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0563",
+    "number": 563,
+    "source": {
+      "printedNumber": 563,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Calvin W. Laufer",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.10.10.10.",
+      "tune": "CW 495"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pou, Nang ta thuanc e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Pou, Nang ta thuanc e, Nang tatloumei khang,",
+            "Kauh liangmei khou lev ’naa liangmei bamv khou;",
+            "Nang bamvpaeng tangc e, dih, luipui lik ge,",
+            "Khou 5#^ tatmei nunc Nang lev tat ’chamc e.",
+            "",
+            "2 Nkamhpui bamv khou Nang ta ’phu tow e,",
+            "Nang zawpaanv gaanhmei ’niw khang ch’rynmei e;",
+            "’Ki Galili kumc thay-how makmei khou,",
+            "Nang siamruai sw bam khou how gay ranv e.",
+            "",
+            "3 Ryanrapui bamv khou Nang bammei thay e,",
+            "Zianmei padikna, swmloumei phungcna;",
+            "Puatrith phungc sihni Nang #^5 sin bam de,",
+            "Nang siamruai sw bam khou ’niw diw gay e.",
+            "",
+            "4 Nang hym ta how e, zaw gumphey kumcna,",
+            "Chyng-’zaengc kabamv ’thuic maibwang kumc chuangc e,",
+            "’Ki thuaklou tangmei maansei nuncmik khou",
+            "Nang siamruai sw bam khou chingkhiuh ranv e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "We Thank Thee, Lord",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "10.10.10.10.",
+        "CW 495",
+        "Calvin W. Laufer",
+        "We Thank Thee, Lord",
+        "source hymn 563",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 563."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pou, Nang ta thuanc e",
+        "titleRongmei": "Pou, Nang ta thuanc e",
+        "titleEnglish": "We Thank Thee, Lord"
+      }
+    }
+  }
+}

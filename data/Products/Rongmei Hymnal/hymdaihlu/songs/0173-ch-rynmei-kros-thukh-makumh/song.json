@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0173",
+    "number": 173,
+    "source": {
+      "printedNumber": 173,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Isaac Watts",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.8.8.8.",
+      "tune": "SS 115"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ch’rynmei kros thukh makumh",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Hymdaihmei Guangc Nac theicloumei",
+            "Ch’rynmei kros thukh makumh pwkhou,",
+            "Akhou naimei kamv nsa de,",
+            "Ahym guay ta ai karaeng e.",
+            "",
+            "2 Khrista theicloumei khou hamhna,",
+            "Agaengh sw khang khat sihni maek,",
+            "’Maan nimei ai kahawmei guay",
+            "Jisu zei khou ai katlou the.",
+            "",
+            "3 Kapy, Kabaanc, Kaphay khou <~1",
+            "Ryanramei lev zianmei luangc key,",
+            "Hei kumhmei panty khou how tha,",
+            "Sauh <~1 kunghmei pyrun swmei?",
+            "",
+            "4 Kandih puat guay atuang swna",
+            "Khat sihni luih mak kida khang,",
+            "Ch’rynmei Kazauzian <~1 ’tanv e,",
+            "Abumaengc, apanty guay ta."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "When I Survey the Wondrous Cross",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "3/4",
+        "8.8.8.8.",
+        "SS 115",
+        "Isaac Watts",
+        "When I Survey the Wondrous Cross",
+        "source hymn 173",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 173."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ch’rynmei kros thukh makumh",
+        "titleRongmei": "Ch’rynmei kros thukh makumh",
+        "titleEnglish": "When I Survey the Wondrous Cross"
+      }
+    }
+  }
+}

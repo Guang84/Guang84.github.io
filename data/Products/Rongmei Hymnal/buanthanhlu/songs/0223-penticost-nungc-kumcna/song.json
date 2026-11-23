@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-223",
+    "number": 223,
+    "source": {
+      "printedNumber": 223,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Penticost nungc Kumcna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          223 Penticost Nungc kumcna",
+            "                        10.9.10.5. Ref. 10. 9.6.9",
+            "",
+            "          1. Penticost nungc kumna he Poubauhmei",
+            "             Guanglou dat ro meic kathuihna khou.",
+            "             Tingsaeng gaymei chaeng tei maan dat mak khang,",
+            "             Zaypatlou dat ro.",
+            "",
+            "                     Ryanraa zinghmei ramc tigaanclou diuc khang,",
+            "                     Tikeylou o Nang zauzian gaymei,",
+            "                     Paapc guayna kau 'than khang,",
+            "                     Mai chuanghmei kumc Bumaengh Than' guang o.",
+            "",
+            "          2. Theihmei nganvna khaengvna theic kanmei guay,",
+            "             Kandih neihlaamei laaniimei guay,",
+            "             Nduanghgut ro tingsaeng gaymei ramc khou,",
+            "             Maan nimei guay ta.",
+            "",
+            "          3. Bumaengh Thanmei nzianmei guang dat ro,",
+            "             Ringc nii the paapc khou maanmei guay rui,",
+            "             Tingsaeng' ringc nimei chaeng tei thay makna,",
+            "             Maan ngam kan ni the.",
+            "",
+            "          4. 'Muc saeng lak khe thing ruc khou khaengvloumei,",
+            "             Aniu lung zinghmei rui gumliamna,",
+            "             Timaanlou o kandih neihlaamei guay,",
+            "             Nang ta ning dat khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Penticost nungc Kumcna"
+      }
+    }
+  }
+}

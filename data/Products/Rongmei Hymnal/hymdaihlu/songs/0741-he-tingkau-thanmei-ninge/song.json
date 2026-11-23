@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0741",
+    "number": 741,
+    "source": {
+      "printedNumber": 741,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.10.10 ",
+      "tune": "John 14:26"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He! Tingkau thanmei ninge",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He! Tingkau thanmei ninge sam kei o,",
+            "Alung jingmei guai hei timan lou o;",
+            "Rianra jingmei rui ata duam liam the,",
+            "Tingsang gaimei Eden than gaimei 8#@.",
+            "",
+            "Chorus:",
+            "He! Poubaumei kata karana khang,",
+            "Ringmei dui khun ne poubaumei nang;",
+            "Katik-kagun daimei tingkau ram gai,",
+            "Nang dinge aniu ta gumliam lou o.",
+            "",
+            "2. Reikhou Eden pilung khou bam pui tang,",
+            "Kandih pap sipui bam khou bam lana;",
+            "Kalvari ching gaimei pan khou ruina,",
+            "Tingsang salem than gaimei 8#@ lani.",
+            "",
+            "3. Nangjan 8#@ huai pukhou jingmei man e,",
+            "Bumang thanmei kandih thuan ku puni;",
+            "Aram neila airui sa thai makge,",
+            "Hei 8#@ ninga akhang tinggan pat the.",
+            "",
+            "4. Kandih mun gaimei guaini puang tuai the,",
+            "Neila pui tuang guaini man puni the;",
+            "He! Poubaumei lunmu tuai dat lak khe,",
+            "Hei 8#@ akhang tingsanga puang puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "10.10.10.10 ",
+        "John 14:26",
+        "He! Tingkau thanmei ninge",
+        "source hymn 11",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 11."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He! Tingkau thanmei ninge",
+        "titleRongmei": "He! Tingkau thanmei ninge"
+      }
+    }
+  }
+}

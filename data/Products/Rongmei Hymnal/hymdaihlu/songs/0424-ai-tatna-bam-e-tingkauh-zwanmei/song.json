@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0424",
+    "number": 424,
+    "source": {
+      "printedNumber": 424,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "A.M. Burgeson",
+      "composer": null,
+      "arranger": null,
+      "chord": "B",
+      "key": null,
+      "beat": "4/4",
+      "meter": "13.9.13.10. Ref.",
+      "tune": "3 Alex 406"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai tatna bam e tingkauh ’zwanmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zinghmei paapc chaeng khou ai hei ruan tat saengc bam lak khe,",
+            "Mbaanv khou akhang neihlaamei maek;",
+            "Tingkauh kai ’zwan tat bammei nu lev tat ’chamc bam e,",
+            "Ai tat bam e tingkauh ’zwanmei chaeng khou.",
+            "",
+            "Ai tatna bam e, ai tatna bam e;",
+            "Ai tat bam e tingkauh ’zwanmeichaeng khou;",
+            "Kaipouc ({0 kachaekc raengcmun khou ’khwan bammei ta how ni,",
+            "Ai tat bam e tingkauh ’zwanmei chaeng khou.",
+            "",
+            "2 Chaenglwan hei nrum sihni Kamei zay suaklou ni,",
+            "Tingmik ’thuic Kariw ({0 gaanclou e;",
+            "Ai tat ’chamc ni malaaloumei Jisu ziap nunc lev,",
+            "Ai tat bam e tingkauh ’zwanmei chaeng khou.",
+            "",
+            "3 Hymdaihmei kaidai kiu tingkauh thangc 0({ nai bam e,",
+            "Khou 0({ akhang bamv chamdaanvlou e;",
+            "Achaenglwan luai guang pwkhou khou 0({ Kata ’riw ni,",
+            "Ai tat bam e tingkauh ’zwanmei chaeng khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I am on the Road that Leads to Glory",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "B",
+        "4/4",
+        "13.9.13.10. Ref.",
+        "3 Alex 406",
+        "A.M. Burgeson",
+        "Zinghmei paapc chaeng khou ai",
+        "I am on the Road that Leads to Glory",
+        "source hymn 424",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 424."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai tatna bam e tingkauh ’zwanmei",
+        "titleRongmei": "Ai tatna bam e tingkauh ’zwanmei",
+        "titleEnglish": "I am on the Road that Leads to Glory"
+      }
+    }
+  }
+}

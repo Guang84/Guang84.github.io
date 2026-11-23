@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0456",
+    "number": 456,
+    "source": {
+      "printedNumber": 456,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "George T. Coster",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.6.6.6.8.8.",
+      "tune": "CW 359"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tat tho, he tancbaucna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tat ro, he tanc baucna!",
+            "Rey nungc mei nunc kumcna,",
+            "Laanhmei ta athwngna,",
+            "Baucna ding ngam kan e;",
+            "Kangkai lev mai khou phaiclou e,",
+            "’Ki Kazanc hym tiidaic kan e.",
+            "",
+            "2 Kaniw nac nunc aniu",
+            "Kaniw phaykaamv suicna,",
+            "Pingmei hei nai makna",
+            "’Thanmei ric adow ni;",
+            "Khrista tuang tanhmei rih mei nunc",
+            "Dih ramgai khou bowlou lak ge.",
+            "",
+            "3 Tat ro, he tanc baucna",
+            "Rih hei tancna bam khou!",
+            "’Khuaimei lev siimei ta",
+            "Baucna ’niu athwng kho;",
+            "Rih tanc pwkhou ’niw ding ngam khang,",
+            "Nang pumtan @<4 Pou, ’khavlou o.",
+            "",
+            "4 Rih hei ’dow saengc lak khe,",
+            "’Thanmei ric ’dow ’thaekc ni!",
+            "Lwmmei ric hei ngamna",
+            "Chuzaenghna lungc ni the,",
+            "Zauc lo, rih ngam pyrun how the,",
+            "Tat tho, baucna he abumaengc."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "March on, O Soul, With Strength",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "6.6.6.6.8.8.",
+        "CW 359",
+        "George T. Coster",
+        "March on, O Soul, With Strength",
+        "source hymn 456",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 456."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tat tho, he tancbaucna",
+        "titleRongmei": "Tat tho, he tancbaucna",
+        "titleEnglish": "March on, O Soul, With Strength"
+      }
+    }
+  }
+}

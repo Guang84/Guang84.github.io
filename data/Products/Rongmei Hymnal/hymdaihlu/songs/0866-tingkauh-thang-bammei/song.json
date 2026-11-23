@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0866",
+    "number": 866,
+    "source": {
+      "printedNumber": 866,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh thang bammei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Tingkauh thang bammei guang Jisu,",
+            "Lung rinaramei makmei Jisu;",
+            "Kandih khou rianra bam khou hei,",
+            "Akhanng khrista %&6 tigan lou.",
+            "",
+            "Chorus:",
+            "Charin tuang e (2),",
+            "Kajaujian hei charin tuang e;",
+            "Kalvari khou akhang thei lou,",
+            "Ai ning thukge kanloumei pu.",
+            "",
+            "2. Ning tan makge he guang Jisu,",
+            "Ai thai tang ngam makmei Jisu;",
+            "Lung rianramei timan lou o,",
+            "Ringmei thingbang khou jailou o.",
+            "",
+            "3. Lung rianramei duidai bam khou,",
+            "Kan ngam mak ge jai kanlou o;",
+            "Charin tuange nang jaujian hei,",
+            "Akhang khrista %&6 thei loumei.",
+            "",
+            "4. Timgkauh thang namdai gaimei nai,",
+            "Lungning njangmei tilou o;",
+            "Njianmei riang %&6 bang louo,",
+            "Kai gaimei khou tibam lou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "8.8.8.8.",
+        "Tingkauh thang bammei",
+        "source hymn 136",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 136."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh thang bammei",
+        "titleRongmei": "Tingkauh thang bammei",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

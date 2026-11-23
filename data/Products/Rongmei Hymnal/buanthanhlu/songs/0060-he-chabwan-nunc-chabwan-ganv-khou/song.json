@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-060",
+    "number": 60,
+    "source": {
+      "printedNumber": 60,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Chabwan nunc, Chabwan Ganv khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          60 He Chabwan nunc, Chabwan Ganv khou",
+            "                             8.6.12.8.6. Ref. 7. 8.8. 6",
+            "          Doh hei B",
+            "",
+            "          1. He chabwan nunc, chabwan ganv khou.",
+            "             Ravguangc khang tiipat ro.",
+            "             Ravguangc rui nang chabwan ganv khou",
+            "             taanv sw nii e.",
+            "             Guloumeipu siamruai sw o,",
+            "             Kachaekc kumhpui ganv khou.",
+            "",
+            "                      Nang chabwan ganv gay khou hei,",
+            "                      Nang Ravguangc ta ningtow la tho.",
+            "                      Chabwan ganv khou lwmlou la tho;",
+            "                      Ntaw kaganv kiu the.",
+            "",
+            "          2. Kaganv lev tingmik 'naa guang the;",
+            "             Panty hei luai guang the;",
+            "             Panty tingmik gaymei tat twan kan pwni the.",
+            "             He chabwan nunc, nang puangc chuy' khou",
+            "             Poubauhmei taanv taanc o.",
+            "",
+            "          3. Ravguangc saa e chatbwan ganv khou,",
+            "             Kataanv taanc o 'taw hei.",
+            "             Nang chabwan ganv gaymei nthuanh kiu",
+            "             'maan nuh e.",
+            "             He chabwan nunc, nang puangc chuy o:",
+            "             Ntaw kaganv kiu the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Chabwan nunc, Chabwan Ganv khou"
+      }
+    }
+  }
+}

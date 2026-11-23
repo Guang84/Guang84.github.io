@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-073",
+    "number": 73,
+    "source": {
+      "printedNumber": 73,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Poubauhmeile Nzianlou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          73 He Poubauhmei le, Nzianlou o",
+            "                      9.9.9.8. Ref. 9. 9. 11.8",
+            "          Doh hei E",
+            "",
+            "          1. He Poubauhmei le, nzianlou o.",
+            "             Ai hei sansi liangmei paapcmei e.",
+            "             Achaeng lwan hei zingc khithkhit key the:",
+            "             Gaanhmei riw tei tiilou na ro.",
+            "",
+            "                  Arup 'ryan guay thu gaanhmei khou bam:",
+            "                  Kaniw neihlaamei rui padik bam;",
+            "                  Chwn siina bammei hei araana kumc the:",
+            "                  He Poubauhmei 'zianlou na ro.",
+            "",
+            "          2. Kandih kabamv 'thuih khou tat sihnic,",
+            "             Taanc niimei taanv guay taanc bam sihnic,",
+            "             Akhou neihlaamei khatsihnic maek;",
+            "             Apanty zingc haihhai key the.",
+            "",
+            "          3. He Poubauhmei Jisu, Nang khourui",
+            "             Kaganv tingsaengcna leytat sihnic,",
+            "             Ntaw thu Nang pamv khou guang dat the;",
+            "             Ringhmei dui tizangvlou na ro."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Poubauhmeile Nzianlou o"
+      }
+    }
+  }
+}

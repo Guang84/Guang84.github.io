@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-048",
+    "number": 48,
+    "source": {
+      "printedNumber": 48,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "11.11.11.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He ! Kaguangh David khuang khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He ! Kaguangh David khuang khou gaanmei gaanphiu,",
+            "Nang ramthan gaimei tei nang rui damlou e;",
+            "Ai neihlamei mundui tei chakhuan kumna,",
+            "Theihmei duipaeng khou nang zanta thuan bamni.",
+            "",
+            "He ! kaguangh tuna nang zan thuankuni,",
+            "Kapumna nang dammei guai tei le;",
+            "Kaguangh thuankumei khuan tei kau o,",
+            "Kandimei neihla ngam kandiu khang.",
+            "",
+            "2. Mei guanh makpui hu khou tei kaguangh Jisu:",
+            "Kazei luangkei khang ‘za maknga keilou the;",
+            "Pa thaina thailou lapui tuang e theimu,",
+            "Kandi hei lunghgeihmei makna khaengni e.",
+            "",
+            "3. Kaguangh khou tei cho bam khang damlou mei tei,",
+            "Daniel kumna aini tipma dingni e;",
+            "Kachaek gaimei tei le kazan ‘thukmei tei,",
+            "Rianra mei teini ryan rana ai suini.",
+            "",
+            "4. He ! Immanuel kandi kathan dammei,",
+            "Kasaan kadiat riat louna tuang khuan theimu;",
+            "Rianra akhaeng na tat maan ngam kanmei guai,",
+            "Kau kagun daihpui ram khou kalun houni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 48",
+        "Khristian Luzaam PDF",
+        "Chord: E",
+        "Meta 3: 11.11.11.11."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 48. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 48,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He ! Kaguangh David khuang khou",
+        "titleRongmei": "He ! Kaguangh David khuang khou"
+      }
+    }
+  }
+}

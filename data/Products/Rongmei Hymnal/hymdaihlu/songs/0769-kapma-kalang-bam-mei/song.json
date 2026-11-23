@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0769",
+    "number": 769,
+    "source": {
+      "printedNumber": 769,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "6.6.10.6.6.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kapma kalang bam mei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kapma kalang bammei,",
+            "Ning summei guai luai the;",
+            "Tingkau Salem ram khou bammei nunguai,",
+            "Pap rihta ngam lou the (2),",
+            "Thei meita ping lakkhe,",
+            "He neilana bam kan the.",
+            "",
+            "2. Hei kandih hei jaona,",
+            "Jingmei rui gumliam the;",
+            "Rianamei nanun guai kalang bamme,",
+            "Neila pui kan mun hei (2)",
+            "Puang tuai lou puni the,",
+            "He hei ram ta ai ninge.",
+            "",
+            "3. He nang jei pan khou rui,",
+            "Kau namdai ta nkhuan;",
+            "Duipang njianmei nun bam puiram khou,",
+            "Khou 6$% jai kan lou o (2),",
+            "Bumang thanmei nun khou,",
+            "He ai bam kajao ni e.",
+            "",
+            "4. Salem namthan gai khou,",
+            "Ai guang tang puni the;",
+            "Kauh nthanmei nun le kanloumei nun,",
+            "Guang bampang khou dinga (2),",
+            "Neila pui lu suan ni,",
+            "He Hallelujah tuna."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "6.6.10.6.6.7.",
+        "Kapma kalang bam mei",
+        "source hymn 39",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 39."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kapma kalang bam mei",
+        "titleRongmei": "Kapma kalang bam mei"
+      }
+    }
+  }
+}

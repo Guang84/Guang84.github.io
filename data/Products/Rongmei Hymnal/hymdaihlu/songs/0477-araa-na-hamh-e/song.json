@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0477",
+    "number": 477,
+    "source": {
+      "printedNumber": 477,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.E. Hewitt",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "6/8",
+      "meter": "11.11.11.13. Ref.",
+      "tune": "RS 325"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ARAA NA HAMH E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Ping riu, Ai ni nang lev tat ’chamcna bam de,”",
+            "Gaanphiu riw kumc achaeng mi lat {:1 gaanclou;",
+            "Zipchwng muangh ding khou hei latryan {:1 tiigaanc;",
+            "“Nang ta Ai ’patlou mak, khat sihni ’patlou lak ge.”",
+            "",
+            "Araana hamh e, .. araana hamh e!",
+            "Ata ’patlou lak ge tw e,",
+            "Ata ’patlou mak puni;",
+            "Araana hamh e,...araana hamh e!",
+            "Ata ’patlou lak ge tw e,",
+            "Ata ’patlou mak puni.",
+            "",
+            "2 Mwnpwang guay puangc patna kim key dat kan the,",
+            "Kandih neihkhyam keyna zingc key kan sihni,",
+            "Jisu Sharon mwnpwang Kamei nunc khang puangc",
+            "Jisu tingkauh riw e, ata ganc rulou lak ge.",
+            "",
+            "3 Theih chaengkhaek {:1 thei-hu padik bam sihni,",
+            "Jisu adaeng khou bamna saa e: “Ping riu!”",
+            "Lauphunhswan ’ruay guay {:1 neihlaa lu suan kumc",
+            "Alung khou suan bam e, “Ata ’patlou mak puni.\""
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "6/8",
+        "11.11.11.13. Ref.",
+        "RS 325",
+        "E.E. Hewitt",
+        "PINGRIU, AI NIC NANG LEV TAT ’CHAMC",
+        "Never Alone",
+        "source hymn 477",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 477."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ARAA NA HAMH E",
+        "titleRongmei": "ARAA NA HAMH E"
+      }
+    }
+  }
+}

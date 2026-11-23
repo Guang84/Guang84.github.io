@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-058",
+    "number": 58,
+    "source": {
+      "printedNumber": 58,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.9.6.8.7.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Sam thai e thei tingkao thu tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Samthai e thei tingkao thu tei,",
+            "Muang le ganchuang na ding khou ,",
+            "Samthai e tei tingkao ram khou,",
+            "Salem ram khou sam tang ni,",
+            "Kailuang guai kachaek dui ruina",
+            "Luang lik lou kabam thui khou,",
+            "Nang ringh mei riu rui gaan likge,",
+            "Namthan dai gaimei khou tei.",
+            "",
+            "Ai rui ning e ting saeng namdaih,",
+            "Bumaeng thanmei nun bam tei,",
+            "Katik gun rui mundui kumna,",
+            "Ringhmei dui tei luang bam e. 2",
+            "",
+            "2. Hei khou tei bam mei nun guai rui,",
+            "Thei mei kandi lou duna,",
+            "Kaniu Ravguangc ram gaimei khou,",
+            "Kaniu mikdui keilak khe,",
+            "Gun kum ma phuan lou ngam puni,",
+            "Kandih lun phung dat lakhe,",
+            "Rianramei guai khaeng dat lak khe,",
+            "Jisu le bam cham pukhou.",
+            "",
+            "3. Ting saeng zaeng nzian mei nun le,",
+            "Heiram gai khou lung cham ni,",
+            "Kandih khou bampui ganv kum na,",
+            "Alung hei geic dat lak khe,",
+            "Kandi khou rian rana bam mei,",
+            "Chun si zaeng si kapum na,",
+            "Tingkao namdai guang tang pukhou,",
+            "Nai lak khe kapum ma tei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 58",
+        "Khristian Luzaam PDF",
+        "Chord: D",
+        "Meta 3: 8.7.9.6.8.7.8.7."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 58. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 58,
+        "match": "title-match-0.92"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Sam thai e thei tingkao thu tei",
+        "titleRongmei": "Sam thai e thei tingkao thu tei"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-095",
+    "number": 95,
+    "source": {
+      "printedNumber": 95,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.8.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nthuk pui tingmik tang the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nthuk pui tingmik tang ni the,",
+            "Niu khuan mei Immanual;",
+            "Pap le seitan man pui nung rui.",
+            "Kanlou mei guai rui guang bam kariw ni.",
+            "",
+            "Hei, kum pui kaan khou neihlana suan ni,",
+            "Pou rui dam lou mei tingsaeng gaipui ram lakhang ;",
+            "He! Adih gaini na cho adih neihla ni cho?",
+            "Neihla na bam taan dat pulak khe.",
+            "",
+            "2. Tabui nung ni cho poubaomei?",
+            "Gaipui tingmik tei hou khang",
+            "Jordan dui tei kanpat pukhou,",
+            "Akhang tingkao ganchuang na kum gan ni.",
+            "",
+            "3. Kum kandiu tingsaeng Poubaomei ,",
+            "Nang zei rui kan loumei guai ;",
+            "Nang zei rui liu lou mei guai ta,",
+            "Akhou guang o tuna saloumei tei.",
+            "",
+            "4. He! Namthan daimei gaiding e,",
+            "Dam loumei nam thanh gaimei",
+            "Ngam mei lu than gaimei guai tei,",
+            "Kandih hei luaipui nung ai rui suan ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 95",
+        "Khristian Luzaam PDF",
+        "Chord: E",
+        "Meta 3: 8.7.8.10."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 95. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 95,
+        "match": "title-match-0.92"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nthuk pui tingmik tang the",
+        "titleRongmei": "Nthuk pui tingmik tang the"
+      }
+    }
+  }
+}

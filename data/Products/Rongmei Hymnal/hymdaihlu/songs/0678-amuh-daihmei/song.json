@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0678",
+    "number": 678,
+    "source": {
+      "printedNumber": 678,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Wm. Hunter",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 89"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Amuh daihmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Amuh daihmei ’niu daeng bam e,",
+            "Kadanthaymei Jisu e,",
+            "’Suan keymei lung tiithaulou e,",
+            "He king o, Jisu khwan 2}?.",
+            "",
+            "Baanch’ra lu khou gay liangmei,",
+            "Maansei nunc khang ’deih liangmei,",
+            "Nuhgay liangmei lu kiu e;",
+            "Jisu, kunghmei Jisu!",
+            "",
+            "2 Nang paap guay 2}? kuaklou ngam the,",
+            "He king o, Jisu khwan ta!",
+            "Chuzaenghna nang tingkauh tat tho,",
+            "Jisu lev pyrun run tho.",
+            "",
+            "3 Ringc thau datmeipu hym daic diu,",
+            "’Taw ai Jisu ta lwm the;",
+            "Guloumeipu zanc ta zian e,",
+            "Jisu zanc ta ai zian e.",
+            "",
+            "4 Kazanc }?2 pingmei tii’maan e,",
+            "Baihmei zanc khou ngamv maek ge;",
+            "He alung }?2 chu bam nii e,",
+            "Kungc liangmei Jisu zanc hei.",
+            "",
+            "5 Tingkauh kandic guang tangc pwkhou,",
+            "Aniu Kata how pwkhou,",
+            "Guang bamvpaeng ding huamcna suan ni,",
+            "Jisu zanc ta thuanc bam ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Great Physician",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "6/8",
+        "8.7.8.7. Ref.",
+        "SS 89",
+        "Wm. Hunter",
+        "The Great Physician",
+        "source hymn 678",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 678."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Amuh daihmei",
+        "titleRongmei": "Amuh daihmei",
+        "titleEnglish": "The Great Physician"
+      }
+    }
+  }
+}

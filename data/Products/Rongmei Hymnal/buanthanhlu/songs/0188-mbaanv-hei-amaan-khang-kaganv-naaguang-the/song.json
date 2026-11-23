@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-188",
+    "number": 188,
+    "source": {
+      "printedNumber": 188,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Mbaanv hei Amaan khang Kaganv Naaguang the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          188 Mbaanv Hei Amaan khang Kaganv 'Naa",
+            "                             11.9. 10. 10.Ref. 12. 10.12.11",
+            "          Doh hei Gb",
+            "",
+            "          1. Mbaanv hei amaan khang kaganv 'naaguang the;",
+            "             Kaipouc rui nrianhlou tuang di the;",
+            "             Gaanv khatna sihnic tikalaic ngam mak;",
+            "             Chamdaanvna nkhwan bam khang na di the.",
+            "",
+            "                  Kaipouc latryan guay tei kalaic dat pwlak khe;",
+            "                  Kalat piu makmei kandihmei guayna ta,",
+            "                  Latzan sw khangruina chaengmun khou ding bam the;",
+            "                  Latzan hu khourui duak dat ngam pwlak khe.",
+            "",
+            "          2. Theihmei paapc chaeng khou ruantat bammei guay tei,",
+            "             Kaipouc rui nang ta 'zianna kaw e.",
+            "             Kandih kabamv kathuih khou zingcguang the;",
+            "             Gaanhmei tingkauh khou guang lungh khang kaw e.",
+            "",
+            "          3. Ringhmei Latchamv rui chyng 'zaengc kabamv thuih khou,",
+            "             Nthw 'luanh rah kumc kagaengv lik the.",
+            "             Nruay guay rui thingphaanv gay khou towna,",
+            "             Thuancna suan bam e Ravguangc tuang hym ta.",
+            "",
+            "          4. Ntaw kaw bammei hei zianmei nang ta the;",
+            "             Nang ruina aseic guang mak gethei,",
+            "             Nthuanh thu nang kapna kauc bam sihnic,",
+            "             Nang khang na rui han-guang dat ngam lak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Mbaanv hei Amaan khang Kaganv Naaguang the"
+      }
+    }
+  }
+}

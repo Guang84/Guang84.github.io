@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-225",
+    "number": 225,
+    "source": {
+      "printedNumber": 225,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pouh Jisu rui 'Niw khou Heickumna Dincloue",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          225 Pou' Jisu rui 'Niw Khou Heickumna",
+            "                           12.10.10. 10.Ref.7. 8.8. 6.",
+            "",
+            "          1. Pou' Jisu rui 'niw khou heickumna dinclou e.",
+            "             Nangniw guay hei kandih khang ntey e.",
+            "             Kabamv kathuih khou bammei zaat guay khou,",
+            "             Ntey kumcna ringhmei chamv dinctat ro.",
+            "",
+            "                  Gaymei chamv tei dinctat ro,",
+            "                  Nang taanv gaymei ndauhpat ro;",
+            "                  Nangniw taanv gaymei ta howna,",
+            "                  Ravguangc hym thuanc kan diu.",
+            "",
+            "          2. Pou' Jisu rui 'niw khou heickumna dinclou e",
+            "             Nangniw guay hei mbaanv khang gaanhmei e.",
+            "             Paapc tuang zinghmei khou lungc bammei guay khou,",
+            "             Gaanh' riw phungcna meicnunc khou tigaanc o.",
+            "",
+            "          3. Pou' Jisu rui 'niw khou heickumna dinclou e",
+            "             Meic kathuih khou kataanv taanv thei layna,",
+            "             Aswan nzanhlou khang Ai guang dat pwni.",
+            "             Taanc chuyloumei guay tei sangaymei e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pouh Jisu rui 'Niw khou Heickumna Dincloue"
+      }
+    }
+  }
+}

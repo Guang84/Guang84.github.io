@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0684",
+    "number": 684,
+    "source": {
+      "printedNumber": 684,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W.A. Ogden",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.8.9.8. Ref.",
+      "tune": "GSC 598"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Baanh lau na nei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Baanh lau na nei Jisu khang",
+            "taanh khang,",
+            "Baley lau na Kata thuanh khang,",
+            "Nukuanc lau na nei Kakhwan",
+            "’king khang,",
+            "Ruak lau na hei lu suan khang e.",
+            "",
+            "Pou, Nang khou ’niw'guang e,",
+            "Alauc ganv panty lauthwan khou,",
+            "Pou, Nang khou ’niw guang e,",
+            "Nang ^&8 ’chamlou khang.",
+            "",
+            "2 Phay lau na nei laysuic tat khang e,",
+            "Tingkauh kai khou tat ku tangh khang.",
+            "Mik lau na nei Jisu khang tii khang,",
+            "Jisu ramzian p’ry kathai bam khang.",
+            "",
+            "3 Lungthw lau na Jisu khang tii khang,",
+            "Abumaengc Kamei gulou khang;",
+            "Panty lau na khat Kataanv taanh khang,",
+            "Atuang guay hei Kakhang tii khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "W.A. Ogden",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "9.8.9.8. Ref.",
+        "GSC 598",
+        "W.A. Ogden",
+        "Two Little Hands",
+        "source hymn 684",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 684."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Baanh lau na nei",
+        "titleRongmei": "Baanh lau na nei",
+        "titleEnglish": "W.A. Ogden"
+      }
+    }
+  }
+}

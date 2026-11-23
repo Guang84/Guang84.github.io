@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-109",
+    "number": 109,
+    "source": {
+      "printedNumber": 109,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaganv 'Naa the Chamdaanv la tho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          109 Kaganv 'Naa the Chamdaan latho",
+            "                           7.7.9.9.Ref. 3. 6. 8.4.4. 8.5",
+            "          1. Kaganv naa the chamdaanv tho.",
+            "             Suriak thayna bam latho.",
+            "             Kandih gwan guay hei nic baic ngam the.",
+            "             Lungning hei tancna bam nina cho?",
+            "",
+            "                Kaganv maek (2) pu-chaih thiu!",
+            "                Kandih gwan hei nic baic ngam the,",
+            "                Chamdaanv latho, (2)",
+            "                Kaganv rau the chamdaanv latho,",
+            "                Huayney bam dikho.",
+            "",
+            "          2. Tingkau baanch'raa 'thanmei nunc.,",
+            "             Kaniw' trumpet 'muan khangrui,",
+            "             Ntaw hei nic chamdaanv na bam the.",
+            "             Kamei guang nimei ganv kiu naa the.",
+            "",
+            "          3. Ravguangc rui lauziu lev ziuh,",
+            "             Kadaa nimei ganv dithe.",
+            "             Lauziunac guay tingkauh khou lungc ni,",
+            "             Ziuh guay ta mai khou phaiclou pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaganv 'Naa the Chamdaanv la tho"
+      }
+    }
+  }
+}

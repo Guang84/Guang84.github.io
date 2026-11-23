@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0218",
+    "number": 218,
+    "source": {
+      "printedNumber": 218,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. F.Bottome",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "3/4",
+      "meter": "12.12.12.6. Ref.",
+      "tune": "SS 198"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’KHAVLOUMEI GUANG THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Rac tat ro, gaypui lat, meic",
+            "howmei kathuic khou,",
+            "Meic naipui bamv kathuic, lungh",
+            "ryanramei guay khou;",
+            "Khristian kathuic mwang #<8,",
+            "",
+            "ndauh o, neihlaa khwan;",
+            "’Khavloumeipu guang the!",
+            "",
+            "’Khavloumeipu guang the,",
+            "’Khavloumeipu guang the!",
+            "Tingkauh Bumaengc ’Thanmei,",
+            "Pu #<8 ’rianhloumei e;",
+            "Rac tat ro, gaypui lat, mei",
+            "howmei kathuic khou;",
+            "’Khavloumeipu guang the!",
+            "",
+            "2 Zinghmei 8}@ tat kan the, lauthwan kiu pat pw the,",
+            "Pingmei pwanzingh khwan 8}@,",
+            "’taw thu ’thaekc key kan the,",
+            "Kachaekc luangcbut twan khou,",
+            "neihmik 8}@ pat pw the,",
+            "’Khavloumeipu guang the!",
+            "",
+            "3 Guangh guay Guangc swkaeng",
+            "khou, tiigaymei phungc guang e;",
+            "Kangloumei bumaengc khang",
+            "thuakloumei phungc guang e;",
+            "Kangkai raengv guay khou #<8,",
+            "rihngam lu kauc pat the,",
+            "’Khavloumeipu guang the!",
+            "",
+            "4 Nganv makmei Rav zauzian!",
+            "abaley ngamv na #<8,",
+            "Akumh ai saa ngam ni, saa ’da",
+            "lakmei zauzian!",
+            "Kata lungc ’chamc nuh khang,",
+            "Kalwn kumc gaanc nuh khang,",
+            "’Khavloumei pu guang the!",
+            "",
+            "5 Ravguangc ta thuanhhpui khwan,",
+            "tingpuk kagaengv twan diu,",
+            "Tingkauh ’thanmei nunc lev dihmei",
+            "suan adaw diu:",
+            "Suan kim dat lakmei lu, Rav zauzian lu suan diu;",
+            "’Khavloumeipu guang the!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Comforter Has Come",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "3/4",
+        "12.12.12.6. Ref.",
+        "SS 198",
+        "Rev. F.Bottome",
+        "Rac tat ro gaypui lat",
+        "The Comforter Has Come",
+        "source hymn 218",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 218."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’KHAVLOUMEI GUANG THE",
+        "titleRongmei": "’KHAVLOUMEI GUANG THE",
+        "titleEnglish": "The Comforter Has Come"
+      }
+    }
+  }
+}

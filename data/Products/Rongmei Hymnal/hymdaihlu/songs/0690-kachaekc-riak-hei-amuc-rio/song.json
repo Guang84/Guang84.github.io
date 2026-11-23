@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0690",
+    "number": 690,
+    "source": {
+      "printedNumber": 690,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "P.P. Bliss",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "2/4",
+      "meter": "7.5.7.6.Ref.",
+      "tune": "SS 707"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kachaekc riak hei amuc rio",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Thukmei thouc khou ding ’tipna",
+            "Ravguangc lat piumei,",
+            "Geih mak ge lwmnuhmei nunc!",
+            "Zauc lo, Daniel Kangmei!",
+            "",
+            "Daniel kumcna bauc e!",
+            "Ding kiangc ping mak ge!",
+            "Kathouc thay e, ding ’tip be!",
+            "Dinc ’dauh khang ping mak!",
+            "",
+            "2 Tancbauhmei nunc bow kan the,",
+            "Ding ’tip ngam makna;",
+            "Ravguangc ricmei sw khwan e,",
+            "Daniel Kang khou zaucna!",
+            "",
+            "3 Liangtuangh ’peyna kandih khou",
+            "Liang tat bammei nunc,",
+            "Kandih khou pun key puni,",
+            "Daniel Kangmei hu khou!",
+            "",
+            "4 Gospel chuangcphey daanc kauh tho,",
+            "Ngam khang tat gut tho,",
+            "Seitaan ngamv ta athwng o,",
+            "Kauc o, Daniel Kangmei!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "2/4",
+        "7.5.7.6.Ref.",
+        "SS 707",
+        "P.P. Bliss",
+        "Daniel’s Band",
+        "source hymn 690",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 690."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kachaekc riak hei amuc rio",
+        "titleRongmei": "Kachaekc riak hei amuc rio"
+      }
+    }
+  }
+}

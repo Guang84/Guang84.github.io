@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0257",
+    "number": 257,
+    "source": {
+      "printedNumber": 257,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Grace J.Frances",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "6/8",
+      "meter": "10.10.10.10.",
+      "tune": "Ref. SS 418"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NANG TA KAW E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nwm khou gancloumei ryanra nrumei,",
+            "Nang amaan the, how mak",
+            "chwnchinc maek khe;",
+            "Nang ta kadanna, zauzian padikna,",
+            "Lauziu Gaenghmeipu nang ta kaw bam e!",
+            "",
+            "Nang ta kaw e, nang ta kaw e;",
+            "Jisu kaw bam e, “Akhou guang o!”",
+            "Nang ta kaw e, nang ta kaw e;",
+            "Lauziu Gaenghmeipu nang ta kaw e!",
+            "",
+            "2 Duhmei ngouh dai khou ’bui khang maeng ’maan ni?",
+            "Nang chaenglwan hei zingc khith khit key puni;",
+            "Maeng bammei khou #^5 ngalanc dat zaic tho,",
+            "Lauziu Gaenghmeipu nang ta kaw bam khou!",
+            "",
+            "3 Kang khou #^5 pak tho, Jisu ’khavlou ni,",
+            "Kakhou lwm o, nang ta ric patlou ni;",
+            "Ch’rynmei ramzian e, nganv makmei zauzian:",
+            "Lauziu Gaenghmeipu ’taw nganv kaw bam e!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Calling to Thee",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "6/8",
+        "10.10.10.10.",
+        "Ref. SS 418",
+        "Grace J.Frances",
+        "Nwm khou gancloumei",
+        "Calling to Thee",
+        "source hymn 257",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 257."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NANG TA KAW E",
+        "titleRongmei": "NANG TA KAW E",
+        "titleEnglish": "Calling to Thee"
+      }
+    }
+  }
+}

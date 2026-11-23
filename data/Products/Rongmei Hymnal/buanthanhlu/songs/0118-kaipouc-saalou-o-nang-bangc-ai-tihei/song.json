@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-118",
+    "number": 118,
+    "source": {
+      "printedNumber": 118,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaipouc Saalou o Nang Bangc Ai tihei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          118 Kaipouc, Saalou o Nang Bangc Ai tihei",
+            "                                10.8. 10.7. Ref. 10. 10.8.7",
+            "          Doh hei C",
+            "",
+            "          1. Kaipouc, saalou o nang bangc ai tihei,",
+            "             Tingsaengcna paapc rui zingc bam the;",
+            "             Ringc nipui bamv maekmei kandih khouhei.",
+            "             Kaipouc, guangna saalou o.",
+            "",
+            "                      Gay nipui bamv maekmei kandih khouhei,",
+            "                      Neihlaa zaenggaymei kiu ni maek ge Pou'.",
+            "                      \"Khavlou o Nang bangc ai tihei.",
+            "                      Kaipouc guangna saalou o.",
+            "",
+            "          2. Kaipouc, saalouo aniu nking bam;",
+            "             Nang lat gaymei tei aniu khang.",
+            "             Neihlaa zaenggaymei guay tei aniu khang.",
+            "             Kaipouc, guangna saalou o.",
+            "",
+            "          3. Kaipouc, saalou o aniu guay tihei.",
+            "             Nang zauzian gaymei aniu khang.",
+            "             Ringhpui bamv khou aniu ta zaylou o.",
+            "             Kaipouc, guangna saalou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaipouc Saalou o Nang Bangc Ai tihei"
+      }
+    }
+  }
+}

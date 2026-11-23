@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0562",
+    "number": 562,
+    "source": {
+      "printedNumber": 562,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Purd E. Deitz",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10.11.10",
+      "tune": "CW 489"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Niu taanc bam ni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Niw taanc bam ni, taanc suak makmei Ravkai hei,",
+            "Pangvmei ngaengsaengc $%6 kros ta hou ding lak,",
+            "Bakmei taucdwm zianmei $%6 thwan ku ngam e,",
+            "Ntamvmei lung zay kariulou ngam e;",
+            "’Niw taanc bam ni, Kaipouc,",
+            "Nang taandwan guay 6$%,",
+            "Ndauhlou o, maansei nac nunc guay khou.",
+            "",
+            "2 ’Chamlou o, ’niw taudaic ruc khou kai sw khang,",
+            "’Niw machunhmei taanv swna lyan ngam khang,",
+            "Kalaihmei lev kaganv $%6 sw kamv makmei,",
+            "’Niw $%6 lwmmei ka-chac dat lakmei e;",
+            "He Kaipouc, ’niu how duc ngam khang ’chamlou o,",
+            "Kangran bammei kaidai how tangc ngam khang.",
+            "",
+            "3 ’Niw taanc bam ni, Kaipouc ’niu baanc $%6 matna,",
+            "’Niw machunhmei guang tangh mak saanv taanc ni,",
+            "’Niw nukuanc khou Nang tuang",
+            "Latdanv chu mak saanv,",
+            "Gaengh swmei chwn ’niw khou $%6 ’maan mak saanv,",
+            "Nang lev taanc ni, tingsaeng kathukh naimei taanv,",
+            "Tingkau guangcdic dih khou phungc guang mak saanv.",
+            "Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "We Would be Building",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "11.10.11.10.11.10",
+        "CW 489",
+        "Purd E. Deitz",
+        "We Would be Building",
+        "source hymn 562",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 562."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Niu taanc bam ni",
+        "titleRongmei": "’Niu taanc bam ni",
+        "titleEnglish": "We Would be Building"
+      }
+    }
+  }
+}

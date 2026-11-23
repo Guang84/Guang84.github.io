@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0342",
+    "number": 342,
+    "source": {
+      "printedNumber": 342,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Howard Arnold Walter",
+      "composer": null,
+      "arranger": null,
+      "chord": "Fb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10.10.",
+      "tune": "CSH 128"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AI NTWN NI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai ntwn ni, ata lwmgaymei geic e;",
+            "Ai nthan ni, kadan bammei nunc khang;",
+            "Ai taanc bam ni, ryanra khaengv khang nai geic e;",
+            "Ai bauc rap ni, zaucgay bam khang geic e,",
+            "Ai bauc rap ni, zaucgay bam khang geic e.",
+            "",
+            "2 Ai kapam-karai maekmei nunc pam sw ni,",
+            "Ai ^&8 tiipatmei kaipat chak lak ge;",
+            "Ai niamh bam ni, aramsuan nai geih zaeng ^&8,",
+            "Pou ta zaucna zianna neihlaa bam ni,",
+            "Pou ta zaucna zianna neihlaa bam ni.",
+            "",
+            "3 Ai taanv tyn khou Kakhou huayney geic bam ni,",
+            "Ai Ravguangc lev tamzuan tanh tan bam ni,",
+            "Kakhwan chu khang alwnlung’twnna lungc ni,",
+            "Lwmpui paan ^&8 Khrista phaykaamv suic ni,",
+            "Lwmpui paan ^&8 Khrista phaykaam suic ni"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Would be True",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Fb",
+        "4/4",
+        "11.10.11.10.10.",
+        "CSH 128",
+        "Howard Arnold Walter",
+        "I Would be True",
+        "source hymn 342",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 342."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AI NTWN NI",
+        "titleRongmei": "AI NTWN NI",
+        "titleEnglish": "I Would be True"
+      }
+    }
+  }
+}

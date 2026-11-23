@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0332",
+    "number": 332,
+    "source": {
+      "printedNumber": 332,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Thomas O. Chisholm",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.10.10.10. Ref.",
+      "tune": "HLC 380"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu khang lunghmei hei ringhting",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu khang lunghmei hei ringhting ling e,",
+            "Ataanv guay hei !}2 Kata tiipianna,",
+            "Kata champouhna, Kakhou rouh makna",
+            "Neihlaana lunghmei suaihiam chaenglwan e.",
+            "",
+            "He Jisu Guloumeipu,",
+            "Nang khou ai tiigut ngam,",
+            "Nang pumc kahak 2^< akhang",
+            "Tiipatloupui zaeng !}2;",
+            "Akhang Kaipouc baihmei maek,",
+            "Alung Nang guangc bamv e,",
+            "Ntaw khou !}2 thauna Khrista",
+            "Nang khang na lung ni the.",
+            "",
+            "2 Aphaan theicloumei Jisu khang lungc ni,",
+            "Kalvari khou apaap guay phungclouna;",
+            "Hei ramzian paan !}2 kawmei ai dawlou,",
+            "Kathei layna Kakhou tiigut ngam the.",
+            "",
+            "3 Kabamv kathuic Jisu khang ai lungc ni,",
+            "Kazanc nthanmei khou taanv guay taancna;",
+            "Ryanra, ’maanmei guay akhaengv khang ningna,",
+            "Nthiammei kathuic akros khang chakna.",
+            "",
+            "4 Dih panty dak khou Jisu khang lungc ni,",
+            "Ai kungc liangmei kiu Kazawpaanv ei e;",
+            "’Maanmei bumaengc guay ta phuna lungc ni,",
+            "Ryanramei ta Kakhou phungc guanglou ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Living for Jesus a Life That is True",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "10.10.10.10. Ref.",
+        "HLC 380",
+        "Thomas O. Chisholm",
+        "Living for Jesus a Life That is True",
+        "source hymn 332",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 332."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu khang lunghmei hei ringhting",
+        "titleRongmei": "Jisu khang lunghmei hei ringhting",
+        "titleEnglish": "Living for Jesus a Life That is True"
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0898",
+    "number": 898,
+    "source": {
+      "printedNumber": 898,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "Irregular",
+      "tune": "Mathiu: 25"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Mathiu 25 pari khou dinlou e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Mathiu 25 pari khou dinlou e,",
+            "Bang ganthum khou kaipou )_3 talent njan lou;",
+            "Gankhat khang 5, gankhat khang 2,",
+            "Gankhat khang 1 njan lou e.",
+            "",
+            "Chorus:",
+            "Ai tatna guang datni nangniu guaita jao khang,",
+            "Njan loumei khou )_3 nbuna tan bam o;",
+            "Tuna kaipou )_3 mei kathui khou din lou.",
+            "",
+            "2. Kaipou )_3 guang datna talent khuam kariu the,",
+            "Mei kathui khou kaipou )_3 lummei sukan the;",
+            "Akhat pangmei putei gang guang mak khuan e,",
+            "Kaipou )_3 kasuan guai la gan the.",
+            "",
+            "3. Kaipou )_3 nang khang ni talent njan lou the,",
+            "Kaipou khang kungmei bumang guaita laguang khang;",
+            "Neila khang nang tat patna katanh tan o,",
+            "Panti nnai san tat patna tan o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "Irregular",
+        "Mathiu: 25",
+        "Mathiu 25 pari khou dinlou e",
+        "source hymn 168",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 168."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Mathiu 25 pari khou dinlou e",
+        "titleRongmei": "Mathiu 25 pari khou dinlou e"
+      }
+    }
+  }
+}

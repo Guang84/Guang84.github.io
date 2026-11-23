@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-043",
+    "number": 43,
+    "source": {
+      "printedNumber": 43,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": null,
+      "meter": "11.10.10.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Hallelujah, he hallelujah amen!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Hallelujah, he hallelujah amen!",
+            "Kalvary zauzian zeihaeng paan khou rui;",
+            "Kapmei le rianra zinghmei ram khou hei,",
+            "Neihlamei tingkao riu gaan guang o.",
+            "",
+            "Neihlamei tuai dat mak,",
+            "Hallelujah, hallelujah;",
+            "Thuanmmei su diu he! Lauziu Na ta,",
+            "Kazauzian rui rianramei timan.",
+            "",
+            "2. He! Bumaeng Thanmei le neihlamei kei o,",
+            "Hallelujah tuna rianra ram khou;",
+            "Neihlana suan ni e rianra nun rui,",
+            "Nang bam tei aniu tingkao suni.",
+            "",
+            "3. Tingsaeng rianramei ram guai ‘manpui kaan khou,",
+            "Neihla tingkao saron nun gaimei tei;",
+            "Tingsaenga puang puni tuai dat makna,",
+            "Nangta ning liang e nduanglou o.",
+            "",
+            "4. Kandihmei rui thaidiu Poubaomei ram tei,",
+            "Tingkao thanmei nun ni neihla kandiu;",
+            "Kalvary lauziu Na ‘zianlou mei Pu;",
+            "Nangta ninga suan ni tingsaengzaeng."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 43",
+        "Khristian Luzaam PDF",
+        "Chord: F",
+        "Meta 3: 11.10.10.9."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 43. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 43,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Hallelujah, he hallelujah amen!",
+        "titleRongmei": "Hallelujah, he hallelujah amen!"
+      }
+    }
+  }
+}

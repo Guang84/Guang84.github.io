@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0470",
+    "number": 470,
+    "source": {
+      "printedNumber": 470,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Bertha Mac Lillenus",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "10.9.10.6. Ref.",
+      "tune": "CSH 231"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU ’NAA TANV BAM DE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaluan luan ’niu tingpuk muangh #<8 zingc e,",
+            "Lunghgeihmei #<8 ’niu lung padik ge,",
+            "’Ki ’niu thay e tabui sw bam sihni",
+            "Jisu ’naa tanv bam de.",
+            "",
+            "Kamei #<8 phungclou makmei puatrith maek ge,",
+            "Phungc ’khavlou makmei lungh ryanramei maek;",
+            "Ringhting khou ryanra khou nic, neihlaa khou nic,",
+            "Jisu ’naa tanv bam de.",
+            "",
+            "2 ’Niu ringcting tuang katuakcmei guaychung khou,",
+            "Taanv-ruai, puatrith #<8 ngangc thau lak khou,",
+            "Ch’rynmei chwn-gay, swm-gayloumei lat re;",
+            "Jisu ’naa tanv bam de.",
+            "",
+            "3 ’Diakc chuymei phuaic ding khou tat ruanlou khou,",
+            "Khow-’tauh, ramvkaengv ramv khou tat bam khou,",
+            "’Thukmei lat re, gaychuymei latryan e,",
+            "Jisu ’naa tanv bam de.",
+            "",
+            "4 “Ai bam ’chamc tanv bam de,” twna hylou,",
+            "Suai makna ’niu huainei dawlou ni;",
+            "Kalat lwmna, Kalatryan khou ngangvlou,",
+            "Jisu ‘naa tanv bam de."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus is Always There",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "6/8",
+        "10.9.10.6. Ref.",
+        "CSH 231",
+        "Bertha Mac Lillenus",
+        "Kaluan luan ’niu tingpuk muangh",
+        "Jesus is Always There",
+        "source hymn 470",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 470."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU ’NAA TANV BAM DE",
+        "titleRongmei": "JISU ’NAA TANV BAM DE",
+        "titleEnglish": "Jesus is Always There"
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0789",
+    "number": 789,
+    "source": {
+      "printedNumber": 789,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "13. 8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kagan hei na guang pu the.",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kagan hei naguang puthe jianmei nun ta tam khang,",
+            "Kandih arup jianmei thiu le;",
+            "Jianmei nun ata mu ri o,",
+            "Tingsang ramgai guangtang pukhou.",
+            "",
+            "Chorus:",
+            "Jianmeinun neilana tatro, ntam dikho salam;",
+            "Nang rih hu khou mai le muang rui,",
+            "Guang Immanuel rui jailou diu.",
+            "",
+            "2. Kandih rianramei rui jing rianra pui kandih hei,",
+            "Njianmei nun ntam pui bam;",
+            "Tingsang ramgai guangtang pukhou,",
+            "Hei kandih hei ning dat lak khe.",
+            "",
+            "3. Kandih rianra duidai khou mikdui luangmei ruina,",
+            "Achang hou maknga bam khou hei;",
+            "Mikdui thut phuina dinlou o,",
+            "Tingsang ring nimei chang khou 4@&.",
+            "",
+            "4. Jianmei nun ta tam khou rui mikdui luangmei ruina,",
+            "Dui kumma dailou ngam kan the;",
+            "Kandih jingmei rana dithe,",
+            "Neilamei khuan chu dat mak khe.",
+            "",
+            "5. Poubaumei ta lum ethei ntam kanmei guai le,",
+            "Guang Jisu le bam cham puni;",
+            "Khou 4@& mikdui thut phui lou ni,",
+            "Rianramei mak pui bam khou 4@&.",
+            "",
+            "6. Pou jan khou ntam louna mikdui luanglou kanmei,",
+            "Guai rui kanloumei la puni;",
+            "Khou 4@& rianra kapmei mikdui,",
+            "Guang Jisu rui thut phui lou ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Kagan hei na guang pu the.",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "13. 8.8.8.",
+        "Kagan hei na guang pu the.",
+        "source hymn 59",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 59."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kagan hei na guang pu the.",
+        "titleRongmei": "Kagan hei na guang pu the.",
+        "titleEnglish": "Kagan hei na guang pu the."
+      }
+    }
+  }
+}

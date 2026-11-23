@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0352",
+    "number": 352,
+    "source": {
+      "printedNumber": 352,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "D.W. Whittle",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": ". 3/4",
+      "meter": "10.10.10.10. Ref.",
+      "tune": "SS 615"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu lev theic ’chamc the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu lev theic ’chamc the, aphaan theih khou,",
+            "Jisu lev ringc ’chamc e, panty thanh khou,",
+            "Hymdaih riw pat mak saanv Kata zauc ni,",
+            "Kaganv ’thuic Kaipouc, ai Nang mei di the!",
+            "",
+            "Kaganv ’thuic Kazauzian khou ata lou,",
+            "Kaganv ’thuic kauh tuang ringhmei akhang nai,",
+            "Hymdaih riw pat mak saanv Kata zauc ni,",
+            "Kaganv ’thuic Kaipouc, ai Nang mei di the.",
+            "",
+            "2 Nchanvmei kathuic khou Kamei ’khavlou,",
+            "Puatrith guay Kamei ({0 phungc ’khavlou e;",
+            "Ryanramei kathuic khou ’khaengv",
+            "’khavlou e,",
+            "Kaganv ’thuic Kamei ata gaeklou e.",
+            "",
+            "3 Lungh kabiu, ryanra kalanghmei guay khou,",
+            "Mikdui key, chwnsii zaengsiimei",
+            "guay khou,",
+            "Theic nuhpui bamv guay khou",
+            "Kamei nunc khang,",
+            "Kaganv ’thuic Kamei ({0 kadanlou e.",
+            "",
+            "4 Aramsuan guay ta Kamei thaylou e,",
+            "Tiigay ngam dat lakmei sunu",
+            "maek ge,",
+            "Ryanra khou, neihlaa khou, kaganv ’thuic khou,",
+            "Ata ’duanghlou na ro, Guloumei pu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Moment by Moment!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        ". 3/4",
+        "10.10.10.10. Ref.",
+        "SS 615",
+        "D.W. Whittle",
+        "KAGANV ’THUIC",
+        "Moment by Moment!",
+        "source hymn 352",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 352."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu lev theic ’chamc the",
+        "titleRongmei": "Jisu lev theic ’chamc the",
+        "titleEnglish": "Moment by Moment!"
+      }
+    }
+  }
+}

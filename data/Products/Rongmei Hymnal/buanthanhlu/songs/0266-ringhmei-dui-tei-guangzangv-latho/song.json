@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-266",
+    "number": 266,
+    "source": {
+      "printedNumber": 266,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ringhmei Dui tei Guangzangv latho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          266 Ringhmei Dui tei Guang Zangy latho",
+            "                              8.8.8.8. Ref. 8. 6.8. 6.",
+            "",
+            "          1. Ringhmei dui tei guang zangv la tho,",
+            "             Lakmei guay ringcsuang diu khang tei;",
+            "             Tingsaeng kamei lev lungc'chamc ni.",
+            "",
+            "                     Khoutei ryanraamei nai lak khe.",
+            "                     Khoutei ryanraamei nai lak khe,",
+            "                     Gay chuymei kandic khou;",
+            "                     Nang ringh khang Jisu khou guang tho.",
+            "                     Lwmmei guay ringc pwni.",
+            "",
+            "          2. Ringhmei dui tei guang zangv la tho,",
+            "             Tingsaeng neihlaamei laa pwni,",
+            "             khoutei nang ta nkhwan bam e",
+            "             Zionramc gay khou lungc diu khang.",
+            "",
+            "          3. Ringhmei dui tei guang zangv la tho,",
+            "             Theihmei ding khou maengtat bammei,",
+            "             Kaganv rui nang ta 'khwan mak ge.",
+            "             Nang sansiimei sw pwni the.",
+            "",
+            "          4. Ringhmei dui tei guang zangv la tho.",
+            "             Ravguangc lat ta 'taamv la ri o:",
+            "             Nouha kaanc khou pat kanmei kumc,",
+            "             Ryanraa daihmei guang pwni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ringhmei Dui tei Guangzangv latho"
+      }
+    }
+  }
+}

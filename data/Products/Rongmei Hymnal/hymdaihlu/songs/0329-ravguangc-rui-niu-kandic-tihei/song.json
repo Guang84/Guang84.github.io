@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0329",
+    "number": 329,
+    "source": {
+      "printedNumber": 329,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.E. Hewitt",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8.6. D. Ref.",
+      "tune": "RS 462"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc rui ’niu kandic tihei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc #^5 ’niu kandic ti hei",
+            "Heidi gayna damclou,",
+            "Kalaanv zingbangc tiigaanclou khang",
+            "Bw-neih, gaanchuangc damclou,",
+            "’Ki bumaengh nunc maeng tat bam e,",
+            "Zinghmei chaeng khou ruanna,",
+            "Gumei pu ata piulou o,",
+            "Zayloumei riw swna.",
+            "",
+            "Zayloumei riw swna",
+            "Piulou o, Pou ata;",
+            "Zianmei riw #^5 Nang hym dauh diu,",
+            "Zayloumei riw swna.",
+            "",
+            "2 Meic ’peyna ta ’khavlou khang nai,",
+            "Zianmei lat saalou khang,",
+            "Zauzian daihmei ngammei Pam lam,",
+            "Kaniw khou raclou khang,",
+            "Nang khwan hei ai chu nuangc",
+            "ngam khang,",
+            "Piu ngam khang ’khavlou o,",
+            "Ryanramei lungning khang ai hei",
+            "Zayloumei riw sw khang.",
+            "",
+            "3 Gaanv saekc thu gaanh-kai kumc gaanc e,",
+            "Gaanv saekc khuailiw mai kumc,",
+            "’Ki ’niu Kakhang gaanc chuy ti thei,",
+            "Meic guay ta kage nai;",
+            "Kabumaengc #^5 tingmik machang",
+            "Ata zaylou pw diu;",
+            "Khou kiu ai hei biuh mak sihni",
+            "Zayloumei riw sw ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A Light Along the Way",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "6/8",
+        "8.6.8.6. D. Ref.",
+        "RS 462",
+        "E.E. Hewitt",
+        "ZAYLOUMEI RIW SWNA",
+        "A Light Along the Way",
+        "source hymn 329",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 329."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc rui ’niu kandic tihei",
+        "titleRongmei": "Ravguangc rui ’niu kandic tihei",
+        "titleEnglish": "A Light Along the Way"
+      }
+    }
+  }
+}

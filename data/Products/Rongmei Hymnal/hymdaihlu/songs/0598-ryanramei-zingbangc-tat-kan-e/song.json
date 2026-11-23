@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0598",
+    "number": 598,
+    "source": {
+      "printedNumber": 598,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Bernhardt S.Ingemann",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. D",
+      "tune": "CW 481"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ryanramei zingbangc tat kan e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ryanramei zingbangc tat kaanna,",
+            "’Thanpui ramc ’zwanna tat re;",
+            "Machunhmei lu suanna tat re,",
+            "’Rianhloumei dic ta phaanna;",
+            "Zinghmei chung khou ’niu phaengc how e,",
+            "Zayloumei riw gaanhmei ta;",
+            "Khat khat baanc 6$% zamc karyna,",
+            "Pingmei maekna tat gut re.",
+            "",
+            "2 Ravguangc khat na $%6 bam ’duanghlou,",
+            "Thuakloumei Kamei nunc ta;",
+            "Tamzinghmei, pingmei hacganclou,",
+            "’Niu chaenglwan guay tiigaanclou;",
+            "Tangclou nipui bamv khat na de,",
+            "’Niu $%6 lwmmei khat na de,",
+            "’Niu $%6 machunhmei khat na de,",
+            "’Khwan bammei lam khat na de.",
+            "",
+            "3 Lu khat na suanna meic ching ching",
+            "Lungh khat na swna suan e,",
+            "Kalam khat na khang adow e,",
+            "Ravguangc zanc khou lwan gut re,",
+            "Kalam khat na khou neihlaa e,",
+            "Tingsaeng duitin tangc pwkhou,",
+            "Khou6$% Ngamp’rymei Pu Ravguangc",
+            "Tingsaeng guanghtuna bam e.",
+            "",
+            "4 Hu thangc gut kho, chana thiule,",
+            "Kros ta zaucna tat gut kho,",
+            "Zakmei ’khaengv kho, rih adow kho,",
+            "Kaswng khou ’niu ’thaekc mak saanv;",
+            "Asaanh mak khe, zip’chyang thau khang,",
+            "T’rou ta thuirana thau khang;",
+            "Khou kiu ramswng guay ’maan ngam ni,",
+            "Ryanramei nai dat lak khe.",
+            "Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Through the Night of Dark",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "8.7.8.7. D",
+        "CW 481",
+        "Bernhardt S.Ingemann",
+        "Through the Night of Dark",
+        "source hymn 598",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 598."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ryanramei zingbangc tat kan e",
+        "titleRongmei": "Ryanramei zingbangc tat kan e",
+        "titleEnglish": "Through the Night of Dark"
+      }
+    }
+  }
+}

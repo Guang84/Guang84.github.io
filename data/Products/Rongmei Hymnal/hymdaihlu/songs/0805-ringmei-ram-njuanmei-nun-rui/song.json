@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0805",
+    "number": 805,
+    "source": {
+      "printedNumber": 805,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": null,
+      "meter": "8.10.9.9.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ringmei ram njuanmei nun rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ringmei ram njuanmei nun rui,",
+            "He Jehovah jailoumei puta ninge;",
+            "Kauh pumtan lana rihsu pukho,",
+            "Bumang thanmei rui suaihiam louna,",
+            "Kagun daimei lu suan.",
+            "",
+            "Chorus:",
+            "He ai bampui ram hei mu jingpui ram e,",
+            "Hanguang datro jat guaina lung khou hei;",
+            "Khanglou kanmei rianramei guai,",
+            "Ringmei kandih 2!- ai hou khang.",
+            "",
+            "2. Guang ganno ganphiu banchuang rui,",
+            "Kanloumei neimik 2!-rui gan guang datro;",
+            "Reikhou kanan khou jailoumei kum,",
+            "Nang ringmei duikhun gaimei khou 2!-,",
+            "Rianra guai khiu than khang.",
+            "",
+            "3. Nang ram mak hei kandih khou hei,",
+            "Kandih rihlung khou rianra bam khuan sini;",
+            "Rihpuan piuna ai rih suni the,",
+            "Kalvari jaujian lum loumei guaiRui seitan ta ngamni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "8.10.9.9.6.",
+        "Ringmei ram njuanmei nun rui",
+        "source hymn 75",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 75."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ringmei ram njuanmei nun rui",
+        "titleRongmei": "Ringmei ram njuanmei nun rui"
+      }
+    }
+  }
+}

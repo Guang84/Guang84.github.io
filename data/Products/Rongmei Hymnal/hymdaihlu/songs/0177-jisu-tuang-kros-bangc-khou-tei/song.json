@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0177",
+    "number": 177,
+    "source": {
+      "printedNumber": 177,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Elizabeth C. Clephane",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.8.6.8.6.9.7.",
+      "tune": "CSH 303"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu tuang kros bangc khou tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu tuang kros bangc khou hei",
+            "Ai zaengthaek bamv sw ni,",
+            "Kaswng gaymei taudaic kiu e,",
+            "Lakmei kandic khou hei,",
+            "Tazikramv khou duppui kai e,",
+            "Chaeng dak khou bamvduan e;",
+            "Tingneih suh khou, ryanrapui",
+            "ganv khou",
+            "",
+            "Duploupui bamv kiu hei e.",
+            "",
+            "2 Jisu tuang kros ruc khou 5^&",
+            "Alungning mik khou ^&5",
+            "Akhang ryanra ’khaengvloumei pu",
+            "Lwn kahak ta how e;",
+            "Kabiumei alungsyng thangc ^&5",
+            "Ch’rynmei kanei ’dauh e:",
+            "Hymdaihmei Kazauzian",
+            "ram-ch’ryn lev",
+            "",
+            "Ai kumhmei ramh biuh makmei.",
+            "",
+            "3 He kros, nang tuang swng khou hei",
+            "Ai lunghpui bamv sw ni,",
+            "Kazaw riw 5^& hamhna baihmei",
+            "Neih riw ta kahaw mak;",
+            "Kandih lwnlung tabui sw diu,",
+            "Ai thouh swlou lak ge,",
+            "Araana lam hei meizakmei e,",
+            "Ahymdai kiu kros hei e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Beneath the Cross of Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "7.6.8.6.8.6.9.7.",
+        "CSH 303",
+        "Elizabeth C. Clephane",
+        "Beneath the Cross of Jesus",
+        "source hymn 177",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 177."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu tuang kros bangc khou tei",
+        "titleRongmei": "Jisu tuang kros bangc khou tei",
+        "titleEnglish": "Beneath the Cross of Jesus"
+      }
+    }
+  }
+}

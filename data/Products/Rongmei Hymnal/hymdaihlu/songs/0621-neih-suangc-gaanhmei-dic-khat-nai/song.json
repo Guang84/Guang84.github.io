@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0621",
+    "number": 621,
+    "source": {
+      "printedNumber": 621,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Source Unknown",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 984"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neih suangc gaanhmei dic khat nai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neih suangc gaanhmei dic khat nai e,",
+            "Katingpuk gaanc suang e;",
+            "Zingbangc zinghmei nai dat mak khe,",
+            "Gaanhmei 1<: Jisu e.",
+            "",
+            "Lungh ’zaenghna .. kros phungc ethei,",
+            "Swan pyrun .. run puni,",
+            "’Thanmei nunc .. lev lungc ’chamc ni,",
+            "Taek makna gaanhpui dic khou.",
+            "",
+            "2 Rav-rih gaymei kandic nai e,",
+            "Panty duipui paengc thangc;",
+            "Khou 1<: pwanzingh guang dat mak khe,",
+            "Aniu dilung sw ni.",
+            "",
+            "3 Khou 1<: chingkhiuhmei kai nai e,",
+            "Gaymei kauh kai kiu e;",
+            "Tangc rey kanmei zianmei nunc {:1,",
+            "Khou1<: riulou puni.",
+            "",
+            "4 Kandih ta hei ganclou ni the,",
+            "Kim keymei dih ta hei;",
+            "Kauhmei guay lev lungc ’chamc nii the,",
+            "Khou1<: neihlaa kim mak."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Bright For Evermore",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 984",
+        "Source Unknown",
+        "The Bright For Evermore",
+        "source hymn 621",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 621."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neih suangc gaanhmei dic khat nai",
+        "titleRongmei": "Neih suangc gaanhmei dic khat nai",
+        "titleEnglish": "The Bright For Evermore"
+      }
+    }
+  }
+}

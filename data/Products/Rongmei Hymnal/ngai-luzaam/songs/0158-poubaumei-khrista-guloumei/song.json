@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-158",
+    "number": 158,
+    "source": {
+      "printedNumber": 158,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubaumei Khrista Guloumei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Poubaumei Khrista Guloumei,",
+            "Thuanku dikho zaat guaina rui,",
+            "Neihla gaina bam kariu khang,",
+            "Kazauzian rui nduanghlou kandiu.",
+            "",
+            "Thuanku dikho Raguang ta aniu,",
+            "Kamei rui nduanghlou khou rui,",
+            "Ntam kanmei zianmei guai le,",
+            "Neihlana aniu ariu dat the.",
+            "",
+            "2. Khrista zan khou zianmei guai le,",
+            "Nangniu zau hou khang neihlana;",
+            "Ariuna zau houpui bam khou,",
+            "Thuanhpui lukhuan rui lungh neihla the.",
+            "",
+            "3. Hei tei kumna nkhamhpui nung,",
+            "Kauh thanmei nun ta ariuna",
+            "Kandihmei le tingkaomei guai,",
+            "Kazanh thuanhpui lu suan ‘chamh puni.",
+            "",
+            "4. Tingkao ram khou guangtang pukhou",
+            "Rianra zaengsimei nailak khe;",
+            "Kapma latlumei nailak khe,",
+            "Neihlamei rui aniu duan suni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 158",
+        "Khristian Luzaam PDF",
+        "Chord: Ab",
+        "Meta 3: 8.8.8.9."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 158. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 120,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubaumei Khrista Guloumei",
+        "titleRongmei": "Poubaumei Khrista Guloumei"
+      }
+    }
+  }
+}

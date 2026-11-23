@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-206",
+    "number": 206,
+    "source": {
+      "printedNumber": 206,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neihkhat Swkaeng Naina Samctat ni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          206 Neihkhat Swkaeng Naina Samctat ni",
+            "                           9.10.9.10. Ref. 13.10. 13.11",
+            "",
+            "          1. Neihkhat swkaeng naina samctat ni,",
+            "             Bw neih gaanchuangcna gay ta samcrina.",
+            "             Theihmei mbaanv pumc ta ganclouna,",
+            "             Tingkauh lwn khou gwanlihna samctat ni.",
+            "",
+            "                  Neihlaamei kim dat makna lungc bam ni",
+            "                  tingkauh khou,",
+            "                  Ning dat lak khe kandih ryanraa ramc ta",
+            "                  Tingsaeng guloumeipu ta thuanckupui",
+            "                  lu suanna",
+            "                  Tingkauh baancharaa guay lev neihlaa 'cham ni.",
+            "",
+            "          2. Kandih hei mu ryanraapui ramc e,",
+            "             Lungcsimei lev ryanraamei rui padik;",
+            "             Tingsaeng lungc suang lak nipui ramc de,",
+            "             'Patlou ducna ai tat khap kan ni the.",
+            "",
+            "          3. Mbaanv khou lungcbampui saanv khouhei,",
+            "             Tingmik kathuih rysnraamei rui duam liam.",
+            "             Paapc mwnpwang rui puangc ariupui ramc,",
+            "             Zaylou o Pou' nang baanc rui tingkauh khou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neihkhat Swkaeng Naina Samctat ni"
+      }
+    }
+  }
+}

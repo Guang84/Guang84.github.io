@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-064",
+    "number": 64,
+    "source": {
+      "printedNumber": 64,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8.7.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kanaan ramthan nzuan khang tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kanaan ramthan nzuan khang tei",
+            "Zinghpui ram khou ginne,",
+            "Kagan rina achaeng maan the",
+            "Mai le muang rui gaan guang o;",
+            "Ahu khou hei guanga gaan o.",
+            "",
+            "He! Kanloumeipu ‘buinung houni cho?",
+            "Kanaan ram tang mak khang lunggei;",
+            "Rianra zinghmei muang ding khou,",
+            "Achun sina kabma huai e.",
+            "",
+            "2. Nuan phungmei kandimei nun khang,",
+            "Ringhpui duithan patdiu;",
+            "Kaniu nuan tei khiuthan lana,",
+            "Kanloumeipu ta hou khang,",
+            "Hei kandi ta ningdat mak khang.",
+            "",
+            "3. Ahu khou chingkhat gut kan the,",
+            "Kanaan ramgai khou tei;",
+            "Rianrapui ram ning datlak khe;",
+            "Theihpui bam tuanpu khou rui",
+            "Ringhpui namdaih tei nzuanni.",
+            "",
+            "4. Tingkao gaanphiu gaanpui ram khou,",
+            "Kanloumeipu’ thuanni,",
+            "Kandi rianra’ maanlou puni,",
+            "Neihlapui lu than suanni;",
+            "Khou tei bam khang ai neihlaa e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 64",
+        "Khristian Luzaam PDF",
+        "Chord: C",
+        "Meta 3: 8.6.8.7.8."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 64. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 64,
+        "match": "title-match-0.92"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kanaan ramthan nzuan khang tei",
+        "titleRongmei": "Kanaan ramthan nzuan khang tei"
+      }
+    }
+  }
+}

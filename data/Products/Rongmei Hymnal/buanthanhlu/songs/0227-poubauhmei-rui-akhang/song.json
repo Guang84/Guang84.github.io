@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-227",
+    "number": 227,
+    "source": {
+      "printedNumber": 227,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubauhmei rui Akhang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          227 Poubauhmei rui Akhang",
+            "                        10.9.10.9.Ref. 10.9. 10.9",
+            "          Doh hei G",
+            "",
+            "          1. Poubauhmei rui akhang zaenggaymei ramc,",
+            "             Kathancmei kai khat kasiamhlou the;",
+            "             Gay kanmei 'dic tingkauh Jerusalem,",
+            "             Ai rui bampui bamv heic khoutei e.",
+            "",
+            "                      Tatgut pwni Jerusalem nganvna,",
+            "                      Kathancmei Jerusalem khoutei,",
+            "                      Ai bampui bamv tingkauh Jerusalem,",
+            "                      Heicpui bamv khoutei ai tat pwni.",
+            "",
+            "          2. Kariw rui gaanhgaymei Jerusalem,",
+            "             Heicramc khoutei theihmei, nnaumei,",
+            "             Bw-neih rui gaanhmei kariw nai lak khe,",
+            "             Poubauhmei rui kariw sw pwni.",
+            "",
+            "          3. Zaenggaypui ramc Jerusalem khoutei,",
+            "             Paapc taanhmei guay, paapc phunghmei guay rui,",
+            "             Gut ngam lak ge, ryanraamei sw pwni,",
+            "             Tingsaeng zaeng ryanraamei sw pwni.",
+            "",
+            "          4. Poubauhmei lev atuang zaenggaymei ramc,",
+            "             Akumhpui ganv khou guangtangc ni cho?",
+            "             Ai rui khoutei tangh khang tat pwni e.",
+            "             Ai rui bampui bamv heic khoutei e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubauhmei rui Akhang"
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0131",
+    "number": 131,
+    "source": {
+      "printedNumber": 131,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Chas. H.Gabriel",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "Ref. SS 61"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ata Gumeipu ramzian",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nazarethmeipu Jisu lam,",
+            "Ning pwkhou akhang ch’ryn e;",
+            "’Kumhna ata zianlou tu cho,",
+            "’Khuaimei, ’phuammei paapc mei ta!",
+            "",
+            "Adih ch’ryn cho! Adih ch’ryn cho!",
+            "Mi tingsaeng alu sw ni,",
+            "Adih ch’ryn cho! Adih ch’ryn cho!",
+            "Ata Gumeipu ramzian!",
+            "",
+            "2 Azaeng khang e Kamei huaymei,",
+            "Anyng hamh, Nang nyng sw diu,",
+            "Karianra khang mikdui key mak,",
+            "Zei talanv 5#^ akhang e.",
+            "",
+            "3 Apaap guay lev arianra guay,",
+            "Katuang swna laalouna,",
+            "Kalvari kros khou phungclou the,",
+            "Karaana ’khaengvna theiclou.",
+            "",
+            "4 Thuakloumei nunc lev hym daicna,",
+            "Kazawpaanv ai how pwkhou,",
+            "Tingsaeng neihlaana ai suan ni,",
+            "Ata zianloumei lam hei."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "My Saviour’s Love",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "Ref. SS 61",
+        "Chas. H.Gabriel",
+        "Nazerathmeipu Jisu lam",
+        "Nazarethmeipu Jisu lam",
+        "My Saviour’s Love",
+        "source hymn 131",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 131."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ata Gumeipu ramzian",
+        "titleRongmei": "Ata Gumeipu ramzian",
+        "titleEnglish": "My Saviour’s Love"
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-004",
+    "number": 4,
+    "source": {
+      "printedNumber": 4,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai Kumhmei Ramhrik Kumhmei khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          4    Ai Kumhmei Ramhrik Kumhmei khang",
+            "                                 8.10.12.9. Ref. 9.8.10",
+            "          Doh hei D",
+            "",
+            "",
+            "          1. Ai kumhmei ramhrik kumhmei khang,",
+            "             Kazei paanrui ringcsuangmei tiilou the.",
+            "             Ai neihlaa the ’taw mu ringcsuangmei laatow the.",
+            "             Ringhmei tampy khou ai lungc pwni. (3)",
+            "",
+            "                  Hallelujah! He Hallelujah!",
+            "                  Tingkauh Zion ramc gay khoutei,",
+            "                  Lungc nipui ramc tei ai nkhwan ngam mak!",
+            "",
+            "          2. Tingkauh ramgai khou ai lungh khang,",
+            "             Kalvari cross khou ata liulou the.",
+            "             Kazei luangckeymei tei nang nic laalou la tho.",
+            "             Tingkauh ramc khou tingsaeng zaeng lungh khang. (3)",
+            "",
+            "          3. Mbaanv chwn guay mpat la tho.",
+            "             Nangniw pumc hei Ravguangc tuang kaipat re.",
+            "             Lungning nthan makmei tingsaeng ryanraa pwni.",
+            "             Kanganv maekna ryanraa pwni the. (3)",
+            "",
+            "          4. Nrianhloumei ramc tingkauh khou,",
+            "             Neihkhat panty luaina ai tat pwni.",
+            "             Lungning mik rui how tangc thuy mak tingkauh ramc tei;",
+            "             Lwmmei paanrui tingkauh khou lungc ni. (3)",
+            "",
+            "                                                          Thiurizinang Gangmei"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai Kumhmei Ramhrik Kumhmei khang"
+      }
+    }
+  }
+}

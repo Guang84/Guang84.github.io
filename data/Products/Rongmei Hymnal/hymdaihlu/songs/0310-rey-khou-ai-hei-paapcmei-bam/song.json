@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0310",
+    "number": 310,
+    "source": {
+      "printedNumber": 310,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "C. Austin Miles",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.8.9.7. Ref.",
+      "tune": "CSH 186"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Rey khou ai hei paapcmei bam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Rey khou ai hei paapc mei bam khwan e,",
+            "Kaipouc khou kuaklou khang guang e,",
+            "Kuakloumei nsa na laa tow the,",
+            "Kalatryan kalaih mak ge.",
+            "",
+            "Tingkauh kai thangc zanh thanh khat hylou the;",
+            "Azanc e, hyloumei 6$%!",
+            "Kauh baanch’ra nunc neihlaa lu suan bam the:",
+            "“Paapc mei khat kai guang the”!",
+            "Hymdaihmei dic khou zanh thanh khat hylou the,",
+            "Azanc e, hyloumei 6$%!",
+            "Akhuay guay kuaklouna ai tingkauh ’zwan bam the,",
+            "Maeng tat dat lak khe.",
+            "",
+            "2 Khuksun key e, niamhna ai kros khou,",
+            "Ravguangc tuang lungpuam ta pingna,",
+            "Kauh kaikhamv laanc pat ki ai how the:",
+            "Azanc hylou bammei ta.",
+            "",
+            "3 “Zauzian $%6 gulou the!” twmei hei",
+            "Ringhpui Latrik khou hylou the;",
+            "Zei paan $%6 tiigay the, kuaklou the,",
+            "Alungsyng $%6 thuancku e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A New Name in Glory",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "9.8.9.7. Ref.",
+        "CSH 186",
+        "C. Austin Miles",
+        "TINGKAUH KAI THANGC ZANH THANH",
+        "A New Name in Glory",
+        "source hymn 310",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 310."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Rey khou ai hei paapcmei bam",
+        "titleRongmei": "Rey khou ai hei paapcmei bam",
+        "titleEnglish": "A New Name in Glory"
+      }
+    }
+  }
+}

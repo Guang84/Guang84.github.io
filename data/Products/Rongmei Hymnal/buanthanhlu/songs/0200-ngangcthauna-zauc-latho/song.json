@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-200",
+    "number": 200,
+    "source": {
+      "printedNumber": 200,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ngangcthauna Zauc latho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          200 Ngangcthauna Zauc La tho",
+            "                             6.9.8.6.Ref. 8. 8. 8.8",
+            "",
+            "          1. Ngangcthauna zauc la tho:",
+            "             Theihmei khou bammei kaguayna ta.",
+            "             Tingsaeng 'maan nipui mei guay ta,",
+            "             Gulou khang kaamcthau tho.",
+            "",
+            "                    Ravguangc rui 'zian, zaatc guayna ta;",
+            "                    Kadaeng khou guangmei laanii e.",
+            "                    Aniw ringhmei laatow ethei,",
+            "                    Thau lana dinc tat lak na cho?",
+            "",
+            "          2. Tatna dinc liklou o,",
+            "             'Tay nimei maekna minc raamkey the,",
+            "             Ndaapcna bammei maikwam rui,",
+            "             Ntei ngam kan ni the.",
+            "",
+            "          3. Pou' rui ndiu bam e,",
+            "             Khristian tuang chabwan kaguayna ta.",
+            "             Kaipouc khang bumaengh khuam nimei,",
+            "             Ai the twna tat tho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ngangcthauna Zauc latho"
+      }
+    }
+  }
+}

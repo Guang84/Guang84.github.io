@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0391",
+    "number": 391,
+    "source": {
+      "printedNumber": 391,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J.E. Rankia, D.D.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.10.10.7. Ref.",
+      "tune": "CSH 191"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU KHOU POU O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ryanra bam cho, nang lung zingc bam tu cho?",
+            "Jisu khou pou o, Jisu khou pou o;",
+            "Zaengsii bam cho, nang neihlaamei ’maanna?",
+            "Jisu khou na poulou o.",
+            "",
+            "Jisu khou pou o,",
+            "Jisu khou pou o,",
+            "Kamei thay dianghmei Pam e;",
+            "Chana, nang khang Kakumhmei Pam maek ge,",
+            "Jisu khou na poulou o.",
+            "",
+            "2 Taek makna nang mikdui key bam tu cho?",
+            "Jisu khou pou o, Jisu khou pou o;",
+            "Meic nunc hu khou ’kamhmei paap nang nai cho?",
+            "Jisu khou na poulou o.",
+            "",
+            "3 Ryanramei muangh zinghmei ta nang ping cho?",
+            "Jisu khou pou o, Jisu khou pou o;",
+            "Nthuanh khang nang lung ryanra bam tu cho?",
+            "Jisu khou na poulou o.",
+            "",
+            "4 Theih khang pingmei >|3 lungh katuakc bu cho?",
+            "Jisu khou pou o, Jisu khou pou o;",
+            "Khrista guangcdic 3>| how khang machunh cho?",
+            "Jisu khou na poulou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Tell it to Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "10.10.10.7. Ref.",
+        "CSH 191",
+        "J.E. Rankia, D.D.",
+        "Ryanra bam cho, nang lung zingc",
+        "Tell it to Jesus",
+        "source hymn 391",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 391."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU KHOU POU O",
+        "titleRongmei": "JISU KHOU POU O",
+        "titleEnglish": "Tell it to Jesus"
+      }
+    }
+  }
+}

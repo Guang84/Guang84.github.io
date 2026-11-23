@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-101",
+    "number": 101,
+    "source": {
+      "printedNumber": 101,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu ramzian daihmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          101         Jisu ramzian daihmei",
+            "                        6.9.10. 11.Ref. 8.7.9",
+            "          Doh hei E",
+            "",
+            "          1. Jisu ramzian daihmei",
+            "             Tingsaeng zaengna thuancna bam di kho.",
+            "             Theic nuhmei bamv khourui tiduaklou the.",
+            "             Ringhpouc tuang taanv daihmei tei thuancku di kho.",
+            "",
+            "                  Thuanc o Ringhpouc ta zaatc guay rui,",
+            "                  Kakhou lwmloumei guay khang,",
+            "                  Tingkauh Guangdic tei chamdaanvlou the.",
+            "",
+            "          2. Ai ryanraamei ganv khou,",
+            "             Ringhpouc baancharaa rui 'khavlou the.",
+            "             Ringhmei baanc rui ata chaengzaylou the.",
+            "             Ringhpouc tuang taanv daihmei tei thuancku di khou.",
+            "",
+            "          3. Ringhpouc latpiumei khang,",
+            "             Kapanty khou neihlaana lungc ni.",
+            "             Aniw khang kage naimei guay tilou,",
+            "             Ringhpouc suaihiam sing phucna thuancku di kho"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu ramzian daihmei"
+      }
+    }
+  }
+}

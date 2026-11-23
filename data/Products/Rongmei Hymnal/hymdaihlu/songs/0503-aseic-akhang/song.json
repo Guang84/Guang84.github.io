@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0503",
+    "number": 503,
+    "source": {
+      "printedNumber": 503,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Virgil P. Brock",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.10.10.10.",
+      "tune": "CSH 104"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ASEIC AKHANG",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Aseic akhang nthuanh guang mak nuh e,",
+            "Nthuanh neihmik patmei how mak nuh e;",
+            "’Seic tingzyn ?|7 ataanv luai bam nuh e,",
+            "Aseic akhang nthuanh guang mak nuh e.",
+            "",
+            "2 Aseic akhang, neihlaapui lu suan khang,",
+            "Alu ?|7 gaanv saekc ta katiu nuh e;",
+            "Aphaykaamv suangc kakaamv ’suan bam nuh e,",
+            "Aseic akhang, neihlaapui lu suan khang.",
+            "",
+            "3 Aseic akhang, ’zian thaypui taanv taanh khang,",
+            "Puatrith phungc bammei nunc ta ’khavlou khang;",
+            "Bumaengh ’saekc ta ’khavlou khang ai tat ni,",
+            "Aseic akhang, ’zian thaymei taanv taanh khang.",
+            "",
+            "4 Aseic akhang nthuanh guang mak nuh e,",
+            "’Seic neih key khou apanty luai nuh e;",
+            "Kaipouc akhou “Gay the,” twlou ni cho?",
+            "Aseic akhang nthuanh guang mak nuh e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Today is Mine!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "10.10.10.10.",
+        "CSH 104",
+        "Virgil P. Brock",
+        "Today is Mine!",
+        "source hymn 503",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 503."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ASEIC AKHANG",
+        "titleRongmei": "ASEIC AKHANG",
+        "titleEnglish": "Today is Mine!"
+      }
+    }
+  }
+}

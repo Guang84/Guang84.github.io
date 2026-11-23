@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-207",
+    "number": 207,
+    "source": {
+      "printedNumber": 207,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Theimei nzaeng dii ram gai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Thei mei nzaeng dih ram gai rui",
+            "Rangbang tat tuan kei ngam thuimak ,",
+            "Zingmei guangdi ramgai ta mang man na",
+            "Kamthao ngham thui lakge, Raguangh .",
+            "",
+            "He ramthai makmei rou guai",
+            "Nang Raguang lat nkingh o",
+            "Ringpou thiu la mbun lou na",
+            "Nang trou khou rui ti-ring thao lou puni.",
+            "",
+            "2. Theimei rou kum aniu guai hei",
+            "Ringna, ringna, ramthai mak khe,",
+            "Thei mei chaeng khou thei puni thai makna",
+            "Maan ngam kan nikum the, Ravguangc.",
+            "",
+            "3. Theimei nang ring dat ni cho?",
+            "Taruai khamtaan akhou nai e;",
+            "Tingsang banthai ram thang phung guang lou ni",
+            "Ai ping thai na lung e thei.",
+            "",
+            "4. Ringpou thiula puan zing kum na",
+            "Dih kun padeic khou rui guang o",
+            "Lung ning kathan bumaeng than tilou o",
+            "Nang lat danc guay piw na lung khang.",
+            "",
+            " Pastor Abui"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 207",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 207. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Theimei nzaeng dii ram gai",
+        "titleRongmei": "Theimei nzaeng dii ram gai"
+      }
+    }
+  }
+}

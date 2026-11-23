@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-106",
+    "number": 106,
+    "source": {
+      "printedNumber": 106,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Arih puan hei lou kei ping e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Arih puanc hei lou kei ping nge",
+            "Ai bam pui di rih hei ping e",
+            "Tingmik thui nthiam mei purui",
+            "Nang mei nun guai ta nthiam bam e.",
+            "",
+            "Rihpuan ti o Immanual",
+            "Nang bumaeng rui nduang lou o",
+            "Pap rui raeng sumei dih khou hei",
+            "Nang rui kaganv thui duangc lou o.",
+            "",
+            "2. Apum tan hei mak khuan sini",
+            "Nang rih mei khang biw mak sini",
+            "Khang thai mei guai khang Guangc pirunc",
+            "Nang rui chamvdan loumei dinlou o.",
+            "",
+            "3. He! zailou o kanloumei pu",
+            "Nang zeipaan rui rih hei ngam ni.",
+            "Paprui raeng sumei dih khou hei",
+            "Pap phung mei nun zaan phu ngam mak ge.",
+            "",
+            "4. Nang rui ri hei timan lou o",
+            "Nang zei paan rui rihei ngam ni",
+            "Nang zauzianc rui nkha lou o",
+            "Nuan phungmei nun guai ta zaipat khang ."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 106",
+        "Khristian Luzaam PDF",
+        "Chord: Ab",
+        "Meta 3: 8.8.8.8."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 106. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 133,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Arih puan hei lou kei ping e",
+        "titleRongmei": "Arih puan hei lou kei ping e"
+      }
+    }
+  }
+}

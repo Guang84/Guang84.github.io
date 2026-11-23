@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0820",
+    "number": 820,
+    "source": {
+      "printedNumber": 820,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkum kathan guang dat",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Tingkum kathan guang dat puthe,",
+            "Chunsi jangsi pui tuang gei e;",
+            "Kabam kathui phangjao bam khou,",
+            "Njianmei nun guai ntang mak.",
+            "",
+            "Chorus:",
+            "He buithang bam cho jianmei nun,",
+            "Poubaumei tingsang gai pui ram;",
+            "Guango he ringmei mun gaimei,",
+            "Rim gaimei mun 1@: la dikho.",
+            "",
+            "2. Kagan 1@: rui tak dat lak khe,",
+            "Kachak namdai gaimei khou 1@:;",
+            "Rianra rianriu mei nai lak khe,",
+            "Tingsang gaichui pui ram khou 1@:.",
+            "",
+            "3. Ai ninge njianpui ram 1@:,",
+            "Juan dikho rianra ram khou rui;",
+            "Tingsanga Salem namthan gaimei,",
+            "Njianmei nun bam pui ram 1@:."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "8.8.8.8.",
+        "Tingkum kathan guang dat",
+        "source hymn 90",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 90."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkum kathan guang dat",
+        "titleRongmei": "Tingkum kathan guang dat"
+      }
+    }
+  }
+}

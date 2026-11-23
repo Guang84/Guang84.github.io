@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0292",
+    "number": 292,
+    "source": {
+      "printedNumber": 292,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fred. P.Morris",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/4",
+      "meter": "7.7.8.7. Ref.",
+      "tune": "3 Alex 142"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NANG TUANG BAIBAL SIN TAT RO",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang tuang Baibal sin tat ro,",
+            "Kasuaihiam guay tiipat ro;",
+            "Kaganv ’thuic nang ta ’khavlou ni,",
+            "Sin tat ro tatpui bam ’thuic!",
+            "",
+            "Sin tat ro tatpui bamv ’thuic,",
+            "Sin tat ro tatpui bamv ’thuic,",
+            "Ravguangc zianmei chamv",
+            "kauh thangc tuang Lat hei,",
+            "Sin tat ro nang tatpui bamv ’thuic.",
+            "",
+            "2 Kuakloumei Lat sin tat ro,",
+            "Tingmik thuic gay hay hay ni;",
+            "Gaanv saekc chu niina ’khwan bam e,",
+            "Sin tat ro tatpui bamv ’thuic.",
+            "",
+            "3 Ch’rynmei p’ry hei sin tat ro,",
+            "Lungh ryanra bammei nunc khang;",
+            "Suaihiammei, thuakloumei chamv hei,",
+            "Sin tat ro tatpui bamv ’thuic.",
+            "",
+            "4 Latryan Lat hei sin tat ro,",
+            "Paapc mei nunc paap ngamv khou $%6",
+            "Ravguangc tuang duakmei chaeng thay khang,",
+            "Sin tat ro tatpui bamv ’thuic."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Carry Your Bible",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/4",
+        "7.7.8.7. Ref.",
+        "3 Alex 142",
+        "Fred. P.Morris",
+        "Carry Your Bible",
+        "source hymn 292",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 292."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NANG TUANG BAIBAL SIN TAT RO",
+        "titleRongmei": "NANG TUANG BAIBAL SIN TAT RO",
+        "titleEnglish": "Carry Your Bible"
+      }
+    }
+  }
+}

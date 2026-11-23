@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0896",
+    "number": 896,
+    "source": {
+      "printedNumber": 896,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "Irregular",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Puai tat nban rianramei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Puai tat nban rianramei kandih khou hei,",
+            "Rianramei )_3 amik jing the;",
+            "Kam thao ngam dat lak khe.",
+            "",
+            "Chorus:",
+            "Kaipou buithang nanghei bam tucho?",
+            "Nang khuan kao bam meiChu ngam dat lak khe.",
+            "",
+            "2. Nban rianra khou gaichuimei ganchuanga,",
+            "Kaipou ganmei nang e;",
+            "Jingmei muang )_3 gumliam lou the.",
+            "",
+            "3. Rianramei panti khou jaosimei lam khou,",
+            "Banglou khou)_3 rianra khang ngam makge;",
+            "He kanlou o.",
+            "",
+            "4. Araguang nangjan ta ai kalum bam ni,",
+            "He akaipou Araguang chang hei;",
+            "Tichum lou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "Irregular",
+        "Puai tat nban rianramei",
+        "source hymn 166",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 166."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Puai tat nban rianramei",
+        "titleRongmei": "Puai tat nban rianramei",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

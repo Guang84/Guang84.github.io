@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0042",
+    "number": 42,
+    "source": {
+      "printedNumber": 42,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "C.M.Battersby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.10.10.4.",
+      "tune": "CSH 266"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai rui meiclung tiikabiulou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai @<4 meic lung tiikabiulou khwan ’thei,",
+            "Ai @<4 chaeng zay maanvlou tuang nai khwan ’thei,",
+            "Achwn khou na ai tat khwan ’thei, Ravguangc,",
+            "Kuaklou na ro!",
+            "",
+            "2 Saa zi makpui lat ai saa maanv khwan ’thei,",
+            "Ryanra akhaengv zihna ley tat khwan ’thei,",
+            "Meic ta rairiu tuang nai khwan ’thei, Ravguangc,",
+            "Kuaklou na ro!",
+            "",
+            "3 Ata rilin akhangv khang langlou khou,",
+            "Ai lat piu mak, thouh sw mak bam khwan ’thei,",
+            "Amanvpui bamv na phu khwan ’thei, Ravguangc,",
+            "Kuaklou na ro!",
+            "",
+            "4 Saa ’dauh kanmei paap guay 4^& kuaklou o,",
+            "Ai thay makmei apaap guay kuaklou o;",
+            "He zaylou, zianlou, gaeklou o, Ravguangc,",
+            "Amen! Amen!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "An Evening Prayer",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "10.10.10.4.",
+        "CSH 266",
+        "C.M.Battersby",
+        "TINGZYN RAVSUAI",
+        "An Evening Prayer",
+        "source hymn 42",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 42."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai rui meiclung tiikabiulou",
+        "titleRongmei": "Ai rui meiclung tiikabiulou",
+        "titleEnglish": "An Evening Prayer"
+      }
+    }
+  }
+}

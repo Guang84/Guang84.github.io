@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0350",
+    "number": 350,
+    "source": {
+      "printedNumber": 350,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. J.H. Sammis",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "3/4",
+      "meter": "12.9.12.9. Ref.",
+      "tune": "SS 642"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "LWMNA PIU O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Poubauhmei lev aniu Kalat riw khou tat khou,",
+            "Aniu chaeng adih tiigaanclou cho!",
+            "Kanyng piulou ti thei aniu lev bam ’chamc e,",
+            "Lwmna piumei guay lev bam ’chamc e.",
+            "",
+            "Lwmna piu o, hei hamhna chaeng maek ge,",
+            "Jisu khou neihlaa bam khang",
+            "Lwmna piumei na de.",
+            "",
+            "2 Gumliam khang tingpuk khou",
+            "muangh !}2 ’thau ngam mak ge,",
+            "Kamei !}2 muangh ta hac ganc puni,",
+            "Lwmsiimei pingmei maek, mikdui",
+            "keymei 2^< maek,",
+            "Lwmna piu bam khou khat sihni maek.",
+            "",
+            "3 ’Niu !}2 phunghmei puatphung,",
+            "ryanra khaengvmei guay khang,",
+            "Kamei !}2 suaihiam ’’buna tiilou,",
+            "Chwnsii-zaengsii, ’maanmei, kros",
+            "phunghmei kathuic hei,",
+            "Suaihiam de, lwmna piumei guay khang.",
+            "",
+            "4 Gaymei dam laa ’chamcna Kapamv khou ’niu bam ni,",
+            "Tat pwkhou Kamei lev tat ’chamc ni;",
+            "Ndiupui lat piu ni, thouhpui bamv khou tat ni,",
+            "Khat sihni ping lak lwmna piu ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Trust and Obey",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "3/4",
+        "12.9.12.9. Ref.",
+        "SS 642",
+        "Rev. J.H. Sammis",
+        "Poubauhmei lev aniu Kalat riw",
+        "Trust and Obey",
+        "source hymn 350",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 350."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "LWMNA PIU O",
+        "titleRongmei": "LWMNA PIU O",
+        "titleEnglish": "Trust and Obey"
+      }
+    }
+  }
+}

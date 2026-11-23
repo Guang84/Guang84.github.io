@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-085",
+    "number": 85,
+    "source": {
+      "printedNumber": 85,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Heic Kandic Ryanraa Ramc khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          85      Heic Kandic Ryanraa Ramc khou",
+            "                                  7.7.8.7",
+            "          Doh hei D",
+            "",
+            "          1. Heic kandic ryanraa ramc khou,",
+            "             Ryanraa kalanghmei khwan rui,",
+            "             Kandih kwn guay kagaengv lik ge;",
+            "             Paapc lev zinghmei kandic khou.",
+            "",
+            "          2. Alung ryanraa bammei hei,",
+            "             Kandihmei rui thay tangh mak.",
+            "             Alung khou ryanraamei duidai;",
+            "             Tabui nungc rui 'maan ni cho?",
+            "",
+            "          3. Baanphiu puancna kalum e;",
+            "             Laathaulou o Poubauhmei.",
+            "             Nang tuang nchu nzaenghmei tei,",
+            "             Tii keylou o alung khou.",
+            "",
+            "          4. Kakwm kaganv guay samctat;",
+            "             Duipui guay nic luangctat bam;",
+            "             \"Ki aryanraa kaguay hei mu",
+            "             Kimkey mak ge, he Ravguangc!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Heic Kandic Ryanraa Ramc khou"
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0325",
+    "number": 325,
+    "source": {
+      "printedNumber": 325,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Thomas o. Chisholm",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "9/8",
+      "meter": "10.9.10.9. Ref.",
+      "tune": "HLC 333"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HE THUAKLOUMEIPU",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang ta luic nii e! heThuakloumeipu,",
+            "Mi hei ai ningmei, aravsuai the;",
+            "Kandih puat guay ai ’patlou ngam ni the,",
+            "Jisu, Nang kahak ai luic ngam khang.",
+            "",
+            "Nang ta luic nii e! Nang ta luic nii e!",
+            "He Thuakloumeipu, Nang kumc ’than khang!",
+            "Nang ramgai akhou gut padiklou o,",
+            "Nang maengc naplou tho, alung khou hei.",
+            "",
+            "2 Nang ta luic nii e! kadanlou thayna,",
+            "Zianmei, kuakloumei lung padikna,",
+            "’Suanmei ta ’khavlou, lakmei tiitanclou,",
+            "’Maanmei paapc mei ta phuna tat khang.",
+            "",
+            "3 Nang ta luic nii e! lungning niamhmei khou,",
+            "’Thanmei, khay maekmei,",
+            "khaengvsaenghmei khou,",
+            "Sinnui malaamei lungh ’zaenghna khaengvmei,",
+            "Meic nunc ta gu khang khaengvngammei khou.",
+            "",
+            "4 Nang ta luic nii e! ai huayna bam khang,",
+            "Nang Bumaengc akhou bun keilou tho;",
+            "Nang lunghmei Ravkai ai hei sw biuh khang,",
+            "Dih lev tingkauh khang biuhmei sw khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Blessed Redeemer",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "9/8",
+        "10.9.10.9. Ref.",
+        "HLC 333",
+        "Thomas o. Chisholm",
+        "Nang ta luic nii e",
+        "Blessed Redeemer",
+        "source hymn 325",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 325."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HE THUAKLOUMEIPU",
+        "titleRongmei": "HE THUAKLOUMEIPU",
+        "titleEnglish": "Blessed Redeemer"
+      }
+    }
+  }
+}

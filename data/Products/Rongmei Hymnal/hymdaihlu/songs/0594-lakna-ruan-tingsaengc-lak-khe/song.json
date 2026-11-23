@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0594",
+    "number": 594,
+    "source": {
+      "printedNumber": 594,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "F.J.Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.5.7.5.8.8.7.5. Ref.",
+      "tune": "RS 477"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lakna ruan tingsaengc lak khe",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Lakna ruan tingsaengc lak khe,",
+            "Kai tangc puni the!",
+            "Pwanzingh akhangv saengc lak khe,",
+            "Kai tangc puni the!",
+            "Tingmik asaekc kros phungc ethei,",
+            "Khrista lev pyrun run puni;",
+            "Lakna ruan tingsaengc lak khe,",
+            "Kai tangc puni the!",
+            "",
+            "Kaganv duithuak kaanna",
+            "Tingsaengzaeng ’thaekc puni;",
+            "Lakna ruan dat lak khe,",
+            "’Niu kai tangc pwkhou!",
+            "",
+            "2 Kapmei zingbangc saengh mak khe,",
+            "Kai tangc puni the!",
+            "Rigaanv bam tingsaengc lak khe,",
+            "Kai tangc puni the!",
+            "Paapc ric asaekc ngam khang nai e,",
+            "Napchu asaekc khuam khang nai e,",
+            "Lakna ruan tingsaengc lak khe,",
+            "Kai tangc puni the!",
+            "",
+            "3 Zianmei riang tap saengc lak khe,",
+            "Kai tangc puni the!",
+            "Zianmei lat saa saengc lak khe,",
+            "Kai tangc puni the!",
+            "Ramnavmei luan asaanh makna",
+            "Kanaan dic khou gut puni the,",
+            "Lakna ruan tingsaeng lak khe,",
+            "Kai tangc puni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A Few More Marchings Weary",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "7.5.7.5.8.8.7.5. Ref.",
+        "RS 477",
+        "F.J.Crosby",
+        "A Few More Marchings Weary",
+        "source hymn 594",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 594."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lakna ruan tingsaengc lak khe",
+        "titleRongmei": "Lakna ruan tingsaengc lak khe",
+        "titleEnglish": "A Few More Marchings Weary"
+      }
+    }
+  }
+}

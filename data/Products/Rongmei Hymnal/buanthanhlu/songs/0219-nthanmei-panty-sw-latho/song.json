@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-219",
+    "number": 219,
+    "source": {
+      "printedNumber": 219,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nthanmei Panty Sw latho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          219 Nthanmei Panty Sw La Tho",
+            "                            8.8.8.8.Ref. 7. 8. 12. 8.8",
+            "          Doh hei Ab",
+            "",
+            "          1. Nthanmei panty sw la tho,",
+            "             Nang lungning Jisu khang tii o,",
+            "             Paapc chaeng khou ngalanc dat ri tho,",
+            "             'Dih chwn phungcna lungc dat ri tho,",
+            "",
+            "                       He 'maanmei bumaengc ching ching",
+            "                       'Maanmei chaeng khou ruanna tat bam,",
+            "                       Jisu khou pumtan ney lana kaamcthau la tho,",
+            "                       Cross tei phungcna dinc ruantat tho,",
+            "                       Ringhmei Ravguangc lat dinctat tho.",
+            "",
+            "          2. Nang ta Rav' rui damc chuylou the,",
+            "             Nang ramthai khou ngangv dat ri tho,",
+            "             Cross tei zaucna hu thangc gut tho,",
+            "             Kawmei khwan tei nking la tho,",
+            "",
+            "          3. Kaganv kaikhamv laanclou bam khou,",
+            "             Ravguangc nzianloumei lat tei,",
+            "             Kaganv nai khou dinc ruantat tho,",
+            "             Nthuanh khang daeklou dat ri tho.",
+            "",
+            "          4. Kandih taanv khang 'tin dat ri tho,",
+            "             Ravguangc laupuk khou taanv 'tin tho,",
+            "             Khrista chuangphey, baengsaengh sinna,",
+            "             Adow tho, rih ngam pwni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nthanmei Panty Sw latho"
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0390",
+    "number": 390,
+    "source": {
+      "printedNumber": 390,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. Frank E. Graeff.",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "6/8",
+      "meter": "9.810.8. Ref.",
+      "tune": "RS 401"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu thay dai?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu thay dai alung kabiuna",
+            "Ai neihlaa ngam lak guang pwkhou,",
+            "Puat ’ritmei phungh khou, lungh",
+            "geicna bam khou,",
+            "Achaenglwan tat liat lak pwkhou?",
+            "",
+            "Ata Kamei kadan bam e,",
+            "Kalung kabiulou bam e;",
+            "Kalaanv, zingbangc akhang",
+            "ryanra ngam lak khou,",
+            "Kamei kadanlou e.",
+            "",
+            "2 Jisu thay dai achaeng zingc pwkhou",
+            "Tinggiumei, pingmei guang pwkhou?",
+            "Kalaanv neichriw 2}? zinghmei guanh pwkhou,",
+            "Zianna adaeng tuanc bam dai cho?",
+            "",
+            "3 Jisu thay dai ’thiammei guang pwkhou,",
+            "Ai akhangv ngam lak guang pwkhou;",
+            "Lungh kabiu langvna aswang maek pwkhou,",
+            "Mikdui luangc taek makna bam khou?",
+            "",
+            "4 Jisu thay dai zian liangmei nunc ta",
+            "’Tamvlouna lungh kabiu bam khou,",
+            "Alung bakpui nganv ai ryanra pwkhou,",
+            "Kamei lunghsuc kadan bam dai?"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Does Jesus Care?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "6/8",
+        "9.810.8. Ref.",
+        "RS 401",
+        "Rev. Frank E. Graeff.",
+        "Does Jesus Care?",
+        "source hymn 390",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 390."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu thay dai?",
+        "titleRongmei": "Jisu thay dai?",
+        "titleEnglish": "Does Jesus Care?"
+      }
+    }
+  }
+}

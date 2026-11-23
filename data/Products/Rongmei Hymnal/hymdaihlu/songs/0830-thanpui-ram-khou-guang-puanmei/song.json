@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0830",
+    "number": 830,
+    "source": {
+      "printedNumber": 830,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": null,
+      "meter": "8.9.9.5.10.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thanpui ram khou guang puanmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Thanpui ramkhou guang puanmei 0({,",
+            "Tingkauh ganchuanga rui njuan ne;",
+            "Ntakmei kata phumei nun rui,",
+            "Ganchuanga ta jao na,",
+            "Ata banchuang ganmei 0({ rui na,",
+            "Guang puanpui bam Bethlehem jai gaungtang lou.",
+            "",
+            "Chorus:",
+            "He Bethlehem ching guangtang maksan,",
+            "Thak maknga ai tat ni;",
+            "Kalan ganchuannga rui jai guang louna,",
+            "Mary rui puan bammei nga na ta hou ni.",
+            "",
+            "2. Tingsang Salem changmun daimeiTei akhang rui lanlou dat kan the;",
+            "Man pui kandih khou bammei nun ta,",
+            "Ningtingmei ti sulou,",
+            "Neilana thuan kho Guang than puanmei ta,",
+            "Kandih hei tingsang gaipui lu padik diu.",
+            "",
+            "3. Adi neila cho guang than ta,",
+            "Tingkauh mei nun rui tithai lou the;",
+            "Kata ninga tingkauh mei nun rui,",
+            "Kandih khou hei jao kei,",
+            "Tingkauh ganchuanga nang rui bam phulou,",
+            "Puanpui bam Bethlehem jai guangtang lou ni.",
+            "",
+            "4. He tat dikho aniu tao hei,",
+            "Gaipui ram njuan na tat dikho;",
+            "Kandih guang nun rui jaoji sini,",
+            "Mei kapumma rui ni,",
+            "Guang dailiangmei e ai ning thuk liange,",
+            "Tingkauh gaipui ram jaiguang tang lou puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "8.9.9.5.10.11.",
+        "Thanpui ram khou guang puanmei",
+        "source hymn 100",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 100."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thanpui ram khou guang puanmei",
+        "titleRongmei": "Thanpui ram khou guang puanmei"
+      }
+    }
+  }
+}

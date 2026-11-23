@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0066",
+    "number": 66,
+    "source": {
+      "printedNumber": 66,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John D.S.Campbell",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "2/2",
+      "meter": "10.4.10.4.10.10.",
+      "tune": "HLC 44"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Bam kuay bammei chyng",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Bam ’kuay bammei chyng guay khou phaengc ku e,",
+            "Ai rigwnna;",
+            "’Khavloumei hei ’bui thangc ru guang ni cho?",
+            "Thow ta zauc ni?",
+            "Ravguangc hei ata ’khavloumeipu e,",
+            "Tingpuk kandih Kamei }?2 damclou e.",
+            "",
+            "2 Kamei }?2 nang phaykaamv tii- kachac lak,",
+            "Guakgau lak khe;",
+            "Ziprii makna mik tanguih key makna",
+            "Gaeklou puni;",
+            "Zauc lo, ’niu Ravguangc ziprii zat ak ge,",
+            "Israel mei ta kadanloumeipu hei.",
+            "",
+            "3 Jehovah hei nang ta gaekloumeipu",
+            "Nang baanc swng e;",
+            "Jehovah hei baanzat biak thangc naimei Rilin kiu e,",
+            "Kalaanv neicriw }?2 nang ta sw khamv lak,",
+            "Bwkaanv riw }?2 zingbangc sw khamv lak khe.",
+            "",
+            "4 Siimei khou }?2 nang ta gaeklou puni,",
+            "Paapc guay khou }?2;",
+            "Nang tatpatmei guang datmei gaek- lou ni,",
+            "Jehovah }?2;",
+            "Kauh thangc }?2 nang ta gaeklou- meipu }?2",
+            "’Taw }?2 thauna tingsaeng gaeklou puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Unto the Hills Around",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "2/2",
+        "10.4.10.4.10.10.",
+        "HLC 44",
+        "John D.S.Campbell",
+        "Unto the Hills Around",
+        "source hymn 66",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 66."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Bam kuay bammei chyng",
+        "titleRongmei": "Bam kuay bammei chyng",
+        "titleEnglish": "Unto the Hills Around"
+      }
+    }
+  }
+}

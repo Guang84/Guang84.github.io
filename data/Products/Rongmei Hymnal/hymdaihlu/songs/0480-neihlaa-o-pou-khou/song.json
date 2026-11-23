@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0480",
+    "number": 480,
+    "source": {
+      "printedNumber": 480,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "James Mc Granahon",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.8.11.8. Ref.",
+      "tune": "SS 508"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neihlaa o, Pou khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neihlaa o, Pou khou! neihlaa, Kazauzian khou!",
+            "Bangh swmei khou }?2 ’patlou the:",
+            "Zei }?2 thuaklou the, ’bui khang ping bam ni cho,",
+            "Jisu aniu khang sw bam khou?",
+            "",
+            "Ravguangc hei ’niu biak liangcna bam ethei,",
+            "’Niu biak liangc ethei,",
+            "Thow }?2 ’niu ta ngam ni?",
+            "Thow, .. thow, .. thow?",
+            "Thow }?2 aniu ta ngam bam ni cho?",
+            "",
+            "2 Kaipouc khou tanc o! Kangamv khou neihlaa o,",
+            "Tingmik machang Kalat piu o;",
+            "Siimei taanc pwkhou nzihmei khang bauc o,",
+            "Kamei hei aniu pumtan e!",
+            "",
+            "3 Lwm o, Kalat khou, Kalatryan suai mak ge;",
+            "Kakhou “N-guay lev Amen” e;",
+            "Kandih ’maan sihni Kalat thu ’maan lak ge,",
+            "Mi latdyng hei kalaic lak ge.",
+            "",
+            "4 Kaipouc khou bam o, gaekloumei khou bam o;",
+            "Mi hei ringcsuangmei panty e,",
+            "’Suan liangmei ta nganv Kabaancpav lungc khou }?2",
+            "Asut pat dat ngam zat lak khe!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“If God be for Us”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "11.8.11.8. Ref.",
+        "SS 508",
+        "James Mc Granahon",
+        "Ravguangc hei ’niu biak liangcna",
+        "“If God be for Us”",
+        "source hymn 480",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 480."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neihlaa o, Pou khou",
+        "titleRongmei": "Neihlaa o, Pou khou",
+        "titleEnglish": "“If God be for Us”"
+      }
+    }
+  }
+}

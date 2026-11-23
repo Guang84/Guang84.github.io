@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-205",
+    "number": 205,
+    "source": {
+      "printedNumber": 205,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He jona le nang thao lana",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He jona le nang thau lana",
+            "Ninevi kaidai thang tei din tad tho;",
+            "Lung lai mak ge thei nang kaidai",
+            "Ravguangc rui sumaan puni the,",
+            "Ravguangc hukhou rui duak khang pak tad na",
+            "Kha daimei bung lung khou",
+            "Ravguangc ruina riaplou the.",
+            "",
+            "Ai rian ra the, he Poubaomei",
+            "Khabung lung khou hei nang ta kalum e",
+            "Ai rianra the , ai rian ra the.",
+            "Ata zian na thuak lou dat ro.",
+            "",
+            "2. Nthuk mei khun khou ai bam e,",
+            "Aru khou thing nui rui gum liam ngam the;",
+            "Arian ra nthak khang numak",
+            "Zingbang ni kalaan ni thaimak",
+            "Aram rianra hei ai khang ngam lak khe,",
+            "Ata thuaklou datro, nang lat ai piu datni the.",
+            "",
+            "3. Aravguangc nang ta ning tou na",
+            "Arasuai nang kai khou hei phung guang e,",
+            "Nang bang ta nzian lou datro",
+            "Nang ta thuanpui lu suan dat ni,",
+            "Thei mei khou rui duak khang",
+            "Aring bam kiu nang nade.",
+            "",
+            "Compose by. Pastor Abui"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 205",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 205. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He jona le nang thao lana",
+        "titleRongmei": "He jona le nang thao lana"
+      }
+    }
+  }
+}

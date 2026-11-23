@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0641",
+    "number": 641,
+    "source": {
+      "printedNumber": 641,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J.H.Allema",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": ". 4/4",
+      "meter": "10.10.7.7. Ref",
+      "tune": "SS 1021"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jerusalem thanh raengmun",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thow thow cho kamuatcmei duidai paengc khou,",
+            "Rimh rimmei t’rou paengc khou na ding bammei,",
+            "Jisu ngamv kumcna thuancna:",
+            "“Lauziu Nac zei khou khiu the.”",
+            "",
+            "Jerusalem Thanh raengcmun",
+            "khou kanglwan gut the,",
+            "“Lauziu Nac zei khou khiu the,”",
+            "Jerusalem Thanh raengcmun",
+            "khou kanglwan gut the,",
+            "“Lauziu Nac zei khou khiu the.”",
+            "",
+            "2 Alauc khou <~1 Jisu khou",
+            "lwmmei nunc,",
+            "Jisu zauzian hei kachangc e,thaymei",
+            "Kaniw lwmloumei nunc e,",
+            "“Lauziu Nac zei khou khiu the.”",
+            "",
+            "3 Pingmei ric khou mai chung khou ding khwanmei,",
+            "Bauc kanmei nunc 1<~ kaniw guay hei e,",
+            "Jisu saa e: “Dwan-gay ni,”",
+            "“Lauziu Nac zei khou khiu the",
+            "",
+            "4 Gaanhmei tingkauh ramc khou gayna tangc the,",
+            "Suhmei, theihmei, paapc ryanramei maek khe,",
+            "’Taw thu neihlaa suang ni the;",
+            "“Lauziu Nac zei khou khiu the.”"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Washed in the Blood of the Lamb",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        ". 4/4",
+        "10.10.7.7. Ref",
+        "SS 1021",
+        "J.H.Allema",
+        "LAUZIU NAC ZEI KHOU KHIU THE",
+        "Thow thow cho kamuatcmei",
+        "Washed in the Blood of the Lamb",
+        "source hymn 641",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 641."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jerusalem thanh raengmun",
+        "titleRongmei": "Jerusalem thanh raengmun",
+        "titleEnglish": "Washed in the Blood of the Lamb"
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-235",
+    "number": 235,
+    "source": {
+      "printedNumber": 235,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubauhmei rui Kaw e, Paapc Phunghmei ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          235 Poubauhmei rui Kaw e Paapc",
+            "                           10.10. 10. 10.Ref. 10. 10.9.11",
+            "          Doh hei E",
+            "",
+            "          1. Poubauhmei rui kaw e paapc phunghmei ta;",
+            "             Nang paap tei zei kumcna haengc bam sinic,",
+            "             Khiu 'thanlou pwni Kalvari zei rui.",
+            "             Guang la tho nang adih nyan bam ni cho?",
+            "",
+            "                      Kawna bam the nang ta zianpui zaeng rui;",
+            "                      Gunh kumcna ti-mphwanlou ni tw e.",
+            "                      Guangmei guay mu neihlaana bam ni,",
+            "                      Halleluijah thuancna bam ni Jisu ta.",
+            "",
+            "          2. Kalat piumei nunc dwan gaymei sw ni.",
+            "             Adih gay ni guloumei sw e thei;",
+            "             Tingkauh ramc khou Kahym daihmei sw ni.",
+            "             Ngammeipu Jisu khou guanglou la tho.",
+            "",
+            "          3. Kaikhamv laanc bam khouhei guanglou la tho;",
+            "             Kaganv ri pwni the katumc la tho.",
+            "             Siimei taanv guay ta mpatlou la tho,",
+            "             Nyan la ri tho kaganv ri pwni the.",
+            "",
+            "          4. Nthuanh khang daeklou bam dat la ri tho;",
+            "             Aseic tingmik Jisu ta laalou tho.",
+            "             Theihmei paapc chaeng khourui ngalanc guang tho;",
+            "             San-gaymei sw la tho 'zianmei nunc le!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubauhmei rui Kaw e, Paapc Phunghmei ta"
+      }
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0377",
+    "number": 377,
+    "source": {
+      "printedNumber": 377,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "EL Nathan",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 780"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KUAKLOUMEI CHUZAENGH LEV NGAMV",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Pou Ravguangc khou neihlaa ni cho?",
+            "Chingkhiuh lanv 7?| chak go,",
+            "Kalat khou lwmmei khou naimei",
+            "Nganv makmei lanv chak go.",
+            "",
+            "Kuakloumei, .. chuzaengh lev ngamv",
+            "Nthanmei lev .. paradais nai,",
+            "Hei guay akhang .. Khrista paan ?|7",
+            "Neihlaapui lu ?|7 Kata thuancku diu!",
+            "",
+            "2 Ravguangc zauzian paan kuakloumei",
+            "Nsa na tiilou the;",
+            "Kuakloumei paan chuzaenghmei hei",
+            "Jisu zei paan akhang.",
+            "",
+            "3 Zauzian ?|7 paapc ngamv sw bak khang",
+            "Pou ?|7 ngamv tiilou e;",
+            "Bumaengh ’Thanmei ?|7 ’niu lung hei",
+            "Paapc khou ?|7 sw ’thanlou.",
+            "",
+            "4 Bumaengh khuam guangmei ngamv 7?| nic",
+            "Bumaengh ?|7 tiilou e;",
+            "Pou Khrista tuang kaipat Kamei",
+            "’Niu lung khou lungc bam e.",
+            "",
+            "5 Suaihiam guay hei ’niu laa tow e,",
+            "Lwmsihsingmei paan ?|7;",
+            "Ravguangc ?|7 neihlaana tii e,",
+            "’Niu khou Khrista paan ?|7."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Pardon, Peace and Power",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "6/8",
+        "8.6.8.6. Ref.",
+        "SS 780",
+        "EL Nathan",
+        "Pou Ravguangc khou neihlaa ni cho",
+        "Pardon, Peace and Power",
+        "source hymn 377",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 377."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KUAKLOUMEI CHUZAENGH LEV NGAMV",
+        "titleRongmei": "KUAKLOUMEI CHUZAENGH LEV NGAMV",
+        "titleEnglish": "Pardon, Peace and Power"
+      }
+    }
+  }
+}

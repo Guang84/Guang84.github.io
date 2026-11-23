@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0545",
+    "number": 545,
+    "source": {
+      "printedNumber": 545,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William A. Muhlenberg",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7.",
+      "tune": "HLC 217"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gumeipu, Nang Lauziu nunc ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Gumei pu, Nang lauziu nunc ta",
+            "Kadanna tiitulou o,",
+            "’Suanmei nunc ta Nang zaylou o,",
+            "Nang ngaengv khou tiibamlou o.",
+            "",
+            "2 ’Thyammei nac nunc ta laalou o.",
+            "Nang ngaengv gay khou pamclou o,",
+            "Khou5#^ Nang Lat khou lwmlouna",
+            "Guakgau makna bam kan diu.",
+            "",
+            "3 Nang byn khou #^5 maeng duc patna",
+            "Khouringh taek tiiswlou rio;",
+            "Nang tuang zian kadanloumei #^5",
+            "Siimei khou #^5 gaeklou diu!",
+            "",
+            "4 Khou kiu tingsaeng Nang baancpwam khou",
+            "Kaniw zaeng ’thaekcmei sw diu;",
+            "Ringc gaymei thingnwang tu bam diu,",
+            "Nang zauzian dui zangv bam diu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Saviour who Thy Flock art Feeding",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.7.8.7.",
+        "HLC 217",
+        "William A. Muhlenberg",
+        "Saviour who Thy Flock art Feeding",
+        "source hymn 545",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 545."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gumeipu, Nang Lauziu nunc ta",
+        "titleRongmei": "Gumeipu, Nang Lauziu nunc ta",
+        "titleEnglish": "Saviour who Thy Flock art Feeding"
+      }
+    }
+  }
+}

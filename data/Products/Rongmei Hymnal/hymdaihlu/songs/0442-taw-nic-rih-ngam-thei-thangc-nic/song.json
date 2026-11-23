@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0442",
+    "number": 442,
+    "source": {
+      "printedNumber": 442,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "S. Martin",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "9/8",
+      "meter": "9.7.9.7.8.7.8.7. Ref.",
+      "tune": "SS 673"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Taw nic rih ngam, thei thangc nic",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Taw nic rihngam, thei thangc nic ngam khang,",
+            "Guangh 0({ kaamc thau the, ngamv khou,",
+            "Biangpiumei rihmei kangdai ’duanghna",
+            "Gut tho, adowpui bamv khou;",
+            "Zauc lo, baucna kaniw gut the,",
+            "Ding rian lana, chamdaanvna,",
+            "Kaniw Kaipouc zanc 0({ saancna;",
+            "Chu lo, ‘Hozam’ kauhmei kiu.",
+            "",
+            "“Tanc rap tina ngam tuang hamh e,",
+            "Mazatmei ({0 nic ngam mak,",
+            "Lwm nuhmei lev biangpiumei ({0,",
+            "Zauzian paan rih ngam khang de.”",
+            "",
+            "2 ’Taw nic rihngam, thei thangc nic ngam khang,",
+            "Thow cho mi ch’rynmei Guangc hei?",
+            "Bui thangc ({0 guang cho,",
+            "Karicmei nunc,",
+            "Kata thuanc bammei nunc hei?",
+            "Kamei Thuakmei pu, Kaipouc e,",
+            "Gumei pu, Guangh, Ravguangc e,",
+            "Kaniw hei gaanchuangc kumc tingsaeng",
+            "Guanghdic khou gaanc nimei e.",
+            "",
+            "3 ’Taw nic rihngam, thei thangc nic ngam khang.",
+            "He Jisu, Nang Kaipouc e;",
+            "Guangh bamvpaeng guay lev ngamv guay ’maan ni,",
+            "Guangh pyrun guay taek key ni;",
+            "’Ki Nang ’duangh tatmei rihmei nunc",
+            "Katwan nganv dingmei nunc 0({",
+            "Nang kai khou zaeng ’thaekc suang bam ni,",
+            "Kaniw rih 0({ luai pwkhou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Victory Through Grace",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "9/8",
+        "9.7.9.7.8.7.8.7. Ref.",
+        "SS 673",
+        "S. Martin",
+        "ZAUZIAN PAAN RIH NGAMMEI",
+        "Victory Through Grace",
+        "source hymn 442",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 442."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Taw nic rih ngam, thei thangc nic",
+        "titleRongmei": "’Taw nic rih ngam, thei thangc nic",
+        "titleEnglish": "Victory Through Grace"
+      }
+    }
+  }
+}

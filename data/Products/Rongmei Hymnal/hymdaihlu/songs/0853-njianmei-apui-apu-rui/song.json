@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0853",
+    "number": 853,
+    "source": {
+      "printedNumber": 853,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Njianmei apui apu rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Njianmei apui apu #!7,",
+            "Dinlou makge lat gaimei hei;",
+            "Bumang thanmei #!7 din lou e,",
+            "Nianmei le nchum mei lat.",
+            "",
+            "Chorus:",
+            "Kagan thui pouta ai thuanni,",
+            "Rianra puni neila puni;",
+            "Sianlan maknga lungsi sini,",
+            "Baibal hei #!7 asian lan ne.",
+            "",
+            "2. Kandih khou hei ram guai nata,",
+            "Lum khang makge nangbang ai mu;",
+            "Tingkauh lungning nthukmei tei,",
+            "Tithai lou o nangbang akhou.",
+            "",
+            "3. Apoubaumei siamruai su khang,",
+            "Kamthao ni the jingni ganni;",
+            "Poubaumei ata jai lou o,",
+            "Israel nun ta jailou mei kum.",
+            "",
+            "4. Rianramei bam kandih khou hei,",
+            "Bam nimak ge nangbang ai #!7;",
+            "Pu le ata jailou naro,",
+            "Tingkauh neila pui bam khou tei.",
+            "",
+            "5. Poubaumei le nangbang guai ta,",
+            "Nduang lou o kagan kathui;",
+            "Tatlou pui bam kathui na khou,",
+            "Jailou naro nang banjat #!7."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "8.8.8.8.",
+        "Njianmei apui apu rui",
+        "source hymn 123",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 123."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Njianmei apui apu rui",
+        "titleRongmei": "Njianmei apui apu rui"
+      }
+    }
+  }
+}

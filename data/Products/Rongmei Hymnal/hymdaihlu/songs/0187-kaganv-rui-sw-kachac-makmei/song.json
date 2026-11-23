@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0187",
+    "number": 187,
+    "source": {
+      "printedNumber": 187,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Sir John Bowring",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7.",
+      "tune": "CSH 312"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaganv rui sw kachac makmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaganv )}3 sw ka-chac makmei",
+            "Khrista kros khou hym daic e;",
+            "’Thanmei p’ry guay 3)^ lyanlou e,",
+            "Chingkhiuhmei kros tiangc khou 3)^.",
+            "",
+            "2 Ryanramei )}3 liam guang sihni,",
+            "Ningmei guang tangh mak sihni,",
+            "Kros )}3 ata ’patlou zat lak,",
+            "Chuzaengh, neihlaa nai khou 3)^.",
+            "",
+            "3 Achaeng khou suaihiam neicriw )}3",
+            "Gaanhmei, zianmei souclou khou,",
+            "Kros khou )}3 gaanc kachan guangna,",
+            "Neihlaa ’bumei tiilou the.",
+            "",
+            "4 Rumhmei, gaengmei, suhmei, ’maanmei,",
+            "Kros paan )}3 sw ’thanlou the;",
+            "Nganv makmei chuzaenghmei nai the,",
+            "Tingsaeng neihlaamei nai the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "In the Cross of Christ",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "3/4",
+        "8.7.8.7.",
+        "CSH 312",
+        "Sir John Bowring",
+        "Khrista kros khou",
+        "In the Cross of Christ",
+        "source hymn 187",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 187."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaganv rui sw kachac makmei",
+        "titleRongmei": "Kaganv rui sw kachac makmei",
+        "titleEnglish": "In the Cross of Christ"
+      }
+    }
+  }
+}

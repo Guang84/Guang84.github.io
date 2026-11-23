@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0349",
+    "number": 349,
+    "source": {
+      "printedNumber": 349,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.T. Cassell",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "2/4",
+      "meter": "12.12.12.13. Ref.",
+      "tune": "SS 1102"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KHRISTA LAT PIUMEI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neihkei nzaengc thangc )}3 latdyn lu khwan guang e,",
+            "Latdyn kiu thu: latpiu o, Khrista lat piu o!",
+            "Lu 3)^ kagaengv guang e, chyng guay )}3 lay suan e;",
+            "Latpiumei lu, latpiumei, Khrista lat piumei lu.",
+            "",
+            "“Rih hei ngam gut tho!",
+            "rih hei ngam gut tho!”",
+            "Rihpy latdanv e, “ ’Daw tho!”",
+            "Kalatdanv they gut kho,",
+            "Kandih 3)^ laa ni the,",
+            "Kalat piumei, n-guay,",
+            "Khrista lat piumei paan )}3!",
+            "",
+            "2 King o, bauhmei nuncle, dih zinlikmei khwan hei,",
+            "Kalat piu o, lat piu o, Khrista lat piu o!",
+            "Thau tho, baucna taanc tho, dinc tho, Kalatdanv 3)^,",
+            "Kalat piu o, latpiu o, he Khrista lat- piu o.",
+            "",
+            "3 Guang o, ’niw khou zauc o, ravsic guay hac ganc kho,",
+            "Kalat piumei, latpiumei, latpiumei paan )}3;",
+            "Seitaan chuangcphey bamv khou",
+            "’niu trampet ’muan gut kho;",
+            "Kalat piu o, latpiu o, he Khrista lat piu o.",
+            "",
+            "4 ’Niw chabwan pumtan hei Jisu khou katlou the,",
+            "Kalat piuna, latpiuna, Khrista lat piuna;",
+            "Gaychamv 3)^ dinc ’dauh ni, kandih pwm lik diu khang,",
+            "Kalat piu o, latpiu o, he Khrista lat piu o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Loyalty to Christ",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "2/4",
+        "12.12.12.13. Ref.",
+        "SS 1102",
+        "E.T. Cassell",
+        "Neikey nzaengc thangc rui lat dinc",
+        "Loyalty to Christ",
+        "source hymn 349",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 349."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KHRISTA LAT PIUMEI",
+        "titleRongmei": "KHRISTA LAT PIUMEI",
+        "titleEnglish": "Loyalty to Christ"
+      }
+    }
+  }
+}

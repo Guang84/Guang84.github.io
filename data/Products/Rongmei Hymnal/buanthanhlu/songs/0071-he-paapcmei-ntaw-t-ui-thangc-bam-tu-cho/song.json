@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-071",
+    "number": 71,
+    "source": {
+      "printedNumber": 71,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Paapcmei Ntaw T'ui Thangc Bam tu cho ? -",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          71 He Paapcmei Ntaw T'ui Thangc Bam Tu Cho",
+            "                          10. 10. 10. 10.Ref. 12. 10. 10. 10",
+            "          Doh hei G",
+            "",
+            "          1. He paapcmei, ntaw t'ui thangc bam tu cho ?",
+            "             Nang panty nai bammei kaganv lungc khou.",
+            "             Kandih mwnpwang gaymei khou lungc bam khou.",
+            "             Mitei rui theihmei khou zaylou pwni",
+            "",
+            "               \"Nang puancthanh nina de, kaganv nai bam khouhei,",
+            "               'Maanmei ta gulou khang nkhwan bam the:",
+            "               Ntaw kahak Adaeng khou guang la tho,",
+            "               Nang paap kaguay tei kuaklou pwni the.\"",
+            "",
+            "          2. He paapcmei, ntaw kaganv nai bam khou,",
+            "             Lungh laic la tho kaganv ri pwni the;",
+            "             Nthuanh twkhou rui Nazareth Jisu",
+            "             Tatri kan pwkhou kapna huay pwni.",
+            "",
+            "          3. Ntaw hei kanloumei kaganv kiu the.",
+            "             Guloumei ganv ta tatri nina cho ?",
+            "             Gulou khangrui ntaw nkhwan bam the,",
+            "             He paapcmei, Jisu daeng khou guang la tho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Paapcmei Ntaw T'ui Thangc Bam tu cho ? -"
+      }
+    }
+  }
+}

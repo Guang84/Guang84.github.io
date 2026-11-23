@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0455",
+    "number": 455,
+    "source": {
+      "printedNumber": 455,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Errnnest W. Shurtleff",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "HLC 457"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zaylou tho, he tingsaeng Guangc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Zaylou tho, he tingsaeng Guangc,",
+            "Ngam gutmei ting tangc the;",
+            "Nang rih ngamloumei bamv 5#^,",
+            "’Niu lwng bamv sw ni the;",
+            "Chamdaanv bampui ganv khou #^5",
+            "Zauzian #^5 tiitanclou,",
+            "Thau tho, he tingsaeng Guangcle,",
+            "Nang khang rih-lu suan e.",
+            "",
+            "2 Zaylou tho, he tingsaeng Guangc;",
+            "Paapc ric dai luai mak saanv;",
+            "’Thanmei lev chuzaenghmei #^5",
+            "Kandih hei zin mak saanv;",
+            "Baengsaeng haimei #^5 hamh e,",
+            "Rih khuangc khwan #^5 hamh e,",
+            "Zianmei lev zauzian taanv #^5",
+            "Kauh Guangcdic phungc guang ni.",
+            "",
+            "3 Zaylou tho, he tingsaeng Guangc,",
+            "’Niw pingmei nai lak khe;",
+            "Nang zaw howpui bamv ’thuic khou",
+            "Neihlaamei padik ge,",
+            "Nang tuang kros ’niw ruc khou nai,",
+            "Mi #^5 chaeng zaylou e,",
+            "Pyrun ’niw hu khou nai the,",
+            "Zaylou tho, he ’niw Guangc."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Lead on, O King Eternal",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "7.6.7.6. D.",
+        "HLC 457",
+        "Errnnest W. Shurtleff",
+        "Lead on, O King Eternal",
+        "source hymn 455",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 455."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zaylou tho, he tingsaeng Guangc",
+        "titleRongmei": "Zaylou tho, he tingsaeng Guangc",
+        "titleEnglish": "Lead on, O King Eternal"
+      }
+    }
+  }
+}

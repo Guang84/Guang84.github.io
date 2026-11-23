@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-079",
+    "number": 79,
+    "source": {
+      "printedNumber": 79,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gun daipui tingmik tang khang na the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Gun daipui ting mik tang khang na the,",
+            "Cham lou mei guang le kandi cham pan guai;",
+            "Kao thu ruina khuang pui le baza rui,",
+            "Ata kao e kanlou mei pu rui.",
+            "",
+            "Gundaipui tingmik khou ,",
+            "Kallou khang cham dan na bam mo",
+            "Kaguang bam pang khou ding khang tei",
+            "Poubaomei tan hei tan dikho.",
+            "",
+            "2. Reinung Noah rui ring pui gan ta,",
+            "Ningtou lana simei guai gan ngam mo;",
+            "Man ngam puni aniu kandi hei mu,",
+            "Gulou puni cham pan jat goi ta.",
+            "",
+            "3. Kachak nam dai khou guang tang pukhou ,",
+            "Miram khou tei aniu mban thaini;",
+            "Lung rian ramei le kapmei nai lak khe;",
+            "Gulou meinah nun le bam cham ni.",
+            "",
+            "4. Kandih khou gaimei ta ai ning the,",
+            "Hei ramgai khou tei guang tang nipui nung;",
+            "Guang guai na guang poubaomei daimei ta,",
+            "Ringpui san thuan bam ni khrista ta."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 79",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 79. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gun daipui tingmik tang khang na the",
+        "titleRongmei": "Gun daipui tingmik tang khang na the"
+      }
+    }
+  }
+}

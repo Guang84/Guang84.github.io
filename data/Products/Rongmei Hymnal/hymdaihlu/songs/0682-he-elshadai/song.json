@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0682",
+    "number": 682,
+    "source": {
+      "printedNumber": 682,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Alaununc Lev Chabwan Nunc Lu Rev. Mp.Namthiurei",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/8",
+      "meter": "10.10.10.10. Ref.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Elshadai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Elshadai - Ngamp’ryrimei",
+            "Racguangc,",
+            "Ramh guay ta hei Nang _>6 damclou tuang e,",
+            "Kaipouc Nang khang ramh tii dat khang maek ge;",
+            "Aniw panty na hei katgut dat re.",
+            "",
+            "He Jehovah - kadanloumei Kaipouc,",
+            "Heipui Ningtow Tauc ta hei suaihiamlou o;",
+            "Nang zawpaanv _>6 gaanclou o, gaeklou o;",
+            "Suaihiamlou pwkhou _>6 gay khang de,",
+            "Suaihiamlou makmei gaymei 6_> thu sii de.",
+            "",
+            "2 He Jehovah Nissi - aniw chuangcphey,",
+            "Aniw raana ’dow ’thei rih ngam lak ge,",
+            "Poubauhmei Sabaoth Rigaanvpouc Nang e,",
+            "Rih guay ngammei 6_> Nang paan",
+            "khou _>6 e.",
+            "",
+            "3 He Jehovah Shammah -",
+            "’Duanghloumeipu,",
+            "Nangmei nunc pang khou",
+            "bamloumei Racguangc,",
+            "Nang bamloumei ramgai gaymei kiu e,",
+            "Gaymeipu Nang nac nunc gaymei sw diu.",
+            "",
+            "4 He Jehovah Shalom - ’Chu-’zaenghmeipu,",
+            "Meic gay makmei _>6 pouna khangc dat mak,",
+            "Meic baihmei pow kuaklou khou kuaklou o,",
+            "Nthuihmei ’chu- ’zaenghmei khou kiu lou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/8",
+        "10.10.10.10. Ref.",
+        "Alaununc Lev Chabwan Nunc Lu Rev. Mp.Namthiurei",
+        "Elshadai",
+        "source hymn 682",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 682."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Elshadai",
+        "titleRongmei": "He Elshadai"
+      }
+    }
+  }
+}

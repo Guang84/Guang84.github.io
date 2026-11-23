@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-031",
+    "number": 31,
+    "source": {
+      "printedNumber": 31,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": null,
+      "meter": "8.5.8.6",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chunsimei muang rui guam liam the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Chunsimei muang rui gumliam the,",
+            "Hei kandih khou hei;",
+            "Nzian liangmei champan thiu le",
+            "Ntam puiganv guang the.",
+            "",
+            "He tamdat ni mak ge.] 2",
+            "Zianmei champan thiu le,",
+            "Tingkao bumaengthan diu lou o",
+            "Tingmik thui duang lou khang .",
+            "",
+            "2. Kalan zingbang tei nai mak ge,",
+            "Raguang thuan pui nung",
+            "Ntam pui ganv tei guang datna",
+            "Nzianmei mikdui kei.",
+            "",
+            "3. Alung hei neihlana nang ta,",
+            "Ningbam kan ni the,",
+            "Raguang rui zauzian mei lung khou",
+            "Tingkao mei su cham ni.",
+            "",
+            "4. He! Bumaengthan nduang lou o",
+            "Ntam puni the",
+            "Nzianmei nun zaeng sibam khou,",
+            "Saronmun gaanc guang o.",
+            "",
+            "5. Zaeng si rikho zianmei nun le,",
+            "Ntam kan di kho.",
+            "Abaanzat hei rui hamguang e,",
+            "Zianmei guai le salam."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 31",
+        "Khristian Luzaam PDF",
+        "Chord: Eb",
+        "Meta 3: 8.5.8.6"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 31. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 31,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chunsimei muang rui guam liam the",
+        "titleRongmei": "Chunsimei muang rui guam liam the"
+      }
+    }
+  }
+}

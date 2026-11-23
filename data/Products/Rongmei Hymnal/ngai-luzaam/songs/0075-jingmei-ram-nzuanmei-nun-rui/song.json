@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-075",
+    "number": 75,
+    "source": {
+      "printedNumber": 75,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": null,
+      "meter": "8.10.9.9.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jingmei ram nzuanmei nun rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Zingmei ram nzuan mei nun rui,",
+            "He! Zehovah zailou mei puta ning e;",
+            "Kao pumtan lana rih su pukhou,",
+            "Bumaeng than mei rui suaihiam lou na,",
+            "Kagunh daipui lu suan.",
+            "",
+            "He! Ai bam pui ram hei zingc pui ram e,",
+            "Hanguang datro zaat guaina lung khou hei",
+            "Khang lou kanmei rianra mei guai ,",
+            "Ringmei kandi tei ai hou khang.",
+            "",
+            "2. Guang gan o ganphiu gan chuang rui",
+            "Kalloumei neimik tei rui gan guang dat ro;",
+            "Rei khou kanaan khou zailou mei kum;",
+            "Nang ring pui dui khun gaimei khou tei,",
+            "Rianra guai khiu than o.",
+            "",
+            "3. Nang ham ma hei kandi khou hei,",
+            "Kandi rii lung khou ryanra bam khuan sini;",
+            "Rih puan piu na ai rui rih suni;",
+            "Kalvary zauzian lum lou mei guai,",
+            "Rui seitan ta ngam ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 75",
+        "Khristian Luzaam PDF",
+        "Chord: F",
+        "Meta 3: 8.10.9.9.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 75. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 75,
+        "match": "title-match-0.92"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jingmei ram nzuanmei nun rui",
+        "titleRongmei": "Jingmei ram nzuanmei nun rui"
+      }
+    }
+  }
+}

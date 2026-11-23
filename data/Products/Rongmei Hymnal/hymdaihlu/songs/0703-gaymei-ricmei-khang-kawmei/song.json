@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0703",
+    "number": 703,
+    "source": {
+      "printedNumber": 703,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W.S.Brown",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.11.11.11. Ref.",
+      "tune": "CSH 162"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gaymei ricmei khang kawmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Gaymei ricmei khang kawmei meic pumsin guang the,",
+            "Rihmei rih ’dow khang e, nang dawlou ni cho?",
+            "Chamdaanvna neihlaana katumcna ’daw tho;",
+            "Chwn-nuhmei zaucgaymei swna gut lak cho?",
+            "",
+            "Jisu khang zaucgaypuimei!",
+            "Gaymei ricmei!",
+            "Meic nunc thu gutlou the, nang ’kumh cho?",
+            "Rihpy kiu Jisu e, ping zat khang maek ge;",
+            "Chwn-nuhmei zaucgaymei swna gut lak cho?",
+            "",
+            "2 Riphyan guay ta rihmei sw khang Jisu kaw the,",
+            "Tingmik ’thuic, kaganv ’thuic Kakhang rih ’dow khang,",
+            "Nang ta ’patlou lak ge, anaa tanv bam e;",
+            "Chwn-nuhmei zaucgaymei swna gut lak cho?",
+            "",
+            "3 Nang ta zianpui zaeng ^&8 ’thukna kawpui tuang the,",
+            "Kalungning baklou the, maansei zaat khang ^&8;",
+            "’Taw na hei kaw bam the, Kakhwan nthanna;",
+            "Chwn-nuhmei zaucgaymei swna gut lak cho?",
+            "",
+            "4 Rihdai hei luai lana rih hei ngampui nungc kiu,",
+            "’Twnmei biangpiumei nunc guang kariu pwkhou,",
+            "Hymdaihmei pyrun kiu kaniw run puni;",
+            "Chwn-nuhmei zaucgaymei swna gut lak cho?"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "As a Volunteer",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "12.11.11.11. Ref.",
+        "CSH 162",
+        "W.S.Brown",
+        "Jisu khang zauc gaypui mei gaymei",
+        "As a Volunteer",
+        "source hymn 703",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 703."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gaymei ricmei khang kawmei",
+        "titleRongmei": "Gaymei ricmei khang kawmei",
+        "titleEnglish": "As a Volunteer"
+      }
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-304",
+    "number": 304,
+    "source": {
+      "printedNumber": 304,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zinghmei Kandic khou Ryanraamei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          304 Zinghmei Kandic khou Ryanraamei",
+            "                          9.7.9.7. Ref. 7. 7. 8.7",
+            "",
+            "          1. Zinghmei kandic khou ryanraamei guay,",
+            "             Pou' Jisu ta nang zauc o.",
+            "             Nangkhang ryanraa ryanriumei nai cho?",
+            "             Pou' Jisu ta nang zauc o.",
+            "",
+            "                     Pou' Jisu ta nang zauc o, (2)",
+            "                     Aseic hei nang ta kawbam the,",
+            "                     Pou' Jisu ta nang zauc o.",
+            "",
+            "          2. Theihmei kandic khou bammei nunc guay,",
+            "             Pou' Jisu ta nang zauc o.",
+            "             Gulou khang kakhou lwmlou tho.",
+            "             Pou Jisu ta nang zauc o.",
+            "",
+            "          3. Nang panty khou ryanraamei nai cho?",
+            "             Pou' Jisu ta nang zauc o;",
+            "             Nang lung khou lungclou khang ney o,",
+            "             Pou Jisu ta nang zauc o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zinghmei Kandic khou Ryanraamei"
+      }
+    }
+  }
+}

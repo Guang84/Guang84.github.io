@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0330",
+    "number": 330,
+    "source": {
+      "printedNumber": 330,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "A.C. Palmer",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "9/8",
+      "meter": "9.6.9.6. Ref.",
+      "tune": "SSSH 408"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NUH THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nuh the ai ryanra ryanriu khaengv khang,",
+            "Nchanv pwkhou ding khang;",
+            "Nuh the kailuangc khou ai bam lana",
+            "Baihmei ta thouc lyn khang.",
+            "",
+            "Nuh the tat khang, nuh the bam khang,",
+            "Nuh the athouc taanh khang,",
+            "Nuh the nthyammei daihmei taanh khou,",
+            "Kamei ningmei taanh khang.",
+            "",
+            "2 Nuh the tatpat khang, puatrith phungh khang,",
+            "Changkhaanvna huay bam khang,",
+            "Nuh the matat khat ’khwannabam khang,",
+            "Achaeng laanclou mak saanv.",
+            "",
+            "3 Nuh the saa pat khang, makumh bam khang,",
+            "Lungh lev chwn kapwm @<4;",
+            "Langloupui bamv khou ai ding bam khang,",
+            "Kamei ningmei taanh khang.",
+            "",
+            "4 Nuh the dinc tat khang, ’chamlou bam khang,",
+            "’Maanmei khang huay bam khang,",
+            "Nuh the ringc bam saanv, theihpuinganvna,",
+            "Kamei guang dat mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Nuh the, ai ryanra ryanriu ’khaengv",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "9/8",
+        "9.6.9.6. Ref.",
+        "SSSH 408",
+        "A.C. Palmer",
+        "Nuh the, ai ryanra ryanriu ’khaengv",
+        "Ready",
+        "source hymn 330",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 330."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NUH THE",
+        "titleRongmei": "NUH THE",
+        "titleEnglish": "Nuh the, ai ryanra ryanriu ’khaengv"
+      }
+    }
+  }
+}

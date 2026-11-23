@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-060",
+    "number": 60,
+    "source": {
+      "printedNumber": 60,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou hei kaguang peina",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandi khou hei kaguang peina kasiam thao the,",
+            "Kum sini guang khrista kum mei mu guang makge;",
+            "Kanloumei pu Bethlehem guai kai khou puan ne,",
+            "Tingkao guang thuanku khang kao le kandi mei nun.",
+            "",
+            "Neilana thuan ku o ting kao ngan na thuan no,",
+            "Puan pui nung kandi khou thuanpui lu padik diu;",
+            "Tingkao guang ngana puan the pirun run lou o,",
+            "Ting kao mei nun ni kei diu thuan ku kariu khang.",
+            "",
+            "2. Tingkaomei daimei nun ni thuan pui lu suan e,",
+            "Kaniu khuan tei laojiu gang mei nun rui chu e,",
+            "Guang khrista puan pui bam tei kaniu rui njuan,",
+            "Kaniu laojiu lou duna kaguang ta kalum.",
+            "",
+            "3. Duh thumei nun rui munrim gaimei dui sin na,",
+            "Tingkao ganchuang nga rui kaniuta jai guang lou;",
+            "Guai kai khou tei kapui mary rui puan bam the,",
+            "Kaniu puat guai louduna kaguang ta kalum.",
+            "",
+            "4. Kaniu guang Herod tei kalung rian ra bam the",
+            "Suh mala lou khang rui mei nun khou nuh bam e;",
+            "Kapam nun Judah kandi dang khou bam mei e,",
+            "Khriata guang daimei ta kalum khang tat kan the.",
+            "",
+            "5. Jisu asei hei aniu rui ning mei kum na,",
+            "Kathan puan datro tingsaeng guang daimei sukhang;",
+            "Aniu bam hei Mary bam kum ma ning lou o,",
+            "Kagan kathui na khou neila bam kan ni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 60",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 60. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou hei kaguang peina",
+        "titleRongmei": "Kandih khou hei kaguang peina"
+      }
+    }
+  }
+}

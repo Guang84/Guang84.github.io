@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0356",
+    "number": 356,
+    "source": {
+      "printedNumber": 356,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W.D. Longstaff",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "6/8",
+      "meter": "11.11.11.11.",
+      "tune": "SS 608"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Than khang kaganv laa o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Than khang kaganv laa o, Pou lev kachuc o;",
+            "Kakhou bam tanh tan o, Kalat kathai o;",
+            "Lwmmei pang khou bam o, ’suanmei ta ’khav o,",
+            "Khat sihni amuc rio, Kasuaihiam ney khang.",
+            "",
+            "2’ Than khang kaganv laa o, dih taanv taanc sihni;",
+            "Jisu lev nang ney na bammei ganv geic o;",
+            "Jisu ta zauc ti thei Kata nang luic ni,",
+            "Nang khei khou Kakumhmei nang rup nunc how ni.",
+            "",
+            "3 ’Than khang kaganv laa o,",
+            "Kata tiihu o;",
+            "Kahu pak kasuakc rio, tabui bui punic;",
+            "Neihlaa pw, ryanra pw, Kaipouc theilay o,",
+            "Jisu ta zauc bam o, Kalat lwm bam o.",
+            "",
+            "4 ’Than khang kaganv laa o, lumh lumna bam o;",
+            "Nang lungning, nang chwn guay Kata tiisin o;",
+            "Bumaengh @{4 zaylou ni zianmei duipuak khou,",
+            "Ravguangc taanv khou piu khang nang biuhmei sw ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Take Time to be Holy",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "6/8",
+        "11.11.11.11.",
+        "SS 608",
+        "W.D. Longstaff",
+        "’THANMEI NOWSUAN",
+        "Take Time to be Holy",
+        "source hymn 356",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 356."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Than khang kaganv laa o",
+        "titleRongmei": "’Than khang kaganv laa o",
+        "titleEnglish": "Take Time to be Holy"
+      }
+    }
+  }
+}

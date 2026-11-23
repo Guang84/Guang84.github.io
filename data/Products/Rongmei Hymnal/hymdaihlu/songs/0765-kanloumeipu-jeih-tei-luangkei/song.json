@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0765",
+    "number": 765,
+    "source": {
+      "printedNumber": 765,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kanloumeipu jeih tei luangkei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kanloumeipu jeih 6$% luangkei,",
+            "Apap guai khiu than khang;",
+            "Kapi thanmei bumkei louna,",
+            "Abumang kanlou the.",
+            "",
+            "Chorus:",
+            "Laujiu Nah njangmei,",
+            "Kalvari khou khang lou;",
+            "Laujiu Nah thei kanmei ringthao datthe,",
+            "Ata kanloumei e.",
+            "",
+            "2. Apap geimei njianlouna,",
+            "Kross rukhou khang louna;",
+            "Ngam makmei ata njian lou the,",
+            "Tingsang ringmei lakhang.",
+            "",
+            "3. Nei rui kalun jao ngam mak ge,",
+            "Kariu tipat mak ge;",
+            "Kamei rui apap guai phung lou,",
+            "Kross khou thei pui kan khou.",
+            "",
+            "4. Aini api bum kei lana,",
+            "Pou rui thei loumei kumma;",
+            "Akhang khang lou mei 6$% ninga,",
+            "Pou ta ningtan lak ge.",
+            "",
+            "5. Amikdui hei luang kei sini,",
+            "Khang loumei nthuk ge;",
+            "Apum hei tipat ngam sini,",
+            "Hei 6$% rui bui mak ge."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "8.6.8.6.",
+        "Kanloumeipu jeih tei luangkei",
+        "source hymn 35",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 35."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kanloumeipu jeih tei luangkei",
+        "titleRongmei": "Kanloumeipu jeih tei luangkei"
+      }
+    }
+  }
+}

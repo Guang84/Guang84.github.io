@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0445",
+    "number": 445,
+    "source": {
+      "printedNumber": 445,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John W. Peterson",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "6.7.9. D. Ref.",
+      "tune": "CGH 364"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "CHIWMEI CHAENGLWAN HAMH E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Chiwmei chaenglwan hamh e,",
+            "Tingkauh ’zwanpui chaenglwan hei;",
+            "Chaenglwan khou sauh-raengh ’peyna nai e,",
+            "Chiwmei chaenglwan hamh e,",
+            "’Ki Gumeipu tat ’duanghna",
+            "Tingmik ’thuic ata tiineihlaalou.",
+            "",
+            "Hamh e, chiwmei chaenglwan hamh e, (2)",
+            "’Ki Gumeipu tat ’duanghna",
+            "Chaenglwan saanv tiigaanclou,",
+            "Puat ’ritmei guay tii ’thaanloue.",
+            "",
+            "2 Chiwmei chaenglwan hamh e,",
+            "Ryanra, tiangchanhmei nai e,",
+            "Theic nuhpui bamv ’peyna ariw e;",
+            "Jisu gaeklou bam e,",
+            "’Niu ta sw kaguakh mak khang,",
+            "Chaeng siimei guay kasiamh chuylou e.",
+            "",
+            "3 Aphay tat suc sihni,",
+            "Apumc ryanra lak sihni,",
+            "Alung kadanmei padik sihni,",
+            "Gaymei tingmik ’naa the,",
+            "Hymdaihmei kai tangc pwkhou,",
+            "Tingsaeng chuzaenghna ’thaekc bam ni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "It’s Not an Easy Road",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "3/4",
+        "6.7.9. D. Ref.",
+        "CGH 364",
+        "John W. Peterson",
+        "It’s Not an Easy Road",
+        "source hymn 445",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 445."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "CHIWMEI CHAENGLWAN HAMH E",
+        "titleRongmei": "CHIWMEI CHAENGLWAN HAMH E",
+        "titleEnglish": "It’s Not an Easy Road"
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0181",
+    "number": 181,
+    "source": {
+      "printedNumber": 181,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SAS 61"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Kavary kunghmei zei tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zeipuakkai nai Jisu zei e, (3)",
+            "Kalvari khou ^&8 pat;",
+            "Khaengloumei zei 8^& paapc mei khang, (3)",
+            "Khiu ’than khang pat tuang e.",
+            "",
+            "He Kalvari kunghmei zei 8^&!",
+            "He Kalvari kunghmei zei 8^&!",
+            "He Jisu zei kunghmei 8^&!",
+            "Akhang keylou tuang e.",
+            "",
+            "2 Paapc mei khang keyloumei zei 8^&, (3)",
+            "Thuaklou khang keylou e;",
+            "Paapc ta karaengmei Jisu ^&8 (3)",
+            "Paapc mei nunc ta zian e.",
+            "",
+            "3 Zianthaymeipu kunghmei zei ^&8, (3)",
+            "Chuzaenghmei phungc guang e;",
+            "Lwmloumei ta tii ’zihlou the, (3)",
+            "’Twnmei tiiswlou the.",
+            "",
+            "4 Lwmloupuimei guang ding ngam e; (3)",
+            "Kaipouc Ravguangc hu khou;",
+            "Lwm makpui mei amaan suang ni, (3)",
+            "Ch’rynmei amaanmei khou"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SAS 61",
+        "Anonymous",
+        "KHAENGLOUMEI ZEI",
+        "Zeipuakkai nai Jisu zei e",
+        "Propitiatory Blood",
+        "source hymn 181",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 181."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Kavary kunghmei zei tei",
+        "titleRongmei": "He Kavary kunghmei zei tei"
+      }
+    }
+  }
+}

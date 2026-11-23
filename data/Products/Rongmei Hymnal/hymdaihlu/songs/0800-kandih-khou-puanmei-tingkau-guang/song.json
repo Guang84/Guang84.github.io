@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0800",
+    "number": 800,
+    "source": {
+      "printedNumber": 800,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "11.12.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou puanmei tingkau guang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih khou puanmei tingkau guang dailiangmei,",
+            "Bumang thanmei nun rui neilapui lu rui thuan e;",
+            "Thauihian liangmei tikgun daidiu,",
+            "Kandih mei nun khang njangmei sudiu.",
+            "",
+            "Chorus:",
+            "He tingkau bumang thanmei nun rui,",
+            "Bethlehem dang thu kao bamme;",
+            "Kaniu neila pui lu khuan rui,",
+            "Immanuel guang daimei tikgun daidiu tu e.",
+            "",
+            "2. Chamloumei guang nthanmei 3)_ puan pat the,",
+            "David kaikhuang ganchuanga tingsang gangai mei,",
+            "Tingsangjang guang tu bam lana,",
+            "Kajan thukmei tingsangjang thuan kuni.",
+            "",
+            "3. He bumang thanmei nun 3)_ rui suan datna,",
+            "Bethlehem namdai khou ai bampui kan khou 3)_;",
+            "Kaniu khuan le kaniu puan 3)_,",
+            "Alung khou hei tingsangjang thuan kandiu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "11.12.10.",
+        "Kandih khou puanmei tingkau guang",
+        "source hymn 70",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 70."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou puanmei tingkau guang",
+        "titleRongmei": "Kandih khou puanmei tingkau guang"
+      }
+    }
+  }
+}

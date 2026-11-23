@@ -1,0 +1,139 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0110",
+    "number": 110,
+    "source": {
+      "printedNumber": 110,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. C.F. Alexander",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7.8.7.",
+      "tune": "SS 32"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Reynungc David kaidai khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Reynungc David kaidai khou 8}@",
+            "Khouringh kai khat nai khwan e,",
+            "Kapui #<8 KaNac ta ’zilou,",
+            "Kiruai gypuikuak lungc khou;",
+            "Hei pui 8}@ niamhmei Meri e,",
+            "Ngana 8}@ Pou Jisu e.",
+            "",
+            "2 Kauh thangc #<8 kandih khou key e,",
+            "Kamei meic guay Racguangc e;",
+            "Khouringh kai ta Kakai sw e,",
+            "Guaihkuak ta Kazy sw e;",
+            "Lungcsiimei, ryanramei ding khou",
+            "Lungclou e, Guloumeipu.",
+            "",
+            "3 Aniu alauc nunc daicthau kumc",
+            "Khith khitna daicthau khwan e,",
+            "’Thyammei, ’suanmei, kapmei, nuihmei,",
+            "Kamei nic ’niu kumc thay e,",
+            "Aniu ryanra Kamei thay e,",
+            "Neihlaa nic neihlaa ’chamc e.",
+            "",
+            "4 Thei thangc ’niu mik #<8 how puni,",
+            "Thuakloumei zauzian paan #<8;",
+            "’Niu kunghmei, niamhmei Ngana hei",
+            "Tingkauh thangc ’niu Kaipouc e;",
+            "Kamei #<8 tatpui bamv thangc 8}@",
+            "Zaylou e, Kanac nunc ta.",
+            "",
+            "5 Heipui guaickai khou 8}@ hamh the,",
+            "Guaih bampui bamv khou hamh the,",
+            "’Niu how nimei thu kauh khou de,",
+            "Ravguangc tuang baanzat khou de;",
+            "Kanac nunc guangh pyrun run ni,",
+            "’Phwanmei pwan piulou puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Once in Royal David’s City",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.7.8.7.8.7.",
+        "SS 32",
+        "Mrs. C.F. Alexander",
+        "Once in Royal David’s City",
+        "source hymn 110",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 110."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Reynungc David kaidai khou",
+        "titleRongmei": "Reynungc David kaidai khou",
+        "titleEnglish": "Once in Royal David’s City"
+      }
+    }
+  }
+}

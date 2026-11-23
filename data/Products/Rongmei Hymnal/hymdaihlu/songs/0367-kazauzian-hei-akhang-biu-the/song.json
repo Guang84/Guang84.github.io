@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0367",
+    "number": 367,
+    "source": {
+      "printedNumber": 367,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "R.M. Naughton",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.12.12.8. Ref.",
+      "tune": "RS 391"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kazauzian hei akhang biu the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kazauzian hei akhang biuc the!",
+            "Ai ping kadunhna Kadaeng khou anaa guang khou,",
+            "Kamei )}3 apaap guay lev alung sw ’thanlou,",
+            "Kazauzian hei akhang biuc the.",
+            "",
+            "Akhang, akhang,",
+            "Kazauzian hei akhang biuc the,",
+            "Akhang, akhang,",
+            "Kazauzian hei akhang biuc the.",
+            "",
+            "2 Kazauzian hei akhang biuc the!",
+            "Ai chu e Kamei )}3 “ Ping riu,” twna saamei,",
+            "Phahraengh kathuic khou )}3",
+            "gaeklouna tiiduaklou;",
+            "Kazauzian hei akhang biuc the.",
+            "",
+            "3 Kazauzian hei akhang biuc the!",
+            "Akhang kadanlou e, kai biak zay guanglou e;",
+            "Kaswkaeng bangc khou zaeng ’thaekcna lu suan bam ni,",
+            "Kazauzian hei akhang biuc the.",
+            "",
+            "4 Kazauzian hei akhang biuc the!",
+            "Gaychuymei kai thangc kiu mi hei alu sw ni;",
+            "AGuangc ta thuancna ai tingsaengzaeng suan bam ni;",
+            "Kazauzian hei akhang biuc the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "His Grace is Sufficient",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "8.12.12.8. Ref.",
+        "RS 391",
+        "R.M. Naughton",
+        "His Grace is Sufficient",
+        "source hymn 367",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 367."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kazauzian hei akhang biu the",
+        "titleRongmei": "Kazauzian hei akhang biu the",
+        "titleEnglish": "His Grace is Sufficient"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-287",
+    "number": 287,
+    "source": {
+      "printedNumber": 287,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh Ramgai Saruan Mwn",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          287 Tingkauh Ramc Gay Saruan Mwn",
+            "                       10.12. 12. 12. Ref. 1 1. 12. 12.8",
+            "          Doh hei Eb",
+            "",
+            "          1. Tingkauh ramc gay Saruan mwn puanghpui ramc,",
+            "             Gaanc guang dat ro he Pou' Jisu alung khouhei:",
+            "             Chaeng maanvmei lauziu nac kumc ai ruantat bam khou,",
+            "             Ai ryanraa the Kaipouc Jisu, 'khavlou na ro.",
+            "",
+            "                       He adi gay kan tu cho Guloumeipu!",
+            "                       Ryanraa kapmei nai dat lak khe",
+            "                       hei ramc khoutei.",
+            "                       Heic kandic hei zingbangc kumcna",
+            "                       zingc guang sihnic,",
+            "                       'Khavlou na ro Kaipouc Jisu.",
+            "",
+            "          2. Lauziu Nac rui gaancna bampui ramc khou,",
+            "             Mbaanvthayna bam pwni the Hallelujah.",
+            "             Lwmmei guay tingsaengcna mbaanvthay pwni the;",
+            "             Ravguangc chuangphey haina Hosanna kauc di kho.",
+            "",
+            "          3. Paapc tuang duidai tei guang zaic pwni the;",
+            "             Lwmlou makmei guay mbaanv khou bam pwni the;",
+            "             Kandih' lungcgaymeipu kumc amaan pwni the.",
+            "             Theihmei dui paengc ramc gay khoutei kaanpatlou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh Ramgai Saruan Mwn"
+      }
+    }
+  }
+}

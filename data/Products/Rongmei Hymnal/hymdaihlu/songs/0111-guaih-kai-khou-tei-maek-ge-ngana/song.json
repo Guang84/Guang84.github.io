@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0111",
+    "number": 111,
+    "source": {
+      "printedNumber": 111,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Martin Luther",
+      "composer": null,
+      "arranger": null,
+      "chord": "Fb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "11.11.11.11.",
+      "tune": "CW 199"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guaih kai khou tei maek ge Ngana",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guaihkai khou 7}$ maek ge, Ngana zybamv khang,",
+            "Kiruaikuak khou ’zilou e, Pou Jisu ta;",
+            "Gaanchuangcna guay #^7 zauc key e Kazy ta,",
+            "Ngana Jisu 7}$ napgou ruc khou zip be.",
+            "",
+            "2 Ngana 7}$ zip’chyang e, guaih #^7 muangh khou 7}$,",
+            "’Ki Ngana Jisu thu khou 7}$ kap mak ge;",
+            "Ai huay e, Pou Jisu, zauc keylou na ro,",
+            "Adaeng khou bamlou o, tinggaanc pat mak saanv.",
+            "",
+            "3 He Poubauhmei Jisu, adaeng bamlou o,",
+            "Taek makna bamlou o, ata zianlou o,",
+            "Alauc guay ta Nang #^7 kungcna swlou o,",
+            "Tingkauh khou lungc ’chamc khang ’niw ta swlou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Away in a Manger",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Fb",
+        "3/4",
+        "11.11.11.11.",
+        "CW 199",
+        "Martin Luther",
+        "Away in a Manger",
+        "source hymn 111",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 111."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guaih kai khou tei maek ge Ngana",
+        "titleRongmei": "Guaih kai khou tei maek ge Ngana",
+        "titleEnglish": "Away in a Manger"
+      }
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0208",
+    "number": 208,
+    "source": {
+      "printedNumber": 208,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "EL Nathan",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.6.11.8.7.11. Ref.",
+      "tune": "SS 168"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HE GUANGHDIC GUANG KHANG",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Hymdaihmei Guangcdic khat ’khwan bam the,",
+            "Tingpuk paengc dic thangc 0({;",
+            "Tingkwm kwm khou ’thanmei nunc ’bu thau bam the;",
+            "Tingmik katumcna tatmei ({0",
+            "Guanghdic ta tii ’naa guang the;",
+            "Guanghdic 0({ guang khang kaganv kiu ’naa guang the.",
+            "",
+            "He Guanghdic guang khang tingmik rau guang changh the!(2)",
+            "Chamdaanv tho, he abumaengc,",
+            "Trampet 0({ ’muan nuangc nuh the,",
+            "Kahym daicna Guangh 0({ key dat puni.",
+            "",
+            "2 Chamdaanvloumei Guangcdic lev",
+            "Hymdaihmei ta machunhmei ({0,",
+            "Guloumeipu guang nimei ta ’khwanmei ({0,",
+            "Rey khou manc bammei dih phac khou ({0,",
+            "’Niw ta tiiduaklou the;",
+            "Guanghdic 0({ guang khang kaganv kiu ’naa guang the.",
+            "",
+            "3 Guanghdic 0({ guang pwkhou kiu",
+            "Poubauhmei ta ’niw how puni,",
+            "Guanghdic hu khou Kaipouc 0({ key hu puni,",
+            "Hallelujah! he Kazanc khou,",
+            "Kazei ({0 ’niu ta thuaklou!",
+            "Guanghdic 0({ guang khang kaganv kiu ’naa guang the.",
+            "",
+            "4 He kandihmei guay ’khwan saengc the,",
+            "’Taw thu ’khwan liak lak guang the;",
+            "Pingmei ({0 meic guay lungning katuakc bam the;",
+            "Kaniw khou guanghdic chamv dinc kho,",
+            "Lu ({0 tii neilaalou kho,",
+            "Guanghdic 0({ guang khang kaganv kiu ’naa guang the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Comming of the Kingdom",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "9.6.11.8.7.11. Ref.",
+        "SS 168",
+        "EL Nathan",
+        "Hymdaihmei guangcdic khat",
+        "The Comming of the Kingdom",
+        "source hymn 208",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 208."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HE GUANGHDIC GUANG KHANG",
+        "titleRongmei": "HE GUANGHDIC GUANG KHANG",
+        "titleEnglish": "The Comming of the Kingdom"
+      }
+    }
+  }
+}

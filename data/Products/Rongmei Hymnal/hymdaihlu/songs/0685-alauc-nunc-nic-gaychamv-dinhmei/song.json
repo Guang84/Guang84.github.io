@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0685",
+    "number": 685,
+    "source": {
+      "printedNumber": 685,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Julia Sterling",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "14.13.14.13. Ref.",
+      "tune": "SS 1132"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Alauc nunc nic gaychamv dinhmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Alauc nunc nic daihmei ringhbamv",
+            "chamv dinhmei sw nuh e,",
+            "Thuakloumeipu ^&8 kros phunghmei p’ry 8^& rac nuh e;",
+            "Kaniw neihlaamei kaipat ^&8 Baibal tiitat nuh e,",
+            "Duipaengc duiruc bammei nuncta tiineihlaa puni.",
+            "",
+            "Alauc nunc nic gaychamvdinhmei sw nuh e,",
+            "Guloumeipu ramzian lam khou;",
+            "Alauc nunc nic gaychamvdinhmei dam laa nuh e,",
+            "Kauh thangc kai khou zaylouna.",
+            "",
+            "2 Alauc nunc nic Kaipouc taanv khou",
+            "kaniw dam nai muay de,",
+            "Kaniw zawpaanv ^&8 ryanra",
+            "puatphung tii’maan nuh e;",
+            "Lungh ryanrana liaulu bammei nunc ta ’khavlou nuh e,",
+            "Zianmei latkaeng ^&8 neihriw kumc tiigaanclou nuh e.",
+            "",
+            "3 Alauc nunc ta nic Gumeipu",
+            "latryan khou ningtow e,",
+            "Thuakloumei zauzian suaihiam 8^& kaniw laa nuh e;",
+            "Kaniw ta zianna zauclou bam e, Kamei ’rianhlou e,",
+            "Kaniw tuang baanch’ra nunc kauh thangc Pu zaw how bam e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Children May Be Heralds",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "14.13.14.13. Ref.",
+        "SS 1132",
+        "Julia Sterling",
+        "Children May Be Heralds",
+        "source hymn 685",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 685."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Alauc nunc nic gaychamv dinhmei",
+        "titleRongmei": "Alauc nunc nic gaychamv dinhmei",
+        "titleEnglish": "Children May Be Heralds"
+      }
+    }
+  }
+}

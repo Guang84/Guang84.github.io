@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0122",
+    "number": 122,
+    "source": {
+      "printedNumber": 122,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev.J.Wilbur Chapman, D.D.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "9/8",
+      "meter": "11.10.11.10. Ref",
+      "tune": "3 Alex 205"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NEIH KHAT",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neih khat thuanhmei @{4 tingkauh padik khwan e,",
+            "Neih khat kandih hei paapc @{4 zingc bam khou,",
+            "Jisu @{4 keyna liuchang khou puanclou e;",
+            "Meic pang khou lungcna gaymei khei lyanlou.",
+            "",
+            "",
+            "Ringcna zianlou e, theicna gulou e,",
+            "Phuplouna apaap phungc ganclou kan the;",
+            "Ringcthau datna ata tii-nzihlou e;",
+            "Neih khat key dat ni,hymdai liangpui neic!",
+            "",
+            "2 Neih khat Kata Kalvari thangc zay tat re,",
+            "Neih khat thing ruc khou Kata hianbinlou,",
+            "Malaa, ganc patmei, ryanramei ’khaengv khwan e,",
+            "’Niu paap phungclou e, Thuakloumeipu @{4.",
+            "",
+            "3 Neih khat Kata t’rou khunc @{4 khaam ding ngam mak,",
+            "Neih khat roukhamtauc thuira pat kan the;",
+            "Kamei ringcthau the, theihmei ta ngamlouna,",
+            "Tingkauh ku kan the, aPoubauhmei 4@<!",
+            "",
+            "4 Neih khat key dat khang trampet amuan puni,",
+            "Neih khat kariw @{4 tingpuk gaanc puni;",
+            "Zianmei nunc ta ’duanghna Kamei key puni,",
+            "Hymdaihmei Jisu, ata Gumeipu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "One Day!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "9/8",
+        "11.10.11.10. Ref",
+        "3 Alex 205",
+        "Rev.J.Wilbur Chapman, D.D.",
+        "One Day!",
+        "source hymn 122",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 122."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NEIH KHAT",
+        "titleRongmei": "NEIH KHAT",
+        "titleEnglish": "One Day!"
+      }
+    }
+  }
+}

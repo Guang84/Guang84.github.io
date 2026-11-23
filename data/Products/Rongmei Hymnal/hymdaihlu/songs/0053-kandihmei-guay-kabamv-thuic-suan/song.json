@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0053",
+    "number": 53,
+    "source": {
+      "printedNumber": 53,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "George Herbert",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "14.12.12.14.",
+      "tune": "53HLC 24"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandihmei guay kabamv ’thuic suan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kandih mei guay ?|7 kabamv ’thuic suan diu:",
+            "Ravguangc - aGuangc!",
+            "Tingpuk hei kauh langv mak,",
+            "Thuanhmei khwan chu tangh khang;",
+            "Kandih hei ’naa langv mak,",
+            "Thuanhmei khwan padik khang;",
+            "Kandihmei guay ?|7 kabamv ’thuic suan diu:",
+            "Ravguangc - aGuangc!",
+            "",
+            "2 Kandihmei guay ?|7 kabamv ’thuic suan diu:",
+            "Ravguangc - aGuangc!",
+            "Phwamling guay kauc thau diu,",
+            "Meic thingc dat ngam mak khe;",
+            "Tiki lung kathuic ?|7",
+            "Kakhang bamv chamdaanv diu;",
+            "Kandih mei guay ?|7 kabamv ’thuic suan diu:",
+            "Ravguangc - aGuangc!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Let All The World",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "14.12.12.14.",
+        "53HLC 24",
+        "George Herbert",
+        "Let All The World",
+        "source hymn 53",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 53."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandihmei guay kabamv ’thuic suan",
+        "titleRongmei": "Kandihmei guay kabamv ’thuic suan",
+        "titleEnglish": "Let All The World"
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0138",
+    "number": 138,
+    "source": {
+      "printedNumber": 138,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles Wesley",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. D.",
+      "tune": "SS 242"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc ramzian kauh liangsing",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc ramzian kauh liangsingmei,",
+            "Kauh neilaa dih khou key o;",
+            "Aniw lung khou key bamlou o,",
+            "Nang zauzian }?2 padikna,",
+            "Jisu, Nang hei zianthaymei e,",
+            "Nganv makmei ramzian Nang e;",
+            "Phungc guang o, Nang tuang ringcbamv 2}?,",
+            "T’riimei lung khou gutlou o.",
+            "",
+            "2 Mbunlou o, Nang Bumaengc 2}?,",
+            "Lungh kabiu bammei guay khou,",
+            "Nang khou }?2 aniw laa tow ni,",
+            "Nang zaengthaek aniw laa ni;",
+            "Guang o, gulou khang Ngammeipu,",
+            "Nang zauzian aniw laa ni;",
+            "Keylou o, ’taw hei aniw khou,",
+            "Tat patlou dat zat ri tho.",
+            "",
+            "3 Damcthanhmei taanv hei luailou tho,",
+            "Aniw ’thanna lungc ngam khang,",
+            "’Niw ringcbamv hei tii ’thuihlou tho,",
+            "Nang }?2 sw ntiplou o,",
+            "’Than ranvmei khou kalaiclou o,",
+            "Kauh thangc ’niw bamv laa mak saanv,",
+            "Nang hu khou pyrun lou keyna",
+            "Zianna thuancku bam mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Love Divine, All Loves Excelling",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "8.7.8.7. D.",
+        "SS 242",
+        "Charles Wesley",
+        "Love Divine, All Loves Excelling",
+        "source hymn 138",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 138."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc ramzian kauh liangsing",
+        "titleRongmei": "Ravguangc ramzian kauh liangsing",
+        "titleEnglish": "Love Divine, All Loves Excelling"
+      }
+    }
+  }
+}

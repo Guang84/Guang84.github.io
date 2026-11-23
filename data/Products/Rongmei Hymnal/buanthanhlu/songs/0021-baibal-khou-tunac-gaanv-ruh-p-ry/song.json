@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-021",
+    "number": 21,
+    "source": {
+      "printedNumber": 21,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Baibal khou Tunac Gaanv Ruh P'ry",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          21 Baibal khou Tunac Gaanv Ruh P'ry",
+            "                        12.12.12.9.Ref.8.9.11.9",
+            "",
+            "          Doh hei A",
+            "",
+            "          1 Babal khou tunac gaanv ruh p'ry khou saalou e:",
+            "            Gaanv panguh rui chamdaanv, panguh rui chamdaanv mak.",
+            "            Chamdaanvmei nunc rui kaniw maibungc khou thauh nai;",
+            "            Chamdaanv makmei nunc karaeng sin bam.",
+            "",
+            "                      'Naaguang pwthe, nkhwan bam o,",
+            "                      Lauhwan ny, kalaan ganv khou ni cho?",
+            "                      Kandihmei nunc rui kaganv tei thay ngam mak.",
+            "                      Suriak thayna nkhwanna bam o.",
+            "",
+            "          2 Tunac gaanv panguh rui gaanv panguh khou saa e:",
+            "            Nangniw thaucdui tei aniw khang nic tiilou o.",
+            "            Mi ganv khoutei tunac gaanv panguh rui saa e:",
+            "            Nangniw tatna zuanh' bamv thangc laa tho.",
+            "",
+            "          3 Mi ganv khou tei tunac gaanv panguh tat kan the.",
+            "            Nowpouc tei rui guangna kaikhamv mbangh kan the.",
+            "            Heic khoutei kaniw guangna kaikhamv nchow the;",
+            "            Nowpouc rui kaniw ta thay mak khe.",
+            "",
+            "          4 Jisu rui key dat nipui ganv tei 'naaguang the,",
+            "            Kamei nunc ta laa khang Kamei key dat pwni.",
+            "            Heic ganv khoutei chamdaanvna bammei nunc tei rui,",
+            "            Tingsaeng zaeng neihlaana thuanc bam ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Baibal khou Tunac Gaanv Ruh P'ry"
+      }
+    }
+  }
+}

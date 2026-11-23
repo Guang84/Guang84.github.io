@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-214",
+    "number": 214,
+    "source": {
+      "printedNumber": 214,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nrim mei paeng thang aguangc ramgai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nrim mei paeng thang Aguangh ramgai ta",
+            "Lumma phang e ai tingmik thui,",
+            "Alung neihla khou lu rui thuan e.",
+            "",
+            "Himdaimei guang ta dinghuam lana",
+            "Banchra guai thuan bam e,",
+            "Ai ni aguang ta thuan e",
+            "Du kanmei kandi khou rui.",
+            "",
+            "2. Mik rui hou makmei nu rui chu makmei",
+            "Lung rui ningpat mak mei ram gai",
+            "Kata nzian mei guai khang pou rui",
+            "Chamdan lou the.",
+            "",
+            "3. Ai ning thukge kandi ching ru khang suang",
+            "He lauziuna nang ramgai tei",
+            "Kao lev kandih duipui rui thuan e",
+            "Thanmei nun Guangh.",
+            "",
+            " Pastor Abui"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 214",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 214. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nrim mei paeng thang aguangc ramgai",
+        "titleRongmei": "Nrim mei paeng thang aguangc ramgai"
+      }
+    }
+  }
+}

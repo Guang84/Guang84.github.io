@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-185",
+    "number": 290,
+    "source": {
+      "printedNumber": 185,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu rana kross phung nicho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Jisu rana kross phung nicho?",
+            "Mei guai pumsa tatna;",
+            "Ram e mei kathui khang kross nai,",
+            "Hei kross tei akhang e.",
+            "",
+            "2. Katpat mei kross tei ai phungni,",
+            "Apanti ngan maksan;",
+            "Hei tang tingkauh kai njuanni,",
+            "Khou tei pirun lani.",
+            "",
+            "3. Kangranmei kross tiangdang khou tei,",
+            "Jisu phaibang khou tei;",
+            "Neilamei pirun lou kei ni,",
+            "Kajan suan kaluai ni.",
+            "",
+            "4. Kungliangmei kross himdai pirun,",
+            "He ringthao pui tingmik;",
+            "Banchra guai kauh thang +:1 keina,",
+            "Abumang phung kuni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 185",
+        "SQLite BookTypeID 2",
+        "Key: C",
+        "Meter: 8.6.8.6.",
+        "Chord: C",
+        "Meta 3: 8.6.8.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 185); no high-confidence title match was found in the PDF list. The digital catalogue number is 290; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 185,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu rana kross phung nicho",
+        "titleRongmei": "Jisu rana kross phung nicho"
+      }
+    }
+  }
+}

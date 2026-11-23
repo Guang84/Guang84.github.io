@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0197",
+    "number": 197,
+    "source": {
+      "printedNumber": 197,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles Wesley",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.6.8.6.",
+      "tune": "CW 245"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ata Thuakloumeipu ringc e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ata Thuakloumei pu ringc e,",
+            "Kamei theiclou kan the;",
+            "Ai ryanra khou Kamei swmlou,",
+            "Chuzaenghmei tiilou e.",
+            "",
+            "2 T’rou ta ngamlouna ringc bam e,",
+            "Pu baanzat khou bam e;",
+            "Ringhmei abumaengc gaeklou",
+            "khang,",
+            "Hym tiidaiclou bam khang.",
+            "",
+            "3 Kamei ringc e, ai nic ringcna",
+            "Kazauzian ’dauh bam khang,",
+            "Kamei ringc e, ’thanmei Kazanc",
+            "Champouhna lungc bam khang.",
+            "",
+            "4 Tingkauh lu khwan 7?| kagaengv diu,",
+            "Meic guay ?|7 lu dai 7?|,",
+            "Akhang ’khaengvloumei pu Khrista",
+            "Tingkauh Guangc khang suan diu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Know That My Redeemer Lives",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "3/4",
+        "8.6.8.6.",
+        "CW 245",
+        "Charles Wesley",
+        "I Know That My Redeemer Lives",
+        "source hymn 197",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 197."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ata Thuakloumeipu ringc e",
+        "titleRongmei": "Ata Thuakloumeipu ringc e",
+        "titleEnglish": "I Know That My Redeemer Lives"
+      }
+    }
+  }
+}

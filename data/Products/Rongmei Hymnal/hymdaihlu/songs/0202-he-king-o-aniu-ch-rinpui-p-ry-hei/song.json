@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0202",
+    "number": 202,
+    "source": {
+      "printedNumber": 202,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Dr. J.M. Gray",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "2/2",
+      "meter": "9.7.9.7. Ref.",
+      "tune": "CSH 37"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He ’king o, aniu ch’rinpui p’ry hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He ’king o, aniu ch’rynpui p’ry hei,",
+            "’Maan kanmei ta phutow e;",
+            "Tingkauh hymdaihmei khou $%6 keyna",
+            "Manv tiina ’niu ta gulou.",
+            "",
+            "Thow $%6 ’maanmei khou $%6 gulou?",
+            "(Kros khou theihmei Ravguangc Nac $%6)",
+            "Kamei ’bui taanc?",
+            "(Kamei theiclou)",
+            "’Taw ’bui thangc bam?",
+            "(Nang lwm o, Kamei kauh thangc huayney bam e)",
+            "Tingkauh thangc huayney bam e.",
+            "",
+            "2 Kauh baanch’ra $%6 Kaphaan lyn ngam mak,",
+            "Kauh liangmei sw bam sihni;",
+            "Kros khou ’patloumei ’zianmei pu 6$%,",
+            "Gaanv Thumh khat Racguangc 6$% e.",
+            "",
+            "3 Gumei pu khou nang tiigut ngam cho?",
+            "Kapamv khou lungh niamh keyna",
+            "Karamzianlou nang nic thay puni,",
+            "Nang ta ’taw gulou puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "What did He do?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "2/2",
+        "9.7.9.7. Ref.",
+        "CSH 37",
+        "Dr. J.M. Gray",
+        "KAMEI ’BUI TAANC",
+        "What did He do?",
+        "source hymn 202",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 202."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He ’king o, aniu ch’rinpui p’ry hei",
+        "titleRongmei": "He ’king o, aniu ch’rinpui p’ry hei",
+        "titleEnglish": "What did He do?"
+      }
+    }
+  }
+}

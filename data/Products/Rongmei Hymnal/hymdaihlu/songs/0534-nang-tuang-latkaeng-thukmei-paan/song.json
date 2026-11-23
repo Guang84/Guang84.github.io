@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0534",
+    "number": 534,
+    "source": {
+      "printedNumber": 534,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "James Montgomery",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "C.M.",
+      "tune": "CW 456"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang tuang latkaeng ’thukmei paan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang tuang Latkaeng ’thukmei paan }?2",
+            "Lungniamhna ai guang e,",
+            "Mi hei ai sw ni the, Kaipouc,",
+            "Nang ta ningtow ni the.",
+            "",
+            "2 Akhang bakloumei Nang pumc hei",
+            "Akhang ntyan sw ni;",
+            "Latryan buangc hei ai laa thauna",
+            "Nang ta ningtow ni the.",
+            "",
+            "3 Kros biak thangc ai zauc kahuh ki",
+            "Kalvari ta how e;",
+            "He Ravguangc Lauziu Nac, Nang ta",
+            "Ai ningtow bam ni the.",
+            "",
+            "4 Nang ryanra ’khaengvloumei guay khang,",
+            "Ata zianloumei khang,",
+            "Athiu lev abuc ’thaekcpui nganv",
+            "Nang ta ningtow bam ni.",
+            "",
+            "5 Achy }?2 saa thay taan pwkhou,",
+            "Achwn ’mit key pwkhou,",
+            "Jisu, Nang guangcdic guang pwkhou,",
+            "Ata ningtowlou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "According to Thy Gracious Word",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "C.M.",
+        "CW 456",
+        "James Montgomery",
+        "According to Thy Gracious Word",
+        "source hymn 534",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 534."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang tuang latkaeng ’thukmei paan",
+        "titleRongmei": "Nang tuang latkaeng ’thukmei paan",
+        "titleEnglish": "According to Thy Gracious Word"
+      }
+    }
+  }
+}

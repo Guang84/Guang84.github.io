@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-126",
+    "number": 126,
+    "source": {
+      "printedNumber": 126,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.9.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ntam pui tingmik pat pu the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ntam pui ting mik pat pu the",
+            "Dupkan the muang ding khou neimik tei;",
+            "Thaoruai mun bang nchung ngam the,",
+            "Bamdu tho kaam thao kan ni the.",
+            "",
+            "Asei bam cham nthuan ntam ,",
+            "Lung ni mak ge hei kandi khou;",
+            "Ravguangc zankhou zaeng su cham kho.",
+            "",
+            "2. Ntam pui ban ham guang mei hei",
+            "Amu mak na tingmik thui ning e;",
+            "Tat kan ni the zian mei nun le.",
+            "Zausuak lou na ro aphai kam.",
+            "",
+            "3. Tingzin kei kan nimei nei mik.",
+            "Ai ruina zyang rina zau puki",
+            "Kei kan the alung le nei tei,",
+            "Zian mei bam mei luang but rukhou.",
+            "",
+            "4. Thing nuang panuh munpuangc gaimei",
+            "Nthu luanh zian mei lung siimei khuanc",
+            "Kandih khou gaimei hou ngam the.",
+            "Neihla mei nzian mei ham na."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 126",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 8.9.8.8."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 126. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 149,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ntam pui tingmik pat pu the",
+        "titleRongmei": "Ntam pui tingmik pat pu the"
+      }
+    }
+  }
+}

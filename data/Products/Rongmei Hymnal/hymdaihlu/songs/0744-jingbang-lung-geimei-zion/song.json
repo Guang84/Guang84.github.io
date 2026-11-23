@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0744",
+    "number": 744,
+    "source": {
+      "printedNumber": 744,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "10.9.10.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jingbang lung geimei Zion",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Jingbang lunbg geimei Zion kailuang khou,",
+            "Pou rui kajei hang 8#@ njan lou;",
+            "Rianramei ruina muang kumma jing e,",
+            "Ata kanloumei pu bam khuan ne.",
+            "",
+            "Chorus:",
+            "He nangniu Jerusalem mei nun,",
+            "Njianloumei guai ta mu ri o ;",
+            "Naomei guai ta tigailou ngam kan the,",
+            "Njianloumei guai ta mu ri o.",
+            "",
+            "2. Jerusalem namdai rangbang khou 8#@,",
+            "Amu ram thei 8#@ kaji ramme;",
+            "Phangjao lo kalvari ching rukhou 8#@,",
+            "Mei nun ding khou poubaumei hou e.",
+            "",
+            "3. Jaolo, Kalvari chingbut guang tang the,",
+            "Tabui nung ai gwang tang nina cho ?",
+            "He poubauhmei Nang gwangdat laknga cho?",
+            "Nang bam khangmu Kalvari 8#@ e.",
+            "",
+            "4. Ai rui mulak khe poubauhmei Jisu,",
+            "Kalvari ching 8#@ phang jao bamni;",
+            "Akhang 8#@ rui khanglou mei alungh khou,",
+            "Ai rui theimei nganna mulak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "10.9.10.9.",
+        "Jingbang lung geimei Zion",
+        "source hymn 14",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 14."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jingbang lung geimei Zion",
+        "titleRongmei": "Jingbang lung geimei Zion"
+      }
+    }
+  }
+}

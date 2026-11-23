@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0843",
+    "number": 843,
+    "source": {
+      "printedNumber": 843,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.8.7.8.7.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai lunge luang kaumei rukhou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai lunge luang kaumei rukhou,",
+            "Kachak ting palikmei khou;",
+            "Kandih khou #@8 gaipui ram tei,",
+            "Amang thu dukhou manne,",
+            "Hei khou tei npuan nthan ne,",
+            "Munrim kajauna liu e,",
+            "Duipuak kai khou tei lummei guai,",
+            "Kaniu pap tei khiu than the.",
+            "",
+            "Chorus:",
+            "Heitei gaimei kandih ram su,",
+            "Suaihiam loumei gaipui ramme;",
+            "Rimgaimei munpuang tuai makge,",
+            "Neiriu ni gan tak lak khe.",
+            "",
+            "2. Ai#@8 jang e duipuak kai khou,",
+            "Hei khou tei ai #@8 bam ni;",
+            "Ringmei dui tei jang lou khou #@8,",
+            "Abumang tari kim the,",
+            "Ai #@8 tari dat pulak khe.",
+            "Phei banni neilamei phei,",
+            "Hei khou tei nthuk pui lu tei,",
+            "Ai tingmik thui suan puni.",
+            "",
+            "3. Ai #@8 nchum pui chang tat khang,",
+            "Kross tei tik kagun dai e;",
+            "Ai #@8 nchumpui chang tat khang,",
+            "Ai hou e kanpat pui bam,",
+            "Jisu #@8 njianna kau e,",
+            "Kross tei phung khang ping lak khe,",
+            "Jisu #@8 sa e, ai #@8 naNang chang kasiam lou the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "8.7.8.7.8.7.8.7.",
+        "Ai lunge luang kaumei rukhou",
+        "source hymn 113",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 113."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai lunge luang kaumei rukhou",
+        "titleRongmei": "Ai lunge luang kaumei rukhou"
+      }
+    }
+  }
+}

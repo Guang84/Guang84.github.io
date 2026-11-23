@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-081",
+    "number": 81,
+    "source": {
+      "printedNumber": 81,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "B",
+      "key": null,
+      "beat": null,
+      "meter": "7.6.12.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pou’ rui khaeng loumei tei ninga",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Pou’ rui khaeng loumei tei ninga,",
+            "Kap lak nimei mak ge;",
+            "Kabiang kaphi loumei le bailoumei guai tei,",
+            "Ningtou puinung kaap pui lu tei suanni.",
+            "",
+            "Adih su cho khaengloumei tei [2]",
+            "Kandi Guloumeipu zai kan the tarou thang,",
+            "Poubaomei nzaenghmei Pu rianra the.",
+            "",
+            "2. Juda nun rui ti theih khang tei,",
+            "Ninglou bam pu sini;",
+            "Ai mu ninglou makge Poubaomei nzaenghmei,",
+            "Akhang rui nkhuaimei sulou kan the.",
+            "",
+            "3. Pou’ rui theihmei tei houlana,",
+            "Meiguai neihlan bam e;",
+            "Neihla makmei nun rui kabma kapumh puan pat,",
+            "Tarou lung khou tei nzip lou kan the.",
+            "",
+            "4. Thau dat kan the kalloumei Pu,",
+            "Baanthai ram nzuan khang;",
+            "Olive chingru khou tei muangru khou ding lana,",
+            "Gaipui ram nzuan the kanloumei Pu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 81",
+        "Khristian Luzaam PDF",
+        "Chord: B",
+        "Meta 3: 7.6.12.10."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 81. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 81,
+        "match": "title-match-0.92"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pou’ rui khaeng loumei tei ninga",
+        "titleRongmei": "Pou’ rui khaeng loumei tei ninga"
+      }
+    }
+  }
+}

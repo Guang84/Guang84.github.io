@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-158",
+    "number": 158,
+    "source": {
+      "printedNumber": 158,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Karamzian hei Adih 'Thuk cho?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          158 Karamzian hei Adih 'thuk cho?",
+            "                           8.8.9.10.Ref. 7. 8. 9.10",
+            "",
+            "          1. Karam zian hei adih 'thuk cho?",
+            "             Haengcmumhmei paap swthanloumei",
+            "             Siangloumei cross paan 'niw khang suaihiam,",
+            "             Guang tho theicloumei cross khou ringhmei nai.",
+            "",
+            "                  Dih lev kauh tuang latzanpouc,",
+            "                  Cross ruc khou t'rina kauc bam e.",
+            "                  'Kauh Guangc Nac kiruaikuak khou zipmei,",
+            "                  Heic guay hei nang aniw zaeng khangrui e.",
+            "",
+            "          2. Karam zian hei adih daic cho?",
+            "             Saa ngammakmei ramzian tiilou.",
+            "             Ruak naipui kamv nang zanc ta thuanc ni;",
+            "             Zianloumeipu nang ta tingsaeng thuanc ni.",
+            "",
+            "          3. Karamzian hei adih daic cho?",
+            "             Guanghbamv daihmei ganclouducna,",
+            "             Dih ryanraamei bamv khou keylouna,",
+            "             Adih zianlou tu cho saa ngammak ge.",
+            "",
+            "          4. Karamzian hei adih ch'ryn cho?",
+            "             Rac tangc thuy lak karamzian tei:",
+            "             Ramhrik kumhmei guay ta kapahlou,",
+            "             Gancpatloumei nunc ta laalou kanmei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Karamzian hei Adih 'Thuk cho?"
+      }
+    }
+  }
+}

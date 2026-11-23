@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0056",
+    "number": 56,
+    "source": {
+      "printedNumber": 56,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Stuart K.Hine",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10. Ref.",
+      "tune": "CGH 38"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Abumaengc rui Poubauhmei ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Poubauhmei, ch’ryn e, Nang ngamv ai ping e!",
+            "Nang #<8 damhmei puat guay ta phu minc ki;",
+            "Gaanchuangcna how, tingthimc ganh key khwan chu e;",
+            "Mbaanv kapwm khou Nang ngamv lyanlou e!",
+            "",
+            "Abumaengc #<8 Poubauhmei ta thuanc e,",
+            "Nang hei adih daic cho, ngam cho!",
+            "Guloumeipu, aRavguangc ta thuanc e!",
+            "Nang hei adih daic cho, ngam cho!",
+            "",
+            "2 Nwmding, ngouhding, phuaithingc ding khou tat ruan khou,",
+            "Nruayna guay lu gaymei chu pwkhou;",
+            "Luanghbut kauhmei twan khou #<8 ramvphaan bam khou,",
+            "Duithuak khwan chu, ’pwan liu rih ri tow khou.",
+            "",
+            "3 KaNac, ’Pouh ta Ravguangc #<8 daeklou makna,",
+            "Apaap zaeng khang theih khang ’diu key pwmei,",
+            "Kros khou ryanra ’khaengvna akhang theicloumei,",
+            "Makumh pwkhou ai ning tangc ngam thuy lak.",
+            "",
+            "4 Khrista hymdaicna keyna ata kai khou",
+            "Phungc ku nungc kiu adih neihlaa puni!",
+            "Kata thuancna ai kalum bam ni khou kiu,",
+            "“ARavguangc, Nang adih daic cho!” kauc ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "How Great Thou Art!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "11.10.11.10. Ref.",
+        "CGH 38",
+        "Stuart K.Hine",
+        "He Poubauhmei Ch’ryn ne Nang",
+        "How Great Thou Art!",
+        "source hymn 56",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 56."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Abumaengc rui Poubauhmei ta",
+        "titleRongmei": "Abumaengc rui Poubauhmei ta",
+        "titleEnglish": "How Great Thou Art!"
+      }
+    }
+  }
+}

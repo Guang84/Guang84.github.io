@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0762",
+    "number": 762,
+    "source": {
+      "printedNumber": 762,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "B",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.11.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih ringmei duiriang hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih ringmei duirianghei luai tat sini,",
+            "Hu thu namdai gaimei kanan ram 6$%;",
+            "Akhang neilamei pirun 6$% naguang the,",
+            "Kapma kandih ram khou hei bam sang lakkhe.",
+            "",
+            "Chorus:",
+            "Tingsang lakkhe kandih rianramei guai,",
+            "Kanlou pui khuan 6$% ai chu lana;",
+            "Guang bampang khou nkhuanNgammak pui khuan rui;",
+            "Jianmei nun kaumei tingsang lakkhe tu e.",
+            "",
+            "2. Ai bampui ram duiriang hei sang khuan sini,",
+            "Jailoumei pu ganphiu 6$% jau lana;",
+            "Tingkau nthanmei ram tang lou puni e,",
+            "Khou 6$% njianmei nun bam cham puni e.",
+            "",
+            "3. Njuan nithe ai tingsang gai pui ram 6$%,",
+            "Munpuang gaimei guai 6$% puang tuai lakkhe;",
+            "Lauhiu Nah le tingkau munpuang pui ram 6$%,",
+            "He nang jei pan khou rui ai guang tang ni.",
+            "",
+            "4. Sa bammei ram gaimei khou guang tang pukhou,",
+            "Thei thu man kan nimei ta ning lakkhe;",
+            "Poubaumei ram tigan loumei guai 6$% ni,",
+            "Tak makna tingsangjang gan bam puni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "B",
+        "10.10.11.11.",
+        "Kandih ringmei duiriang hei",
+        "source hymn 32",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 32."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih ringmei duiriang hei",
+        "titleRongmei": "Kandih ringmei duiriang hei"
+      }
+    }
+  }
+}

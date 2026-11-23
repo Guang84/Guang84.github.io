@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0796",
+    "number": 796,
+    "source": {
+      "printedNumber": 796,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "11.8.11.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thuanku dikho poubaumei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Thuanku dikho poubaumei thuaihian liangmei,",
+            "Ka jaujian hei rui kan lou na;",
+            "Rianra theimei khou rui aniu ta kanlou,",
+            "Ntao hei aniu gaina ariu dat the.",
+            "",
+            "Chorus:",
+            "He thuan dikho ‘niu kanloumei puta,",
+            "Kabang karu thang tat man kanmei guai,",
+            "Man mak nga aniu ariu dat the poubaumei jan khou,",
+            "Thuan pui khuan rui kao kho halleluijah.",
+            "",
+            "2. Nchummei Guang poubaumei khumngai luai the,",
+            "Neila pui tan guai ni luai the;",
+            "Hei kumma aniu ni tat man ngam khuan the,",
+            "Ching le njang kandih khou lung lik khuan the.",
+            "",
+            "3. Welcome bam khou hei aniu ariu dat the,",
+            "Abanjat hei rui ham guang e;",
+            "Khrista poubaumei khou neila lou ngam o,",
+            "Sangai pui tingmik ge pou khrista jan khou.",
+            "",
+            "4. Neila janggai mei 3)_ kathan pat dat diu,",
+            "Lung le bumang jip thao dat na;",
+            "Aniu khang rui kapmei le rianra kanmei,",
+            "Guang Khrista thunku khang kathan sudat diu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "11.8.11.11.",
+        "Thuanku dikho poubaumei",
+        "source hymn 66",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 66."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thuanku dikho poubaumei",
+        "titleRongmei": "Thuanku dikho poubaumei"
+      }
+    }
+  }
+}

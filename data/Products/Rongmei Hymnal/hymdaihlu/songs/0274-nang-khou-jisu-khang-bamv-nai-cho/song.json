@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0274",
+    "number": 274,
+    "source": {
+      "printedNumber": 274,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.7. Ref.",
+      "tune": "GHF 241"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NANG KHOU JISU KHANG BAMV NAI CHO ?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang khou Jisu khang bamv nai cho,",
+            "Nang paap guay phungcloumeipu khang?",
+            "Kaikhamv ’chowna Kamei thanv e:",
+            "Paapc mei, nang tiigut lak cho?",
+            "",
+            "Hymdaihmei Guangc Jisu khang bamv!",
+            "’Khap tho, ’taw Kalat piu o;",
+            "Nang lung kaikhamv laanc daic pat ro,",
+            "Kaw gutlou tho, nuh bam khou.",
+            "",
+            "2 Thala khang, alic khang bam nai,",
+            "’Ki theicloumei pu Khrista khang,",
+            "Kamei gutloupui bamv maek cho,",
+            "Theih phaan lynloumei lung khou?",
+            "",
+            "3 Nang khou Jisu khang bamv nai cho,",
+            "Zauzian khou kaw dat dat bam khou?",
+            "O, ’seic hei laaloupui neic the,",
+            "’Thuanh thu nyan langv puni the.",
+            "",
+            "4 Bamv lev kaganv Kakhang tii tho,",
+            "Zauzian ting luai nuangc puni the;",
+            "Nang lung nchu key puni the,",
+            "Gumeipu huay taan puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Have You Any Room for Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "8.8.8.7. Ref.",
+        "GHF 241",
+        "Anonymous",
+        "Have You Any Room for Jesus",
+        "source hymn 274",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 274."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NANG KHOU JISU KHANG BAMV NAI CHO ?",
+        "titleRongmei": "NANG KHOU JISU KHANG BAMV NAI CHO ?",
+        "titleEnglish": "Have You Any Room for Jesus"
+      }
+    }
+  }
+}

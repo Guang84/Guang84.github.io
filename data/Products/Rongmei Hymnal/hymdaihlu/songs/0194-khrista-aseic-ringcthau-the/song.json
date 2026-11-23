@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0194",
+    "number": 194,
+    "source": {
+      "printedNumber": 194,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles Wesley",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7.7. Hallelujah.",
+      "tune": "SS 158"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khrista aseic ringcthau the!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Khrista aseic ringcthau the!” Hallelujah!",
+            "Meic nic baanch’ra nic kauc e:Hallelujah!",
+            "Neihlaana lu hei suan kho: Hallelujah!",
+            "Kandih, tingkauh suan ’daw kho: Hallelujah!",
+            "",
+            "2 Thuakpatpui taanv luailou the: Hallelujah!",
+            "Rih adowna rih ngam the: Hallelujah!",
+            "Zauc lo, neih aluakc luai the: Hallelujah!",
+            "Jisu zei key dat lak khe: Hallelujah!",
+            "",
+            "3 T’rou ta rigaanvmei gaengc mak: Hallelujah!",
+            "T’ruaih raengcmun ta thuiraa the: Hallelujah!",
+            "Theihmei @{4 khaamding ngam mak: Hallelujah!",
+            "Khrista paradais laanc the: Hallelujah!",
+            "",
+            "4 Aniu Guangh hei ringc dat the: Hallelujah!",
+            "He theihmei, nang sat ’bui 4@<? Hallelujah!",
+            "Gulou khang @{4 theiclou the: Hallelujah!",
+            "He t’rou, nang ngamv kiu bui 4@<? Hallelujah!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Christ the Lord is Risen To-day!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "7.7.7.7. Hallelujah.",
+        "SS 158",
+        "Charles Wesley",
+        "Christ the Lord is Risen To-day!",
+        "source hymn 194",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 194."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khrista aseic ringcthau the!",
+        "titleRongmei": "Khrista aseic ringcthau the!",
+        "titleEnglish": "Christ the Lord is Risen To-day!"
+      }
+    }
+  }
+}

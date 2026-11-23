@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-019",
+    "number": 19,
+    "source": {
+      "printedNumber": 19,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ata Gupatlou the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          19       Ata Gupatlou the",
+            "                           12.6.6.12.6. Ref. 9.7.8.8",
+            "          Doh hei G",
+            "",
+            "",
+            "          1 Ata gupatlou the, ata gupatlou the,",
+            "            Paapc khou 'maan bam khourui. (2)",
+            "            Ata gupatlou the, ata gupatlou the,",
+            "            Paapc khou 'maan bam khourui.",
+            "",
+            "",
+            "                 He Ravguangc Nang ramzian hei ch'ryn e;",
+            "                 Saa ngammakmei ramzian e.",
+            "                 Kandihmei paap zaeng khangruina",
+            "                 Theiclouna paapc sw 'thanlou the.",
+            "",
+            "",
+            "          2 Sauh pyrun runlouna akhang kazei keylou,",
+            "            Kalvari chyng ruc khou. (2)",
+            "            Sauh pyrun runlouna akhang kazei keylou,",
+            "            Kalvari chyng ruc khou.",
+            "",
+            "",
+            "          3 Zinghmei bamv khouruina ata thuakpatlou the,",
+            "            Kanac tiswlou the. (2)",
+            "            Zinghmei bamv khouruina ata thuakpatlou the,",
+            "            Kanac tiswlou the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ata Gupatlou the"
+      }
+    }
+  }
+}

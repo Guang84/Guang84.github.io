@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-188",
+    "number": 188,
+    "source": {
+      "printedNumber": 188,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "9.6.12.6.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Alung rianra gan khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Alung rianra gan khou",
+            "Poubaomei sam guang o alung khou;",
+            "Namthan dai khou lauziu narui gaan bammei tei",
+            "Dinlou o karam gai,",
+            "Lung rianramei dikhou ai bamsan khou.",
+            "",
+            "Kahim daimei lat tei",
+            "Ai rui sa-ngam thui mak;",
+            "Kau siammiu khuan gaimei",
+            "Thuan kumei siammiu khuan",
+            "Gaimei akhang.",
+            "",
+            "2. Khou tei ai guang tang khang",
+            "Kandi rianramei rui ding khamna",
+            "Ai rui khuanlian lakmei namthan ata tihou;",
+            "Alung rui ning ngam mak",
+            "Salem namthan hou khang ai khuanlian lak.",
+            "",
+            "3. Tingsaeng neilamei lu",
+            "Ntam dat nipui lat sa mak khe;",
+            "Theihmei dui kaan pukhou apu rui zian lou na",
+            "Ata chaengriu pukhou",
+            "Zaengsi mikdui keimei naizat lak khe.",
+            "",
+            "4. Kandi kabam ‘thui khou",
+            "Rianra zaengsimei rui gumliam the;",
+            "Kum sini tingkao ram ai guang tang pui nung kiu",
+            "Thanmei banchra guai le",
+            "Guangh lauziu Nata tingsaeng thuan bamni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 188",
+        "Khristian Luzaam PDF",
+        "Chord: C",
+        "Meta 3: 9.6.12.6.10."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 188. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 118,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Alung rianra gan khou",
+        "titleRongmei": "Alung rianra gan khou"
+      }
+    }
+  }
+}

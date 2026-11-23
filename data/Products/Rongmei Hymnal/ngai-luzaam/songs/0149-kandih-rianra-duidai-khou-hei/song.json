@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-149",
+    "number": 149,
+    "source": {
+      "printedNumber": 149,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih rianra duidai khou hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih rianra duidai khou hei,",
+            "Ai rui ringhpui tuang Nangna de;",
+            "He! Kanloumei Pu laukhuan gaanphiu gaimei,",
+            "Nthiammei rui muangh zinghpui kum guang sini,",
+            "Guang gaan o rianra zinghpui ram khou.",
+            "",
+            "He! Rianra rianriumei pang thang tei,",
+            "Lily munpuang gaipui ram khou tei;",
+            "Neihla mbaanthaipui ram khou;",
+            "Zaigut lou o gaipui ram khou tei.",
+            "",
+            "2. Zaukim makmei Zion luangbut,",
+            "Kanlou mei champan thiu bam e;",
+            "Neihla na mpuan nthanmei liu bam e,",
+            "Tingkauh Lauziu Na kaguangh bampang hu khou,",
+            "Rinara zinghmei naidat pulak khe.",
+            "",
+            "3. Zau lo! Zion luangbut gaimei,",
+            "Sa ngam makge karam gai tei;",
+            "He! Tingkauh Nthanmei nun rui thuanku e,",
+            "Ning nthuk ge “He! Hallelujah” tuna,",
+            "Tingkauh Lauziu douluai kanmei tei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 149",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 149. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih rianra duidai khou hei",
+        "titleRongmei": "Kandih rianra duidai khou hei"
+      }
+    }
+  }
+}

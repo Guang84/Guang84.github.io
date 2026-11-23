@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0788",
+    "number": 788,
+    "source": {
+      "printedNumber": 788,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.9.6.8.7.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Sam thai ethei tingkkau thu tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Samthai ethei tingkau thu 4@&,",
+            "Muang le banchuanga ru khou;",
+            "Samthai ethei tingkau ram khou,",
+            "Salem ram khou sam tang ni.",
+            "Kaluang guai kachak dui ruina",
+            "Luang lik lou kabam thui khou,",
+            "Nang ringmei riu rui gan likge,",
+            "Nang rui jianpui ram gai khou.",
+            "",
+            "Chorus:",
+            "Ai rui ninge tingsang namdai,",
+            "Bumang thanmei nun bam 4@&;",
+            "Katik gun rui mundui kumma,",
+            "Ringmei dui 4@& luang bam e.",
+            "",
+            "2. Hei khou hei bammei nun guai rui,",
+            "Theimei kandih lou duna;",
+            "Kaniu Raguang ram gaimei khou,",
+            "Kaniu mikdui kei lak khe.",
+            "Gun kumma phuan lou ngam puni,",
+            "Kandih lun phung dat lak khe;",
+            "Rianramei guai khang dat lak khe,",
+            "Jisu le bam cham pukhou.",
+            "",
+            "3. Tingsangjang njianmei nun le,",
+            "Hei ramgai khou lung cham ni;",
+            "Kandih khou bampui gan kumma,",
+            "Achun hei gei dat lak khe.",
+            "Kandih khou rianrana bammei,",
+            "Chungsi jangsi kapumma;",
+            "Tingkau namdai guangtang pukhou,",
+            "Nai lak khe kapumma 4@&."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "8.7.9.6.8.7.8.7.",
+        "Sam thai ethei tingkkau thu tei",
+        "source hymn 58",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 58."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Sam thai ethei tingkkau thu tei",
+        "titleRongmei": "Sam thai ethei tingkkau thu tei"
+      }
+    }
+  }
+}

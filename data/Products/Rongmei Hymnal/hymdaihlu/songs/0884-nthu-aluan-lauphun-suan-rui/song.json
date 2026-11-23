@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0884",
+    "number": 884,
+    "source": {
+      "printedNumber": 884,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.5.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nthu aluan lauphun suan rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nthu aluan lauphun suan @&4,",
+            "Zeliangrong kandih hei mu;",
+            "Riu @&4 tigan lou.",
+            "",
+            "Chorus:",
+            "Aniu lung kaluan thao na,",
+            "Khrista ta thuan kho;",
+            "Nkhuang baza kajaona –",
+            "Kata thuan ku kho,",
+            "Adi nthuk kan tu cho?",
+            "Raguang ram dam hei.",
+            "",
+            "2. Ahu alang duipui suna,",
+            "Luang bam pui kan khou;",
+            "Zeliangrong kandih hei mu,",
+            "Kim kanei lak ge.",
+            "",
+            "3. Zeliangrong kandih nam rukhou,",
+            "Gailiangmei padik;",
+            "Zeliangrong kandih guai ta,",
+            "Raguang ning sudiu.",
+            "",
+            "4. Ahu alang duipui ru khou,",
+            "Ai sam tat bam ni;",
+            "Rangsou kumma sam bam ni,",
+            "Nchu rih rina.",
+            "Favourite song: Samson Pastor"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "8.8.5.",
+        "Nthu aluan lauphun suan rui",
+        "source hymn 154",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 154."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nthu aluan lauphun suan rui",
+        "titleRongmei": "Nthu aluan lauphun suan rui"
+      }
+    }
+  }
+}

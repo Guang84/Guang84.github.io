@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0386",
+    "number": 386,
+    "source": {
+      "printedNumber": 386,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J. MC Granahan",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.6.9.6. Ref.",
+      "tune": "S S 753"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He minc bammei lau khou lautaymei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He minc bammei lau khou lautaymei,",
+            "Lakmei ’suanmei nunc thiu,",
+            "Guang o, Kaipouc khiuzaeng ta ’khwan o,",
+            "Pumtanv tii ’luanlou khang.",
+            "",
+            "“Kaipouc ta ’khwanna bammei guay,",
+            "Pumtan tii .. ’luan ni;",
+            "Kaniw !}2 samc ku ni,",
+            "Samc ku puni Egal-ruay kumcna,",
+            "Pak sihni .. ryanra lak khe,",
+            "Tat bam sihni lak dat lak,",
+            "Pak sihni ryanra dat lak khe,",
+            "Lak dat bam lak khe.”",
+            "",
+            "2 Geih thangc lakna chwnswpui zaeng !}2",
+            "Kaipouc khou poulou e,",
+            "Guloumeipu khou lwmna bam khou",
+            "Kumhna lak bam ni cho?",
+            "",
+            "3 Neihlaa kho, Kamei ’duanghlou bam e,",
+            "Katwan nganv ’duanghlou ni!",
+            "Zauc thau o! baucna hu thangc gut ro,",
+            "Kamei pumtan tii ni!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“They That Wait Upon the Lord”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "9.6.9.6. Ref.",
+        "S S 753",
+        "J. MC Granahan",
+        "KAIPOUC TA ’KHWANNA BAMMEI GUAY",
+        "“They That Wait Upon the Lord”",
+        "source hymn 386",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 386."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He minc bammei lau khou lautaymei",
+        "titleRongmei": "He minc bammei lau khou lautaymei",
+        "titleEnglish": "“They That Wait Upon the Lord”"
+      }
+    }
+  }
+}

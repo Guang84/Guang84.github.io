@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-045",
+    "number": 45,
+    "source": {
+      "printedNumber": 45,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gaychamv Dinctat khang Nang Pumc Tiipat ro",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          45 Gaychamv Dinc Tat khang Nang Pumc",
+            "                           10.10.10. 10.Ref.8.8.8.10",
+            "          Doh is G",
+            "",
+            "          1. Gaychamv dinc tat khang nang pumc tiipat ro;",
+            "             Nang syan-lanv guay rui gaychamv dinc tat ro;",
+            "             Nang khou naimei guay rui nic dinc tat ro;",
+            "             Nang ravsuai rui nic gaychamv dinc tat ro.",
+            "",
+            "                  Pu-chaih thiu zipri bam ri tho;",
+            "                  Tay nimei laupuk daicna nai;",
+            "                  Lau Kaipouc khou tay khang ney o;",
+            "                  Kamei rui tay khang ndiulou pwni.",
+            "",
+            "          2. Khrista zanc chu zat makmei geicna nai;",
+            "             Cross nic how zat makmei geicna nai e.",
+            "             Jonah ta Ravguangc rui ndiulou kumc,",
+            "             Nang ta thangc tei tat khang ndiu bam e.",
+            "",
+            "          3. Zayloumei maekmei lauziu nunc kumcna,",
+            "             Kaniw guay tei chaeng maanv tatpui kaanc khou,",
+            "             Nwmbangc khouringc rui kaniw taek sw the.",
+            "             Atuang lauziu ta kadanloumei maek.",
+            "",
+            "          4. Ezekiel kathumh ruhna tachat khou.",
+            "             Ravguangc ruina heickumna dinclou e:",
+            "             Nang ruina tatna dinclou mak gethei,",
+            "             Kaniw zei manv tei nang khou ney pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gaychamv Dinctat khang Nang Pumc Tiipat ro"
+      }
+    }
+  }
+}

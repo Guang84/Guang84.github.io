@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-023",
+    "number": 23,
+    "source": {
+      "printedNumber": 23,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "13.8.12.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai nangkai khang su ni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai nang kai khang suni, gaimei le banthai mei",
+            "Nang bumaeng lung khang kauh thu tei,",
+            "Ndap tarimei mak tingkao kandi khou tei,",
+            "[ Tingsaeng tak makpui ram gai khou]2 2",
+            "Tingsaeng takmak pui ramgai khou.",
+            "",
+            "2. Tingkao gaimei ram tei, amang thang du khou man,",
+            "Neihla takdat makpui ram tei,",
+            "Duh mak khe tao heimu ram gaimei tei guang khang,",
+            "[ Akhang rui kai gaimei nai e]2 2",
+            "Akhang rui kai gaimei nai e.",
+            "",
+            "3. Heikai tei akhang ra, naram e nang khang ni,",
+            "Na-za-reth jisu lung pui ram",
+            "Tingsaeng lung khang hei ram tei adi gaini cho?",
+            "[ Jisu rui liulou pui ram e]2 2",
+            "Jisu rui liulou pui ram e.",
+            "",
+            "4. Hei ram khou kai tei ka,ramgai sa ngam makge,",
+            "Khou tei lung rianra mei makge,",
+            "Neihlamei le khuan gaimei lu rana suan na,",
+            "[ Kapum ma houlou ngam puni]2 2",
+            "Kapumma hou lou ngam puni.",
+            "",
+            "5. Guang o apu chai thiw, lung neihlaa na guang o,",
+            "Tat dikho heiram gaimei thang",
+            "Zauzian loumei Pu aniu ta duang na lungni,",
+            "Rianra thaidat makpui ram khou",
+            "Rianra thai dat makpui ram khou",
+            "Lungh rian ra pingmei guai nailak khe hei khou tei, 2",
+            "[ Nailak khe mikdui kei datmei.]2"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 23",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 13.8.12.8."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 23. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 23,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai nangkai khang su ni",
+        "titleRongmei": "Ai nangkai khang su ni"
+      }
+    }
+  }
+}

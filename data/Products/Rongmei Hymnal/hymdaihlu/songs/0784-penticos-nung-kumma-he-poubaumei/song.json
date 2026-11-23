@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0784",
+    "number": 784,
+    "source": {
+      "printedNumber": 784,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "10.9.10.5.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Penticos nung kumma he poubaumei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Penticos nung kumma he! poubaumei,",
+            "Guang lou datro mei kapumma khou;",
+            "Tingsang gaimei chang 4@& man dat mak khang,",
+            "Jaipat lou dat ro.",
+            "",
+            "Chorus:",
+            "Rianra jingmei ram tigan lou diu khang,",
+            "Tikei lou o nang jaujian gaimei;",
+            "Pap guaina kaothan khang maichuangmei kum,",
+            "Bumang than guang o.",
+            "",
+            "2. Theimei nganna khanga thei kanmei guai,",
+            "Kandih neilamei lanimei guai;",
+            "Nduang gutro tingsang gai pui ram khou,",
+            "Man nimei guai ta.",
+            "",
+            "3. Bumang thanmei njianmei guang dat ro,",
+            "Ring nithe pap khou manmei guai rui;",
+            "Tingsang ring nimei chang 4@& thai maknga,",
+            "Man ngam kan nithe.",
+            "",
+            "4. Musang lakkhe kross rukhou khang loumei,",
+            "Aniu lung jingmei rui gumliamma;",
+            "Timan lou o kandih neilamei guai,",
+            "Nangta ning dat khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "10.9.10.5.",
+        "Penticos nung kumma he poubaumei",
+        "source hymn 54",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 54."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Penticos nung kumma he poubaumei",
+        "titleRongmei": "Penticos nung kumma he poubaumei"
+      }
+    }
+  }
+}

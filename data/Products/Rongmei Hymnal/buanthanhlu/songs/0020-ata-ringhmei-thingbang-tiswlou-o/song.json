@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-020",
+    "number": 20,
+    "source": {
+      "printedNumber": 20,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ata Ringhmei Thingbang Tiswlou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          20 Ata Ringhmei Thingbang Tiswlou o",
+            "                        10.10.10.10. Ref. 10.10.10.10",
+            "          Doh hei G",
+            "          1 Ata ringhmei thingbang tiswlou o.",
+            "            Duithuak paengc khou thaumei thingbang kumcna,",
+            "            Kamaan zangcna kabwan gaymei buan khang,",
+            "            Bumaengh taanv thaymei mbuthau diu khang.",
+            "",
+            "                 Sw 'thanlou o, aniw guay lungning hei,",
+            "                 Timaanlou o, reynungc lungning guay tei;",
+            "                 Lungning gaymei kumcna gay bam diu khang,",
+            "                 Heic ramc gaymei khoutei ai guang nuh khang.",
+            "",
+            "          2 Ringc changh pwni de ryanraa bam sihnic;",
+            "            Jisu lim bangc khoutei ringhmei nai e.",
+            "            Ravguangc rui lingcloumei bang theic dat mak;",
+            "            Hei kandic 'maan sihnic 'maan dat lak khe.",
+            "",
+            "          3 Kaganv tingsaengcna ryanraa bam sihnic,",
+            "            Swan pyrun runpui nungc kiu guang diu khang,",
+            "            Khoutei guang khang Jisu rui kaw bam e;",
+            "            Mbaanvthaymei tingkauc khou guang diu khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ata Ringhmei Thingbang Tiswlou o"
+      }
+    }
+  }
+}

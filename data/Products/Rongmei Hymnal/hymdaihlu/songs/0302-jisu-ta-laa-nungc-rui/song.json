@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0302",
+    "number": 302,
+    "source": {
+      "printedNumber": 302,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.E.Hewitt",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.6.8.7. Ref.",
+      "tune": "SS 885"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU TA LAA NUNGC RUI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kathanc raana di the akhang,",
+            "Jisu ta laa nungc @{4;",
+            "Daihmei zauzian ta ai how the,",
+            "Zianthaymei Jisu kros khou.",
+            "",
+            "Lwmsii, pingmei guay maek khe,",
+            "Zingbangc 4@< kalaanv guanh the;",
+            "Tingkauh hei duh mak kumc the,",
+            "Jisu ta laa nungc @{4.",
+            "",
+            "2 Zianpui zaeng @{4 ata phu guang,",
+            "Jisu ta ariw the;",
+            "Ringhbamv phungc key tingkauh thangc @{4,",
+            "Kunghmei Guloumeipu @{4.",
+            "",
+            "3 Muangh @{4 ata tuklyam sihni,",
+            "Guloumeipu nai de;",
+            "How mak sihni tat ’chamc bam de,",
+            "Kaganv ’thuic bam ’chamc bam de.",
+            "",
+            "4 Kabaanc ata zaylou bam e,",
+            "Kata laalou nungc @{4;",
+            "Guangh bamvpaeng khou ata zaylou,",
+            "Khou4@< Kata ai how ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Since I Found My Saviour",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "8.6.8.7. Ref.",
+        "SS 885",
+        "E.E.Hewitt",
+        "Kathanc ra na di the akhang",
+        "Since I Found My Saviour",
+        "source hymn 302",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 302."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU TA LAA NUNGC RUI",
+        "titleRongmei": "JISU TA LAA NUNGC RUI",
+        "titleEnglish": "Since I Found My Saviour"
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0417",
+    "number": 417,
+    "source": {
+      "printedNumber": 417,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Washington Gladden",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.8.",
+      "tune": "CSH 107"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KAIPOUC NANG LEV TIITATLOU O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaipouc, Nang lev tiitatlou o,",
+            "Niamhmei taanv taanh khou ’khavlou o;",
+            "Nang thukh akhou dinclou na ro,",
+            "Ryanra lak khou ’khavlou na ro.",
+            "",
+            "2 Lungh tiithau khou ’khavlou na ro,",
+            "’Zianpui lat saa khou ’khavlou o;",
+            "Chaeng zay thay khang ’chamlou na ro,",
+            "Kai biak zaylou khang ’khavlou o.",
+            "",
+            "3. Nangram khaengthai ’chamlou na ro,",
+            "Nang lev ’naa diangc, zian diangc bam khang,",
+            "Lwmmei tiitanc thaumei taanv khou,",
+            "Siimei ta ngammei ramlum khou.",
+            "",
+            "4 Machunhmei #^7 tiigaylou o,",
+            "Guang nimei panty chaenglwan ta;",
+            "Nang na tii ngammei",
+            "chuzaengh khou,",
+            "Kaipouc, Nang lev tiilungclou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O Master, Let Me Walk with Thee",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.8.8.8.",
+        "CSH 107",
+        "Washington Gladden",
+        "O Master, Let Me Walk with Thee",
+        "source hymn 417",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 417."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KAIPOUC NANG LEV TIITATLOU O",
+        "titleRongmei": "KAIPOUC NANG LEV TIITATLOU O",
+        "titleEnglish": "O Master, Let Me Walk with Thee"
+      }
+    }
+  }
+}

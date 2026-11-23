@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-209",
+    "number": 209,
+    "source": {
+      "printedNumber": 209,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kau Ravguangc nang bam paeng hukhou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kao Ravguangc nang bampaeng hukhou rui",
+            "Luang kei mei ringphang duithuak tei",
+            "Mbaan ram guai lunglik louna",
+            "Kandih ta puan than tipiu lou the.",
+            "",
+            "Suan bam o nruaina nanglu gaimei,",
+            "Puang kandiw munpuangc gaimei ni;",
+            "Mpuanc nang munrimh phung guang o",
+            "Thuan bam kho neihriu rui gaan bam khou.",
+            "",
+            "2. Nang suaihiam tinghthai thingbang guai khou",
+            "Duilung khou lungmei guai khang ni",
+            "Ndap t’ri mak khang ti tu lou ;",
+            "Zingbang kalaan nangta thuan bam e.",
+            "",
+            "3. Kaomei chingtuan nang ta thuan bam khang",
+            "Ling gaimei dui luangkak guai khou,",
+            "Khou lang kaigai zaeng supui bam",
+            "Nang ramzian thuk hei chak ngam makge.",
+            "",
+            "4. Charinmei ngam rui ata damlou na,",
+            "Ting mikthui khang makuat lou e,",
+            "Panty ngan khang ni suaihiam lou;",
+            "Thuanc bam ni tingkao kandih ngan na.",
+            "",
+            " Pastor Abui"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 209",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 209. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kau Ravguangc nang bam paeng hukhou",
+        "titleRongmei": "Kau Ravguangc nang bam paeng hukhou"
+      }
+    }
+  }
+}

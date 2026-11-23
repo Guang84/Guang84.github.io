@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0731",
+    "number": 731,
+    "source": {
+      "printedNumber": 731,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.5.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chunsi jangsi nung phangjaona",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Chunsi jangsi nung phang jaona",
+            "Lunghgei rianra nung jao ethei;",
+            "Kalvari khou 9!@ hou puni,",
+            "Aniu khang rui thei loumei puta.",
+            "Kanloumei puta.",
+            "",
+            "Chorus:",
+            "He guanga thuanno khangloumei puta,",
+            "Rianramei lat njan luaina;",
+            "Kandihmei nuan phung ngam kanthe,",
+            "Jaokim makmei pu.",
+            "",
+            "2. Gaimak khang 9!@ rana sulou,",
+            "Suh kasi khang ningmei nun rui;",
+            "Roman sipai khei simei rui,",
+            "Su kasi sihna su kan the,",
+            "Kanloumei puta.",
+            "",
+            "3. Luh suanmei guai guang kariuna,",
+            "Poubaumei ta rak nduang khang;",
+            "Ruak nai pui kam 9!@ kauh lana,",
+            "Ntam khang 9!@ thuan ku dikho,",
+            "Kanloumei puta.",
+            "",
+            "4. Pouta ning pui jingbang dak khou,",
+            "Kamei theihmei ta hou lana;",
+            "Mikdui luan laina kapmei pui,",
+            "Ringhthao datmei 9!@ hou lana,",
+            "Kaptan dat kan the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "8.8.8.8.5.",
+        "Chunsi jangsi nung phangjaona",
+        "source hymn 1",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 1."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chunsi jangsi nung phangjaona",
+        "titleRongmei": "Chunsi jangsi nung phangjaona",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

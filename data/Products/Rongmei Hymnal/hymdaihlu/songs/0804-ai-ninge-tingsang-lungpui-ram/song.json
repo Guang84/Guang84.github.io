@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0804",
+    "number": 804,
+    "source": {
+      "printedNumber": 804,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "8.11.9.13.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai ninge tingsang lungpui ram",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai ninge tingsang lungpui ram,",
+            "Tuai dat mak mei kachak dandi namdai 2!-;",
+            "Neimik khang suang gan gai e tu e,",
+            "Ai hou ni e hei namdai 2!- kaumei lungpui bam.",
+            "",
+            "2. Meinun kauh namdai njuan pui chang,",
+            "Lai tatna tatman pukhang ai lunghgei;",
+            "Pap phung bam khou rui pumtan maknga,",
+            "Kauh kanan ramgai gundaimei houmak- khang rianra.",
+            "",
+            "3. Poubaumei bumang rui ramhma,",
+            "Thou rui guangtang ngam nicho, kandih khou rui;",
+            "Bumang man lou pui bam kandih e,",
+            "Poubaumei ai lummei guaita simei rui kham e.",
+            "",
+            "4. Lummei guai mu tingkauh ram khou,",
+            "Neimik khang suang gan gaina ganbam puni;",
+            "Kandih khou rianra guai lou duna,",
+            "Neilamei rui mun kum puang ni tuai dat pulak khe.",
+            "",
+            "5. Ai rui lung ni kauh namdai khou,",
+            "Tingsagna jangthak puni hei namdai khou;",
+            "Pou rui damloumei Salem namdai,",
+            "Aniu kapumma hei lungni rianramei maknga."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "8.11.9.13.",
+        "Ai ninge tingsang lungpui ram",
+        "source hymn 74",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 74."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai ninge tingsang lungpui ram",
+        "titleRongmei": "Ai ninge tingsang lungpui ram"
+      }
+    }
+  }
+}

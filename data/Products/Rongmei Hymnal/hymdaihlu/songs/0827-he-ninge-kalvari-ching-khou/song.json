@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0827",
+    "number": 827,
+    "source": {
+      "printedNumber": 827,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He ninge kalvari ching khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He ninge kalvari ching khou,",
+            "Kanloumei pu jei luang kei e;",
+            "Kandih pap nthan diu khang.",
+            "",
+            "Chorus:",
+            "Theipui bam kalvari ching rukhou,",
+            "Poubaumei jangsina bamme tu e;",
+            "Ninga jao nthiammmei muang jingbang khou.",
+            "",
+            "2. Nthiammei rihdaimei lungkhou,",
+            "Kandih rianramei rui padik;",
+            "Ai guangtang ngam nicho?",
+            "",
+            "3. Kajei rui na lou nthanmei,",
+            "Karam gai khou nban thai ni;",
+            "Tuai dat makpui mun suni.",
+            "",
+            "4. Gun kumma nphuan pui bam khou,",
+            "Abumang rui guang tang ethei;",
+            "Ringmei mun 0({ ai suni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "8.8.7.",
+        "He ninge kalvari ching khou",
+        "source hymn 97",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 97."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He ninge kalvari ching khou",
+        "titleRongmei": "He ninge kalvari ching khou"
+      }
+    }
+  }
+}

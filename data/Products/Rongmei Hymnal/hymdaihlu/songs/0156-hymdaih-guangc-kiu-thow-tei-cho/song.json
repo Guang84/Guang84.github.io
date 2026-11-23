@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0156",
+    "number": 156,
+    "source": {
+      "printedNumber": 156,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "James M.Gray",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.8.9.8. Ref.",
+      "tune": "3 Alex 235"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HYMDAIH GUANGC KIU THOW TEI CHO?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Laanc kauh thau o, tingsaeng raengcmun guay,",
+            "Hymdaihmei Guangc tat gut pw the;",
+            "Kauh liangmei guangc bamvpaeng khou ku khang,",
+            "Theihmei lev paapc ta ngammei pu.",
+            "",
+            "Hymdaih Guangc kiu thow 2}? cho?",
+            "’Niu ta zauczihmei ta ngammei pu,",
+            "Latzan khou ’niu phaan lynmei pu,",
+            "Kros ruc khou rih ngamloumei pu,",
+            "Kamei hymdaihmei Guangc e. (2)",
+            "",
+            "2 Kamei }?2 kandih hei damclou e,",
+            "Duipui chung khou suamc thaulou e;",
+            "Seitaan ricmei guay ta ngamlou the,",
+            "Kros khou Kazei keylou nungc 2}?.",
+            "",
+            "3 Thow }?2 Katuang chyng khou ku ngam ni?",
+            "Thow }?2 Kahu khou ding ngam ni?",
+            "Kalvari zeipuak khou lowmei nunc,",
+            "Zauzian }?2 thuakloumei nunc e.",
+            "",
+            "4 Lwmmei mik }?2 ’taw nic how ngam e,",
+            "Pu bamvpaeng khou bammei Guangc ta;",
+            "Kakhang guanghdic laa khang key nimei",
+            "Khuangc ganv ta Kamei ’khwan bam e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Lift up Your Head",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "9.8.9.8. Ref.",
+        "3 Alex 235",
+        "James M.Gray",
+        "Laanc kauh thau o",
+        "Lift up Your Head",
+        "source hymn 156",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 156."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HYMDAIH GUANGC KIU THOW TEI CHO?",
+        "titleRongmei": "HYMDAIH GUANGC KIU THOW TEI CHO?",
+        "titleEnglish": "Lift up Your Head"
+      }
+    }
+  }
+}

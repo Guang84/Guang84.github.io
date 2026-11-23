@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0070",
+    "number": 70,
+    "source": {
+      "printedNumber": 70,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "P.Dodridge A.M.Toplady",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "3/4",
+      "meter": "6.6.8.6. Ref.",
+      "tune": "SS 8"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zauzian twmei khwan hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zauzian! twmei khwan hei!",
+            "Nuh gaymei lu khwan e!",
+            "Tingkauh thangc _>6 kagaengv guang ni,",
+            "Kandih pwm chu lik ni.",
+            "",
+            "Zauzian _>6 gulou;",
+            "Mi hei alat re,",
+            "Jisu meic guay khang theiclou,",
+            "Mi 6_> akhang nic the.",
+            "",
+            "2 Azanc hylou kan the,",
+            "Ringcsuangmei latrik khou;",
+            "Zauzian _>6 ata phungc guanglou,",
+            "Ravguangc Lauziu Nac khou.",
+            "",
+            "3 Zauzian hei _>6 ata",
+            "Huayney thay khang ’chamlou,",
+            "Zauzian _>6 ’seic nganv gaeklou the,",
+            "Katwan nganv zaylou ni.",
+            "",
+            "4 Zauzian _>6 tii tanclou,",
+            "Tingkauh tuang pumtan _>6;",
+            "Apumtan guay Nang khang sw diu,",
+            "Apanty nai saanv khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Grace! ’Tis a Charming Sound!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "3/4",
+        "6.6.8.6. Ref.",
+        "SS 8",
+        "P.Dodridge A.M.Toplady",
+        "Grace! ’Tis a Charming Sound!",
+        "source hymn 70",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 70."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zauzian twmei khwan hei",
+        "titleRongmei": "Zauzian twmei khwan hei",
+        "titleEnglish": "Grace! ’Tis a Charming Sound!"
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0097",
+    "number": 97,
+    "source": {
+      "printedNumber": 97,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.8.6. D.",
+      "tune": "SS 205"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kida khang maekmei Jisu gunc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kida khang maekmei Jisu gunc",
+            "Gaanc bammei Kahym daihmei hei,",
+            "Ai saa tangc ngam khwan ’thei,",
+            "Ai samc kuna kauh ’rac downa,",
+            "Gabriel lev lu ’khyam ni tuang e;",
+            "Kamei kauh lu suan khou. (2)",
+            "",
+            "2 Paapc lev Ravguangc lungpuam khou )}3",
+            "Kanlou khang Kazei keyloumei,",
+            "Ai suan bam ni tuang e;",
+            "Karamgai ai thuanc ni tuang e,",
+            "Abumaengc tingsaeng gaanc bam khang,",
+            "Tingkauh pwan piuloumei. (2)",
+            "",
+            "3 Kakhou naimei Kakheiliak guay,",
+            "Zianmei padikmei lwnlung ta,",
+            "Ai thuanc bam ni tuang e;",
+            "Ranv liang nuh gay liangmei khwan )}3",
+            "Ai suan ni tuang e tingsaengzaeng",
+            "Katikgunc ndauhna. (2)",
+            "",
+            "4 He mi tingmik kiu guang puni,",
+            "Tingkauh tangcna aKaipouc zaw,",
+            "Ai how nipui nungc kiu;",
+            "Khou kiu Guloumeipu lev ai,",
+            "Tingsaengzaeng neihlaana lungc ni,",
+            "Zauzian paan rih ngamna. (2)"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O Could I Speak!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "3/4",
+        "8.8.6. D.",
+        "SS 205",
+        "O Could I Speak!",
+        "source hymn 97",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 97."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kida khang maekmei Jisu gunc",
+        "titleRongmei": "Kida khang maekmei Jisu gunc",
+        "titleEnglish": "O Could I Speak!"
+      }
+    }
+  }
+}

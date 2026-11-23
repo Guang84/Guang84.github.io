@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-017",
+    "number": 17,
+    "source": {
+      "printedNumber": 17,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aringcbamv lev Amairam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          17     Aringcbamv lev Amairam",
+            "                         11.9.9.8.Ref.7.9.9.8",
+            "          Doh hei D",
+            "",
+            "          1. Aringcbamv lev amairam kiu Ravguangc e.",
+            "             Thow ta ai rui pingbam nina cho?",
+            "             Ringhmei lev pumtan tei Ravguangc e,",
+            "             Thow ta ai pingbam nina cho?",
+            "",
+            "                 Nzianmei apui 'pu rui",
+            "                 Ata ganc nrulou pwsihnic,",
+            "                 'Ziangthaymei damcloumei Ravguangc rui",
+            "                 Zaythauna pamc-puanclou pwni e.",
+            "",
+            "          2. Ravguangc khourui ai ramh khatna kahaw e,",
+            "             Karamgai tei ai how khang ning e,",
+            "             Apanty tingmik kaguayna hei,",
+            "             Ravguangc kai khou lungc bam ni the.",
+            "",
+            "          3. 'Zianthaymei Ravguangc rui `aniw ta kaw e,",
+            "             Theihmei zinghmei kandic khouruina,",
+            "             Mpatlouna Adaeng khou guang o,",
+            "             Zanhpumc panty hei luai mak khou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aringcbamv lev Amairam"
+      }
+    }
+  }
+}

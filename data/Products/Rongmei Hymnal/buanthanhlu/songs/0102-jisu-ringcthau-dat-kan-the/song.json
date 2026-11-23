@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-102",
+    "number": 102,
+    "source": {
+      "printedNumber": 102,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu Ringcthau Dat Kan the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          102 Jisu Ringcthau Dat Kan the",
+            "                                 7.7.7.7",
+            "          Doh hei B",
+            "",
+            "          1. Jisu ringcthau dat kan the;",
+            "             Baanch'raa gaanvnei rui saa e.",
+            "             Baanch'raa gaanvnei tei ruina",
+            "             Roukham tei laancpatlou the.",
+            "",
+            "          2. Zauczihmei nunc baanc khoutei,",
+            "             Meic Nac Mpouh Jisu ta,",
+            "             Tiipatna swluai pwni;",
+            "             Neihthumh nungc ringcthau dat 'ni.",
+            "",
+            "          3. Twna dinc kasuakcloumei",
+            "             Hei guangtangh khang saalou the.",
+            "             Lwm makmei sw la ri tho;",
+            "             Kamei guang dat pwni the.",
+            "",
+            "          4. Kandih paapc zinghmei guay ta",
+            "             Ngam lana thau dat kan the.",
+            "             Ravguangc Nac swpui zaengrui",
+            "             Kapu pamv nzwan kan the.",
+            "",
+            "          5. Thuancku o he meic guay le;",
+            "             Thuanc o he Halleluiah !",
+            "             Thuancku o kahym daic diu;",
+            "             Thuanc o he Halleluiah !"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu Ringcthau Dat Kan the"
+      }
+    }
+  }
+}

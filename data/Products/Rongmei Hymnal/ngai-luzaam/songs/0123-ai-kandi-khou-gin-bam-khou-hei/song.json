@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-123",
+    "number": 123,
+    "source": {
+      "printedNumber": 123,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai kandi khou gin bam khou hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai kandi khou ginbam khou hei,",
+            "Aram ningting tak ruina sa ngam thui mak ge;",
+            "Kachak kaphut kai tei chrin e,",
+            "Miguai rui abumaeng tiring ngam puni cho?",
+            "Oh! Mi hei rui tiryng ngam lak khe.",
+            "",
+            "He! Lazar le nu e thei nang ban tuan khou",
+            "Dui katit na rou lana",
+            "Abalei khou tizuk kei lou o,",
+            "Mi hei rui ham ma ring ngam mak khe.",
+            "",
+            "2. Lazar kandih khou lung bam khou,",
+            "Lung gaimei pu tu kathou lou mei ta hou na;",
+            "Khuai tu khang chang mun khou guang e",
+            "Karam gaigiu tei lung gaimei pu rui karang ,",
+            "Kum khuan sini raguang rui nzian ne.",
+            "",
+            "3. Lung gaimei pu thei pui kan khou,",
+            "Tingkao kandi guang mak nga maikuam tat kanthe.",
+            "Lazar tei Abraham pam khou",
+            "Dung bam mei ta hou na,",
+            "Guang pu rui ning ngam mak,",
+            "Kum khuan sini kamei ring dat mak."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 123",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 123. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai kandi khou gin bam khou hei",
+        "titleRongmei": "Ai kandi khou gin bam khou hei"
+      }
+    }
+  }
+}

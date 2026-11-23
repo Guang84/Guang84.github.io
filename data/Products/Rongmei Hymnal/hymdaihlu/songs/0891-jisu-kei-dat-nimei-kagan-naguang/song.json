@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0891",
+    "number": 891,
+    "source": {
+      "printedNumber": 891,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "12.910.10.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu kei dat nimei kagan naguang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Jisu kei dat nimei kagan nguang puthe,",
+            "Hei kandih luai pukhou chamdan latho;",
+            "Jatguai kamei guang khou kasuan lakhang,",
+            "Tingpuk kandih guai manpui nung kiu.",
+            "",
+            "Chorus:",
+            "Tingkauh chang khou ai tat pukhou,",
+            "Guang bampang khou guang kariu ni;",
+            "Halleluijah jat guaina )_3,",
+            "Guang bampang khou suan na bam ni.",
+            "",
+            "2. Kaokei pui khuantei le Raguang bangun khun le,",
+            "Kamei kahak kei puni Khrista khou thei kanmei;",
+            "Jianmei guai tei thao rei puni,",
+            "Mitang ring bammei le kariu ni.",
+            "",
+            "3. Tingkauh kaidai khou ganmei )_3 padik e,",
+            "Khou tei Khrista lung bam e;",
+            "Kamei le bam chamni muang rukhou",
+            "Rui phung kuni.",
+            "",
+            "4. Nphuanmei pheiban )_3 apuan suna lung ni,",
+            "Khrista )_3 ganmei bam khou kata thuan;",
+            "Mei khuan)_3, trumpet khuan le alim khuan )_3,",
+            "Tingkauh kaidai khou thuan na bam ni.",
+            "Favourite song: Samson Pastor"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "12.910.10.9.",
+        "Jisu kei dat nimei kagan naguang",
+        "source hymn 161",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 161."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu kei dat nimei kagan naguang",
+        "titleRongmei": "Jisu kei dat nimei kagan naguang",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

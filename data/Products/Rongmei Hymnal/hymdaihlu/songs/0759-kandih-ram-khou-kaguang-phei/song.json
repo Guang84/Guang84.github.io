@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0759",
+    "number": 759,
+    "source": {
+      "printedNumber": 759,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.12.9.",
+      "tune": "Solomon Lu 2:1"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih ram khou kaguang phei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih ram khou kaguang phei banni,",
+            "Kandih munpuang guaini tuai puni;",
+            "Aniu pantini suai mak na kei puni e,",
+            "Kum sini akhang Jisu nai e.",
+            "",
+            "Chorus:",
+            "Lili puang lui kaguang Jisu 7#@,",
+            "Puang the akhang 7#@ rui tingkau thang,",
+            "Rianramei kan khou ni kamei rui duanglou,",
+            "Tuai mak pui lili munpuang dai e.",
+            "",
+            "2. Kamei rui njianmei kandih khou,",
+            "Kamei thu tingsang ganphiu dai e;",
+            "Hei kandih khou rianra rianriu bam pusini,",
+            "Tingkau thu phung kulou puni e.",
+            "",
+            "3. Ntau kapma bam pu sini na,",
+            "Thie lana amik tangui pukhou;",
+            "Ai ping lakkhe tarou khou rui thao pusini,",
+            "Amik dui thut phui lou puni e.",
+            "",
+            "4. Kandih ram hei khou hei njianmei,",
+            "Champan nun rui pat lou pusini;",
+            "Alung khou hei njianmei ni pat puni e,",
+            "Arana bam pui ding khou 7#@ni.",
+            "",
+            "5. Hei kum pusini ai ping lakkhe,",
+            "Alung bumang rianra pusini;",
+            "Lunggei kadanna arana bam pusini,",
+            "Lili puang Jisu rui duang lou ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "9.9.12.9.",
+        "Solomon Lu 2:1",
+        "Kandih ram khou kaguang phei",
+        "source hymn 29",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 29."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih ram khou kaguang phei",
+        "titleRongmei": "Kandih ram khou kaguang phei",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

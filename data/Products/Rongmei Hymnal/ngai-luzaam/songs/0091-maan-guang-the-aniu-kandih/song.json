@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-091",
+    "number": 91,
+    "source": {
+      "printedNumber": 91,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "11.9.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Maan guang the aniu kandih",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Maan guang the aniu kandi ringpui tingmik ,",
+            "Neilapui tingmik ni manni the,",
+            "Tingmik thui neila khang makge,",
+            "Nuhlo , nang ring bam khou.",
+            "",
+            "Kandi cham pan zianmei ntam dat kansini,",
+            "Neilana lung khat na suna;",
+            "Heikandi ring mei dui sini,",
+            "Poubaomei tan tandi kho.",
+            "",
+            "2. Zing bang zingmei lev kandi ryanra mei rui,",
+            "Kalat ncham khang sukatuak ge;",
+            "Alung gei mei su man lou o.",
+            "Kapmei ti man lou o.",
+            "",
+            "3. Poubaomei nduang o njian mei guai le,",
+            "Nang bam pui ram gaimei tei hou khang;",
+            "Ntam mei hei naipu lak khe.",
+            "Lung gei mei paeng thang tei.",
+            "",
+            "4. Kandi kapmei guai le ntam ping lak khe,",
+            "Banchra nun guai bampui ram gaimei ;",
+            "Lu tei suan na ruak tei gaina,",
+            "Kagundai ting kao ram."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 91",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 11.9.8.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 91. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 91,
+        "match": "title-match-0.95"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Maan guang the aniu kandih",
+        "titleRongmei": "Maan guang the aniu kandih"
+      }
+    }
+  }
+}

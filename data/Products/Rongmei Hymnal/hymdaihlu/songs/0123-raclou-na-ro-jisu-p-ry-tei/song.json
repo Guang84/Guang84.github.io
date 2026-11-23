@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0123",
+    "number": 123,
+    "source": {
+      "printedNumber": 123,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.7.8.7.8.7.8.7.7.",
+      "tune": "SS 43"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Raclou na ro Jisu p’ry tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Raclou na ro Jisu p’ry 5^&,",
+            "Alung khou tiirimlou o,",
+            "Kungc liangmei p’ry hei raclou o,",
+            "Nuh gay liangmei p’ry guangc 5^&;",
+            "Baanch’ra nunc ^&5 Kamei puanh nungc",
+            "Kata thuancna suan kanmei:",
+            "“Kauh liangmei khou Kahym daic diu,",
+            "Dih khou chuzaenghmei sw diu!”(2)",
+            "",
+            "2 Tazikramv khou munthiangc kanmei,",
+            "Karaana akhaengv kanmei,",
+            "’Niu paap zaeng Kata ’thiam kanmei,",
+            "’Khamh khou Kamei rih ngammei;",
+            "Raclou o, Karwanry guay 5^&:",
+            "Lakloumei, ryanra ’khaengvmei,",
+            "Kata malaana ganc patmei,",
+            "Lungcsii, rairiu ’khaengv kanmei. (2)",
+            "",
+            "3 Kata kros khou hianbinloumei,",
+            "Zamv suc ’khaengvna ryanramei,",
+            "Kata t’rou khou mbeihloumei,",
+            "Kamei ringcthau dat kanmei;",
+            "Mi p’ry hei ai makumh pwkhou",
+            "Karamzian thukh ai how the;",
+            "Kamei ^&5 ata ranclou the,",
+            "Jisu hym tingsaeng daic diu! (2)"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Tell me The Story of Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "6/8",
+        "8.7.8.7.8.7.8.7.7.",
+        "SS 43",
+        "Fanny J. Crosby",
+        "Tell me The Story of Jesus",
+        "source hymn 123",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 123."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Raclou na ro Jisu p’ry tei",
+        "titleRongmei": "Raclou na ro Jisu p’ry tei",
+        "titleEnglish": "Tell me The Story of Jesus"
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0441",
+    "number": 441,
+    "source": {
+      "printedNumber": 441,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. C.H. Morris",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.10.12.10. Ref.",
+      "tune": "RS 903"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Rih ’dow bam the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Rih ’dow bam the, “Rihpwan,",
+            "rihpwan,” twna kauc the,",
+            "Kabamv ’thuic khou trampet khwan hei chu the,",
+            "Rihpy hei {:1 rih ngamlou khang ruan pat pw the,",
+            "How nuangc ni the ’chumhmei {:1 rih ngammei.",
+            "",
+            "Rih ’dow bam the, Khristian ricmei,",
+            "Ding rianna zaw lev zaw adyangna;",
+            "Rihpwan kachan the, kailiangh alang the;",
+            "’Chumhmei lev ’khuaimei ’dow bam the;",
+            "Rih’dow bam the tiki ping riu,",
+            "Bauc o, Kangamv 1<: sin ’tip la tho;",
+            "Kaipou Ravguangc hei ’niu biak liangc ethei",
+            "’Niu rihngam lu suan puni de.",
+            "",
+            "2 Rih ’dow bam the, he rihmei thiu, baucna thau tho,",
+            "Poubauhmei {:1 zaylouna rih ngam ni;",
+            "Ravguangc tiimei ricpwan hei piuna kaamc thau tho,",
+            "Rih luai mak saanv Kangamv khou akhangv o.",
+            "",
+            "3 Poubauhmei {:1 rih ngam khang chaeng zaylou bam the,",
+            "Kalatryan hei neihpat nganv lik tangc the;",
+            "Poubauhmei zanc kabam ’thuic khou chakhwang sw diu,",
+            "Chuzaenghmei ganv, lauthwan kiu ’naa guang the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Fight is On",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "12.10.12.10. Ref.",
+        "RS 903",
+        "Mrs. C.H. Morris",
+        "The Fight is On",
+        "source hymn 441",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 441."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Rih ’dow bam the",
+        "titleRongmei": "Rih ’dow bam the",
+        "titleEnglish": "The Fight is On"
+      }
+    }
+  }
+}

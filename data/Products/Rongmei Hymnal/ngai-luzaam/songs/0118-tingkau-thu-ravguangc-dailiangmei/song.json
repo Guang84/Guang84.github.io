@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-118",
+    "number": 118,
+    "source": {
+      "printedNumber": 118,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkau thu Ravguangc dailiangmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Tingkao thu Ravguangc dailiangmei",
+            "Tingkumv khumv ma zai lou lana",
+            "Kamei rui zauzianc lou khourui",
+            "Taanlou puithai guay tei hou the.",
+            "",
+            "Typat loutho,typat loutho,",
+            "Naimei kathui typat loutho",
+            "Poubaomei jisu thuanc kariu khang Amen (guang e)",
+            "",
+            "2. Khrista guang puanc pui tyngmik khou",
+            "Neila bamv mei aniw alao",
+            "Asei nang changmunh gaymei khou",
+            "Nang khounei khang aniu guang e.",
+            "",
+            "3. Poubaomei zanc khou nang tymei",
+            "Pai kaneina khuan sini na",
+            "Alau guay neihlaa puizaeng rui",
+            "Tingkao thu suanc ladat pung e",
+            "",
+            "4. Poubaomei khris’ta puanc puinungc",
+            "Nang khou swaihyam lou khang ty o",
+            "Nang rui typat mei puat guayna",
+            "Tingsaeng zaeng manc dat pulak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 118",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 118. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkau thu Ravguangc dailiangmei",
+        "titleRongmei": "Tingkau thu Ravguangc dailiangmei"
+      }
+    }
+  }
+}

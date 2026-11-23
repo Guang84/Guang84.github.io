@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0022",
+    "number": 22,
+    "source": {
+      "printedNumber": 22,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "George Atkins",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. D.",
+      "tune": "SSSH 499"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ZIANMEITHIU, ’NIU KARIU BAM E,",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zianmeithiu, ’niu kariu bam e,",
+            "Pu Ravguangc ta kalum khang;",
+            "Lunghgutna huayneylou ni cho,",
+            "Aniu Kalat dinc ni khou?",
+            "Bumaengh ’Thanmei keylou mak ethei,",
+            "Aniu huath hei nsa de;",
+            "Zianmeithiu, aniu huayney kho,",
+            "’Thanmei manna tiikey khang.",
+            "",
+            "2 Zianmeithiu, zauc lo, paapcmei nunc,",
+            "Maikwam tin khou zip bam the;",
+            "Theihmei lev maikwam guang pw the,",
+            "Kaniw ta ganclou ni cho?",
+            "Zauc lo, aniu pui aniupu,",
+            "’Niu nac nunc paapc khou ’lip bam;",
+            "Zianmeithiu, aniu huayney kho,",
+            "’Thanmei manna tiikey khang.",
+            "",
+            "3 Tanpuithiu nic ’khavlou ni cho,",
+            "Miriam, Mousi ta ’khav kumc;",
+            "Paapc ric ’downa kap bammei ta,",
+            "Nangniw nic ’khavlou ni cho?",
+            "Guloumeipu lam dinclou tio,",
+            "Kakhou guang khang dinclou tio,",
+            "Tanpuithiu, aniu huayney kho,",
+            "’Thanmei manna tiikey khang.",
+            "",
+            "4 Aniu Ravguangc ta nzian kho,",
+            "Khat lev khat ta nic zian kho;",
+            "Paapcmei nunc khang huayneylou kho,",
+            "Kaniw 6$% puancthanh mak saanv,",
+            "’Niu ta tingkauh thangc kaw guang khou,",
+            "Kakuakpaeng khou dungc ’chamc ni;",
+            "Khrista $%6 ’niu siamruai swna,",
+            "’Thanmei manna ’zanh puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Brethren, We have Met to Worship",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.7.8.7. D.",
+        "SSSH 499",
+        "George Atkins",
+        "Brethren, We have Met to Worship",
+        "source hymn 22",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 22."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ZIANMEITHIU, ’NIU KARIU BAM E,",
+        "titleRongmei": "ZIANMEITHIU, ’NIU KARIU BAM E,",
+        "titleEnglish": "Brethren, We have Met to Worship"
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0593",
+    "number": 593,
+    "source": {
+      "printedNumber": 593,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "James Russell Lowell",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/2",
+      "meter": "8.7.8.7. D.",
+      "tune": "CW 558"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Meic kathuic kandih kathuic khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Meic kathuic, kandih kathuic khang",
+            "Lungdyng laapui ganv guang e;",
+            "’Chumhmei lev laanhmei adow khou;",
+            "Siimei gaymei biak liangc e,",
+            "Taanv daih asaekc Messaiah ?|7",
+            "Suaihiamlou e, gancpat re,",
+            "Zinghmei lev gaanhmei kapahmei",
+            "Tingsaengzaeng tat key bam e.",
+            "",
+            "2 ’Chumhmei biak lianghmei gaymei e,",
+            "Ryanramei dam ’niu laa ni,",
+            "Zanh tatmei phungc guang mak khou ?|7,",
+            "’Twnmei gaengcmei thay mak khou;",
+            "Bauhmei na ?|7 hei khang ding e,",
+            "Zammei nunc ding thei bam khou,",
+            "’Khamh khou meic guay laylou dat re,",
+            "Kaniw nuhmuloumei ta.",
+            "",
+            "3 Chuangc bammei martair nunc riw khou,",
+            "Khrista zei phaykaamv suic e,",
+            "Kalvari khou kaphat ku e,",
+            "Hanc dat makna, kros phungcna,",
+            "Kabamv, kaganv kathanc than khou,",
+            "Ramh guay kalaic ngam pwkhou,",
+            "Chanahmei khou taanvsw bam khang",
+            "Tat kuna hu thangc gut ni.",
+            "",
+            "4 Siimei ?|7 lung zyn bam sihni,",
+            "’Chumhmei thu kalaih mak ge,",
+            "Mbaukai khou lungc bam sihni,",
+            "Guangh nunc ?|7 nuh mak sihni,",
+            "Meic thay mak khou guang nimei ta",
+            "Mbaukai 7?| ?|7 sin e;",
+            "Kaswng khou Ravguangc ding bam e,",
+            "Kamei nunc ta gaek bam e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Once to Every Man and Nation",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/2",
+        "8.7.8.7. D.",
+        "CW 558",
+        "James Russell Lowell",
+        "Once to Every Man and Nation",
+        "source hymn 593",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 593."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Meic kathuic kandih kathuic khang",
+        "titleRongmei": "Meic kathuic kandih kathuic khang",
+        "titleEnglish": "Once to Every Man and Nation"
+      }
+    }
+  }
+}

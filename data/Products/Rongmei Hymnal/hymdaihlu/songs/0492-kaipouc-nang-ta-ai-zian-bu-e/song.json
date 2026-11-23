@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0492",
+    "number": 492,
+    "source": {
+      "printedNumber": 492,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Frances R. Havergal",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "C.M. Ref.",
+      "tune": "SS 649"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KAIPOUC NANG TA AI ZIAN ’BU E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaipouc, Nang ta ai zian ’bu e!",
+            "Kandih ramgai ta suangc,",
+            "Sw ’maan ngam makmei chuzaenghmei",
+            "Nang @<4 tiipui zaeng @<4.",
+            "",
+            "Paekri sihni saa ngam mak he,",
+            "Padikmei zianmei lam!",
+            "Paekri sihni saa ngam mak he,",
+            "Zei @<4 khiu ’thanmei lam!",
+            "",
+            "2 Ai thay e, Nang ‘naa diangc bam e,",
+            "Kandihmei nunc khang suangc,",
+            "Nang ta makumhmei gay ranv e,",
+            "Kandih lu gaymei suangc.",
+            "",
+            "3 Nang @<4 neihlaamei tiilou the,",
+            "Ai neihlaa bam nuh the,",
+            "’Thukmei Nang zauzian paan hamhna",
+            "Ai neihlaa ngam lak ge.",
+            "",
+            "4 He kunghmei, he Guloumeipu,",
+            "Dih khou heidi gay ’thei,",
+            "Kauh thangc Nang lev lungc ’chamc pwkhou",
+            "Adih gay ranv ni cho!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Know I Love Thee Better, Lord!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "C.M. Ref.",
+        "SS 649",
+        "Frances R. Havergal",
+        "I Know I Love Thee Better, Lord!",
+        "source hymn 492",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 492."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KAIPOUC NANG TA AI ZIAN ’BU E",
+        "titleRongmei": "KAIPOUC NANG TA AI ZIAN ’BU E",
+        "titleEnglish": "I Know I Love Thee Better, Lord!"
+      }
+    }
+  }
+}

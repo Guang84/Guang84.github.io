@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-197",
+    "number": 197,
+    "source": {
+      "printedNumber": 197,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pui zian lou mei khuan nzaengmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Pui zian lou mei khuan nzaengmei",
+            "Ai rui musuipui nung makge,",
+            "Nang nahnun ta ganlou sini",
+            "Kalum lou mei amu rio.",
+            "",
+            "Zauzianlou o, ai rui ningmei",
+            "Kadaeng khou tei ai rui bamni",
+            "Akhang kalum lou pui khuan tei",
+            "Mpuan kumna akhou liu guang.",
+            "",
+            "2. Hei kandi hei akai ham e;",
+            "Zaengsi kadi kappui ram e,",
+            "Bam du khuan tho anah nunle",
+            "Mulou rio, pui kalummei.",
+            "",
+            "3. Bu le neihmik tingkum maan ni",
+            "Theipui taan guai taandat lak khe;",
+            "Apui apu nzian liangmei",
+            "Akhang taek makna kalum e.",
+            "",
+            "4. Kakhuan rui neila lou mei pui",
+            "Ai rui musuipui nung makge",
+            "Nang nahnun ta patlou sini",
+            "Kalumloumei muhlou ri o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 197",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 197. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pui zian lou mei khuan nzaengmei",
+        "titleRongmei": "Pui zian lou mei khuan nzaengmei"
+      }
+    }
+  }
+}

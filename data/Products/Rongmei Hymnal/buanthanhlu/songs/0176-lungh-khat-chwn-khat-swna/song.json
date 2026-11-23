@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-176",
+    "number": 176,
+    "source": {
+      "printedNumber": 176,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lungh khat Chwn khat Swna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          176 Lungh Khat Chwn Khat Swna",
+            "                              6.5.6.5.Ref. 6. 6. 6. 5",
+            "          Doh hei E",
+            "",
+            "          1. Lungh khat chwn khat swna,",
+            "             Khat ta 'zian ni;",
+            "             Aniw guay kariuna,",
+            "             Ravguangc ta 'zian ni.",
+            "",
+            "                      Aramsuan kaguayna,",
+            "                      Ravguangc rui kuaklou kumc,",
+            "                      Khat ramsuan guay ta,",
+            "                      Ai kuaklou bam ni.",
+            "",
+            "          2. Chwnsi zaengsi' ganv khou,",
+            "             Khat ta 'zian ni;",
+            "             Ravguangc rui 'zianmei kumc,",
+            "             Khat ta 'zian ni.",
+            "",
+            "          3. Nang ta zauczihmnei ta,",
+            "             Nang 'zian khangclou tio;",
+            "             Nzianmei riang ruina,",
+            "             Khat ta bang kho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lungh khat Chwn khat Swna"
+      }
+    }
+  }
+}

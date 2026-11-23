@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-134",
+    "number": 134,
+    "source": {
+      "printedNumber": 134,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai lung bammei paeng thang ram gaimei nai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai lung bammei paeng thang ram gaimei nai,",
+            "Khou tei gut khang nkhuan liat lak;",
+            "Nthanmei nun bampui ram e,",
+            "Ai hou nina nkhuan bam e.",
+            "",
+            "He! Taek maknga nzuan tat dikho,",
+            "Pou Jisu zan khou rui.",
+            "",
+            "2. Hei ramgai thang tei nzuan tat dikho,",
+            "Taek makna nzuan tat dikho;",
+            "Lunghkiang lou pui bam khang makge,",
+            "Poubaomei bam guang tangh maksan.",
+            "",
+            "3. Hei ram gaimei tei ai ningtaan makge,",
+            "Rih pingpui bam khou bamsini;",
+            "Tingkauh ram guang tangpui nungmu,",
+            "Neihla mei hei kimdat lak khe.",
+            "",
+            "4. He! Tingkao Bumaeng Thanmei guang datro",
+            "Lungh zinghmei tigaan lou datro;",
+            "Nang ram gaimei thang duangh lou o,",
+            "Tingsaeng mban thaipui ram khou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 134",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 134. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai lung bammei paeng thang ram gaimei nai",
+        "titleRongmei": "Ai lung bammei paeng thang ram gaimei nai"
+      }
+    }
+  }
+}

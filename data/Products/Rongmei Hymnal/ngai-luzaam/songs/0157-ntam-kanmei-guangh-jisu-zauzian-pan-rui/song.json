@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-157",
+    "number": 157,
+    "source": {
+      "printedNumber": 157,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ntam kanmei Guangh Jisu zauzian pan rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ntam kanmei Guangh Jisu zauzian pan rui,",
+            "Tao aniu neihlana ariu dat the,",
+            "khatna suna neihlana kariuna,",
+            "Lungning nthanna kata thuanku kho.",
+            "",
+            "Jisu rui zai kariu loupui zaeng rui,",
+            "Kazanh thanmei thuankuna neihla kho;",
+            "Meinun khou gaimei guai nai ntanh ngam mak,",
+            "Bumaeng Thanmei khouna nai ntang e.",
+            "",
+            "2. Tingkauh Gwangh hu khou ariu dat khang ning e,",
+            "Tingsaeng zaenggaimei tei lakhang ning e;",
+            "Pu le tingkao nthanmei nunta houni,",
+            "Aniu Gwangh daihmei Jisu zauzian rui.",
+            "",
+            "3. Kandih khou hei rianra na bam khuan sini,",
+            "Tingkauh thu neihlamei ladat puni;",
+            "Kathei laimei guai heimu rianra sini,",
+            "Tingkauh thang neihlamei ariu puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 157",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 157. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ntam kanmei Guangh Jisu zauzian pan rui",
+        "titleRongmei": "Ntam kanmei Guangh Jisu zauzian pan rui"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-120",
+    "number": 120,
+    "source": {
+      "printedNumber": 120,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kakwm Kaganv hei 'Naaguang the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          120 Kakwm Kaganv Hei 'Naa Guang the",
+            "                                8.7.8.7.Ref.9.9.9.9",
+            "",
+            "          1. Kakwm kaganv hei 'naa guang the;",
+            "             Ning zauc lo, 'zianmei guay le.",
+            "             'Tamv suang khang kaganv rui guang the,",
+            "             Guang dat lak khe panty hei.",
+            "",
+            "                     Heic kandic ntamvpui kandic hei,",
+            "                     Neih khat ganclou ducna tat pwni.",
+            "                     'Zianmei guay tat rey kanmei guay ta,",
+            "                     Lili puanghpui ramc khou khwan bam e.",
+            "",
+            "          2. Ning zauc lo, tuai nimei mwnpwang,",
+            "             Nang rup-ryan zianmei guay ta,",
+            "             \"Tamv suang khang kaganv rui guang the;",
+            "             Ning zauc lo, 'zianmei guay le.",
+            "",
+            "          3. 'Tamv khang kaganv rui guang pwni;",
+            "             Rup-ryan guay 'tamv kan di kho;",
+            "             Pui pu rup-ryan 'tamvpui ganv guang.",
+            "             Neihlaana 'tamv kan di kho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kakwm Kaganv hei 'Naaguang the"
+      }
+    }
+  }
+}

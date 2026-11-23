@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-105",
+    "number": 105,
+    "source": {
+      "printedNumber": 105,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Simei raengbang khou ai puai tat bam khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Simei raengbang khou ai puai tat bam khou",
+            "Hei khoutei neilamei chaeng phubam khou",
+            "Theimei duipaeng khou kalang khuan chuna",
+            "Pingmei rui alung khou nai e.",
+            "",
+            "He Jisu ata zai guanglou o",
+            "Poubaomei chaeng maan na",
+            "Maengtat bam khou.",
+            "",
+            "2. Pap taanmei suan mu theimei hei nade",
+            "Airui theimei duipaeng kaanpat ngam mak",
+            "Kumsini chaeng baimei mak Poubaomei",
+            "Kanloumeipu nangta ninge.",
+            "",
+            "3. Tingkum heisan nang ta ganlou sini",
+            "Kagan kathui nang zianmei zailou o",
+            "Kabam kathui nang nade he Raguang",
+            "Kandi khou thuanmei padik diu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 105",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 105. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Simei raengbang khou ai puai tat bam khou",
+        "titleRongmei": "Simei raengbang khou ai puai tat bam khou"
+      }
+    }
+  }
+}

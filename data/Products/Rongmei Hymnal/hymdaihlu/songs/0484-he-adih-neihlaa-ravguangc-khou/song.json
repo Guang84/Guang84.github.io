@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0484",
+    "number": 484,
+    "source": {
+      "printedNumber": 484,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.9.10.9. Ref.",
+      "tune": "SS 647"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He adih neihlaa Ravguangc khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He adih neihlaa, Ravguangc khou bammei,",
+            "Nganv makmei baancpwam khou zaeng’thaekcmei!",
+            "Adih suaihiam cho, adih",
+            "chuzaengh cho,",
+            "Nganv makmei baancpwam khou zaeng ’thaekcmei.",
+            "",
+            "Zaeng .. ’thaekc, zaeng .. ’thaekc,",
+            "Katuakcmei guay khou _>6",
+            "duak the;",
+            "Zaeng ..’thaekc, zaeng ..’thaekc,",
+            "Nganv makmei baancpwam",
+            "khou zaeng ’thaekc the!",
+            "",
+            "2 Guakgaumei maek khe, kauh",
+            "’zwanpui chaeng khou,",
+            "Nganv makmei baancpwam khou zaeng ’thaekcna!",
+            "Tingmik ’thuic achaeng gaanc khith khit ku the,",
+            "Nganv makmei baancpwam khou zaeng ’thaekcna!",
+            "",
+            "3 Thow ta ai ping ni,thow ta ai rouh ni?",
+            "Nganv makmei baancpwam khou zaeng ’thaekcna!",
+            "Chuzaenghna bam e, Gumeipu",
+            "pamv khou,",
+            "Nganv makmei baancpwam khou zaeng ’thaekcna!",
+            "",
+            "Rev. E.A. Hoffman"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Resting in the Everlasting Arms!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "10.9.10.9. Ref.",
+        "SS 647",
+        "ZAENGTHAEK",
+        "Resting in the Everlasting Arms!",
+        "source hymn 484",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 484."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He adih neihlaa Ravguangc khou",
+        "titleRongmei": "He adih neihlaa Ravguangc khou",
+        "titleEnglish": "Resting in the Everlasting Arms!"
+      }
+    }
+  }
+}

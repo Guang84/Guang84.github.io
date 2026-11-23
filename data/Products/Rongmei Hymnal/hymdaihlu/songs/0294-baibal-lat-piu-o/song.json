@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0294",
+    "number": 294,
+    "source": {
+      "printedNumber": 294,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "M.J.Smith",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10. Ref.",
+      "tune": "SS 263"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Baibal lat piu o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Baibal Lat piu o, khou hei bam tip bam o,",
+            "’Thukmei, ’thanmei, latdyn e, ntaamv rio;",
+            "Zip bammei bumaengc ta hei @<4 ’chyang thau e,",
+            "Theihmei tiiringhmei nzihmei Lat re.",
+            "",
+            "Baibal Lat piu o! Baibal Lat piu o!",
+            "Baibal zayloumei, aniu maibungc e!",
+            "",
+            "2 Baibal Lat piu o, mi hei lanvdaih kiu e;",
+            "Guloumei lev ringcsuangmei tiilou e;",
+            "Karamthukh saa ngachap khang baihmei maek ge;",
+            "Phu o, Kasuaihiam kaganv nai bam khou!",
+            "",
+            "3 Chaeng maanvmei nunc khang zayloumei maibungc e,",
+            "Bow nimei chabwan khang zayloumei e;",
+            "’Maan kan nimei paapc mei khang machunhmei e;",
+            "Gaandaih nunc khang builwang e, Baibal hei."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Cling to the Bible!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "11.10.11.10. Ref.",
+        "SS 263",
+        "M.J.Smith",
+        "Cling to the Bible!",
+        "source hymn 294",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 294."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Baibal lat piu o",
+        "titleRongmei": "Baibal lat piu o",
+        "titleEnglish": "Cling to the Bible!"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-032",
+    "number": 32,
+    "source": {
+      "printedNumber": 32,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "B",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.11.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih ringcmei duihriang hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih rynghmei duiriang hei lui tat lana,",
+            "Huthang namdaih gaimei Kanaan ram tei;",
+            "Akhang neihla mei pirun tei naguang the,",
+            "Kapma kandi ram khou hei bamsaeng lak khe.",
+            "",
+            "Tingsaeng lak khe kandi rianra mei guai,",
+            "Kau bampui khuan tei ai chulouna,",
+            "Guangh bampaeng khou nkhuan ngam makpui khuan rui,",
+            "Zianmei nun kaapmei tingsaeng lak khe tu e.",
+            "",
+            "2. Ai bampui ram duiriang hei saeng khuansini,",
+            "Zailoumei Pu gaanphiu ta zau lana;",
+            "Tingkao nthanpui ram tanglou puni the,",
+            "Khou tei nzianmei nun ntam dat lak khe.",
+            "",
+            "3. Nzuanni the ai tingsaeng gaipui ram tei,",
+            "Munpuang gaimei guai tei puangtuai makge;",
+            "Lauziu Na le tingkao munpuang ram tei,",
+            "He! Nangzei pan khou ruina ai guang tangni.",
+            "",
+            "4. Sa bammei ram gaimei khou guang tang pukhou,",
+            "Theithu maam kan nimei ta ning lak khe",
+            "Poubaomei ram tigaan loumei guai tei ni,",
+            "Tak makna tingsaeng zaeng gaanbam puni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 32",
+        "Khristian Luzaam PDF",
+        "Chord: B",
+        "Meta 3: 10.10.11.11."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 32. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 32,
+        "match": "title-match-0.92"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih ringcmei duihriang hei",
+        "titleRongmei": "Kandih ringcmei duihriang hei"
+      }
+    }
+  }
+}

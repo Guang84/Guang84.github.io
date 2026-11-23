@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0213",
+    "number": 213,
+    "source": {
+      "printedNumber": 213,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. W.O. Cushing",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "9/8",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 186"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He luanghbut khou rigaanvmeithiu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He luanghbut khou rigaanvmei thiu,",
+            "Jisu tingmik ’dauh o;",
+            "Zauc lo kachaekc mairam bwang 5^&",
+            "Duh thangc chuangc kauh bam the.",
+            "",
+            "Key the, Jisu key the,",
+            "Tingkauh lauthwan key the,",
+            "Key the, Jisu key the,",
+            "’Rianhloumei ganv ’naa the,",
+            "Key the, Jisu key the,",
+            "Thuakloumei guay thuanc diu,",
+            "Kariw ^&5 luangh tiikachan the;",
+            "Meic guay thuanc o, Guangh ta!",
+            "",
+            "2 Zipriimei phwamling ta ’chyang tho,",
+            "Thauna huayney kan diu;",
+            "Tingkauh Nowpouc key nuangc puni,",
+            "’Taw chaeng khou tat bam the.",
+            "",
+            "3 Meic guay thuanc o, Zion Guangc ta,",
+            "Muh nunc saa kanmei 5^&;",
+            "Baanch’ra thiu, Kata thuancku o,",
+            "Kachaekc ’rac guay dow o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "KEY THE JISU KEY THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "9/8",
+        "8.6.8.6. Ref.",
+        "SS 186",
+        "Rev. W.O. Cushing",
+        "KEY THE JISU KEY THE",
+        "Coming",
+        "source hymn 213",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 213."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He luanghbut khou rigaanvmeithiu",
+        "titleRongmei": "He luanghbut khou rigaanvmeithiu",
+        "titleEnglish": "KEY THE JISU KEY THE"
+      }
+    }
+  }
+}

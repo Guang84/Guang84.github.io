@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0627",
+    "number": 627,
+    "source": {
+      "printedNumber": 627,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "C.Austin Miles",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.12.10. Ref.",
+      "tune": "RS 466"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai kai tangc pwkhou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai kai tangc pwkhou kachaekc pyrun run ni,",
+            "Ai kai tangc pwkhou puatc ’ritmei loukey ni,",
+            "Ata phungc guangmeipu p’ry 5^& ai rac puni;",
+            "Chingkhiuhmei pwan piu ni, kai tangc pwkhou.",
+            "",
+            "Kai tangc.. pwkhou, kai tangc .. pwkhou,",
+            "Ryanra ryanriumei guay hei nai dat lak khe;",
+            "Kai tangc.. pwkhou, kai tangc.. pwkhou,",
+            "Ryanra ryanriumei guay hei nai dat lak khe.",
+            "",
+            "2 Ai kai tangc pwkhou zinghmei guay nai lak khe,",
+            "Ai kai tangc pw khou gaanhmei kiu how puni,",
+            "Gaanhmei kauh thangc keyna achaeng khou gaanc puni,",
+            "Zaylou puni ata, kai tangh mak saanv.",
+            "",
+            "3 Ai kai tangc pwkhou Poubauhmei zaw how ni,",
+            "Ai kai tangc pwkhou zauzian lu suan dat ni;",
+            "Kahu khou ai dingna Kata bwanna bam ni;",
+            "Taek makna lungc ’chamc ni, kai tangc pwkhou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "When I Get Home",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "11.11.12.10. Ref.",
+        "RS 466",
+        "C.Austin Miles",
+        "KAI TANGC PW KHOU",
+        "When I Get Home",
+        "source hymn 627",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 627."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai kai tangc pwkhou",
+        "titleRongmei": "Ai kai tangc pwkhou",
+        "titleEnglish": "When I Get Home"
+      }
+    }
+  }
+}

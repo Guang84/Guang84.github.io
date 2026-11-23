@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-176",
+    "number": 176,
+    "source": {
+      "printedNumber": 176,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandi ruprian guai kariuna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandi ruprian guai kariuna,",
+            "Adi gaicho,",
+            "Aniu neila nchammei hei",
+            "Tuaidat nuang e.",
+            "",
+            "Alung makna achun suna,",
+            "Zianmei nunta ntam sini,",
+            "Kagan khat khou Khrista pan rui",
+            "Ariu datni.",
+            "",
+            "2. Laokhuan tinggaan patmei kumna,",
+            "Neila sini",
+            "Neikhat sini tingzing makna,",
+            "Tamdat nuang e.",
+            "",
+            "3. Kandi ruprian guai kariuna,",
+            "Tu-zaang chammei,",
+            "Neilamei hei munpuang kumna,",
+            "Tuaidat nuang e.",
+            "",
+            "4. Kandi ruprian guai ntamna,",
+            "Zaengsi rikho,",
+            "Ariu dat khang tei machunna,",
+            "Tam kan dikho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 176",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 176. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandi ruprian guai kariuna",
+        "titleRongmei": "Kandi ruprian guai kariuna"
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0226",
+    "number": 226,
+    "source": {
+      "printedNumber": 226,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Robert II of France",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "6.6.4.6.6.6.4.",
+      "tune": "SS 196"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guang o,’ Thanmei Bumaengc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guang o, ’Thanmei Bumaengc,",
+            "’Niw ruc khou gaanclou o,",
+            "Zianmei riw ({0;",
+            "Ravguangc tuang gaymei khou",
+            "’Thukmei kaipat tii o,",
+            "’Niw lung tiineihlaa o,",
+            "’Seic hei guang o.",
+            "",
+            "2 Guanglou o, pam swna,",
+            "Zian liangmei ginpu kumc,",
+            "Tiilwmlou o,",
+            "Lakmei khang zaengswmei,",
+            "Neih suc pwkhou ramhswng,",
+            "Katuakc khou chuzaenghmei,",
+            "Nang tiilou o.",
+            "",
+            "3 Tii ’maan o, ’liauhmei chwn,",
+            "Laa ganc o, lungpuam guay,",
+            "Tiigaylou o;",
+            "Sw bak go, tun tanhmei,",
+            "Tiilwm o, nchumhmei,",
+            "’Niw kaamv makavlou o,",
+            "Kai ’zwan bam khou.",
+            "",
+            "4 Guangna suaihiamlou o,",
+            "Khrista khou lwmmei guay",
+            "Kata thuanc diu;",
+            "Kheiliak gayna lungh khang,",
+            "Rih ngam khang ’khavlou o;",
+            "Hymdaihmei Kaipouc lev",
+            "Neihlaa suang khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Come, Holy Ghost, in Love",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "6.6.4.6.6.6.4.",
+        "SS 196",
+        "Robert II of France",
+        "Come, Holy Ghost, in Love",
+        "source hymn 226",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 226."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guang o,’ Thanmei Bumaengc",
+        "titleRongmei": "Guang o,’ Thanmei Bumaengc",
+        "titleEnglish": "Come, Holy Ghost, in Love"
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-093",
+    "number": 93,
+    "source": {
+      "printedNumber": 93,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.9.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kallouna hikuak khat ku kan the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kanlouna hiikuak khat ku kan the ,",
+            "Jisu ringhmei hikuak rui zai lou;",
+            "Rih kapum ma ta ngam tang lana",
+            "Zailou ni tingkao kandih khou tei.",
+            "",
+            "Gaipui ram khou gut ni;",
+            "Gaipui ram khou gut ni, 2",
+            "Hikuak khou guang ku o",
+            "Pu lev Chai .",
+            "",
+            "2. Heikandi sipui ram pat lou na ,",
+            "Zion ram gaimei na sulatho;",
+            "Khou tei nang nuan guay man ngam puni",
+            "Nang rianra rianriw guay ni maan ni.",
+            "",
+            "3. Kaman mak na zaikan lou puni",
+            "Nang ta zau zian lou pui zaeng khou rui ;",
+            "Tabui khang nang rui guang nian tu cho,",
+            "Guangc latho zian lou pui ding khou hei.",
+            "",
+            "4. Kanpat pui ganc hei tatrii e thei ,",
+            "Nga lan guang dat lak khe kao sini",
+            "Kan patmei laamak mei guay tei mu,",
+            "Kap puni dui dai paeng hei khou tei.",
+            "",
+            "5. Jisu rui nang ta zian na kao the,",
+            "Hii khou guang ku o nuan phung mei guay ;",
+            "Mbaan thai pui ram guang tang puni,",
+            "Pou Ravguangc zianmei khou lung puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 93",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 9.9.9.9."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 93. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 93,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kallouna hikuak khat ku kan the",
+        "titleRongmei": "Kallouna hikuak khat ku kan the"
+      }
+    }
+  }
+}

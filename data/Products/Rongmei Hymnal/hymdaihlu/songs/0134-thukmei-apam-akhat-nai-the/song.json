@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0134",
+    "number": 134,
+    "source": {
+      "printedNumber": 134,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. James G.Small",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7. D.",
+      "tune": "SS 871"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Thukmei aPam akhat nai the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Thukmei aPam akhat nai the!",
+            "Kamei ata zian rey e;",
+            "Zianpui riang !}2 ata zay e,",
+            "Ata Kakhou bangclou e;",
+            "Alung khou kasiatc ’tip bam the,",
+            "Hei riang hei taek dat lak khe;",
+            "Kamei akhang, ai Kakhang e,",
+            "Tingsaengzaeng, tingsaengzaengna!",
+            "",
+            "2 ’Thukmei aPam akhat nai the!",
+            "Ata gu khang theiclou e;",
+            "Ringhmei raana hamh e tiimei,",
+            "Kapumc kahak tiipat the,",
+            "Atuang, tw khang ramh khat sic maek,",
+            "Tiimeipu tuang raana de;",
+            "Alung pumtan, apanty hei",
+            "Tingsaengzaeng khang Katuang e.",
+            "",
+            "3 ’Thukmei aPam akhat nai the!",
+            "Ngamv guay Kakhou tiilou the,",
+            "Kauh chaeng khou ata",
+            "gaeklou khang,",
+            "Khou2^< gayna guang tangh khang,",
+            "Tingsaeng hymdaih riw ai how the,",
+            "Aramlum tiitanclou the;",
+            "Hei zaeng ai tanc ni, rih ’dow ni,",
+            "Hei tangv tingsaeng zaengthaek ni.",
+            "",
+            "4 ’Thukmei aPam akhat nai the!",
+            "Zianthay, niamhgaymeipu e;",
+            "Ningting chaeng dincloumei pu e,",
+            "Ngammei gaekloumei pu e,",
+            "Ata zianloumei pu khou !}2",
+            "Sw ’tamv khang thow ngamv nai cho?",
+            "Ringhmei, theihmei, dih lev t’ruaih !}2",
+            "Ngam lak! ai Katuang di the"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I’ve Found a Friend!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "3/4",
+        "8.7.8.7. D.",
+        "SS 871",
+        "Rev. James G.Small",
+        "I’ve Found a Friend!",
+        "source hymn 134",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 134."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Thukmei aPam akhat nai the",
+        "titleRongmei": "’Thukmei aPam akhat nai the",
+        "titleEnglish": "I’ve Found a Friend!"
+      }
+    }
+  }
+}

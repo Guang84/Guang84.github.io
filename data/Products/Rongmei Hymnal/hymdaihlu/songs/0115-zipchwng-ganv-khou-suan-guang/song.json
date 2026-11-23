@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0115",
+    "number": 115,
+    "source": {
+      "printedNumber": 115,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Edmund H.Sears",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8.6. D.",
+      "tune": "CSH 373"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zipchwng ganv khou suan guang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zipchwng ganv khou suan guang khwan e,",
+            "Hymdaihmei lu khwan 3)^;",
+            "Baanch’ra nunc )}3 kandih ruc khou",
+            "Kachaekc ’rac dow khwan e:",
+            "Kandih khou chuzaenghmei nai diu,",
+            "Gaymei lung padik diu;",
+            "Kandih hei rimh rim bam khwan e,",
+            "Baanch’ra nunc lu suanc khou.",
+            "",
+            "2 ’Taw nic chuzaenghmei sw ’lamvna",
+            "Kauh baanch’ra nunc key e,",
+            "Tingkauh lu 3)^ kagaengv bam e;",
+            "Lakmei kandih ruc khou,",
+            "Kaniw sw 3)^ kalaepc bam e,",
+            "Ryanra nzaengc ruc khou,",
+            "Kandih ruc khou lu suan bam e,",
+            "Tingkauh baanch’ra nunc )}3.",
+            "",
+            "3 Ryanra lakmei kandih mei thiu,",
+            "Puatrith phungc bam mei thiu,",
+            "Chaengngaengv sii khou kaamcku lakna",
+            "Nzaekcna bam mei thiu,",
+            "Zauc lo, neihlaa zaenggaypui ganv",
+            "Katumcna guang pw the;",
+            "Chaeng daeng khou dungc keyn ’thaekcna",
+            "Baanch’ra lu 3)^ ’king o.",
+            "",
+            "4 Zauc lo, tingmik 3)^ guang pw the,",
+            "Muhzwng )}3 saamei 3)^,",
+            "Kachaekc zuk kiu phungc guang pw the,",
+            "",
+            "Tat bammei tingkwm )}3;",
+            "Chuzaenghmei )}3 kandih lik ni,",
+            "Gaymei )}3 padik ni,",
+            "Khou kiu kandih )}3 suan ’daw ni:",
+            "Baanch’ra ’taw suanmei lu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "It Come Upon the Midnight Clear",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "6/8",
+        "8.6.8.6. D.",
+        "CSH 373",
+        "Edmund H.Sears",
+        "It Come Upon the Midnight Clear",
+        "source hymn 115",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 115."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zipchwng ganv khou suan guang",
+        "titleRongmei": "Zipchwng ganv khou suan guang",
+        "titleEnglish": "It Come Upon the Midnight Clear"
+      }
+    }
+  }
+}

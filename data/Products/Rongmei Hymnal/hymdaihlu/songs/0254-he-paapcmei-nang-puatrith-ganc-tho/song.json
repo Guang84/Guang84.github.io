@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0254",
+    "number": 254,
+    "source": {
+      "printedNumber": 254,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J.Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.5.8.5. Ref.",
+      "tune": "SS 1196"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He paapcmei nang puatrith ganc tho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He paapc mei, nang puatrith ganc tho,",
+            "Lungh mbangh ri tho,",
+            "Dih ramgai mang khou #<8 thauna,",
+            "Nang lung laanc pat tho.",
+            "",
+            "Panty maibungc chuangc bam khou hei,",
+            "Ravguangc #<8 ’khwanna bam khou hei,",
+            "Kazauzian pamv khou hanc guang tho,",
+            "Ruan tat dat ri tho.",
+            "",
+            "2 Jisu nzaenghna kaw bam khou,",
+            "Lungh mbangh ri tho.",
+            "Zianna kaw bam khou kinglou tho,",
+            "Nang lung laanc pat tho.",
+            "",
+            "3 Gaychamv #<8 ’zaenghna kaw bam khou,",
+            "Lung mbangh ri tho,",
+            "’Thuihmei ringcbamv hei laalou tho,",
+            "Nang lung laanc pat tho.",
+            "",
+            "4 Kim dat zat lakmei neilaa khang,",
+            "Lungh mbangh ri tho,",
+            "Taek makmei chuzaenghmei laa khang,",
+            "Nang lung laanc pat tho."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Close Thy He art No More",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "8.5.8.5. Ref.",
+        "SS 1196",
+        "Fanny J.Crosby",
+        "Lungh mbang ritho",
+        "Panty maibungc chuangc bam khou",
+        "Close Thy He art No More",
+        "source hymn 254",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 254."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He paapcmei nang puatrith ganc tho",
+        "titleRongmei": "He paapcmei nang puatrith ganc tho",
+        "titleEnglish": "Close Thy He art No More"
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0877",
+    "number": 877,
+    "source": {
+      "printedNumber": 877,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "B",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jordan dui kanpat puinung",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Jordan dui kanpat puinung kiu,",
+            "Gaichuimei kaidai khou tei;",
+            "Thuakloumei nun #-5 thuan bammei,",
+            "Kaniu lu tei ai chuni.",
+            "",
+            "Chorus:",
+            "He poubaumei jei pan #-5 hei ram gaitei,",
+            "Kasiam lou the aniu kaguaina khang;",
+            "Anuan kaguaina hei kuaklou ngam kanthe,",
+            "Tithan lou ngam the kajei hang pan #-5.",
+            "",
+            "2. Poubaumei bampui ram gaimei,",
+            "Ai #-5 nkhuan liak lak khe;",
+            "Ringmei thingbang lim gaimei khou,",
+            "Bui nung #-5 jang suni cho?",
+            "",
+            "3. Tingkauh Jerusalem than gai,",
+            "Karam gai sangam mak ge;",
+            "Khou tei Jisu #-5 khuan bamme,",
+            "Namthan gaimei khou gut khang.",
+            "",
+            "4. Kanloumei pu dang tang pukhou,",
+            "Lung rianramei nai lak khe;",
+            "Pap puat nritmei phung mei guai,",
+            "Hei khou tei lou kei ni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "B",
+        "8.7.8.7.",
+        "Jordan dui kanpat puinung",
+        "source hymn 147",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 147."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jordan dui kanpat puinung",
+        "titleRongmei": "Jordan dui kanpat puinung"
+      }
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0273",
+    "number": 273,
+    "source": {
+      "printedNumber": 273,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "L.E. Akerman",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8. D.",
+      "tune": "SS 431"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KANUY NA DE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kanuy na de. Bumaengh lungngiu,",
+            "’Maan kanmei ganv khang ta;",
+            "Paapc khou lungcna, lunghngiuh",
+            "makmei,",
+            "Latryan swna ngaek ngam makmei,",
+            "Kaguakcmei panty ta!",
+            "Kanuy na de, kanuy na de!",
+            "",
+            "2 Kanuy na de, khwam kaduai mak,",
+            "Minc bammei thai guay ta,",
+            "Kathw ’roulou, napriak tay tu,",
+            "Taanv swmei phaan nsa lat rac,",
+            "Ryanramei thai tay tu,",
+            "Kanuy na de, kanuy na de!",
+            "",
+            "3 Kanuy na de, lunghngiuc bam e,",
+            "Nkamh dat ngam mak khe,",
+            "’Niu taancloumei zauc hanc datna,",
+            "Sw ’maan kanmei ganv guay chakna,",
+            "’Khamh khou ’niu thay pat the;",
+            "Kanuy na de, kanuy na de!",
+            "",
+            "4 O Kaipouc ta ’kumhna ’riw ni,",
+            "Kanghmei nuy na phungcna;",
+            "Pingmei latzan bamvpaeng hu khou,",
+            "Kaipouc phaypav khou loukey ni,",
+            "Kachaekc napchu phaan khang;",
+            "Kanuy na de, kanuy na de!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "6/8",
+        "8.6.8. D.",
+        "SS 431",
+        "L.E. Akerman",
+        "Nothing But Leaves!",
+        "source hymn 273",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 273."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KANUY NA DE",
+        "titleRongmei": "KANUY NA DE"
+      }
+    }
+  }
+}

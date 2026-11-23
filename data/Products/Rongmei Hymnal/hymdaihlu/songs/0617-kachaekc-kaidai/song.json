@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0617",
+    "number": 617,
+    "source": {
+      "printedNumber": 617,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J.Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.9.12.9. Ref.",
+      "tune": "SS 819"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KACHAEKC KAIDAI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Theihmei ’zaengc paengc thangc 5#^ kaidai akhat nai e,",
+            "Karamgai 5#^ saa tangc thuy mak ge;",
+            "Neihmik nic key dat mak,thingnwang nic kamv dat mak;",
+            "Gaychuymei kachaekc kaidai",
+            "khou 5#^.",
+            "",
+            "Neihmik nic .. key dat mak,",
+            "Thingnwang nic kamv dat mak,",
+            "Lwmloumei guay mik #^5",
+            "Kaipouc ta how puni;",
+            "Gaychuymei kachaekc kaidai khou 5#^.",
+            "",
+            "2 Khou 5#^ ’niu zianmei pu, Guangh, Guloumei pu ta",
+            "Lwmloumei nunc #^5 how puni the;",
+            "’Thanmei nunc gaanchuangcna",
+            "kumc tingsaeng gaanc bam ni;",
+            "Gaychuymei kachaekc kaidai khou 5#^.",
+            "",
+            "3 Kros daeng khou ’niu #^5 phungc guangloumei bumaengc guay,",
+            "Khuam guangloumei lauziu guay 5#^ #^5",
+            "Kachaekc dandi swna ’niu pyrun karuh ni,",
+            "Gaychuymei kachaekc kaidai khou 5#^."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The City of Gold",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "12.9.12.9. Ref.",
+        "SS 819",
+        "Fanny J.Crosby",
+        "Theihmei ’zaengc paengc thangc",
+        "The City of Gold",
+        "source hymn 617",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 617."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KACHAEKC KAIDAI",
+        "titleRongmei": "KACHAEKC KAIDAI",
+        "titleEnglish": "The City of Gold"
+      }
+    }
+  }
+}

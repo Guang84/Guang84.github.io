@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-101",
+    "number": 101,
+    "source": {
+      "printedNumber": 101,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Suaihiam tilou khang tingkao thu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Suaihiam tilou khang tingkao thu latzan sulou.",
+            "Eden kaikham lan lou dat the,",
+            "Gut ro zion ting gaan pat the.",
+            "",
+            "Thuan no thuan no kanloumei pu",
+            "Lauziu nah guang ta,",
+            "Thuan no halleluijah Amen",
+            "Haleluijah kalloumei puh guang dat the.",
+            "",
+            "2. Zingbang lung geimei rui",
+            "Kandih tizaeng silou",
+            "Eden khou puan mei rui thuan ne",
+            "Buitei cho kalan gaanchuang nga.",
+            "",
+            "3. Guangh guayna guang rui",
+            "Zion thu latzan sulou,",
+            "Meinun rui nulou ni mak ge,",
+            "Nzian loumei hei nthuk ge.",
+            "",
+            "4. Tingkao than mei nun rui",
+            "Thuan kupui lu suan e",
+            "Duipui ram kiang kabam thui khou",
+            "Zion likdiw Haleluijah."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 101",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 101. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Suaihiam tilou khang tingkao thu",
+        "titleRongmei": "Suaihiam tilou khang tingkao thu"
+      }
+    }
+  }
+}

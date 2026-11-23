@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-258",
+    "number": 258,
+    "source": {
+      "printedNumber": 258,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc Taanv Taanh khang Maansei Rau e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          258 Ravguangc Taanv Taanh khang",
+            "                       9.9.8.11. Ref. 10. 9. 8.8. 11",
+            "          Doh hei A",
+            "",
+            "          1. Ravguangc taanv taanh khang maansei rau e,",
+            "             Ravguangc taanv taanc nimei maekna cho?",
+            "             Kanganv maekmei maikwam khoutei,",
+            "             Kasing geihmei bumaengc 'maan ngam pwni the.",
+            "",
+            "                  He Khrista khangrui chabwan nunc guay thiu,",
+            "                  Phuc ngam makmei 'maan nimei guay ta,",
+            "                  'Maan nimei ta phu mak gethei,",
+            "                  Ravguangc hu khou tabui daw ni;",
+            "                  Kaniw zei manv tei aniw khou ney pwni.",
+            "",
+            "          2. Ravguangc taanv taanh khang maansei rau e,",
+            "             Taanclou diu khang maansei ta phu e;",
+            "             Taanclou nimei meic maekna cho?",
+            "             Aniw Racguangc hei lungcsimei dina cho?",
+            "",
+            "          3. Ravguangc taanv taanh khang maansei rau e;",
+            "             Guangh Jisu rui 'niw ta kaw bam e;",
+            "             Kandih chwn guay 'maan nimei ta,",
+            "             Ganclou ducna Ravguangc khang taanv taanc di kho.",
+            "",
+            "          4. Ravguangc taanv taanclou diu khang huay e:",
+            "             'Niw lanv guay tabui khang dina cho?",
+            "             Guanghdic khang rui tiipat di kho,",
+            "             Aniw khou gaymei naimei guay tiipat kho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc Taanv Taanh khang Maansei Rau e"
+      }
+    }
+  }
+}

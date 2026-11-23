@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0855",
+    "number": 855,
+    "source": {
+      "printedNumber": 855,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "10.14.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kalvari ching rukhou tei ning jaolo",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kalvari ching rukhou tei ning jaolo,",
+            "Sao pirun tei runlana kaniu sinnuimei putei;",
+            "Ning jaolo khristianmei guai.",
+            "",
+            "Chorus:",
+            "He, he poubaumei njangmeipu,",
+            "Aniu ta njian lou khou #!7;",
+            "Rianra rianriu khang lana,",
+            "Kamik dui tei kei lana aniu khang #!7 thei lou.",
+            "",
+            "2. Changdai khou tatmei nun guai tei #!7na,",
+            "Adi sinnui kan tucho kaniu sinnuimei puta;",
+            "Ning jaolo khristianmei guai.",
+            "",
+            "3. Poubaumei kross rukhou tei thang bam khou,",
+            "Dui tari the tutina jaukhiang dui laguang lana;",
+            "Poubaumei ta tijang the.",
+            "",
+            "4. Poubaumei kross rukhou bampui dingkhou,",
+            "Meinun #!7 bui laguanga poubaumeita biu kanthe;",
+            "Thei lou the aniu khang #!7.",
+            "",
+            "5. Poubaumei keidat puinung khou kiu thu,",
+            "Mei guai ta jaiguanga poubaumei hukhou dingni;",
+            "Latjan suni kapum ta."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "10.14.7.",
+        "Kalvari ching rukhou tei ning jaolo",
+        "source hymn 125",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 125."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kalvari ching rukhou tei ning jaolo",
+        "titleRongmei": "Kalvari ching rukhou tei ning jaolo"
+      }
+    }
+  }
+}

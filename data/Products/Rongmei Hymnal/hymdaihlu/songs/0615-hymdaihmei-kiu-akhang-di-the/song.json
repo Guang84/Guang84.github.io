@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0615",
+    "number": 615,
+    "source": {
+      "printedNumber": 615,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Chas H.Gabriel",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/4",
+      "meter": "10.10.10.10. Ref.",
+      "tune": "SS 949"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HYMDAIHMEI KIU AKHANG DI THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Taanc-ruaihmei, nchanvmei guay nganv pwkhou,",
+            "Tingkauh khou gayna ai guang bam pwkhou,",
+            "Ai zianmei Kaipouc daeng khou bam pwkhou,",
+            "Panty lungsing hymdaihmei sw puni.",
+            "",
+            "Hei kiu adih .. hymdaic puni!",
+            "Hymdaihmei kiu .. akhang di the!",
+            "Zauzian paan #^7 Kazawpaanv how pwkhou,",
+            "Hei kiu adihkamv hymdaic puni cho!",
+            "",
+            "2 Kanganv nai makmei Kazauzian paan #^7,",
+            "Ata tingkauh khou tiilungclou pwkhou,",
+            "Kazaw kahak ta 7}$ how pwkhou kiu,",
+            "Panty lungsing hymdaihmei sw puni.",
+            "",
+            "3 Zianmei ruprian guay khou7}$ bam puni,",
+            "Neihlaamei duiriang kumc luangc bam puni;",
+            "Guloumei pu nuic rimh rimlou pwkhou,",
+            "Panty lungsing hymdaihmei sw puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Glory for Me!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/4",
+        "10.10.10.10. Ref.",
+        "SS 949",
+        "Chas H.Gabriel",
+        "Taancruaihmei nchanvmei guay",
+        "Glory for Me!",
+        "source hymn 615",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 615."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HYMDAIHMEI KIU AKHANG DI THE",
+        "titleRongmei": "HYMDAIHMEI KIU AKHANG DI THE",
+        "titleEnglish": "Glory for Me!"
+      }
+    }
+  }
+}

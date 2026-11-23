@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0176",
+    "number": 176,
+    "source": {
+      "printedNumber": 176,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Isaac Watts",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.6.8.6.",
+      "tune": "SSSH 29"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ch’ryn e! Pou Jisu zei keymei!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ch’ryn e! Pou Jisu zei keymei!",
+            "Daic Liangmei Guangc theihmei!",
+            "Ramhrik kumhmei ai kumhmei khang,",
+            "Kazei katpatmei hei!",
+            "",
+            "2. ’Khuaimei ai taanhmei zaeng khang cho,",
+            "Kros khou ’khaengvloumei 4@<?",
+            "Saa ngam makmei ch’rynpui zauzian,",
+            "Akhang taanclou pwmei!",
+            "",
+            "3 Neih @{4 Kariw nkamh biuc e,",
+            "Kahym mbangh biuc e,",
+            "Maansei paap zaeng khang @{4 Khrista,",
+            "Damcloumeipu theih nungc.",
+            "",
+            "4 Ai nic zakzaw nkamh biuc e,",
+            "Kazauzian kros lyan khou;",
+            "Thuanckuna alung kabiuna,",
+            "Amikdui key biuc e.",
+            "",
+            "5 Zauzian pow hei khangc ngam thuy lak,",
+            "Lungh kabiumei na @{4;",
+            "Pou, apumc kahak tiipat the,",
+            "Mi hei angamv kiu the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Alas! and Did My Saviour Bleed?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "8.6.8.6.",
+        "SSSH 29",
+        "Isaac Watts",
+        "Alas! and Did My Saviour Bleed?",
+        "source hymn 176",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 176."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ch’ryn e! Pou Jisu zei keymei!",
+        "titleRongmei": "Ch’ryn e! Pou Jisu zei keymei!",
+        "titleEnglish": "Alas! and Did My Saviour Bleed?"
+      }
+    }
+  }
+}

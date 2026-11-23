@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0849",
+    "number": 849,
+    "source": {
+      "printedNumber": 849,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "12.11.10.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He jai guang lou puni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He jai guang lou puni kanloumeipu ram khou,",
+            "Tatri kanmei guaita ni kau han datro;",
+            "Kagan thui jianmei nun ta thuan ku e,",
+            "Njianmei nun guai guang kariu o.",
+            "",
+            "Chorus:",
+            "He jianmei nun le guanga thuan no,",
+            "Chunsi jangsi pui tuang kan khuansini;",
+            "Kauh kanan ram tei juan ni the,",
+            "He Jisu le bam cham ni the.",
+            "",
+            "2. He bumang nthanmei #@8na nduang lou o,",
+            "Jangsimei #@8 muang jingmei kumma jing e;",
+            "Hei kandih khou jianmei nun tammei hei,",
+            "Njianmei nun bansin kariu ni.",
+            "",
+            "3. He champan thiu ntammei gan hei naguang the,",
+            "He jaipat datro tingsang bam cham khang tei;",
+            "Ata jai pat lou o jianmei nun le,",
+            "He ntammei gan hei du khuan no.",
+            "",
+            "4. He njianmei nun ata kanglou bam khou #@8,",
+            "Tat dukan the ai bampui ram gaimei tei;",
+            "Pat lou tho jianmei nun kandih ram khou,",
+            "Guang thuan pui ram khou #@8 riu dat ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "12.11.10.10.",
+        "He jai guang lou puni",
+        "source hymn 119",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 119."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He jai guang lou puni",
+        "titleRongmei": "He jai guang lou puni"
+      }
+    }
+  }
+}

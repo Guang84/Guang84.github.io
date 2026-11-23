@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-013",
+    "number": 13,
+    "source": {
+      "printedNumber": 13,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aniw Neihlaamei Panty hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          13     Aniw Neihlaamei Panty Hei",
+            "                         8.8.8.6 Ref.8.8.8.8.8",
+            "",
+            "          Doh hei Eb",
+            "",
+            "          1.   Aniw neihlaamei panty hei,",
+            "               Tingmik kathuih tatna bam e.",
+            "               Aniw panty hei luai pwkhou,",
+            "               Tingkauh kai khou tat ni.",
+            "                 Chamdaanv la tho, chamdaanv makmei,",
+            "                 Tingsaengc lak khe Jisu guang khang.",
+            "                 Laalou la tho kaganv gay khou,",
+            "                 Ntaw Khrista ta laalou tho. (2)",
+            "",
+            "          2.   Zianloumei ganv hei luai pwkhou,",
+            "               Khaengv thaymei ganv hei luai pwkhou,",
+            "               Nang ningngam makna bam pwni,",
+            "               Kaikhamv mbangh pwkhou.",
+            "          3.   Tingkauh kaikhamv laanc bam khouhei,",
+            "               Guang la tho nang bumaengc ringh khang.",
+            "               Nyan lamc e tingsaengc la ri tho;",
+            "               Kaganv maek pwni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aniw Neihlaamei Panty hei"
+      }
+    }
+  }
+}

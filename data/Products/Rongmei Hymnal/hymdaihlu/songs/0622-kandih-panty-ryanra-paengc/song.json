@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0622",
+    "number": 622,
+    "source": {
+      "printedNumber": 622,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J.Crosby.",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.4.9.6. Ref.",
+      "tune": "SS 971"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih panty ryanra paengc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kandih panty ryanra paengc duh thangc",
+            "Kauh kaidai nai!",
+            "Neihlaa suangpui riw ({0 gaanc bam e,",
+            "Kalaanv kandic khou 0({.",
+            "",
+            "Khou0({ lungh ryanra,’tamvmei,",
+            "Mikdui keymei maek khe!",
+            "Duiriang paengc thangc ariw nuangc puni,",
+            "Duakpui kai tangc pwkhou!",
+            "",
+            "2 Kamuatcmei duiluat paengc duh thangc 0({",
+            "Lwmna phaan e!",
+            "Zianmei ({0 kaidai chamv dinclou e;",
+            "Rigwnmei Kalu suan!",
+            "",
+            "3 Zinghmei nzaengbaek 0({ kaan kan the",
+            "Zianmei nunc 0({;",
+            "Kaniw ta ’riw puni tingkauh khou",
+            "Guang kaduaipui nungc kiu!",
+            "",
+            "4 Adih neihlaapui lauthwan ni cho,",
+            "Hymdaih nungc kiu!",
+            "Ryanra-zaengsii mikdui kathuic 0({",
+            "Jisu ({0 roulou ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Home-Land Shore",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "9.4.9.6. Ref.",
+        "SS 971",
+        "Fanny J.Crosby.",
+        "Khou tei lungh ryanra ’tamvmei",
+        "The Home-Land Shore",
+        "source hymn 622",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 622."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih panty ryanra paengc",
+        "titleRongmei": "Kandih panty ryanra paengc",
+        "titleEnglish": "The Home-Land Shore"
+      }
+    }
+  }
+}

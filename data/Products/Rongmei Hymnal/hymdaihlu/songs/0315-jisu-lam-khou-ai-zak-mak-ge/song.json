@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0315",
+    "number": 315,
+    "source": {
+      "printedNumber": 315,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Isaac Watts",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 883"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu lam khou ai zak mak ge",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu lam khou ai zak mak ge,",
+            "Laalou khang, biak liangh khang;",
+            "Kalat chingkhiuhmei hei piu khang,",
+            "Hymdaih kros hei laa khang.",
+            "",
+            "Kros khou 1<:! kros khou 1<:!",
+            "Gaanhmei ta ai how the,",
+            "Alung puat ’ritmei guay 1<: ’maan kan the;",
+            "Lwmmei paan khou 1<: amik how dat the,",
+            "’Taw ai tingmik ’thuic neihlaa bam e.",
+            "",
+            "2 Jisu aRavguangc zanc thay e,",
+            "Kazanc khou ai lwm e;",
+            "Ata tiizak ni tu hamh e",
+            "Amachunc tii’maan lak.",
+            "",
+            "3 Kaguangc bamvpaeng ntipmei kumc",
+            "Kalatryan hei ’tip be;",
+            "Kakhou ai tiigutloumei 1<:",
+            "Latzan nganv gaeklou ni.",
+            "",
+            "4 Luih makmei azanc laalouna",
+            "KaPu hu khou lyan ni;",
+            "Jerusalem Kathanc khou kiu",
+            "Akhang bamv tii puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "At the Cross!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 883",
+        "Isaac Watts",
+        "KROS KHOU TEI",
+        "At the Cross!",
+        "source hymn 315",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 315."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu lam khou ai zak mak ge",
+        "titleRongmei": "Jisu lam khou ai zak mak ge",
+        "titleEnglish": "At the Cross!"
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0362",
+    "number": 362,
+    "source": {
+      "printedNumber": 362,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "F.W. Fober",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10. Ref.",
+      "tune": "SS 231"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’King o ! he abumaengc!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 King o! he abumaengc! kauh baanch’ra nunc lu,",
+            "Dih lev duipui khou kagaengv lik bam e;",
+            "Kaniw lu #<8 dinhmei latchamv adih gay,",
+            "Paapc nai dat lakmei panty thanh chamv e.",
+            "",
+            "He baanch’rathiu, biang piumei swna suan o!",
+            "Tingkauh lu chyam 8}@ ’niw khou suanlou o,",
+            "Kapmei zingbangc neihlaa lauthwan guanh mak saanv,",
+            "Ryanramei hei neihlaamei sw mak saanv.",
+            "",
+            "2 Duh thangc tingzyn kaeng khwan chu guangmei kumcna",
+            "Jisu khwan #<8 chyng, zaengc duipui lik ge;",
+            "Lakmei bumaengc ching ching #<8 ’zwanna guang e;",
+            "He Jisu, Nang daeng khou zay guanglou o.",
+            "",
+            "3 “Guang o, lakmei bumaengc!” Jisu kaw bam e,",
+            "Mi lu hei ’niu kingna hu thangc gut kho;",
+            "Zinghmei bamv khou lu khwan hei kagaengv bam e,",
+            "Gaychamv lu #<8 ’niu ta kai thangc zaylou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Hark! Hark! My Soul!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "11.10.11.10. Ref.",
+        "SS 231",
+        "F.W. Fober",
+        "Hark! Hark! My Soul!",
+        "source hymn 362",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 362."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’King o ! he abumaengc!",
+        "titleRongmei": "’King o ! he abumaengc!",
+        "titleEnglish": "Hark! Hark! My Soul!"
+      }
+    }
+  }
+}

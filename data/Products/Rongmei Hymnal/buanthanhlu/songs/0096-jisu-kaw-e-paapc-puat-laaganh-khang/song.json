@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-096",
+    "number": 96,
+    "source": {
+      "printedNumber": 96,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu Kaw e Paapc Puat Laaganh khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          96 Jisu Kaw e Paapc Puat Laaganh khang",
+            "                                 9.9.9. Ref. 10.9. 9",
+            "          Doh hei E",
+            "",
+            "          1. Jisu kaw e paapc puat luakganh khang.",
+            "             Seitaan bangc nang swbam nina cho?",
+            "             'Zianna kawmei khou guang zihna cho?",
+            "",
+            "                      Lungh laicguangmei ta kamei laa nii e.",
+            "                      'Taw lungh laih mak 'thei kaganv maek khe;",
+            "                      Kamei dinhmei ganv tei guang pwthe.",
+            "",
+            "          2. Khrista ruina kaw khou nang zanc ta,",
+            "             Kawpat pwkhou adih neihlaa ni!",
+            "             Kachaekc namvdaih khou lungc zihna cho?",
+            "",
+            "          3. 'Khamv laanh khou gut ro twna kaw e.",
+            "             Ntaw gutlou makmei guay tei mu,",
+            "             Kaw sihnic ngalanc guang dat lak khe.",
+            "",
+            "          4. Tingkauh ramgai tei saa ngammak ge.",
+            "             Baanch'raa guay lev seraphim guay tei,",
+            "             Kata thuanhpui khwan rui kagaengv e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu Kaw e Paapc Puat Laaganh khang"
+      }
+    }
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0360",
+    "number": 360,
+    "source": {
+      "printedNumber": 360,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Traditional Spiritual",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.11.6. 11",
+      "tune": "HLC 338"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubauhmei Khristian sw ni e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Poubauhmei, khristian sw nii e,",
+            "Alung ^&8, alung ^&8;",
+            "Poubauhmei, khristian sw nii e, alung ^&8;",
+            "Alung ^&8, .. alung ^&8,",
+            "Poubauhmei, khristian sw nii e, alung ^&8.",
+            "",
+            "2 Poubauhmei, ai zian diangc nii e,",
+            "Alung ^&8, alung ^&8;",
+            "Poubauhmei, ai zian diangc nii e, alung ^&8;",
+            "Alung ^&8, .. alung ^&8,",
+            "Poubauhmei, ai zian diangc nii e, alung ^&8.",
+            "",
+            "3 Poubauhmei, ai ’than diangc nii e,",
+            "Alung ^&8, alung ^&8;",
+            "Poubauhmei, ai ’than diangc nii e, alung ^&8;",
+            "Alung ^&8, .. alung ^&8,",
+            "Poubauhmei, ai ’than diangc nii e, alung ^&8.",
+            "",
+            "4 Juda kumhmei mu sw zih e,",
+            "Alung ^&8, alung ^&8;",
+            "Juda kumhmei mu sw zih e, alung ^&8;",
+            "Alung ^&8, .. alung ^&8,",
+            "Juda kumhmei mu sw zih e, alung ^&8.",
+            "",
+            "5 Poubauhmei Jisu kumc nii e,",
+            "Alung ^&8, alung ^&8;",
+            "Poubauhmei Jisu kumc nii e, alung ^&8;",
+            "Alung ^&8, .. alung ^&8,",
+            "Poubauhmei Jisu kumc nii e, alung ^&8."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Lord, I Want to be a Christian!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "8.6.11.6. 11",
+        "HLC 338",
+        "Traditional Spiritual",
+        "Lord, I Want to be a Christian!",
+        "source hymn 360",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 360."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubauhmei Khristian sw ni e",
+        "titleRongmei": "Poubauhmei Khristian sw ni e",
+        "titleEnglish": "Lord, I Want to be a Christian!"
+      }
+    }
+  }
+}

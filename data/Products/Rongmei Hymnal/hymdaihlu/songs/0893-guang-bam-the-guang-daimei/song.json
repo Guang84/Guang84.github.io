@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0893",
+    "number": 893,
+    "source": {
+      "printedNumber": 893,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "6.8.8.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guang bam the guang daimei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Guang bam the guang daimei,",
+            "Makge kamei kum kandih khou;",
+            "Njangmei guange Guang daimei,",
+            "Thuan o (2) Hosana guang daimei ta.",
+            "",
+            "Chorus:",
+            "Thuan o guang dailiangmei puhta,",
+            "Thuan o halleluijah;",
+            "Njangmei guange guang daimei,",
+            "Thuan o (2) guang daimei puhta.",
+            "",
+            "2. Jat kapumma )_3 thuan kandiu,",
+            "Khouring khounah kapumma ni;",
+            "Kamei thai pui lu )_3 thuan diu,",
+            "Thuan o (2) Hosana guang daimei ta.",
+            "",
+            "3. Katik kagun dailiang kandiu,",
+            "Sangai liangmmei guang Hosana;",
+            "Neila dikho Zion nah guai,",
+            "Thuan o (2) Hosana guang daimei ta.",
+            "Favourite song: Hiamthui Kamei"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Guang bam the guang daimei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "6.8.8.11.",
+        "Guang bam the guang daimei",
+        "source hymn 163",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 163."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guang bam the guang daimei",
+        "titleRongmei": "Guang bam the guang daimei",
+        "titleEnglish": "Guang bam the guang daimei"
+      }
+    }
+  }
+}

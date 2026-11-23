@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-039",
+    "number": 39,
+    "source": {
+      "printedNumber": 39,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "'Dih Neihlaamei Maan Pwni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          39      'Dih Neihlaamei 'Maan Pwni",
+            "                             7.10.8.9. Ref. 7. 5.9.8",
+            "          Doh hei D",
+            "",
+            "          1. 'Dih neihlaamei 'maan pwni.",
+            "             Alung kwnmei Nang na de Poubauhmei.",
+            "             Ai duploupui bamv Nang na de;",
+            "             Nang Bumaengc rui atan nduanghlou o.",
+            "",
+            "               He ata mpatlou rio,",
+            "               Ai neihlaa bam ni.",
+            "               He Poubauhmei, heic kandic khouhei,",
+            "               Nang hamhna ai neihlaa khang maek.",
+            "",
+            "          2. Maan pwni apanty hei;",
+            "             Mang kumhmei apanty hei maan pwni;",
+            "             Neih key kumcna key kan pwni.",
+            "             Thau kan the apanty dui luangh kumcna.",
+            "",
+            "          3. Apanty dui luangh kumc e.",
+            "             Araana ta 'patlou rio, Poubauhmei.",
+            "             Ai hei ryanraa sansimei e:",
+            "             Nkhavlouna zaylou o, Poubauhmei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "'Dih Neihlaamei Maan Pwni"
+      }
+    }
+  }
+}

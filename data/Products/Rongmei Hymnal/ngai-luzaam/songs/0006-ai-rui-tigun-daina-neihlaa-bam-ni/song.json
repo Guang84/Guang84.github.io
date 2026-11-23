@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-006",
+    "number": 6,
+    "source": {
+      "printedNumber": 6,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai rui tigun daina neihlaa bam ni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai rui tigun daina neihlaa bam ni,",
+            "Rih pingpui tuang makpui ram khou tei,",
+            "Hei kandi khou rui phaeng hou tang ngam mak;",
+            "Mi ram tangh khang tei nkhuan ngam mak.",
+            "",
+            "Tingmik thui zuanni ai guangtang maksan,",
+            "Nzian lou mei gaanpui ram khou tei,",
+            "Meiguai na rui hei tei ning thuk sini,",
+            "Sa ngam makge ai karam gai tei.",
+            "",
+            "2. Kabumaeng rianrana maan kanmei khou",
+            "Khrista zianlou mei ring pui lat hei,",
+            "Aniu ta ti thai loupui zaeng khou rui,",
+            "Hallelujah thuan ku tak lak khe.",
+            "",
+            "3. Hei kum pui kan khou zaat kapum na rui,",
+            "Katik kagunh daimei bampaeng khou,",
+            "Kanloumei pu katik kagun daimei",
+            "Houpui kan khou thuan ku puni the.",
+            "",
+            "4. Kandi rianra pui ram khou bamsan hei,",
+            "Tingmik thui rianra mei rui duamliam,",
+            "Kanloumeipu hu khou ding pui kan khou.",
+            "Rian ramei hei neihla mei suni.",
+            "",
+            "5. Heikum ma kanloumei lumloumei nun,",
+            "Tingseic laukhuan gaanphiu gan gaimei,",
+            "Akhang suni poubaomei nzianmei,",
+            "Tingsaeng neihlamei lusuan bam ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 6",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 6. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai rui tigun daina neihlaa bam ni",
+        "titleRongmei": "Ai rui tigun daina neihlaa bam ni"
+      }
+    }
+  }
+}

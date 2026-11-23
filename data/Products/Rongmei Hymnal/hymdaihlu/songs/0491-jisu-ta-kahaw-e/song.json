@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0491",
+    "number": 491,
+    "source": {
+      "printedNumber": 491,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "R.F. Miller",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "3/4",
+      "meter": "Irregular.",
+      "tune": "B.G.C.S. 70"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU TA KAHAW E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu ta kahaw e, kachaekc kaphut suangc,",
+            "Ai Kakhang sw ni, lunggaichingkhiuh khang suangc,",
+            "Jisu ta kahaw e, kailau ta suangc,",
+            "Zotpi zam baanc #^5 chaeng zayloumei ta!",
+            "",
+            "Guanghdic dai ruc khou guanghtuna lungcna,",
+            "Paapc #^5 zynna lunghmei suangc,",
+            "Dih khou tabui punic gaymeikhang suangc",
+            "Jisu ta kahaw e.",
+            "",
+            "2 Jisu ta kahaw ranv, meic nunc ramthuan suangc,",
+            "Kakhang lwm nuhmei swna ai lungc ni;",
+            "Jisu ta kahaw ranv, zanhtatmeita suangc,",
+            "’Thanmei Kazanc khou ai ding ’tip bam ni.",
+            "",
+            "3 Jisu hei gay diangc e, Lili pwang khang suangc,",
+            "Jisu ndeih ranv e, ’khuaihdui ’deihmei suangc,",
+            "’Daapc mei abumaengc khang taektw Kamei e,",
+            "Kamei zayloumei ai kahaw liang e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I’d Rather have Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "3/4",
+        "Irregular.",
+        "B.G.C.S. 70",
+        "R.F. Miller",
+        "I’d Rather have Jesus",
+        "source hymn 491",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 491."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU TA KAHAW E",
+        "titleRongmei": "JISU TA KAHAW E",
+        "titleEnglish": "I’d Rather have Jesus"
+      }
+    }
+  }
+}

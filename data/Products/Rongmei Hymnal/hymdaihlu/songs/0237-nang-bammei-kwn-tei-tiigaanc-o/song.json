@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0237",
+    "number": 237,
+    "source": {
+      "printedNumber": 237,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Ina Duley Ogden",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "13.9.13.8. Ref.",
+      "tune": "3 Alex.433"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang bammei kwn tei tiigaanc o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Taanv daihmei taanc nuhmei",
+            "ganv guang mak saanv ’khwan bam rio,",
+            "Nang riw tiigaanc duh khang",
+            "’khwan bam rio;",
+            "Nang daeng khou nai geihmei taanv guay taanc chuyna taanc o,",
+            "Nang bammei kwn 7}$ tiigaanc o.",
+            "",
+            "Nang bammei kwn 7}$ tiigaanc o,",
+            "Nang bammei kwn 7}$ tiigaanc o,",
+            "Jisu khou #^7 duhmei gaanv saekc",
+            "Nang riw how diu khang,",
+            "Nang bammei kwn 7}$ tiigaanc o.",
+            "",
+            "2 ’Niu ruc khou muangh zinghmei hac ganh khang ’khavlou nuh e,",
+            "Nang khang na chwn #^7 nang chaeng thingh rio;",
+            "Nang lu #^7 lungh ryanramei",
+            "ta tiineihlaa nuh e,",
+            "Nang bammei kwn 7}$ tiigaanc o.",
+            "",
+            "3 Kalat kathai pwkhou Ravguangc #^7 ’khavlou pwni,",
+            "Paapc #^7 nang taanv ta tii’phuamlou rio;",
+            "Nang zaw gaanhmei khou #^7",
+            "meic nunc Kaipouc ta how diu,",
+            "Nang bammei kwn 7}$ tiigaanc o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Brighten the Corner Where You are",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "13.9.13.8. Ref.",
+        "3 Alex.433",
+        "Ina Duley Ogden",
+        "Taanv daihmei taanc nuhmei ganv",
+        "Brighten the Corner Where You are",
+        "source hymn 237",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 237."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang bammei kwn tei tiigaanc o",
+        "titleRongmei": "Nang bammei kwn tei tiigaanc o",
+        "titleEnglish": "Brighten the Corner Where You are"
+      }
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0469",
+    "number": 469,
+    "source": {
+      "printedNumber": 469,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "6/8",
+      "meter": "11.8.11.8. Ref.",
+      "tune": "SS 540"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guloumeipu Jisu hei aKaipouc e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guloumei pu Jisu hei aKaipouc e,",
+            "Ch’rynmei Guloumei pu kiu e;",
+            "Abumaengc ta taudaic lap khou ’kamhlou e,",
+            "Khou 8^& gaymei duiriang how e.",
+            "",
+            "Kamei ^&8 ata taudaic lap khou ’kamhlou,",
+            "Phuimei ramvkaengv khou",
+            "sungclou e;",
+            "Karamzian syng thangc ata tiiduplou the,",
+            "Kabaancpav ^&8 gum binlou e,",
+            "Kabaancpav ^&8 gum binlou e.",
+            "",
+            "2 Guloumeipu Jisu hei aKaipouc e,",
+            "Apuat ’ritmei guay phungc kan the;",
+            "Bow dat mak khang Kamei ata pamclou e,",
+            "Tingmik ’thuic khang pumtan tiilou.",
+            "",
+            "3 Kasing phuc ngam lakmei suaihiam tii bam e,",
+            "Karamgai ^&8 tiipadik ge;",
+            "Ravguangc ta thuancna neihlaa lu ai suan e,",
+            "Thuakloumei pu aRavguangc e.",
+            "",
+            "4 Kakumc guanhna ’niu ta kauh thangc phungc kuna,",
+            "Muangh khou Kata sow ’riw pwkhou,",
+            "Ch’rynmei ramzian, ringhbamv hei kauh thangc mei nunc",
+            "Ching ruh, ching ruh lev kauc bam ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "He Hideth My Soul",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "6/8",
+        "11.8.11.8. Ref.",
+        "SS 540",
+        "Fanny J. Crosby",
+        "KAMEI RUI ATA TAUDAIC LAP KHOU",
+        "He Hideth My Soul",
+        "source hymn 469",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 469."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guloumeipu Jisu hei aKaipouc e",
+        "titleRongmei": "Guloumeipu Jisu hei aKaipouc e",
+        "titleEnglish": "He Hideth My Soul"
+      }
+    }
+  }
+}

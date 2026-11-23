@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0026",
+    "number": 26,
+    "source": {
+      "printedNumber": 26,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Ellerton",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "C.M.",
+      "tune": "CW 125"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaipouc ’niu lev bam ’chamc diu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaipouc, ’niu lev bam ’chamclou diu,",
+            "’Niw guang kaduaipui sik;",
+            "Meic guay chuzaenghmei laatow diu,",
+            "Aniw tatpat mak khou.",
+            "",
+            "2 Kaipouc, ’niu lev tat ’chamclou diu,",
+            "Kaibiak ’zwan dat pwkhou;",
+            "Reih rei bam khou p’ry rac pwkhou,",
+            "’Niu Ravguangc daeng tuanc diu.",
+            "",
+            "3 Kaipouc, ’niu lev bam ’chamlou diu,",
+            "Zing key pwkhou nganvna;",
+            "Kamei ’niu khang gaanhmei sw diu,",
+            "’Niu kai Ginpu sw diu.",
+            "4 Kaipouc, ’niu lev bam ’chamclou diu,",
+            "’Niu ziprii tatpui nganv;",
+            "’Niu kaikhunc guay ta gaeklou diu,",
+            "Pumtan tiiluanlou diu. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Lord be With Us as Each Day",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "C.M.",
+        "CW 125",
+        "John Ellerton",
+        "The Lord be With Us as Each Day",
+        "source hymn 26",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 26."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaipouc ’niu lev bam ’chamc diu",
+        "titleRongmei": "Kaipouc ’niu lev bam ’chamc diu",
+        "titleEnglish": "The Lord be With Us as Each Day"
+      }
+    }
+  }
+}

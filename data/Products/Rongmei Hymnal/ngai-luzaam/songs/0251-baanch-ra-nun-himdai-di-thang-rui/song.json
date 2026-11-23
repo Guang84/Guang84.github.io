@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-251",
+    "number": 251,
+    "source": {
+      "printedNumber": 251,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Baanch’ra nun himdai di thang rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Baanch’ra nun himdai di thang rui,",
+            "Kandi khou hei samkei o;",
+            "Kandi dammei lusuanmei nun,",
+            "Messiah puanhmei din o;",
+            "Guang kalum o, Guang kalum o,",
+            "Khrista, Guangh thanh puanhmei ta.",
+            "2. Lauziu gaenghmei nun, laupuk khou,",
+            "Nangniu lauziu gaekbam khou,",
+            "Raguang le maansei lungchamh bam;",
+            "Duh thang ngana riu gaan bam;",
+            "",
+            "3. Amuh nun le makumh thaek tho,",
+            "Gaan ranmei riu gaan-guang the;",
+            "Zaat guai tuang machun ta phu tho;",
+            "Nangniu gaanphiu ta hou the;",
+            "",
+            "4. Thanmei nun rachapaeng hukhou,",
+            "Machunhna nkhuan saeng the,",
+            "Thaimak daekna Poubaumei kiu,",
+            "Karakai khou ndauhni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 251",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 251. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Baanch’ra nun himdai di thang rui",
+        "titleRongmei": "Baanch’ra nun himdai di thang rui"
+      }
+    }
+  }
+}

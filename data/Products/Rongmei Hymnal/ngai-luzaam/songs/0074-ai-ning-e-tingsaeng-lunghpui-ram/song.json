@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-074",
+    "number": 74,
+    "source": {
+      "printedNumber": 74,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "8.11.9.13.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai ning e tingsaeng lunghpui ram",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai ning e tingsaeng lunghpui ram,",
+            "Tuai dat makpui kachaek dandi namdaih tei;",
+            "Neihmik khang suang gaangai e tu e,",
+            "Ai houni e hei namdaih tei ‘kauhmei lungpui bam.",
+            "",
+            "2. Meinun kauhnam nzuanpui chaeng,",
+            "Lai tatna tat maan pukhang ai rui ping e;",
+            "Pap phung bam khou rui pumtan maknga,",
+            "Kauh Kanaan ramgai gundaihmei hou lak khang rianra.",
+            "",
+            "3. Poubaomei Bumaeng rui hamhna,",
+            "Thou rui guang tang ngam ni cho kandi khou rui;",
+            "Bumaeng maanlou pui bam kandi e,",
+            "Apoubaomei lummei guaita simei rui kham e.",
+            "",
+            "4. Lummei guaimu tingkao ram khou,",
+            "Neihmik khang suang gaan gaina gaan bam puni,",
+            "Kandi khou rianra guai louduna,",
+            "Neihlanmei rui mun kum puangni tuai dat pulak khe.",
+            "",
+            "5. Ai rui lungni kauh namdaih khou,",
+            "Tingsaenga zaengthaek puni hei kandi khou;",
+            "Pou’ rui damloumei Salem namdaih,",
+            "Aniu kapumma hei lungni rianramei maknga."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 74",
+        "Khristian Luzaam PDF",
+        "Chord: Bb",
+        "Meta 3: 8.11.9.13."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 74. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 74,
+        "match": "title-match-0.93"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai ning e tingsaeng lunghpui ram",
+        "titleRongmei": "Ai ning e tingsaeng lunghpui ram"
+      }
+    }
+  }
+}

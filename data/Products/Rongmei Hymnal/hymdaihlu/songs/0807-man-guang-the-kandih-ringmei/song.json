@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0807",
+    "number": 807,
+    "source": {
+      "printedNumber": 807,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "13.13.13.12.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Man guang the kandih ringmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Manguang the kandih ringmei tingkauh ganmei nathe,",
+            "Ai kalanga jao bam e guangtang nimei ram 2!-;",
+            "Kandih jingbang kum sini tikgun daipui ram 2!-,",
+            "Naguang the Immanuel namdai gaimei 2!-.",
+            "",
+            "2. He Jisu duikhun e nang njianmei duidai e,",
+            "Kandih khou rianramei hei tingkauh thu gai khange;",
+            "Rianramei kandih khou hei lungni nangpan khou rui,",
+            "Tik daimei Immanuel poubaumei pan rui.",
+            "",
+            "3. Kauh latjan sumei pu rui jianlou pui jang khou rui,",
+            "Rianrana kapmei nun khang tilou nithe tingkauh ram;",
+            "Hou khang ninge nangpan rui tingkauh gaipui ram2!-,",
+            "Nei keidat mak pui ram me jingmei nai dat lak.",
+            "",
+            "4. Neipei rui noupou pu lun hou nimei kum aini,",
+            "Hou ni e namdai khang suang jianmei poubaumei lun;",
+            "Lanimei guang pirun suang ning thukge timei pu,",
+            "Akhang tikgun dailiangmei Laujiu nah 2!- e.",
+            "",
+            "5. Tingkauh guang njianmei rui kandih tihneila lou,",
+            "Rianramei guang lou sini njianmei rui ngam me;",
+            "Thuan ku o poubaumei ta thuaihian liangmei puta,",
+            "Akhang tilou kan the Salem namdai 2!-."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Man guang the kandih ringmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "13.13.13.12.",
+        "Man guang the kandih ringmei",
+        "source hymn 77",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 77."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Man guang the kandih ringmei",
+        "titleRongmei": "Man guang the kandih ringmei",
+        "titleEnglish": "Man guang the kandih ringmei"
+      }
+    }
+  }
+}

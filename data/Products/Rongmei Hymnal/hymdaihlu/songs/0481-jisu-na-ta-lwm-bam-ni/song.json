@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0481",
+    "number": 481,
+    "source": {
+      "printedNumber": 481,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E. Page",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/8",
+      "meter": "7.7.7.7. Ref.",
+      "tune": "SS 836"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU NA TA LWM BAM NI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingmik kathuic lwm bam ni,",
+            "Panty pwanzingh chaenglwan khou;",
+            "Aramlum ’thyam khwan sihni,",
+            "Jisu na ta lwm bam ni.",
+            "",
+            "Kaganv >|3 samc bam khou hei,",
+            "Tingmik >|3 tat bam khou hei,",
+            "Tabui lwnlung pat sihni,",
+            "Jisu na ta lwm bam ni.",
+            "",
+            "2 KaBumaengc >|3 gaanclou the,",
+            "Luih makmei alung khou hei,",
+            "Kamei zaylou, ai bow lak,",
+            "Jisu na ta lwm bam ni.",
+            "",
+            "3 Neihlaa khou lu suan bam ni,",
+            "Ryanra khou huayney bam ni,",
+            "Dwangdangv khou Kata kaw ni,",
+            "Jisu na ta lwm bam ni.",
+            "",
+            "4 Panty nai saanv lwm bam ni,",
+            "Kandih nai saanv lwm bam ni,",
+            "Tingkauh ramc guang tangh mak saanv,",
+            "Jisu na ta lwm bam ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Trusting Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/8",
+        "7.7.7.7. Ref.",
+        "SS 836",
+        "E. Page",
+        "THUANCNA KAHYM TIIDAIC KHO",
+        "TINGMIK KATHUIC LWM BAM NI",
+        "Trusting Jesus",
+        "source hymn 481",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 481."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU NA TA LWM BAM NI",
+        "titleRongmei": "JISU NA TA LWM BAM NI",
+        "titleEnglish": "Trusting Jesus"
+      }
+    }
+  }
+}

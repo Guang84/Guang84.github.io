@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-147",
+    "number": 147,
+    "source": {
+      "printedNumber": 147,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lu rui thuan kandih ting’ luaipui nung",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Lu rui thuan kandih ting’ luaipui nung,",
+            "Gundaih pui tingmik tanghpui nung;",
+            "Chunsi zaengsi na kaap bammei,",
+            "Rianra mei hei nailak khe Guangh hu khou.",
+            "",
+            "Ai houni kagan tanghpui nung,",
+            "Kasap kathuih hiloumei muang sakanmei;",
+            "Nang ramgai rui alungh ti-neihla lou.",
+            "",
+            "2. Eden zinghmei khou alauna kumna kap,",
+            "Nang ramgai tei ai tang pukhou;",
+            "Apap gunh khang suang mphuanni,",
+            "AGuangh Immanuel ram gai khou tei.",
+            "",
+            "3. Nzianmei ram ta ai ram phanna bamni,",
+            "Kaganv ‘thuih tyngthanv patpui ram;",
+            "Bumaengh suanmei tigailou e,",
+            "Alungh rianra mei tigailou datro."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 147",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 147. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lu rui thuan kandih ting’ luaipui nung",
+        "titleRongmei": "Lu rui thuan kandih ting’ luaipui nung"
+      }
+    }
+  }
+}

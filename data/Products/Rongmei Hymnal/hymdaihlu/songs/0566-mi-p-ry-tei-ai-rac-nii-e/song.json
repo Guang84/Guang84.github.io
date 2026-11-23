@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0566",
+    "number": 566,
+    "source": {
+      "printedNumber": 566,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Miss. Hankey",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D. Ref",
+      "tune": "SS 46"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "MI P’RY TEI AI RAC NII E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Mik !}2 how makmei tingkauh",
+            "P’ry ai raclou nii e;",
+            "Jisu lev Kahym lam e,",
+            "Jisu ramzian lam e;",
+            "Mi p’ry 2^< ai rac nii e,",
+            "Mi hei ’chumhpui zaeng !}2;",
+            "Mi !}2 alungh tiikwn e,",
+            "Baihmei hei kumhmei maek.",
+            "",
+            "",
+            "Mi p’ry 2^< ai rac nii e!",
+            "Mi hei alatlu sw ni,",
+            "Hymdaih nungc nganv rac bam ni,",
+            "Jisu zianmei p’ry hei.",
+            "",
+            "2 Mi p’ry 2^< ai rac nii e,",
+            "Dih p’ry gay liangmei suangc,",
+            "Gay liangmei maengc guay khang suangc,",
+            "Mi p’ry 2^< ch’ryn liang e;",
+            "Mi hei !}2 akhang gaymei",
+            "’Peyna taanclou bam the;",
+            "Hei zaeng !}2 nang khou ai !}2",
+            "’Taw hei raclou tuang e.",
+            "",
+            "3 Mi p’ry 2^< ai rac nii e!",
+            "Rac kaluaih dat nii e;",
+            "Mi hei rahpui ganv kathuic",
+            "Gay ’bu hay hay thau e,",
+            "Mi p’ry 2^< ai rac nii e,",
+            "Gaanv saekc chu zat mak he,",
+            "Ravguangc lat khou hyloumei",
+            "Ringhbamv chamv gaymei hei."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Love To Tell the Story",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "7.6.7.6. D. Ref",
+        "SS 46",
+        "Miss. Hankey",
+        "Mik rui how makmei tingkauh p’ry",
+        "I Love To Tell the Story",
+        "source hymn 566",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 566."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "MI P’RY TEI AI RAC NII E",
+        "titleRongmei": "MI P’RY TEI AI RAC NII E",
+        "titleEnglish": "I Love To Tell the Story"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-056",
+    "number": 56,
+    "source": {
+      "printedNumber": 56,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "9.8.7.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kazanc zion tumei ram gai tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kazan zion tumei ram gai tei,",
+            "Ning na phang e ting mik kathui ;",
+            "Khou tei lung khang jailou o,",
+            "Mban thai pui ram khou.",
+            "",
+            "He! Ai ning e kallou mei pu,",
+            "Lily pong guang immanual;",
+            "Nthan mei dui tei luang e,",
+            "Ai rui hei tei ning thuk e.",
+            "",
+            "2. Pap le nthiam pui ri rui dai e,",
+            "Ning e pap ri ta adou khang ;",
+            "He! Kao bumang samkei yo,",
+            "Aniu ta kanlou khang .",
+            "",
+            "3. Lung gei mei rui ban thai khang makge,",
+            "Hei kandi rianra ram khou hei;",
+            "Mpat lou na tatni e,",
+            "Kao kanaan ram gai khou.",
+            "",
+            "4. Kalvary siengding thing rukhou tei,",
+            "Khaeng lou the aniu guang jisu;",
+            "Ai rui hei tei mu lak khe;",
+            "Halleluijah Amen."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 56",
+        "Khristian Luzaam PDF",
+        "Chord: E",
+        "Meta 3: 9.8.7.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 56. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 56,
+        "match": "title-match-0.92"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kazanc zion tumei ram gai tei",
+        "titleRongmei": "Kazanc zion tumei ram gai tei"
+      }
+    }
+  }
+}

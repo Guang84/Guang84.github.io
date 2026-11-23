@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-075",
+    "number": 75,
+    "source": {
+      "printedNumber": 75,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Ravguangc Zaylou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          75 He Ravguangc Zaylou o",
+            "                      6.7.9.5. Ref. 9. 7.9.5",
+            "          Doh hei E",
+            "",
+            "          1. He Ravguangc zaylou o;",
+            "             Kandih panty luai mak saanv.",
+            "             Muangh kumcna zinghmei kandih khouhei.",
+            "             Ata zaylou o.",
+            "",
+            "                      Nang rui hamhna neihlaa khang maek ge.",
+            "                      Lungh tineihlaalou nimei.",
+            "                      Kandih panty hei luaiguang pwthe;",
+            "                      'Niw ta 'khwan mak khe.",
+            "",
+            "          2. 'Zwan di kho gaanhmei thangc;",
+            "             Gumeipu phaykaamv suicna.",
+            "             'Thiammei rui dui kumc daicguang sihnic,",
+            "             Ping makna tat ni.",
+            "",
+            "          3. Kandih apanty hei,",
+            "             Lili mwn kumc tuai nuangc e.",
+            "             Pingmei rui padikmei kandic khou,",
+            "             Ata zaylou o.",
+            "",
+            "          4. Tat kanmei apanty,",
+            "             Siimei paap taancloumei guay,",
+            "             Ravguangc rui zianlouna sw 'thanlou:",
+            "             Luihmakmei ata."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Ravguangc Zaylou o"
+      }
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0126",
+    "number": 126,
+    "source": {
+      "printedNumber": 126,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.4.8.4.8.8.8.4.",
+      "tune": "RS 108"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ADIH ZIAN CHO",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Meic guay ramzian suangc ’bumei nai,",
+            "Adih zian cho!",
+            "Chana nunc ramzian suangc ’thuk ge,",
+            "Adih zian cho!",
+            "",
+            "Dih rup nunc thu ’patlou nuh e,",
+            "Neih khat zian, neih khat karaeng e,",
+            "Kaipouc Jisu thu kumh mak ge,",
+            "Adih zian cho!",
+            "",
+            "2 Kata thaymei ringcsuangmei e,",
+            "Adih zian cho!",
+            "Aniu Kapow phunghmei chak kho,",
+            "Adih zian cho!",
+            "Kunghmei Kazei ^&8 ’niu ta liu,",
+            "Tazikramv khou ’niu ta phutow,",
+            "Kakuanc khou ’niu ta phungc guanglou,",
+            "Adih zian cho!",
+            "",
+            "3 Jisu ta aPam sw tow the,",
+            "Adih zian cho!",
+            "Aniu khang suaihiam tii nii e,",
+            "Adih zian cho!",
+            "Kalat chu khou adih neihlaa,",
+            "Kadaeng khou bam khang saa pwkhou!",
+            "’Bui khang Kalat lwm zih ni cho?",
+            "Adih zian cho!",
+            "",
+            "4 Kazanc paan aniu ta kuaklou,",
+            "Adih zian cho!",
+            "Zauczihmei guay ta hac ganclou,",
+            "Adih zian cho!",
+            "Aniu dwan gay khang nramhlou",
+            "Gaymei ^&8 aniu dwan sw ni,",
+            "Hymdaih khou ’niu ta zaylou ni,",
+            "Adih zian cho!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Oh! How He Loves",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "8.4.8.4.8.8.8.4.",
+        "RS 108",
+        "Anonymous",
+        "Meic guay ramzian suangc ’bumei",
+        "Oh! How He Loves",
+        "source hymn 126",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 126."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ADIH ZIAN CHO",
+        "titleRongmei": "ADIH ZIAN CHO",
+        "titleEnglish": "Oh! How He Loves"
+      }
+    }
+  }
+}

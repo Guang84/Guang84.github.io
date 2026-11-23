@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0897",
+    "number": 897,
+    "source": {
+      "printedNumber": 897,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "11.10.11.12.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aniu Nagamei ram kum gaimei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Aniu Nagamei ram kum gaimei makge,",
+            "Njianmei ruprian guai ta jao puki;",
+            "Khouring, nruaina kajat guai khuan gai e,",
+            "Hei kummei ramgai )_3 meiguai lung tithao e.",
+            "",
+            "Chorus:",
+            "Gaichang e aniu lungpui ram hei,",
+            "Gaimei rana padik ge;",
+            "Kagan kathui aniu lungpui ramTihei thuan e,",
+            "Kagan kathui aniu chun chamma lung e,",
+            "Gaichange Nagamei aniu lungpui ramhei.",
+            "",
+            "2. Ntheih thei nung aniu pou-pei kin khou mu,",
+            "Khat khatta sangna rih su bam khuan e;",
+            "Ntau aniu alaunun kin khou mu,",
+            "Guang kandih kumma aniu kandihta thuan e.",
+            "",
+            "3. Aniu pou-pei )_3 lung lou dumei ram hei,",
+            "Chamdan chui bammo kandih pri si e;",
+            "Raguang jan khou aniu ramta thuan bamni,",
+            "Raguang )_3 aniu thou tan khang ndiulou e.",
+            "",
+            "4. Kara gaimei tingthai kum Nagamei ram,",
+            "Kagan thui tajei dui gaimei kum e;",
+            "Aniu Nagamei guai dui kum luang bam e,",
+            "Aniu Nagamei ramta phut laknga bam e.",
+            "",
+            "5. Aniu pou-pei )_3 khamloumei ram pang khou,",
+            "Nagamei ram kummei gaimei makge;",
+            "Duipi duibah thangmei guai )_3 juan guang e,",
+            "Miram gaimei lunlung kummei guai neila e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "11.10.11.12.",
+        "Aniu Nagamei ram kum gaimei",
+        "source hymn 167",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 167."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aniu Nagamei ram kum gaimei",
+        "titleRongmei": "Aniu Nagamei ram kum gaimei"
+      }
+    }
+  }
+}

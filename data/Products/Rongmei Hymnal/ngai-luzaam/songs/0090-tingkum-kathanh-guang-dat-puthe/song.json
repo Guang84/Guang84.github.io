@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-090",
+    "number": 90,
+    "source": {
+      "printedNumber": 90,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkum kathanh guang dat puthe",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Tingkum kathanh guang dat puthe,",
+            "Chunsi zaengsi pui tuang gei e;",
+            "Kabam kathuih phaengzau bam khou,",
+            "Nzianmei nun guai ntang e.",
+            "",
+            "Hei bui thang bam cho zianmei nun?",
+            "Poubaomei tingsaeng gaipui ram,",
+            "Guang o, he! Ringhmei mun gaimei,",
+            "Rimv gaimei mun tei ladiu khang.",
+            "",
+            "2. Kagan gaimei taekdat lak khe,",
+            "Kachaek namdaih gaimei khou tei;",
+            "Rianra rianriu mei naidat lak khe,",
+            "Tingsaeng gaichuimei ram khou tei",
+            "Nzianmei nun bampui ram tei.",
+            "",
+            "3. Ai ning e nzianpui ram tei,",
+            "Zuan dikho rianra ram khou rui;",
+            "Tingsaeng Salem namthanh gaimei,",
+            "Nzianmei nun bampui ram tei.",
+            "",
+            "4. Khuan ngam makge tingkao ram tei,",
+            "Khou tei aniu ni bam puni;",
+            "Nzianmei nun tam kansini,",
+            "Khou tei gaina bam kariuni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 90",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 90. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkum kathanh guang dat puthe",
+        "titleRongmei": "Tingkum kathanh guang dat puthe"
+      }
+    }
+  }
+}

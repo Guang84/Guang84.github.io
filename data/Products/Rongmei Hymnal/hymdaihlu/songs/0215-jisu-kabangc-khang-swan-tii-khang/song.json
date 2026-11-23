@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0215",
+    "number": 215,
+    "source": {
+      "printedNumber": 215,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J.Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.7.10.7. Ref.",
+      "tune": "SS 791"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu Kabangc khang swan tii khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu Kabangc khang swan tii khang key khou",
+            "Kalaanv pw, zingbangc pw nic,",
+            "Lwmlou nuhmei swna ariw ni cho?",
+            "’Niu maibungc chuangc gaanc ni cho?",
+            "",
+            "’Niu chamdaanv the, saa ngam the cho, chana?",
+            "Bumaengh kai khang chamdaanv cho?",
+            "Kaipouc ’niu ta laa khang guang dat pwkhou,",
+            "’Khwanna changkhaanv bam khou ’riw ni cho?",
+            "",
+            "2 Lauthwan khwanzingh Kaipouc ?|7 aniu ta,",
+            "Akhat khat swna kaw khou,",
+            "Kaipouc khou ’niu talent ndauh pwkhou,",
+            "“Gay the,” twlou puni cho?",
+            "",
+            "3 Kamei ?|7 ’niu khou nsinloumei 7?|",
+            "Ngampui kamv taanc chuy bam cho?",
+            "’Niu lung ?|7 ’niu ta tii’khuai mak ethei,",
+            "’Niu hym daicna zaengthaek ni.",
+            "",
+            "4 Chamdaanv thaymei guay kiu dwan gay puni,",
+            "Kahym kiu laylaa puni,",
+            "Kamei lauthwan pw, zipchwng pw, key khou,",
+            "Changkhaanv bam khou ’riw ni cho?"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Will Jesus Find Us Watching?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "10.7.10.7. Ref.",
+        "SS 791",
+        "Fanny J.Crosby",
+        "’NIU CHAMDAANV THE, SAA NGAM THE CHO",
+        "Will Jesus Find Us Watching?",
+        "source hymn 215",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 215."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu Kabangc khang swan tii khang",
+        "titleRongmei": "Jisu Kabangc khang swan tii khang",
+        "titleEnglish": "Will Jesus Find Us Watching?"
+      }
+    }
+  }
+}

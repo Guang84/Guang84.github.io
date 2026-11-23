@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-093",
+    "number": 93,
+    "source": {
+      "printedNumber": 93,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu Guang Pwthe Chamdaanvna 'Khwan o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          93 Jisu Guang Pwthe Chamdaanvna 'Khwan o",
+            "                              10.10.10. 10.Ref. 10.10. 10. 10",
+            "          Doh hei E",
+            "",
+            "          1. Jisu guang pw the chamdaanvna 'khwan o.",
+            "             Kamei rey liangmei nkhamh liangmei e.",
+            "             Tingkauh thangc rui 'niw ta laa khang key 'ni.",
+            "             Chamdaanvna Kamei guangmei ta 'khwan o.",
+            "",
+            "               Jisu guang pwthe chamdaanvna 'khwan o.",
+            "               Jisu suai makna han guang dat pwni.",
+            "               Ryanraamei guay akhaengvna nkhwan o.",
+            "               Nkhuaimei guay ta ganclou duc pwni.",
+            "               Kachangcmei guay tingkauh thangc phungc ku ni.",
+            "               Araana sinic Kata 'pat lak khe.",
+            "",
+            "          2. Jisu rui saa e paapc khou rui pat tho,",
+            "             Nangniw lungning tei sw-nthan la tho.",
+            "             Kandih khou paapc rui 'niw ta gum liam bam,",
+            "             Nang thau lana Ravguangc biak liangc la tho.",
+            "",
+            "          3. 'Khuaimei rui 'niw ta gum liam ngam mak ge.",
+            "             Seitaan ta Kalvari khou ngamlou the.",
+            "             Neihlaa zaenggaymei Jisu khou nai e:",
+            "             Zauzian paan rui aniw ta gulou the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu Guang Pwthe Chamdaanvna 'Khwan o"
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0794",
+    "number": 794,
+    "source": {
+      "printedNumber": 794,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8.7.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kanan ramthan njuan khang tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kanan ramthan njuan khang 3)_,",
+            "Jingpui bam khou gin ne;",
+            "Kagan rina achang man the,",
+            "Mai le muang rui gan guang o,",
+            "Ahu khou hei guanga gan no.",
+            "",
+            "Chorus:",
+            "He kanloumei pu bui nung hou nicho?",
+            "Kanan ram tang mak khang lunggei;",
+            "Rianra jingmei muang dingkhou,",
+            "Achun sihna kapma huai e.",
+            "",
+            "2. Nuan phungmei kandih mei nun khang,",
+            "Ringmei dui than patdiu;",
+            "Kaniu nuan 3)_ khiu than lana,",
+            "Kanloumei pu ta hou khang,",
+            "Hei kandih ta ning dat mak khang.",
+            "",
+            "3. Ahu khou ching khat gut kan the,",
+            "Kanan ram gai khou 3)_;",
+            "Rianra puiram ning dat lakkhe,",
+            "Thei pui bam tuan pukhou rui,",
+            "Ringpui namdai 3)_ njuan ni.",
+            "",
+            "4. Tingkau ganphiu gan pui ram khou,",
+            "Kanloumei pu thuan ni;",
+            "Kandih rianra man lou puni,",
+            "Neila pui lu than suan ni,",
+            "Khou 3)_ bam khang ai neila e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "8.6.8.7.8.",
+        "Kanan ramthan njuan khang tei",
+        "source hymn 64",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 64."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kanan ramthan njuan khang tei",
+        "titleRongmei": "Kanan ramthan njuan khang tei"
+      }
+    }
+  }
+}

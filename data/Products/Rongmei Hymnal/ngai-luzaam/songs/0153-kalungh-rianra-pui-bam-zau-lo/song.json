@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-153",
+    "number": 153,
+    "source": {
+      "printedNumber": 153,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kalungh rianra pui bam zau lo",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kalungh rianra pui bam zau lo!",
+            "Poubaomei nimhpui bam,",
+            "Gethsemane pikuan lung khou,",
+            "Talan zeihaeng rui luang.",
+            "",
+            "2. Simon Barzon bao liangmei Pu,",
+            "Kathei lai ngam makge",
+            "Kanloumeipu ta zai kan the,",
+            "Amuh daihmei kaikhou.",
+            "",
+            "3. Sauh pirun le pheihang banna,",
+            "Bui rui katumlouna,",
+            "Thou cho baihmei hei sapat ro,",
+            "Tuna akhou than e.",
+            "",
+            "4. He! Poubaomei rianra mei hei,",
+            "Akhang khaeng lou tuang e,",
+            "Nuan phunghmei nunni run kan mak,",
+            "Nang Guangh pirun kummei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 153",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 153. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kalungh rianra pui bam zau lo",
+        "titleRongmei": "Kalungh rianra pui bam zau lo"
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-229",
+    "number": 229,
+    "source": {
+      "printedNumber": 229,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubauhmei Guang dat Nimei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          229 Poubauhmei Guang Dat Nimei",
+            "                          14.,11.8.8.11.Ref. 8. 12. 8. 8.11",
+            "          Doh hei G",
+            "",
+            "          1. Poubauhmei guang dat nimei ganv kiu anaa guang pwthe;",
+            "             Zauc lo, kaganv hei anaa ranv guang pwthe.",
+            "             Nrianhloumei lat thei layna,",
+            "             Poubauhmei guang dat pwni the.",
+            "             Oh, Halleluijah! Jisu rui guanghtu the.",
+            "",
+            "                  Thau tho, thau tho abumaengc le!",
+            "                  Jisu Khrista rui guanghtu nimei ganv guang the;",
+            "                  Poubauhmei tuang phwam kaguayna,",
+            "                  Oh, neihlaamei rui padik the.",
+            "                  Oh, Halleluijah! Jisu rui guanghtu the.",
+            "",
+            "          2. Poubauhmei guang dat nimei ganv kiu anaa guang pw the;",
+            "             Muangh khou dungcna kahym daicna key pwni.",
+            "             Tingkauh baanch'ra guay rui thuancna,",
+            "             Kauh liangmei khou kahym daic diuc!",
+            "             Oh, Halleluijah! Jisu rui guanghtu the.",
+            "",
+            "          3. Poubauhmei guang dat nimei ganv kiu anaa guang pwthe;",
+            "             Zauc lo, Zion chyng ruc khou key dat pwni;",
+            "             Kamei rui nzianmei guay ta",
+            "             Nduangh lana key dat pwni;",
+            "             Oh, Halleluijah! Jisu rui guanghtu the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubauhmei Guang dat Nimei"
+      }
+    }
+  }
+}

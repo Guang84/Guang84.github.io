@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-185",
+    "number": 185,
+    "source": {
+      "printedNumber": 185,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandi khou hei riara mei kaguai rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandi khou hei riara mei kaguai rui",
+            "Neihlaa zaeng gaimei sw puni;",
+            "Rianra mei kaguaina himdai puni",
+            "Tingkao ram tangpui kan khou.",
+            "",
+            "Lung rianramei ta ngamna",
+            "Neila zanngaimei suni;",
+            "Pap khou rui su-nthan loumei guaimu",
+            "Ringsuang Meitei lapuni.",
+            "",
+            "2. Raguang khou lumloumei kaguai teimu",
+            "Kandi khou rianra bam sini",
+            "Mikdui keimei guai tei tingkao ram khou",
+            "Raguang rui thut phuilou ni.",
+            "",
+            "3. Nzianmei ntam lou kanmei guai ta",
+            "Ariu dat puni tingkao khou;",
+            "Neila zaeng gaimei rui ‘niu duan suna",
+            "Lung bamni tingkao ram khou.",
+            "",
+            "4. Aniu tingkao kandi guang tang pukhou",
+            "Rianra zaengsi theimei mak khe;",
+            "Rianra mei kapmei mikdui keimei guai",
+            "Jisu rui thutphuilou ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 185",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 185. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandi khou hei riara mei kaguai rui",
+        "titleRongmei": "Kandi khou hei riara mei kaguai rui"
+      }
+    }
+  }
+}

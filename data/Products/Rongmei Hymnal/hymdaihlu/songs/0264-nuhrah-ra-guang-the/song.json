@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0264",
+    "number": 264,
+    "source": {
+      "printedNumber": 264,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "P.P. Bliss",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/8",
+      "meter": "9.9.6.6.6.4.",
+      "tune": "SS 452"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NUHRAH RA GUANG THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Nuh rahra guang the,” ’taw lwmlou khang;",
+            "“Nuh rahra guang the,” ’taw laalou khang;",
+            "’Ki gaanv saekc saa kumc e:",
+            "“Seic hamh e, Bumaenghle,",
+            "Kadou chaamei nungc }?2",
+            "Ai lwmlou ni.”",
+            "",
+            "2 “Nuh rahra guang the,” ’seic hei guang tho;",
+            "“Nuh rahra guang the,” hanc dat ri tho;",
+            "Jisu nang ta kaw e,",
+            "Baanch’ra nunc ’khwan bam the,",
+            "Zianmei nunc huay bam the,",
+            "’Maanmei guang tho.",
+            "",
+            "3 “Nuh rahra guang the,” lautay luai the!",
+            "“Nuh rahra guang the,” syang ganv guang the!",
+            "Rahramei }?2 biuh mak,",
+            "Rahrana ’maan puni,",
+            "Rahrana theic ethei",
+            "Adih sii cho!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/8",
+        "9.9.6.6.6.4.",
+        "SS 452",
+        "P.P. Bliss",
+        "Almost Persuaded",
+        "source hymn 264",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 264."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NUHRAH RA GUANG THE",
+        "titleRongmei": "NUHRAH RA GUANG THE"
+      }
+    }
+  }
+}

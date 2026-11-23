@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0693",
+    "number": 693,
+    "source": {
+      "printedNumber": 693,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John R.Colgan",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/2",
+      "meter": "7.7.7.3. D. Ref.",
+      "tune": "RS 666"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU KHA NG NEIH BUILWANG SW NI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Gaymei alauc ricmei thiu,",
+            "Neihlaa lu 1<: kauc ranv o,",
+            "Jisu ringc e twmei chamv",
+            "Dinc lik go.",
+            "Kros khou Kamei theiclouna",
+            "’Niu paap guay Kamei phungclou,",
+            "’Taw ’niu ta tiiduaklou khang",
+            "Ringc bam e.",
+            "",
+            "Gaanthauh maihna saeng-dai mak saanv,",
+            "Nangniw ’khwan bam riu,",
+            "Jisu khang kariuna suan o,",
+            "Tatpui bamv ’thuic khou.",
+            "Nang khwan kauc ranvna suan o,",
+            "Tingpuk kandih kagaengv diu,",
+            "Jisu ringc bammei chamv hei",
+            "Dinc lik go.",
+            "",
+            "2 Alauc nunc giu-gau makna,",
+            "Chabwan nunc {:1 neihlaana,",
+            "Kandih lev duipui ’thuic khou,",
+            "Suan lik go.",
+            "Maansei zaat guay khang gaanhmei,",
+            "Mik tiatmei khang how datmei,",
+            "Meic kathuic khang ringhmei nai,",
+            "Jisu khou.",
+            "",
+            "3 Jisu ringc e, ch’rynmei chamv.",
+            "Guangh guay Guangc, Kaipouc guay Pouc,",
+            "Kros 1<: puanc kauhna suan o,",
+            "Jisu khang.",
+            "Paapc kangkai sw raalou the,",
+            "Theihphey guay ganc pat kan the,",
+            "Theihmei ta ngamlou duc the,",
+            "Tingsaeng khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus Lives!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/2",
+        "7.7.7.3. D. Ref.",
+        "RS 666",
+        "John R.Colgan",
+        "Jisu rui ata kahaw e, neih builwang",
+        "Jesus Lives!",
+        "source hymn 693",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 693."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU KHA NG NEIH BUILWANG SW NI",
+        "titleRongmei": "JISU KHA NG NEIH BUILWANG SW NI",
+        "titleEnglish": "Jesus Lives!"
+      }
+    }
+  }
+}

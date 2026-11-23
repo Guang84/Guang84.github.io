@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0392",
+    "number": 392,
+    "source": {
+      "printedNumber": 392,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Paul Gerhardt",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "S.M.D.",
+      "tune": "HLC 422"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang pingmei guay ganc o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang pingmei guay ganc o,",
+            "Machunh o, diwsii riu;",
+            "Nang zaeng siimei Ravguangc thay e,",
+            "Nang ta pamc thaulou ni;",
+            "Muanghding, pwanzingh chung khou",
+            "Kamei chaeng sw ’thanlou;",
+            "Katuang ganv khou zingbangc ti hei",
+            "Neihlaa lauthwan guanh ni.",
+            "",
+            "2 Nang puatphung ’rit bu cho?",
+            "Nang chwn karum bu cho?",
+            "Puatrith lev pingmei guay ganc tho,",
+            "Kadanmei lou key tho;",
+            "Kabamv ’thuic ramh lam guay",
+            "Gay khang taanv swlou e;",
+            "Kataanv guay, Kachaenglwan guay hei",
+            "Neihlaa suaihiam chaeng e.",
+            "",
+            "3 Nang @{4 ning tanghmei suangc",
+            "Kachwn kauh ranv puni;",
+            "Nang ping bammei Kataanv guay 4@<",
+            "Kamei taanc suak pwkhou;",
+            "Kakhou tiigutlou tio,",
+            "Kamei ningmei taanh khang,",
+            "Kaningting, Kangamv guay how khou",
+            "Nang hahlahla puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Give to the Winds Your Fears",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "S.M.D.",
+        "HLC 422",
+        "Paul Gerhardt",
+        "Give to the Winds Your Fears",
+        "source hymn 392",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 392."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang pingmei guay ganc o",
+        "titleRongmei": "Nang pingmei guay ganc o",
+        "titleEnglish": "Give to the Winds Your Fears"
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0471",
+    "number": 471,
+    "source": {
+      "printedNumber": 471,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "R. Kelso Carter",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.9. Ref.",
+      "tune": "SS 877"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khrista aGuangc latryan khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Khrista aGuangc latryan khou hei ai ding e,",
+            "Nganv tuang maekna Katathuanhmei khwan kauc diu;",
+            "Kauh liangmei khou hymdaihmei ta ai suan ni,",
+            "Ravguangc latryan khou hei ai ding e.",
+            "",
+            "Ding .. e, ding .. e,",
+            "Guloumei pu aRavguangc latryan khou ding e,",
+            "Ding .. e, ding .. e,",
+            "Ravguangc latryan khou hei ai ding bam e.",
+            "",
+            "2 Suai makmei Racguangc latryan khou ai ding e,",
+            "Lwmsiimei, pingmei pwanzingh akhangv pwkhou,",
+            "Ringhmei Racguangc lat paan #^7 ai #^7 ngam ni,",
+            "Ravguangc latryan khou hei ai ding e.",
+            "",
+            "3 Latryan khou ding khou #^7 ’taw mu ai thay the,",
+            "Nthuih the, zei #^7 apaap khiu ’thanlou the,",
+            "Khrista #^7 ata anyng tiiswlou the;",
+            "Ravguangc latryan khou hei ai ding e.",
+            "",
+            "4 Kaipouc Khrista latryan khou hei ai ding e,",
+            "Zianmei riang #^7 tingsaeng khang ata bangclou,",
+            "Bumaengh ’Thanmei ngamv #^7 tingmik ’thuic ngamlou,",
+            "Ravguangc latryan khou hei ai ding e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Standing on the Promises",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "11.11.11.9. Ref.",
+        "SS 877",
+        "R. Kelso Carter",
+        "Standing on the Promises",
+        "source hymn 471",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 471."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khrista aGuangc latryan khou",
+        "titleRongmei": "Khrista aGuangc latryan khou",
+        "titleEnglish": "Standing on the Promises"
+      }
+    }
+  }
+}

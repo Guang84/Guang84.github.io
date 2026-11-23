@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-207",
+    "number": 207,
+    "source": {
+      "printedNumber": 207,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neihkhatpui Zingbangc Akhat khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          207 Neihkhatpui Zingbangc Akhat khou",
+            "                             8.8.8.6.Ref.7. 7. 8. 8",
+            "          Doh hei G",
+            "          1. Neihkhatpui zingbangc akhat khou,",
+            "             Nikodim Jisu daeng guang e.",
+            "             Jisu rui kakhou dinclou e:",
+            "             Nang puancthanh nina de.",
+            "                  Nang puancthanh dat nina de, (2)",
+            "                  Tingkauh kandic how niimei guay, Puancthanh la tho.",
+            "                  Nang puancthanh dat nina de (2)",
+            "                  Tingkauh kandic guang niimei guay, Puancthanh la tho.",
+            "",
+            "          2. Nkhamh liangmei ganv kiu guang the;",
+            "             Panty tingmik nic luaiguang the.",
+            "             'Zianmei guay le, lwmlou la tho,",
+            "             Zinghmei tei guang pwthe.",
+            "",
+            "          3. Ntaw ganv khou 'zianmei nunc le,",
+            "             Nang rui paapc taanclou khwan ethei,",
+            "             Daeklou makna ndauhpat ro,",
+            "             Poubauhmei Jisu khou.",
+            "",
+            "          4. Zanh khourui puanhmei tei zanh e:",
+            "             Bumaengh khou puanhmei bumaengh e.",
+            "             Nchumhmei ringhmei tei laa khang,",
+            "             Nang puancthanh nina de.",
+            "",
+            "          5. Ntaw nganvna thow kumhmei rui,",
+            "             Puancthanh makna lunghmei guay mu,",
+            "             Ryanraa khaengvpui ganv guang pwkhou,",
+            "             Puancthanh nuh mak pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neihkhatpui Zingbangc Akhat khou"
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-191",
+    "number": 191,
+    "source": {
+      "printedNumber": 191,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Meic Kyam Phungh Makmei Ravguangc Lauziu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          191 Meic Kyam Phungh Makmei Ravguangc",
+            "                              10.10.8. 12.Ref. 10.9. 9. 6",
+            "          Doh hei E",
+            "",
+            "          1. Meic kyam phungh makmei Ravguangc Lauziu Nac!",
+            "             Ravguangc bamvpaeng khou tei zinghmei maek ge;",
+            "             Bw-neih riw gaanhmei maek khoutei;",
+            "             Ravguangc ta tingsaeng thuancna lungc bam pwni the.",
+            "",
+            "                      Amen! Keylou o Poubauhmei Jisu,",
+            "                      Poubauhmei Jisu 'zianthaymei pu,",
+            "                      Nthanmei nunc lev tat 'chamc bam ni,",
+            "                      Halleluijah! Amen! (2)",
+            "",
+            "          2. Poubauhmei tuang muhzwng Bumaengh paan rui,",
+            "             Ramh guayna guang nimei ndauhlou e,",
+            "             'King o, Ai katumcna guang the;",
+            "             Heic latchamv piumei guay tei kasan gaymei e.",
+            "",
+            "          3. Kaganv hei katumcna guang pwni the;",
+            "             Taanv siina taanhmei tei taanc bam kan diuc;",
+            "             Nthanmei tei 'than bam kan diuc:",
+            "             Nkhwan bam o, Ai katumcna guang pwni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Meic Kyam Phungh Makmei Ravguangc Lauziu"
+      }
+    }
+  }
+}

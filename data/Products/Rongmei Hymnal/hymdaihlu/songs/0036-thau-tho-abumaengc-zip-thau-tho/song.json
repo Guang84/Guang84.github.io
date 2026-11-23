@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0036",
+    "number": 36,
+    "source": {
+      "printedNumber": 36,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "F.R.L. Von Cantz",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.4.7. D.",
+      "tune": "NBH 10"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thau tho, abumaengc zip thau tho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thau tho, abumaengc, zip thau tho,",
+            "Tingmik pat the;",
+            "Kandih kabamv kathuic khou",
+            "Kamei ^&8 ramh guay damclou the;",
+            "Kakhou guang o,",
+            "Nang tuang thouc taanc chuy latho.",
+            "",
+            "2 Nang ta ’khavlou khang huayney tho,",
+            "Taandwan guay khou,",
+            "Gaymei, twnmei 8^& taanh khang;",
+            "’Ki Kamei nang ta khaamlou pwdiu,",
+            "Tiikalaic diu,",
+            "Siimei nang taanc nii pwkhou.",
+            "",
+            "3 Kamei nang ta phaengc how bam e,",
+            "Dinclou puni,",
+            "Nang ramsuan lev khuay guay 8^&,",
+            "’Kamhloumei khuay guay Kamei ^&8",
+            "How pat ngam e,",
+            "Paapc guay 8^& phu pat ngam e.",
+            "",
+            "4 Ravguangc kaipat 8^& piu laanh rio,",
+            "Nang nuhmu rio,",
+            "KaBumaengc ^&8 dinhmei 8^&;",
+            "Nang Kamei lev lungc ’chamc puni,",
+            "Nang how puni,",
+            "Ramh kaguay lyanloumei ta.",
+            "Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Come, My Soul",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "3/4",
+        "8.4.7. D.",
+        "NBH 10",
+        "F.R.L. Von Cantz",
+        "Come, My Soul",
+        "source hymn 36",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 36."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thau tho, abumaengc zip thau tho",
+        "titleRongmei": "Thau tho, abumaengc zip thau tho",
+        "titleEnglish": "Come, My Soul"
+      }
+    }
+  }
+}

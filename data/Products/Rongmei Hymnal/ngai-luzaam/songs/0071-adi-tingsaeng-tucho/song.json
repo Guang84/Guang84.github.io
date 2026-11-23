@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-071",
+    "number": 71,
+    "source": {
+      "printedNumber": 71,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Adi tingsaeng tucho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Adi tingsaeng tucho aniu kandi ringhmei tingmik hei?",
+            "Neihlamei munpuang tuaidat lak khe;",
+            "Aniu hei ntam dat khang tingmik kathan patdat puni,",
+            "Tam dat makpui ram gaimei tei ning e.",
+            "",
+            "Ntam makmei samei ram gaimei khou,",
+            "Zianmei nun le mbaan thaini;",
+            "Gaekloumei Guangh Khrista kanloumeipu,",
+            "Neihlamei hu khou rianramei tei maan ni.",
+            "",
+            "2. Kandi ram hei khou hei kapma huaina rianra bamsini,",
+            "Rianramei paeng khou ram gaimei nai;",
+            "Kanloumei Guangh Khrista thei lai khou",
+            "Rianra loumei guaimu, Hei ram gai khou tei aniuni lungni.",
+            "",
+            "3. Neihlamei munpuang bam, kanloumei Pu Khrista bampui ram,",
+            "Zaulo! Ai tingmik thui ning bam e;",
+            "Tingkao latdiu nun le nzianmei ntam kanmei guai le,",
+            "Tabui nung neihla na kariuni cho?",
+            "",
+            "4. He! Nzianmei nun le, kataan taanv khang tei alieo mak na,",
+            "Kagan hei tingmik thui na guang the,",
+            "Lauthuan gaanphiu gaan gaimei tei guang khang tingmik hei ‘na the,",
+            "Taan hei taanluai pukhou mbaan thaini.",
+            "",
+            "5. He! Pou’ kalloumeipu",
+            "Neihlamei munpuang gaimei Nang e,",
+            "Kandi neihlamei munpuang tuai the;",
+            "Nang zau khou tei he! Pou’ neihlamei tuang kapumma patdiu,",
+            "Neihlamei Sharon mun gai tei nang e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 71",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 71. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Adi tingsaeng tucho",
+        "titleRongmei": "Adi tingsaeng tucho"
+      }
+    }
+  }
+}

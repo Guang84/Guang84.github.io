@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0283",
+    "number": 283,
+    "source": {
+      "printedNumber": 283,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J.Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "10.10.12.10.",
+      "tune": "SS 478"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Kaipouc,Nang hu khou khuksun",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He, Kaipouc Nang hu khou khuksun key e;",
+            "Nang latryan khou ngangvlouna ai huay bam;",
+            "Ata sw ’thanlou o, ntaw hei khiulou o;",
+            "Paapc guay khiu ’thanlou o, Jisu akhang.",
+            "",
+            "2 Alung laihmei mikdui luangc key bam e,",
+            "Ai lwmlou thay diu khang ’khavlou na ro,",
+            "Ai kahaw e Nang ta, mi hei amachunc e;",
+            "Jisu akhang theiclou, Jisu akhang.",
+            "",
+            "3 ’King o, zianmei lat, niamh gayna keymei,",
+            "Kauh thangc >|3 chulou the, ai >|3 huaymei;",
+            "Lwmsiimei guay ’maan the, tanhmei lung sw bak the,",
+            "Ai Nang khang na di the,",
+            "Jisu akhang.",
+            "",
+            "4 ’Taw nganv Nang hu khou khuksunna bam e,",
+            "Nang latryan khou ngangvlouna ai huay e,",
+            "Lwmmei paan ai guang e, mi hei ai lwmmei e:",
+            "Jisu akhang theiclou, Jisu akhang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus My All!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "10.10.12.10.",
+        "SS 478",
+        "Fanny J.Crosby",
+        "JISU, AKHANG !",
+        "Jesus My All!",
+        "source hymn 283",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 283."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Kaipouc,Nang hu khou khuksun",
+        "titleRongmei": "He Kaipouc,Nang hu khou khuksun",
+        "titleEnglish": "Jesus My All!"
+      }
+    }
+  }
+}

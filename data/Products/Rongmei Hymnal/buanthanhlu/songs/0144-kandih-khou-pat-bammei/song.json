@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-144",
+    "number": 144,
+    "source": {
+      "printedNumber": 144,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou Pat Bammei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          144 Kandih Khou Patbammei",
+            "                              11.12.10. 11",
+            "          Doh hei Eb",
+            "",
+            "          1. Kandih khou patbammei ramh kataana hei,",
+            "             Ravguangc rui tỉiloumei ganv khou patbam tu e.",
+            "             Puanhpui ganv nai e, theihpui ganv nai e;",
+            "             Lingckeypui ganv nai, phuaiganhpui ganv nai e.",
+            "",
+            "          2. Swluaipui ganv nai , swgaypui ganv nai e;",
+            "             Raakeypui ganv nai, kasiamhthaupui ganv nai;",
+            "             Kappui ganv nai e, nuihpui ganv nai e:",
+            "             Zaengsipui ganv nai, alaamhpui ganv nai e.",
+            "",
+            "          3. 'Dat ganhpui ganv nai, khuaic kaduaipui ganv nai;",
+            "             Pamhpui ganv nai e, \"patloupui ganv nai e;",
+            "             Laaloupui ganv nai, amaanpui ganv nai;",
+            "             Siatkaekpui ganv nai, hui kariupui ganv nai.",
+            "",
+            "          4. Reihreipui ganv nai, lat saapui ganv nai e;",
+            "             Nzianpui ganv nai, karaengpui ganv nai e;",
+            "             Ndaapcpui ganv nai, nggupui ganv nai;",
+            "             Zinghpui ganv nai e, gaanc datpui ganv nai e.",
+            "",
+            "          5. Ramh kaguay Ravguangc ruina taanclou ngam e;",
+            "             Simei ryanraamei guang pwkhou huayney o;",
+            "             Ramh gaymei guay guang pwkhou thuancku o;",
+            "             Ravguangc rui ngam lak tuang khatsihnic maek ge."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou Pat Bammei"
+      }
+    }
+  }
+}

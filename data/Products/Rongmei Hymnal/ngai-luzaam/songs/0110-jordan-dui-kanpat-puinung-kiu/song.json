@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-110",
+    "number": 110,
+    "source": {
+      "printedNumber": 110,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jordan dui kanpat puinung kiu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Jordan dui kanpat pui nung kiu",
+            "Gaichuimei kaidai khou tei",
+            "Thuak lou mei nun rui thuan bam mei",
+            "Kaniu lun tei ai hou ni.",
+            "",
+            "He! Poubao mei zeipan rui heiram gai tei",
+            "Kasiam lou the aniu kaguay na khang",
+            "Anuan kaguay na hei kuak lou ngam kan the",
+            "Ti than lou ngam the kazei haeng paan rui.",
+            "",
+            "2. Poubaomei bampui ramc gaimei",
+            "Ai rui nkhuan lian lak khe",
+            "Ringmei thing bang limv gaimei khou",
+            "Bui nung rui zaeng suni cho?",
+            "",
+            "3. Tingkao Jerusalem than gai",
+            "Karam gai sa ngam mak ge",
+            "Khou tei jisu rui khuan bam e",
+            "Nam than gaimei khou gut khang.",
+            "",
+            "4. Kanloumei pu daeng tang pu khou",
+            "Lung rianra meinai lak khe",
+            "Pap puat nritmei phungmei guay",
+            "Hei khou tei lou kei ni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 110",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 110. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jordan dui kanpat puinung kiu",
+        "titleRongmei": "Jordan dui kanpat puinung kiu"
+      }
+    }
+  }
+}

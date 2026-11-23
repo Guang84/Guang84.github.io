@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0227",
+    "number": 227,
+    "source": {
+      "printedNumber": 227,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Albert Midlant",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.6.8.6. Ref.",
+      "tune": "SS 309"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Poubauhmei, Nang taanv",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Poubauhmei, Nang taanv",
+            "Tiikaluanlou dat ro!",
+            "Meic nac kathuic khou saalou o!",
+            "Nang mei guay chu diu o!",
+            "",
+            "Nang taanv kaluanlou o,",
+            "Ney e, he Poubauhmei!",
+            "He zauzian Kaipouc, keylou o!",
+            "Ntaw suaihiamlou o!",
+            "",
+            "2 Nang taanv kaluanlou o!",
+            "Nang taanv tiidaiclou o!",
+            "Nang zauzian meic lung",
+            "kathuic khou",
+            "Maibwang kumc chuangc thau diu!",
+            "",
+            "3 Kaipouc, Nang Lat ruc khou",
+            "Nang suaihiam tiilou o!",
+            "’Thanmei, ’chumhmei Nang lat bah hei",
+            "Chuna meic nunc lwm diu!",
+            "",
+            "4 Nang taanv kaluanlou o,",
+            "Pentikos nungc kumcna!",
+            "Hymdaihmei Kaipouc khang sw diu!",
+            "Suaihiam ’niw khang sw diu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Revive Thy Work, O Lord",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "6.6.8.6. Ref.",
+        "SS 309",
+        "Albert Midlant",
+        "Revive Thy Work, O Lord",
+        "source hymn 227",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 227."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Poubauhmei, Nang taanv",
+        "titleRongmei": "He Poubauhmei, Nang taanv",
+        "titleEnglish": "Revive Thy Work, O Lord"
+      }
+    }
+  }
+}

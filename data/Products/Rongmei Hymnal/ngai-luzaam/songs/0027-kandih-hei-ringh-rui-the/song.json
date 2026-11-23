@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-027",
+    "number": 27,
+    "source": {
+      "printedNumber": 27,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "6.7.10.6.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih hei ringh-rui the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih hei ringh-rui the,",
+            "Kalungh khou maansei guaini",
+            "Simei le lunggeihmei rui likngam the,",
+            "Nzianmei guai le pou",
+            "Pei guaini maan ngam the.",
+            "",
+            "He! Lauziu Na ‘zaenghmei rui",
+            "Kasiam namthanh tei,",
+            "He! Abumaeng nangni",
+            "Miramgai tei phu lo,",
+            "Kandi loudu puinung",
+            "Nang tingsaeng ram sukhang.",
+            "",
+            "2. Gaipui ram kasiam the,",
+            "He! Tingsaengzaeng gaipui ram:",
+            "Rainrapui ram rih lai guang khuansini,",
+            "Khrista t alum e thei,",
+            "Namdaih tei tang puni.",
+            "",
+            "3. Reikhou pou-pei guai rui,",
+            "Houmak pui tuang ram gaimei,",
+            "Zeipan khou rui ntau hei ai houni,",
+            "Ai tatnipui chaeng tei,",
+            "Guangh khrista hei nade."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 27",
+        "Khristian Luzaam PDF",
+        "Chord: C",
+        "Meta 3: 6.7.10.6.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 27. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 27,
+        "match": "title-match-0.95"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih hei ringh-rui the",
+        "titleRongmei": "Kandih hei ringh-rui the"
+      }
+    }
+  }
+}

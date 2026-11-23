@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-156",
+    "number": 272,
+    "source": {
+      "printedNumber": 156,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "Irregular",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lauthuan aniu tarou thang njuan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Lauthaun aniu tarou thang njuan guang pukhou,",
+            "Rou kham tei lan lou the Khrista kamei @&4na;",
+            "Ata kaupui khuan chu, bumang thanmei khuan e,",
+            "Jiangri pat ki kamei ding bma khuan e,",
+            "Ata kaupui khuan chu Jisu ringthao kanthe,",
+            "Dinga bam du kan the,",
+            "Kamei khou tei lauthuan.",
+            "",
+            "2. Jisu ringthao kan the apap guai gulouna,",
+            "Kandih rianramei le theimei ta ngam lana;",
+            "Nthanliangmei jei tei @&4 ata gulou na,",
+            "Adi neila ni cho? Khrista jianloumei hei,",
+            "Adi neila ni cho? Khrista jianloumei hei,",
+            "Neikhat mu neilana kata ai ariu ni.",
+            "",
+            "3. Jisu njian loupui lun phuanga ringthao the,",
+            "Khrista kamei banjat biak thang bam the;",
+            "Ata jai o Khrista banjat @&4na ata,",
+            "Kajei pan naiu thei dat pulak khe,",
+            "Kathei ai lai tat ni ai ping tuang nai lakkhe,",
+            "Tingkauh kaidai thang aniu guanglung chamni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 156",
+        "SQLite BookTypeID 2",
+        "Key: C",
+        "Meter: Irregular",
+        "Chord: C",
+        "Meta 3: Irregular"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 156); no high-confidence title match was found in the PDF list. The digital catalogue number is 272; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 156,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lauthuan aniu tarou thang njuan",
+        "titleRongmei": "Lauthuan aniu tarou thang njuan"
+      }
+    }
+  }
+}

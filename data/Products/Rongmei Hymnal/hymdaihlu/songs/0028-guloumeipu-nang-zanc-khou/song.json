@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0028",
+    "number": 28,
+    "source": {
+      "printedNumber": 28,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Ellerton",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.10.10.10.",
+      "tune": "SS 291"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guloumeipu Nang zanc khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guloumeipu, Nang zanc khou suan dat re!",
+            "Lungh khat swna thuanc e, piangpui lu ({0;",
+            "Thau dingna thuanc e, ’niw piang pat ni khou,",
+            "’Khwan e, Nang latkaeng chuzaenghmei Lat ta.",
+            "",
+            "2 Kai ’zwan tat khou chuzaenghmei tiilou o,",
+            "Tingmik thaumei, luaimei Nang khou sw ni;",
+            "’Taw Nang zanc saanhmei mwang lev lung guay hei,",
+            "Gaeklou o, paapc khou keylou dat mak khang.",
+            "",
+            "3 Zingbangc saanv saengh chuzaenghmei tiilou o,",
+            "Zingbangc zinghmei, gaanhmei tiiguanhlou o;",
+            "Siimei khou ({0 ’niw ta gaekduaklou o,",
+            "Zinghmei, gaanhmei hei khat na de Nang khang.",
+            "",
+            "4 Panty saanvsaengh chuzaenghmei tiilou o,",
+            "Naumei nunc khang puc gaymei swlou o,",
+            "’Niw ryanra guay hei Nang tii ’thaekc pwkhou,",
+            "Kawlou o, ’niw ta chuzaengh suangmei khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Saviour, Again to Thy Dear Name",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "10.10.10.10.",
+        "SS 291",
+        "John Ellerton",
+        "Saviour, Again to Thy Dear Name",
+        "source hymn 28",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 28."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guloumeipu Nang zanc khou",
+        "titleRongmei": "Guloumeipu Nang zanc khou",
+        "titleEnglish": "Saviour, Again to Thy Dear Name"
+      }
+    }
+  }
+}

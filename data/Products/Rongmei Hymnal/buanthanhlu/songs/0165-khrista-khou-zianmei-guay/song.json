@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-165",
+    "number": 165,
+    "source": {
+      "printedNumber": 165,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khrista khou Zianmei guay.",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          165 Khrista khou 'Zianmei guay",
+            "                             10.6. 6. 10. 6.4",
+            "",
+            "          1. Khrista khou 'zianmei guay daicthau 'chamc kho,",
+            "             Zauzian khou daicthau kho:",
+            "             Siimei chwn ganc ngamna,",
+            "             Khat rui khat ta 'zianna pumh khat swna,",
+            "             Khrista khou meic guayna,",
+            "             Daicthau 'chamc kho.",
+            "",
+            "          2 'Zianmei nunc le, lwmmei khou daicthau kho,",
+            "            Tingmik thuih Khrista lev",
+            "            Pumh khat chwn khat swna,",
+            "            Nang rui thayloumei guay ngampat pwkhou,",
+            "            Lwmloumei ramgai kiu,",
+            "            Meic nunc how diu.",
+            "",
+            "          3. Assam, Manipur, Nagaland 'dic hei,",
+            "             Nzaengcdic lev luangh guay,",
+            "             Khrista khou khatna de,",
+            "             Kathumh akhat swmei RNBA",
+            "             Khrista hym lungc ndauh diu,",
+            "             RNBA."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khrista khou Zianmei guay."
+      }
+    }
+  }
+}

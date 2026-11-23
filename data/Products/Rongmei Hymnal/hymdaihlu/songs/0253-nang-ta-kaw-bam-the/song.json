@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0253",
+    "number": 253,
+    "source": {
+      "printedNumber": 253,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles H.Gabriel",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "12/8",
+      "meter": "13.11.13.8. Ref.",
+      "tune": "RS 125"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NANG TA KAW BAM THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc ^&8 pak ’maan",
+            "kanmei nunc ta kawna bam e,",
+            "Chu lo, he Kamei ^&8 kaw bam e, nang ta,",
+            "Kakhou ^&8 nang maeng duc tat sihni aseic guang tho,",
+            "Chu lo, zianpui khwan ^&8 kaw e.",
+            "",
+            "Nang .. ta kaw bam the,",
+            "Maeng tat .. mei nang, guang la tho,",
+            "Nang .. ta kaw bam the,",
+            "Maeng tat ..mei nang guang latho.",
+            "",
+            "2 Kaniam gayna nang Pu ^&8 ’taw nganv kawna bam e,",
+            "Chu lo, he Kamei ^&8 kaw bam e nang ta,",
+            "Bumaengh ’Thanmei ^&8 saa ’khavlou",
+            "bam khou guang la tho,",
+            "Chu lo, ’zianpui khwan ^&8 kaw e.",
+            "",
+            "3 Guang tho, nang Pu kai khou tiitu khang taektw nai e,",
+            "Chu lo, he Kamei ^&8 kaw bam e nang ta,",
+            "Zauclo, ngay khang tuzangvpui",
+            "tuang chamdaanv luailou the,",
+            "Chu lo, zianpui khwan ^&8 kaw e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Calling the Prodigal",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "12/8",
+        "13.11.13.8. Ref.",
+        "RS 125",
+        "Charles H.Gabriel",
+        "Ravguangc rui pak ’maan kanmei",
+        "Calling the Prodigal",
+        "source hymn 253",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 253."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NANG TA KAW BAM THE",
+        "titleRongmei": "NANG TA KAW BAM THE",
+        "titleEnglish": "Calling the Prodigal"
+      }
+    }
+  }
+}

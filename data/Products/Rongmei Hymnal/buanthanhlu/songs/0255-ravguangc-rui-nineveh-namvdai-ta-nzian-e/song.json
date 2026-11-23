@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-255",
+    "number": 255,
+    "source": {
+      "printedNumber": 255,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc rui Nineveh Namvdai ta Nzian e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          255 Ravguangc rui Nineveh Namvdai ta",
+            "                       12.9.6.9.9. Ref.7., 13. 14. 10. 12. 10. 13",
+            "          Doh hei Eb",
+            "",
+            "          1. Ravguangc rui Nineveh namvdai ta nzian e;",
+            "             Simei taanv khourui lungh laic diu khang,",
+            "             Lungh laic dat mak gethei,",
+            "             Nang kandic 'maan pwni the twna,",
+            "             Chamv dinh khang Jonah ta ndiu the.",
+            "",
+            "                  \"Jonah thau lana tat tho,",
+            "                  Nineveh namvdai thangc tei kauc lana dinc tat tho.\"",
+            "                  Jonah tei rui Nineveh namdai thangctei tat kan the.",
+            "                  Jonah rui heic namvdai chaengluang khoutei,",
+            "                  Lungh laic tho, lungh laic tho twna dinc ruanlou the.",
+            "                  Nineveh namvdai tei lungh laic kan the,",
+            "                  'Maan nimei khourui Ravguangc rui gulou dat kan the.",
+            "",
+            "          2. Ravguangc rui Amitai nac mpouh Jonah ta,",
+            "             Chamv dinh khang kata ndiulou the.",
+            "             Jonah rui Ravguangc lat piu makna,",
+            "             Chaeng baih thangc leytat the.",
+            "             Ryanraamei pingmei ariw kan the.",
+            "",
+            "          3. Jonah rui Ravguangc lat piu makna leytat the,",
+            "             Rungh khou tuangc tatna dui khou keylou.",
+            "             Jonah tei dui lungc khou",
+            "             Khavkui rui \"luakcna neih thumh bam the;",
+            "             Jonah lunghlaic datna gulou the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc rui Nineveh Namvdai ta Nzian e"
+      }
+    }
+  }
+}

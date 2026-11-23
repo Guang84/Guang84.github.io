@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-206",
+    "number": 206,
+    "source": {
+      "printedNumber": 206,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kasing phu ngam mak mei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kasing phu ngam mak mei kandih puat kaguay hei",
+            "He Ravguangc nang paan khou rui ring e;",
+            "Nang zau kari nkhei pukhou ram guay",
+            "Ring ngam nimei mak ge Ravguangc .",
+            "",
+            "Riulou o, nang suaihiam ting riu,",
+            "Tari mei kandi puat kaguay ru khou",
+            "Kandih puat guay hei kang ngam the;",
+            "Nruai thao ruai guai ni rim rim",
+            "Panti than khou lung dat khang rui",
+            "Nang suaihiam riulou khang khuanc bam e.",
+            "",
+            "2. Kakum kagan tingkum machang khang ti guang lou",
+            "Neilamei ni kapmei ni tilou;",
+            "Mun puang pui gan thing nui rui tang pui gan,",
+            "Theimei ringmei nang khou nai e.",
+            "",
+            "3. Ching guai khum rim-rim kandi zaeng si ngam the",
+            "Zian mei nun khuan ni chudat mak khe,",
+            "Nang zauzian rui hamna kandih puat guay",
+            "Ringmei makge tumei din lou.",
+            "",
+            " Pastor Abui"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 206",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 206. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kasing phu ngam mak mei",
+        "titleRongmei": "Kasing phu ngam mak mei"
+      }
+    }
+  }
+}

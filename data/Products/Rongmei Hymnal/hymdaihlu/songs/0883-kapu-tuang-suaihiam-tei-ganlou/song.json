@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0883",
+    "number": 883,
+    "source": {
+      "printedNumber": 883,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "11.10.11.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kapu tuang suaihiam tei ganlou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kapu tuang suaihiam tei ganlou dulana,",
+            "Changman na ruan tat kanmei nah kum;",
+            "Kandih ramta kamei @&4 phu khuan e,",
+            "Kachangmei khou@&4 buithang ruan tat tucho?",
+            "",
+            "Chorus:",
+            "Kaikhou hanguang datro tuna kao e,",
+            "Zion jangkhang @&4 nang tan tan jina cho?",
+            "Jiprina bammei bumang jip thao tho,",
+            "Poubaumei tan tan diu khang,",
+            "Nangta kao bam the.",
+            "",
+            "2. Ruanman tat kanmei nah npou kumma,",
+            "Lunggai chingkhiumei ta akhiamma bam e;",
+            "Ram khe sumei le ningthiu sumei guai le,",
+            "Kachangmei khou@&4 buithang ruan tat tucho?",
+            "",
+            "3. Poubaumei @&4 kao khou nang gutlou jina cho?",
+            "Zion khang @&4 thou tanh tan nina cho?",
+            "Nang poubaumei tuang siamruai sujina cho?",
+            "Laujiu changmun lanlou bam khou gut datro."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "11.10.11.11.",
+        "Kapu tuang suaihiam tei ganlou",
+        "source hymn 153",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 153."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kapu tuang suaihiam tei ganlou",
+        "titleRongmei": "Kapu tuang suaihiam tei ganlou"
+      }
+    }
+  }
+}

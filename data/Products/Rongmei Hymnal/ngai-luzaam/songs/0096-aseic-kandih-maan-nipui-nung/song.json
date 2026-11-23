@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-096",
+    "number": 96,
+    "source": {
+      "printedNumber": 96,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aseic kandih maan nipui nung",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Asei kandi maan ni pui nung",
+            "Kum the aniu tam mei hei,",
+            "Raguang rui suaihiam ntang mei",
+            "Tilou o mban thai khang .",
+            "",
+            "Ntam puni the aseic hei,",
+            "Chun si zaeng sirui padik e",
+            "Raguang rui nduang lou kandiu",
+            "Aniu guai ntam sini.",
+            "",
+            "2. Aniu hei ntam kan sini",
+            "Zailou o nang zau zianc rui,",
+            "Gaeng lou mak mei lauziu na kum",
+            "Pat lou rio aniu guay ta.",
+            "",
+            "3. Zianc mei nun tan ntam lana",
+            "Chunsi zaeng sirui padik e",
+            "Ntam lou mei zaeng si mik dui",
+            "He raguang thut phui lou o.",
+            "",
+            "4. Ravguangc rui zauzianc mei lung khou,",
+            "Neihlana bam chamv datni,",
+            "Tingkao kandih guangc tang pukhou,",
+            "Salak khe chunsi salam ."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 96",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 8.7.8.7."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 96. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 96,
+        "match": "title-match-0.92"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aseic kandih maan nipui nung",
+        "titleRongmei": "Aseic kandih maan nipui nung"
+      }
+    }
+  }
+}

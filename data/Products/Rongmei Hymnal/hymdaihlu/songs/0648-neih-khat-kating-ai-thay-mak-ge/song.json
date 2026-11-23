@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0648",
+    "number": 648,
+    "source": {
+      "printedNumber": 648,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "C.W.Ray,D.D.",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.6. Ref.",
+      "tune": "SS 953"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NEIH KHAT , KATING AI THAY MAK GE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neih khat, kating ai thay mak ge,",
+            "Mikdui guay ta ramnavlou ni,",
+            "Baanch’ra nunc lev ai lungc ’chamc ni,",
+            "Neih khat suaihiampui neic.",
+            "",
+            "Neih khat .. neih khat,",
+            "Khrista lev ai lungc ’chamc ni the,",
+            "Neih khat .. suaihiampui neic.",
+            "",
+            "2 Neih khat, raenghkat gaymei lungc khou,",
+            "Kachaekc ’rac 8^& ai dow puni,",
+            "Kangranmei pheychuan ai piu ni,",
+            "Neih khat suaihiampui neic.",
+            "",
+            "3 Neih khat, Gumei pu zaw how ni,",
+            "Ata pamcna riulou puni,",
+            "Kamei nunc lev lungc kariu ni,",
+            "Neih khat suaihiampui neic.",
+            "",
+            "4 Neih khat, ai sowriw dat puni,",
+            "Tat rey kanmei zianmei nunc ta,",
+            "Khrista thukh ai thay puni the,",
+            "Neih khat gay liangpui neic."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Some Blessed Day",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "8.8.8.6. Ref.",
+        "SS 953",
+        "C.W.Ray,D.D.",
+        "Some Blessed Day",
+        "source hymn 648",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 648."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NEIH KHAT , KATING AI THAY MAK GE",
+        "titleRongmei": "NEIH KHAT , KATING AI THAY MAK GE",
+        "titleEnglish": "Some Blessed Day"
+      }
+    }
+  }
+}

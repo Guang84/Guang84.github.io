@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-232",
+    "number": 232,
+    "source": {
+      "printedNumber": 232,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khat lev khat ta nzian mei hei jisu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Khat le khat ta nzian meihei jisu khang ,",
+            "Bang kariulou the niu ntam datlak khe,",
+            "Lum lou numei katan tan khang kaolou the.",
+            "Niu lung ning tang khin rikho kagan ta nkhuan kho.",
+            "",
+            "Niu guai hei jisu khang zianmei",
+            "Lung ning guai , niu bang kariulou the",
+            "Ntam datlak khe.",
+            "",
+            "2. Aniu neila meilu khuan guai jisu khang .",
+            "Akhuan rui kata thuan suanchui ri rina ,",
+            "Aniu guai zauthai the kakhou lum loukhang .",
+            "Kaipou ruiguang pirun phung guang mak san",
+            "Nkhuan kho.",
+            "",
+            "3. Mihei ai ningmei e ,jisu hei akhang.",
+            "Kazan khou along ning neila na bam ni,",
+            "Aniu gaimei ting kao namdai tang maksan ,",
+            "Zao lo him daimei guloumei purui, nkhuan bam ."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 232",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 232. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khat lev khat ta nzian mei hei jisu",
+        "titleRongmei": "Khat lev khat ta nzian mei hei jisu"
+      }
+    }
+  }
+}

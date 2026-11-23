@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0331",
+    "number": 331,
+    "source": {
+      "printedNumber": 331,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "C. Authim Miles",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "6/8",
+      "meter": "13.13. 12.11. Ref.",
+      "tune": "SSSH 339"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU ’DUANGHLOU ’THEI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Saa ngam makmei siimei naimei nzaengc khou punic,",
+            "Neihriw naipui bamv khou chuzaenghna ai bam punic,",
+            "Zingc punic, gaanc punic, ai ramh khat na thay e,",
+            "Jisu tat ’chamc ethei kabamv ’thuic tat ni.",
+            "",
+            "Jisu ’duanghlou ’thei ai tat ni, kabamv ’thuic,",
+            "Tabui khou punic Jisu ’duanglou ’thei tingkauh di the,",
+            "",
+            "Khou hei san-gaymei khang chak ge Kakros phunghmei,",
+            "Jisu ’duanghlou ’thei ai tat ni kabamv ’thuic.",
+            "",
+            "2 Ringhmei lat dinc tat khang ata kawlou ’khwan ethei,",
+            "Sypungram tat kaanna paapc )}3 zynpui bamv thangc 3)^,",
+            "Kachuangcphey daanc tat khang asan khou nai khwan ’thei, tat ni.",
+            "",
+            "3 Gaanv saekc )}3 ryanrana duipui paengc thangc tat bam khou,",
+            "Ai thu kai khou bam khang asan khou nai khwan ethei,",
+            "Kalatzan khou lwmmei Kakhou ndauhlou ni,",
+            "Kamei bam ’chamc ethei kabamv ’thuic bam ni.",
+            "",
+            "4 AKaipouc latzan ta thanv bam khang athouc hamh e,",
+            "Kalat )}3 zayloumei suihmei hei athouc kiu the,",
+            "Tat punic, bam punic, tabui bui khou punic,",
+            "Kaipouc lev bam ’chamcna lungh kimna bam ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "If Jesus Goes With Me",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "6/8",
+        "13.13. 12.11. Ref.",
+        "SSSH 339",
+        "C. Authim Miles",
+        "Saa ngam makmei siimei naimei",
+        "If Jesus Goes With Me",
+        "source hymn 331",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 331."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU ’DUANGHLOU ’THEI",
+        "titleRongmei": "JISU ’DUANGHLOU ’THEI",
+        "titleEnglish": "If Jesus Goes With Me"
+      }
+    }
+  }
+}

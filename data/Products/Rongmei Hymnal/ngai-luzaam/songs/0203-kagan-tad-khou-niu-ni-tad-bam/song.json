@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-203",
+    "number": 203,
+    "source": {
+      "printedNumber": 203,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kagan tad khou niu ni tad bam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kaganv tat khou niu ni tatbam.",
+            "Tingmik tat pui thei laina.",
+            "Niu mi kandih hei patlouna",
+            "Niu kai tyngkau thu tat ni.",
+            "",
+            "Kagan rui tatmei kum niu ni tat bam ] 2",
+            "Aniu rui aniu kai thang zuan tat bam,",
+            "Kagan rui tatmei kum niu ni tat bam.",
+            "",
+            "2. Tingkum khumna niu tat guang the,",
+            "Panti lung kei lungku na;",
+            "Aniu lung rianra neila na",
+            "Aniu kaap guat nui guat na.",
+            "",
+            "3. Oh! tingmik thui pouta lum kho,",
+            "Chumpui chang khou zailou khang;",
+            "Aniu guai chang man dat mak khang ,",
+            "Zingmei paap khou tat mak khang.",
+            "",
+            "4. Kandih panti chaeng hei tatna",
+            "Neikhat neikhat tat guang na,",
+            "Bumaeng lungpui ram tang ni the,",
+            "Niu chang kam hei luai pui nung ."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 203",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 203. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kagan tad khou niu ni tad bam",
+        "titleRongmei": "Kagan tad khou niu ni tad bam"
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0722",
+    "number": 722,
+    "source": {
+      "printedNumber": 722,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Lungphak T. Panmei",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "Irregular. Ref.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NEIHLAA JUBILI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "Neihlaa Jubili! Neihlaa Jubili!",
+            "Neihlaa Jubili ’seic guang tangc the!",
+            "Neihlaana suan o, kauc ranvna thuanc o,",
+            "Ravguangc hei gay e - suai zat mak ge.1 ’Niu kaduai bam e Ravguangczauzian thuanh khang,",
+            "Katuang suai makmei chakna thuanh khang;",
+            "Aseic nganv guangmei Kazauzian paan e,",
+            "Ravguangc zauzian hei suai zat mak ge.",
+            "",
+            "2 Kasuaihiam azuh aniu laa tow kan tha!",
+            "Tingkwm hei saan hei kadanloumei!",
+            "Ringhbamv laa kanmei, ringhting kalauh kanmei:",
+            "Ravguangc latryan hei suai zat mak ge.",
+            "",
+            "3 Jubili Ngai hei aniu ngaymei khou hei",
+            "Katuang gaychamv hei dinc liktat kho;",
+            "Kandih guay thay diu Ravguangc zauzian chamv hei",
+            "Thay lik diu “Kamei suai zat mak ge.”"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "Irregular. Ref.",
+        "Lungphak T. Panmei",
+        "He Never Fail",
+        "source hymn 722",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 722."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NEIHLAA JUBILI",
+        "titleRongmei": "NEIHLAA JUBILI"
+      }
+    }
+  }
+}

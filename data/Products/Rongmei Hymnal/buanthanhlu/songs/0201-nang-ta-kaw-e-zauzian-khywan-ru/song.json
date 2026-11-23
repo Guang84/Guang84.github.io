@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-201",
+    "number": 201,
+    "source": {
+      "printedNumber": 201,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang ta Kaw e Zauzian Khywan ru",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          201 Nang ta Kaw e Zauzian Khwan rui",
+            "                              8.8.8.7.Ref. 6. 6. 5. 6. 6.",
+            "",
+            "          1. Nang ta kawe zauzian khwan rui,",
+            "             Paapc phunghmei nac akhwan chu tho:",
+            "             Guangmei guay khang bamv chamdaanvlou;",
+            "             Tingkauh tei laancpat pwni the.",
+            "",
+            "                     Ringhmei zanc hylou the,",
+            "                     Ringhmei Latrik khou.",
+            "                     Tingkauh raengckat khou,",
+            "                     Nang guangbampui tuang e.",
+            "                     Lwm tho nang ringc pwni.",
+            "",
+            "          2. Heic kandic hei akai hamh e,",
+            "             Paapc rui guanghtupui kandic hei,",
+            "             'Baanvthaymei mak zinghpui dic khou,",
+            "             Tingkauh klai ta nkhwan lian lak.",
+            "",
+            "          3. Ai kaamcthau the tingkauh chaeng khou,",
+            "             Kabamv kapwmna kangvran e;",
+            "             Bumaengh lungc nipui kaidai e.",
+            "             Cross khou paapc guay khiu 'thanlou the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang ta Kaw e Zauzian Khywan ru"
+      }
+    }
+  }
+}

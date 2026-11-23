@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0612",
+    "number": 612,
+    "source": {
+      "printedNumber": 612,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "F.B.P.",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6.6.",
+      "tune": "SS 1010"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jerusalem neihlaapui kai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jerusalem, neihlaapui kai,",
+            "Nang ta ai rigwn e;",
+            "’Bui nungc ataanv guay hei luaina,",
+            "Nang khou neihlaa ni cho? (2)",
+            "",
+            "2 Tingkauh kachaekc raengc kat gaymei,",
+            "’Bui nungc ai how ni cho?",
+            "Tanhmei ringhbamv ^&8 swmei raengc,",
+            "Kachaekc chaeng how ni cho? (2)",
+            "",
+            "3 Ryanra lakmei lev theihmei ta,",
+            "’Bui khang ai ping ni cho?",
+            "Kanaan ramgai 8^& ai how the,",
+            "Tingsaeng gaanhmei ramc ta. (2)",
+            "",
+            "4 Aposal, martair, muhzwng nunc",
+            "Gumei pu daeng khou bam;",
+            "Dihmei Khrista khou ruprian guay",
+            "Kaniw lev kariu ni. (2)",
+            "",
+            "5 Jerusalem, neihlaapui kai,",
+            "Nang ta ai rigwn e;",
+            "Lakmei ataanv guay ’thaekc puni,",
+            "Nang ta howpui nungc kiu. (2)"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jerusalem, My Happy Home",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "8.6.8.6.6.",
+        "SS 1010",
+        "F.B.P.",
+        "Jerusalem, My Happy Home",
+        "source hymn 612",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 612."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jerusalem neihlaapui kai",
+        "titleRongmei": "Jerusalem neihlaapui kai",
+        "titleEnglish": "Jerusalem, My Happy Home"
+      }
+    }
+  }
+}

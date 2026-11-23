@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-156",
+    "number": 156,
+    "source": {
+      "printedNumber": 156,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pouh Raguang bam Jerusalem thanh khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Pouh Raguang bam Jerusalem thanh khou,",
+            "Thuankumei himdaihmei khuan rui padik ge;",
+            "Kahim daihmei zan hei saanna bam khuan sini,",
+            "Pak ri sini satang makge.",
+            "",
+            "Paak ri sini satang makge,",
+            "Kaidai gaimei kaomei lam tei sana",
+            "Paak ri sini ai satang ngam makge.",
+            "",
+            "2. Nthanmei nun le tingkauh banchra guai,",
+            "Kaidai gaimei khou tei zaat guai kariuna,",
+            "Aniu munpuang tuai kanmei puang patdat nimei,",
+            "Paak ri sini satang makge.",
+            "",
+            "3. Zaat guai khou rui kasing phu ngam makmei,",
+            "Tingmik thuih Lauziu Na Guangh bam dinghuamma,",
+            "Kaidai khou gutmei bumaeng tei chak ngam lakge,",
+            "Pak ri sini satang makge.",
+            "",
+            "4. Ringmei latrik khou zan hiloumei nun",
+            "Kaniu khang gumeipurui bam chamdaanlou",
+            "Gumeipu rui niu rianra ti zaengthaek louni",
+            "Karam gaitei niu hou nithe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 156",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 156. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pouh Raguang bam Jerusalem thanh khou",
+        "titleRongmei": "Pouh Raguang bam Jerusalem thanh khou"
+      }
+    }
+  }
+}

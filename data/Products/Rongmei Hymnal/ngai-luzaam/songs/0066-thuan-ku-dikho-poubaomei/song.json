@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-066",
+    "number": 66,
+    "source": {
+      "printedNumber": 66,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "11.8.11.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thuan ku dikho Poubaomei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Thuan ku di kho poubaomei thuai hien liang mei,",
+            "Kazauzian hei rui kanlou the;",
+            "Rianra thei mei khou rui aniu ta kanlou,",
+            "Ntau hei aniu gaina ariu dat the.",
+            "",
+            "He! Thuan dikho aniu kanlou mei pu,",
+            "Kabang karuh thang tat man kanmei guay;",
+            "Maan maknga ariu dat the Poubaomei zan khou,",
+            "Thuan pui khuan rui kau kho halleluijah .",
+            "",
+            "2. Nchum mei Guangh Poubaomei khum ngai luai the,",
+            "Neilapui tan guai ni luai the,",
+            "Hei kum ma aniu ni tat man ngam khuan the,",
+            "Ching le nzaeng kandi khou lung lik khuan the.",
+            "",
+            "3. Welcome bam khou hei aniu ariu dat the,",
+            "Abanjat hei rui ham guang e;",
+            "Khrita poubaomei khou nei la lou ngam o",
+            "San gaipui tingmik e pou khrista zan khou.",
+            "",
+            "4. Neihla zaeng gaimei tei kathan pat dat diu,",
+            "Lung lev bumaeng zip thau dat na;",
+            "Aniu khang rui kapmei lev rian ra kanmei,",
+            "Guangh khrista thuanku khang kathan sudat diu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 66",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 11.8.11.11."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 66. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 66,
+        "match": "title-match-0.95"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thuan ku dikho Poubaomei",
+        "titleRongmei": "Thuan ku dikho Poubaomei"
+      }
+    }
+  }
+}

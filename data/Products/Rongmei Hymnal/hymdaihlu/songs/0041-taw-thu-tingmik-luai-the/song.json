@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0041",
+    "number": 41,
+    "source": {
+      "printedNumber": 41,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Sabine Baring Gould",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.6.6.5.",
+      "tune": "CW 149"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Taw thu tingmik luai the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Taw thu tingmik luai the,",
+            "Zingbangc hei guang pw the,",
+            "Tingzyn ramswng guay #^5",
+            "Tingpuk chingc lik the.",
+            "",
+            "2 Jisu, lakmei nunc khang",
+            "Zaengthaekmei tiilou o,",
+            "Nuh gaymei suaihiam khou",
+            "Mik tanguih ni the.",
+            "",
+            "3. Saenghmei zingbangc saanv hei",
+            "Baanch’ra #^5 gaeklou o,",
+            "Kaniw swkaeng bangc khou",
+            "Ata gaeklou o.",
+            "",
+            "4 Lauthwan zip’chyang pwkhou,",
+            "Ai zip thau dat pwkhou,",
+            "’Thanmei, khanvbamv maekmei",
+            "Nang hu khou sw diu. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Now The Day Is Over",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "6.6.6.5.",
+        "CW 149",
+        "Sabine Baring Gould",
+        "Now The Day Is Over",
+        "source hymn 41",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 41."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Taw thu tingmik luai the",
+        "titleRongmei": "’Taw thu tingmik luai the",
+        "titleEnglish": "Now The Day Is Over"
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0739",
+    "number": 739,
+    "source": {
+      "printedNumber": 739,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.8.10",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih mun gai aniu khou puangmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih mungai aniu khou puangmei,",
+            "Tigan lou o jing pui bam khou hei;",
+            "Jingmei ruina achang man the,",
+            "Jaujian lapui bam Jordan pang khou hei.",
+            "",
+            "Chorus:",
+            "He! ata nduang lou o,",
+            "Rianrapui ram jingmei khou hei;",
+            "Ata nduang lou o, Immanuel Guangh Jisu.",
+            "",
+            "2. Kandih khou lik kandiu Guangh Jisu,",
+            "Njianloumei nang lat gaimei hei;",
+            "Nangjan nthanmei thuanku khang,",
+            "Tingnik thui tithai o, kalvari lat.",
+            "",
+            "3. Jianmei nun tam bampui bam kandih hei,",
+            "Kapma huai bam e kanloumei pu;",
+            "Thukmei jei rui kanloumei guai,",
+            "tingsang mun gai neilahna guang dat ro.",
+            "",
+            "4. Guang jisu ganphiu gan gaimeipu,",
+            "Gan guang dat ro alung jing khou hei;",
+            "Jingpui kandih khou bam mei guai,",
+            "Ganlou dat na nang rui jailou datro."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "9.9.8.10",
+        "Kandih mun gai aniu khou puangmei",
+        "source hymn 9",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 9."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih mun gai aniu khou puangmei",
+        "titleRongmei": "Kandih mun gai aniu khou puangmei",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

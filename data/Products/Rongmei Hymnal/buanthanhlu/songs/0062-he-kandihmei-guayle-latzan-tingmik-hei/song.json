@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-062",
+    "number": 62,
+    "source": {
+      "printedNumber": 62,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Kandihmei Guayle, Latzan Tingmik Hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          62 He Kandihmei Guayle",
+            "                           6.8.12. 14. 14",
+            "          Doh hei G",
+            "          1. He kandihmei guayle,",
+            "             Latzan tingmik hei 'naa guang the.",
+            "             Minhmei, 'zimei kadaa nimei ganvtei guang the.",
+            "             Heic kandic khouhei aniw rui lungc suang bam khang hamh e;",
+            "             Neihkhatpui tingmik kiu 'maan ngam pwni heic kandic hei.",
+            "",
+            "          2. Neihkhatpui nungc hei paapc kandic ta mpatlou pwni.",
+            "             Heic nungc kiu lwmmei lwm makmei ntamv pwni.",
+            "             Lwmmei guay rui Khrista ta sowriu khang samcku pwni.",
+            "             Lwmloumei kaikhunc mu ntamvpui lwn how dat lak khe.",
+            "",
+            "          3. Meic Nac Mpouh ruina latzan bamvpaeng khou dungc lana,",
+            "             Latzan sw pwni the heic kandih mei guay ta.",
+            "             Gaytaanv taancloumei nic siimei taanv taancloumei guay nic,",
+            "             Ndauh pat pwni the heic nungc kiu nang taanv kaguay tei.",
+            "",
+            "          4. Kandih kwn padeih khou nyngthav swna lungc bammei guay;",
+            "             Kandih chwn rui pheybaan swna lungc bammei guay,",
+            "             Nang bumaengc nang pumc tei Khrista zei ruina liulou the,",
+            "             Nangniw pheybaan piumei kumcna Khrista ta piu la tho.",
+            "",
+            "          5. Paapc tuang ndeihmei tei tuna theic bammei bumaengc guay.",
+            "             Kapna puihuay nimei tingmik tei 'naa guang the.",
+            "             Kandih khou nyngtyng naina saa-suanmei baley hei rui,",
+            "             Nang khuay guay tei saaduak dat ngam lak khe",
+            "             Ravguangc hu khou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Kandihmei Guayle, Latzan Tingmik Hei"
+      }
+    }
+  }
+}

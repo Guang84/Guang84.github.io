@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0272",
+    "number": 272,
+    "source": {
+      "printedNumber": 272,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Elizabeth Reed",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.5. Ref.",
+      "tune": "CSH 298"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’BUI KHANG ’SEIC ZINGBANGC",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He paapc mei, nang lungh tanh ri tho,",
+            "Aseic zingbangc ringhmei laa tho;",
+            "Latliammei sw saengc la ri tho,",
+            "Kaganv rii puni.",
+            "",
+            "Bui khang ’seic zingbangc,",
+            "Bui khang ’seic zingbangc,",
+            "Ringc ’zih bam cho?",
+            "Kaganv rii puni!",
+            "",
+            "2 ’Thuanh tuang panty ta thow",
+            "thay cho?",
+            "’Taw na hei kaganv kiu di the;",
+            "’Seic zingbangc kaganv gay khou hei",
+            "Guloumei laa tho.",
+            "",
+            "3 Kaipouc thu ’taw nganv zian bam e,",
+            "Kataanv huath nang thaylou lak cho?",
+            "Nang lung tanhmei kalaic pat tho,",
+            "Kaganv rii puni.",
+            "",
+            "4 Zauzian Kaipouc Poubauhmei thu",
+            "Kakhou guangmei kamv ta laa e;",
+            "Lwmlouna piu tho, ’seic zingbangc,",
+            "Guloumei laa tho."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Oh, Why Not Tonight?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "8.8.8.5. Ref.",
+        "CSH 298",
+        "Elizabeth Reed",
+        "He paapcmei nang lung tanh ri tho",
+        "Oh, Why Not Tonight?",
+        "source hymn 272",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 272."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’BUI KHANG ’SEIC ZINGBANGC",
+        "titleRongmei": "’BUI KHANG ’SEIC ZINGBANGC",
+        "titleEnglish": "Oh, Why Not Tonight?"
+      }
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0711",
+    "number": 711,
+    "source": {
+      "printedNumber": 711,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Dr. H.Bonar",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.8.D.6.6.6.7.",
+      "tune": "Ref. SS 1181"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HALLELUJAH! KROS KHANG TEI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kros 1<: ding ’tip bam e,",
+            "Hallelujah! Hallelujah!",
+            "Pwanzingh guay ta ngamna,",
+            "Hallelujah! Hallelujah!",
+            "T’ruaih-pwan guay ’liu kan the,",
+            "Dih {:1 karaeng kan the,",
+            "Tiki kros ta ngam mak,",
+            "Hallelujah! kros khang 1<:!",
+            "",
+            "Hallelujah! Hallelujah! Hallelujah!",
+            "Kros khang 1<:!",
+            "Hallelujah! Hallelujah!",
+            "Kros 1<: amaan zat lak ge!",
+            "",
+            "2 Kros 1<: reynungc kros re,",
+            "Hallelujah! Hallelujah!",
+            "Kros ric ramngam dinc kho,",
+            "Hallelujah! Hallelujah!",
+            "Ravguangc zauzian ganv e,",
+            "KaNac Khrista paan {:1",
+            "Paapc khou {:1 ranclou the;",
+            "Hallelujah! kros khang 1<:.",
+            "",
+            "3 Kros khou paapc pow khangclou,",
+            "Hallelujah! Hallelujah!",
+            "’Niu paap Jisu phungclou,",
+            "Hallelujah! Hallelujah!",
+            "Kros ding haengvna suan e;",
+            "Aniu khang khaengloumei,",
+            "Ringhmei Guangc Khrista khang",
+            "Hallelujah! kros khang 1<:!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Hallelujah for the Cross!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "6.8.D.6.6.6.7.",
+        "Ref. SS 1181",
+        "Dr. H.Bonar",
+        "Kros tei ding ntip bam e",
+        "Hallelujah for the Cross!",
+        "source hymn 711",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 711."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HALLELUJAH! KROS KHANG TEI",
+        "titleRongmei": "HALLELUJAH! KROS KHANG TEI",
+        "titleEnglish": "Hallelujah for the Cross!"
+      }
+    }
+  }
+}

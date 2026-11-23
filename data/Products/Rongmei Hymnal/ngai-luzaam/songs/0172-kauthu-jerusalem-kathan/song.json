@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-172",
+    "number": 172,
+    "source": {
+      "printedNumber": 172,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kauthu Jerusalem kathan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kauh thu Jerusalem kathan",
+            "Kauh thanmei nun bampui ramgai,",
+            "Khoutei Gwangh Immanuel rui guanghtu bam e",
+            "Ninga zuan guang e Zion ramgai thang tei.",
+            "",
+            "Hei kandi khang suang",
+            "Gailiangmei Zion ramtei",
+            "Theimei, rianramei, zingmei",
+            "Nai dat mak pui ram khoutei",
+            "Zion chingru khou Guang lauziuna",
+            "Thuanpui lu suanni.",
+            "",
+            "2. Immanuel nangtuang zeitei,",
+            "Atingsang lu gaimei suni",
+            "Mbaan thaimei tingkao ram ai guang tang pukhou,",
+            "Poubaomei ringmei munta airui houni.",
+            "",
+            "3. Haleluya kanloumeipu,",
+            "Kandi ramguai hei nang tuang e,",
+            "Nang zeirui ata liulou ai hei nang tuang e,",
+            "Ai khuan bam e rianramei Zordan pang khou.",
+            "",
+            "4. Guangdat zaini cho Poubaomei,",
+            "Kandi rianramei rui gumliam,",
+            "Kanaan ram le nangta airui ningtaan makge,",
+            "Kandi pat louna thanmei ramkhou lungni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 172",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 172. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kauthu Jerusalem kathan",
+        "titleRongmei": "Kauthu Jerusalem kathan"
+      }
+    }
+  }
+}

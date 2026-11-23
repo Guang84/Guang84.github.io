@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0447",
+    "number": 447,
+    "source": {
+      "printedNumber": 447,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Isaac Watts",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 672"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai kros ricmei khat swna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai kros ricmei akhat swna",
+            "Jisu thei laymei cho?",
+            "Kataanv ai taanc ping bam ni cho?",
+            "Kazanc saa zak ni cho?",
+            "",
+            "Kazanc khou, .. kunghmei zanc khou,",
+            "Theicloumei Kazanc khou,",
+            "Guangh pyrun laa ni zauzian ^&5,",
+            "Ai, phunghmei kros paan ^&5.",
+            "",
+            "2 Swan laa khang meic nunc rih ‘downa",
+            "Ryanra ’khaengv bam geih khou,",
+            "Ai thu amanv khang na phuna",
+            "Athouc ley bam ni cho?",
+            "",
+            "3 Akhang thu zauczihmei maek cho?",
+            "Kaan khang duidai maek cho?",
+            "Siimei dic ta duang swmei ^&5",
+            "Pou daeng zaylou ni cho?",
+            "",
+            "4 Guanghtu khang rih ’dow bam khou hei,",
+            "Ngamv tiilou o, Kaipouc!",
+            "Ai taanc ni, ryanramei ’khaengv ni,",
+            "Nang lat ^&5 zaylouna."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A Soldier of the Cross",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 672",
+        "Isaac Watts",
+        "A Soldier of the Cross",
+        "source hymn 447",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 447."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai kros ricmei khat swna",
+        "titleRongmei": "Ai kros ricmei khat swna",
+        "titleEnglish": "A Soldier of the Cross"
+      }
+    }
+  }
+}

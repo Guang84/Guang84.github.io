@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-024",
+    "number": 24,
+    "source": {
+      "printedNumber": 24,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "10.9.10.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He kanlou meipu nang ta ning tan mak",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He! Kanlou meipu nang ta ning tan mak",
+            "Akhang rianra muang kum ma zing e,",
+            "He! Nang lun gaimei rianra kuak lou mei,",
+            "Tingkao gaanphiu gaanc pat dat ro.",
+            "",
+            "He! Ningtan makge ata duang lou o,",
+            "Nang rui ham na kallou meipu,",
+            "Tingzing ngam makge.",
+            "",
+            "2. Kapma bampui bam rianra ram khou hei,",
+            "Patlou rio he kanlou mei pu.",
+            "He nang zauzian rui ata zailou o,",
+            "Ping pui chang khou tat bam khou hei.",
+            "",
+            "3. Theimei Jordan duidai bam khuan sini,",
+            "Nduang lou o he guang jisu le;",
+            "He! kachaek namdai chaeng gaimei khou tei,",
+            "Neihla lu suan na ti tat ro.",
+            "",
+            "4. Salem namdaih ringh mei thingbang lim khou,",
+            "Bumaeng thanmei rui nduang lou o,",
+            "Nang rui hamna ai hei kanloumeipu,",
+            "Nang ta ning na tingzing ngam mak."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 24",
+        "Khristian Luzaam PDF",
+        "Chord: C",
+        "Meta 3: 10.9.10.8."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 24. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 24,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He kanlou meipu nang ta ning tan mak",
+        "titleRongmei": "He kanlou meipu nang ta ning tan mak"
+      }
+    }
+  }
+}

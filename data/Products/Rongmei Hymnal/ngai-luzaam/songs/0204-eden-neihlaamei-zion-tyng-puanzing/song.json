@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-204",
+    "number": 204,
+    "source": {
+      "printedNumber": 204,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Eden neihlaamei zion tyng puanzing",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Eden neila mei zion",
+            "Ting puan zing makpui ram,",
+            "Nzianna nkhuanc neh Poubaomei tyngmik;",
+            "Ravguangc latzan nam dai khou",
+            "Bw-neih gaanhmei nai dat lak khe’",
+            "Lauziuna riu tei rui",
+            "Tingsaeng gan bam puni",
+            "",
+            "2. Chui mak mei na maan mei pri tei rui;",
+            "Paap phung mei ata ncham louna,",
+            "Alung laina guang nge",
+            "Aravguangc lalou o.",
+            "",
+            "3. Apu ram nzian thaimak khou rui",
+            "Kandih ramgai khou ai maeng du the",
+            "Ai rianc rana apu",
+            "Ta ning tou na kap be.",
+            "",
+            "4. Tingzin kei nruai guai rabam the;",
+            "Ai ni akai tingkao zuan ni the,",
+            "Ai amaan saeng lak khe",
+            "Akai zuan kan ni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 204",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 204. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Eden neihlaamei zion tyng puanzing",
+        "titleRongmei": "Eden neihlaamei zion tyng puanzing"
+      }
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0139",
+    "number": 139,
+    "source": {
+      "printedNumber": 139,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Miss. Hankey",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "7.6.7.6. D. Ref.",
+      "tune": "SS 1131"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "P’ry guangc tei raclou na ro",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 P’ry guangc 3>| raclou na ro,",
+            "How makmei kauh chamv 3>|;",
+            "Jisu lev Kahym daihmei,",
+            "Jisu zauzian p’ry 3>|;",
+            "Chiwmei thiak khou raclou o,",
+            "Alauc khou raclou kum,",
+            "Ai thu ’suanmei, ’pangmei e,",
+            "’Khavloumei maekmei e.",
+            "",
+            "P’ry guangc 3>| raclou na ro,",
+            "P’ry guangc 3>| raclou na ro,",
+            "Jisu lev Kazauzian p’ry",
+            "Akhou raclou na ro.",
+            "",
+            "2 Raclou o, kadwan swna,",
+            "Ai laalou nuh diu khang;",
+            "Ravguangc >|3 paapc kuaklou khang",
+            "Thuakloumei tiimei 3>|;",
+            "Raclou o, rac katupna,",
+            "Ai thu ’muc dat tanc e;",
+            "Lauthwan tuang zikdui guay >|3",
+            "Kalaanv phui kumh tuang e.",
+            "",
+            "3 Raclou o, niamhmei khwan >|3,",
+            "Lungsuc changhmei khwan >|3;",
+            "Jisu >|3 gu khang keymei,",
+            "Paapc mei kiu ai hei the;",
+            "Ai ryanrapui ganv ’thuic khou",
+            "Alung swmlou nii ’thei,",
+            "P’ry hei nthaekc zat makna",
+            "Akhou raclou bam o.",
+            "",
+            "4 Hei p’ry guangc hei raclou o,",
+            "Hei kandih ramgai >|3",
+            "Apanty sw ’maan bam the",
+            "Twmei Nang thay pat khou;",
+            "N-guay, kauh kandic ramgai",
+            "Ai thay thau rap pwkhou",
+            "“Nang ta Khrista tiigay the,”",
+            "Twmei p’ry raclou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Tell Me the Old, Old Story",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "7.6.7.6. D. Ref.",
+        "SS 1131",
+        "Miss. Hankey",
+        "Tell Me the Old, Old Story",
+        "source hymn 139",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 139."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "P’ry guangc tei raclou na ro",
+        "titleRongmei": "P’ry guangc tei raclou na ro",
+        "titleEnglish": "Tell Me the Old, Old Story"
+      }
+    }
+  }
+}

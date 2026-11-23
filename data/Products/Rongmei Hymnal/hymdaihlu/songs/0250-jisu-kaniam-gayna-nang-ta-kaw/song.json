@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0250",
+    "number": 250,
+    "source": {
+      "printedNumber": 250,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Will L.Thompson",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/8",
+      "meter": "11.7.11.7. Ref.",
+      "tune": "SS 414"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu kaniam gayna nang ta kaw",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu kaniam gayna nang ta kaw bam e,",
+            "Nang ta ata kaw bam e;",
+            "Jisu ’khaengv thayna ’khwan",
+            "saengcna zauc bam e,",
+            "Nang lev ata zauc bam e!",
+            "",
+            "“Kai khou .. guang o!",
+            "Ryanra lakpui mei guang o!”",
+            "Lungh gutna niamh gayna",
+            "Jisu kaw bam e:",
+            "“Guang o, he paapc mei, kai khou!”",
+            "",
+            "2 Jisu kaw bam khou bui khang nyan bam ni cho,",
+            "Nang lev ata kaw bam khou?",
+            "Kazauzian ta bui khang thouh sw mak ni cho,",
+            "Nang lev ata zianloumei?",
+            "",
+            "3 Kaganv hei reih reina katumcna tat the,",
+            "Nang lev akhou _>6 tat the;",
+            "Zinghmei lev theihmei hei anaa guang pw the;",
+            "Nang lev akhang guang pw the. ’rianhlou e,",
+            "Nang lev akhang ’rianhlou e;",
+            "Paapc taanc khwan sihni kuaklou khang zauzian nai,",
+            "Nang lev apaap kuaklou khang!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "For You and For Me",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/8",
+        "11.7.11.7. Ref.",
+        "SS 414",
+        "Will L.Thompson",
+        "Kai khou guang o",
+        "NANG LEV AKHANG",
+        "For You and For Me",
+        "source hymn 250",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 250."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu kaniam gayna nang ta kaw",
+        "titleRongmei": "Jisu kaniam gayna nang ta kaw",
+        "titleEnglish": "For You and For Me"
+      }
+    }
+  }
+}

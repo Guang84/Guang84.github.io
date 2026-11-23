@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0185",
+    "number": 185,
+    "source": {
+      "printedNumber": 185,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "L.E.Jones",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.9.10.8. Ref.",
+      "tune": "SS 145"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nai e ngamv",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Paapc puat ’ritmei khou #^5 nang duak nii cho?",
+            "Zei khou ngamv nai e, zei khou ngamv nai;",
+            "Siimei ruc khou rih ngamna lungc nii cho?",
+            "Zei khou 5#^ ch’rynpui ngamv nai e!",
+            "",
+            "Nai e, ngamv .. ngamv ch’rynpui taanv taanh khang,",
+            "Lauziu Nac .. zei khou 5#^!",
+            "Nai e, ngamv .. ngamv ch’rynpui taanv taanh khang,",
+            "Kunghmei Lauziu Nac zei khou 5#^!",
+            "",
+            "2 Nang liantiimei khou #^5 duak pat nii cho?",
+            "Zei khou ngamv nai e, zei khou ngamv nai;",
+            "Guang o, Kalvari zei #^5 sw ’than khang,",
+            "Zei khou 5#^ ch’rynpui ngamv nai e!",
+            "",
+            "3 Nang gunh khang suangc ’phwan ranvmei sw nii cho?",
+            "Zei khou ngamv nai e, zei khou ngamv nai;",
+            "Paapc rei guay 5#^ zei #^5 khiu ’than ngam e,",
+            "Zei khou 5#^ ch’rynpui ngamv nai e!",
+            "",
+            "4 Jisu nang Guangc khang nang taanv sw nii cho?",
+            "Zei khou ngamv nai e, zei khou ngamv nai;",
+            "Nang tingmik ’thuic thuanhpui lu",
+            "suan nii cho?",
+            "Zei khou 5#^ ch’rynpui ngamv nai e!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "There is Power in the Blood",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "10.9.10.8. Ref.",
+        "SS 145",
+        "L.E.Jones",
+        "Paapc puath ’ritmei khou rui nang",
+        "ZEI KHOU NGAMV NAI E",
+        "There is Power in the Blood",
+        "source hymn 185",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 185."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nai e ngamv",
+        "titleRongmei": "Nai e ngamv",
+        "titleEnglish": "There is Power in the Blood"
+      }
+    }
+  }
+}

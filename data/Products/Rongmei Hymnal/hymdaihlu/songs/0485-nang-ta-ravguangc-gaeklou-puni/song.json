@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0485",
+    "number": 485,
+    "source": {
+      "printedNumber": 485,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "3/4",
+      "meter": "10.10.10.10. Ref.",
+      "tune": "SS 517"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang ta Ravguangc gaeklou puni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang ta Ravguangc gaeklou puni, ping riu!",
+            "Zingh khou, gaanh khou gaek duakloumei pu e;",
+            "Kamei nunc ta zianna gaeklou zaylou,",
+            "Nang raa na ta Kamei ’patlou lak ge.",
+            "",
+            "Ravguangc ?|7 katwan nganv gaeklou puni,",
+            "Thuakloumei, ’khavloumei pu Ravguangc e!",
+            "Jisu nang kawpui sik dawlou puni;",
+            "Kata lwm o, nang ta gaeklou puni!",
+            "",
+            "2 Neihmaryn Ravguangc kadanlou puni,",
+            "Nang phaykaamv kakalou, zaylou puni;",
+            "Kamei gaengclou, gaeklou, Zayloupou e,",
+            "Kanac nunc ta chunghpui dui khou zaylou.",
+            "",
+            "3 Nang ringhpui saanv Ravguangc kadanlou ni,",
+            "Meic ?|7 tiingam makmei suaihiam tii ni;",
+            "Theihpui nganv Kamei ?|7 kadanlou ni,",
+            "Kaguangcdic khou gayna phungc guanglou ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "God will Take Care of You",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "3/4",
+        "10.10.10.10. Ref.",
+        "SS 517",
+        "Fanny J. Crosby",
+        "God will Take Care of You",
+        "source hymn 485",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 485."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang ta Ravguangc gaeklou puni",
+        "titleRongmei": "Nang ta Ravguangc gaeklou puni",
+        "titleEnglish": "God will Take Care of You"
+      }
+    }
+  }
+}

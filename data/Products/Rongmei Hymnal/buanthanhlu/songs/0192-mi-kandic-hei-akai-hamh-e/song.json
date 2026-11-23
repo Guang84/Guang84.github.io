@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-192",
+    "number": 192,
+    "source": {
+      "printedNumber": 192,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Mi Kandic hei Akai Hamh e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          192 Mi Kandic hei Akai Hamh e",
+            "                             8.8.8.8.Ref. 10. 10.8",
+            "          Doh hei E",
+            "",
+            "          1. Mi kandic hei akai hamh e,",
+            "             Ai n-gin khanvloupui bamv de.",
+            "             Mi kandic hei 'maanpui nungc kiu,",
+            "             Tingkauh akai ai nzwan ni.",
+            "",
+            "                  Kandih ramgai hei mu atuang hamh e,",
+            "                  Alanv guay lou ducna ai tat pwni.",
+            "                  Tingsaengc lak khe akai 'zwan khang.",
+            "",
+            "          2. Akhang chamdaanvloumei ramc kiu,",
+            "             Ai machunh e, he Poubauhmei.",
+            "             Kandih ramgai asaanh lungc ni ?",
+            "             'Patlou duc ni mi ramc hei mu.",
+            "",
+            "          3. Tingkauh akai tangh pui nungc kiu,",
+            "             Aryanraa guay 'maan pwni the.",
+            "             Tat rey kanmei 'zianmei guay ta,",
+            "             Ariu pwni kaidai khoutei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Mi Kandic hei Akai Hamh e"
+      }
+    }
+  }
+}

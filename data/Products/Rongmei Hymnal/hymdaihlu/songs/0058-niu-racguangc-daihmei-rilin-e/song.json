@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0058",
+    "number": 58,
+    "source": {
+      "printedNumber": 58,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Martin Luther",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7.6.6.6.6.7.",
+      "tune": "SS 2"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Niu Racguangc daihmei Rilin e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Niu Racguangc daihmei rilin e,",
+            "Pangv zat makmei raengc kiu e;",
+            "Theihmei duidai kamuatcmei khou",
+            "’Niu ta ’khavloumeipu e.",
+            "Siimeipu $%6 ’taw nganv",
+            "Sw kasic khang phu bam;",
+            "Rouhsii ngamv daih pouc e,",
+            "Karaengmei padik ge,",
+            "Kakumc siimei maek dih khou.",
+            "",
+            "2 ’Niu raa na ngamv $%6 ’dow ethei,",
+            "’Niu lakh nsa taan nuh e,",
+            "Ravguangc $%6 Kapahloumeipu,",
+            "Aniu biak liangh mak ethei.",
+            "Hei Pu kiu thow 6$% cho?",
+            "Khrista Jisu hei the!",
+            "Kazanc Sabaoth kaw e,",
+            "Kalaic zat makmei e,",
+            "Kamei $%6 rih ngamlou ni.",
+            "",
+            "3 Ravsic padikmei kandic $%6",
+            "’Niw ta kadung bam sihni,",
+            "’Niw ping lak khe, Ravguangc nai e,",
+            "Katuang ’chumhmei $%6 ngam ni.",
+            "Lanv, riangluaih ’maan tan diu;",
+            "Mbaanv pumc nganv ’maan diu,",
+            "Pumh ta swluai nuh e;",
+            "’Chumhmei mu kalaic lak,",
+            "Ravguangc dic kanganv maek khe."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A Mighty Fortress",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "8.7.8.7.6.6.6.6.7.",
+        "SS 2",
+        "Martin Luther",
+        "A Mighty Fortress",
+        "source hymn 58",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 58."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Niu Racguangc daihmei Rilin e",
+        "titleRongmei": "’Niu Racguangc daihmei Rilin e",
+        "titleEnglish": "A Mighty Fortress"
+      }
+    }
+  }
+}

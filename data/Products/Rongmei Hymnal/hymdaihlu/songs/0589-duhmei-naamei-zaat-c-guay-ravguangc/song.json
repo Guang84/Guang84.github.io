@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0589",
+    "number": 589,
+    "source": {
+      "printedNumber": 589,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Haynes Holmes",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "C.M.",
+      "tune": "CW 556"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "DUHMEI NAAMEI ZAAT C GUAY RAVGUANGC",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Duhmei, ’naamei zaatc guay Racguangc,",
+            "’Niw guay ta sinmei pu,",
+            "Nangmei nunc ta suaihiamlou o,",
+            "Chuzaengh khang phu bam khou.",
+            "",
+            "2 Buybaeng khwan >|3 tingpuk padik,",
+            "Rih khwan >|3 padik ge;",
+            "Pingmei padikmei zingbangc khou",
+            "Zei keymei khwan chu e.",
+            "",
+            "3 Chu ’than ranv e, scientist nunc khwan,",
+            "Ravmun dinhmei nunc khwan,",
+            "Ningtyngmei dihsinmei nunc khwan,",
+            "Taanclou reymei nunc khwan.",
+            "",
+            "4 Sin ’tip ranv e, taanv taanhmei nunc,",
+            "Baanh n-gwangmei baanc 3>|,",
+            "Kaniw lwmmei, kaniw lu 3>|,",
+            "Meic ching ching suan ’dauh e.",
+            "",
+            "5 Duitin khou >|3 duitin nganvna",
+            "Meic nunc kauc saanv bam e,",
+            "Dih lev duipui zinghmei ruc khou,",
+            "Pentikost mai chuangc e.",
+            "",
+            "6 He Ravguangc, rih tuang syang khou >|3",
+            "’Niw ta tiiduaklou o,",
+            "’Twnmei latzan, zianmei, ’zaenghmei",
+            "Tiiguang katumclou tho. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "God of the Nations, Near and Far",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "C.M.",
+        "CW 556",
+        "John Haynes Holmes",
+        "God of the Nations, Near and Far",
+        "source hymn 589",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 589."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "DUHMEI NAAMEI ZAAT C GUAY RAVGUANGC",
+        "titleRongmei": "DUHMEI NAAMEI ZAAT C GUAY RAVGUANGC",
+        "titleEnglish": "God of the Nations, Near and Far"
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-239",
+    "number": 239,
+    "source": {
+      "printedNumber": 239,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ngampri rimei pu thuai hian liangmei kaipouh",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ngampri rimei pu thuai hian liangmei kaipouh,",
+            "Nang ram zian hei chrin ne!",
+            "Paap rui bang lou mei niuta riipat lou the",
+            "Kalvary tuang zei ruina .",
+            "",
+            "Thuan ku e Kaipouh ramvzian ta,",
+            "Chaeng maan na ruanc tatbam khuan sini",
+            "Niu bwmaeng maanc nimei khou ruina",
+            "Nang zei rui thuak pat loupu mei hei.",
+            "",
+            "2. Ngampri rimei pu thuai hian liang mei kaipouh",
+            "Ngang ram zian hei chrin ne",
+            "Paap zei khou kei loumei aniu panty hei,",
+            "Khrista rui zai kaan pat lou.",
+            "",
+            "3. Theisuangc kan nimei aniu guay panty hei",
+            "Nang rui nzian louna ;",
+            "Niu rui ning mei guay taanc na tad bamv sini,",
+            "Nangpam khou lalou puh mei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 239",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 239. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ngampri rimei pu thuai hian liangmei kaipouh",
+        "titleRongmei": "Ngampri rimei pu thuai hian liangmei kaipouh"
+      }
+    }
+  }
+}

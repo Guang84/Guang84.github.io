@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-141",
+    "number": 141,
+    "source": {
+      "printedNumber": 141,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih Khouhei Pumh Gayna Lungcbam Saanv",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          141 Kandih khouhei Pumh Gayna Lungc",
+            "                                   10.9.8.8.Ref. 9. 8. 8",
+            "          1. Kandih khouhei pumh gayna lungcbam saanv,",
+            "             Ravguangc ta nthei thangc ganclouna,",
+            "             Kandih ramgai howlou lana,",
+            "             Tat duc kan the, tat duc kan the.",
+            "",
+            "                     He baanhzaap bam e, baanhzaap bam e.",
+            "                     Paapcmei nunc ta kawna bam e.",
+            "                     Mikdui luangcna ngalancguang o.",
+            "",
+            "          2. Diw siimei guay Ravguangc ta ningtow e.",
+            "             Ngaengv hiwna kap e, ryanraamei guay.",
+            "             Laalou dat ro apu Ravguangc;",
+            "             Thiusaengc zayna Nang ta zauc e.",
+            "",
+            "          3. Alauc guay rui ringhmei chaeng thay mak ge.",
+            "             Chaeng dinclou na ro, he Poubauhmei;",
+            "             Ringhmei dui tei tizangvlou o;",
+            "             Emmanuel tingsaeng zaengna."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih Khouhei Pumh Gayna Lungcbam Saanv"
+      }
+    }
+  }
+}

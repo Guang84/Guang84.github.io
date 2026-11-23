@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-035",
+    "number": 35,
+    "source": {
+      "printedNumber": 35,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chulou o he Kandihmei guayle",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          35      Chulou o he Kandihmei guayle",
+            "                             9.11.9.9.Ref. 8. 7.9.9",
+            "",
+            "          1. Chulou o, he kandihmei guayle!",
+            "             Khrista rui kaw e akhou ngalancguang o.",
+            "             Nangniw 'thei tangsynna bammei guay!",
+            "             Hanguang dat ro twna kaw bam e.",
+            "",
+            "                  Nyan la ritho kaganv maek khe,",
+            "                  Ntaw kakhou guang latho,",
+            "                  Kamei nang ta kasiamhlou pwni.",
+            "                  Lwm nuhmei tiswlou dat pwni.",
+            "",
+            "          2. Thowkumhmei khat rui bowkey lana,",
+            "             Kamei dingthau dat makna bam nina cho?",
+            "             Nangniw bowkeyna bammei guayle,",
+            "             Dingthau dat ro twna kauc bam e.",
+            "",
+            "          3. Thowkumhmei rui chaeng maanv lana,",
+            "             Kamei hanguang dat makna bam nina cho?",
+            "             Nangniw chaeng maanvna tat bammei guay,",
+            "             Hanguang dat ro twna kaw bam e.",
+            "",
+            "          4. Ringhpouc rui saa e, ramhthay la tho.",
+            "             Kaganv rii pwkhou nang kapna huay pwni.",
+            "             Ntaw hanguang dat makmei guay mu,",
+            "             Thei thang ningngam makmei sw pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chulou o he Kandihmei guayle"
+      }
+    }
+  }
+}

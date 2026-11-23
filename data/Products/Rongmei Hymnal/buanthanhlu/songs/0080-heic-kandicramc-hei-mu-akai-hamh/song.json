@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-080",
+    "number": 80,
+    "source": {
+      "printedNumber": 80,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Heic Kandicramc hei Mu Akai Hamh",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          80 Heic Kandihramc Hei Mu Akai Hamh e",
+            "                           10.10.8.Ref. 9. 11. 10.8",
+            "          Doh hei E",
+            "",
+            "          1. Heic kandihramc hei mu akai hamh e;",
+            "             Neih khatna khang nggin guangpui kai de;",
+            "             Tingsaeng lungc nipui kai hamh e.",
+            "",
+            "                  He tingkauhramc Zionramc khoutei,",
+            "                  Ai tingkauh gaymei ramc thangc tat kan ni the.",
+            "                  Ai kaamcthau kan ni the 'zianmei guay le;",
+            "                  Bamduc khwan tho, bamduc khwan tho.",
+            "",
+            "          2. Neihlaa lunghkim khang maek kandih khouhei,",
+            "             Tihkic Bumaengh rui ata zaylouna,",
+            "             'Taw mu ai ringhmei laatow the.",
+            "",
+            "          3. 'Zianmei guay le, paapc ta mpat la tho,",
+            "             Aseic hei Ravguangc rui nang ta kawe.",
+            "             Paapc khourui ngalancguang dat tho.",
+            "",
+            "          4. Guloumeipu ta tingsaengcna ning e.",
+            "             Mi kandic rui ata tikim ngam mak,",
+            "             Bumaengh Nthanmei rui hamhna.",
+            "",
+            "          5. 'Khamhpui ganv guang pwthe 'zianmei guay le,",
+            "             'Zianmei pu-chaih, rup-ryan swmei guay le,",
+            "             Kaganv maek khe chamdaanv la tho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Heic Kandicramc hei Mu Akai Hamh"
+      }
+    }
+  }
+}

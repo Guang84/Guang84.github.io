@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0262",
+    "number": 262,
+    "source": {
+      "printedNumber": 262,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J.B.Atchinson",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.10.7.7.10.",
+      "tune": "SS 363"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chaengmun khou gin khat bam e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Chaengmun khou gin khat bam e:",
+            "Tii .. gut ro!",
+            "Kamei guang katup sih the:",
+            "Tii .. gut ro!",
+            "Tat dat mak khou tiigut ro,",
+            "’Thanmeipu e tiigut ro,",
+            "Pu Ravguangc Nac Jisu e:",
+            "Tii.. gut ro!",
+            "",
+            "2 ’Taw nang lung kaikhamv laanc tho,",
+            "Tii .. gut ro!",
+            "Nyan ti thei tat kan puni:",
+            "Tii .. gut ro!",
+            "Nang Kaipouc e, tiigut ro,",
+            "Kamei nang ta gaeklou ni,",
+            "Katwan nganv gaeklou puni:",
+            "Tii .. gut ro!",
+            "",
+            "3 Zianmei Kakhwan nang ’king o!",
+            "Tii .. gut ro!",
+            "’Taw hei Kata laalou tho:",
+            "Tii .. gut ro!",
+            "Chaengmun khou dingna bam the,",
+            "Nang ta tiineihlaa puni;",
+            "Nang Kata thuanc bam puni:",
+            "Tii .. gut ro!",
+            "",
+            "4 Kamei hei tingkauh gin e:",
+            "Tii .. gut ro!",
+            "Nang ta khwmkiclou puni:",
+            "Tii .. gut ro!",
+            "Nang paap guay kuaklou puni,",
+            "Kandih panty luai pwkhou,",
+            "Tingkauh kai khou laalou ni:",
+            "Tii .. gut ro!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Let the Saviour in!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "10.10.7.7.10.",
+        "SS 363",
+        "J.B.Atchinson",
+        "GUMEIPU TA TIIGUT RO",
+        "Let the Saviour in!",
+        "source hymn 262",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 262."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chaengmun khou gin khat bam e",
+        "titleRongmei": "Chaengmun khou gin khat bam e",
+        "titleEnglish": "Let the Saviour in!"
+      }
+    }
+  }
+}

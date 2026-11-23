@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-200",
+    "number": 301,
+    "source": {
+      "printedNumber": 200,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "Irregular",
+      "tune": "(Latding kaguang – 66)"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nthanmei baibal",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Genesis, Exodus, Leviticus, Numbers, Deuteronomy,",
+            "Joshua, Judge, Ruth, Samuel, Samuel, Kings, Kings,",
+            "Chronicles, Chronicles, Ezra, Nehemiah, Esther, Job,",
+            "Psalms, Pcroverbs,",
+            "Ecclessiastes, Song of Solomon, Esaiah, Jeremiah,",
+            "Lamentation, Ezekiel, Daniel, Hosea, Joel, Amos,",
+            "Obadiah, Jonah, Micah, Nahum, Habakkuk,",
+            "Zephaniah, Haggai, Zechariah, Malachi.",
+            "(Latding than – 27)",
+            "",
+            "2. Latding Than Mathiu, Mark le Luke le John,",
+            "le Tanruai le Rom, Corinth Akhat, Corinth Kanei,",
+            "Galatia, Ephesia, Phillippia, Kolossia, Thessoloni",
+            "Thaoreimei, Thessoloni Kaneimei, Timothy",
+            "Thaoreimei, Timothi Kaneimei, Tita, Philemon le",
+            "Hebrew, Jacob, Peter Reimei, Peter Neimei,",
+            "Johan Thaoreimei, Johan Kaneimei, Johan",
+            "Kathummei, Juda Ndaoloumei, Halleluijah Amen."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 200",
+        "SQLite BookTypeID 2",
+        "Key: D",
+        "Meter: Irregular",
+        "Reference: (Latding kaguang – 66)",
+        "Chord: D",
+        "Meta 3: Irregular",
+        "Meta 4: (Latding kaguang – 66)"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 200); no high-confidence title match was found in the PDF list. The digital catalogue number is 301; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 200,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nthanmei baibal",
+        "titleRongmei": "Nthanmei baibal"
+      }
+    }
+  }
+}

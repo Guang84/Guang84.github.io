@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0427",
+    "number": 427,
+    "source": {
+      "printedNumber": 427,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.8.9.9. Ref.",
+      "tune": "SS 992"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aniu rungh chau kho tingkauh",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Aniu rungh chau kho tingkauh ’zwanna,",
+            "Machunhmei rungcphey 3>| laamv o;",
+            "Zianmei nunc ’khwan bammei ta ning o;",
+            "Rungh ’thaekc pwkhou sowriw pw nimei.",
+            "",
+            "Mikdui tangv neihriw khou guang kariuna",
+            "Taanv guay luaina guang zaengthaek kariuna,",
+            "’King o, thuakloumei kangdai >|3 lu suanmei kiu!",
+            "Dwan-gaypui kai khou guang kariu bam the!",
+            "",
+            "2 Aniu rungh chau kho tingkauh ’zwanna,",
+            "Pingpui tuang maekna tat di kho;",
+            "Chuzaenghmei rungh ’thaekcbamv ’naa pwkhou,",
+            "Rungh ’thaekc bamv tuang gaanhmei ta how ni.",
+            "",
+            "3 Tingkauh luangcbut hei gay e, gaanc e,",
+            "Lauphunhswan mwn >|3 karuh e;",
+            "’Niu ta zianna Thuakloumei pu khou,",
+            "Neihlaana thuanckupui lu suan ni.",
+            "",
+            "4 Tingkauh tuang ’pwan 3>| liu rih ri e,",
+            "Lauthwan ramgai 3>| gay changh e,",
+            "’Zianmei nunc ta sowriw nuangc ni the,",
+            "Khou kiu ryanra, theihmei nai lak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "9.8.9.9. Ref.",
+        "SS 992",
+        "Fanny J. Crosby",
+        "MIKDUI TANGV NEIHRIW KHOU",
+        "Gathering after Tears",
+        "source hymn 427",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 427."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aniu rungh chau kho tingkauh",
+        "titleRongmei": "Aniu rungh chau kho tingkauh"
+      }
+    }
+  }
+}

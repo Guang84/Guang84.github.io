@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0154",
+    "number": 154,
+    "source": {
+      "printedNumber": 154,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Marion Franklin Ham",
+      "composer": null,
+      "arranger": null,
+      "chord": "Fb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "CW 222"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Bethany khou rui Kaipouc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Bethani khou ({0 Kaipouc,",
+            "Oliv Chyng khou guang khou,",
+            "Kandih mei guay lu suan e,",
+            "Neihlaa lu thanh ({0na;",
+            "Kauc o, he sidarbang guay,",
+            "Karaan chaengluang khou 0({;",
+            "Kauc thau o, nang Hosanna,",
+            "Neihlaa tingmik ’riw khang.",
+            "",
+            "2 Nzianmei Guangc 0({ kaidai",
+            "Chaengmun khou ruan gut the;",
+            "Zauczihmei ta ngammei Guangc,",
+            "Karaengmei ta ngammei;",
+            "Tadanvbang guay baanh hiw o,",
+            "Poubauhmei hym thuanc o,",
+            "Zianmei Guangc ({0 rih ngam ni,",
+            "Kandihmei zaat guay ta.",
+            "",
+            "3 Kaguangcdic hei kandih hamh,",
+            "Kangamv hei kauh thangc ({0",
+            "Kamei hei Bumaengh Guangc e,",
+            "Zianmei lev ’chumhmei Guangc,",
+            "Kataanv taanh khang ’niu ta kaw,",
+            "Kachuangcphey daanc kauh bam,",
+            "Kandih ta rih ngam khang ({0",
+            "Kaipouc lev tat ’chamc e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "From Bethany, the Master",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Fb",
+        "4/4",
+        "7.6.7.6. D.",
+        "CW 222",
+        "Marion Franklin Ham",
+        "From Bethany, the Master",
+        "source hymn 154",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 154."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Bethany khou rui Kaipouc",
+        "titleRongmei": "Bethany khou rui Kaipouc",
+        "titleEnglish": "From Bethany, the Master"
+      }
+    }
+  }
+}

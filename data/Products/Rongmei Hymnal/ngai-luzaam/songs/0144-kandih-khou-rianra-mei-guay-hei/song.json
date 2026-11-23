@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-144",
+    "number": 144,
+    "source": {
+      "printedNumber": 144,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou rianra mei guay hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih khou rianra mei guay hei,",
+            "Thei thu tingsaeng gaipui ram khou;",
+            "Kamei nzianmei hu khou tei,",
+            "Poubaomei le bam chamhni the.",
+            "",
+            "Naidat lak khe ntammei hei,",
+            "Lungh rianramei mikdui keimei,",
+            "Kanloumei Pu Jisu ruina,",
+            "Thutphui lou ni tuna sa e.",
+            "",
+            "2. Poubaomei rui kasiamh lou the,",
+            "Neihlamei namdaih gaimei tei;",
+            "Khou tei neihlamei namdaih tei,",
+            "Tingsaengzaenga bam puni the.",
+            "",
+            "3. Zaulana Kalvary ching tei,",
+            "Ai tat bammei lung nipui ram;",
+            "Lauziu Na tei bam e,",
+            "Katik kagunh daihmei ram khou.",
+            "",
+            "4. Neihlana tingkauh mei guay le,",
+            "Kanlou mei guay kariu puni,",
+            "Tingsaeng ringhmei tei la lana;",
+            "Ntammei hei naidat lak khe.",
+            "",
+            "5. Kanloumei Pu zauzian khourui",
+            "Katik gunh daihmei tei lana;",
+            "Gaipui ram tei guang tanglana,",
+            "Taek makna thuanku bam puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 144",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 144. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou rianra mei guay hei",
+        "titleRongmei": "Kandih khou rianra mei guay hei"
+      }
+    }
+  }
+}

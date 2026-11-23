@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0152",
+    "number": 152,
+    "source": {
+      "printedNumber": 152,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Jennette Threfall",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "HLC 134"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Hosanna, khwan kauc ranvna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Hosanna, khwan kauc ranvna,",
+            "Alauc nunc !}2 suan e;",
+            "Ravkai kainung kaizaengc guay",
+            "Kaniw lu kagaengv e;",
+            "Kaniw ta suaihiamloumei",
+            "Jisu ta thuanckuna,",
+            "Alauc nunc !}2 lu suan e,",
+            "Kaniw lungsyng thangc !}2.",
+            "",
+            "2 Oliv Chyng thangc !}2 key the,",
+            "Maansei kangdai chung khou,",
+            "Rih ngam tadanvnuy sinna,",
+            "Khwan kauc ranvna suan e;",
+            "Baanch’ra lev meic guay Kaipouc,",
+            "Niamhmei lwn khou guang the,",
+            "’Khwan bammei alauc nunc ta",
+            "Kamei ’patlou mak ge.",
+            "",
+            "3 “Kauh liangmei khou Hossana!”",
+            "Reynungc lu ’niu suan e;",
+            "Thuakloumeipu Khrista khang,",
+            "Kauh lev dih Kaipouc khang,",
+            "’Niu lung ringhting lev khwan !}2",
+            "Tingsaeng Kata thuanc diu,",
+            "Kahu khou ’niu zaeng ’thaekc ni,",
+            "Tingsaeng neihlaa bam ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "7.6.7.6. D.",
+        "HLC 134",
+        "Jennette Threfall",
+        "Hosanna, Loud Hosanna",
+        "source hymn 152",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 152."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Hosanna, khwan kauc ranvna",
+        "titleRongmei": "Hosanna, khwan kauc ranvna"
+      }
+    }
+  }
+}

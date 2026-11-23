@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0872",
+    "number": 872,
+    "source": {
+      "printedNumber": 872,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Gb",
+      "key": null,
+      "beat": null,
+      "meter": "Irregular",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khristianmei guai janggai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Khristianmei guai janggai,",
+            "Lungning le bumang ni;",
+            "Chu lo saloumei lat hei lat than,",
+            "Asei hei Jisu puan the,",
+            "Kiruai guai ni janggai e,",
+            "Kiruai lailung khou jip bam khou,",
+            "Asei khrista puan (2).",
+            "",
+            "2. Khristianmei guai janggai,",
+            "Lungning le bumang ni;",
+            "Chulo ringtak makpui lat janggai,",
+            "Asei hei Jisu puan the,",
+            "Tingkauh kaikham lan lou the,",
+            "Meinun khang janggai puituang e,",
+            "Asei Khrista puan.",
+            "",
+            "3. Khristianmei guai janggai,",
+            "Lungning le bumang ni;",
+            "Nangkhang thei khang ta pingmak chammei,",
+            "Gulou khang Jisu puan the,",
+            "Mei guaina ta kau bamme,",
+            "Tingkauh ram gaimei tang khang e,",
+            "Nangniu ta gulou khang#-5 puanpat lou the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Gb",
+        "Irregular",
+        "Khristianmei guai janggai",
+        "source hymn 142",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 142."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khristianmei guai janggai",
+        "titleRongmei": "Khristianmei guai janggai"
+      }
+    }
+  }
+}

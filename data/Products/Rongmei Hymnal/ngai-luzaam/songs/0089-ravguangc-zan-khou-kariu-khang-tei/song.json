@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-089",
+    "number": 89,
+    "source": {
+      "printedNumber": 89,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc zan khou kariu khang tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ravguangc zan khou kariu khang tei ,",
+            "Guang o mei nai mei guai ;",
+            "Zauzian lou mei hei thuan ku kho,",
+            "[ Neilapui khuan ruina ] 2",
+            "",
+            "2. Mei guai rih sukhang ping rikho,",
+            "Nthiam pui ri tani,",
+            "Aniu theimei ngan adou kho,",
+            "Seitan ridai khou tei ] 2",
+            "",
+            "3. Arup nzianmei nun thiu le,",
+            "Khat sini ping lou riu,",
+            "Aniu pum hei ni bumaeng ni,",
+            "Jisu rui gaklou ni.] 2",
+            "",
+            "4. Aniu rianra rianriu sini ,",
+            "Tingkao ram lapuni",
+            "Khou tei Ravguangc rui ti puni",
+            "Tingkao guang pirun tei.] 2",
+            "",
+            "5. Hei zaeng khou rui kamthao dikho,",
+            "Seitan ri adou khang",
+            "Rih pi zaan saan na lusuan kho,",
+            "Hozam teini kaona.] 2"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 89",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 89. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc zan khou kariu khang tei",
+        "titleRongmei": "Ravguangc zan khou kariu khang tei"
+      }
+    }
+  }
+}

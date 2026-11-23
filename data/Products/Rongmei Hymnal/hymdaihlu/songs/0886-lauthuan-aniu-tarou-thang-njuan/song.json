@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0886",
+    "number": 886,
+    "source": {
+      "printedNumber": 886,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "Irregular",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lauthuan aniu tarou thang njuan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Lauthaun aniu tarou thang njuan guang pukhou,",
+            "Rou kham tei lan lou the Khrista kamei @&4na;",
+            "Ata kaupui khuan chu, bumang thanmei khuan e,",
+            "Jiangri pat ki kamei ding bma khuan e,",
+            "Ata kaupui khuan chu Jisu ringthao kanthe,",
+            "Dinga bam du kan the,",
+            "Kamei khou tei lauthuan.",
+            "",
+            "2. Jisu ringthao kan the apap guai gulouna,",
+            "Kandih rianramei le theimei ta ngam lana;",
+            "Nthanliangmei jei tei @&4 ata gulou na,",
+            "Adi neila ni cho? Khrista jianloumei hei,",
+            "Adi neila ni cho? Khrista jianloumei hei,",
+            "Neikhat mu neilana kata ai ariu ni.",
+            "",
+            "3. Jisu njian loupui lun phuanga ringthao the,",
+            "Khrista kamei banjat biak thang bam the;",
+            "Ata jai o Khrista banjat @&4na ata,",
+            "Kajei pan naiu thei dat pulak khe,",
+            "Kathei ai lai tat ni ai ping tuang nai lakkhe,",
+            "Tingkauh kaidai thang aniu guanglung chamni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "Irregular",
+        "Lauthuan aniu tarou thang njuan",
+        "source hymn 156",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 156."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lauthuan aniu tarou thang njuan",
+        "titleRongmei": "Lauthuan aniu tarou thang njuan"
+      }
+    }
+  }
+}

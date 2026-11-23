@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0753",
+    "number": 753,
+    "source": {
+      "printedNumber": 753,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "13.8.12.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai nangkai khang suni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai nangkai khang suni gaimei le banthaimei,",
+            "Abumang lung khang kauh thu 7#@;",
+            "Ndap tarimei mak tingkauh kandih khou 7#@,",
+            "Tingsang takpui ram gai khou (2).",
+            "",
+            "2. Tingkau gaimei ram7#@ amang thang dukhou man,",
+            "Neila tak dat mak pui ram me;",
+            "Du makkhe tauhei mu ramgai mei 7#@ guang khang,",
+            "Akhang rui kai gaimei nai e (2).",
+            "",
+            "3. Hei kai 7#@ akhang rana ram me nang khang ni,",
+            "Naz’ret Jisu lung pui ram me;",
+            "Tingsang lung khang hei ram 7#@ adi gaini cho?",
+            "Jisu rui liu lou pui ramme (2).",
+            "",
+            "4. Hei ram khou kai 7#@ karam gai sangam makge,",
+            "Khou 7#@ lung rianramei mak khe;",
+            "Neilamei le khuan gaimei luh rana suanna,",
+            "Kapum ma hou lou ngam puni (2).",
+            "",
+            "5. Guang o apuchai thiu, lung neilana guang o,",
+            "Tat dikho hei ram gaimei thang;",
+            "Jaujian loumei pu aniu ta duanga lung ni,",
+            "Lung rinara nai dat mak pui ram khou (2).",
+            "Lung rianra pingmei guai nai lak khe hei khou 7#@,",
+            "Nai lak khe mikdui kei datmei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "13.8.12.8.",
+        "Ai nangkai khang suni",
+        "source hymn 23",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 23."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai nangkai khang suni",
+        "titleRongmei": "Ai nangkai khang suni"
+      }
+    }
+  }
+}

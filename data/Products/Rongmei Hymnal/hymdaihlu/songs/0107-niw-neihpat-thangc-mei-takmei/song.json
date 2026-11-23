@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0107",
+    "number": 107,
+    "source": {
+      "printedNumber": 107,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John H.Hopkins",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/8",
+      "meter": "8.8.8.6. Ref.",
+      "tune": "CW 204"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Niw neihpat thangc mei ’takmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Niw neihpat thangc mei ’tak mei nunc",
+            "Kaipat phungcna kaniw ’zwan guang,",
+            "Chyng, ’zaengc, duithuak, laupuk kaanna,",
+            "Gaanchuangcna ta ’zwan guang.",
+            "",
+            "He ch’rynmei zingbangc gaanchuangcna,",
+            "Guangh riw gaanhmei gaanchuangcna,",
+            "Neihkey biak ’niw ta zaylouna,",
+            "Gaanc chuymei khou zaylou o.",
+            "",
+            "2 Guangh khat puanc the Bethlehem khou,",
+            "Kakhang kachaekc ai phungc guang e,",
+            "Taek dat makna tingsaengzaengna,",
+            "’Niw ruc khou guanghtu o.",
+            "",
+            "3 Namh gaymei mwndui phungc guang e,",
+            "Mi hei Ravguangc khang kat tuang e,",
+            "Meic guay thauna, thuancna, huayna,",
+            "Kaipouc ta kalum o.",
+            "",
+            "4 ’Gaw hei thauh maruai nkhucmei,",
+            "Zinghmei guang nimei ta lyan e;",
+            "Ryanra, zei keyna, theiclouna,",
+            "T’rou khou phuplou puni.",
+            "",
+            "5 Zauc lo, Kahym daicna thau the,",
+            "Guangh lev Ravguangc lev ravkat puat,",
+            "Hallelujah! Hallelujah!",
+            "Kauh lev dih suan ’daw diu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "We Three Kings of Orient Are",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/8",
+        "8.8.8.6. Ref.",
+        "CW 204",
+        "John H.Hopkins",
+        "We Three Kings of Orient Are",
+        "source hymn 107",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 107."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Niw neihpat thangc mei ’takmei",
+        "titleRongmei": "’Niw neihpat thangc mei ’takmei",
+        "titleEnglish": "We Three Kings of Orient Are"
+      }
+    }
+  }
+}

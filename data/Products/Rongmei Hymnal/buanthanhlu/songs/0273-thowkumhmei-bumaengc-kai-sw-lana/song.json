@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-273",
+    "number": 273,
+    "source": {
+      "printedNumber": 273,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thowkumhmei Bumaengc Kai Sw lana",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          273 Thow Kumhmei Bumaengh Kai",
+            "                        9.11.9. 12. Ref. 6. 9.9,9",
+            "",
+            "          1. Thowkumhmei bumaengh kai sw lana,",
+            "             Thing rui 'ngeic rui napgou rui swlou ethei,",
+            "             Nang taanv tei mai rui nchanv pwni.",
+            "             Mi nungc kiu nang taanv tei mai rui raw ngam pwni.",
+            "",
+            "                     Guang o nzianmei guay,",
+            "                     Lwmmei phaydyng tei ding 'tip la tho.",
+            "                     Kachaekc kumhmei lwmmei tei sw tho.",
+            "                     Khrista ta ariu khang chamdaanv tho.",
+            "",
+            "          2. Nangniw hei Ravguang tuang kai kiu e.",
+            "             Thowkumhmei rui Ravguangc kai swmaan ethei,",
+            "             Ravguangc rui kata nic swmaan ni.",
+            "             Lungh laicguang tho nang paap guay tei kuaklou pwni.",
+            "",
+            "          3. Alat hei chuna taanhmei guay mu,",
+            "             Tauhdai h' ruc khou kai swmei kumhmei tuang e.",
+            "             Katwan nganvna lwmnuhmei guay tei",
+            "             Tingkauh Guangcdic khoutei ringhmei swan laa pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thowkumhmei Bumaengc Kai Sw lana"
+      }
+    }
+  }
+}

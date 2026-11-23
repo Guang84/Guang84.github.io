@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0179",
+    "number": 179,
+    "source": {
+      "printedNumber": 179,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "George Weissel",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "2/2",
+      "meter": "L.M.",
+      "tune": "CW 224"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He raenghmun guay laanc kauh thau o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He raenghmun guay, laanc kauh thau o,",
+            "Zauc lo, hymdaih Guangc ’khwan bam the;",
+            "Guangh guay Guangc 7?| ’naa guang pw the,",
+            "Dih ta Guloumeipu guang the!",
+            "",
+            "2 Lungning kaikhamv guay laanc daic tho,",
+            "Reicpatloumei ravkai swna;",
+            "Ravguangc taanv khang tiipiulou o,",
+            "Zianmei, neihlaamei padikna.",
+            "",
+            "3 Thuakloumeipu, guang bamlou tho,",
+            "’Niw lung Nang khang laanc daiclou the,",
+            "’Niw khou bammei lwn lyanlou tho,",
+            "Zianmei lev zauzian padikna."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Lift up Your Heads, Ye Mighty Gates",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "2/2",
+        "L.M.",
+        "CW 224",
+        "George Weissel",
+        "Lift up Your Heads, Ye Mighty Gates",
+        "source hymn 179",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 179."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He raenghmun guay laanc kauh thau o",
+        "titleRongmei": "He raenghmun guay laanc kauh thau o",
+        "titleEnglish": "Lift up Your Heads, Ye Mighty Gates"
+      }
+    }
+  }
+}

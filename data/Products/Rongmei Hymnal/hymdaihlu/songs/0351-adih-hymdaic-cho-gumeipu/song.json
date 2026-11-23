@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0351",
+    "number": 351,
+    "source": {
+      "printedNumber": 351,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.E. Hewitt",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "SS 613"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Adih hymdaic cho, Gumeipu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Adih hymdai cho, Gumeipu,",
+            "Rav zauzian phunghmei Nang panty!",
+            "Ch’rynpui ramzian zianloumei 1<:",
+            "Akhang dyng the! akhang dyng the!",
+            "",
+            "He Gumeipu .. ai sw ni the",
+            "Nang khang tiimei .. nringh kaipat;",
+            "’Taw {:1 thauna tingsaengzaeng nganv,",
+            "Nang khang sw ni! .. Nang khang sw ni!",
+            "",
+            "2 Nang mik ’ganvna huayney gaanhmei,",
+            "Sinnui, malaa, ganc patloumei,",
+            "Gethsamani khou rianra 1<:",
+            "Akhang dyng the! akhang dyng the!",
+            "",
+            "3 Nang sanpiang khou sauh {:1 swnmei,",
+            "Ata gu khang Nang zei keymei,",
+            "He, Kalvari tuang ch’rynmei kros!",
+            "Akhang dyng the! akhang dyng the!",
+            "",
+            "4 Nang tuang zianmei, chuzaenghmei 1<:,",
+            "Nang tuang tingkauh lunggai guay 1<:,",
+            "Kachanh lakmei tiingsaeng zauzian",
+            "Akhang dyng the! akhang dyng the!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "All this for Me!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "3/4",
+        "8.8.8.8. Ref.",
+        "SS 613",
+        "E.E. Hewitt",
+        "He Gumeipu... ai sw ni the",
+        "All this for Me!",
+        "source hymn 351",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 351."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Adih hymdaic cho, Gumeipu",
+        "titleRongmei": "Adih hymdaic cho, Gumeipu",
+        "titleEnglish": "All this for Me!"
+      }
+    }
+  }
+}

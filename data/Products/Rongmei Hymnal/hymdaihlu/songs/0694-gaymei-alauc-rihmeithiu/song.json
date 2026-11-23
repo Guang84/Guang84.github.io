@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0694",
+    "number": 694,
+    "source": {
+      "printedNumber": 694,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. Jemima Luke",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "Irregular CW",
+      "tune": "213"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gaymei alauc rihmeithiu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai ning e, p’ry guangc gaymei",
+            "0({ ai pactow pwkhou",
+            "Jisu ({0 kandih khou bammei dou 0({,",
+            "Kamei alauc nunc ta Kapamv khou kaw guangmei,",
+            "Kaniw lev ai nic tat ’chamc ni tuang e.",
+            "",
+            "2 Kabaanc 0({ apy khou ’baenglou",
+            "khwan ’thei gay chuy ni,",
+            "Kabaancpwam ({0 ata pamclou",
+            "khwan ’thei;",
+            "Kazawpaanv how nii e zianmei",
+            "lat saa khou 0({:",
+            "“Alauc nunc ta Apamv khou tii guang o.”",
+            "",
+            "3 ’Taw nic ai huayney khou Kaphaypav khou guang nuh e,",
+            "Karamzian kadam asaekc laa nuh e;",
+            "Hei khou hei lungh gutna ai Kata phu tithei,",
+            "Tingkauh thangc Kata ai how ngam puni.",
+            "",
+            "4 Gay chuypui bamv chamdaanvlou",
+            "khang Kamei tat kan the,",
+            "Kuakloumei, khiu ’thanloumei kaguay khang,",
+            "Alauc nunc ’peyna nic Kamei lev bam puni,",
+            "Tingkauh kai hei mi kumhmei nunc khang e.",
+            "Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Think I Read that Sweet Story",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "Irregular CW",
+        "213",
+        "Mrs. Jemima Luke",
+        "JISU RINGC E",
+        "I Think I Read that Sweet Story",
+        "source hymn 694",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 694."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gaymei alauc rihmeithiu",
+        "titleRongmei": "Gaymei alauc rihmeithiu",
+        "titleEnglish": "I Think I Read that Sweet Story"
+      }
+    }
+  }
+}

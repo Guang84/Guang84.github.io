@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0069",
+    "number": 69,
+    "source": {
+      "printedNumber": 69,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "M.S.S.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 21"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zauclo, kanganv maekmei ramzian",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zauc lo, kanganv maekmei ramzian",
+            "Pu Ravguangc ^&5 zianlou!",
+            "Paapc khou ’maan bam khwanmei ’niu ta",
+            "“Ravguangc Nac” kaw dat the!",
+            "",
+            "",
+            "Zauc lo, .. adih zian tu cho!",
+            "Adih zian tu cho!",
+            "Pu Ravguangc ^&5 ’niu khou zianloumei;",
+            "’Niu ta .. Ravguangc nac nunc kaw,",
+            "Ravguangc nac kawlou pwmei!",
+            "",
+            "2 Kakhou ^&5 ’niu hei duh mak khe,",
+            "Kunghmei zei paan ’naa the;",
+            "“Zian dianghmei” pang khou laalou the,",
+            "Ravguangc khou ’niu bam the.",
+            "",
+            "3 Hymdaihmei khou guanlih nimei",
+            "’Taw thu ’dauhlou mak he,",
+            "Kaipouc ta ’niu howpui nungc kiu",
+            "Kata ’niu luic puni.",
+            "",
+            "4 Dwangay nimei kiu machunhna",
+            "’Niu ’than katyn bam kho,",
+            "Hymdaihmei Kaipouc ta luic kho,",
+            "How nuangc nimeipu ta."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Behold, what Love!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 21",
+        "M.S.S.",
+        "Behold, what Love!",
+        "source hymn 69",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 69."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zauclo, kanganv maekmei ramzian",
+        "titleRongmei": "Zauclo, kanganv maekmei ramzian",
+        "titleEnglish": "Behold, what Love!"
+      }
+    }
+  }
+}

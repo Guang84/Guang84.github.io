@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0856",
+    "number": 856,
+    "source": {
+      "printedNumber": 856,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thao tho khristianmei nathiu le",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Thao tho khristianmei nathiu le,",
+            "Kagan mak khe jipsang bam khang;",
+            "Nban puat tagan lou ngamma,",
+            "Bumang ring nimei chang phu tho.",
+            "",
+            "Chorus:",
+            "Ai kahao mak ge meinun ram neila ta,",
+            "Raguang #!7na kauna bam khou;",
+            "Pou-pei riak ta ganlou ngam ma,",
+            "Tan tho nang bumang ring khang tei.",
+            "",
+            "2. Kagan mak khe champan thiu le,",
+            "Heidi duimei panti lung khou;",
+            "Rianra rianriumei guai khanga,",
+            "Tan tho nang bumang ring khang tei.",
+            "",
+            "3. Khou tei lumlou mak mei guai mu,",
+            "Bumang thanmei nun hukhou tei;",
+            "Theimei #!7 kaniu phan suna,",
+            "Rianra rianriumei tei khang ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "8.8.8.8.",
+        "Thao tho khristianmei nathiu le",
+        "source hymn 126",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 126."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thao tho khristianmei nathiu le",
+        "titleRongmei": "Thao tho khristianmei nathiu le"
+      }
+    }
+  }
+}

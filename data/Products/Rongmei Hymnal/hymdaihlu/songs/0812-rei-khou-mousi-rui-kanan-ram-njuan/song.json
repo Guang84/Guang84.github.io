@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0812",
+    "number": 812,
+    "source": {
+      "printedNumber": 812,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.11.9",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Rei khou mousi rui kanan ram njuan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Rei khou Mousi rui kanan ram njuan,",
+            "Nduang ngam mak Raguang lat 1@: phunga;",
+            "Kanan ram gundaimei le gaimei 1@: hou,",
+            "Lumma ninga kap ni maknga cho?",
+            "",
+            "Chorus:",
+            "He ai rui kanan ramgai mei 1@:,",
+            "Apumtan rui guang lungtang ngammak;",
+            "Reikhou guang Jehovah rui jailou na,",
+            "Kanan ram gaimei guai 1@: hou puni.",
+            "",
+            "2. Kanan riu 1@: tingthan patmei kum e,",
+            "Jailou Mousi rui guang khang nduanga;",
+            "Jordan duipang thang1@: bamlou dumaknga,",
+            "Njianmei nun ta jai pat lou the.",
+            "",
+            "3. Lungning gaimei ram ta 1@: ning lana,",
+            "Guang ram gaimei tingsanga gaipui ram;",
+            "Khou1@: guangmei kankhou ramgaimei lungkhou,",
+            "Kapumma mun kumma puang louni.",
+            "",
+            "4. Kanan munpuang le ram bam gaimei khou,",
+            "Jailou Mousi rui thei nganna lung khang;",
+            "Lumloumei nun Salem than ta thuan ku the,",
+            "Israel nun ni lumlou dat the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "10.10.11.9",
+        "Rei khou mousi rui kanan ram njuan",
+        "source hymn 82",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 82."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Rei khou mousi rui kanan ram njuan",
+        "titleRongmei": "Rei khou mousi rui kanan ram njuan"
+      }
+    }
+  }
+}

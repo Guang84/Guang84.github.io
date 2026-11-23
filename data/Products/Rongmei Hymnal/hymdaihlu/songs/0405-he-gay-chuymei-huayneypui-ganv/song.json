@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0405",
+    "number": 405,
+    "source": {
+      "printedNumber": 405,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William W. Walford",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.8.8.8.8. D",
+      "tune": "SS 318"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HE GAY CHUYMEI HUAYNEYPUI GANV",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He gaychuymei huaineypui ganv!",
+            "Katuakcmei dic khou {:1 ata,",
+            "APu pamv khou zay guanglou e,",
+            "Ai kahawmei guay huayney khang;",
+            "Ryanra ryanriupui ganv guay khou,",
+            "Abumaengc zaengthaek laa tow e,",
+            "Rasic phac khou {:1 ai duak ge,",
+            "He huayneypui ganv nang paan {:1;",
+            "Rasic phac khou {:1 ai duak ge,",
+            "He huayneypui ganv nang paan {:1.",
+            "",
+            "2 He gaychuymei huaineypui ganv!",
+            "Nang {:1 aravsuai phungc kuna,",
+            "Suaihiamlou khang ’khwan bammei pu,",
+            "Ravguangc pamv khou phungc tangclou e;",
+            "Ravguangc saa e, Kata phu khang,",
+            "Kalat lev Kazauzian lwm khang,",
+            "Hei zaeng Kakhou lwmlou ni the;",
+            "Ai Nang ta ’khwanna bam ni the;",
+            "Aryanra Kakhou lou ni the,",
+            "He huayneypui ganv Nang paan {:1.",
+            "",
+            "3 He, gaychuymei huayneypui ganv!",
+            "Nang ganv hei ai laa tanv bam ni,",
+            "Pisga luangcbut twan gay khou {:1",
+            "Akai howna samc tat mak saanv;",
+            "Tingsaengzaeng swan ai laa khang {:1",
+            "Ndaw pumc hei luaklou ducna,",
+            "Mpwan ta ai samc kaan bam khou",
+            "Ramnavpui lat kadylou ni,",
+            "“He, gaychuymei huayneypui ganv!",
+            "Bam duc khwan tho, bam duckhwan tho!”"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Sweet Hour of Prayer!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "6/8",
+        "8.8.8.8.8. D",
+        "SS 318",
+        "William W. Walford",
+        "Sweet Hour of Prayer!",
+        "source hymn 405",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 405."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HE GAY CHUYMEI HUAYNEYPUI GANV",
+        "titleRongmei": "HE GAY CHUYMEI HUAYNEYPUI GANV",
+        "titleEnglish": "Sweet Hour of Prayer!"
+      }
+    }
+  }
+}

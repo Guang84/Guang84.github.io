@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0714",
+    "number": 714,
+    "source": {
+      "printedNumber": 714,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Haldor Lillenas",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "12/8",
+      "meter": "10.10.10.7. Ref.",
+      "tune": "3 Alex 417"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Maansei lungning rui makumh",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Maansei lungning }?2 makumh tangc zat lak",
+            "Karyan kadath kanganv nai dat mak khe;",
+            "Katuang khaanh 2}? heidi kamv khang daic e,",
+            "Nganv mak ge, Ravguangc ramzian.",
+            "",
+            "Padikmei, nsa tiimei,",
+            "Akhou guang tanghmei ramzian,",
+            "Ravguangc ramzian,",
+            "Tingsaengzaeng kumcna,",
+            "Kating kanganv maek khe.",
+            "",
+            "2 Neihlaana Kapumc kahak tiipatna,",
+            "Kauh lunggay chingkhiu guay ganclou ducna,",
+            "Ch’rinmei ryanra ’khaengvmei nganvna zianlou,",
+            "Ch’rin dyng e Ravguangc ramzian.",
+            "",
+            "3 Daic ranv e apaap tuang dandi khang suangc,",
+            "’Thuihmei ringhbam tiilou biuc rap daic e,",
+            "Alung khou neihlaamei }?2 padik the,",
+            "Kada mak Ravguangc ramzian.",
+            "",
+            "4 ’Naa liangmei lwnlung khang nganv key tangc e,",
+            "Kauh liangsingmei nunc khang suangc kauh diangc,",
+            "Zaatc kapwm ta laalou biuc rap daic e,",
+            "Ngan mak ge Ravguangc ramzian."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Love of God",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "12/8",
+        "10.10.10.7. Ref.",
+        "3 Alex 417",
+        "Haldor Lillenas",
+        "Padikmei nsa tiimei",
+        "RAVGUANGC RAMZIAN",
+        "The Love of God",
+        "source hymn 714",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 714."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Maansei lungning rui makumh",
+        "titleRongmei": "Maansei lungning rui makumh",
+        "titleEnglish": "The Love of God"
+      }
+    }
+  }
+}

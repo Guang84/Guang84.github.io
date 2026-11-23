@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-124",
+    "number": 124,
+    "source": {
+      "printedNumber": 124,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He! zaeng swni mundui rim gaimei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He! zaeng swni mundui rim gaymei ramc khou,",
+            "Zian mei ta tam khang, na guang pu the,",
+            "Chunsi zaeng si mikdui luang kei lou lana,",
+            "He! Ravguangc ntam datni mak ge.",
+            "",
+            "Asei ntam mei nzian mei mik dui luang ,",
+            "Asei tingmik thanc pat dat ro;",
+            "Lung zingc mei tigaan no, He! Ravguangc ,",
+            "Zian mei ta zaeng huayna kap e salam.",
+            "",
+            "2. Chana le tao hei aniw tamv kanc dikho,",
+            "Tat nymei luang but, ta zau lana;",
+            "Phang zau lo mikdui rauna tam kanmei ta,",
+            "He Ravguangc akum na tat ni cho.",
+            "",
+            "3. Gaichui mei tingthan neiriu kum na zian mei;",
+            "He zianc mei n-tam khang sa-guang the",
+            "Patlou the zian mei ban sin kariu lou na",
+            "He Ravguangc tattuanc kan the zian mei.",
+            "",
+            "4. Tingkao thu Ravguangc zanc khou khatna suni.",
+            "Kum sini zaeng simei rui gum liam;",
+            "Ai kapma bampui dita ningdat lak khe.",
+            "Aban zat heirui ham guang e salam."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 124",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 124. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He! zaeng swni mundui rim gaimei",
+        "titleRongmei": "He! zaeng swni mundui rim gaimei"
+      }
+    }
+  }
+}

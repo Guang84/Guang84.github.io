@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-212",
+    "number": 212,
+    "source": {
+      "printedNumber": 212,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih damthau mak hu nung",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih damthao mak hu nung rui",
+            "Akhang cham danlou mei zauzian",
+            "Asei Bethlehem guai kai khou",
+            "Maansei guan na puan the din ne.",
+            "",
+            "Guang o, aniu ni kalum kho",
+            "Tingkao nthanmei nun guai le",
+            "Lung gai lung si baimei nailak khe,",
+            "Aniu Raguangh hukhou.",
+            "",
+            "2. Pou jisu nang Bethlehem khou",
+            "Puanc lou khang kaibang makge thei",
+            "Alung khou nang khang kai nai e,",
+            "Khou hei guang bang na puanc lou o.",
+            "",
+            "3. Ting puk kandih dam mei kaipou",
+            "Ata nang ram zian hei chrin e",
+            "Humdai nang guang bam lou duna",
+            "Ata thuak lou khang guangc mei hei.",
+            "",
+            "4. Kandih damthao mak hunung rui",
+            "Akhang cham dan loumei kaidai;",
+            "Tingsaeng ai lung ni pui ramgai",
+            "Tingkao ram gai tei ralou o.",
+            "",
+            " Pastor Abui"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 212",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 212. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih damthau mak hu nung",
+        "titleRongmei": "Kandih damthau mak hu nung"
+      }
+    }
+  }
+}

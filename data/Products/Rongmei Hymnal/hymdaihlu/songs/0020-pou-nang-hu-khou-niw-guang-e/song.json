@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0020",
+    "number": 20,
+    "source": {
+      "printedNumber": 20,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William Hammond",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "2/4",
+      "meter": "7.7.7.7.7.",
+      "tune": "CW 116"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pou, Nang hu khou ’niw guang e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Pou, Nang hu khou ’niw guang e,",
+            "Nang phaypav khou ’bum key e;",
+            "’Niw huaymei malaalou rio,",
+            "’Niw huath maek khang swlou rio.",
+            "’Niw huath maek khang swlou rio.",
+            "",
+            "2 Pou, Nang khou ’niw ngangvlou e;",
+            "Kadanlouna keylou o;",
+            "Nang zauzian padiklou o,",
+            "’Niw chy #<8 Nang ta thuanh khang.",
+            "’Niw chy #<8 Nang ta thuanh khang.",
+            "",
+            "3 Nang #<8 nuhloumei thiak khou",
+            "’Niw kaduaina ’khwan bam e;",
+            "Pou, Nang suaihiamlou mak saanv",
+            "’Niw tatpat dat ngam lak ge.",
+            "’Niw tatpat dat ngam lak ge.",
+            "",
+            "4 Nang ta phumei kathuic #<8",
+            "Phutow ngam khang ’khavlou o;",
+            "Tiigaylou, tiiduaklou o,",
+            "’Niw Nang khou neihlaa ngam khang.",
+            "’Niw Nang khou neihlaa ngam khang.",
+            "Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Lord, We Come Before Thee Now",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "2/4",
+        "7.7.7.7.7.",
+        "CW 116",
+        "William Hammond",
+        "Lord, We Come Before Thee Now",
+        "source hymn 20",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 20."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pou, Nang hu khou ’niw guang e",
+        "titleRongmei": "Pou, Nang hu khou ’niw guang e",
+        "titleEnglish": "Lord, We Come Before Thee Now"
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0700",
+    "number": 700,
+    "source": {
+      "printedNumber": 700,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "L.F.Lindsay.",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "SS 1094"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KHRISTIAN PHWAM",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Khristian phwam khat .. kaduai bam e,",
+            "Khou 6_> Jisu .. lam ncham khang,",
+            "Kalat paah khang .. Kalam chak khang,",
+            "Neihlaamei _>6 .. padik bam khang.",
+            "",
+            "Kazanc khou kariumei",
+            "Aniu chabwan phwam hei",
+            "Lungh lev baanh kariuna",
+            "Kahym ’dauh tat kan diu!",
+            "Kum ’thei ding ntip kho,",
+            "Ravguangc lev ’niu ding khang;",
+            "Aniu khristian phwam ta",
+            "Suaihiaml ou khang ney kho.",
+            "",
+            "2 ’Niu kariu e, .. lu suan ’chamc khang,",
+            "Neihlaa lu _>6..Guangh ta thuanh khang,",
+            "Chabwan nunc _>6 .. chaeng phu tow ni,",
+            "Tingkauh kai khou zayloupui chaeng.",
+            "",
+            "3 Kaipou taanv hei .. ’niu taancbam khang,",
+            "Aniu latryan .. ’rianh kathanc kho,",
+            "Kathei lay khang, .. Kata lwm khang,",
+            "Kamei lev lungc nchamc mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Endeavour Band",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "8.8.8.8. Ref.",
+        "SS 1094",
+        "L.F.Lindsay.",
+        "The Endeavour Band",
+        "source hymn 700",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 700."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KHRISTIAN PHWAM",
+        "titleRongmei": "KHRISTIAN PHWAM",
+        "titleEnglish": "The Endeavour Band"
+      }
+    }
+  }
+}

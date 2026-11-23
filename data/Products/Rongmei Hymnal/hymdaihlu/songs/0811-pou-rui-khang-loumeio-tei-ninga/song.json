@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0811",
+    "number": 811,
+    "source": {
+      "printedNumber": 811,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "B",
+      "key": null,
+      "beat": null,
+      "meter": "7.6.12.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pou rui khang loumeio tei ninga",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Pou rui khangloumei 1@: ninga,",
+            "Kap lak nituang ham me;",
+            "Kabiang kaphiloumei le bailoumei guai 1@:,",
+            "Ningtou puinung kap pui lu 1@: suanni.",
+            "",
+            "Chorus:",
+            "Adi su cho khang loumei 1@:? (2)",
+            "Kandih guloumeipu jai kanthe tarou thang;",
+            "Poubaumei njangmei su rianra ni.",
+            "",
+            "2. Judah nun rui tithei khang 1@:,",
+            "Ningtou bam pusini;",
+            "Aithu ning bam makge poubaumei njangmei,",
+            "Akhang rui nkhuaimei sulou kanthe.",
+            "",
+            "3. Pou rui theimei 1@: hou lana,",
+            "Mei guai neila bam me;",
+            "Neila makmei nun rui kapma kapum puanpat,",
+            "Tarou lung khou 1@: tijip lou kan the.",
+            "",
+            "4. Thao dat kan the kanloumeipu,",
+            "Banthai ram njuan khang;",
+            "Olive ching rukhou 1@: muang rukhou dunglana,",
+            "Gaipui ram njuan the kanloumei pu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "B",
+        "7.6.12.10.",
+        "Pou rui khang loumeio tei ninga",
+        "source hymn 81",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 81."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pou rui khang loumeio tei ninga",
+        "titleRongmei": "Pou rui khang loumeio tei ninga"
+      }
+    }
+  }
+}

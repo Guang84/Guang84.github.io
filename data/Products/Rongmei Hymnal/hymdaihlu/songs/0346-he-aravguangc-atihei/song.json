@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0346",
+    "number": 346,
+    "source": {
+      "printedNumber": 346,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J. Edwin Orr",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "3/4",
+      "meter": "10.10.10.10.",
+      "tune": "HLC 387"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He aRavguangc atihei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He aRavguangc, ati hei zauclou o,",
+            "Chada zauclou o, achwn kaguay hei,",
+            "Siimei lungchwn alung khou nai khwan ’thei",
+            "Ata khiu ’thanlouna tiiduaklou o.",
+            "",
+            "2 Nang ta thuanc e, ata khiu ’thanlouna",
+            "Alungsyng nganvna Nang sw ’thanlou o,",
+            "Zakmei kheiliak mai $%6 kau ’thanlou o,",
+            "Nang zanc hym tiidaic ngam khang swlou o.",
+            "",
+            "3 Pou, apanty Nang khang na swlou tho,",
+            "Tiipadiklou o, Nang ramzian 6$% $%6,",
+            "Atun, achwn, agaengh guay tiigut the,",
+            "Ai Nang khou bowlou the, Nang laalou tho.",
+            "",
+            "4 He Bumaenghle, Nang $%6 tiilou lou e,",
+            "Tiikaluanlou tho, akhou $%6 thauna,",
+            "Ramh guay akhou tiilou khang ’rianhlou e,",
+            "’Taw khou $%6 ata suaihiamlou di tho."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Search, Me O God",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "3/4",
+        "10.10.10.10.",
+        "HLC 387",
+        "J. Edwin Orr",
+        "Search, Me O God",
+        "source hymn 346",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 346."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He aRavguangc atihei",
+        "titleRongmei": "He aRavguangc atihei",
+        "titleEnglish": "Search, Me O God"
+      }
+    }
+  }
+}

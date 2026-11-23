@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0240",
+    "number": 240,
+    "source": {
+      "printedNumber": 240,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.E. Hewitt",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/8",
+      "meter": "7.6.9.6. Ref.",
+      "tune": "IH 72"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ch’rynmei gaychamv tuang lu hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ch’rynmei Gaychamv tuang lu hei,",
+            "Tingkauhmei lu gwan lev",
+            "Chumei nunc khang ruakgwan nchamc diu;",
+            "Gaychamv kaeng guay hiw o.",
+            "",
+            "“Ravguangc @<4 kandih ta",
+            "Heidikamv kungcna zianloupui zaeng @<4",
+            "KaNac ’Pouh khat na mei ta tiilou the;",
+            "Thow punic Kakhou lwmpui mei mu",
+            "’Maan dat makna, ’maan dat makna,",
+            "Ringcsuangmei laatow khang e”",
+            "",
+            "2 Lungh kabiumei, ryanramei,",
+            "Paapc zaeng zakmei thiule,",
+            "Dih @<4 sw ’maan ngam lakmei neihlaa",
+            "Laatow e, Kazanc khou.",
+            "",
+            "3 Jisu khou guang tho, ruprian,",
+            "Kalat hei nang khang the;",
+            "Zauzian laa tho, latryan ta lwm tho,",
+            "Kazanc ta thuancku o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“For God So Loved the World”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/8",
+        "7.6.9.6. Ref.",
+        "IH 72",
+        "E.E. Hewitt",
+        "RAVGUANGC RUI KANDIH TA",
+        "“For God So Loved the World”",
+        "source hymn 240",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 240."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ch’rynmei gaychamv tuang lu hei",
+        "titleRongmei": "Ch’rynmei gaychamv tuang lu hei",
+        "titleEnglish": "“For God So Loved the World”"
+      }
+    }
+  }
+}

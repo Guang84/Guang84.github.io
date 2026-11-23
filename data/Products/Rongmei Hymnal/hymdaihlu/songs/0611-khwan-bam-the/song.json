@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0611",
+    "number": 611,
+    "source": {
+      "printedNumber": 611,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. Frances L.Mace.",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "9/8",
+      "meter": "8.7.8.7. D.",
+      "tune": "SS 1029"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’KHWAN BAM THE!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Khwan bam di the kamv keymei ta,",
+            "Kandih panty mairam hei;",
+            "’Khwan bam di the mut mak saanv na,",
+            "Tamangv mih mimei riw hei;",
+            "Gaanc chuylou guaimei panty hei",
+            "Kamv keyna ’mit kan mak saanv;",
+            "Neihkhyam key kanmei tingpuk khou",
+            "Tingkauh gaanphiu pat mak saanv.",
+            "",
+            "2 ’Khwan bam di the lautaymei nunc",
+            "Napchu khuam luai mak saanv na;",
+            "Tinglwm ganv gaymei luai kan the,",
+            "Chakaanv ’pwan aliu guang the;",
+            "Khuam guang ’khap tho,",
+            "lautaymei nunc!",
+            "Apanty napthai guay 7?|,",
+            "Apanty hei puangc kim key the,",
+            "Ai tat pat zaic puni the.",
+            "",
+            "3 ’Khwan bam di the, kauh baanch’ra nunc",
+            "Kachaekc raengcmun laanhmei ta,",
+            "Raenghmun daeng khou ai ’khwan saengc the,",
+            "Sansii, apam-’rai maekna;",
+            "’Taw sihni kaniw phay khwan lev",
+            "Kaniw khwan duh thangc chu the;",
+            "Kaniw ata kaw rap pwkhou",
+            "Daw khang na ’khwan bam di the.",
+            "",
+            "4 ’Khwan bam e gaanc dianghmei ramc ta,",
+            "How zat makmei kauh ramc ta;",
+            "Khou7?| ringhmei thingbang puangc e,",
+            "Kandih 7?| ’diakc tanh tan e;",
+            "’Khwan bam e Guloumei pu ?|7",
+            "Paapc rei guay khiu ’thanlouna;",
+            "Ryanra, sucnu maekmei ramc khou,",
+            "Ata thuaklou nimei ta."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "9/8",
+        "8.7.8.7. D.",
+        "SS 1029",
+        "Mrs. Frances L.Mace.",
+        "Only Waiting!",
+        "source hymn 611",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 611."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’KHWAN BAM THE!",
+        "titleRongmei": "’KHWAN BAM THE!"
+      }
+    }
+  }
+}

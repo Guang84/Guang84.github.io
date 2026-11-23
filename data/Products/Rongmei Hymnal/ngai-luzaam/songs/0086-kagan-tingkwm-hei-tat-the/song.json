@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-086",
+    "number": 86,
+    "source": {
+      "printedNumber": 86,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": null,
+      "meter": "7.6.9.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kagan tingkwm hei tat the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kagan tingkwm hei tat the,",
+            "Rianra bammei nun guai;",
+            "Neihriu gaimei kandi mun guai tei,",
+            "Matat khatna khou ‘maan dat nimei ram e.",
+            "",
+            "He! atingsaeng namdaih neihla pui ram,",
+            "Kanloumei nanun bampui ram ‘zuan o;",
+            "Rianra mei le talan patmei,",
+            "Naidat lak khe kapmei rianramei guai.",
+            "",
+            "2. He kandi rianra mei le,",
+            "Mikdui ruina luanglyam;",
+            "Rianra kalangh bampui ram khou hei,",
+            "Pat louna tatni e kanlou mei ram khou.",
+            "",
+            "3. Rianra mei guai tuan lana,",
+            "Kandih munpuang guaini;",
+            "Kandih neihla mei guai maan puni,",
+            "Munpuang kumhmei tingsaeng ram ta ai ning e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 86",
+        "Khristian Luzaam PDF",
+        "Chord: F",
+        "Meta 3: 7.6.9.11."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 86. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 86,
+        "match": "title-match-0.95"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kagan tingkwm hei tat the",
+        "titleRongmei": "Kagan tingkwm hei tat the"
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0422",
+    "number": 422,
+    "source": {
+      "printedNumber": 422,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Carrie M. Wilson",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "v",
+      "tune": "SS 821"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Suan o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Suan o, tingkauh ’zwanmeithiu,",
+            "Kaganv hei saengh mak khe,",
+            "Aramlum kauh biak kahuh,",
+            "Neihlaapui lu suanna,",
+            "Zauc lo, suaihiammei chyngbut,",
+            "Hymdaih chyng khou dingna,",
+            "Jordan phaengc kaanna zauc ’ki",
+            "’Rianhloumei dic how the!",
+            "",
+            "Suan o, he neihlaa lu khwan,",
+            "Nang khwan chupui kathuic",
+            "Alung khou neihlaana",
+            "Thuanhmei chwn !}2 padik ge.",
+            "",
+            "2 Suan o, tingkauh ’zwanmei thiu,",
+            "Dih khou ’niu bam khou hei",
+            "Kauh lev Jisu tuang lu !}2",
+            "Tingmik ta sw ’maan o;",
+            "Suan o, thuakloumei zauzian,",
+            "Daihmei p’ry guangc lam hei",
+            "Tingkauh kaidai padikmei,",
+            "Nganv makmei lu suan o.",
+            "",
+            "3 Suan o, tingkauh ’zwanmeithiu,",
+            "Kating hei ’naa guang the;",
+            "Aniu Pu guanghdic khou 2^<",
+            "Gay liangmei lu suan khang,",
+            "Zianmei nunc ’khwanna bam the,",
+            "Khou 2^< ’niu ta riu khang,",
+            "Dui paengc khou ’niu sowriw ni,",
+            "Duiluat maekmei bamv khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Sing On!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "v",
+        "SS 821",
+        "Carrie M. Wilson",
+        "Sing On!",
+        "source hymn 422",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 422."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Suan o",
+        "titleRongmei": "Suan o",
+        "titleEnglish": "Sing On!"
+      }
+    }
+  }
+}

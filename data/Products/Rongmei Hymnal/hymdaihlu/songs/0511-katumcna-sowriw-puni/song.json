@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0511",
+    "number": 511,
+    "source": {
+      "printedNumber": 511,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Dr. C.R. Blackall",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.10.7.7.10. Ref.",
+      "tune": "SS 1120"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KATUMCNA SOWRIW PUNI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Swan kiu ’niu hu khou nai the,",
+            "Kalat )}3 katiu bam the,",
+            "Ravguangc mik phaengc key bam e, kauh thangc )}3!",
+            "Kamei ’zianna kaw bam e,",
+            "Paapc )}3 tiiping bam khou hei,",
+            "Jisu khwan ’zaenghna kaw e anaa khou.",
+            "",
+            "Katumcna sowriw puni, katumcna kalum puni,",
+            "Jisu Kahym daicna guanghtupui nungc kiu;",
+            "Katumcna sowriw puni,",
+            "katumcna kalum puni,",
+            "Jisu Kahym daicna guanghtupui nungc kiu.",
+            "",
+            "2 Zayloupui bamv khou tat ni,",
+            "Kicloupui bamv khou tu ni,",
+            "Kauh thangc )}3 saa keymei",
+            "Kalat piu ni!",
+            "Gaanthauh nganv ’pat dat lak khe,",
+            "’Niu rigwn guang tangc puni,",
+            "Lwmmei thai nsaa lak ge, Jisu nai!",
+            "",
+            "3 ’Niu kai tingkauh gaanc bam e,",
+            "Sw kaguakc tuang nai lak khe;",
+            "’Niu Jisu nzian bam, kauh kai khou 3)^!",
+            "’Niu Kakhang karamclou ni,",
+            "Kazanc nganv makna thuanc ni,",
+            "Nthukmei Kalat guay hei suai mak ge."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Triumph By and By!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "7.7.10.7.7.10. Ref.",
+        "SS 1120",
+        "Dr. C.R. Blackall",
+        "Swan kiu ’niu hu khou nai the",
+        "Triumph By and By!",
+        "source hymn 511",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 511."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KATUMCNA SOWRIW PUNI",
+        "titleRongmei": "KATUMCNA SOWRIW PUNI",
+        "titleEnglish": "Triumph By and By!"
+      }
+    }
+  }
+}

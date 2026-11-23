@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-285",
+    "number": 285,
+    "source": {
+      "printedNumber": 285,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh Nzaengcdic Anaaguang the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          285 Tingkauh Nzaengcdic Anaa Guang",
+            "                           9.8.12.7. Ref. 7.9. 11.7",
+            "",
+            "          1. Tingkauh nzaengcdic anaa guang the;",
+            "             Zauc lo, maansei aching ching rui,",
+            "             Kaipouc rui 'thanmei kaguay ta nduangh lana,",
+            "             Guang pwni asaanv mak khou.",
+            "",
+            "                  Aseic hei kaw e, kaw e:",
+            "                  Ch'rynmei Kazauzian laatow pwni.",
+            "                  Adihkamv gay cho ringhbamv nsaa tiiloumei.",
+            "                  Akaipouc hei gay liang e.",
+            "",
+            "          2. 'Niw ni gut di kho ringhmei chaeng khou;",
+            "             'Niw ramring guay mpat lana,",
+            "             Ringhmei kai biak thangc nzwanna tat gut di kho;",
+            "             Guang tangh khang anaa guang the.",
+            "",
+            "          3. Kaipouc guanghdic taanv taanh khang kaw e;",
+            "             Maansei guayna ta 'diu bam e;",
+            "             Kaganv hei 'naa the, ndiumei khou tat di kho;",
+            "             Katumcna guang pwni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh Nzaengcdic Anaaguang the"
+      }
+    }
+  }
+}

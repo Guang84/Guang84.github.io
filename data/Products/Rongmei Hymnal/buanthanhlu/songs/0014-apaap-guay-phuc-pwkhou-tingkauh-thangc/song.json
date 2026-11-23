@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-014",
+    "number": 14,
+    "source": {
+      "printedNumber": 14,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Apaap Guay Phuc Pwkhou Tingkauh thangc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          14      Apaap Guay Phuc Pwkhou",
+            "                          9.9.9.9.Ref.9.9.9.9",
+            "",
+            "          Doh hei Db",
+            "",
+            "          1. Apaap guay phuc pwkhou tingkauh thangc,",
+            "             Neihkhat mu latzan khou ai ding ni.",
+            "             Ai ley ngammak ge Ravguangc hu khou,",
+            "             Thow nai cho ata gulou ngammei?",
+            "                   Ch'ryn e Jisu zauzian daic ranv e!",
+            "                   Phuna phuna apaap guay kuaklou.",
+            "                   Ai duak ni zauzian' rui latzan khou,",
+            "                   Jisu khou lwmmei ta tiduaklou.",
+            "          2. Paapc zaeng Jisu ta kros khou swluai.",
+            "             Ntwn makmei aniw zaeng khangrui ,",
+            "             Kamei khaengvlou the aniw paap khang.",
+            "             Jisu na de 'niw ta gu' ngammei.",
+            "          3. Mphwanmei guangh bamvpaeng khou dungcna,",
+            "             Nthyammei daihmei kaguayna ta,",
+            "             Duipui lev taruaih ram kaguay ta,",
+            "             Latzan sw ni nkhamhpui nungc kiu.",
+            "          4. Ringhmei latrik khou zanh maekmei guay ,",
+            "             Jisu khou lwmlou makmei guay ta,",
+            "             Kanganv maekmei theihmei maikwam khou,",
+            "             Tingsaeng zaeng ryanraa khaengv bam pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Apaap Guay Phuc Pwkhou Tingkauh thangc"
+      }
+    }
+  }
+}

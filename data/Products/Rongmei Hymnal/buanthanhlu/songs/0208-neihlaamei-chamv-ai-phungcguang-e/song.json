@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-208",
+    "number": 208,
+    "source": {
+      "printedNumber": 208,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neihlaamei Chamv Ai Phungcguang e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          208 Neihlaamei Chamv Ai Phungcguang e.",
+            "                                8.9.8.9.Ref. 9.9.9.9",
+            "",
+            "          1. Neihlaamei chamv ai phungcguang e;",
+            "             Tingkauh namvdai neihlaamei chamv e.",
+            "             Paapc ric ngamna guangmei guay khang",
+            "             Ravguangc rui chamdaanvloumei chamv e.",
+            "",
+            "                     Meic guayna mphwanmei pwan piuna",
+            "                     Neihlaa lu rui Ravguangc ta thuancna",
+            "                     Tingkauh mei guay suan bammei lu tei -",
+            "                     Kidaa khang maekmei ramnugai e.",
+            "",
+            "          2. Daihmei thyammei nai dat lak khe,",
+            "             Nyngtyngmei mpangmei nic maek khe,",
+            "             Lungcgai lungsi nai dat lak khe,",
+            "             Zauczih karaengmei nai dat lak khe.",
+            "",
+            "          3. Chwnsi mikdui keymei maek khe,",
+            "             Ntamvmei lwn nic how dat lak khe.",
+            "             Thuakloumei guay lungc nipui ramc",
+            "             Ravguangc rui chamdaanvloumei namdai.",
+            "",
+            "          4. Kandih tuang chingkhiuhmei guay ta",
+            "             Ningtow dat lak khe, how dat lak khe.",
+            "             Gaanc kangvranmei riw rui gaanc e,",
+            "             Tingsaeng zaeng lungc nipui namvdai tei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neihlaamei Chamv Ai Phungcguang e"
+      }
+    }
+  }
+}

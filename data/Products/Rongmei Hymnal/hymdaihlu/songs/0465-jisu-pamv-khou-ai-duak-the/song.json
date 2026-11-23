@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0465",
+    "number": 465,
+    "source": {
+      "printedNumber": 465,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D. Ref.",
+      "tune": "SS 57"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu pamv khou ai duak the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu pamv khou ai duak the,",
+            "Kangaengv khou ngangvlouna,",
+            "Kazauzian ^&5 gungclouna",
+            "Abumeangc zaeng ’thaekc ni,",
+            "’King o, baanch’ra nunc khwan kiu",
+            "Lu ^&5 akhou phungc guang,",
+            "",
+            "Hymdaihmei laupuk guay lev",
+            "Gaanhmei duipui ruc khou.",
+            "Jisu pamv khou ai duak the,",
+            "Kangaengv khou ngangvlouna,",
+            "Kazauzian ^&5 gungclouna",
+            "Abumaengc zaeng ’thaekc ni.",
+            "",
+            "2 Jisu pamv khou ai duak the,",
+            "Siimei khou ^&5 duak the,",
+            "’Thiammei guay khou ^&5 duak the,",
+            "Paapc ^&5 kabiu lak khe;",
+            "Lungh ryanramei guay maek khe,",
+            "Lwmsii, pingmei maek khe;",
+            "’Chanvmei asaekc na nai e,",
+            "Mikdui asaekc nai e.",
+            "",
+            "3 Jisu ai gutloupui bamv,",
+            "Jisu akhang theiclou,",
+            "Jisu tingsaeng Taudaic khou",
+            "Taek makna lwmlou ni;",
+            "Khou hei ’khaengv thayna ’khwan ni,",
+            "Zingbangc hei luai mak saanv,",
+            "Kachaekc duikhuangc thangc lauthwan",
+            "Patmei ta how mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Safe in the Arms of Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "7.6.7.6. D. Ref.",
+        "SS 57",
+        "Fanny J. Crosby",
+        "Safe in the Arms of Jesus",
+        "source hymn 465",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 465."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu pamv khou ai duak the",
+        "titleRongmei": "Jisu pamv khou ai duak the",
+        "titleEnglish": "Safe in the Arms of Jesus"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-025",
+    "number": 25,
+    "source": {
+      "printedNumber": 25,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "9.8.8.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He! Poubaomei alung rianra bam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He! Poubaomei alung rianra bam !",
+            "Sansimei rui gumliam louna;",
+            "Kapmei lev rianra zingbang khou",
+            "Mikdui keina ai rui phu guang e.",
+            "",
+            "He! Poubaomei along geimei kapum,",
+            "Nang banpa dai khou ti kan the;",
+            "Lung geimei ti neihla kaipou,",
+            "Tingmik thui ti neihla lou o.",
+            "",
+            "2. He! Poubaomei alung neila khang!",
+            "Nang bam na neila khang makge;",
+            "Thou kummei khou ai zuan ni cho?",
+            "Ata ti neila khang nang na de.",
+            "",
+            "3. Lung ryanra muang rui akhang zing – zing,",
+            "David Guangh kanlou mei pu rui;",
+            "Rian ramei ata suliam lou ,",
+            "Rianra nkhuai mei ai ni guang e.",
+            "",
+            "4. Reikhou kanaan ram bam kathui khou,",
+            "Zaeng simei guay ti neihlaa lou ,",
+            "Ryanramei guay nang ta thuan e,",
+            "Akhang neihlaa liang mei nang na de."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 25",
+        "Khristian Luzaam PDF",
+        "Chord: A",
+        "Meta 3: 9.8.8.9."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 25. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 25,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He! Poubaomei alung rianra bam",
+        "titleRongmei": "He! Poubaomei alung rianra bam"
+      }
+    }
+  }
+}

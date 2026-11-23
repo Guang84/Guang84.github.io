@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0151",
+    "number": 151,
+    "source": {
+      "printedNumber": 151,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Federick Whitfield",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/8",
+      "meter": "C.M. Ref.",
+      "tune": "HLC 304"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AI JISU TA ZIAN E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai )}3 chu niimei zanc khat nai,",
+            "Ai )}3 thuanc bam nii e,",
+            "Mi 3)^ akhang lu gaymei e,",
+            "Ndeih liangmei zanc e.",
+            "",
+            "Ai Jisu ta zian e,",
+            "He ai adih zian cho!",
+            "Ai Jisu ta zian e,",
+            "Ata zian rey zaeng )}3.",
+            "",
+            "2 Gumeipu ramzian lam dinc e,",
+            "Ai duak khang theicloumei;",
+            "Kunghmei Kazei keyloumei 3)^",
+            "Paapc mei khang ngangvbamv e.",
+            "",
+            "3 Apu )}3 tingmik ’thuic akhang",
+            "Chamdaanvlouna bam e,",
+            "Achanglwan hei zingcna bam khou",
+            "Neihriw tiigaanclou e.",
+            "",
+            "4 Alungsyng thangc ryanramei ta",
+            "Thay tangc ngammei pu e;",
+            "Baihmei )}3 phungc ’khav ngam lakmei",
+            "Aryanra phungc ’khavlou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "There is a Name I Love to Hear",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/8",
+        "C.M. Ref.",
+        "HLC 304",
+        "Federick Whitfield",
+        "Ai rui chu niimei zanc khat nai",
+        "There is a Name I Love to Hear",
+        "source hymn 151",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 151."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AI JISU TA ZIAN E",
+        "titleRongmei": "AI JISU TA ZIAN E",
+        "titleEnglish": "There is a Name I Love to Hear"
+      }
+    }
+  }
+}

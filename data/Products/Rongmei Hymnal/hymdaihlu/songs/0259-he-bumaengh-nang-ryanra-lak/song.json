@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0259",
+    "number": 259,
+    "source": {
+      "printedNumber": 259,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Helen Howarth Lemmel",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "3/4",
+      "meter": "9.8.10.8. Ref.",
+      "tune": "AACH 137"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Bumaengh, nang ryanra lak",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He bumaengh, nang ryanra lak bu cho?",
+            "Gaanhmei how makna bam tu cho?",
+            "Khrista ta zauhmei khang gaanhmei nai e,",
+            "Padikmei, duakmei panty nai!",
+            "",
+            "Jisu ta nang mik zauc o,",
+            "Ch’rynmei Kazawpaanv mating o;",
+            "Kahu khou kandih puat guay kamv puni,",
+            "Hym gaanhmei, zauzian zawpaanv riw khou.",
+            "",
+            "2 Theihmei khou )}3 tingsaeng ringhmei khou",
+            "Kamei gut kumc ’niu nic gut re;",
+            "’Niu ruc khou paapc )}3 zyn ngam dat lak khe,",
+            "Ngammei nunc suangc ’niu ngammei e!",
+            "",
+            "3 Kalat suai mak ge twna ’rianhlou,",
+            "Lwm o, ramh guay gay ngam puni;",
+            "Kum ethei theic bammei nunc khou tat tho,",
+            "Katuang ringcbamv chamv dinclou tiu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Turn Your Eyes Upon Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "3/4",
+        "9.8.10.8. Ref.",
+        "AACH 137",
+        "Helen Howarth Lemmel",
+        "JISU TA NANG MIK ZAUC O",
+        "Turn Your Eyes Upon Jesus",
+        "source hymn 259",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 259."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Bumaengh, nang ryanra lak",
+        "titleRongmei": "He Bumaengh, nang ryanra lak",
+        "titleEnglish": "Turn Your Eyes Upon Jesus"
+      }
+    }
+  }
+}

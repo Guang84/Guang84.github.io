@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0394",
+    "number": 394,
+    "source": {
+      "printedNumber": 394,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Elisha A. Hoffman",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "9/8",
+      "meter": "10.9.10.9. Ref.",
+      "tune": "HLC 437"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ARAMRIANRA GUAY JISU KHOU",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Aramrianra guay Jisu khou pou ni,",
+            "Araana puatrith hei phungc ngam mak;",
+            "Arianra guay Kamei ’khavlou puni,",
+            "Nzian taek makna kadanlou e.",
+            "",
+            "Suai makna Jisu khou ai poulou ni!",
+            "Araana ryanra ’khaengv ngam mak ge;",
+            "Suai makna Jisu khou ai poulou ni!",
+            "Jisu ’khavlou ngam, Jisu na de.",
+            "",
+            "2 Katuakcmei ganv khou Jisu khou pou ni,",
+            "Kamei zianthaymei Duangda kiu e;",
+            "Poulou rap ti thei Kamei thuaklou ni,",
+            "Katuakcmei guay tii ’maanlou puni.",
+            "",
+            "3 Tiangchanhmei ganv khou Jisu kage nai,",
+            "Arianra phungcloumei Kamei e;",
+            "Suai makna Jisu khou ai poulou ni,",
+            "Apuatrith guay phungc ’khavlou puni.",
+            "",
+            "4 Siimei taanc diu khang mbaanv _>6 ’thiam e,",
+            "Paapc taanc diu khang alung ta ’thiam e;",
+            "Jisu _>6 ata nkhavlou puni,",
+            "Mbaanv ngamv ta rih ngamlou puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Must Tell Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "9/8",
+        "10.9.10.9. Ref.",
+        "HLC 437",
+        "Elisha A. Hoffman",
+        "I Must Tell Jesus",
+        "source hymn 394",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 394."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ARAMRIANRA GUAY JISU KHOU",
+        "titleRongmei": "ARAMRIANRA GUAY JISU KHOU",
+        "titleEnglish": "I Must Tell Jesus"
+      }
+    }
+  }
+}

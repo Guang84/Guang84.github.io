@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0584",
+    "number": 584,
+    "source": {
+      "printedNumber": 584,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anne Ortlund",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "C.M.D.",
+      "tune": "HLC 485"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Theicna bammei kandihmei nunc lwn",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Theicna bammei kandihmei lwn",
+            "’Niu mik khou phaengc how e,",
+            "Kage naimei ta ’niu thay e,",
+            "Kap bammei khwan chu e;",
+            "Pou Jisu, Nang tuang phwamling ta",
+            "Tiikaluanlou dat ro,",
+            "’Thukmei ganv khou Nang phwamling khang",
+            "Bumaengh ngamv tiilou o.",
+            "",
+            "2 Thing-’tauh ta kalummei nunc !}2",
+            "Zingc keymei ta ping e;",
+            "Kaidai khou lungc bammei nunc !}2",
+            "Chwnkarumna kap be.",
+            "Pou Jisu, Nang tuang phwamling ta",
+            "Tiichuangc thaulou dat ro,",
+            "Ryanra-lakmei ta how thay khang,",
+            "Zianthay, kadanthay khang.",
+            "",
+            "3 ’Seicdou thay-howmei ningting hei",
+            "Mbu kuna bam khou,",
+            "Nang Lat khou ngamv thanh tiilou o,",
+            "Katumcna zin lik khang,",
+            "Pou Jisu, Nang ngamv tiilou o,",
+            "Natnw guay hei piuna,",
+            "Duhmei ’naamei kandih ’thuic khou",
+            "Nang Lat tiichu lik khang.",
+            "",
+            "4 Latzan kaeng khwan 2^< chu guang the,",
+            "’Niu ruc khou kros nai e;",
+            "Theicna bammei bumaengc nunc hei",
+            "Adih sansii ni cho?",
+            "Nang tuang phwamling ta thouclou o,",
+            "Gaychamv dinc lik ’khap khang,",
+            "Nang phwamling ta tii’luanlou o,",
+            "Akhou !}2 thaulou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Vision of the Dying World",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "C.M.D.",
+        "HLC 485",
+        "Anne Ortlund",
+        "The Vision of the Dying World",
+        "source hymn 584",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 584."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Theicna bammei kandihmei nunc lwn",
+        "titleRongmei": "Theicna bammei kandihmei nunc lwn",
+        "titleEnglish": "The Vision of the Dying World"
+      }
+    }
+  }
+}

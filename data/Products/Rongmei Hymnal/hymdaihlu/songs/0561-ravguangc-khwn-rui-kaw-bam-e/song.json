@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0561",
+    "number": 561,
+    "source": {
+      "printedNumber": 561,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Haynes Holmes",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "CW 490"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc khwn rui kaw bam e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc khwan #^7 kaw bam e,",
+            "Meic nunc ta kabaina;",
+            "Zion khou thanv kanmei kumc,",
+            "’Taw nic thanv dat bam e:",
+            "“Thow ta Ai thouclou ni cho,",
+            "Amei nunc ta zuak khang?",
+            "Zakmei, agaamvmei kangriang",
+            "Thow #^7 ric ganc ni cho?”",
+            "",
+            "2 “Amei nunc kapna bam e,",
+            "Kai lev taanvbamv guay khou,",
+            "Laupuk guay khou, kaithyan khou,",
+            "Kaidai chaengluang guay khou,",
+            "Amei nunc punkey bam e,",
+            "Zinghmei, dwangdangvmei khou;",
+            "Thow ta Ai thouclou ni cho,",
+            "Kaniw ta tiiduak khang?”",
+            "",
+            "3 Pou, ’niw Nang kawmei chu e,",
+            "’Niw daw e, “Niw nuh the,",
+            "Nang latdiu khang thouclou tho,",
+            "’Niw Nang bangc sw ni the;",
+            "’Niw pumtan thu taniang de,",
+            "’Niw panty hei dui e,",
+            "’Ki ’niw ramsuan ta Nang #^7",
+            "Nang ngamv khang piu nuh e.",
+            "",
+            "4 Chiwmei, liamhlaihmei khou #^7",
+            "’Niw ta tiiduaklou o;",
+            "’Naamei chwn khou #^7 ’niw ta",
+            "Kauhmei khou zaylou o;",
+            "’Niw ta sw ’thanlou na ro,",
+            "Nang chwn khou zaylou o,",
+            "’Niw khou Nang latdanv tii o,",
+            "’Niw Nang lat piu ni the. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Voice of God is Calling",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "7.6.7.6. D.",
+        "CW 490",
+        "John Haynes Holmes",
+        "The Voice of God is Calling",
+        "source hymn 561",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 561."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc khwn rui kaw bam e",
+        "titleRongmei": "Ravguangc khwn rui kaw bam e",
+        "titleEnglish": "The Voice of God is Calling"
+      }
+    }
+  }
+}

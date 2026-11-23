@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0002",
+    "number": 2,
+    "source": {
+      "printedNumber": 2,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Edward Cooper",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "3/4",
+      "meter": "L.M.",
+      "tune": "HLC 5"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He tingkauh Pu, Kazauzian rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He tingkauh Pu, Kazauzian #<8",
+            "’Niw bumaengc ta rancloumeipu,",
+            "Nang hu khou ’niw ’bumkey bam e,",
+            "Kuakloumei zauzian tiilou o.",
+            "",
+            "2 Ngamp’rymei Nah ’Pouh, he Latkaeng,",
+            "Muhzwng, Tingkuh, Thuakloumeipu;",
+            "Nang hu khou ’niw ’bum key bam e,",
+            "Guloumei zauzian tiilou o.",
+            "",
+            "3 Tingsaeng Bumaengc Kangamv paan #<8",
+            "Theihmei bumaengc tiiringhmeipu;",
+            "Nang hu khou ’niw ’bum key bam e,",
+            "’Niw ta tiichuangc thaulou na ro.",
+            "",
+            "4 He Ravguangc Pu,Nah ’Pouh, Bumaengh;",
+            "He Gaanv Thumh khat swmei Racguangc,",
+            "Nang hu khou ’niw ’bum key bam e,",
+            "’Niw khou Nang zauzian tiilou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Father of Heaven, Whose Profound",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "3/4",
+        "L.M.",
+        "HLC 5",
+        "Edward Cooper",
+        "Father of Heaven, Whose Profound",
+        "source hymn 2",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 2."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He tingkauh Pu, Kazauzian rui",
+        "titleRongmei": "He tingkauh Pu, Kazauzian rui",
+        "titleEnglish": "Father of Heaven, Whose Profound"
+      }
+    }
+  }
+}

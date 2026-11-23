@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0686",
+    "number": 686,
+    "source": {
+      "printedNumber": 686,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anna Warner",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "2/2",
+      "meter": "7.7.7.7. Ref.",
+      "tune": "SS 1155"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU ATA ZIAN",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu #<8 ata zian e!",
+            "Baibal #<8 akhou saa e;",
+            "Alauc guay hei Katuang e;",
+            "Kaniw ’suan, Kamei tanc e.",
+            "",
+            "Jisu ata zian,",
+            "He ata zian e!",
+            "Jisu ata zian,",
+            "Baibal #<8 dinclou e!",
+            "",
+            "2 Jisu akhang theiclou e,",
+            "Kamei #<8 apaap khiulou,",
+            "Tingkauh raengcmun laanclou e,",
+            "Alauc nunc ta tiigut re.",
+            "",
+            "3 Jisu #<8 ’duanghlou puni,",
+            "Kabamv ’thuic chaenglwan saanv khou,",
+            "Kata zianna lungc tithei,",
+            "Tingkauh kai khou zaylou ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus Loves me!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "2/2",
+        "7.7.7.7. Ref.",
+        "SS 1155",
+        "Anna Warner",
+        "Jesus Loves me!",
+        "source hymn 686",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 686."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU ATA ZIAN",
+        "titleRongmei": "JISU ATA ZIAN",
+        "titleEnglish": "Jesus Loves me!"
+      }
+    }
+  }
+}

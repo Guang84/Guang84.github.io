@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0674",
+    "number": 674,
+    "source": {
+      "printedNumber": 674,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "August L.Storm",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7. D.",
+      "tune": "HLC 571"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thuancku e, Thuakloumeipu khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thuancku e, Thuakloumeipu khang!",
+            "Nang chamdaanvloumei guay khang;",
+            "Thuancku e, tat kanmei ganv khou",
+            "Jisu bam ’duanghloumei khang;",
+            "Thuanku e, lauphunhswan ganv khang,",
+            "Tingsei ganv tiiloumei khang,",
+            "Thuancku e, mikdui keymei khang,",
+            "Chuzaenghmei tiiloumei khang.",
+            "",
+            "2 Thuancku e, ravsuai dawloumei,",
+            "Dawlou makmei guay khang ta;",
+            "Thuancku e, pwanzingh akhangv khang,",
+            "Nang !}2 nuhloumei guay khang;",
+            "Thuancku e, suhmei amanvmei,",
+            "Neihlaamei, chwnswmei khang;",
+            "Thuancku e, nganv makmei zauzian,",
+            "Kidalakmei zianmei khang.",
+            "",
+            "3 Thuancku e, mwnpwang gaymei khang,",
+            "Sauhraengh naimei bang guay khang;",
+            "Thuancku e, kaikhunh, maimangh bamv,",
+            "Machunhmei tiiloumei khang;",
+            "Thuancku e, neihlaa, ryanramei,",
+            "Tingkauh tuang chuzaenghmei khang;",
+            "Thuancku e, guang nimei ganv khang,",
+            "Tingsaengzaeng tuang machunc khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Thanks to God For My Redeemer!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "3/4",
+        "8.7.8.7. D.",
+        "HLC 571",
+        "August L.Storm",
+        "Thanks to God For My Redeemer!",
+        "source hymn 674",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 674."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thuancku e, Thuakloumeipu khang",
+        "titleRongmei": "Thuancku e, Thuakloumeipu khang",
+        "titleEnglish": "Thanks to God For My Redeemer!"
+      }
+    }
+  }
+}

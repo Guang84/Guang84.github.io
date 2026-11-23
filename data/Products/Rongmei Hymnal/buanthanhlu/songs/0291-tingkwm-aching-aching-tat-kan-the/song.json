@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-291",
+    "number": 291,
+    "source": {
+      "printedNumber": 291,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkwm Aching Aching Tat kan the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          291 Tingkwm Aching Tat kan the",
+            "                           12.8. 11.9. Ref. 12. 8. 10, 10",
+            "",
+            "          1. Tingkwm aching aching tat kan the dui luangh kumc;",
+            "             Meickin meickin nic tuai kan the.",
+            "             Gaymei kaganv guay ri kan the mang kumcna,",
+            "             Guang nimei zuk thanh ta agwn e.",
+            "",
+            "                  Millennium guangdic Pou' Khrista tuang guangcdic,",
+            "                  Tingkwm ching guanghtuna lungc ni.",
+            "                  Khoutei pingmei suc-rih nai dat lak khe.",
+            "                  Mbaanvthayna chu-zaenghna lungc ni the.",
+            "",
+            "          2. Tingkwm aching aching luailou the aseic hei,",
+            "             Tingkwm thanh, zuk thanh guang pwthe.",
+            "             Pou' Khrista tuang Jubilee guang pwni the;",
+            "             Ch'rynmei ngaidai sw pwni hei khoutei.",
+            "",
+            "          3. Tingkauh Jubilee tuang kaengcdai hiw pwni the;",
+            "             Duipy duibaa thangcrui guang 'ni.",
+            "             Khoutei 'tamv bammei nunc ta sowriu dat ni;",
+            "             Ch'rynmei ngaidai sw pwni heic khoutei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkwm Aching Aching Tat kan the"
+      }
+    }
+  }
+}

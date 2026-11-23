@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0410",
+    "number": 410,
+    "source": {
+      "printedNumber": 410,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Joseph Scriven",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. D.",
+      "tune": "SS 319"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ch’ryn tuang e Jisu lev aniu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ch’ryn tuang e Jisu lev aniu",
+            "Duangda swmei lwnlung hei!",
+            "Aniu ryanra guay lev paapc guay",
+            "Kamei @{4 phungclou khang e!",
+            "Ramh guay phungc guang nuhpui ganv e,",
+            "Ravguangc khou huayney khou hei;",
+            "Ramh guay phungc guang makpui zaeng e,",
+            "Nsa ryanra ’khaengvmei hei!",
+            "",
+            "2 ’Niu khou nchanvmei nai bu cho?",
+            "’Thiammei, katuakcmei nai cho?",
+            "’Niu lung tiitangkhyn zat ri kho;",
+            "Hei khang Kaipouc khou ney kho,",
+            "’Niu rianra phungh khang lwm nuhmei,",
+            "Kakumhmei Duangda nai cho?",
+            "Jisu aniu ramsuan thay e,",
+            "Pou khou hei guay khang ney kho.",
+            "",
+            "3 ’Niu ’ritmei puat phungc bam tu cho?",
+            "Tyndwangmei @{4 khamvnamv cho?",
+            "Jisu hei duploupui bamv e,",
+            "Pou khou heiguay khang ney kho;",
+            "Nang rup nunc @{4 ’patlou bu cho?",
+            "Kaipouc khou hei khang ney kho,",
+            "Kabaancpwam @{4 sungclou puni,",
+            "Khou kiu nang ’baanv thay puni!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "What a Friend We have in Jesus!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "8.7.8.7. D.",
+        "SS 319",
+        "Joseph Scriven",
+        "What a Friend We have in Jesus!",
+        "source hymn 410",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 410."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ch’ryn tuang e Jisu lev aniu",
+        "titleRongmei": "Ch’ryn tuang e Jisu lev aniu",
+        "titleEnglish": "What a Friend We have in Jesus!"
+      }
+    }
+  }
+}

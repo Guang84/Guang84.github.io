@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-151",
+    "number": 151,
+    "source": {
+      "printedNumber": 151,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": null,
+      "meter": "7.7.7.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ram kathum khou lat nzan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ram kathum khou lat nzan,",
+            "Tingkao Raguangh jisu ta;",
+            "Kalat nzanpui bam khou;",
+            "Kalan zingbang naidat kan makhe.",
+            "",
+            "Ai rui thuan ku e jisu,",
+            "Katik kagun daipui ram khou,",
+            "Nang bangta zauzianc lou o,",
+            "Ryanra ryanriu puibam kathui khou.",
+            "",
+            "2. Dui le kandih ting kao khou ,",
+            "Kalat nzan pui bam khou;",
+            "Jisu thei ai lai tad ni,",
+            "Tingkao kandi khou bam cham ni the.",
+            "",
+            "3. Thing kros ru khou khang kan the,",
+            "Kanloumei jisu khrista ,",
+            "Rianra rian riu mei guai tei,",
+            "Kum ma rianra rian riu khang kan the.",
+            "",
+            "4. Rom mei rihmei nun guay rui,",
+            "Sinhnui na Pouta zai tat,",
+            "Tikih mei nun rui nuh lou mak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 151",
+        "Khristian Luzaam PDF",
+        "Chord: F",
+        "Meta 3: 7.7.7.9."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 151. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 144,
+        "match": "title-match-0.90"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ram kathum khou lat nzan",
+        "titleRongmei": "Ram kathum khou lat nzan"
+      }
+    }
+  }
+}

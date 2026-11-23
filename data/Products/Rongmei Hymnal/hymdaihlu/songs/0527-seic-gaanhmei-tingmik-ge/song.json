@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0527",
+    "number": 527,
+    "source": {
+      "printedNumber": 527,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Ellerton",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "3/4",
+      "meter": "6.6.8.6.",
+      "tune": "CW 446"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Seic gaanhmei tingmik ge",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Seic gaanhmei tingmik ge;",
+            "’Seic hei gaanhmei nai diu;",
+            "Guang gaanclou o, ’niw zingbangc khou,",
+            "Zinghmei hac ganclou o.",
+            "",
+            "2 ’Seic ’thaekcmei tingmik ge;",
+            "’Niw zaeng tiitanc dat khang;",
+            "Lakmei buak lev pumh khang Nang #^5",
+            "Pumtan zikdui tii o.",
+            "",
+            "3 ’Seic chuzanghmei neic e;",
+            "Chuzaenghmei nai kan diu;",
+            "Lungh ’chamh makmei tii ’maanlou o,",
+            "Agay ’gimei ’thaekc diu.",
+            "",
+            "4 ’Seic huayneymei neic e;",
+            "Tingkauh ’naa guang pw diu;",
+            "Nang khiuzaeng laa khang phaengc ku e,",
+            "Keyna sowriwlou o.",
+            "",
+            "5 Rey liangmei tingmik ge;",
+            "Nang thiu mbunlou o;",
+            "Theihmei lung hei tiichuangclou o,",
+            "Theihmei ta ngammei pu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "This is the Day of Light",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "3/4",
+        "6.6.8.6.",
+        "CW 446",
+        "John Ellerton",
+        "This is the Day of Light",
+        "source hymn 527",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 527."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Seic gaanhmei tingmik ge",
+        "titleRongmei": "’Seic gaanhmei tingmik ge",
+        "titleEnglish": "This is the Day of Light"
+      }
+    }
+  }
+}

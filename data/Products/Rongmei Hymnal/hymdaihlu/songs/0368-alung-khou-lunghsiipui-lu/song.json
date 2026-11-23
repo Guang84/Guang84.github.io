@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0368",
+    "number": 368,
+    "source": {
+      "printedNumber": 368,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Elton M. Roth",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.7.10.7. Ref.",
+      "tune": "SSSH 202"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ALUNG KHOU LUNGHSIIPUI LU",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu !}2 tiiloupui lu nai e,",
+            "Tingkauh thangc !}2 tiikey e,",
+            "Hei khang suangc gayranvmei lu nai zat mak,",
+            "Mi hei zianmei lu khwan e.",
+            "",
+            "Alung khou lunghsiipui lu suan bam,",
+            "Tingkauh tuang neihlaamei lu khwan 2^< lev ’chamc e;",
+            "Alung khou lunghsiipui lu suan bam,",
+            "Zianmei lu khwan kagaengv bam e.",
+            "",
+            "2 Kros khou theihmei Khrista ta zian e,",
+            "Apaap guay khiu ’thanlou the;",
+            "Alung khou neihlaamei lu tiilou e,",
+            "Lu hei nai bam puni the.",
+            "",
+            "3 Mi hei nganv makmei latlu swna",
+            "Baanch’ra guay lev suan ’chamc ni,",
+            "Mi hei neihlaa, hymdaihmei lu sw ni,",
+            "Tingkauh khou suan ’chamc nungc kiu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "In My Heart There Rings a Melody",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "9.7.10.7. Ref.",
+        "SSSH 202",
+        "Elton M. Roth",
+        "Jisu rui tiiloupui l u nai e",
+        "In My Heart There Rings a Melody",
+        "source hymn 368",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 368."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ALUNG KHOU LUNGHSIIPUI LU",
+        "titleRongmei": "ALUNG KHOU LUNGHSIIPUI LU",
+        "titleEnglish": "In My Heart There Rings a Melody"
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-196",
+    "number": 297,
+    "source": {
+      "printedNumber": 196,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Fb",
+      "key": null,
+      "beat": null,
+      "meter": "11.11.11.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guaikai khou tei makge",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Guaikai khou tei makge nganah jibam khang,",
+            "Kiruai kuak khou jilou e pou Jisu ta;",
+            "Ganchuanga guai ({0 jaokei e kaji ta,",
+            "Nganah Jisu tei napgou rukhou jip be.",
+            "",
+            "2. Nganah tei jipchiang e guai ({0 muang khoutei,",
+            "Ki nganah Jisu thu khou tei kap makge;",
+            "Ai huai e pou Jisu jaokei lou naro,",
+            "Adang khou bamlou o tinggan pat maksan.",
+            "",
+            "3. He poubaumei Jisu adang khou bamlou o,",
+            "Tak makna bamlou o ata jianlou o;",
+            "Alauh guaita nang ({0 kungna sulou o,",
+            "Tingkauh khou lungcham khang niuta sulou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 196",
+        "SQLite BookTypeID 2",
+        "Key: Fb",
+        "Meter: 11.11.11.11.",
+        "Chord: Fb",
+        "Meta 3: 11.11.11.11."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 196); no high-confidence title match was found in the PDF list. The digital catalogue number is 297; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 196,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guaikai khou tei makge",
+        "titleRongmei": "Guaikai khou tei makge"
+      }
+    }
+  }
+}

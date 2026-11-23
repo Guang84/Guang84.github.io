@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0318",
+    "number": 318,
+    "source": {
+      "printedNumber": 318,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John W. Peterson",
+      "composer": null,
+      "arranger": null,
+      "chord": "Fb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "10.7.D.10.7.11.8. Ref.",
+      "tune": "GHF 473"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He adih ch’rinmei, ch’rinmei tingmik",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He, adih ch’rynmei, ch’rynmei tingmik cho,",
+            "Amuc dat lakmei tingmik;",
+            "Zinghmei khou ducna ai maeng tatmei tangv,",
+            "Jisu ta ai sowriw the,",
+            "Adih niamhmei, zianthaymei",
+            "Duangda cho,",
+            "Kamei }?2 lungh tiikwnlou;",
+            "Zinghmei lev ramswng Kamei }?2 laa ganclou,",
+            "Ai azaeng gayna saa tuang e!",
+            "",
+            "Tingkauh hymdaih }?2 alung padik the,",
+            "Gumeipu ata kros khou tiigay nungc",
+            "Apaap guay khiu ’thanlou,",
+            "Zingbangc ta kalaanv guanhlou,",
+            "Tingkauh hymdaih }?2 alung padik the.",
+            "",
+            "2 Tingkauh panty khou Bumaengh }?2 puanclou,",
+            "Ravguangc tuang kaikhunc lungc khou,",
+            "Kalvari tuang ramzian }?2 tii’chumhlou,",
+            "Ai hei khuay maekmei di the;",
+            "Adih katumcna kalaiclou tu cho!",
+            "Ai paapc mei swna guangna,",
+            "Katuang zauzian kaipat laalou nungc ata",
+            "Gulou the, thuanc o, Kazanc ta!",
+            "",
+            "3 ’Taw thu ’maan dat lakmei machunc nai the,",
+            "Akhang kaganv luai sihni;",
+            "Akhang thei thangc lungh khang bamv nai bam the,",
+            "Gaychuymei tingkauh kai khou;",
+            "Mi hei kros khou ai lwmlou nungc tingmik,",
+            "Ch’rynmei tingmik paan }?2 e;",
+            "Tingsaeng lanv lev muigay nimei 2}? nai the,",
+            "Kabaanc khou }?2 laa tow tuang e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Heaven Came Down",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Fb",
+        "6/8",
+        "10.7.D.10.7.11.8. Ref.",
+        "GHF 473",
+        "John W. Peterson",
+        "Heaven Came Down",
+        "source hymn 318",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 318."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He adih ch’rinmei, ch’rinmei tingmik",
+        "titleRongmei": "He adih ch’rinmei, ch’rinmei tingmik",
+        "titleEnglish": "Heaven Came Down"
+      }
+    }
+  }
+}

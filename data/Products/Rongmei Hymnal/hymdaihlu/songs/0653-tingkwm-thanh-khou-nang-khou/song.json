@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0653",
+    "number": 653,
+    "source": {
+      "printedNumber": 653,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Martin",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. D.",
+      "tune": "CS 16"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkwm thanh khou Nang khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingkwm thanh khou Nang khou guang e,",
+            "He zayloumei Racguangc;",
+            "Panty saanvsaengh suaihiamlou e,",
+            "Paapc khou tiiduaklou e,",
+            "Aniw duak khang theicloumei Pu,",
+            "Aniw Nang ta thuanc e;",
+            "Tingkwm kathanc laan pat khou hei",
+            "Nang khou ’niw guang dat re.",
+            "",
+            "2 He aniw Pu, Nang ta thuanc e,",
+            "Kadanloumei zaeng khang;",
+            "Taektw tiiloumei zaeng thuanc e;",
+            "Lwngbamv tiiloumei zaeng;",
+            "Ting-neih sii khou akhangv duak khang",
+            "Tiiloumei pwan-rai zaeng;",
+            "Tingkwm kathanc laan pat khou hei",
+            "Nang ta thuanc kaluan e.",
+            "",
+            "3 Aniw ta zayloumei taanv 5#^",
+            "Makumhna thuancku e;",
+            "Tazikramv khou zayloumei 5#^,",
+            "Muanghtiangc swloumei 5#^,",
+            "Rihpy, Pou Jisu kazauhna",
+            "Hymdaih lyanloumei 5#^,",
+            "Tingkwm kathanc laan pat khou hei",
+            "Nang zanc ta thuanc dat re.",
+            "",
+            "4 Pou Ravguangc, Nang hym daihmei khou",
+            "Key datmei ta ’khwan e;",
+            "’Khavlou o, aniw kaganv ’thuic",
+            "Chamdaanv thayna bam khang;",
+            "Paapc mei nunc khang theicloumei pu",
+            "Jisu ta ’riw ngam khang,",
+            "Tingkwm kathanc laan pat khou hei",
+            "Thuanc e, guanghtu kan diu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A New Year’s Hymn",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "8.6.8.6. D.",
+        "CS 16",
+        "John Martin",
+        "A New Year’s Hymn",
+        "source hymn 653",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 653."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkwm thanh khou Nang khou",
+        "titleRongmei": "Tingkwm thanh khou Nang khou",
+        "titleEnglish": "A New Year’s Hymn"
+      }
+    }
+  }
+}

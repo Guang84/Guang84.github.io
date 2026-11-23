@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0299",
+    "number": 299,
+    "source": {
+      "printedNumber": 299,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J.Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "10.9.10.8. Ref.",
+      "tune": "SS 266"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guanglou o, Thuakmeipu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thuancku e Nang Lat khang,",
+            "He Gumeipu!",
+            "Mik tiiraklou o, kathukh how khang;",
+            "Tii ’taklou o, kabah thayna pah khang,",
+            "Tiitarailou rio, alung hei.",
+            "",
+            "Thuanc e Baibal khang, khou 1<~ lwmmei khang;",
+            "Kuakloumei, chuzaenghmei tiimei khang;",
+            "Nkhavlou o, Kalatdanv phungc ngam khang,",
+            "Lwmmei paan <~1 kabah laa khang.",
+            "",
+            "2 Thuancku e Nang riak lev latryan lat khang,",
+            "’Niw taanv khang maibungc, chaeng khang gaanhmei,",
+            "Neihlaa kim makmei <~1 puanghmei Nang ramc,",
+            "Tingkauh kandic dincloumei khang.",
+            "",
+            "3 San-gaymei e, Nang Lat piumei guay 1<~,",
+            "Nganv dat makna Nang lev bam ’chamc ni,",
+            "Gaychuymei dui daeng khou te bam ’chamc ni,",
+            "Ringhmei tingthai 1<~ tu ’chamc ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Thank for the Bible",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "10.9.10.8. Ref.",
+        "SS 266",
+        "Fanny J.Crosby",
+        "THUANC E, BAIBAL KHANG",
+        "Thuancku e, Nang lat khang",
+        "Thank for the Bible",
+        "source hymn 299",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 299."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guanglou o, Thuakmeipu",
+        "titleRongmei": "Guanglou o, Thuakmeipu",
+        "titleEnglish": "Thank for the Bible"
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-138",
+    "number": 138,
+    "source": {
+      "printedNumber": 138,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih Khouhei Neihlaamei Phubam khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          138     Kandih Khouhei Neihlaamei Phubam",
+            "                               10.10.10. 10.Ref.8.8.8.8",
+            "          Doh hei Gb",
+            "",
+            "          1. Kandih khouhei neihlaamei phubam khou,",
+            "             Gu'meipu rui kaw e, 'zianmei khwan rui",
+            "             'Dih neihlaa' patlouna ai ringc dat the,",
+            "             Tingkauh kandic neihlaa' akhang di the.",
+            "",
+            "                       He Pou' Jisu, Guloumeipu!",
+            "                       Nang na de tineihlaaloumei.",
+            "                       Apanty nang nyng swlou o,",
+            "                       Neihlaa kim dat mak khang.",
+            "",
+            "          2. Zaengthaekcmei lev chuzaenghmei phubam khou,",
+            "             Zaengthaekcpui bam maek ge, Khrista hamhna,",
+            "             A puatrith guay Ka khou ganclou ngam the,",
+            "             Lungh ryanraana bam khang kage maek khe.",
+            "",
+            "          3. A panty hei nang khang tiipatlou the,",
+            "             Poubauhmei laalou o, sinswlou o !",
+            "             Paapc rui zinghmei bamv khou lungcbammei nunc,",
+            "             Nang riw gaanhmei bam khou gut dat nuh khang.",
+            "",
+            "          4. Ata bam 'duanghlou o, he Poubauhmei !",
+            "             Nang rui ningmei guay tei titaanclou o,",
+            "             Nang zauzian ta thayna ai lungcbam ni,",
+            "             Tingkauh kandic akai guangtangh mak saanv."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih Khouhei Neihlaamei Phubam khou"
+      }
+    }
+  }
+}

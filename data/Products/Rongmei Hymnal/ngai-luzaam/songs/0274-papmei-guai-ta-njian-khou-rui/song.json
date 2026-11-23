@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-159",
+    "number": 274,
+    "source": {
+      "printedNumber": 159,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.9.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Papmei guai ta njian khou rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Papmei guai ta njian khou @&4,",
+            "Raguang @&4 kanah tilou the;",
+            "Kata lummei ringsuangmei latou the,",
+            "Raguang ta thuan kuni halleluijah.",
+            "",
+            "Chorus:",
+            "Halleluijah, he halleluijah (2),",
+            "Guang bampang ding huamma (2);",
+            "(2x)",
+            "Ringpouh ta thuan bam ni.",
+            "",
+            "2. Ntau thu ai mei than dithe,",
+            "Pou Jisu ta lalou nung @&4;",
+            "Neila daimei rapture guangpui nung kiu,",
+            "Ai sam tat puni e halleluijah.",
+            "",
+            "3. Pou Jisu @&4 chamdan loumei,",
+            "Pu Raguang kai guangtang pukhou;",
+            "Lajiunah nousuan pui ngai dai khoutei,",
+            "Laujiunah him thuan ni halleluijah.",
+            "",
+            "4. Nthanmei guai ta duang lana,",
+            "Tingkum ching khat guang tu cham ni;",
+            "Neilamei munpuang tei tuai dat lak khe,",
+            "Kangan maknga thuan ni halleluijah."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 159",
+        "SQLite BookTypeID 2",
+        "Key: C",
+        "Meter: 8.8.9.10.",
+        "Chord: C",
+        "Meta 3: 8.8.9.10."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 159); no high-confidence title match was found in the PDF list. The digital catalogue number is 274; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 159,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Papmei guai ta njian khou rui",
+        "titleRongmei": "Papmei guai ta njian khou rui"
+      }
+    }
+  }
+}

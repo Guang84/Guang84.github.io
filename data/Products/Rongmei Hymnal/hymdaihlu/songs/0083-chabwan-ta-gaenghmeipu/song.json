@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0083",
+    "number": 83,
+    "source": {
+      "printedNumber": 83,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Clement of Alexandria",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "3/4",
+      "meter": "6.6.4.6.6.6.4",
+      "tune": "CLC 74"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chabwan ta Gaenghmeipu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Chabwan ta Gaenghmeipu,",
+            "Zianmei lev ’chumhmei khou",
+            "Zayloumeipu,",
+            "Khrista rih ngammei Guangc,",
+            "’Niw Nang zanc ta thuanc e;",
+            "’Niw nac nunc ta phungc guang",
+            "Nang hym thuanh khang.",
+            "",
+            "2 Nang ’Thanmei Kaipouc e,",
+            "Ramh guay sinmei Latkaeng,",
+            "Tiigaymeipu,",
+            "Nang hym guay lou ducna",
+            "Paapc khou <~1 gulou khang,",
+            "Ringhmei 1<~ tiilou khang,",
+            "Nang keylou e.",
+            "",
+            "3 Nang Tingkuh daihmei e,",
+            "Tingkauh ramzian khwmkih",
+            "Chamdaanvlou the;",
+            "Ryanra lakmei nunc <~1",
+            "Nang khou zaenghuay pwkhou",
+            "Kaniw ta ’khavlou tio,",
+            "Tingkauh thangc <~1.",
+            "",
+            "4 ’Niw ta chaeng zaylou o,",
+            "’Niw ta Nang builwang <~1",
+            "Gaengclou bam o;",
+            "Jisu Khrista - Ravguangc,",
+            "Nang tuang Ringhmei Lat <~1",
+            "Lwmmei tiitanclou o,",
+            "Nang thei lay khang.",
+            "",
+            "5 ’Niw theih makpui nganvna",
+            "Nang hym thuancna bam ni,",
+            "Lu kauc ranvna;",
+            "Nang tuang phwamling nac nunc",
+            "’Thanmei nunc kariuna",
+            "Khwan kauc ranvna suan diu,",
+            "Guangh Khrista khang!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Shepherd of Eager Youth",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "3/4",
+        "6.6.4.6.6.6.4",
+        "CLC 74",
+        "Clement of Alexandria",
+        "Shepherd of Eager Youth",
+        "source hymn 83",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 83."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chabwan ta Gaenghmeipu",
+        "titleRongmei": "Chabwan ta Gaenghmeipu",
+        "titleEnglish": "Shepherd of Eager Youth"
+      }
+    }
+  }
+}

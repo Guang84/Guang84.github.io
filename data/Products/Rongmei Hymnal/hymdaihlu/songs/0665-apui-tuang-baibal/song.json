@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0665",
+    "number": 665,
+    "source": {
+      "printedNumber": 665,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "M.B. Williams",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.11.D. Ref.",
+      "tune": "RS 716"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "APUI TUANG BAIBAL",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kungc liangmei latrik khat nai,",
+            "Mi hei karaan khwan sihni",
+            "Hei ?|7 alaucdou rwanry tiiningtow e;",
+            "Apui pamv khou ai dungcna,",
+            "Kabaanc ?|7 ata pamcna,",
+            "’Zaenghna, niamhna akhou saa bammei khwan 7?|.",
+            "",
+            "Kungc liangmei latrik lev,",
+            "Mikdui timhmei latrik guangc ei zauc nii e,",
+            "Tingmik ’thuic gay ’bu ku e,",
+            "’Rumpui chaeng ai tat bam khou;",
+            "Thei thangc ata tingkauh kai khou zaylou puni.",
+            "",
+            "2 Jisu alauc ta zianmei,",
+            "Kros khou ryanra khaengvpui p’ry,",
+            "Apui ?|7 khou 7?| ?|7 akhou paclou e,",
+            "Jisu taanv makumh pwkhou",
+            "Ai amikdui key khwan e;",
+            "Mikdui roulouna saa e:",
+            "“Mi nang khang the.”",
+            "",
+            "3 Hei ganv guay 7?| rii kan the,",
+            "’Ki tingmik ’thuic ning tow e,",
+            "Latrik guangc hei ?|7 ata zaylou bam e;",
+            "Apui ?|7 dinclou duh kumc,",
+            "Jisu ningmei ai taanc ni!",
+            "Kaganv ’thuic alung khou",
+            "Ravguangc lat nai e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "My Mother's Bible",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "7.7.11.D. Ref.",
+        "RS 716",
+        "M.B. Williams",
+        "Kungc liangmei latrik khat",
+        "My Mother's Bible",
+        "source hymn 665",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 665."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "APUI TUANG BAIBAL",
+        "titleRongmei": "APUI TUANG BAIBAL",
+        "titleEnglish": "My Mother's Bible"
+      }
+    }
+  }
+}

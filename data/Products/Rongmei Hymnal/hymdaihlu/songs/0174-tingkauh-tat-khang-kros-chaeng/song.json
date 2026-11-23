@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0174",
+    "number": 174,
+    "source": {
+      "printedNumber": 174,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Jessie Brown Pounds",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.7.10.8. Ref.",
+      "tune": "RS 882"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh tat khang kros chaeng",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingkauh tat khang kros chaeng khou tat ni tuang e,",
+            "Mi hamhna chaeng baihmei maek;",
+            "How mak puni gaanhmei tingkauh raengcmun,",
+            "Kros chaeng khou ai tat mak ethei.",
+            "",
+            "Kros chaeng }?2 tingkauh zaylou,",
+            "Kros chaeng }?2 akai ’duanghlou,",
+            "’Zwan tat bam khou hei neihlaamei nai e,",
+            "Kros chaeng }?2 tingkauh zaylou.",
+            "",
+            "2 Zei ’zukloupui chaeng ai tat khang kage nai,",
+            "Guloumeipu tatpui chaeng;",
+            "Kauh liangmei khou ai kulou tangc ethei,",
+            "Ravguangc pamv khou zaeng sw ni the.",
+            "",
+            "3 Dih lwnlung guay ta ai ramnavlou duc the,",
+            "Ai tat kaluaih dat lak khe;",
+            "APoubauhmei “ Guang tho,” wna saa the,",
+            "Kamei chaengmun khou ’khwan bam the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Way of the Cross Leads Home",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "11.7.10.8. Ref.",
+        "RS 882",
+        "Jessie Brown Pounds",
+        "The Way of the Cross Leads Home",
+        "source hymn 174",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 174."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh tat khang kros chaeng",
+        "titleRongmei": "Tingkauh tat khang kros chaeng",
+        "titleEnglish": "The Way of the Cross Leads Home"
+      }
+    }
+  }
+}

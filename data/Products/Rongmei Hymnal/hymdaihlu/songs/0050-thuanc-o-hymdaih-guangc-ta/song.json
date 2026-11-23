@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0050",
+    "number": 50,
+    "source": {
+      "printedNumber": 50,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Eliza E.Hewitt",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.11. Ref.",
+      "tune": "SS 209"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "THUANC O, HYMDAIH GUANGC TA",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thuanc o, hymdaih Guangc ta,",
+            "Kamei Ravguangc e!",
+            "Ch’rynmei taanv 4@< aniu khou lyanlou zaeng @{4,",
+            "Tingkauh ’zwan khou zaylou khang rianhlou zaeng @{4,",
+            "Maibwang lev muanghtiangc",
+            "zingc-gaanh zaylou zaeng @{4.",
+            "",
+            "Thuanc .. ku o, baanch’ra thiu,",
+            "Ka .. chaekc ’rac downa,",
+            "Thuanc .. o, he Kamei nunc,",
+            "Ka .. zaw howmei nunc,",
+            "Ka .. guanghdic daihmei khou",
+            "’Taw .. nic thei thangc nic,",
+            "Kataanv guay @{4 thuanc ni,",
+            "Kataanv guay @{4 thuanc ni,",
+            "Kataanv guay @{4 thuanc ni,",
+            "Abumaengc, thuanc o!",
+            "",
+            "2 Thuanc o, meic kathuic khang thuakloumei tiimei,",
+            "Thuanc o, ’niu ta tiigay ngammei duipuak khang,",
+            "Thuanc o, zianna kadanlou bammei zaeng khang,",
+            "Thuanc o, huayneymei tiilou bampu zaeng khang.",
+            "",
+            "3 Thuanc o, nchanvmei @{4 zianmei riang swna,",
+            "Kauh thangc tuang khou ’niu ta bangcloumei zaeng khang,",
+            "Rih ngammei ramlum, kim dat lakmei machunc,",
+            "Zianmei guay Kakhou kariu nimei zaeng khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Bless the Lord, my Soul!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "11.11.11.11. Ref.",
+        "SS 209",
+        "Eliza E.Hewitt",
+        "Bless the Lord, my Soul!",
+        "source hymn 50",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 50."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "THUANC O, HYMDAIH GUANGC TA",
+        "titleRongmei": "THUANC O, HYMDAIH GUANGC TA",
+        "titleEnglish": "Bless the Lord, my Soul!"
+      }
+    }
+  }
+}

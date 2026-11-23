@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0636",
+    "number": 636,
+    "source": {
+      "printedNumber": 636,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J.Crosby.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "14.11.14.11. Ref.",
+      "tune": "SS 967"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AI THAY NI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Apanty taanv hei luaina",
+            "chanunghdui ai kaan pwkhou,",
+            "Gaanc gaymei hymdaihmei",
+            "lauthwan how pwkhou;",
+            "Dui paengc kaan pat pwkhou",
+            "Thuakloumei pu ta ai thay ni,",
+            "Nuic rimh rimna Kamei ata riu puni.",
+            "",
+            "Ai thay ni, ... Kata ai thay .. ni.",
+            "Thuaklouna Kadaeng khou ai ding pwkhou;",
+            "Ai thayni, .. Kata ai thay .. ni,",
+            "Kabaanc khou zotpi zam khou 4^& @<4.",
+            "",
+            "2 He adih neihlaa ni cho,",
+            "Kazawpaanv 4^& how pw khou!",
+            "Zian thaymei Kamik-khwan",
+            "4^& ai how pwkhou!",
+            "He adih thuancku bam khang",
+            "nai cho, zianloupui zaeng khang!",
+            "Kauh thangc akhang bamv chamdaanvloupui zaeng khang.",
+            "",
+            "3 Zianmei nunc hymdaih khou bam,",
+            "ata guang khang baanh ’zaapna;",
+            "Kandih khou ’tamv kanmei 4^& makumh pat re;’",
+            "Gaychuymei Eden nzaengc",
+            "khou kaniw lu suan riu ni,",
+            "’Ki Jisu ta ai ariw rey liang nii e.",
+            "",
+            "4 ’Phwanmei pheychuan piuna kaidai raengcmun khou ’duangh gutna,",
+            "Mikdui key dat makmei bamv khou zaylou ni;",
+            "Tingsaengc lu, tingkauh lu 4^& ai neihlaana suan puni,",
+            "’Ki Jisu ta ai ariw rey liang nii e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Shall Know Him",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "14.11.14.11. Ref.",
+        "SS 967",
+        "Fanny J.Crosby.",
+        "Apanty taanv hei luaina",
+        "I Shall Know Him",
+        "source hymn 636",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 636."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AI THAY NI",
+        "titleRongmei": "AI THAY NI",
+        "titleEnglish": "I Shall Know Him"
+      }
+    }
+  }
+}

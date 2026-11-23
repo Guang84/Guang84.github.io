@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0790",
+    "number": 790,
+    "source": {
+      "printedNumber": 790,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "12.12.12.13.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou hei kaguang peina kasiam thao the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih khou hei kaguang peina kasiam thao the,",
+            "Kumsini guang khrista kummei mu puan makge;",
+            "Kanloumeipu Bethlehem guai kai khou puan ne,",
+            "Tingkau guang thuanku khang kauh le kandih meinun.",
+            "",
+            "Chorus:",
+            "Neilana thuanku o tingkau ngana thuan no,",
+            "Puanpui nung kandih khou thuanpui luh padik diu;",
+            "Tingkau guang ngana puan the pirun runlou o,",
+            "Tingkaumei nun ni kei diu thuanku kariu khang.",
+            "",
+            "2. Tingkaumei daimei nunni thuanpui luh suan e,",
+            "Kaniu khuan 4@& laujiu gangmei nun rui chu e;",
+            "Guang khrista puanpui bam 4@& kaniu rui njuan,",
+            "Kaniu laujiu lou duna kaguang ta kalum.",
+            "",
+            "3. Duthangmei nun rui mundui rim gaimei sinna,",
+            "Tingkau ganchuanga rui kaniu ta jai guang lou;",
+            "Takuan kai khou kapui Mary rui puan bam the,",
+            "Kaniu puat guai lou duna kaguang ta kalum.",
+            "",
+            "4. Kaniu guang Herod 4@& kalung rianra bam the,",
+            "Su mala lou khang rui meinun khou nu bam e;",
+            "Kapam nun Judah kandih dang khou bammei e,",
+            "Khrista guang daimei ta kalum khang tat kan the.",
+            "",
+            "5. Jisu asei hei aniu rui ningmei kumma,",
+            "Kathan puan datro tingsang guang daimei sukhang,",
+            "Aniu bam hei Mary bam kumma ninglou o,",
+            "Kagan kathui na khou neila bam kan nithe."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Kandih khou hei kaguang peina kasiam thao the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "12.12.12.13.",
+        "Kandih khou hei kaguang peina kasiam thao the",
+        "source hymn 60",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 60."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou hei kaguang peina kasiam thao the",
+        "titleRongmei": "Kandih khou hei kaguang peina kasiam thao the",
+        "titleEnglish": "Kandih khou hei kaguang peina kasiam thao the"
+      }
+    }
+  }
+}

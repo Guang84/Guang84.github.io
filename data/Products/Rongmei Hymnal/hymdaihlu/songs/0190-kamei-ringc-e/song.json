@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0190",
+    "number": 190,
+    "source": {
+      "printedNumber": 190,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "A.H.Ackley",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "7.6.7.6.7.6.11.",
+      "tune": "CSH 15"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KAMEI RINGC E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ringcthau datmei Gumeipu,",
+            "Siamruai ai sw bam e,",
+            "Meic nunc tabui saa bam diu,",
+            "Kamei ringcna bam de;",
+            "",
+            "Kazauzian baanc ai how e,",
+            "Kakhwan 0({ ai chu e,",
+            "Kata kahawpui ganv ’thuic anaa bam e.",
+            "",
+            "Kamei ringc e, Khrista ringcna bam e!",
+            "Ai lev tat ’chamc, saa ’chamc bam e,",
+            "’Rummei panty chaeng khou,",
+            "Kamei ringc e, ringhbamv tiilou khang e!",
+            "Ringc e twmei thaymei kiu thu",
+            "Kamei alung khou bam.",
+            "",
+            "2 Kandih kabamv kathuic khou",
+            "Kazauzian ai how e,",
+            "Alung ryanra thau sihni",
+            "Achwn tut key lak khe;",
+            "Pwanzingh ganv khou zaylou e,",
+            "Kangamv guay ai thay e,",
+            "Kamei guang datpui neic kiu Kata how ni.",
+            "",
+            "3 Neihlaa, neihlaa, he khristian,",
+            "Khwan kauc ranvna suan o,",
+            "Nganv makmei Hallelujah!",
+            "Guangh Jisu Khrista khang!",
+            "Kata phupui mei guay ta",
+            "’Khavloumeipu kiu e,",
+            "Kakumcna zianmei, gaymei baihmei maek ge."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A.H.Ackley",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "6/8",
+        "7.6.7.6.7.6.11.",
+        "CSH 15",
+        "A.H.Ackley",
+        "Ringcthau datmei Gumeipu siamruai",
+        "He Lives, He Lives",
+        "source hymn 190",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 190."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KAMEI RINGC E",
+        "titleRongmei": "KAMEI RINGC E",
+        "titleEnglish": "A.H.Ackley"
+      }
+    }
+  }
+}

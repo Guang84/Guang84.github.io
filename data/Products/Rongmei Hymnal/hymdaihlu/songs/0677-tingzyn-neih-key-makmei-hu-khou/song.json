@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0677",
+    "number": 677,
+    "source": {
+      "printedNumber": 677,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Canon H.Twells",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "L.M.",
+      "tune": "SS 79"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingzyn neih key makmei hu khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingzyn neih key makmei hu khou",
+            "He Pou, ’naumei Nang khou guangmei",
+            "Suhmei ravpuat heizumei 1<~",
+            "Tiigayloumei laatow kan e!",
+            "",
+            "2 ’Seic nic tingzyn ramgei khou hei",
+            "Suhmei, ’naumei ’peyna guang e,",
+            "Nang lwn aniw how mak sihni",
+            "Khou hei Nang bammei ’niw thay e.",
+            "",
+            "3 He Pou Khrista, tiigaylou o,",
+            "Gaanv saekc ’nau bam, gaanv saekc ryanra,",
+            "Gaanv saekc Nang ta zianmei lung maek,",
+            "Gaanv saekc ramzian ’maan dat kan the.",
+            "",
+            "4 He Pou, zaeng ’thaekcmei ta huay e,",
+            "Paapc khou <~1 duakmei ta huay e,",
+            "Nang lat piu chuy niimei nunc 1<~",
+            "Karam ’suan ta thay pat diangc e.",
+            "",
+            "5 Reynungc ngamv 1<~ ’taw Nang khou nai,",
+            "Nang lat kathai maekna taan lak,",
+            "’Taw ’thukmei tingzyn ganv khou hei",
+            "Zianna ’niw ta tiigaylou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "At Even, ere the Sun was Set",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "3/4",
+        "L.M.",
+        "SS 79",
+        "Canon H.Twells",
+        "At Even, ere the Sun was Set",
+        "source hymn 677",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 677."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingzyn neih key makmei hu khou",
+        "titleRongmei": "Tingzyn neih key makmei hu khou",
+        "titleEnglish": "At Even, ere the Sun was Set"
+      }
+    }
+  }
+}

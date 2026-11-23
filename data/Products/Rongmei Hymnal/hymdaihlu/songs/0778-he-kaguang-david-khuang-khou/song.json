@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0778",
+    "number": 778,
+    "source": {
+      "printedNumber": 778,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "11.11.11.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He kaguang David khuang khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He kaguang David khuang khou kasu banchuang,",
+            "Nang ramthan gaimei5#^ nang rui dam lou e;",
+            "Ai neilamei dui kamuat mei 5#^ kumma,",
+            "Theimei duipang khou nang janta thuanku ni.",
+            "",
+            "Chorus:",
+            "He kaguang tuna nangjan thuanku ni,",
+            "Kapumma nang dammei guai 5#^ le;",
+            "Kaguang thuankumei khuan 5#^ kao o,",
+            "Kandihmei neila ngam kandiu khang.",
+            "",
+            "2. Mei sumak pui hukhou 5#^ kaguang Jisu,",
+            "Kajeih luangkei khang ja maknga luang kei lou;",
+            "Pa thaina palou latuang khuan e thei mu,",
+            "Kandih hei lung geimei maknga khangni e.",
+            "",
+            "3. Kaguang thou 5#^ cho bam khang damloumei 5#^,",
+            "Daniel kumma aini tipma dingni;",
+            "Kachak gaimei 5#^ le kajan thukmei 5#^,",
+            "Rianramei 5#^ni ai rianrana sui ni.",
+            "",
+            "4. He Immanuel kandih kathan dammei,",
+            "Kasan kadiat riatlou la tuangkhuan thei mu;",
+            "Rianra khanga tat man ngam kanmei guai le,",
+            "Kau kagun daipui ram khou kalun hou ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "11.11.11.11.",
+        "He kaguang David khuang khou",
+        "source hymn 48",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 48."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He kaguang David khuang khou",
+        "titleRongmei": "He kaguang David khuang khou"
+      }
+    }
+  }
+}

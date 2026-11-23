@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0327",
+    "number": 327,
+    "source": {
+      "printedNumber": 327,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "EL Nathan",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 504"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc Nac Khrista khou zian",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc Nac, Khrista khou zianmei!",
+            "He adih zauzian lat cho!",
+            "Jisu paan #^7 ’niu ta Pu #^7",
+            "Kanac swna laalou the.",
+            "",
+            "Zianmeithiu, ’taw ’niu",
+            "Ravguangc nac di the,",
+            "’Niu akumh puni cho,’taw lyanlou mak he;",
+            "’Ki ’niu thay .. Kamei keypui nungc kiu,",
+            "’Niu thay .. Kamei keypui nungc kiu,",
+            "’Niu Kata luic ni, ’niu Kata luic ni;",
+            "Kalwn kahak kiu, ’niu how ni.",
+            "",
+            "2 ’Taw ’niu khou rigwnmei nai the,",
+            "Ravguangc ta how nuangc ni the;",
+            "Guloumeipu ta ’niu how ni,",
+            "Tingkauh riw phunghmei zaw ta.",
+            "",
+            "3 Zauzian ngamv #^7 tiiguanlihna",
+            "Kata ’niu luic puni the;",
+            "Khrista lat 7}$ guang tangclouna",
+            "Kahym dai ta laylaa ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Beloved, Now We are the Sons of God",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "SS 504",
+        "EL Nathan",
+        "ZIANMEITHIU ’TAW ’NIU RACGUANGC",
+        "Beloved, Now We are the Sons of God",
+        "source hymn 327",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 327."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc Nac Khrista khou zian",
+        "titleRongmei": "Ravguangc Nac Khrista khou zian",
+        "titleEnglish": "Beloved, Now We are the Sons of God"
+      }
+    }
+  }
+}

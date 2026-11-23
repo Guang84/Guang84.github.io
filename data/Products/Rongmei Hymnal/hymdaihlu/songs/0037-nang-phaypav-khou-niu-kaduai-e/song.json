@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0037",
+    "number": 37,
+    "source": {
+      "printedNumber": 37,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "James D.Burns",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. D.",
+      "tune": "CW 137"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang phaypav khou ’niu kaduai e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang phaypav khou ’niw kaduai e,",
+            "Pu Ravguangc, Nang suaihiam khang,",
+            "Taanphy thaymei lung padikna,",
+            "Thuanckuna taanc kahouh khang;",
+            "Thuanc e kauh thangc tuang gaanhriw ^&8",
+            "’Niw chaeng tiigaancloumei khang;",
+            "Thuanc e, zian kadanloumei ^&8",
+            "Kachaekc riang kumc bangcloumei.",
+            "",
+            "2 Jisu, Nang paapc mei ta zianmei,",
+            "Kros ruc khou 8^& lyanlou the;",
+            "Thuanckuna ’niw ^&8 katlou e,",
+            "’Niw lung hei Nang khang swna;",
+            "Hei kumhmei Pam ’niw khang naina,",
+            "Baucna hu thangc gut ni the;",
+            "Suai makna ’niw ta gaeklou ni,",
+            "Howmumei kathuic khou ^&8.",
+            "",
+            "3 Tingmik ’thuic hei gay hay hay e,",
+            "Zauzian zawpaanv how pwkhou;",
+            "Puatrith guay phungc gay maih puni",
+            "Nang khou ^&8 guangmei thayna;",
+            "Zianmei chuanghphey ^&8 hwamlou o,",
+            "’Niw khou pumtan tiilou o;",
+            "Laancloumei kaidai raengcmun khou",
+            "Nang hym daihmei how mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "At Thy Feet, Our God and Father",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "8.7.8.7. D.",
+        "CW 137",
+        "James D.Burns",
+        "At Thy Feet, Our God and Father",
+        "source hymn 37",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 37."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang phaypav khou ’niu kaduai e",
+        "titleRongmei": "Nang phaypav khou ’niu kaduai e",
+        "titleEnglish": "At Thy Feet, Our God and Father"
+      }
+    }
+  }
+}

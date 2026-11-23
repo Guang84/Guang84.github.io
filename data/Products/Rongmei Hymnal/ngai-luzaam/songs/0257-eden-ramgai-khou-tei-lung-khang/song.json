@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-257",
+    "number": 257,
+    "source": {
+      "printedNumber": 257,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Eden ramgai khou tei lung khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Eden ramgai khou tei lung khang",
+            "Guang nimei tingmik na guang the;",
+            "Panty luaina tat pui nung kiu,",
+            "Guang tang puni kaukai dai khou.",
+            "",
+            "Alung ning le abumaeng hei,",
+            "Tingkau ram khou ruan na tat bam;",
+            "Nban ram khou hei lung nimak ge,",
+            "Tat kandi kho nzianmei nun le.",
+            "",
+            "2. Mang thang hougai mei suang e,",
+            "Lauziuna rui gaan na bam e;",
+            "Mang maan ritho kagan mak khe,",
+            "Zaipat louni pou khrista rui.",
+            "",
+            "3. Kau ramvgay tang mak khang lung geic;",
+            "Zingmei muang rui gumliam bam e;",
+            "Gaanc guang dat ro kanloumeipu,",
+            "Ringmei thinglimh khou zaeng sw ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 257",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 8.8.8.8."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 257. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 184,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Eden ramgai khou tei lung khang",
+        "titleRongmei": "Eden ramgai khou tei lung khang"
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0412",
+    "number": 412,
+    "source": {
+      "printedNumber": 412,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.C. Ellworth",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "2/4",
+      "meter": "11.12.12.11. Ref.",
+      "tune": "SS 596"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kabamv ’thuic Gumeipu ata zaylou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kabamv ’thuic Gumeipu ata zaylou o,",
+            "Nang baanc tii-n-guaklou o, Nang bammei thay khang,",
+            "Sauhraengh, phahkih nai sihni,",
+            "ai Nang thei lay ni,",
+            "Kabamv ’thuic ai lay ni, Nang zaylou ethei.",
+            "",
+            "He .. Guloumeipu, kabamv ’thuic",
+            "Ai Nang thei lay ni, .. ai Nang thei lay ni,",
+            "He .. Guloumeipu, kabamv ’thuic",
+            "Nang .. zaylou ethei.",
+            "",
+            "2 Kabamv ’thuic Gumeipu ata zaylou o,",
+            "Akhou pumtan tiilou o, paapc _>6 ngam mak khang,",
+            "Achaenglwan khou zingc sihni ai ping zat lak khe,",
+            "Kabamv ’thuic Gumeipu, Nang bam ’chamc ethei.",
+            "",
+            "3. Kabamv ’thuic Gumeipu, mi na hei huay e:",
+            "’Rumpui chaeng khou zaylou o,",
+            "chaeng tii ’maanlou rio,",
+            "",
+            "Paapc _>6 ’thiam khou duak ngam",
+            "khang ata ’khavlou o;",
+            "Nang _>6 zaylou ethei ai chaen maanv lak khe."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Anywhere, My Saviour",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "2/4",
+        "11.12.12.11. Ref.",
+        "SS 596",
+        "E.C. Ellworth",
+        "Anywhere, My Saviour",
+        "source hymn 412",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 412."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kabamv ’thuic Gumeipu ata zaylou o",
+        "titleRongmei": "Kabamv ’thuic Gumeipu ata zaylou o",
+        "titleEnglish": "Anywhere, My Saviour"
+      }
+    }
+  }
+}

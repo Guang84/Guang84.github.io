@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0720",
+    "number": 720,
+    "source": {
+      "printedNumber": 720,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles H. Gabriel",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.6.D.Ref. (Choir Arr.)",
+      "tune": "AACH 271"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kamuatc bammei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kamuatc bammei duipui thangc",
+            "^&8 kauc guang e,",
+            "“Tiigaanc o! Tiigaanc o!”",
+            "Zay kaanna gulou khang",
+            "bumaengh guay kauc bam,",
+            "“Tiigaanc o! Tiigaanc o!”",
+            "",
+            "’Niu dinc ni tingsaeng gaanhmei chamv hei,",
+            "’Niu lungning lev baantan ^&8;",
+            "Ravguangc khang hymdaihmei tii bam ni,",
+            "’Niu Kalatdan piu bam ni!",
+            "Tiigaanc o, Gaychamv lat gaanhmei 8^&!",
+            "Tiigaanc o, kabamv ’thuic khou!",
+            "Tiigaanc o, Gaychamv lat gaanhmei 8^&!",
+            "Tiigaanc o, nganv dat makna!",
+            "",
+            "2 Mesidoniamei ramkau ’seic ’niu chu the,",
+            "“Tiigaanc o! Tiigaanc o!”",
+            "Neihlaamei aniu puatkat kros khou lou e,",
+            "“Tigaanc o! Tigaanc o!”",
+            "",
+            "3 Meic guayna khou Jisu zauzian nai lik diu,",
+            "“Tiigaanc o! Tiigaanc o!”",
+            "Tingkauh thangc swan pyrun khang ’niu ’khuam bam khou,",
+            "“Tiigaanc o! Tiigaanc o!”"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Send the Light!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "11.6.D.Ref. (Choir Arr.)",
+        "AACH 271",
+        "Charles H. Gabriel",
+        "TIIGAANC O! (CHOIR ARR)",
+        "Send the Light!",
+        "source hymn 720",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 720."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kamuatc bammei",
+        "titleRongmei": "Kamuatc bammei",
+        "titleEnglish": "Send the Light!"
+      }
+    }
+  }
+}

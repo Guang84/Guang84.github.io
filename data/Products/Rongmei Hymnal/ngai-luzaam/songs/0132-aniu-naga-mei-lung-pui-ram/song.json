@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-132",
+    "number": 132,
+    "source": {
+      "printedNumber": 132,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aniu naga mei lung pui ram",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Aniu NAGA mei ram kum gaimei mak ge,",
+            "Nzianmei ruprian guay ta zaupuki",
+            "Khou ring nruaina kazat guay khuan gai e,",
+            "Hei kum meiram gairui meiguai lung ti thao e.",
+            "",
+            "Gai chang e aniu lung pui ram hei,",
+            "Gaimei rana padik e,",
+            "Kagan kathui aniu lungpui ram ti..hei thuan ne,",
+            "Kagan ka..thui aniu chun chamv ma lung e,",
+            "Gai chang e Naga mei aniu lung pui ram hei.",
+            "",
+            "2. Nthei thei nung aniu poupei kinc khou muh,",
+            "Khat khat ta sang-na rih subam khuan ne,",
+            "Ntao hei aniu alaunun kinkhou muh,",
+            "Guangc kandih kumna aniu kandih ta thuan ne.",
+            "",
+            "3. Aniu pou-pei rui lung lou dumei ram hei,",
+            "Chamvdaan chui bam mo kandih pri si ye.",
+            "Ravguangc zan khou aniu ram ta thuan bamni.",
+            "Ravguangc rui aniu thou tan khang ndiw lou e.",
+            "",
+            "4. Kara gaimei tingthai kum Naga mei ram,",
+            "Kaganv thui tazeidui gaimei kum e,",
+            "Aniu Nagamei guai duikum luangbam e.",
+            "Aniu Nagamei ram ta phulak nga bam e.",
+            "",
+            "5. Aniu pouh-peic rui khamv lou mei ram pangc khou",
+            "Nagamei ram kummei gaimei mak ge,",
+            "Duipi duibaa thang mei guay rui zuan guang e,",
+            "Mi ram gaimei lunlungc kum mei guai neihla e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 132",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 132. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aniu naga mei lung pui ram",
+        "titleRongmei": "Aniu naga mei lung pui ram"
+      }
+    }
+  }
+}

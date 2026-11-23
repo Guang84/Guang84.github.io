@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0290",
+    "number": 290,
+    "source": {
+      "printedNumber": 290,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "A.M.Roplady",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "7.7.7. D.",
+      "tune": "SS 237"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "TINGSAENG TAUDAIC",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingsaeng Taudaic, Duppuibamv!",
+            "Tiiduplou o, Nang lang khou!",
+            "Nang zak khou #<8 luangc patmei,",
+            "Zei lev dui #<8 tiigay o;",
+            "Paapc tuang ramphum kaguay lev",
+            "Paapc tuang ngamv kaguay khou #<8.",
+            "",
+            "2 Abaantan #<8 ngam mak ge,",
+            "Nang latdanv piu nthuih khang;",
+            "’Thaekc makna taanc bam sihni,",
+            "Mikdui key taek mak sihni,",
+            "Paapc guay tiikuak ngam mak ge,",
+            "Nang na #<8 kuaklou khang de.",
+            "",
+            "3 Ai ramh khat sic phungc guang mak,",
+            "Nang kros khou na ngangvlou the;",
+            "Pwan piu khang pumtang guang e,",
+            "Zianlou khang Nang ta zauc e,",
+            "He Khrista, khiulou na ro,",
+            "Hamh ethei ai theic ni the.",
+            "",
+            "4 Ai theih thiula laa bam khou,",
+            "Theicna mik tanguih pwkhou,",
+            "Ai thay makpui dic tangcna",
+            "Latzan bamvpaeng how pwkhou,",
+            "Tingsaeng Taudaic, Duppuibamv!",
+            "Tiiduplou o, Nang lang khou!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Rock of Ages!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "3/4",
+        "7.7.7. D.",
+        "SS 237",
+        "A.M.Roplady",
+        "Rock of Ages!",
+        "source hymn 290",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 290."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "TINGSAENG TAUDAIC",
+        "titleRongmei": "TINGSAENG TAUDAIC",
+        "titleEnglish": "Rock of Ages!"
+      }
+    }
+  }
+}

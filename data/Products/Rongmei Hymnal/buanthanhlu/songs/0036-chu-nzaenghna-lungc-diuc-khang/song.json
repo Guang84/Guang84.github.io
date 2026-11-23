@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-036",
+    "number": 36,
+    "source": {
+      "printedNumber": 36,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chu nzaenghna Lungc diuc khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          36 'Chu Nzaenghna Lungc Diu Khang",
+            "                             7.7.8.10.8.Ref. 8. 8.7.6",
+            "",
+            "          1. 'Chu nzaenghna lungc diu khang,",
+            "             Ravguangc khou lwmloumei guay,",
+            "             'Thanmei panty tei gay liang e.",
+            "             'Thanmei guay rui, 'chumhmei kaguay rui,",
+            "             Tingkauh kandic tei how pwni.",
+            "",
+            "                  Aniw hei Ravguangc nac nunc e.",
+            "                  Nthanmei panty khou lungcna,",
+            "                  Sw nthanmei rui hamhna,",
+            "                  Pou' ta how ngam mak ge.",
+            "",
+            "          2. Tingkauh tuang kaidai khoutei,",
+            "             Thuanhmei ruina padik ge.",
+            "             Lauziunac rui gaancna bam e.",
+            "             Khoutei 'zianmei lev lungning nthanmei",
+            "             Ta 'duanghna lungc bam e Pou' rui.",
+            "",
+            "          3. Aniw khang chamdaanvloumei,",
+            "             Nthanmei pheybaan nai e.",
+            "             Kandih khou 'thanna lunghmei guay,",
+            "             Khoutei ku pwni 'thanmei kaguay rui.",
+            "             He adihkamv neihlaa ni cho!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chu nzaenghna Lungc diuc khang"
+      }
+    }
+  }
+}

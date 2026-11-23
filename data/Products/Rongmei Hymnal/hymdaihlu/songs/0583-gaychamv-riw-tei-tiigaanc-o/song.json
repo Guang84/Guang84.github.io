@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0583",
+    "number": 583,
+    "source": {
+      "printedNumber": 583,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 1085"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "GAYCHAMV RIW TEI TIIGAANC O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tiigaanc o, he tiigaanc ’khap tho,",
+            "Kamuatcmei duipui kaanna;",
+            "Jisu zanc paan )}3 laaloumei,",
+            "Ringhbamv chamv dinc lik ’khap tho.",
+            "",
+            "Tiigaanc o,he tiigaanc ’khap tho!",
+            "Duipui paengc,pwkak guay khou;",
+            "Ch’rynpui p’ry kaniw chu tow diu,",
+            "Nganv makmei zianmei chamv hei!",
+            "",
+            "2 Tiigaanc o, theic bammei nunc khou,",
+            "Zinghmei, chwn swmei bamv khou;",
+            "’Khap tho, tingmik rau guang pw the,",
+            "Kaganv katumcna tat the!",
+            "",
+            "3 Tiigaanc o, Kaipouc latdanv e,",
+            "’Thanmei Kalat hei piu o:",
+            "“Dinc tat tho, Atuang Gaychamv hei,",
+            "Zauc lo, Ai ’duanghlou bam e.”"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Send the Gospel Light",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "8.7.8.7. Ref.",
+        "SS 1085",
+        "Fanny J. Crosby",
+        "Tiigaanc o, he tiigaanc ’khap tho",
+        "Send the Gospel Light",
+        "source hymn 583",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 583."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "GAYCHAMV RIW TEI TIIGAANC O",
+        "titleRongmei": "GAYCHAMV RIW TEI TIIGAANC O",
+        "titleEnglish": "Send the Gospel Light"
+      }
+    }
+  }
+}

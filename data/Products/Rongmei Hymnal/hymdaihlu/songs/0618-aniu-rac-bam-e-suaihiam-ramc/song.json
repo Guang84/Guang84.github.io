@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0618",
+    "number": 618,
+    "source": {
+      "printedNumber": 618,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. E.Mills",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.8. Ref",
+      "tune": "SS 923"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aniu rac bam e suaihiam ramc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Aniu rac bam e suaihiam ramc,",
+            "Gaanhmei gaychuymei dic lam 4^&,",
+            "Karamgai lam rac katub e;",
+            "Guang tangc pwkhou adih gay ni!",
+            "",
+            "Hei khou 4^& ! .. hei khou 4^&!",
+            "Guang tangc pwkhou adih gay ni!",
+            "Hei khou 4^& ! .. hei khou 4^&!",
+            "Guang tangc pwkhou adih gay ni!",
+            "",
+            "2 Aniu rac bam e kachaekc chaeng,",
+            "Kaphut @<4 karuhmei raengc lam,",
+            "Saa ngam makmei karamgai lam,",
+            "Guang tangc pwkhou adih gay ni!",
+            "",
+            "3 Paapc khou @<4 duakna nyngswmei,",
+            "Ryanra, ’thiammei khou @<4 duakmei;",
+            "’Chanvmei maekmei ramc tingkauh khou,",
+            "Guang tangc pwkhou adih gay ni!",
+            "",
+            "4 Neihlaa, ryanra guay khou ’niu ta",
+            "Tingkauh thangc khang chamdaanvlou o;",
+            "’Saanh mak khou ’niu thay puni the,",
+            "Khou4^& guang lunghmei ramgai kiu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "What Must it be to be There!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "8.8.8.8. Ref",
+        "SS 923",
+        "Mrs. E.Mills",
+        "He khou tei guang tangc pwkhou",
+        "What Must it be to be There!",
+        "source hymn 618",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 618."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aniu rac bam e suaihiam ramc",
+        "titleRongmei": "Aniu rac bam e suaihiam ramc",
+        "titleEnglish": "What Must it be to be There!"
+      }
+    }
+  }
+}

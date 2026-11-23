@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0581",
+    "number": 581,
+    "source": {
+      "printedNumber": 581,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.E. Hewitt",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.7. Ref.",
+      "tune": "RS 317"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "BUMAENGH KHUAMMEI ’ TAKMEI E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Niu Guangc Poubauhmei taanv taanhmei adih gay,",
+            "’Niu #^5 phungc guangmei bumaengc hei kunghmei e;",
+            "Reynungc #^5 saa guangmei latchap khou nai e:",
+            "“Bumaengh khuammei ’takmei e.”",
+            "",
+            "“Bumaengh khuammei ’takmei e”",
+            "Tingpuk paengc thangc kai khou 5#^",
+            "Kaniw khang ch’rynmei swan hymdaih pyrun nai;",
+            "“Bumaengh khuammei ’takmei e.”",
+            "",
+            "2 Kaikhunh panty khou gaymei khei padikna,",
+            "Tingmik machang Jisu khei luic hay hayna,",
+            "Zianmei nunc ta kauh chaeng ’niu zaylou nuh e;",
+            "Bumaengh khuammei ’takmei e.”",
+            "",
+            "3 ’Paeng-’zaan thangc huayneyna chamv dinc tat pwkhou,",
+            "Chaeng ’maanmei ta kabamv ’thuic khou phu tat ni;",
+            "Lauziu Gaenghmeipu lev ’niu neihlaa ’chamc ni:",
+            "“Bumaengh khuammei ’takmei e.”",
+            "",
+            "4 Gaychamv thw duipaengc dic gay khou nrou o,",
+            "Zianpui lat 5#^ saana, zianpui taanv taancna,",
+            "Guloumeipu khou paapcmei ta zay guang kho;",
+            "“Bumaengh khuammei ’takmei e.”"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“He That Winneth Souls is Wise”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "11.11.11.7. Ref.",
+        "RS 317",
+        "E.E. Hewitt",
+        "’Niu Guangc Poubauhmei taanv",
+        "“He That Winneth Souls is Wise”",
+        "source hymn 581",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 581."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "BUMAENGH KHUAMMEI ’ TAKMEI E",
+        "titleRongmei": "BUMAENGH KHUAMMEI ’ TAKMEI E",
+        "titleEnglish": "“He That Winneth Souls is Wise”"
+      }
+    }
+  }
+}

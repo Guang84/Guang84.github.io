@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-288",
+    "number": 288,
+    "source": {
+      "printedNumber": 288,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh Raengcmun Khoutei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          288 Tingkauh Raengcmun Khoutei",
+            "                      12.10.12.10.Ref. 12. 11. 12. 14",
+            "          Doh hei G",
+            "",
+            "          1. Tingkauh raengcmun khoutei",
+            "             Mpwan liu rihri bam",
+            "             Khwan gaymei khwan rui thangctei guang khang kaw bam,",
+            "             'Zianmei rupryan guay nic khoutei khwan bam.",
+            "",
+            "                      Oh adih gay cho tingkauh ramc tei!",
+            "                      Ringhmei thingbang lim khou -",
+            "                      Kachaekc pyrun runna,",
+            "                      Chingkhiuhmei pwan piu ni;",
+            "                      Apuat ritmei guay loukey ni.",
+            "",
+            "          2. Tingkauh raengmun tei mu mbangh dat zat lak ge.",
+            "             Khoutei gutmei guay tingsaeng neihlaa bam ni.",
+            "             Pou' ta thuanhpui khwan rui kagaengv bam e.",
+            "",
+            "          3. Tingkauh Seraphim guay lu thanh gaymei su.",
+            "             Kaipouc Jisu ta thuancna neihlaa bam e.",
+            "             Kaniw neihlaamei tei kimkey dat mak khe.",
+            "",
+            "          4. Tingkauh kandic khoutei guloumei alauc guay,",
+            "             Ringhmei thingbang lim khou Ravguangc hym thuanc e.",
+            "             Zianmei pui-pu guay ta khwanna bam e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh Raengcmun Khoutei"
+      }
+    }
+  }
+}

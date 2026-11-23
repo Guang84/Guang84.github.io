@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-094",
+    "number": 94,
+    "source": {
+      "printedNumber": 94,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu hei Akaipouc e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          94      Jisu Hei Akaipouc e",
+            "                        7.7.7.7.Ref. 7. 7. 7.7",
+            "          Doh hei E",
+            "",
+            "          1 Jisu hei akaipouc e,",
+            "            Kakhou ai lwmpui paan rui.",
+            "            Alu guay Kakhang suan ni",
+            "            Thuanckuna ai lungc bam ni.",
+            "",
+            "                  Kuak kan the apaap guay tei,",
+            "                  Kazei rui khiu thanlou the,",
+            "                  Apanty Kakhang di the,",
+            "                  Akaipouc Jisu, Amen!",
+            "",
+            "          2. Kandih khou ai lungc bam saanv,",
+            "             Paapc khourui pak duc tat ni;",
+            "             Apumc guay Kakhang sw ni;",
+            "             Kalatryan rihpwan sw ni.",
+            "",
+            "          3. Tiilou o Nang zauzian hei,",
+            "             Meic guay khou dinc lik tat khang.",
+            "             Ringc kan diu arup guay nic,",
+            "             Ringhmei Latkaeng paan khourui.",
+            "",
+            "          4. Ding tip ni Daniel kumcna;",
+            "             Joshua kumc rihpwan piu ni;",
+            "             Lwm tip ni Abraham kumc;",
+            "             Tiipat ni Abel kumcna."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu hei Akaipouc e"
+      }
+    }
+  }
+}

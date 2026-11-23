@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-272",
+    "number": 272,
+    "source": {
+      "printedNumber": 272,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Swan Nzanh khang Kaganv 'Naa the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          272 Swan Nzanh khang Kaganv 'Naa the",
+            "                          8.6.5.5.6. Ref. 9.9. 12.8",
+            "          Doh hei G",
+            "",
+            "          1. Swan nzanh khang kaganv 'naa the;",
+            "             Ataanv guay how dat 'ni.",
+            "             Gaanvsaekc zaenggay 'ni,",
+            "             Gaanvsaekc zaengsi 'ni,",
+            "             Gaanvsaekc ntamv pwni.",
+            "",
+            "                  Neih khat ai thay makpui 'dic tangcna,",
+            "                  Heictei tingsaeng mbaanvthaypui ramc;",
+            "                  AKaipouc lev tat 'chamcna alaamh tat pwni.",
+            "                  Kim dat lak khe, Hallelujah!",
+            "",
+            "          2. Heic kandic hei tingsaengc lak khe;",
+            "             Akhang nrianhloumei,",
+            "             Mang kumhmei apanty hei 'patlouna,",
+            "             Tingkauh ai tat pwni.",
+            "",
+            "          3. Tingkauh kandic guangtangc pwkhou,",
+            "             Zaengsi' nai dat lak khe;",
+            "             Ravguangc lunghmei tingkauh kaidai khoutei.",
+            "             Baanch'raa kumcna lungc ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Swan Nzanh khang Kaganv 'Naa the"
+      }
+    }
+  }
+}

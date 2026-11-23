@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-225",
+    "number": 225,
+    "source": {
+      "printedNumber": 225,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.9.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He kandi khou bam san khou hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He kandih khou bam san khouhei,",
+            "Rianramei rui gum liamme;",
+            "Theimei Jordan dui kan mak san khou,",
+            "Poubaumei rui lung geic na bamv e.",
+            "",
+            "He tithai lou o damlou pui ram,",
+            "Zianmei le kau latdiw bam ntammak pui ram;",
+            "Kandih rianra ram pat louna,",
+            "He tabui nung rui guang tang ni cho?",
+            "",
+            "2. Rei khou rianrana bam mei guai,",
+            "Kagun daipui ram tang khou;",
+            "Tatrei mei le bumang thanmei guai rui,",
+            "He nzanegmei Guangc ta thuan ku e.",
+            "",
+            "3. Ka tingsang lu suan cham khang tei,",
+            "Kao e nthanmei nun rui;",
+            "Kakhuan gaimei tei chulana ai,",
+            "Hei ram gaimei tei ninga kap be.",
+            "",
+            "4. Ningtan makge Immanuel,",
+            "Damthanmei Jerusalem;",
+            "Kandih hei rianra pui ram dai e,",
+            "Tang lak ni the pinge zailou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 225",
+        "Khristian Luzaam PDF",
+        "Chord: E",
+        "Meta 3: 8.7.9.9."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 225. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 20,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He kandi khou bam san khou hei",
+        "titleRongmei": "He kandi khou bam san khou hei"
+      }
+    }
+  }
+}

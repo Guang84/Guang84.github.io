@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0210",
+    "number": 210,
+    "source": {
+      "printedNumber": 210,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J. Cerrick and C. Wes",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7.12.7.",
+      "tune": "S 161"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zauclo, muangh ding khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zauc lo, muangh ding khou key pw the,",
+            "Paapc mei khang swluaimei pu;",
+            "’Thanmei nunc aching ching ’duanghna,",
+            "Rih ngammei lu kauc key the:",
+            "Hallelujah! Hallelujah! Hallelujah!",
+            "Jisu guanghtu khang guang the!",
+            "",
+            "2 Mik kathuic }?2 Kata how ni,",
+            "Chingkhiuhmei pwan 2}? piuna,",
+            "Kata nuh makna ganc patmei",
+            "Kros khou thangcluaimei nunc 2}?,",
+            "Chwnsii-zanegsii, chwnsii-zaengsii,",
+            "chwnsii-zaengsii,",
+            "Messiah ta how pwkhou!",
+            "",
+            "3 ’Khamhmei trampet 2}? ’muan pwkhou,",
+            "Tingpuk kandih luai puni;",
+            "Kata karaeng bammei nunc 2}?",
+            "Ngakna kawpui khwan chu ni:",
+            "Latzan guang the, latzan guang",
+            "the, latzan guang the!",
+            "Guang tho, ’taw latzan sw khang!",
+            "",
+            "4 ’Khwan saengc guangmei",
+            "thuakloumei 2}?,",
+            "Zauc lo, chingkhiuhna guang the;",
+            "Dih }?2 ganc patmei ’thanmei nunc",
+            "Tingpuk khou Kata ’riw ni;",
+            "Hallelujah! Hallelujah! Hallelujah!",
+            "Zauc lo, Ravguangc tingmik 2}?!",
+            "",
+            "5 Amen! meic guay Nang ta thuanc diu,",
+            "Tingsaengzang guangc",
+            "bamvpaeng khou;",
+            "Ngamv lev hymdaih }?2 karuhna,",
+            "Nang tuang guanghdic hei sin tho;",
+            "He guang ’khap tho, he guang",
+            "’khap tho, he guang ’khap tho!",
+            "Hallelujah! Pou guang tho!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "J. Cerrick and C. Wes",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "8.7.8.7.12.7.",
+        "S 161",
+        "J. Cerrick and C. Wes",
+        "Lo, He Comes!",
+        "source hymn 210",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 210."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zauclo, muangh ding khou",
+        "titleRongmei": "Zauclo, muangh ding khou",
+        "titleEnglish": "J. Cerrick and C. Wes"
+      }
+    }
+  }
+}

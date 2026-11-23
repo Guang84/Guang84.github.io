@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0353",
+    "number": 353,
+    "source": {
+      "printedNumber": 353,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Gerhard Tersteengen",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "2/2",
+      "meter": "6.6.8. D. 6.6.6.",
+      "tune": "HLCS 375"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc ’niu pangc khou bam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc ’niu pangc khou bam,",
+            "Aniu Kata bwan kho,",
+            "Chingkhiuhna Kahu khou guang kho;",
+            "Ravguangc ’niu lung khou bam,",
+            "Meic guay Kata ping o,",
+            "Lungh niamhna Kadaeng khou guang kho;",
+            "Kamei nunc Ravguangc ta",
+            "Niamhna kalum kan diu,",
+            "Panty guay katlou diu.",
+            "",
+            "2 Alung khou bamlou o,",
+            "Meri khou kumc akhou,",
+            "Nang lunghpui bamv tiiswlou o;",
+            "Guang o, Bumaengh ’Thanmei,",
+            "Tiikalaihmei Bumaengc,",
+            "Apanty guay ai tiipat the;",
+            "Ai tatloupui bamv ’thuic",
+            "Nang hu khou ’bum keyna,",
+            "Nang ta thayna bwan ni.",
+            "",
+            "3 Neihlaana katlou the,",
+            "Kandih tuang syanlanv guay,",
+            "Gaengh swmei lev paapc thala guay;",
+            "Tingsaeng Nang tuang sw khang",
+            "Neihlaana katlou the,",
+            "’Niw bumaengc lev ringhting guay hei;",
+            "Nang ta na thay ni the,",
+            "’Niw natnw guay Ravguangc;",
+            "Nang khang na lungc ni the. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "God Himself is With Us",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "2/2",
+        "6.6.8. D. 6.6.6.",
+        "HLCS 375",
+        "Gerhard Tersteengen",
+        "God Himself is With Us",
+        "source hymn 353",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 353."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc ’niu pangc khou bam",
+        "titleRongmei": "Ravguangc ’niu pangc khou bam",
+        "titleEnglish": "God Himself is With Us"
+      }
+    }
+  }
+}

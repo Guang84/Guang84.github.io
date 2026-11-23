@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-171",
+    "number": 282,
+    "source": {
+      "printedNumber": 171,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "irregular",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang bumang khang ram ping thai o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nang bumang khang ram ping thai o,",
+            "Kandih chakin janggai gan o;",
+            "Nang bumang hei kungpui tuang e,",
+            "Nang poubaumei khou lum tip bo.",
+            "",
+            "Chorus:",
+            "Nban ram hei naang kaai ram e,",
+            "Chang khan loupui kai de ning o;",
+            "Nban chakin guai gan lana,",
+            "Nang bumang ring khang lunglai tho.",
+            "",
+            "2. Seitan !-2 nangta kao bam ,",
+            "Pap guai chakin gan lou ngam o;",
+            "Nang bumang !-2 kung pui tuang e,",
+            "Nang bumang khangram ping thai o.",
+            "",
+            "3. Seitan !-2 nangta khuan bam e,",
+            "Gai makmei pap tan dat ri tho;",
+            "Nang bumang r!-2kung pui tuuang e,",
+            "Nang poubaumei khou huainei o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 171",
+        "SQLite BookTypeID 2",
+        "Key: D",
+        "Meter: irregular",
+        "Chord: D",
+        "Meta 3: irregular"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 171); no high-confidence title match was found in the PDF list. The digital catalogue number is 282; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 171,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang bumang khang ram ping thai o",
+        "titleRongmei": "Nang bumang khang ram ping thai o"
+      }
+    }
+  }
+}

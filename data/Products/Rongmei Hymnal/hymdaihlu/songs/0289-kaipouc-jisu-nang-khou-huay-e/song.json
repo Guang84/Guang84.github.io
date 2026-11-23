@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0289",
+    "number": 289,
+    "source": {
+      "printedNumber": 289,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Eliza H.Hamilton",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.8.8.6. Ref.",
+      "tune": "SS 476"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaipouc Jisu Nang khou huay e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaipouc Jisu, Nang khou huay e,",
+            "’Khavlou mak ’thei theic puni the;",
+            "Nang ringcbamv akhou tiilou o,",
+            "",
+            "Laalou na ro ata!",
+            "Laalou na ro ata!",
+            "Laalou na ro ata!",
+            "Azaeng khang Jisu theiclou the,",
+            "Laalou na ro ata!",
+            "",
+            "2 Ngam makmei ai, khuay geihmei e,",
+            "Nang zei keymei 8^& akhang e;",
+            "Nang ningmei ata swlou o,",
+            "Laalou na ro ata!",
+            "",
+            "3 Ramh sw thuy lakmei e ai hei;",
+            "Alungdyng guay ding ngam mak ge,",
+            "’Ki Nang ata kanlou ngam e,",
+            "Laalou na ro ata!",
+            "",
+            "4 Pou, ai Nang phaypav khou guang the,",
+            "Nang ^&8 kahawmei swlou tho;",
+            "Nang taanv gaymei taanc suaklou tho,",
+            "Laalou na ro ata!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Take Me As I Am!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "6/8",
+        "8.8.8.6. Ref.",
+        "SS 476",
+        "Eliza H.Hamilton",
+        "LAALOU NA RO ATA",
+        "Take Me As I Am!",
+        "source hymn 289",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 289."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaipouc Jisu Nang khou huay e",
+        "titleRongmei": "Kaipouc Jisu Nang khou huay e",
+        "titleEnglish": "Take Me As I Am!"
+      }
+    }
+  }
+}

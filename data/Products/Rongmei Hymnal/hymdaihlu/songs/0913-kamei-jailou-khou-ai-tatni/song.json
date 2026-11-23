@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0913",
+    "number": 913,
+    "source": {
+      "printedNumber": 913,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kamei jailou khou ai tatni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kamei jailou khou ai tatni,",
+            "Kakhou lummei ramgai thai the;",
+            "Ai ningtou e akhang dinge,",
+            "Kalvari khou thei loumei ta.",
+            "",
+            "Chorus:",
+            "Jisu ata jailou puni,",
+            "Jingbang kalan changluan thui khou;",
+            "Gailiangmei champan kamei e,",
+            "Kalvari ta ai ningtou e.",
+            "",
+            "2. Kalat dan khou ai neila e,",
+            "Karam jailou ta ai pian the;",
+            "Kachun hei akhang gailiang e,",
+            "Kalvari jei +:1 su than lou.",
+            "",
+            "3. Huthang ai gutni ping maknga,",
+            "Khrista duanglou jang neilana,",
+            "Neikhat souriu khang lumgai na,",
+            "Kalvarimei pu Jisu ta."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "8.8.8.8.",
+        "Kamei jailou khou ai tatni",
+        "source hymn 183",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 183."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kamei jailou khou ai tatni",
+        "titleRongmei": "Kamei jailou khou ai tatni",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

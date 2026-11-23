@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0064",
+    "number": 64,
+    "source": {
+      "printedNumber": 64,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Maltbie D. Babclock",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.6.8.6. D.",
+      "tune": "CSH 167"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Mi hei aPu dic e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Mi hei aPu dic e,",
+            "Damcloumei puat guay lev,",
+            "Mbaanv guay ({0 thuanhpui lu khwan",
+            "Anu khou chu guang e;",
+            "Mi hei aPu dic e,",
+            "Khow, dui, thing-’tauh, tingpuk,",
+            "Kabaansyam guay makumh pwkhou",
+            "Alung khou thuancku e.",
+            "",
+            "2 Mi hei aPu dic e,",
+            "’Ruayna guay ({0 thuanc e,",
+            "Lauthwan gaanhmei lev mwnpwang guay",
+            "Damhmeipu ta thuanc e;",
+            "Mi hei aPu dic e,",
+            "Kariw ({0 tigaanc e;",
+            "Thingnwang kathiau khou Kapha khwan",
+            "Kabamv ’thuic Kakhwan chu.",
+            "",
+            "3 Mi hei aPu dic e,",
+            "Ata tiimuclou rio,",
+            "Siimei ({0 zyn bam kumc sihni",
+            "Latzanpouc Ravguangc de,",
+            "Mi hei aPu dic e,",
+            "Diw sii bam khang nai cho?",
+            "Ravguangc ({0 guanghtwna bam de,",
+            "Kauh lev dih neihlaa diu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "This is My Father’s World",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "6.6.8.6. D.",
+        "CSH 167",
+        "Maltbie D. Babclock",
+        "This is My Father’s World",
+        "source hymn 64",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 64."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Mi hei aPu dic e",
+        "titleRongmei": "Mi hei aPu dic e",
+        "titleEnglish": "This is My Father’s World"
+      }
+    }
+  }
+}

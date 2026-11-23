@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0338",
+    "number": 338,
+    "source": {
+      "printedNumber": 338,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "A.A. Pollard",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "9/4",
+      "meter": "9.9.9.9.",
+      "tune": "3 Alex 146"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NANG NYNG SWLOU O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang nyng swlou o, he Poubauhmei!",
+            "Lai kasiamhmei Nang, ai gambic e,",
+            "Nang kahawmei khou kasiamhlou o,",
+            "Alung bowlouna ai ’khwan bam khou.",
+            "",
+            "2 Nang nyng swlou o, he Poubauhmei!",
+            "Phuna zauclou o, Kaipouc ata!",
+            "Gunh khang suangc ’phwan khang khiu ’thanlou o,",
+            "Nang hu khou khwanna ’khuksun bam khou.",
+            "",
+            "3 Nang nyng sulou o, he Poubauhmei!",
+            "Ryanra lakmei e, ’khavlou na ro!",
+            "Ngamv guay Nang tuang e, he Poubauhmei!",
+            "Ata kahina tiigaylou o.",
+            "",
+            "4 Nang nyng swlou o, he Poubauhmei!",
+            "Nang kahawmei guay taanc tangclou tho!",
+            "Akhou Nang Bumaengc padiklou tho,",
+            "Khrista lungc bammei how tanh tan khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Have Thine Own Way, Lord!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "9/4",
+        "9.9.9.9.",
+        "3 Alex 146",
+        "A.A. Pollard",
+        "Have Thine Own Way, Lord!",
+        "source hymn 338",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 338."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NANG NYNG SWLOU O",
+        "titleRongmei": "NANG NYNG SWLOU O",
+        "titleEnglish": "Have Thine Own Way, Lord!"
+      }
+    }
+  }
+}

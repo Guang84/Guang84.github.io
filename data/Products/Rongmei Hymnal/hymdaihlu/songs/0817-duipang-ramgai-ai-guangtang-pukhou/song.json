@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0817",
+    "number": 817,
+    "source": {
+      "printedNumber": 817,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "9.10.9.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Duipang ramgai ai guangtang pukhou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Duipang ramgai ai guangtang pukhou,",
+            "Kandih man kan nimei ta ning lak khe;",
+            "Hei kandih apumta ning lakkhe,",
+            "Ringmei thingbang pou Khrista ta ning e.",
+            "",
+            "Chorus:",
+            "He ning e poubaumei ram 1@:,",
+            "Khou lung rianra nai ldat lak khe;",
+            "Akhang chamdanmei duipang ramkhou,",
+            "Thaodat kanmei guai bammpui ram1@:.",
+            "",
+            "2. Hei ram 1@: ninga achun si e,",
+            "Laujiu Nah le kanloumei bampui ram;",
+            "Hei kandih ta gan louna tat ni,",
+            "Hei ram 1@: ai guangtang puni e.",
+            "",
+            "3. Kaniu hukhou 1@: gan puni e,",
+            "Tuna samei khuan 1@: chulou lana;",
+            "Kandih rianra pap gei pui ram 1@:,",
+            "Tuan puni hei ram guangtang pukhou.",
+            "",
+            "4. Khou 1@: khanga tat kanmei guai 1@:,",
+            "Rianramei guai rui neilana bamme;",
+            "Kanloumeipu le kanloumei guai,",
+            "He tam maknga bam nipui ram khou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "9.10.9.10.",
+        "Duipang ramgai ai guangtang pukhou",
+        "source hymn 87",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 87."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Duipang ramgai ai guangtang pukhou",
+        "titleRongmei": "Duipang ramgai ai guangtang pukhou"
+      }
+    }
+  }
+}

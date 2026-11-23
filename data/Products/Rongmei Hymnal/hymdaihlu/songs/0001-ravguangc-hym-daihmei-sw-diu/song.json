@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0001",
+    "number": 1,
+    "source": {
+      "printedNumber": 1,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Theodore C.Williams",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "2/2",
+      "meter": "7.4.7.4. D.",
+      "tune": "CW 100"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc hym daihmei sw diu!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc hym daihmei sw diu, Alleluia;",
+            "Baansyam guay thuancna kauc diu, Alleluia;",
+            "Suaihiam lev chuzaenghmei khang, Alleluia;",
+            "Kauh lev dih suan adaw diu, Alleluia.",
+            "",
+            "2 Kalungp’rik guay rui thuanc diu, Alleluia;",
+            "\"Ravguangc hei gay e\" suan diu, Alleluia;",
+            "Lakna ’gyntatmei nunc ni, Alleluia;",
+            "’Thanmei nunc lev lay suan diu, Alleluia.",
+            "",
+            "3 Khwan maekmei gaanchuangc guay nic, Alleluia;",
+            "Kaniw Guangc hym tiidaic diu, Alleluia;",
+            "Ngamv guay lev baanch’ra nunc lu, Alleluia;",
+            "’Niw Ravguangc khang thuanclou diu, Alleluia."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Glory Be To God On High",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "2/2",
+        "7.4.7.4. D.",
+        "CW 100",
+        "Theodore C.Williams",
+        "Glory Be To God On High",
+        "source hymn 1",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 1."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc hym daihmei sw diu!",
+        "titleRongmei": "Ravguangc hym daihmei sw diu!",
+        "titleEnglish": "Glory Be To God On High"
+      }
+    }
+  }
+}

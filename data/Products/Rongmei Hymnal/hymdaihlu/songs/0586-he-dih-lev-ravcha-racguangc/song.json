@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0586",
+    "number": 586,
+    "source": {
+      "printedNumber": 586,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Gilbert K. Chesterton",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "CW 546"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He dih lev ravcha Racguangc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He dih lev ravcha Racguangc,",
+            "’Niw huaymei chulou o,",
+            "’Niw dih kaipou nunc suai de,",
+            "’Niw mei nunc chaeng maanv e;",
+            "Dih-lanv ({0 nymphuplou e,",
+            "Karaengmei ({0 sw bak;",
+            "’Niw khou Nang ngamv laa ganh rio,",
+            "’Niw gaengh laa ganclou o.",
+            "",
+            "2 Ping-rouhmei tuang guay khou ({0,",
+            "Saaraamhmei guay khou ({0,",
+            "Meicsiimei khang zaenggaymei,",
+            "Gaeng makmei lat khou ({0,",
+            "Chingkhiuh lev thoucna guay ta",
+            "Chauphupmei lwn khou ({0,",
+            "Zipriimei lev syang khou ({0",
+            "Kaipouc, gaeklou na ro!",
+            "",
+            "3 Pingmei riang ({0 bangclou o,",
+            "Tingkuh, guangh lev bangh ta;",
+            "’Niw ta bang kariulou o,",
+            "Riaplou o, gaeklou o,",
+            "Lunghpuamh khou lev neihlaa khou,",
+            "Lwmmei, nyngswmei ({0",
+            "Ringc bammei zaat tiiswna",
+            "Nang hu khou nai bam diu.",
+            "Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O God of Earth and Alter",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "7.6.7.6. D.",
+        "CW 546",
+        "Gilbert K. Chesterton",
+        "O God of Earth and Alter",
+        "source hymn 586",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 586."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He dih lev ravcha Racguangc",
+        "titleRongmei": "He dih lev ravcha Racguangc",
+        "titleEnglish": "O God of Earth and Alter"
+      }
+    }
+  }
+}

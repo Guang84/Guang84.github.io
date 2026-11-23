@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-202",
+    "number": 202,
+    "source": {
+      "printedNumber": 202,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Rim-rimpui zingbang, thanmei zingbang khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Rim-rimpui zingbang, thanmei zingbang khou",
+            "Banchra nun khuan le kaniu tiguang e,",
+            "Khou tei thau the, lauziu gaangmei;",
+            "Bethlehem khou puan. [3]",
+            "",
+            "2. Keikhuang khou ziloumei ta hou puni",
+            "Pouta souriu khang nangniu tatthau tho;",
+            "Poubaomei kahim dai kandiu,",
+            "Di khou chuzaengmei nai kandiu",
+            "Khrista puanlouna. [3]",
+            "",
+            "3. Lauziu gaengmei Bethlehem thang tat the’",
+            "Khou tei kaniu Jisu ta ariu the;",
+            "Din kasuaklou tina guangmei",
+            "Duan gaidiu pouta souriumei,",
+            "Tao kamei guanglouna. [3]",
+            "",
+            "4. Guang Jisu Khrista ta guang kalum the",
+            "Tingkao banchra guai neila lusuan e;",
+            "Poubaomei kahim dai kandiu",
+            "Di khou chuzaengmei nai kandiu,",
+            "Khrista puanlou na. [3]"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 202",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 202. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Rim-rimpui zingbang, thanmei zingbang khou",
+        "titleRongmei": "Rim-rimpui zingbang, thanmei zingbang khou"
+      }
+    }
+  }
+}

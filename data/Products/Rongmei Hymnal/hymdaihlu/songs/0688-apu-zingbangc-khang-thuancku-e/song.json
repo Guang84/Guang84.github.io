@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0688",
+    "number": 688,
+    "source": {
+      "printedNumber": 688,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John R. Clements",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "9/8",
+      "meter": "8.8.8.8.6.6.",
+      "tune": "GSC 596"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Apu zingbangc khang thuancku e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Gaanv saekc gaymei taanv taanclou e,",
+            "Kage naimei khou ’khavlou e;",
+            "Gaanv saekc neihlaana lu suanna",
+            "Tingmik saanvsaengh tiigaanclou e:",
+            "Nang nic heikumh tu cho ? (2)",
+            "",
+            "2 Gaanvsaekc thu aliauh azihna",
+            "Gay liangmei ganv ta sw ’maan e,",
+            "Gaanv saekc gaeng makmei lwnlung khou",
+            "Nsa panty khou lungclou e:",
+            "Nang nic hei kumh tu cho? (2)",
+            "",
+            "3 Gaanv saekc $%6 gaanhmei phungc guang e,",
+            "Zingbangc guay ta hac ganclou e;",
+            "Neihlaa ’chuzaenghmei laatow e,",
+            "Katuang panty 6$% mut lak khe:",
+            "Nang nic hei kumh tu cho ? (2)"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "9/8",
+        "8.8.8.8.6.6.",
+        "GSC 596",
+        "John R. Clements",
+        "Somebody",
+        "source hymn 688",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 688."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Apu zingbangc khang thuancku e",
+        "titleRongmei": "Apu zingbangc khang thuancku e"
+      }
+    }
+  }
+}

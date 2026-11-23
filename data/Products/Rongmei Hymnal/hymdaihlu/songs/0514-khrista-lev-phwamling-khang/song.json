@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0514",
+    "number": 514,
+    "source": {
+      "printedNumber": 514,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Eliza E. Hewitt",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.12.11.11. Ref.",
+      "tune": "SS 1096"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KHRISTA LEV PHWAMLING KHANG",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Khrista lev Phwamling khang” ’niu kauc thau kho,",
+            "Guigaymei ’niu Guangc zancchakhwang champouh sw kho;",
+            "Chabwan pumtan ({0 ’niu chwnlouna taanc kho,",
+            "Nchumhmei guanghdic khang biangpiuna ding kho.",
+            "",
+            "Khrista .. Thuakloumei pu khang,",
+            "Khrista .. theicloumei khang;",
+            "Zei ({0 liuloumei Phwamling khang,",
+            "Swlou o, bauh khang, Pou.",
+            "",
+            "2 “Khrista lev Phwamling khang” huayney bam kho,",
+            "Tingmik ’thuic kros phungcna",
+            "Kachuangcphey thei lay kho;",
+            "Bumaengh ’Thanmei ngamv khou tiigutlou ngam kho,",
+            "Panty ganv gay khou Kasiamruai sw di kho.",
+            "",
+            "3 “Khrista lev Phwamling khang” p’riuhna tii kho,",
+            "Kaipouc khang kaganv lev talent, syan-lanv kat kho;",
+            "Gay liangmei puat-ruai guay",
+            "phungc guangna tii kho,",
+            "Zianmei lungning, lanv kamv makmei ei kat kho.",
+            "",
+            "4 “Khrista lev Phwamling khang” ’niu ganc pat kho,",
+            "Kakhang khang na ningmei,liantiimei, pingmei guay;",
+            "Gaymei dam guang nimei 0({ machunhlou kho,",
+            "Thei thangc Kaipouc tuang baanzat thangc neihlaa ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“For Christ and the Church”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "10.12.11.11. Ref.",
+        "SS 1096",
+        "Eliza E. Hewitt",
+        "“For Christ and the Church”",
+        "source hymn 514",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 514."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KHRISTA LEV PHWAMLING KHANG",
+        "titleRongmei": "KHRISTA LEV PHWAMLING KHANG",
+        "titleEnglish": "“For Christ and the Church”"
+      }
+    }
+  }
+}

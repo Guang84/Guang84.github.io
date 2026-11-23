@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-136",
+    "number": 136,
+    "source": {
+      "printedNumber": 136,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou Ringhmei 'Niw Panty hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          136      Kandih khou Ringhmei 'Niw Panty hei",
+            "                              9.10.10. 10.Ref.6.6. 10. 10.9",
+            "",
+            "          1. Kandhi khou ringhmei 'niw panty hei,",
+            "             Karin gayna puangcpatmei mwn kumc e.",
+            "             Neihkhat thu hei guay tuaina 'kamvkey the.",
+            "             Mitei kumh tuang maansei 'niw panty hei.",
+            "",
+            "                     Hanguang tho Jisu khou,",
+            "                     Nang panty ganv gay khou.",
+            "                     Ning ngammakmei kaganv tei guang pwni,",
+            "                     Theihmei rui laytangh mak khou hanguang tho.",
+            "                     Tingsaeng zaeng ringhmeipu Jisu khou.",
+            "",
+            "          2. Tat kan the meickin swna,",
+            "             Gaymei nic siimei nic tat kan the.",
+            "             'Muc kan the duipui mbaanv kandic khou,",
+            "             Latzan khang na rui ringcthau dat khang di the.",
+            "",
+            "          3. Khrista khou theic kanmei kaguay tei,",
+            "             Neihlaamei dam laa 'chamc khang ringcthau ni.",
+            "             Kaniw ta ariu pwni neihkhat mu,",
+            "             Gaanc gaymei laukhwan pat pwkhou ariu ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou Ringhmei 'Niw Panty hei"
+      }
+    }
+  }
+}

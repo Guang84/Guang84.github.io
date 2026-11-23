@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0160",
+    "number": 160,
+    "source": {
+      "printedNumber": 160,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Sidney Lanier",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/8",
+      "meter": "Irregular.",
+      "tune": "CW 225"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "PIKWAN THANGC AKAIPOUC TAT KAN",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Pikwan thangc aKaipouc tat kan the,",
+            "Lakna huayney khwan e,",
+            "Pikwan khou aKaipouc guang khwan e,",
+            "Zakmei ’khaengvlou khwan e;",
+            "’Ki oliv bang nunc 6_> kaniw mik tiat mak,",
+            "Kanwang guay _>6 Pou ta kadan khwan e,",
+            "Sauh bang nganv Kata lunghsuc khwan e,",
+            "Kaipouc pikwan khou guang khou.",
+            "2 Pikwan khou _>6 Kamei tatpat the,",
+            "Kaipouc Kalung kwnna;",
+            "Pikwan khou _>6 Kaipouc tatpat the,",
+            "Zakmei ’khaengvna theih khang;",
+            "Zakmei ’khaengvna theicloumei ganv guang pwkhou",
+            "Kata kros ruc khou zay kauh thau khwan e,",
+            "Kros ruc khou Kata swluai khwan e,",
+            "Pikwan khou _>6 pat dat khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Into the Woods My Master Went",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/8",
+        "Irregular.",
+        "CW 225",
+        "Sidney Lanier",
+        "Into the Woods My Master Went",
+        "source hymn 160",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 160."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "PIKWAN THANGC AKAIPOUC TAT KAN",
+        "titleRongmei": "PIKWAN THANGC AKAIPOUC TAT KAN",
+        "titleEnglish": "Into the Woods My Master Went"
+      }
+    }
+  }
+}

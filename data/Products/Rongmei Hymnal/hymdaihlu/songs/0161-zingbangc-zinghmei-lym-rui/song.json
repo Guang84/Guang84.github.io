@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0161",
+    "number": 161,
+    "source": {
+      "printedNumber": 161,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Love H.Jameson",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "6.5.6.5.7.6.6.5.",
+      "tune": "CW 226"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zingbangc zinghmei lym rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zingbangc zinghmei lym ?|7",
+            "’Zaengc guay gum liam the;",
+            "Tazik chikh chik khwan e,",
+            "Ramh guay zip ngam the,",
+            "Ryanra ’khaengvmei pu Khrista",
+            "Mikdui, talanv, zei phiangc,",
+            "Pikwan khou pun key khou,",
+            "Ravguangc khou huay khou.",
+            "",
+            "2 Katuang khuay hamhmei khang",
+            "Kata riaplou the;",
+            "’Niu khuay zaeng khang Kamei",
+            "Mikdui keylou the;",
+            "Swmlou thaymei pam maek khe,",
+            "’Khavlou thaymei maek khe,",
+            "’Zaenghmei, niamhmei pu ?|7",
+            "Huayney bam khou 7?|.",
+            "",
+            "3 APu, he APule,",
+            "Nang ?|7 nuh ethei",
+            "Ryanramei buangc na hei",
+            "Ganclou khang huay e;",
+            "Kum sic nuh mak ethei mu",
+            "Nang Nac khat namei khou",
+            "APu, he APule,",
+            "Nang nyng swlou tho."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Night, with Ebon Pinion",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "6/8",
+        "6.5.6.5.7.6.6.5.",
+        "CW 226",
+        "Love H.Jameson",
+        "Night, with Ebon Pinion",
+        "source hymn 161",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 161."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zingbangc zinghmei lym rui",
+        "titleRongmei": "Zingbangc zinghmei lym rui",
+        "titleEnglish": "Night, with Ebon Pinion"
+      }
+    }
+  }
+}

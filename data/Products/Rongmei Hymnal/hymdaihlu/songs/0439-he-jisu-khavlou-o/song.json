@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0439",
+    "number": 439,
+    "source": {
+      "printedNumber": 439,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "James Montgomery",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.11.",
+      "tune": "CSH 187"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Jisu ’khavlou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Jisu ’khavlou o, nchanvpui ganv khou,",
+            "Nang )}3 ’khavlou mak ’thei ai khaengv ngam mak ge,",
+            "Alung ding mak pwkhou Nang )}3 ’khavlou o,",
+            "Pingmei, siimei bamv khou ata ’patlou rio.",
+            "",
+            "2 Dih thala )}3 ata chaeng zay laanh pwkhou,",
+            "Dih-lanv )}3 apanty sw amaan ni khou,",
+            "Gethsamani rianra tiiningtowlou o,",
+            "Kalvari kros khou Nang akhang ’khaengvloumei.",
+            "",
+            "3 Zianpui zaeng )}3 riapna rairiulou sihni,",
+            "Achaenglwan khou ryanra sunu geic sihni,",
+            "Nang baanc hou tanh tan khang tiiswlou na ro;",
+            "Adwanman guay Nang khou lou khang nuhlou o.",
+            "",
+            "4 Ai theicna t’rou lungc khou taniang guanh pwkhou,",
+            "Duipaengc thangc kauh ramgai ai phaengc how pwkhou;",
+            "Nang theicloumei ’chumhmei taanv paan )}3 ata,",
+            "Pou, tiiringcthaulou o ringcsuangmei khou kiu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "In the Hour of Trial",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "11.11.11.11.",
+        "CSH 187",
+        "James Montgomery",
+        "In the Hour of Trial",
+        "source hymn 439",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 439."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Jisu ’khavlou o",
+        "titleRongmei": "He Jisu ’khavlou o",
+        "titleEnglish": "In the Hour of Trial"
+      }
+    }
+  }
+}

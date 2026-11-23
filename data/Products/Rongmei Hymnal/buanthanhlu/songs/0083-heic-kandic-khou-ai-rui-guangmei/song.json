@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-083",
+    "number": 83,
+    "source": {
+      "printedNumber": 83,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Heic Kandic khou Ai rui Guangmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          83 Heic Kandic khou Ai rui Guangmei",
+            "                           7.8.7.6. Ref. 9. 8. 8. 10",
+            "          Doh hei G",
+            "",
+            "          1. Heic kandic khou ai rui guangmei;",
+            "             Nruay guay rui thingphaanv gay khou,",
+            "             Tow khanvmei kumc neihkhat zaeng",
+            "             Khang de ai rui guangmei.",
+            "",
+            "                  Nrianhloumei ramc tei guangtangh khang,",
+            "                  Swkaeng naina samcthay ethei,",
+            "                  Nthaekc makna samctat nii e;",
+            "                  Poubauhmei rui chamdaanvloumei ramc khou.",
+            "",
+            "          2. Sharon mwn gaymei puanghpui ramc,",
+            "             Kachaekc namvdaih neihlaapui ramc;",
+            "             Heic ramc khoutei lungh khang",
+            "             Pou' Jisu rui khwan bam e.",
+            "",
+            "          3. Heic kandic hei karaankey the;",
+            "             Tingsaengc lak khe heic kandic hei.",
+            "             'Baanv ramgai ganclou ngamna,",
+            "             Ai samctat kan ni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Heic Kandic khou Ai rui Guangmei"
+      }
+    }
+  }
+}

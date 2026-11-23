@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0603",
+    "number": 603,
+    "source": {
+      "printedNumber": 603,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. Frank A.Breck.",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 1019"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Hymdaihmei ringhmei guangcdic nai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Hymdaihmei, ringhmei guanghdic nai,",
+            "Kandih tuang ringhting paengc thangc,",
+            "Thuakloumei tuang ch’rynmei p’ry hei",
+            "Mi dic tuang latlu kiu the.",
+            "",
+            "Nganv makna zianmei lev thuanhmei,",
+            "Mang manv tangh .. makmei hymdaih,",
+            "Nganv maekmei .. ringcbamv neihlaa hei,",
+            "Thuakpatloumei nunc lu the.",
+            "",
+            "2 Thow cho neihlaa lu suan nimei,",
+            "Tingsaengzaeng nganv dat makna,",
+            "Lungh ryanra, chwn swmei maekna,",
+            "Zaengsiimei nai dat makna!",
+            "",
+            "3 Thow suan ni, Ravguangc ringcbamv lu,",
+            "Thow laa ni, ringc taek makmei?",
+            "Rairiumei akhaengv ngampuimei,",
+            "Paapc ta ngampuimei 1<: e.",
+            "",
+            "4 Kaniw dih puat guay lou ducna",
+            "Jisu thei laymei nunc e;",
+            "Jisu kros khou theihmei paan {:1",
+            "Ringhbamv laapui mei nunc e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Song of the Redeemed",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "3/4",
+        "8.7.8.7. Ref.",
+        "SS 1019",
+        "Mrs. Frank A.Breck.",
+        "THUAKPATLOU MEI NUNC LU",
+        "Song of the Redeemed",
+        "source hymn 603",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 603."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Hymdaihmei ringhmei guangcdic nai",
+        "titleRongmei": "Hymdaihmei ringhmei guangcdic nai",
+        "titleEnglish": "Song of the Redeemed"
+      }
+    }
+  }
+}

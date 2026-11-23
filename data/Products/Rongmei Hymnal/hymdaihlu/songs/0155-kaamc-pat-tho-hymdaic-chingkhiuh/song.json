@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0155",
+    "number": 155,
+    "source": {
+      "printedNumber": 155,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "H.H.Milman, D.D.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "SS 135"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaamc pat tho, hymdaic chingkhiuh",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaamc pat tho, hymdaic chingkhiuhna!",
+            "Zaatc guay Hosanna kauc bam the;",
+            "He Guloumeipu, ruan pat tho,",
+            "Phey, tadanvnuy, bamhmei chaeng khou.",
+            "Kaamc pat tho, hymdaic chingkhiuhna!",
+            "Liwmei lwn khou Nang theiclou khang.",
+            "",
+            "2 Kaamc pat tho, hymdai chingkhiuhna!",
+            "Niamhna Nang theic nipui chaeng khou;",
+            "He Khrista, Nang rih ngammei 1<~",
+            "Theihmei lev paapc ruc khou lyan tho.",
+            "",
+            "3 Kaamc pat tho, hymdaic chingkhiuhna!",
+            "Kauh ricmei guay zauc key bam the,",
+            "Lungh kabiuna, ch’rynna bam the,",
+            "’Khamhpui ganv ’naa guangmei howna.",
+            "",
+            "4 Kaamc pat tho, hymdaic chingkhiuhna!",
+            "Liwmei lwn khou Nang theiclou khang!",
+            "Theihmei ramsw khou ’bum key tho,",
+            "Hei tangv Nang ngamv guanghdic laa tho. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Ride on in Majesty!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "8.8.8.8. Ref.",
+        "SS 135",
+        "H.H.Milman, D.D.",
+        "Ride on in Majesty!",
+        "source hymn 155",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 155."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaamc pat tho, hymdaic chingkhiuh",
+        "titleRongmei": "Kaamc pat tho, hymdaic chingkhiuh",
+        "titleEnglish": "Ride on in Majesty!"
+      }
+    }
+  }
+}

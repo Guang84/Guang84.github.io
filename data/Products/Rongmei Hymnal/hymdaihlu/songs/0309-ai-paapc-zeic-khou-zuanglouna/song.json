@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0309",
+    "number": 309,
+    "source": {
+      "printedNumber": 309,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "James Rowe",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "7.6.D.7.6.7.4. Ref.",
+      "tune": "3 Alex 379"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai paapc zeic khou zuanglouna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai paapc zeic khou zuanglouna,",
+            "Thau dat ngam mak khwan e;",
+            "Apaap khang lungh kabiuna,",
+            "Zianlou khang huay khwan e;",
+            "Ai ngam makna huaymei khwan",
+            "Duipuipouc #^7 chulou;",
+            "Khrista #^7 zay thaulouna,",
+            "Ai ringc dat the.",
+            "",
+            "Zianpui zaeng #^7, zay thaulou e;",
+            "Khrista #^7 ata zianna zay thaulou e;",
+            "Zianpui zaeng #^7, zay thaulou e;",
+            "Khrista #^7 ata zianna zay thaulou e.",
+            "",
+            "2 Theic nuhmei bumaengc guayle,",
+            "Jisu gaeklou ngam e;",
+            "Nang ta zay thaulou puni,",
+            "Dui kamuatcmei khou #^7;",
+            "Kamei duidai Kaipouc e,",
+            "Dui #^7 Kalat piu e;",
+            "Kamei gulou nii bam the,",
+            "Aseic guang tho!",
+            "",
+            "3 Dui kamuatc kumc ryanra khou,",
+            "Ai ngam mak bam pwkhou;",
+            "Kamei abaanc zaylouna,",
+            "Kamei suaihiamlou e;",
+            "Pingpui tuang guay tii ’maanna,",
+            "Alung tiikwnlou e;",
+            "Kalat piumei guay ta zaeng",
+            "Tii ’thaekclou e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Love Lifted Me!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "6/8",
+        "7.6.D.7.6.7.4. Ref.",
+        "3 Alex 379",
+        "James Rowe",
+        "ZIANPUI ZAENG RUI ZAY THAULOU E",
+        "Love Lifted Me!",
+        "source hymn 309",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 309."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai paapc zeic khou zuanglouna",
+        "titleRongmei": "Ai paapc zeic khou zuanglouna",
+        "titleEnglish": "Love Lifted Me!"
+      }
+    }
+  }
+}

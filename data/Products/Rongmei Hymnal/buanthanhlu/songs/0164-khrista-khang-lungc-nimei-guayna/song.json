@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-164",
+    "number": 164,
+    "source": {
+      "printedNumber": 164,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khrista Khang Lungc Nimei 'Guayna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          164 Khrista khang Lungc Nimei guayna",
+            "                               8.8.10.8. Ref. 7. 6. 8",
+            "",
+            "          1. Khrista khang lungc nimei guayna",
+            "             Kapanty hei tiipat la tho;",
+            "             Zipri bammei bumaengc ta 'chyangthao khang,",
+            "             Bumaengh pumtan tiikeylou o.",
+            "",
+            "                  Zipna bammei bumaengc guay,",
+            "                  Ryanraa khaengv bam ni cho?",
+            "                  He Kaipouc, pumtan tilou o.",
+            "",
+            "          2. Khrista khang meic khatsihnic maek,",
+            "             Kakhourui tat duc haihhai tat the.",
+            "             Zingh khou bammei bumaengc guay ta zauc lo,",
+            "             Bumaengh pumtan rau khithkhit the.",
+            "",
+            "          3. Theicna bammei bumaengc guay ta,",
+            "             'Ai phungcguang ngammak gethei mu,",
+            "             Ai neihlaa ngam lak ge, he Poubauhmei,",
+            "             Nang guangcdic khou guangpui nungc kiu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khrista Khang Lungc Nimei 'Guayna"
+      }
+    }
+  }
+}

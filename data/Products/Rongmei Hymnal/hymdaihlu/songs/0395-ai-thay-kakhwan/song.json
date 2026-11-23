@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0395",
+    "number": 395,
+    "source": {
+      "printedNumber": 395,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. J. Oatman",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "SS 861"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai thay kakhwan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu ta ai how mak sihni,",
+            "Kata ai laalou rap khou ?|7",
+            "Ata Kamei kachuc bam e;",
+            "Kakhwan thay e, Pou ta thuanc o!",
+            "",
+            "Ai thay Kakhwan ..",
+            "aKaipouc khwan,",
+            "Mi ?|7 alung .. tiineihlaalou,",
+            "Kamei ata .. kachuc pwkhou,",
+            "Pou ta thuanc e!",
+            "Kakhwan thay e!",
+            "",
+            "2 Kalwnliak ai how mak sihni,",
+            "Ai Kakhwan chu tanh tan bam e;",
+            "Dui kamuatcmei tii’thaekclou e,",
+            "’Niw khou chuzaenghmei tiilou e.",
+            "",
+            "3 ’Chumhmei, ’zihmei lam saalou e,",
+            "Howmei paengc thangc",
+            "neihlaamei lam;",
+            "Zianmei, chuzaenghmei lam saa e,",
+            "Tingkauh kai lam akhou saa e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I know His Voice",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.8.8.8. Ref.",
+        "SS 861",
+        "Rev. J. Oatman",
+        "Jisu ta ai how mak sihni",
+        "I know His Voice",
+        "source hymn 395",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 395."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai thay kakhwan",
+        "titleRongmei": "Ai thay kakhwan",
+        "titleEnglish": "I know His Voice"
+      }
+    }
+  }
+}

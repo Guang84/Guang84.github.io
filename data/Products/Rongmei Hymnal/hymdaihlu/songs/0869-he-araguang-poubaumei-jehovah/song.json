@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0869",
+    "number": 869,
+    "source": {
+      "printedNumber": 869,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.10.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He araguang poubaumei Jehovah",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He Araguang pubaumei Jehovah,",
+            "Seitan %&6 ata kanglou bam khou hei;",
+            "Nang njianloumei nang lat pan khou %&6,",
+            "Thuak pat lou the tuna guang salou o.",
+            "Nang %&6 njianmei lat kang hei,",
+            "Alung %&6 mu lakge poubaumei;",
+            "Tingkauh le kandihmei nun %&6.",
+            "",
+            "2. He pubaumei nang suiahiam daimei ta,",
+            "Jat kathui %&6 nthuknga ning bam diu;",
+            "Alau kumma kapma huai bam khou hei,",
+            "Nang ramgai tei akhou naguang lou o.",
+            "He Jisu hei akhang ethei,",
+            "Baimei kahao nicho poubaumei;",
+            "Kagan thui akhange Jisu.",
+            "",
+            "3. Tingkum chinghching neilamei phu jaoki,",
+            "Ariu makge jingmei bam rana de;",
+            "Kandih neilamei le tikgun daimei,",
+            "Phu tou sini kagan tingsang mak ge.",
+            "Akhang mu Jisu nang na de,",
+            "Tingkum machang khang gai nbu hai hai,",
+            "Kauh le dih khou kungliangmei e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "10.10.10.10.",
+        "He araguang poubaumei Jehovah",
+        "source hymn 139",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 139."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He araguang poubaumei Jehovah",
+        "titleRongmei": "He araguang poubaumei Jehovah"
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0699",
+    "number": 699,
+    "source": {
+      "printedNumber": 699,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Earl Marlatt",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "HLC 383"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nangniw ngam dai ? Kaipouc thanv e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Nangniw ngam dai?” Kaipouc thanv e,",
+            "“Ai lev thaengcluai ’chamc diw cho?”",
+            "“N-guai,” twna ziap nunc daw e,",
+            "“Theihpui nganv Nang thei lay ni.”",
+            "",
+            "“Kaipouc, ’niw ngam e,” ’niw hei Nang tuang de;",
+            "Nang ta luihmei khou duanc chuylou tho;",
+            "Nang zawpaanv riw ^&5 ’niw ta zaylou o,",
+            "Baucna, biangpiuna Ravguangc khang lungc diu khang.",
+            "",
+            "2 “Nangniw ngam dai?” ningtow dai cho,",
+            "Kaihouhmeipu ^&5 huay khou,",
+            "Kuakloumei kamei laa towna",
+            "Paradais thangc tat kanmei?",
+            "",
+            "3 “Nang nic ngam dai?” zinghmei lym ^&5",
+            "Nang daeng zingc guang pw sihni,",
+            "Ravguangc khou na nang ngangvlouna",
+            "Nang panty katpat diw cho?",
+            "",
+            "4 “Nangniw ngam dai?”",
+            "Kaipouc ’taw nganv",
+            "Tingsaengzaeng thanvna bam e;",
+            "Galili khou kumc ’seic nganvna",
+            "Dihmei nunc ^&5 daw bam e:"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“Are Ye Able?” Said the Master",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "HLC 383",
+        "Earl Marlatt",
+        "“Are Ye Able?” Said the Master",
+        "source hymn 699",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 699."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nangniw ngam dai ? Kaipouc thanv e",
+        "titleRongmei": "Nangniw ngam dai ? Kaipouc thanv e",
+        "titleEnglish": "“Are Ye Able?” Said the Master"
+      }
+    }
+  }
+}

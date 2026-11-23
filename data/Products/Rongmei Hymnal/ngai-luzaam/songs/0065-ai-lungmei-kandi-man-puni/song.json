@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-065",
+    "number": 65,
+    "source": {
+      "printedNumber": 65,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.9.5.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai lungmei kandi man puni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai lung mei kan dih man puni,",
+            "He! Tabui nung rui man ni cho?",
+            "Tingkao than mei nun le Raguang jao",
+            "Hou khang khuan ngam mak.",
+            "",
+            "Jerusalem zikdui,",
+            "Ravguangc rui ryanra khaeng mei tei;",
+            "Sieng ding thing rukhou zaithau lana",
+            "Pap khang khaengh lou the.",
+            "",
+            "2. Khaeng lou mei tei ai ning ngam mak ,",
+            "Ata zian lou mei laoziu nah,",
+            "Bathlehem namdai khou puan mei tei,",
+            "Ravguangc nah tei e.",
+            "",
+            "3. Poubaomei ta ai ning ngam mak ,",
+            "Kalvary khou khaeng lou mei tei;",
+            "Adi rianra khuan ni Poubaomei,",
+            "Muang rui sa ngam mak.",
+            "",
+            "4. Ai rui muh lak khe Poubaomei ,",
+            "Akhang rui rian ra loumei tei;",
+            "Ai rui theihmei ngan na ning bam ni,",
+            "Guloumei pu ta."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 65",
+        "Khristian Luzaam PDF",
+        "Chord: E",
+        "Meta 3: 8.8.9.5."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 65. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 65,
+        "match": "title-match-0.95"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai lungmei kandi man puni",
+        "titleRongmei": "Ai lungmei kandi man puni"
+      }
+    }
+  }
+}

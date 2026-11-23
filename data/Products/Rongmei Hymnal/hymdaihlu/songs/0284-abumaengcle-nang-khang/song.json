@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0284",
+    "number": 284,
+    "source": {
+      "printedNumber": 284,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "EL Nathan",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.6.10.6. Ref.",
+      "tune": "SS 474"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Abumaengcle nang khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Abumaengcle, nang khang",
+            "Guloumeipu,",
+            "Nsa tiilou bam the;",
+            "He Pou, ’taw hei alung ding rap ni the,",
+            "Nang ta ai laa ni the.",
+            "",
+            "Ai ding ni the!",
+            "He Pou, ai Nang tuang sw ni the,",
+            "Nang ’khavlouna!",
+            "Kunghmei Nang zei @{4 ata liulou the,",
+            "Ai hei Nang tuang di the!",
+            "",
+            "2 Zauzian paan ai ’taw Nang zauzian laa ni,",
+            "Nang ramzian @{4 ngam the:",
+            "He Pou Khrista, Nang khou ai lwm ni the,",
+            "Nang khou na lwm ni the.",
+            "",
+            "3 Ai adih ’suan, Poubauhmei, Nang thay e,",
+            "Chaeng maanv pingmei thay e;",
+            "Siamruai sw khang Nang khou pumtan ney e,",
+            "Nang na de tiingammei!",
+            "",
+            "4 He Pou, ’niw lev bam ’chamcmei nunc khou nic",
+            "Nang zauzian tiilou o;",
+            "Lungsyng thangc @{4 ’niw lev suan ’chamc nuh khang",
+            "“Ai Khrista tuang sw ni!”"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“I Will”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "10.6.10.6. Ref.",
+        "SS 474",
+        "EL Nathan",
+        "AI DING NI THE",
+        "“I Will”",
+        "source hymn 284",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 284."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Abumaengcle nang khang",
+        "titleRongmei": "Abumaengcle nang khang",
+        "titleEnglish": "“I Will”"
+      }
+    }
+  }
+}

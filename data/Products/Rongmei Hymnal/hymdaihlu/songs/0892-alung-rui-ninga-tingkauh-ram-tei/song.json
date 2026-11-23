@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0892",
+    "number": 892,
+    "source": {
+      "printedNumber": 892,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.9.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Alung rui ninga tingkauh ram tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Alung )_3 ninga tingkauh ram tei,",
+            "Tabui nung ai guangtang nina cho?",
+            "Njianmei guai ntam kanmei guai;",
+            "Miram khou tei souriu dat puni.",
+            "",
+            "Chorus:",
+            "He Raguang nang tingsangjang ramgai,",
+            "Jai guang lou dat ro;",
+            "Tabui nung )_3 khou tei ai guangtang",
+            "Ni na cho?",
+            "He Raguang kandih khou rianramei",
+            "Nahnun guai.",
+            "",
+            "2. Tingkauh chang njuan na tat bam khou,",
+            "Chang din lou o he Raguang Jisu;",
+            "Nang ramgai tei aniu hou ni e,",
+            "Tabui nung )_3 guangtang nina cho?",
+            "",
+            "3. Kandih khou ntam kanmei jianmei,",
+            "Tabui nung )_3 ariu dat ni cho?",
+            "Nang ramgaitei guangtang puinung kiu,",
+            "Neilana prira cham dat ni.",
+            "",
+            "",
+            "Favourite song: R. Daniel"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "9.9.9.9.",
+        "Alung rui ninga tingkauh ram tei",
+        "source hymn 162",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 162."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Alung rui ninga tingkauh ram tei",
+        "titleRongmei": "Alung rui ninga tingkauh ram tei"
+      }
+    }
+  }
+}

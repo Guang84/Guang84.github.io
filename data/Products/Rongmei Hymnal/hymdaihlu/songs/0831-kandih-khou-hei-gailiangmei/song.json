@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0831",
+    "number": 831,
+    "source": {
+      "printedNumber": 831,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "12.13.7.12.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou hei gailiangmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih khou hei gailiangmei poubaumei Jisu,",
+            "Tingkauh kaguang bam lou duna rianra khang e;",
+            "Rianramei tei thai sini,",
+            "Thei khang tei ping makge poubaumei Jisu.",
+            "",
+            "Chorus:",
+            "Gai pui tingmik (3),",
+            "Poubaumei puan ne.",
+            "",
+            "2. Nthanmei bangpui khou!@9 puanne Jisu tei,",
+            "Kandihmei lun kumma ngana suna puan the;",
+            "Bethlehem kailuang lakhou,",
+            "Khoutei poubaumei puanne mansei lun phunga.",
+            "",
+            "3. Raguang !@9 kana ndiu louna jao bamme,",
+            "Papbang nun guai !@9 kanloumei bam lakhang tei !@9;",
+            "Bumang thanmei la khang tei,",
+            "Kandihmei pap phung lou khang ndiu keilou the.",
+            "",
+            "4. Kagan kathui kanpat pui bam lakhang lat din lou,",
+            "Kross rukhou rianra khanga kajei keilou kanthe;",
+            "Tarou khou neithum jipma,",
+            "Kapu bam khou bamdat khang tingkauh kukan the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "12.13.7.12.",
+        "Kandih khou hei gailiangmei",
+        "source hymn 101",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 101."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou hei gailiangmei",
+        "titleRongmei": "Kandih khou hei gailiangmei"
+      }
+    }
+  }
+}

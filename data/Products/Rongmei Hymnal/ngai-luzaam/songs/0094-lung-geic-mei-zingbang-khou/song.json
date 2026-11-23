@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-094",
+    "number": 94,
+    "source": {
+      "printedNumber": 94,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "6.5.12.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lung geic mei zingbang khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Lung geic mei zingbang khou,",
+            "Guangh daihmei Jisu rui;",
+            "Mi hei azanh e, azei hei tu-zangmei rui,",
+            "Ata ning taan mak khang.",
+            "",
+            "Poubaomei lani mak,",
+            "Zion pi lung khou tei;",
+            "Khalou nimei makna,",
+            "Siangding thing khou dup the.",
+            "",
+            "2. Zau lo, hei khou tei rui,",
+            "Tatpat kan puni the;",
+            "Nkhuaimei khang phulou,",
+            "Poubaomei thanmei ta",
+            "Rianra mei khou zailou.",
+            "",
+            "3. Latzan tei luai lana,",
+            "Kalvary ching thang tei,",
+            "Amuh daihmei nun le",
+            "Rihmei bui sinmei le",
+            "Poubaomei ta zai tat.",
+            "",
+            "4. Nzaeng mei Poubaomei,",
+            "Rianra mei Kros phunga,",
+            "Houmu nun rui zaina,",
+            "Kalvary zuanna tat",
+            "Khalou mei makna tat."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 94",
+        "Khristian Luzaam PDF",
+        "Chord: A",
+        "Meta 3: 6.5.12.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 94. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 94,
+        "match": "title-match-0.91"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lung geic mei zingbang khou",
+        "titleRongmei": "Lung geic mei zingbang khou"
+      }
+    }
+  }
+}

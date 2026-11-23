@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0474",
+    "number": 474,
+    "source": {
+      "printedNumber": 474,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Luther B. Bridgers",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.7.9.7. Ref.",
+      "tune": "SSSH 203"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Alungsyng thangc neihlaa lu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Alungsyng thangc neihlaa lu khwan nai,",
+            "Jisu akhou saalou e:",
+            "“Ping riu, Ai nang lev lamluai bam e,”",
+            "Panty chaenglwan kathuic khou.",
+            "",
+            "Jisu, Jisu, Jisu,",
+            "Kungc liangmei zanc e,",
+            "Kahaw tuang guay tiilou,",
+            "Ata lu tiisuanlou e.",
+            "",
+            "2 Kazauzian daihmei ai laa towna,",
+            "Kaswkaeng khou zaeng ’thaekcna,",
+            "Kazawpaanv ta mating tanv bam e,",
+            "Hei zaeng @<4 ai suan tuang e.",
+            "",
+            "3 ’Thukmei dui khou tiitatlou sihni,",
+            "’Chanvmei ’peyna ’riw sihni,",
+            "Ramvrungh sii, chaengnganv sii kumc sihni",
+            "Kaphaypav maengc how bam e.",
+            "",
+            "4 Key nuangc puni the, ata laa khang,",
+            "Tingpuk paengc thangc phungc ku khang;",
+            "Thay makmei dic thangc samc ku puni,",
+            "Kamei lev lungc ’chamc puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "He Keeps Me Singing",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "9.7.9.7. Ref.",
+        "SSSH 203",
+        "Luther B. Bridgers",
+        "ATA LU TIISUANLOU E",
+        "He Keeps Me Singing",
+        "source hymn 474",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 474."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Alungsyng thangc neihlaa lu",
+        "titleRongmei": "Alungsyng thangc neihlaa lu",
+        "titleEnglish": "He Keeps Me Singing"
+      }
+    }
+  }
+}

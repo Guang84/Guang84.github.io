@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-216",
+    "number": 216,
+    "source": {
+      "printedNumber": 216,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc rui aniu ta nzian na",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ravguangc rui aniu ta nzian na kao bam",
+            "Aniu kataan taan na bam diu khang",
+            "Chulou o nang nzian mei guaita",
+            "Aniu rui nang ta ning na kalum e.",
+            "",
+            "He Ravguangc nang him charin ne",
+            "Nang mei nun rui nang ta kaobam e;",
+            "Chulou o nang nzian mei guay ta,",
+            "Tingsaeng ting saeng na nang ta kalum e.",
+            "",
+            "2. Ping lou rio, nzian mei champan guay thiu le,",
+            "Taan o, huainei o, khalou puni;",
+            "Zingh mei kandih khou niu bam saan khou,",
+            "Nkha lou diu khang ning na kalum e.",
+            "",
+            "3. Nang nzian mei aniu chabuan kin guai ta",
+            "Nkhalou diu khang ning na khuan bam",
+            "Tingzin gaan kum e, niu panty hei;",
+            "Tat kanmei ganv tei nga lan dat lak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 216",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 216. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc rui aniu ta nzian na",
+        "titleRongmei": "Ravguangc rui aniu ta nzian na"
+      }
+    }
+  }
+}

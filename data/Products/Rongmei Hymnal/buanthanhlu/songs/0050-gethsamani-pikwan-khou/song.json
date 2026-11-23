@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-050",
+    "number": 50,
+    "source": {
+      "printedNumber": 50,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gethsamani Pikwan khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          50          Gethsamani Pikwan khou",
+            "                      15.15.15. 15. Ref. 5.5. 10. 10. 10.5",
+            "          Doh hei D",
+            "",
+            "          1. Gethsamani pikwan khou Jisu rui huayneypui ganv khou,",
+            "             Zauczihmei rihmei guay rui guang lana kata nym kan the.",
+            "             Baanh khou riang rui bangclouna Jisu ta zayna tat kan the.",
+            "",
+            "                  O, ryanraa dyng e! (2)",
+            "                  Kakhuay khat sihnic maekmei Jisu tei! (2)",
+            "                  Saa ngam makmei ram ryanraa akhaengvna,",
+            "                  Cross khou theiclou the!",
+            "",
+            "          2. Poubauhmei ta siina rairiu lana cross khou swluai the.",
+            "             He \"daic liangmei Jihudimei Guangc le,\" twna saa bam e.",
+            "             Kaphay Kabaanc kaguay ntanh sauc rui hianna swluai the.",
+            "",
+            "          3. Poubauhmei tuang ryanraa ryanriumei tei aniw khangrui e.",
+            "             Aniw Kata tingmik kathuih amuclou ngam nina cho?",
+            "             Ryanraa ryanriu khaegvmei kaguayna hei aniw khangrui e.",
+            "",
+            "          4. Poubauhmei rui ryanraa langvpui zaengrui",
+            "                                            kros ruc khou kaucna,",
+            "             Meic kaguayna rui lungning ryanraana kap nic kaplou the.",
+            "             Kata swluaimei nunc tei neihlaamei rui saa ngammak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gethsamani Pikwan khou"
+      }
+    }
+  }
+}

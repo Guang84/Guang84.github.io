@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0645",
+    "number": 645,
+    "source": {
+      "printedNumber": 645,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Ira. D.Sankey.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.9.10.9. Ref.",
+      "tune": "SS 912"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KADUAI NI KAI KHOU TEI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Lauthwan kiu kai thangc ’niu sowriw ni cho,",
+            "Kangranmei duipui paengc gaymei khou,",
+            "Zianmei nunc ’khwan saengcna bampui bamv khou?",
+            "Adih ch’rynmei ramkaduai ni cho!",
+            "",
+            "Kaduai ni! .. kai khou 5^&!",
+            "Kangranmei duipui paengcgaymei khou!",
+            "Kaduai ni! .. kai khou 5^&!",
+            "Zianmei guay lev tingsaeng lungc ’chamc khang!",
+            "",
+            "2 Lauthwan kiu kai thangc ’niu sowriw ni cho?",
+            "Ryanramei khou ^&5 duak suang ni cho?",
+            "Thuakloumei nunc lev lay suan ’chamc ni cho?",
+            "Adih ch’rynmei ramkaduai ni cho!",
+            "",
+            "3 Lauthwan kiu kai thangc ’niu sowriw ni cho?",
+            "Thuakloumeipu ta sowriw ni cho?",
+            "Zianmei nunc lev ’niu khat khat thay ni cho?",
+            "Adih ch’rynmei ramkaduai ni cho!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "10.9.10.9. Ref.",
+        "SS 912",
+        "Ira. D.Sankey.",
+        "Lauthwan kiu kai thangc ’niu",
+        "Gathered Home",
+        "source hymn 645",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 645."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KADUAI NI KAI KHOU TEI",
+        "titleRongmei": "KADUAI NI KAI KHOU TEI"
+      }
+    }
+  }
+}

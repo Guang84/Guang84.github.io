@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-041",
+    "number": 41,
+    "source": {
+      "printedNumber": 41,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "14.12.10.11.",
+      "tune": "Mk. 14:32-36"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Getsamani pikuan khou jisu rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Getsemani pikuan khou jisu rui kalum bam khou,",
+            "Meiguai guang kariuna poubaomei ta nim the;",
+            "Karu khou tei lat nzan thai mak na",
+            "Kandih guang daimei rui thei khang salou e.",
+            "",
+            "Rianra mei muang zing ]2",
+            "Kalvary chingru khou Poubaomei ta su luai;",
+            "Sao pirun le siang lou pui thing ru khou,",
+            "Dup loupui bam thai makge Poubaomei rui.",
+            "",
+            "2. He! Simon Peter le latdiu lungh rianra guai thau o,",
+            "Poubaomei ta zai the thei nipui bam tangh khang;",
+            "Kandi khou keimei tingkao Guangh daihmei,",
+            "Rianra bam khou nkhalou nimei makge.",
+            "",
+            "3. Tingkao lev kandih khou gaipui latcham lou meipu ta;",
+            "Suluai nina cho nangniu zion naa guai le;",
+            "Kamei gaipui tingmik tei muna cho?",
+            "Nangniu ringpui tuang e, nangniu ringkhang e,",
+            "",
+            "4. He! Seraphim guai le tingkao latdiu nun guai zaulo.",
+            "Nkhalou mei makna rianramei guangh jisu .",
+            "Meinun guai paap phung na rianra bamkhou,",
+            "Kalungh ryanra na kaputa kaubam e.",
+            "",
+            "5. Zao ngam makge pou rui Jordan duipaeng",
+            "Kanpat nimei, kazaeng mak na kapi ,",
+            "bumkeilou kan ding the,",
+            "Paap lev rihta ngam na Jordan duikan the.",
+            "Poubaomei ta zai the thei pui bam tangkhang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 41",
+        "Khristian Luzaam PDF",
+        "Chord: D",
+        "Meta 3: 14.12.10.11.",
+        "Meta 4: Mk. 14:32-36"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 41. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 41,
+        "match": "title-match-0.92"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Getsamani pikuan khou jisu rui",
+        "titleRongmei": "Getsamani pikuan khou jisu rui"
+      }
+    }
+  }
+}

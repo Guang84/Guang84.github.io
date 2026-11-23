@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-152",
+    "number": 152,
+    "source": {
+      "printedNumber": 152,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Rianra puiram zingpui kandih",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Rianra pui ram zing pui kandi khou hei,",
+            "He! Jisu rianra khang ping mak nga;",
+            "He! Gaipui ram tei mpat lou na ,",
+            "He! Kandimei nun khang khanglou kan the.",
+            "",
+            "He ! kalvary ching khou,",
+            "Kazei keina ryanra khaeng mei,",
+            "Kazei man ne aniu pap khou rui kanlou mei.",
+            "He nthuk pui zei luang mei tei lum mei guai rui,",
+            "Kanpat mei ram khou guang tang ni the.",
+            "",
+            "2. Thuk pui tingmik pat khang khuan bam lana",
+            "Thukpui sao pirun tei run lou na;",
+            "Kamei thei nimei kros puan lana;",
+            "He! Kalvary ching thang tei tat kan the.",
+            "",
+            "3. Kanloumeipu theimei ching rukhou tei,",
+            "Meiguai guang kariuna zau bam e,",
+            "He nzian mei guai kapma huai e,",
+            "He kandi mei ta ping nga sa ngam mak.",
+            "",
+            "4. Kros khou khang loumei ta zao ngam makge,",
+            "Kanloumei mak nga boukei kan the ;",
+            "He simon peter nthei kan the ,",
+            "He juda ban khou tei tilou kan the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 152",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 152. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Rianra puiram zingpui kandih",
+        "titleRongmei": "Rianra puiram zingpui kandih"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-221",
+    "number": 221,
+    "source": {
+      "printedNumber": 221,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nzianmei guay Kandih Tingmik",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          221 Nzianmei guay Kandih Tingmik",
+            "                                11.11. 12. Ref. 6. 9",
+            "          Doh hei G",
+            "",
+            "          1. Nzianmei guay kandih tingmik 'naaguang the.",
+            "             Nang Chamdaanv bam the cho tingkauh tat khangtei?",
+            "             Aniw ta keylaa nimei ganv tei thay mak ge.",
+            "",
+            "                  Guang o, Akhou guang o, (2)",
+            "                  'Chu nzaenghmei khwan rui kaw bam e.",
+            "",
+            "          2. Bible khou heicpui lat hei nic hylou the",
+            "             Azaeng khourui nangniw ta zauczih pwni.",
+            "             Tingsaeng zaengna lwmloumei guay rui ringc pwni.",
+            "",
+            "          3. Aniw ta tarou ruina nzwan tat bam e,",
+            "             Nang chamdaanv bam the cho tingkauh tat khangtei?",
+            "             Latzan sw nimei tingmik tei meic thay mak ge.",
+            "",
+            "          4. Ntaw nic nang kumh bam dat ni hena cho?",
+            "             Karamc kailuangc kathanc khoutei gut khangrui,",
+            "             Kaniw pangc khoutei nang tatpat la tho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nzianmei guay Kandih Tingmik"
+      }
+    }
+  }
+}

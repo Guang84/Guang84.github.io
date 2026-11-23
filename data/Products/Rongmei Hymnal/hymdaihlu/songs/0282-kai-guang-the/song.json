@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0282",
+    "number": 282,
+    "source": {
+      "printedNumber": 282,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. A.H.Ackley",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.9.9.5. Ref.",
+      "tune": "3 Alex. 396"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KAI GUANG THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Paapc lev siimei lung padik sihni,",
+            "Poubauhmei, Nang khou lwmna guang e,",
+            "Nang khou sw ’than patlou khang ngamv nai:",
+            "Kai khou ai guang the.",
+            "",
+            "Kai guang the, kai guang the,",
+            "Paapc chaeng khou ai maeng",
+            "tat bam saengc lak khe,",
+            "Ai kai guang the, kai guang the,",
+            "He Pou Jisu, ai kai guang the.",
+            "",
+            "2 Chaeng ’maanmei nac ta kapu phu kumc,",
+            "Phu e, ata Nang tazikramv khou;",
+            "Paapc }?2 sw ’phuammei ngamv maekmei e:",
+            "Kai khou ai guang the.",
+            "",
+            "3 Niamh gayna kawpui khwan ai chu e,",
+            "Hei kumhmeipu ta ai ganc ni cho?",
+            "Akhuay lev pingmei Nang laa ganc ni:",
+            "Kai khou ai guang the.",
+            "",
+            "4 Kunghmei Khrista zei luangc keymei }?2",
+            "Khiu ’thanlou o, gunh kumcna ’phwan khang;",
+            "Kaipouc, Nang khou na ai lwm ni the;",
+            "Kai khou ai guang the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Rev. A.H.Ackley",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "9.9.9.5. Ref.",
+        "3 Alex. 396",
+        "Rev. A.H.Ackley",
+        "Paapc lev siimei",
+        "Coming Home!",
+        "source hymn 282",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 282."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KAI GUANG THE",
+        "titleRongmei": "KAI GUANG THE",
+        "titleEnglish": "Rev. A.H.Ackley"
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0462",
+    "number": 462,
+    "source": {
+      "printedNumber": 462,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. C.E. Breck",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "9/8",
+      "meter": "10.9.10.9. Ref.",
+      "tune": "SS 525"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang aTaudaic e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang aTaudaic e, he",
+            "Thuakloumei pu,",
+            "Ai gutloumei bam, duppui bamv e,",
+            "Nang aTaudaic e, ata sungclou o,",
+            "Kabamv ’thuic Nang khou ai dup bam ni.",
+            "",
+            "Nang aTaudaic.. e,",
+            "He Thuakloumei pu,",
+            "’Khavloumeipu,.. zayloumei pu e,",
+            "Ai rigwnmei .. Nang e, Guloumei pu,",
+            "Nang khou lwmna .. ai dup bam ni the.",
+            "",
+            "2 Nang aTaudaic e, paapc }?2 khanv pwkhou,",
+            "’Chanvpui ganv khou ngangvloupui bamv e;",
+            "Nang aTaudaic e, alung ryanra khou,",
+            "Nang aTaudaic e, ai ping lak khe.",
+            "",
+            "3 Nang aTaudaic e, ’thiammei guang pwkhou,",
+            "Kalaic dat makmei, gaymei, Pam e;",
+            "Alung kapwm hei Nang khou ngangvlou the,",
+            "Tingsaeng lwm nuhmei ai sw diu khang.",
+            "",
+            "4 Nang aTaudaic e, guanghdic lev zaatc guay,",
+            "Guangh lev pyrun guay bow kan pwkhou,",
+            "Nang nai bam puni, he ringhbamv Taudaic,",
+            "Tingsaengc Taudaic khou ai lwm bam ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Thou art My Rock!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "9/8",
+        "10.9.10.9. Ref.",
+        "SS 525",
+        "Mrs. C.E. Breck",
+        "Thou art My Rock!",
+        "source hymn 462",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 462."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang aTaudaic e",
+        "titleRongmei": "Nang aTaudaic e",
+        "titleEnglish": "Thou art My Rock!"
+      }
+    }
+  }
+}

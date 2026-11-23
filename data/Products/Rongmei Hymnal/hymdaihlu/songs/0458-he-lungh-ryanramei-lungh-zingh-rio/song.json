@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0458",
+    "number": 458,
+    "source": {
+      "printedNumber": 458,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W.H. Bellamy",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "L.M.Ref.",
+      "tune": "SS 710"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He lungh ryanramei, lungh zingh rio",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He lungh ryanramei, lungh zingh rio,",
+            "Ryanramei paengc thangc kai nai e,",
+            "Sii key dat zat mak khe kai 2^<,",
+            "Khou 2^< lungc zihmei nai lak ge.",
+            "",
+            "’Khwan o, he tanglum-tanglai makna;",
+            "’Khwan o, he tanglum-tanglai makna!",
+            "’Khwan o, ’khwan o,",
+            "’Khwan o, tanglum makna!",
+            "",
+            "2 Nang san khou phungc nipui puat 2^<",
+            "Nritna ’bumna phungc pwkhou;",
+            "Zauc thau o, kauh kai tangc ni the;",
+            "’Khwan o, tanglum-tanglai makna!",
+            "",
+            "3 Nang chaeng khou sauhraengh",
+            "nai pwkhou,",
+            "Ning o, Katuang sauh pyrun 2^<;",
+            "Nang lung ryanramei nai pwkhou,",
+            "Ning o, nang khang",
+            "’khaengvloumei 2^<.",
+            "",
+            "4 Taancruai bam o, ryanra sihni,",
+            "Kathai laatow mak kumc sihni;",
+            "Zaengthaek tingmik pat puni the;",
+            "’Khwan o, tanglum-tanglai makna!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Wait, and Murmur Not",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "L.M.Ref.",
+        "SS 710",
+        "W.H. Bellamy",
+        "’KHWAN O, HE TANGLUM TANGLAI MAKNA",
+        "Wait, and Murmur Not",
+        "source hymn 458",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 458."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He lungh ryanramei, lungh zingh rio",
+        "titleRongmei": "He lungh ryanramei, lungh zingh rio",
+        "titleEnglish": "Wait, and Murmur Not"
+      }
+    }
+  }
+}

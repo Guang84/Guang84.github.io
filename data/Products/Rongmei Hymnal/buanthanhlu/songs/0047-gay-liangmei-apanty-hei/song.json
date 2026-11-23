@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-047",
+    "number": 47,
+    "source": {
+      "printedNumber": 47,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gay liangmei Apanty hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          47      Gay Liangmei Apanty hei",
+            "                        8.6.7.6.Ref. 10.8.6.7.6",
+            "",
+            "          1. Gay liangmei apanty hei mu,",
+            "             Maan nuangc kan pwni the;",
+            "             Kaganv rui nai bam khouhei,",
+            "             Aniw lunghlaic di kho.",
+            "",
+            "                  Guang o, tata kho, Ravguangc Jisu kai khou,",
+            "                  Ramh ningtow mak bampui ganv khou",
+            "                  Jisu guang pwni the.",
+            "                  Kaganv rui nai bam khouhei,",
+            "                  Khrista khou lwm dikho.",
+            "",
+            "          2. Tingkauh kai tei gay changh gay e,",
+            "             Gay chuymei tingkauh khou",
+            "             Ravguangc lev heic ramc khoutei.",
+            "             Aniw lev lungc chamc ni.",
+            "",
+            "          3. Ramh ningtow mak bampui ganv khou,",
+            "             Jisu guang pwni the.",
+            "             Kaganv rui nai bam khouhei,",
+            "             Aniw lunghlaic di kho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gay liangmei Apanty hei"
+      }
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0675",
+    "number": 675,
+    "source": {
+      "printedNumber": 675,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John S.B.Monsell",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.5.6.5. D. Ref.",
+      "tune": "CW 596"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KANDIH HEI PADIK THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kandih hei padik the,",
+            "Tingpuk kachan the;",
+            "Zawpaanv guay gaanc gay the,",
+            "Nzianmei riw khou;",
+            "Meic kathuic neihlaa e,",
+            "Thuanhmei padik ge,",
+            "Neihlaamei lu khwan {:1",
+            "Zingbangc kalaanv suan.",
+            "He p’riuhna tiimei pu,",
+            "Ramh guay lyamlaih the,",
+            "Lautay ramneihlaa kumc,",
+            "Nang khou neihlaa e.",
+            "",
+            "2 Neihriw lev chapuak ting,",
+            "Zikdui tiilou e;",
+            "Lauphunhswan, tinglwm khou",
+            "Tiikaluanlou e;",
+            "Chakaanv ganv gaymei khou",
+            "Napbi padik ge,",
+            "Sakbi-sakba makna",
+            "Saamh khou phungc guang e.",
+            "",
+            "3 Dih laupuk minc ngam the,",
+            "Gaanhmei neicriw {:1;",
+            "’Niu tatloupui bamv ’thuic",
+            "Gaanhmei phungc guang e;",
+            "Lautaymei thouclou o,",
+            "Minhmei lauzam khou;",
+            "Zaatc guay ta khuam guang khang,",
+            "Ringhbamv tiilou khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Earth Below Is Teeming",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "6.5.6.5. D. Ref.",
+        "CW 596",
+        "John S.B.Monsell",
+        "Earth Below Is Teeming",
+        "source hymn 675",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 675."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KANDIH HEI PADIK THE",
+        "titleRongmei": "KANDIH HEI PADIK THE",
+        "titleEnglish": "Earth Below Is Teeming"
+      }
+    }
+  }
+}

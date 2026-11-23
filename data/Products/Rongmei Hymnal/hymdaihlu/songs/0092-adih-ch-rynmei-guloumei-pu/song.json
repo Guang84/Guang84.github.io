@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0092",
+    "number": 92,
+    "source": {
+      "printedNumber": 92,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. E.A. Hoffmann",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 119"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ADIH CH’RYNMEI GULOUMEI PU",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Khrista paapc zaeng khang #<8 theiclou,",
+            "Adih ch’rynmei Gumeipu!",
+            "Karan tiina ’niu ta ranclou;",
+            "Adih ch’rynmei Gumeipu!",
+            "",
+            "Adih ch’rynmei Guloumeipu cho, aKaipouc hei!",
+            "Adih ch’rynmei Guloumeipu cho, Kaipouc hei!",
+            "",
+            "2 Khiuloumei zei zaeng ai thuanc e,",
+            "Adih ch’rynmei Gumeipu!",
+            "Ravguangc khou guat tiiswlou the;",
+            "Adih ch’rynmei Gumeipu!",
+            "",
+            "3 Kamei #<8 apaap sw ’thanlou,",
+            "Adih ch’rynmei Gumeipu!",
+            "Kamei alung khou guanghtu bam;",
+            "Adih ch’rynmei Gumeipu!",
+            "",
+            "4 Kamei adaeng khou lwan tat bam,",
+            "Adih ch’rynmei Gumeipu!",
+            "Tingmik ’thuic Kalat tiipiulou;",
+            "Adih ch’rynmei Gumeipu!",
+            "",
+            "5 Kamei akhang pumtan tiilou,",
+            "Adih ch’rynmei Gumeipu!",
+            "Nchanvpui sik ngam khang ’khavlou;",
+            "Adih ch’rynmei Gumeipu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "What a Wonderful Saviour!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "SS 119",
+        "Rev. E.A. Hoffmann",
+        "Khrista paapc zaeng khang rui",
+        "What a Wonderful Saviour!",
+        "source hymn 92",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 92."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ADIH CH’RYNMEI GULOUMEI PU",
+        "titleRongmei": "ADIH CH’RYNMEI GULOUMEI PU",
+        "titleEnglish": "What a Wonderful Saviour!"
+      }
+    }
+  }
+}

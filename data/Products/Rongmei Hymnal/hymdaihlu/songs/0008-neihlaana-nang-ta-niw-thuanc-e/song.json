@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0008",
+    "number": 8,
+    "source": {
+      "printedNumber": 8,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Henry Van Dyke.",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. D",
+      "tune": "CW 95"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neihlaana Nang ta ’niw thuanc e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neihlaana Nang ta ’niw thuanc e,",
+            "Zianmei hymdaihmei Racguangc;",
+            "Neihriw khou mwn puangc pat kumcna",
+            "Nang khou ’niw lung laanclou e;",
+            "Paapc tuang siimei tii’maanlou o,",
+            "Lwmsiimei tii ’maanlou o;",
+            "Neihlaa taek makmei tiimeipu,",
+            "’Niw khou gaanhmei tiilou o.",
+            "",
+            "2 Tingpuk, kandih Nang baansyam !}2",
+            "Nang hym daihmei lyanlou e;",
+            "Baanch’ra lev gaanchuangcna guay !}2",
+            "Nang ta bwanna thuanc bam e;",
+            "Laupuk, nwmding, luangh, ’zaengc guay !}2,",
+            "Duipuak lev duipui guay !}2,",
+            "Mwnding ’zaengc lev ’ruayna guay !}2",
+            "’Niw ta kaw Nang ta thuanh khang.",
+            "",
+            "3 Nang !}2 tiilou e, kuaklou e,",
+            "Nganv makmei suaihiam tiilou;",
+            "Ringhmei khang neihlaa duipuak ge,",
+            "Zaeng ’thaekcloupui bamv Nang e;",
+            "Pu Nang e, chana Khrista e,",
+            "Zianthaymei guay Nang mei e;",
+            "’Chamlou o, khat khat ta zian khang,",
+            "Kauh neihlaa khou zaylou o.",
+            "",
+            "4 Lauthwan gaanphiu guay lu khou 2^<,",
+            "He maansei guay laylou o;",
+            "Pu ramzian ’niu ruc khou nai e,",
+            "Chana ramzian !}2 banglou ;",
+            "Lu suanna ’niu hu thangc gut kho,",
+            "Rih ngammei swna gut kho;",
+            "Neihlaapui lu !}2 zaylouna,",
+            "Ringhmei rih ngam lu suanna."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Joyful, Joyful, We Adore Thee",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.7.8.7. D",
+        "CW 95",
+        "Henry Van Dyke.",
+        "Joyful, Joyful, We Adore Thee",
+        "source hymn 8",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 8."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neihlaana Nang ta ’niw thuanc e",
+        "titleRongmei": "Neihlaana Nang ta ’niw thuanc e",
+        "titleEnglish": "Joyful, Joyful, We Adore Thee"
+      }
+    }
+  }
+}

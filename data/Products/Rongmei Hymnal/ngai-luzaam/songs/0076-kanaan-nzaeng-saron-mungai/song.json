@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-076",
+    "number": 76,
+    "source": {
+      "printedNumber": 76,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kanaan nzaeng Saron mungai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kanaan nzaeng Saron mungai,",
+            "Rommei nun ruina subaolou na",
+            "Kandi hei zing the Saron baolou khou rui;",
+            "Gumliammei makna puina nun ni rianra,",
+            "Rim gaimei Saron mun baolou khou rui.",
+            "",
+            "2. Saron mun gai baolou khou rui,",
+            "Kakhou lung rianra loumei nun khou,",
+            "Lily rui puanglou ka niu lungh zinghmei khou;",
+            "Kaniu rukhou laokhuan gaanphiu rui gaanguang,",
+            "Kaniu bam neihlamei mundiu rim lik.",
+            "",
+            "3. Saron munpuang gaanguang datro,",
+            "Zeliangrong kandi zinghmei khou hei;",
+            "Muang rui zing e nangpuan gaimei suliam khang,",
+            "Neih rui patna nang puan gaimei ndauh o,",
+            "Kandimei rui Nang ramgai tei hou khang.",
+            "",
+            "4. Kanaan nzaeng Saron mun gai,",
+            "Zeliangrong kandi khou guang datro,",
+            "Mbaan thaini the nangbangh nun guai ruin a",
+            "Ninga nangta phang the kandihmei nun rui,",
+            "Zeliangrong guai ruini neihlani the.",
+            "",
+            "5. He! Saron munta houni the,",
+            "Tingkao kandi thu puangmei mun tei,",
+            "Siangloumei thingru khou baulou kanmei tei",
+            "Tingkao tikgun khou baulou kanmei tei",
+            "Tingkao tikgun phunga ringthau dat khou rui,",
+            "Houmuh mei paapta rih sutan puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 76",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 76. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kanaan nzaeng Saron mungai",
+        "titleRongmei": "Kanaan nzaeng Saron mungai"
+      }
+    }
+  }
+}

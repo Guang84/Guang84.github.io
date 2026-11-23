@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0324",
+    "number": 324,
+    "source": {
+      "printedNumber": 324,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.C. Green",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D. Ref.",
+      "tune": "SS 858"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KAKHOU AI NTHUIH THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Khrista khou zianmei padik,",
+            "Thuakloumei zauzian nai;",
+            "Tingmik ’thuic khang Manna nai,",
+            "Akhang duppuibamv nai,",
+            "Tiikariuloumei nai e,",
+            "Kakhou ringcsuangmei nai;",
+            "Padikmei ringcbamv nai e,",
+            "Kakhou chuzaenghmei nai.",
+            "",
+            "Kakhou! .. Kakhou!",
+            "Kasiamruai taanv khou",
+            "suaihiam padik nai e;",
+            "Kakhou! .. Kakhou!",
+            "Kakhou ai nthuih the!",
+            "",
+            "2 Kakhou ai zaeng ’thaekc bam e;",
+            "Kamei ^&8 tiilou e,",
+            "Tingmik tingmik khang biuhmei;",
+            "Lungning, pumtan guay 8^&,",
+            "Neihlaana thuanhmei chwn ^&8",
+            "Alung tiipadiklou;",
+            "Kasuaihiam chak bam sihni",
+            "Paekri sic rac ngam mak.",
+            "",
+            "3 He Jisu neih khat Nang ta",
+            "Zaw lev zaw how pwkhou,",
+            "Nang ta aniw luic pwkhou,",
+            "Adih gay diangc ni cho!",
+            "Khou kiu ai thuanc bam ni the,",
+            "Nang tiiloumei guay khang;",
+            "Ata Thuakloumeipu khang",
+            "Thwan guay tiilou puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Complete in Him!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "7.6.7.6. D. Ref.",
+        "SS 858",
+        "E.C. Green",
+        "Khrista khou zianmei padik",
+        "Complete in Him!",
+        "source hymn 324",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 324."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KAKHOU AI NTHUIH THE",
+        "titleRongmei": "KAKHOU AI NTHUIH THE",
+        "titleEnglish": "Complete in Him!"
+      }
+    }
+  }
+}

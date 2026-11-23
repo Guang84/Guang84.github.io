@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0057",
+    "number": 57,
+    "source": {
+      "printedNumber": 57,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Walter Chalmers Smith",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "3/4",
+      "meter": "11.11.11.11.",
+      "tune": "CW 159"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Theih makmei , how makmei,",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Theih makmei, how makmei, thay p’rymei Ravguangc,",
+            "Zauc ’dyang lakmei riw #^7 Nang ta ’kamhlou e,",
+            "Guigay liang, hymdaic liang, nganv makmei Kaipouc,",
+            "Rih ngammei, Ngammeipu, Nang zanc ta thuanc e.",
+            "",
+            "2 ’Thaekc zat mak, katumh mak, kakhwan pat makna,",
+            "Liamlaih mak, gat makna Nang ngamv #^7 sin e;",
+            "Poubauhmei, Nang hei ’chumhmei taanhmeipu e,",
+            "Nang hei gaymei, zianmei duipuakkai kiu e.",
+            "",
+            "3 ’Thyammei, daihmei guay khou inghmei Nang tiilou,",
+            "Nang #^7 tiiloumei hei ringhmei ling kiu e,",
+            "Mwn kumc ’niw puangclou e, tuai key dat nuangc e;",
+            "He Kaipouc, Nang thu tingsaeng kalaih mak ge.",
+            "",
+            "4 He ’thanmei gaanhmeipu, hymdaihmei Ravguangc,",
+            "Baanch’ra nunc Nang ta thuanc kaniw zaw gumna,",
+            "Nang riw kachanmei #^7 Nang zaw ta ’kamh e,",
+            "Nang ta tiihowlou o, ’niw Nang ta thuanc ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Immortal, Invisible, God only Wise",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "3/4",
+        "11.11.11.11.",
+        "CW 159",
+        "Walter Chalmers Smith",
+        "Immortal, Invisible, God only Wise",
+        "source hymn 57",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 57."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Theih makmei , how makmei,",
+        "titleRongmei": "Theih makmei , how makmei,",
+        "titleEnglish": "Immortal, Invisible, God only Wise"
+      }
+    }
+  }
+}

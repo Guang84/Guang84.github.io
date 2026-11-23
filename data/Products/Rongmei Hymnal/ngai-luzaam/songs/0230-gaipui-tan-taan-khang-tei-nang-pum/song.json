@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-230",
+    "number": 230,
+    "source": {
+      "printedNumber": 230,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gaipui tan taan khang tei nang pum",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Gaipui tan tan khang tei nangpum ti pat ro,",
+            "Heikhou tei poubaomei lungkieng lou puni,",
+            "Gaipui tan tan khangtei kagan reipat ro",
+            "Poubaomei tan tan khang kagan raoguang pu the.",
+            "",
+            "Jisu khou lumlou makmei guai mu",
+            "Kandi khouhei lung ncham khuan sini,",
+            "Tingkao thang guang kariu datpui kan khou",
+            "Aniu zao hou ntangmak nu e.",
+            "",
+            "2. Kagan hei dui e tingmik heirao guang the,",
+            "Nban chun guay npat louna lung laitho,",
+            "Kaipou rui changmun khou dingna khuan bam the,",
+            "Kamei nun guaita lakhang nkhuan na bam the.",
+            "",
+            "3. Tingkao ram gaikhou tei tingsaeng zaeng lung ni,",
+            "Buh le nei gaanchuanga gaanmei nailak khe",
+            "Khoutei ndap tarimei naidat lak khe,",
+            "Tingkum ching aching jisu le lung champuni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 230",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 230. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gaipui tan taan khang tei nang pum",
+        "titleRongmei": "Gaipui tan taan khang tei nang pum"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-131",
+    "number": 131,
+    "source": {
+      "printedNumber": 131,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkao thang bammei Guangh Jisu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Tingkao thang bammei Guangh Jisu,",
+            "Lungh rianramei makmei Jisu;",
+            "Kandih khou rianra bam khou hei,",
+            "Akhang Khrista rui tigaanlou.",
+            "",
+            "Charin tuang e, [2]",
+            "Kazauzian tei charin tuang e,",
+            "Kalvary khou akhang theilou,",
+            "Ai ning thukge kanloumeipu.",
+            "",
+            "2. Ningtaan makge he Guangh Jisu,",
+            "Ai thai tang ngam makmei Jisu,",
+            "Lungh rianramei timaan lou o,",
+            "Ringhmei thingbang khou zailou o.",
+            "",
+            "3. Lungh riaramei duidai bam khou,",
+            "Kaan ngam makge zaikaan lou o,",
+            "Charin tuang e Nang zauzian hei,",
+            "Akhang Khrista rui theiloumei.",
+            "",
+            "4. Tingkao thang namdaih gaimei nai,",
+            "Lungning nzaeghmei tilou o,",
+            "Nzianmei riang rui banglou o,",
+            "Tingkao kaigai khou zailou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 131",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 131. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkao thang bammei Guangh Jisu",
+        "titleRongmei": "Tingkao thang bammei Guangh Jisu"
+      }
+    }
+  }
+}

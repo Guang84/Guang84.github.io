@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0823",
+    "number": 823,
+    "source": {
+      "printedNumber": 823,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.9.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kanlouna hikuak khat ku kanthe",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kanlouna hikuak khat ku kanthe,",
+            "Jisu ringmei hikuak rui jailou;",
+            "Rih kapumma ta ngam tang lana,",
+            "Jailou ni tngkauh kandih khiou 0({.",
+            "",
+            "Chorus:",
+            "Gaipui ram khou gut ni (2),",
+            "Hikuak khou guang ku-o;",
+            "Puh le chai.",
+            "",
+            "2. Hei kandih sipui ram pat louna,",
+            "Zion ram gaimei nah su latho;",
+            "Khou 0({ nanng pap guai man ngam puni,",
+            "Nang rianra rianriu guai ni man ni.",
+            "",
+            "3. Kaman maknga jai kanlou puni,",
+            "Nang ta jaujian pui jang khou ruina;",
+            "Tabui khang nang rui guang nian tucho?",
+            "Guang latho jianlou pui ding khou hei.",
+            "",
+            "4. Kanpat pui gan hei tatri ethei,",
+            "Ngalan dat pulak khe kao sini;",
+            "Kanpat mei lalou makmei guai 0({,",
+            "Kap puni duidai pang hei khou 0({.",
+            "",
+            "5. Jisu rui nangta jian na kao the,",
+            "Hih khou guang ku o nuan phungmei guai;",
+            "Nban thai pui ram guangtang puni,",
+            "Pou Raguang jianmei khou gut puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "9.9.9.9.",
+        "Kanlouna hikuak khat ku kanthe",
+        "source hymn 93",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 93."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kanlouna hikuak khat ku kanthe",
+        "titleRongmei": "Kanlouna hikuak khat ku kanthe"
+      }
+    }
+  }
+}

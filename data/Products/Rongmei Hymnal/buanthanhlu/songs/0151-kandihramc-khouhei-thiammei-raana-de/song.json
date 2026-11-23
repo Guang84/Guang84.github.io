@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-151",
+    "number": 151,
+    "source": {
+      "printedNumber": 151,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandihramc khouhei 'Thiammei Raana de",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          151 Kandihramc khou hei 'Thiammei Raana de",
+            "                              10.9.10.9.Ref. 6. 9. 10.9",
+            "          Doh hei D",
+            "",
+            "          1. Kandihramc khouhei 'thiammei raana de:",
+            "             Neihlaa khang maek Poubauhmei hamhna.",
+            "             Ravguangc khang rui kaikhamv laancpat di kho:",
+            "             Ningngam thuy pwlak khe 'thei thangc mu.",
+            "",
+            "                      'Niw ta laa khang guang the,",
+            "                      Poubauhmei Jisu tingkauh thangc rui.",
+            "                      Kaikhunhmei guay lev neihlaa nchamc khang,",
+            "                      Poubauhmei khou lwmlou bam di kho.",
+            "",
+            "          2. Poubauhmei rui kros ruc khou theiclou the;",
+            "             Aniw paap guay ta swthanlou the.",
+            "             Kazei kunghmei rui ata liulou the,",
+            "             Poubauhmei taanhmei 'niw nic taanc kho.",
+            "",
+            "          3. Poubauhmei Khrista keypui nungc kiu mu,",
+            "             Tingpalikmei kumcna key pwni.",
+            "             Ravguangc guangcdic hei naaguang changh pwthe,",
+            "             Lwm la tho twna Pou' rui saa e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandihramc khouhei 'Thiammei Raana de"
+      }
+    }
+  }
+}

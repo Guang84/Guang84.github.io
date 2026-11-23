@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-168",
+    "number": 168,
+    "source": {
+      "printedNumber": 168,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khrista rui Nziamei guay ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          168 Khrista rui Nzianmei Guay ta",
+            "                        8.8.8.8.Ref.4.4.8.8.8",
+            "          Doh hei E",
+            "",
+            "          1. Khrista rui nzianmei guay ta,",
+            "             Hanguang dat tho twna kaw e;",
+            "             Nzianmei Khristian chabwan guay;",
+            "             Kawmei khwan tei nkinglou o.",
+            "",
+            "                  Charyn tuang e, (2)",
+            "                  Baanh hiwna neihlaa nchamc kho.",
+            "                  Nang pumtan lev nang ramneilaa,",
+            "                  Pou' Khrista hu khou lungc lyan o.",
+            "",
+            "          2. Tingkauh kandic guangtangc pwkhou,",
+            "             Saa ngammak ge karamgai tei;",
+            "             Zingckeymei hei nai dat lak khe;",
+            "             Mikdui luanghmei nai dat lak khe.",
+            "",
+            "          3. 'Maan kan nimei bumaengc guay ta,",
+            "             Khrista rui 'zianna kaw bam e.",
+            "             'Zianmei guay le, hanguang dat tho;",
+            "             Mikdui key dat makpui ramc khou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khrista rui Nziamei guay ta"
+      }
+    }
+  }
+}

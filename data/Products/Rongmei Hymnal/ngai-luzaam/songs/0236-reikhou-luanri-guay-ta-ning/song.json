@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-236",
+    "number": 236,
+    "source": {
+      "printedNumber": 236,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Reikhou luanri guay ta ning",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Rei khou luanri guai ta ningtou puki,",
+            "Zaeng si e tatkan mei kagan tei,",
+            "Kaganv rui niuta tam khang phung guanglou",
+            "Kandi hei muh ntam pui kandih e.",
+            "",
+            "Munpuang rui puang pat datmei ta khuan",
+            "Ting kum guanc datmei ta khuan na",
+            "Zingpui di khou alaukum na kapbam",
+            "Munpuang tuaimei kum kagan nituai the.",
+            "",
+            "2. Gaina tat khuan tho tingkum kagan guai",
+            "Zaeng gailat sathai makpui zaengrui",
+            "Silou meiguai ta ai ningdat lakhe.",
+            "Nthuluan kum nang alandat lakhe.",
+            "",
+            "3. Poubaomei ruina heikum na sa e,",
+            "Kap guat nuiguat kandi pan tihei",
+            "Guang kariu puni ntam dat puni",
+            "Ntam datlak puiram ta ai ning e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 236",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 236. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Reikhou luanri guay ta ning",
+        "titleRongmei": "Reikhou luanri guay ta ning"
+      }
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0878",
+    "number": 878,
+    "source": {
+      "printedNumber": 878,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "12.10.12.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaniu sa e tingpuk pang thang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kaniu sa e tingpuk pang thangkai naimei lam,",
+            "Duh simei pang thang kai naimei lam tei;",
+            "Pingmei puanjing guang dat lakkhe tuna din e,",
+            "Muang guam dat lak khe tuna din lou e.",
+            "",
+            "Chorus:",
+            "He muang guam makmei ram kiu,",
+            "Muang jingmei guai makpui ram khou tei;",
+            "Ting puanjing makpui ram e tuna dinlou e,",
+            "Muang guam dat lak khe tuna din lou e.",
+            "",
+            "2. Champan nun tat kanmei kai lam tei kaniu din,",
+            "Duh kanmei kailuang lam tei din lou e;",
+            "Khoutei panti thingbang nrangting pat meitei,",
+            "Karim namgaimei mundui bun kei lou.",
+            "",
+            "3. Kahim daimei guang lam tei kaniu #-5 dinlou,",
+            "Kaniu din loumei tei ai jao puki;",
+            "Guang#-5 dungbammei bamtei gun khangsuang phuane,",
+            "Kachak #-5 kasiammei namdai kiu e.",
+            "",
+            "4. Kamei kanahnun ta jaona lui rimh rim bam,",
+            "Karam nui #-5 rianramei timan e;",
+            "Mikdui keimei hei buinung sini nai lak khe,",
+            "Gaimei nrangting patpui ram kiu e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "12.10.12.10.",
+        "Kaniu sa e tingpuk pang thang",
+        "source hymn 148",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 148."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaniu sa e tingpuk pang thang",
+        "titleRongmei": "Kaniu sa e tingpuk pang thang",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

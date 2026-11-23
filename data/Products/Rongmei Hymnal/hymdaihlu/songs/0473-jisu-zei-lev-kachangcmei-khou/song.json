@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0473",
+    "number": 473,
+    "source": {
+      "printedNumber": 473,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. E. Mote",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/3",
+      "meter": "L.M. Ref.",
+      "tune": "SS 902"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu zei lev kachangcmei khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu zei lev kachangcmei khou",
+            "Hamhna baihmei khou ding mak ge,",
+            "Baihmei ramgai khou ai lwm lak,",
+            "Jisu zanc khou na ngangvlou ni.",
+            "",
+            "Taudaic Khrista khou ai ding e;",
+            "Baihmei bamv guay mu syniang de,",
+            "Pangv kan nimei syniang-pung de.",
+            "",
+            "2 Zinghmei #^5 Kazaw sungc liam khou,",
+            "Ai zaeng ’thaekc ge Kazauzian khou,",
+            "Pwanzingh tanhmei ’liupui ganv khou",
+            "Arungc banghchei Kakhou bangclou.",
+            "",
+            "3 Kalatryan lev Kazei hei #^5",
+            "’Khavlou e, dui daic guang pwkhou;",
+            "Baanhou maekna dwangdangv pwkhou,",
+            "Amachunc kiu Kamei na de.",
+            "",
+            "4 Kamei trampet ’muanna key khou,",
+            "’Twnmei kheiliak 5#^ ai piuna,",
+            "Kapaan #^5 khuay maekmei swna,",
+            "Kaguangc bamvpaeng hu khou ding ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Solid Rock",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/3",
+        "L.M. Ref.",
+        "SS 902",
+        "Rev. E. Mote",
+        "Taudaic Khrista khou ai ding e",
+        "The Solid Rock",
+        "source hymn 473",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 473."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu zei lev kachangcmei khou",
+        "titleRongmei": "Jisu zei lev kachangcmei khou",
+        "titleEnglish": "The Solid Rock"
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0230",
+    "number": 230,
+    "source": {
+      "printedNumber": 230,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "EL Nathan",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 306"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingriu kumc suaihiam riw key ni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Tingriuc kumc suaihiam riu key ni,”",
+            "Mi hei zauzian latryan e;",
+            "Ramh guay tiikaluanlou puni,",
+            "Gumeipu @{4 tii key ni.",
+            "",
+            "Suaihiam riu keymei,",
+            "Suaihiam ting ta kahaw e;",
+            "Zauzian ting thw riu key bam the,",
+            "Suaihiam bun key khang huay e.",
+            "",
+            "2 “Tingriuc kumc suaihiam riu key ni,”",
+            "Buan thanh dat khang riu nimei,",
+            "Luangh guay lev nzaengc guay ruc khou",
+            "Riu chunh chunna riu nimei.",
+            "",
+            "3 “Tingriuc kumc suaihiam riu key ni,”",
+            "He Kaipouc tii keylou o!",
+            "’Taw ’niw ta tiikaluanlou o;",
+            "Nang latryan tii ’thuihlou o.",
+            "",
+            "4 “Tingriuc kumc suaihiam riu key ni,”",
+            "Aseic tingmik riu key o,",
+            "Ravguangc khou ’niw lunglai ’dauh e,",
+            "’Taw hei Jisu ta kaw e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "There Shall be Showers of Blessing",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "6/8",
+        "8.7.8.7. Ref.",
+        "SS 306",
+        "EL Nathan",
+        "There Shall be Showers of Blessing",
+        "source hymn 230",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 230."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingriu kumc suaihiam riw key ni",
+        "titleRongmei": "Tingriu kumc suaihiam riw key ni",
+        "titleEnglish": "There Shall be Showers of Blessing"
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-182",
+    "number": 182,
+    "source": {
+      "printedNumber": 182,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "'Maan Dat Lakmei Poubauhmei Ramc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          182 'Maan Dat Lakmei Poubauhmei Ramc",
+            "                              11.7.11.5.Ref. 9. 5.9.5",
+            "          Doh hei Eb",
+            "",
+            "          1. 'Maan dat lakmei Poubauhmei ramc tei ning e;",
+            "             Gaanchuangcna howmei paengc thangc,",
+            "             Neihriw gaeng dat mak khe nthanmei rar tei;",
+            "             Heic ramc gay khoutei.",
+            "",
+            "                  Tingkauh nzwan o, nzianmei guay,",
+            "                  Paapc khourui duakna,",
+            "                  Tingkauh nzwan o, nzianmei guay,",
+            "                  Paapc khou rui duakna.",
+            "",
+            "          2. Thau tho 'zianmei nunc thiu,",
+            "             Tingsaeng ramc 'zwan khang;",
+            "             Paapc khou rui duakpat lana,",
+            "             Neihmik nic key dat mak,",
+            "             Ringcsuangmei ramc tei,",
+            "             Ningna bam di kho.",
+            "",
+            "          3. Thau tho apu 'chaic thiu,",
+            "             Panty luai mak khou;",
+            "             Zinghmei tei tigaanc di kho.",
+            "             Poubauhmei ramc 'naa the,",
+            "             Tingmik thuih lwm o;",
+            "             Heic kandic khouhei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "'Maan Dat Lakmei Poubauhmei Ramc"
+      }
+    }
+  }
+}

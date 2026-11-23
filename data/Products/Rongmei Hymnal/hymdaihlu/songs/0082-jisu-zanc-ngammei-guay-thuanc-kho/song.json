@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0082",
+    "number": 82,
+    "source": {
+      "printedNumber": 82,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Edward Perronet",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6.6.6. (2nd Tune)",
+      "tune": "SS 203"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu zanc ngammei guay thuanc kho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu zanc ngamv meic guay thuanc kho!",
+            "Baanch’ra nic kalum diu;",
+            "Guangh pyrun 0({ laa thau lana,",
+            "Runlou kho, Kaipouc khou! (2)",
+            "",
+            "2 He Ravguangc tuang martair nuncle,",
+            "Kaipouc khou runlou o;",
+            "Jessi kikta ta thuancku o,",
+            "Runlou kho, Kaipouc khou! (2)",
+            "",
+            "3 Kapah patmei Israel mei zaat,",
+            "Nang hei ’thyam khwan sihni",
+            "Thuanc o, nang ta Gumeipu ta,",
+            "Runlou kho, Kaipouc khou! (2)",
+            "",
+            "4 Zaatc kaguay, khwang kaguayna ({0,",
+            "Kandih khou bam saanv khou,",
+            "Poubauhmei hym hei ndauh diu,",
+            "Runlou kho, Kaipouc khou! (2)",
+            "",
+            "5 Kauh thangc ’thanmei kangdai guay lev,",
+            "Kaphay khou kalum ni,",
+            "Nganv makna lu suan kariu ni,",
+            "Runlou kho, Kaipouc khou! (2)"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "All Hail the Power!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.6.8.6.6.6. (2nd Tune)",
+        "SS 203",
+        "Edward Perronet",
+        "All Hail the Power!",
+        "source hymn 82",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 82."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu zanc ngammei guay thuanc kho",
+        "titleRongmei": "Jisu zanc ngammei guay thuanc kho",
+        "titleEnglish": "All Hail the Power!"
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0047",
+    "number": 47,
+    "source": {
+      "printedNumber": 47,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "A.N. Blatchford",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "GSC 1"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neihlaapui lu suanna thuanc e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neihlaapui lu suanna thuanc e,",
+            "Thuanckuna ’niu guang kaduai,",
+            "Ravguangc ramzian ta ’niu thuanh khang,",
+            "Tingsaeng Pu, ’niu Ravguangc ta.",
+            "",
+            "Kakhou ’niu lungsyng <~1 neihlaa,",
+            "Kamv zat lak ge Kahym hei,",
+            "Karamgaeklou hei ’niw raengc e,",
+            "Tingsaeng ringhmei, zianmeipu.",
+            "",
+            "2 Zingbangc khou <~1 gaanhmei phungc guang,",
+            "’Niangbangv khou mwn tiipuangc e,",
+            "Muanghbangv guay khou suaihiam phungc guang,",
+            "Neihriw lev ting tiilou e.",
+            "",
+            "3 Kamei thaylou makmei maek ge,",
+            "Ryanra, neihlaa, kathuic hei;",
+            "Reynungc zianmei <~1 sinmei kumc,",
+            "’Taw nic tingsaeng sin puni.",
+            "",
+            "4 Pou ta lungh khat swna thuanc kho,",
+            "Kazanc hym hei tiidaic kho!",
+            "Kalaih makmei Karamzian ta",
+            "’Niu rac kaluaihna thuanc kho."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A Joyful Song",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "GSC 1",
+        "A.N. Blatchford",
+        "A Joyful Song",
+        "source hymn 47",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 47."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neihlaapui lu suanna thuanc e",
+        "titleRongmei": "Neihlaapui lu suanna thuanc e",
+        "titleEnglish": "A Joyful Song"
+      }
+    }
+  }
+}

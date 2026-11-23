@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0771",
+    "number": 771,
+    "source": {
+      "printedNumber": 771,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "14.12.10.11.",
+      "tune": "Mk. 14:32-36"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Getsemani pikuan kgou Jisu rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Getsemani pikuan khou Jisu rui kalum bam khou,",
+            "Meiguai guang kariuna poubaumei ta nimma;",
+            "Karu khou 5#^ lat njan thai mak ge,",
+            "Amu daimei nun rui thei khang salou e.",
+            "",
+            "Chorus:",
+            "Rianramei muang jingh (2),",
+            "Kalvari ching rukhou poubaumeita suluai;",
+            "Sau pirun le siang loupui thing rukhou,",
+            "Duplou pui bam thai makge poubaumei rui.",
+            "",
+            "2. He Simon Pitor le latdiu lung rianra guai thao o,",
+            "Poubaumei ta jai the thei nipui bam khou 5#^;",
+            "Kandih khou keimei tingkauh Guang daimei,",
+            "Riana bam khou nkhalou nimei mak ge.",
+            "",
+            "3. Kandih le tingkau khou gaipui lat cham loumeiputa,",
+            "Suluai nina cho nangniu Zion nah guai le;",
+            "Kamei theimei tingmik 5#^ mu nicho?",
+            "Aniu ringpui tuange nangniu ring khange.",
+            "",
+            "4. He seraphim guai le tingkau latdiu nun guai jaolo,",
+            "Nkhaloumei maknga rianramei Guang Jisu;",
+            "Meinun guai pap phunga rianra bam khou,",
+            "Kalung rianrana kapu ta kao bamme.",
+            "",
+            "5. Jaongam makge pourui Jordan duipang kanpat nimei,",
+            "Kajang maknga kapi bumkei lou kan ding the;",
+            "Kabumang npatlou kandih khou hei,",
+            "Pap le rih ta ngamma Jordan dui kan the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "14.12.10.11.",
+        "Mk. 14:32-36",
+        "Getsemani pikuan kgou Jisu rui",
+        "source hymn 41",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 41."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Getsemani pikuan kgou Jisu rui",
+        "titleRongmei": "Getsemani pikuan kgou Jisu rui"
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0861",
+    "number": 861,
+    "source": {
+      "printedNumber": 861,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "10.6.4.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nkhuaimei e poubaumei kuak lou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nkhuaimei e poubaumei kuak lou o,",
+            "Ai lunglai na guang e;",
+            "Nang phai bang khou.",
+            "",
+            "Chorus:",
+            "Adang khou bam makge thei,",
+            "Kandih ai thei pui bam;",
+            "Nang phai bang khou.",
+            "",
+            "2. Baimei gaimei mak ge,",
+            "Kandih khou hei ,",
+            "Ntao nang khuan chuna ai guang datthe.",
+            "",
+            "3. Poubaumei le nang %&6,",
+            "Khiu than lou o;",
+            "Nangta ninga ai%&6 rih hei ngam ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Nkhuaimei e poubaumei kuak lou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "10.6.4.",
+        "Nkhuaimei e poubaumei kuak lou o",
+        "source hymn 131",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 131."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nkhuaimei e poubaumei kuak lou o",
+        "titleRongmei": "Nkhuaimei e poubaumei kuak lou o",
+        "titleEnglish": "Nkhuaimei e poubaumei kuak lou o"
+      }
+    }
+  }
+}

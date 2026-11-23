@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0666",
+    "number": 666,
+    "source": {
+      "printedNumber": 666,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J.W.Van De Venter.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.8.8.8. Ref",
+      "tune": "3 Alex 116"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai ’muc thuy lak ge Apui rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai ’muc thuy lak ge apui ^&8",
+            "Zianna akhou kadyloumei,",
+            "“Apamv khou ^&8 tatpat sihni",
+            "Nang pui nang khang huaylou bam e.”",
+            "",
+            "Apui ramzian makumh pwkhou,",
+            "Kamei ’taw nic ringc bam kumc e,",
+            "Mpwan aliu rih rimei ^&8",
+            "Apui huaymei tiiningtow e.",
+            "",
+            "2 Ai ’mu thuy lak ge kaganv ’thuic,",
+            "Ata tiineihlaamei khwan 8^&;",
+            "Chaeng ’maanna ai maeng tat sihni",
+            "Apui ravsuai ai ningtow e.",
+            "",
+            "3 Tingkwm geic sih tat kan sihni",
+            "Zianmei latkaeng ai chu bam he;",
+            "Zianmei apui ta ai how e,",
+            "Kabamv khou huayney bammei ta.",
+            "",
+            "4 Ai ’muc thuy lak Gumeipu ^&8",
+            "Apaap khiu ’thanloumei ganv 8^&;",
+            "Hei dyng khou 8^& dawlou dyng the,",
+            "Apui akhang huayneyloumei."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "My Mother’s Prayer",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "3/4",
+        "8.8.8.8. Ref",
+        "3 Alex 116",
+        "J.W.Van De Venter.",
+        "APUI TUANG RAVSUAI",
+        "My Mother’s Prayer",
+        "source hymn 666",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 666."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai ’muc thuy lak ge Apui rui",
+        "titleRongmei": "Ai ’muc thuy lak ge Apui rui",
+        "titleEnglish": "My Mother’s Prayer"
+      }
+    }
+  }
+}

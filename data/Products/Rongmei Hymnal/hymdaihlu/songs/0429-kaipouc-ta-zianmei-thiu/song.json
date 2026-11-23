@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0429",
+    "number": 429,
+    "source": {
+      "printedNumber": 429,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Isaac Watts",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/9",
+      "meter": "6.6.8.8.6.6. Ref.",
+      "tune": "SS 823"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaipouc ta zianmei thiu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaipouc ta zianmeithiu,",
+            "’Niu neihlaamei lyan kho;",
+            "Lungh khat swna lu suan ’chamc kho, (2)",
+            "Guangh bamvpaeng ding huamcna. (2)",
+            "",
+            "’Niu Zion ’zwan bam e,",
+            "Gaychuymei, gay chuymei Zion!",
+            "’Niu tat ku bam e Zion thangc,",
+            "Gaychuymei Ravguangc kaidai thangc.",
+            "",
+            "2 Rav ta thay makmei ^&5",
+            "Lu hei suan zih kan diu;",
+            "Kum sic tingkauh Guangc nac nunc hu (2)",
+            "Kaniw neihlaa ’daw diu. (2)",
+            "",
+            "3 Zion luangcbut khou hei",
+            "Suaihiam ’peyna nai e;",
+            "Tingkauh laupuk guang tangh mak khou, (2)",
+            "Kachaekc chaeng tat mak khou. (2)",
+            "",
+            "4 Neihlaana lu suan kho,",
+            "’Niu mikdui thut phui kho;",
+            "Immanuel dih tat kaanna, (2)",
+            "Tingkauh ramc ’zwan bam khou. (2)"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "We’re Marching to Zion",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/9",
+        "6.6.8.8.6.6. Ref.",
+        "SS 823",
+        "Isaac Watts",
+        "’Niu Zion ’zuan, bam e",
+        "We’re Marching to Zion",
+        "source hymn 429",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 429."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaipouc ta zianmei thiu",
+        "titleRongmei": "Kaipouc ta zianmei thiu",
+        "titleEnglish": "We’re Marching to Zion"
+      }
+    }
+  }
+}

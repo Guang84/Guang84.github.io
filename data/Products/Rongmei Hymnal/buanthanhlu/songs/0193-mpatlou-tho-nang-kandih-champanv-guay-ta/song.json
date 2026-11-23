@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-193",
+    "number": 193,
+    "source": {
+      "printedNumber": 193,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Mpatlou tho Nang Kandih Champanv guay ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          193 Mpatlou Tho Nang Kandih Champanv",
+            "                             11.12.8.8. Ref. 6.9. 8. 10",
+            "          Doh hei Db",
+            "",
+            "          1. Mpatlou tho nang kandih champanv guay ta;",
+            "             Ntamv mak gethei kaganv neihmik key' pwni.",
+            "             Nang khang kaganv neihpat dat mak;",
+            "             Nang guang la tho katumc la tho.",
+            "",
+            "                  Aseic guangmei guay mu,",
+            "                  Zauzian suaihiam neihlaamei laa ni.",
+            "                  Aseic guang makmei guay khou mu,",
+            "                  Kakhou Ravguangc lungpuam keylou pwni.",
+            "",
+            "          2. David tuang kaikhamv laanc bammei ganv khouhei,",
+            "             Kandihmei rui mbangh ngam mak, mi kaikhamv tei.",
+            "             'Bangh kan ethei laanc dat ngam mak,",
+            "             Kandihmei rui laanc nii sihnic.",
+            "",
+            "          3. Nrih hei thingbang kathuihna khou nai e.",
+            "             Nthai makmei bang guay tei mu gay ganc pwni.",
+            "             Nangniw kathai nthai dat khang,",
+            "             Nangniw ta chuanloupui tuang the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Mpatlou tho Nang Kandih Champanv guay ta"
+      }
+    }
+  }
+}

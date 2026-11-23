@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-193",
+    "number": 193,
+    "source": {
+      "printedNumber": 193,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Meina mpouc himdaimei pu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Meina mpouc himdaimei pu",
+            "Houmu nu rui Kalvary khou",
+            "Apum bumaeng ta kallou khang",
+            "Houmuh mei baan khou kapum tilou,",
+            "Mei khaeng ngam makmei rianra khaeng",
+            "bam khou Kandi zing baangla zaibam.",
+            "",
+            "Kagan naguang the",
+            "Abumang ringmei lakhang tei",
+            "Nthiammei khaeng ngam makmei guai",
+            "Latzan tingmik guangtang pui kaan khou",
+            "Tingkao thang baanhaamna huai bam sini",
+            "Lalou dat nituang hamh the.",
+            "",
+            "2. Kabaan hamthauna kapu khou",
+            "Guangtang mak khang huainei bam e",
+            "Apu rui nutuang khuan e thei",
+            "Zang nimei kamkuak laganlou o",
+            "Ai ningmei hamhna apu rui ningmei",
+            "Pat kandiu aru khou hei.",
+            "",
+            "3. Kamei theikei nipui ding khou",
+            "“Eloi, eloi lama sabak thani”",
+            "Tuna khuan ranna kau",
+            "Kabumaeng patkan nipui ding khou",
+            "Bu le nei gaanchuanga guai nchungna",
+            "Kariu tipat ngam makge."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 193",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 193. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Meina mpouc himdaimei pu",
+        "titleRongmei": "Meina mpouc himdaimei pu"
+      }
+    }
+  }
+}

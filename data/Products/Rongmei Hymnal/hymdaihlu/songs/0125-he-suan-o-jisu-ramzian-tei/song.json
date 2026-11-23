@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0125",
+    "number": 125,
+    "source": {
+      "printedNumber": 125,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. Harriet E.Jones",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "9/8",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 81"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HE SUAN O, JISU RAMZIAN TEI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He suan o, kunghmei p’ry guangc 7?|",
+            "Guloumeipu ramzian 7?|;",
+            "Jisu lev Kahym lam suan o,",
+            "Thuakloumei guay lev suan o!",
+            "",
+            "He suan o, Jisu ramzian 7?|!",
+            "Kagaengv diu, duh thangc, ’naa khou,",
+            "Suan kaluaih o, ch’rynmei p’ry hei,",
+            "Kandih pwm chu lik mak saanv!",
+            "",
+            "2 He suan o, Jisu theihmei lam,",
+            "Lu ?|7 Karamzian suan o;",
+            "Nang lu ?|7 Thuakloumeipu khou,",
+            "Zaatc guay ta zay guanglou diu.",
+            "",
+            "3 He thuakloumei guayle, suan o!",
+            "P’ry 7?| suan kaluaih dat ro,",
+            "Neihlaamei Jisu p’ry lu hei,",
+            "Zaatc kaguay suan ’chamc mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Sing the Love of Jesus!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "9/8",
+        "8.7.8.7. Ref.",
+        "SS 81",
+        "Mrs. Harriet E.Jones",
+        "He suan o, kunghmei p’ry",
+        "Sing the Love of Jesus!",
+        "source hymn 125",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 125."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HE SUAN O, JISU RAMZIAN TEI",
+        "titleRongmei": "HE SUAN O, JISU RAMZIAN TEI",
+        "titleEnglish": "Sing the Love of Jesus!"
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-100",
+    "number": 100,
+    "source": {
+      "printedNumber": 100,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thanpui ram khou guang puan mei tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Thanpui ram khou guang puan mei tei,",
+            "Tingkao ganchuang nga ta nzuan e,",
+            "Ntak mei kata phumei nun rui,",
+            "Gann chuang nga ta hou na,",
+            "Ata ganchuang nga gan mei teirui na",
+            "Guang puan puibam Bethlehem zai guang tang lou.",
+            "",
+            "He! Bethlehem ching guang tang maksan",
+            "Thak mak nga ai tatni,",
+            "Kalan gaanchuang-nga rui nduang lou na ,",
+            "Mary rui puan bam mei nga na ta hou ni.",
+            "",
+            "2. Tingsaeng salem chang mun daimei ,",
+            "Tei aniu khang rui lanlou dat the",
+            "Manpui kandi khou bam mei nunta,",
+            "Ning ting mei tisu lou:",
+            "Neihlana thuan kho guang than puan mei ta,",
+            "Kandi hei tikgun daimei thuanku kandiu.",
+            "",
+            "3. Adih neila cho guang than ta,",
+            "Tingkao meinun rui ti thai lou the,",
+            "Kata ninga tingkao mei nun rui ,",
+            "Kandih khou hei zau kei ,",
+            "Tingkao gaanchuang-nga nang rui bam phu lou,",
+            "Puan pui bam Bethlehem ching zai guang tang lou.",
+            "",
+            "4. He! Tat dikho aniu tao hei,",
+            "Gaipui ram nzuan na tat dikho,",
+            "Kandi guang nun rui zau zih sini,",
+            "Mei kapumh ma ruini;",
+            "Guangc dai liangmei e ai ning thuk liang mei.",
+            "Tingkao gaipui ram zai guang tang lou puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 100",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 100. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thanpui ram khou guang puan mei tei",
+        "titleRongmei": "Thanpui ram khou guang puan mei tei"
+      }
+    }
+  }
+}

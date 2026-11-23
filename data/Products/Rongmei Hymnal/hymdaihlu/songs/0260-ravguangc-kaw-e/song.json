@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0260",
+    "number": 260,
+    "source": {
+      "printedNumber": 260,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Tersteegen",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "SS 339"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc kaw e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc kaw e! ai chu lak cho?",
+            "Dih thala ta ai zian ni cho?",
+            "Panty tingkwm samc tat bam khou,",
+            "Abumaengc ziprii bam ni cho?",
+            "",
+            "Kaw .. bam the, chu la tho! (2)",
+            "Ravguangc kaw bam e;",
+            "He Kakhwan ’king o, kaw e!",
+            "Kaw .. bam the, chu latho! (2)",
+            "Ravguangc kaw bam e,",
+            "He chu lo, kaw bam e!",
+            "",
+            "2 Ravguangc kaw e! ai thau lak cho?",
+            "Kamei kawmei thouhsw lak cho?",
+            "Karamzian ta sinnui ni cho?",
+            "Kaw bam khou ai nyan ngam ni cho?",
+            "",
+            "3 Ravguangc kaw e! ai piu lak cho?",
+            "Kangkai khou bam tanh tan ni cho?",
+            "Ai nyan sihni ’patlou mak ge,",
+            "’Taw nganv kaw bam, thau tho alung!",
+            "",
+            "4 Ravguangc kaw e! bam ngam mak khe,",
+            "Ai nuhlou the, nyan ngam mak khe;",
+            "He kandihle, bam duc khwan tho!",
+            "Ravguangc khwan alung khou tangc the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "God is Calling Yet",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.8.8.8. Ref.",
+        "SS 339",
+        "Tersteegen",
+        "God is Calling Yet",
+        "source hymn 260",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 260."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc kaw e",
+        "titleRongmei": "Ravguangc kaw e",
+        "titleEnglish": "God is Calling Yet"
+      }
+    }
+  }
+}

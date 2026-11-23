@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-148",
+    "number": 148,
+    "source": {
+      "printedNumber": 148,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nthiammei rui duidai kumna daiguang sini",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nthiam mei rui duidai kumna daiguang sini,",
+            "Lungh rianra pui tuang ti-nailou ri o;",
+            "Karuh khou neihla pui lu rui suankim lou o,",
+            "Houmu mei ta ti-maanlou o,",
+            "Tingkau Ravguangc ruina.",
+            "",
+            "Rianra rianriu mei khaeng ngam mak,",
+            "Nang rui hamhma guang tang ngam mak,",
+            "He! Bumaeng Thanmei rui zaiguang lou o,",
+            "Tingkauh kandi nganna zailou o.",
+            "",
+            "2. Theihmei Jordan dui kaanpat ngam maksaan khou,",
+            "Seitan baantan khou ti maan lou ri o;",
+            "Jisu rui kamei nun guaita kaona bam e,",
+            "Zianpui khuan rui kaona bam e,",
+            "Tingkao Ravguangc ruina.",
+            "",
+            "3. Jisu rui nzianmei riang rui banglou e,",
+            "Seitan baantan rui ripat ngamni cho?",
+            "Poubaomei rui rianra khaenglou the aniu khang,",
+            "Kazauzian hei sa ngam makge,",
+            "Kandih balei ruina.",
+            "",
+            "4. He Poubaomei tingsaeng ringhmei ta ning e,",
+            "Lungh rui ninga aniu guangtang ngam mak;",
+            "Ai tatmei phaikaam ‘thuih zauna titatlou o,",
+            "Mbaan thaina zaengthaek nipui",
+            "Ram khou zai guang lou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 148",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 148. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nthiammei rui duidai kumna daiguang sini",
+        "titleRongmei": "Nthiammei rui duidai kumna daiguang sini"
+      }
+    }
+  }
+}

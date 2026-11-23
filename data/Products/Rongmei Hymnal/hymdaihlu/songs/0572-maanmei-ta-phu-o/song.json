@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0572",
+    "number": 572,
+    "source": {
+      "printedNumber": 572,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W.A. Ogden",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "9/8",
+      "meter": "10.9.10.9. Ref.",
+      "tune": "SS 817"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Maanmei ta phu o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Maanmei ta phu o, zianna kaw guang o,",
+            "Chaeng ’maanna nwm khou maeng tatmei ta;",
+            "Akhou guang o,” ’seic Kaipouc kaw bam e,",
+            "Mi lat hei kaniw khou dinclou tio.",
+            "",
+            "Tatpat duc o, .. chyng daihmei thangc 4@<,",
+            "Phungc guang dat ro, maeng tatmei ta phu guang o,",
+            "Thuakloumei pu .. lauziu kuanc lung khou,",
+            "Paapc khang khaengloumei Lauziu Nac,",
+            "Jisu pamv khou.",
+            "",
+            "2 ’Maanmei ta phu o, Jisu khou guang khang,",
+            "’Suanmei bumaengc ta chaeng zaylou o;",
+            "Kaniw ta ringhbamv chaeng khou zaylou o,",
+            "Ringhmei chaeng kaniw khou dinclou o.",
+            "",
+            "3 Zianthaymei taanv hei aniu taanv sw ni,",
+            "Tingmik thuic Kaipouc phaykaamv suicna,",
+            "Zaengsii tiineihlaa, bowmei zaythauna,",
+            "’Maanmei ta Jisu khou zaylouna."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Seeking the Lost",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "9/8",
+        "10.9.10.9. Ref.",
+        "SS 817",
+        "W.A. Ogden",
+        "Seeking the Lost",
+        "source hymn 572",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 572."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Maanmei ta phu o",
+        "titleRongmei": "’Maanmei ta phu o",
+        "titleEnglish": "Seeking the Lost"
+      }
+    }
+  }
+}

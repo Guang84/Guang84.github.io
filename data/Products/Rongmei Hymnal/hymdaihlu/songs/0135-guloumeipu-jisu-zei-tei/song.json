@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0135",
+    "number": 135,
+    "source": {
+      "printedNumber": 135,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles Wesley",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8. D. Ref.",
+      "tune": "SSSH 26"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guloumeipu Jisu zei tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guloumeipu Jisu zei 1<:",
+            "Akhang nic keylou dina cho?",
+            "Ai kumhmei khang theiclou tu cho?",
+            "Kata swluaimei pu akhang.",
+            "Ch’rynmei ramzian! tukumh pwna,",
+            "aRavguangc akhang theiclou cho?",
+            "",
+            "Ch’rynmei ramzian! tukumh pwna,",
+            "ARavguangc akhang theihlou cho?",
+            "",
+            "2 KaPu guangcbamv ganclou ducna,",
+            "Key pwmei nganv makmei ramzian!",
+            "Hym guay luaklou, pumraeng keyna,",
+            "Zianna Adam kik khang theiclou;",
+            "Daihmei ch’rynmei ramzian dyng e,",
+            "Ata phu towmei zauzian hei.",
+            "",
+            "3 Paapc tuang kangkai khou ai bam khou,",
+            "Nang tuang ringh riw 1<: gaanc gutna,",
+            "Kangriang taek the, alung ’thaekc the,",
+            "Ai thauna Nang thei lay tat the,",
+            "Kangriang taek the, alung ’thaekc the,",
+            "Ai thauna Nang thei lay tat the.",
+            "",
+            "4 Tii’khuai pw khang ping dat mak khe,",
+            "Ai Pou khang e, Pou akhang e;",
+            "Ringhmeipu khou ai lungc bam e,",
+            "Katuang ’twnmei phey ai piu the,",
+            "Baucna ai Nang hu khou guang e,",
+            "Khrista paan {:1 pyrun laa khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "And Can It Be That I Should Gain?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.8.8. D. Ref.",
+        "SSSH 26",
+        "Charles Wesley",
+        "And Can It Be That I Should Gain?",
+        "source hymn 135",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 135."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guloumeipu Jisu zei tei",
+        "titleRongmei": "Guloumeipu Jisu zei tei",
+        "titleEnglish": "And Can It Be That I Should Gain?"
+      }
+    }
+  }
+}

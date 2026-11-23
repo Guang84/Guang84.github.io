@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0003",
+    "number": 3,
+    "source": {
+      "printedNumber": 3,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John S.B. Monsell",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.10.12.10",
+      "tune": "CW 106"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc ta ’thanmei ramhow",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc ta ’thanmei ramhou gai khou kalum o,",
+            "Py ’bum keyna Kahym daihmei suan o;",
+            "Latpiumei kachaek lev lungniamhmei agaw 7}$",
+            "Phungc guangna bwan diu, Poubauhmei zanc ta.",
+            "",
+            "2 Kadanmei puatphung 7}$ Kaphaypav khou lou o,",
+            "Kamei nang ta Kangaeng khou pamclou ni;",
+            "Nang ta swmlou ni nang ravsuai dawlou puni,",
+            "Nang phaikaamv ta Kamei #^7 zaylou ni.",
+            "",
+            "3 Katuang Ravkai khou tat gut khang nang howrouh riu,",
+            "Nang ramlungsii ta ningna tingsik riu;",
+            "’Chumhmei ramgai lev zianmei tuang lunghgutmei 7}$",
+            "Ravcha swna Kakai khou katlou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Worship the Lord",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "12.10.12.10",
+        "CW 106",
+        "John S.B. Monsell",
+        "Worship the Lord",
+        "source hymn 3",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 3."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc ta ’thanmei ramhow",
+        "titleRongmei": "Ravguangc ta ’thanmei ramhow",
+        "titleEnglish": "Worship the Lord"
+      }
+    }
+  }
+}

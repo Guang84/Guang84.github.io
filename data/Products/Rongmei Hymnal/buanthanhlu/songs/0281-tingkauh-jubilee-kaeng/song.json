@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-281",
+    "number": 281,
+    "source": {
+      "printedNumber": 281,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh Jubilee Kaeng",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          281 Tingkauh Jubilee Kaeng",
+            "                         9.9.8.8.Ref. 8. 8. 8.9",
+            "          Doh hei Eb",
+            "",
+            "          1. Tingkauh Jubilee kaeng khwan \"king o,",
+            "             Taek dat mak khe hiw bammei khwan tei,",
+            "             Paapc phunghmei nunc mu chu thưy lak',",
+            "             \"Kingna guang tho, nyan pwni the.",
+            "",
+            "                       Tat nimei tingkauh ramc khou kiu,",
+            "                       Tingsaeng neihlaa mbaanvthay ni,",
+            "                       Kaamcthau di kho, 'zianmei nunc le,",
+            "                       Tingkauh Jubilee kaeng khwan 'kingna.",
+            "",
+            "          2. 'Thei han dat ri tho, lwmloumei guay,",
+            "             Kandih hei mu zinghpui bamv di the,",
+            "             Kap kalanghmei rui zingc sihnic,",
+            "             'Kauh Jubilee kaeng khwan 'king o.",
+            "",
+            "          3. Tangc zai pwni the, tingkauh ramc kiu,",
+            "             How zaic ni the, Kaipou Khrista lwn,",
+            "             Hallelujah ! Samc kan ni the",
+            "             Tingkauh Guangc Jubilee Ngai khang'."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh Jubilee Kaeng"
+      }
+    }
+  }
+}

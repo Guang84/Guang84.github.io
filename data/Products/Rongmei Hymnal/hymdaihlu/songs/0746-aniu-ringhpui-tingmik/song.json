@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0746",
+    "number": 746,
+    "source": {
+      "printedNumber": 746,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": null,
+      "meter": "9.11.9.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aniu ringhpui tingmik",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Aniu ringhpui tingmik manpukhou,",
+            "Kanloumeipu Poubauhmei ta ai houpuni;",
+            "Khou8#@ ai neihlamei tuai lak khe,",
+            "Kalun tingkau mun kumna pwang puni e.",
+            "",
+            "Chorus:",
+            "He ringmei thingbang lim khou 8#@,",
+            "Tingkaumei gwai neihlana pwai;",
+            "Mban thai puni hei khou 8#@,",
+            "Israel chingbut than bam khou.",
+            "",
+            "2. Namdaih pang kalang bam sini,",
+            "Hei khou 8#@ lungh rianramei 8#@ nai sini;",
+            "Tarou khoou jeih hangmei rui jianmei,",
+            "Ntamh puni e hei kndih hei khou hei.",
+            "",
+            "3. Kumna tat dikho Zion nah gwai,",
+            "Katik kagun daihmei ram8#@ nagwang the;",
+            "Ntao kabna rianra bam sini,",
+            "Akhang neihlamei tingkauh ram 8#@ nai e.",
+            "",
+            "4. Kumna gaimei namdaih tang pukhou,",
+            "Kandih rianra meihei ning dat lak khe;",
+            "Laujiu nah le Gwang daimei ram 8#@,",
+            "Jaojianmei le neihlamei tiloumei pu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "9.11.9.11.",
+        "Aniu ringhpui tingmik",
+        "source hymn 16",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 16."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aniu ringhpui tingmik",
+        "titleRongmei": "Aniu ringhpui tingmik"
+      }
+    }
+  }
+}

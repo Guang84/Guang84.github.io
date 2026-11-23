@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0453",
+    "number": 453,
+    "source": {
+      "printedNumber": 453,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John H.Yates",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8.6. D. Ref.",
+      "tune": "SS 682"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gaanhmei luangcbut khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Gaanhmei luangcbut khou bammei thiu,",
+            "He rihmeithiu, thau tho,",
+            "Zingh mak khou rih hei hac piang tho,",
+            "Neihkhyam key puni the;",
+            "Chyng haap khou hei zauczihmei ta",
+            "Pumtan patna ‘dow tho,",
+            "Lwmmei hei #^7 rih ngam tuang e",
+            "Twmei aniu thay e!",
+            "",
+            "Lwm .. mei #^7 rih ngam e!",
+            "Lwm .. mei #^7 rih ngam e!",
+            "Hymdaihmei ric ramngam e,",
+            "Kandih ta rih ngammei!",
+            "",
+            "2 Kachuangcphey kiu zianmei hei e,",
+            "Baengsaeng kiu Kalat re;",
+            "’Thanmei nunc tatpui chaeng khou ’niu",
+            "Rih ngam khwan kauc tat re;",
+            "Lwmmei nunc #^7 ’pwansav k’rai kumc",
+            "Rihbamv guay ’liu ganc the;",
+            "Lwmmei paan theihmei ta ngammei,",
+            "Mi hei ’niu n-gih e.",
+            "",
+            "3 Zauczihmei #^7 bam haengv bam the,",
+            "Pingmei ricpwan piuna;",
+            "Amanvpui bamv ganclou ducna",
+            "Rihbamv khou ‘dow gut tho!",
+            "Ringhbamv tuang pyrun run lana,",
+            "’Twnmei bungkam kamcna,",
+            "Phay khwan lev kawpui khwan chu khou,",
+            "Dih #^7 kadunh puni.",
+            "",
+            "4 Zauczihmei ta ngam guangmei khang",
+            "Mphwanmei pwan tii ni;",
+            "Baanch’ra nunc hu khou kazanc 7}$",
+            "Tingkauh khou saa ’daw ni;",
+            "Gaanhmei luangc but guay ruc khou #^7",
+            "Zianmei maibwang chuangc ni,",
+            "Zinghmei ngamv guay ta hac ganc ni,",
+            "Ngammei Jisu zanc khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Faith is the Victory!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "6/8",
+        "8.6.8.6. D. Ref.",
+        "SS 682",
+        "John H.Yates",
+        "LWMMEI RUI RIH NGAM E",
+        "Faith is the Victory!",
+        "source hymn 453",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 453."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gaanhmei luangcbut khou",
+        "titleRongmei": "Gaanhmei luangcbut khou",
+        "titleEnglish": "Faith is the Victory!"
+      }
+    }
+  }
+}

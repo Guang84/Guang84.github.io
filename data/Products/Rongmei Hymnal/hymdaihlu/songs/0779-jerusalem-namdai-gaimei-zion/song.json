@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0779",
+    "number": 779,
+    "source": {
+      "printedNumber": 779,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.9.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jerusalem namdai gaimei Zion",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Jerusalem namdai gaimei Zion,",
+            "Martyr guai le bumang nthanmei guai;",
+            "Nkhuaimei guai khrista pan khou rui,",
+            "Bam puni e neikei dat mak piu ram khou.",
+            "",
+            "Chorus:",
+            "Hallelujah poutikgun dai kandiu,",
+            "Hallelujah Amen hallelujah;",
+            "Mei ti nthan loudiu khang guang e,",
+            "He kaguang Immanuel hallelujah.",
+            "",
+            "2. Kross rukhou rui nthuk pui jeih luang kei,",
+            "Jisu jeih nthukmei kalvari khou;",
+            "Aniuta kanlou khang rui luang kei,",
+            "He nthuk ge Jisu jeih hallelujah.",
+            "",
+            "3. Poubaumeita ariu nimei nun 5#^,",
+            "Gehem kaipou poubaumei Jubili;",
+            "Alau nun rui thuanku e pouta,",
+            "Nangta thuan e nthukliangmei hosana.",
+            "",
+            "4. Jerusalem guang Jisu dailiangmei,",
+            "Jerusalem khou guang dailiangmeipu;",
+            "Guang jan khou guangmmei ta thuanku e,",
+            "Messiah ariuna kao e hosanna."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "10.10.9.11.",
+        "Jerusalem namdai gaimei Zion",
+        "source hymn 49",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 49."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jerusalem namdai gaimei Zion",
+        "titleRongmei": "Jerusalem namdai gaimei Zion"
+      }
+    }
+  }
+}

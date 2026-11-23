@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0842",
+    "number": 842,
+    "source": {
+      "printedNumber": 842,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ping maknga tatro abumang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ping maknga tatro abumang,",
+            "Khou tei Zion ching rukhou tei;",
+            "He ching tei kao e nang tatro,",
+            "Khou tei thing kross tei nang jaolo,",
+            "Khou tei poubaumei ta suluai,",
+            "Kapum nthanmei kajei luang.",
+            "",
+            "2. He kalvari ching kaomei khou,",
+            "Charin tuang kanloumei hou e;",
+            "Kandih kun padeimei guai le,",
+            "Theimei guai jingmei khou bamme,",
+            "Jing kandiu ching tei gan puni,",
+            "Tingsangjang kata hou puni.",
+            "",
+            "3. Khangloumei jam tei jao khang #@8,",
+            "Kata karana ganlou na;",
+            "Kapi nkum keimei jao khang,",
+            "Katana ntanga dam lou,",
+            "Gun kumma khiu than khang ni nai,",
+            "Lumlou makmei guai khang ramme."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "8.8.8.8.8.8.",
+        "Ping maknga tatro abumang",
+        "source hymn 112",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 112."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ping maknga tatro abumang",
+        "titleRongmei": "Ping maknga tatro abumang"
+      }
+    }
+  }
+}

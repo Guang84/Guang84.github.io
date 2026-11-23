@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-167",
+    "number": 167,
+    "source": {
+      "printedNumber": 167,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khrista Muangh Ruc khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          167 Khrista Muangh Ruc khou",
+            "                       12.12.9.6.8. 7. Ref. 10. 11. 11. 11",
+            "          Doh hei Ab",
+            "          1. Khrista muangh ruc khou Kahym daicna key pwni.",
+            "             Khrista muangh ruc khou Kahym daicna key pwni.",
+            "             Kaganv tei saa ngammak lauthwan ny,",
+            "             Kalaan ny, zingbangc ny,",
+            "             Khrista tei muangh ruc khou dungcna,",
+            "             Kahym daicna key pwni.",
+            "               Key pwthe (Champanvthiu, nang chamdaanv thah?)",
+            "               Jisu key the (Champanvthiu, nang chamdaanv thah?)",
+            "               Key pwthe (Champanvthiu, Kamei lev tat khang)",
+            "               Guanghtulou khang (Key pwni the muangh ruc khou)",
+            "               Kaganv tei saa ngammak,",
+            "               Lauthwan ny, kalaan ny, zingbangc ny,",
+            "               Khrista tei muangh ruc khou dungcna,",
+            "               Kahym daicna key pwni.",
+            "",
+            "          2. Khrista guang pwkhou paapc phunghmei kaguayna khang,",
+            "             Ryanraa pingmei rui kadunh pwni hei khoutei;",
+            "             Nang lung laic lana ding ntip tho.",
+            "             Kaganv tei ri pwni, Kamei guangmei khang chamdaanv tho;",
+            "             Kamei lev tat nchamc khang.",
+            "          3. Khrista guang pwkhou lwmloumei kaguayna rui,",
+            "             Neihlaa zaenggayna Kata sowriu pwni the;",
+            "             He champanvthiu le, nang chamdaanv thah?",
+            "             Huayney o, kaganv 'thuih khaengvthayna",
+            "             'khwanna chamdaanv tho;",
+            "             Kata sow ariw ngam khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khrista Muangh Ruc khou"
+      }
+    }
+  }
+}

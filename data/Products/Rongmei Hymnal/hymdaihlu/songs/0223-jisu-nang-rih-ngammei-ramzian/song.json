@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0223",
+    "number": 223,
+    "source": {
+      "printedNumber": 223,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles Wesley",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "6/4",
+      "meter": "8.6.8.6.6.",
+      "tune": "SS 187"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu Nang rih ngammei ramzian",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu Nang rih ngammei ramzian,",
+            "Alung khou bunlou o,",
+            "Khou kiu alung tarai lak khe,",
+            "Ravguangc khou bam ’tip ni,",
+            "Ravguangc khou bam ’tip ni.",
+            "",
+            "2 He ’Thanmei Mai, alung khou hei,",
+            "’Taw hei gut chuangclou o!",
+            "’Twn makmei khei kau ’thanlou o,",
+            "Siimei tiimaanlou o,",
+            "Siimei tii’maanlou o.",
+            "",
+            "3 He Pentikos nungc keymei pu,",
+            "Paapc guay kau ’thanlou o,",
+            "He chuangc bammei Bumaengh ’Thanmei,",
+            "He Bumaengh guanglou o!",
+            "He Bumaengh guanglou o!",
+            "",
+            "4 Sw-’thanmei Mai, tiigaanclou o,",
+            "Nang ramring tiilou o,",
+            "Natnw kathuic zinliklou o,",
+            "Kapwm sw ’thanlou o,",
+            "Kapwm sw ’thanlou o.",
+            "",
+            "5 Kadyng dingmei alungning hei",
+            "Kalung dat zat lak khe,",
+            "Khrista paan )}3 alungsyng khou,",
+            "Zianmei padik pwkhou,",
+            "Zianmei padik pwkhou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus, Thine All-Victorious Love",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "6/4",
+        "8.6.8.6.6.",
+        "SS 187",
+        "Charles Wesley",
+        "Jesus, Thine All-Victorious Love",
+        "source hymn 223",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 223."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu Nang rih ngammei ramzian",
+        "titleRongmei": "Jisu Nang rih ngammei ramzian",
+        "titleEnglish": "Jesus, Thine All-Victorious Love"
+      }
+    }
+  }
+}

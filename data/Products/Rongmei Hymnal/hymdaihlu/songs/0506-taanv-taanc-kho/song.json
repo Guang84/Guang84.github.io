@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0506",
+    "number": 506,
+    "source": {
+      "printedNumber": 506,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.12.12.12. Ref.",
+      "tune": "SS 751"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "TAANV TAANC KHO",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Taanv taanc kho! (2) ’niu Ravguangc bangc nunc e,",
+            "Kaipouc tatpui chaeng khou ’niu nic lay tat di kho;",
+            "Kalatdanv #<8 ’niu pumtan tiikaluanlou khang,",
+            "Taanh khang ariwmei guay ngamvpatna taanc di kho.",
+            "",
+            "Taanc di kho!..taanc di kho! (2)",
+            "Rigwn kho, .. changkhaanv kho!",
+            "Taanc bam kho, Kaipouc guang mak saanv.",
+            "",
+            "2 Taanv taanc kho! (2) ’daapc mei ta tiitu kho,",
+            "Ringhmei duipuak khou lakmei nunc ta zaylou kho;",
+            "Katuang kros lev chuanghphey hei ’niu hym sw puni,",
+            "“Ringhbamv nsaa tii the,” twmei chamv dinc bam khou.",
+            "",
+            "3 Taanv taanc kho! (2) meic guaykhang taanv nai e,",
+            "Zinghmei guangcdic lev ’khuaimei guay ’maan kan puni,",
+            "Poubauhmei zanc hei kauh liangsingmei sw puni,",
+            "“Ringhbamv nsa tii the,” twna kauc thau pwkhou.",
+            "",
+            "4 Taanv taanc kho! (2) Kaipouc tuang pumtan khou,",
+            "Guangh pyrun, guangh pheychuan aniu swan sw puni,",
+            "Biangpiu mei nunc kai 8}@ aniu kai sw puni,",
+            "“Ringhbamv nsa tii the,” kaniw lev kauc ’chamc ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "To the Work!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "12.12.12.12. Ref.",
+        "SS 751",
+        "Fanny J. Crosby",
+        "To the Work!",
+        "source hymn 506",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 506."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "TAANV TAANC KHO",
+        "titleRongmei": "TAANV TAANC KHO",
+        "titleEnglish": "To the Work!"
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0249",
+    "number": 249,
+    "source": {
+      "printedNumber": 249,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "EL Nathan",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 385"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ata zauc lo, nangniw ringc lo!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Ata zauc lo, nangniw ringc lo!”",
+            "’King o, suaihiam latdanv!",
+            "’Thuihmei ringcbamv, nsaa ringcbamv,",
+            "Kandih ’thuic dinc tat ro.",
+            "",
+            "“Ata zauc lo, .. nangniw ringc lo!",
+            "He kandih kakwn guay!",
+            "Ai Ravguangc e, .. baihmei maek ge:",
+            "Ata zaucna ..nangniw ringc lo!”",
+            "",
+            "2 “Ata zauc lo,” kros ruc khou 5^&",
+            "He ryanramei bumaengc",
+            "Nang paap guay 5^& Ai phungclou he,",
+            "Lwm tho, gay dat la tho!",
+            "",
+            "3 “Ata zauc lo,” ringhmei pu ta,",
+            "Zinghmei, ’thiammei ganv khou;",
+            "Nang khang pumtan Ai tii puni,",
+            "Seitaan ngamv ta ngam khang.",
+            "",
+            "4 “Ata zauc lo,” baihmei zauh riu,",
+            "Nang khang gaengmei maek ge,",
+            "Kuakloumei lev chuzaenghmei khang",
+            "Ata na nang zauc lo!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“Look Unto Me and be Ye Saved!”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "3/4",
+        "8.6.8.6. Ref.",
+        "SS 385",
+        "EL Nathan",
+        "“Look Unto Me and be Ye Saved!”",
+        "source hymn 249",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 249."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ata zauc lo, nangniw ringc lo!",
+        "titleRongmei": "Ata zauc lo, nangniw ringc lo!",
+        "titleEnglish": "“Look Unto Me and be Ye Saved!”"
+      }
+    }
+  }
+}

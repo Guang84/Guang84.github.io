@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-259",
+    "number": 259,
+    "source": {
+      "printedNumber": 259,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc tuang Siamruai Sw Nimei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          259 Ravguangc tuang Siamruai Sw Nimei",
+            "                           10.10.10. 10.Ref. 9.9. 10. 10",
+            "          Doh hei F",
+            "",
+            "          1. Ravguangc tuang siamruai sw nimei thow cho?",
+            "             Khav nym bam khou Pitar ta kaw khwan e;",
+            "             Taanv 'tynmei ganv khou kaniw ta kaw e:",
+            "             Dinc tatloumei guay tei sangaymei e.",
+            "",
+            "               Neihmik key mak khou taanv taanc la tho;",
+            "               Kandih laudai minc nzinh ngam the;",
+            "               Ravguangc nang taanv zauh khang guangpui nungc kiu,",
+            "               Baanh raeng bam pwramc e taanv taanc la tho.",
+            "",
+            "          2. Aseic nang taanvphy tei 'phang mak nuh e;",
+            "             Nthei thangc khang ningna kataanv taanc o.",
+            "             Jisu nang ta nzianmei latchamv hei,",
+            "             Nang taanv dwan hei dinc ruantat khang di the.",
+            "",
+            "          3. Ravguangc, ai rui Nang taanv taanc nimei hei,",
+            "             Kat patlou the Nang phaypav bangc khoutei.",
+            "             Pumtan tiikeylou o, he aRavguangc,",
+            "             Suaihiam tiikeylou o, he aRavguangc."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc tuang Siamruai Sw Nimei"
+      }
+    }
+  }
+}

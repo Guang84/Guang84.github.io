@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0141",
+    "number": 141,
+    "source": {
+      "printedNumber": 141,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "C.F.Weigle",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.11.12.11. Ref.",
+      "tune": "CSH 120"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU KUMC ATA KADANLOUMEI MAEK",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu lam ai thaymei nang khou dinclou nii e,",
+            "Kamei akhang tanhmei, ’chumhmei, Duangda e,",
+            "Apanty tiikalaicloumei lam rac nii e,",
+            "Baihmei ^&5 taanc ngam makmei Kamei taanclou.",
+            "Jisu kumc ata kadanloumei maek,",
+            "Kakumcna zianthaymei Duangda maek,",
+            "Paapc lev zinghmei akhou ^&5 laa ganc ngammei maek,",
+            "Ata adih kadan cho!",
+            "",
+            "2 Jisu ariw khou 5^& apaap padik khwan e,",
+            "Alung khou ryanra zaengsii padik khwan e;",
+            "Jisu zauzian baancpwam ^&5 ata pamclouna,",
+            "Ai tat nipui chaeng khou ata zaylou e.",
+            "",
+            "3 Tingmik ’thuic latryan kathanc than akhou tiilou,",
+            "Katuang zianmei latkaeng 5^& thay ’bu ku e;",
+            "’Ki ata gulou khang guangmei thukh thay tangc lak,",
+            "Kauh thangc Kazawpaanv gaymei ai how mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "No One Ever Cared for Me Like Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "12.11.12.11. Ref.",
+        "CSH 120",
+        "C.F.Weigle",
+        "Jisu lam ai thaymei nang khou dinc",
+        "No One Ever Cared for Me Like Jesus",
+        "source hymn 141",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 141."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU KUMC ATA KADANLOUMEI MAEK",
+        "titleRongmei": "JISU KUMC ATA KADANLOUMEI MAEK",
+        "titleEnglish": "No One Ever Cared for Me Like Jesus"
+      }
+    }
+  }
+}

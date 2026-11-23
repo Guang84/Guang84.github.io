@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-045",
+    "number": 45,
+    "source": {
+      "printedNumber": 45,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Bumaeng samkei o, Eden khou puat guai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Bumaeng samkei o, Eden khou puat guai,",
+            "Muh ngam louna nang ramgai tei zuanni;",
+            "Houni kagun daih gaimei kapumna,",
+            "Thuanhpui khuan mpuan kumna liulou ni.",
+            "",
+            "Immanuel nang zauzian pi lung khou,",
+            "Rianra pui rih daih e ‘na guang datro,",
+            "Ngalan guang o aniu ringhmei nang e,",
+            "Nang zauzian pi lung khou hei,",
+            "Rianrapui rih daih e.",
+            "",
+            "2. He! Neihlamei le suaihiampui tingmik,",
+            "Nang ringhmei chaeng gaimei khou zailou o;",
+            "He! Jordan dui daihmei rui kamuatna,",
+            "Kanaan ramgai khou zai kan pat lou o.",
+            "",
+            "3. Sam thaina akhouhna kum sam e thei,",
+            "Ai ringhmei Kalvary ching sam tangni;",
+            "Kandi ramgai hei ai loudu pukhou,",
+            "Neihlapui ram gaimei tei nzuanni.",
+            "",
+            "4. He! Ai neihlaa pui tingmik maan pukhou,",
+            "Neihlamei namdaih gai khou ai bamni;",
+            "Kalvary ching thuanna ai lu suanni,",
+            "Khaengh loumei tei ‘mu makna suan bamni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 45",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 45. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Bumaeng samkei o, Eden khou puat guai",
+        "titleRongmei": "Bumaeng samkei o, Eden khou puat guai"
+      }
+    }
+  }
+}

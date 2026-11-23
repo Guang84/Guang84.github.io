@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0676",
+    "number": 676,
+    "source": {
+      "printedNumber": 676,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Henry Alford",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7.7. D",
+      "tune": "HLC 565"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guang tho, thuanckumei nuncle",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guang tho, thuanckumei nuncle,",
+            "Lau tay guangmei lu suan kho;",
+            "Phuling guay khuam guanglou the,",
+            "Tingsei ganv 0({ guang mak khou;",
+            "Damcloumei pu Racguangc ({0",
+            "Kage naimei guay tiilou,",
+            "Guang tho, Ravguangc kai khou hei,",
+            "Lau tay guangmei lu suan kho.",
+            "",
+            "2 Dih hei Ravguangc laupuk ge,",
+            "Phuling guay hei Katuang e;",
+            "Nap lev napriak thau ’chamc e,",
+            "Ryanra, neihlaa kariu e;",
+            "Kanuy, kapwang pat rey e,",
+            "Hei tangv kathai nthai e;",
+            "He lau Kaipouc, ’niw huay e,",
+            "’Niw hei ’takmei thai sw khang.",
+            "",
+            "3 Kaipouc Ravguangc guang pw the,",
+            "Katuang napthai khuam guang khang,",
+            "Hei nungc kiu Kalaupuk khou",
+            "Napgung guay hunc ganc puni;",
+            "Baanch’ra nunc ta langlouna",
+            "Napriak guay mai thou puni;",
+            "’Takmei thw guay khuam guangna",
+            "Kasaamc khou rylou puni.",
+            "",
+            "4 Amen! guang ’khap tho, Kaipouc,",
+            "Nkhamvmei lautai tay khang!",
+            "Nang mei guay ta khuamlou tho,",
+            "Paapc lev ryanramei duak khang;",
+            "Khou kiu tingsaeng sw ’thanna",
+            "Nang hu khou tingsaeng lungh khang,",
+            "Guang tho, Nang baanch’ra nunc lev",
+            "Hymdaih lau tai lu suan khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Come, Ye Thankful People, Come",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "7.7.7.7. D",
+        "HLC 565",
+        "Henry Alford",
+        "Come, Ye Thankful People, Come",
+        "source hymn 676",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 676."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guang tho, thuanckumei nuncle",
+        "titleRongmei": "Guang tho, thuanckumei nuncle",
+        "titleEnglish": "Come, Ye Thankful People, Come"
+      }
+    }
+  }
+}

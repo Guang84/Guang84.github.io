@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-140",
+    "number": 140,
+    "source": {
+      "printedNumber": 140,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Salem ram thang nzuan di kho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Salem ram thang nzuan di kho,",
+            "Huthang nzuan tat ro,",
+            "He! Poubaomei ta ai phuna.",
+            "",
+            "He! Poubaomei tingsaeng",
+            "Ringmei neihlamei,",
+            "He! Tikei o, He! Apoubaomei",
+            "Asei hei neihla khang.",
+            "",
+            "2. Kandi rianra ram tuan pukhou",
+            "Lung gei mei nai lak khe;",
+            "Kanloumei puta hou pukhou.",
+            "",
+            "3. Ai thuan bamni poubaomei ta,",
+            "Pati ngana thuan ni;",
+            "Noupoupu lun tei hou mak saan.",
+            "",
+            "4. Poubaomei ta ai thuan bam ni",
+            "Suaihiam mei poubaomei,",
+            "Nang baan rui ata zailou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 140",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 8.6.8"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 140. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 116,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Salem ram thang nzuan di kho",
+        "titleRongmei": "Salem ram thang nzuan di kho"
+      }
+    }
+  }
+}

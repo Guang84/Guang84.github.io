@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0829",
+    "number": 829,
+    "source": {
+      "printedNumber": 829,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jaolo ringmei nthuk pui jei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Jaolo, ringmei nthuk pui jei,",
+            "Ntao hei ni luang bam;",
+            "Mikdui keiloumei pu jei 0({,",
+            "Gun kumma phuanpui tuang (2).",
+            "",
+            "Chorus:",
+            "Gun kumma phuanpui bamkhou louna,",
+            "Thou puni lou nimei guai 0({;",
+            "Pap guai khiu than lou ni.",
+            "",
+            "2. Kanloumeipu kalvari ching khou,",
+            "Rianra rianriu khang louKhou rui nthukpui jei patlou,",
+            "Gun kumma phuan pui tuang (2).",
+            "",
+            "3. He mei geimei ta nuh puni,",
+            "Hei jei hei luang bam khou;",
+            "Nthukpui Nah ta ningmei rui,",
+            "Gun kumma phuan puni (2).",
+            "",
+            "4. Poubaumei 0({ kei dat puni,",
+            "Kamei nun ta lakhang;",
+            "Nthukpui jei ningmei narui,",
+            "Tingkauh ram la puni (2)."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "8.6.8.6.",
+        "Jaolo ringmei nthuk pui jei",
+        "source hymn 99",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 99."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jaolo ringmei nthuk pui jei",
+        "titleRongmei": "Jaolo ringmei nthuk pui jei"
+      }
+    }
+  }
+}

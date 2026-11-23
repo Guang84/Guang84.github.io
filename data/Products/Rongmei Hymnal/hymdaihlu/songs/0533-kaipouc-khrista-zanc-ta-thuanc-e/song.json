@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0533",
+    "number": 533,
+    "source": {
+      "printedNumber": 533,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Samuel F. Coffman",
+      "composer": null,
+      "arranger": null,
+      "chord": "B",
+      "key": null,
+      "beat": "6/4",
+      "meter": "L.M.",
+      "tune": "HLC 214"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaipouc Khrista zanc ta thuanc e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaipouc Khrista zanc ta thuanc e,",
+            "Kalat khang ’niu kata thuanc e,",
+            "Kapu ningmei 1<~ taanc niina",
+            "Katuang ’twnmei taanc ’thuihmei khang.",
+            "",
+            "2 ’Niu nic Kathiak layluaih niina",
+            "’Thukmei riak ta taanc ’thuihlou the,",
+            "Dui <~1 ’niu lwmmei nymlou the,",
+            "Lat piu nimei 1<~ ’niw lyanna.",
+            "",
+            "3 Duilup be, Pu Ravguangc zanc khou,",
+            "Nah Pouh lev Bumaengh",
+            "’Thanmei khou,",
+            "’Niu lung ’thanna, Kakhou ’thaekc ge,",
+            "’Chuzaenghna Jisu zei paan <~1.",
+            "",
+            "4 Zauzian <~1 “Abba, Pu” kaw e,",
+            "’Khavloumei pu ta thouclou e;",
+            "Zauzian zaeng khang ’niw zianmei hei",
+            "Tingsaengzaeng Nang khang na tii ni. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "We Bless the Name of Christ",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "B",
+        "6/4",
+        "L.M.",
+        "HLC 214",
+        "Samuel F. Coffman",
+        "We Bless the Name of Christ",
+        "source hymn 533",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 533."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaipouc Khrista zanc ta thuanc e",
+        "titleRongmei": "Kaipouc Khrista zanc ta thuanc e",
+        "titleEnglish": "We Bless the Name of Christ"
+      }
+    }
+  }
+}

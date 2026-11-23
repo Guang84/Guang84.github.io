@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-007",
+    "number": 7,
+    "source": {
+      "printedNumber": 7,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai ruina Thay the Kachangc Changhna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          7    Ai Ruina Thay the, Kachangc Changhna",
+            "                                  9.9.9.9. Ref. 9.9.9.9",
+            "          Doh hei Ab",
+            "",
+            "          1. Ai ruina thay the kachangc changhna,",
+            "             Mi ’baanv kandih hei akai hamh e,",
+            "             Neih khatna ’gin guanglou kumh tuang de;",
+            "             Neih khatna ’gin guanglou kumh tuang de.",
+            "",
+            "                  Tingsaengc lak khe, ai han dat ni the,",
+            "                  Neihlaamei tingkauh akai thangctei;",
+            "                  Tingkauh baanch’raa guay lev bam ’chamcna,",
+            "                  Neihlaa zaenggay lu suan ’cham ni the.",
+            "",
+            "          2. Alungning syng khou Poubauhmei lat,",
+            "             Guang pwthe trampet amuan kumcna,",
+            "             Amuan guangmei khwantei rui saa e:",
+            "             Tingkauh kandih tei ’naaguang pwthe.",
+            "",
+            "          3. Kandih khou naimei ataanv kaguay,",
+            "             Alatsav guay amaan pwni e,",
+            "             Poubauhmei tingsaeng ringhmei Lat mu,",
+            "             Khatsihnic amaan ni tuang hamh e.",
+            "",
+            "          4. Ryanraa’ guay nthaekc pwni neihkhat;",
+            "             Tingkauh kandic tei tangc pwkhou kiu,",
+            "             Suan bammei aluswan kaguay hei,",
+            "             Neihlaana tingkauh thangc suan dat ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai ruina Thay the Kachangc Changhna"
+      }
+    }
+  }
+}

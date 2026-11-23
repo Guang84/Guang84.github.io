@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0383",
+    "number": 383,
+    "source": {
+      "printedNumber": 383,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "H.G. Spattord",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.8.11.9. Ref.",
+      "tune": "SS 901"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chuzaenghmei akhou duiriang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Chuzaenghmei akhou duiriang kumc guang pwkhou",
+            "Ryanramei dui kamuatc kumc khou,",
+            "San khou patmei guay khou saakhang Nang ’chamlou,",
+            "Kum kan diu, mi hei gay khang guang de.",
+            "“Kum kan diu, .. ai nuh de,",
+            "Kum kan diu, mi hei gay khang guang de!”",
+            "",
+            "2 Seitaan #^5 rairiuna nchanv pw sihni,",
+            "Heipui phaydyng #^5 gaeklou ni:",
+            "Ngam makmei alwnlung Khrista thaylouna",
+            "Abumaengc khang Kazei keylou the.",
+            "",
+            "3 Apaap lam khou makumh khou neihlaa sih the!",
+            "Apaap 5#^ asaekc na hamh the,",
+            "Kapwmna Jisu kros khou hianbinlou the,",
+            "Pou ta thuancku o, he abumaengc!",
+            "",
+            "4 Khrista paan ai ringc Khrista khang ai ringc ni!",
+            "Jordan dui daic liam guang sihni,",
+            "Ringc nic, theic punic ai ryanra dat lak khe,",
+            "Akhang chuzaenghmei tii puni de.",
+            "",
+            "5 Kaipouc, Nang key datmei ta aniw ’khwan e,",
+            "’Niw machunc kiu thu tingkauh de;",
+            "Baanch’ra, tiangka lev Kaipouc khwan chu nimei,",
+            "Mi hei alung #^5 rigwnmei e!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "It is Well with My Soul!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "11.8.11.9. Ref.",
+        "SS 901",
+        "H.G. Spattord",
+        "Kum kan diu, ai nuh de",
+        "It is Well with My Soul!",
+        "source hymn 383",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 383."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chuzaenghmei akhou duiriang",
+        "titleRongmei": "Chuzaenghmei akhou duiriang",
+        "titleEnglish": "It is Well with My Soul!"
+      }
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-160",
+    "number": 160,
+    "source": {
+      "printedNumber": 160,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Alung rui ninga tingkao ramta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Alungh rui ninga tingkao ramta,",
+            "Tabui nung ai guang tang nina cho?",
+            "Nzianmei guai le ntammei guai,",
+            "Mi ram khou tei souriu dat puni.",
+            "",
+            "He! Raguang nang tingsaeng ram khou tei,",
+            "Zailou, gaenglou dat ro;",
+            "Tabui nung rui ai khou tei guang tang nicho?",
+            "He! Raguang kandih khou rianramei na guai rui.",
+            "",
+            "2. Tingkao nzuanna tat bam khou hei,",
+            "Chaeng dinlou o He! Raguang Jisu,",
+            "Nang ramgaimei tei ai houni e,",
+            "Tabui nung rui ai guang tang nicho?",
+            "",
+            "3. Kandih khou tam kanmei zianmei guai,",
+            "Tabui nung rui guang tang nina cho?",
+            "Nang ramgai tei guang tanghpui nung kiu,",
+            "Neihlamei pari tei ra ‘chamh ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 160",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 160. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Alung rui ninga tingkao ramta",
+        "titleRongmei": "Alung rui ninga tingkao ramta"
+      }
+    }
+  }
+}

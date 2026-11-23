@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0121",
+    "number": 121,
+    "source": {
+      "printedNumber": 121,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mediaeval Latin Carol",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "6/8",
+      "meter": "Irregular.",
+      "tune": "CW 193"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khristianmei zaenggay o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Khristian mei, zaenggay o,",
+            "Lungh, bumaengh, khwan pwm >|3!",
+            "Chu lo, ’niw dinhmei latchamv: Gaychamv!",
+            "’Seic hei Jisu ta puanc the;",
+            "Kiruai guay nic kalum e,",
+            "Kata kiruaikuak khou ’zilou,",
+            "’Seic Khrista puanc the,",
+            "’Seic Khrista puanc the.",
+            "",
+            "2 Khristian mei, zaenggay o,",
+            "Lungh, bumaengh, khwan pwm >|3!",
+            "Chu lo, taek makmei zaenggai, zaenggai!",
+            "Hei khang Jisu ta puanc e;",
+            "Tingkauh kaikhamv laanclou the,",
+            "Maansei khang suaihiam phungc uang the;",
+            "Hei khang Khrista puanc,",
+            "Hei khang Khrista puanc.",
+            "",
+            "3 Khristian mei, zaenggay o,",
+            "Lungh, bumaengh, khwan pwm >|3!",
+            "Theihmei ta ping khang maek khe, ’zaengh the,",
+            "Gulou khang Jisu puanc the,",
+            "Meic guayna ta kaw tuang e,",
+            "Tingkauh ramgai khou lungh khang e;",
+            "Gulou khang puanc the,",
+            "Khrista ta puanc the!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "6/8",
+        "Irregular.",
+        "CW 193",
+        "Mediaeval Latin Carol",
+        "Good Christian Men, Rejoice",
+        "source hymn 121",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 121."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khristianmei zaenggay o",
+        "titleRongmei": "Khristianmei zaenggay o"
+      }
+    }
+  }
+}

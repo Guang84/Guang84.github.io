@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-276",
+    "number": 276,
+    "source": {
+      "printedNumber": 276,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thowkumhmei rui Khrista khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          276 Thowkumhmei rui Khrista khou",
+            "                          10.10.8.9.Ref. 10. 10.10.10",
+            "          Doh hei B",
+            "",
+            "          1. Thowkumhmei rui Khrista khou bam ethei,",
+            "             Kamei tei damc thanh datmei kiu di the;",
+            "             Karaan guay tat twan ngam kan the,",
+            "             Zauc lo, puatc guayna kathanc ngam the.",
+            "",
+            "                  Tingkauh neihlaa mbaanvthaymei guay tei,",
+            "                  Jisu zei rui akhang nsaa tilou.",
+            "                  Alung geihmei guay hei nai dat lak khe;",
+            "                  Zauc lo, akhang puatc guay kathanc ngam the.",
+            "",
+            "          2. Akhang Eden kathanc guang dat pwthe;",
+            "             Jisu khou lwmlou datmei paan khourui,",
+            "             Theihmei khourui ai ringc dat the;",
+            "             Pou' Jisu zauzian paan khourui.",
+            "",
+            "          3. Zinghmei khourui lauthwan gaanc patmei kumc,",
+            "             Alungning khou kathanc guang dat pwthe.",
+            "             Poubauhmei le, zaylou na ro,",
+            "             Theihmei nganvna Nang khang sw ni.",
+            "",
+            "          4. 'Zianmei nunc le, Poubauhmei khou guang o;",
+            "             Kaganv gay khou bumaengh khangrui lungco.",
+            "             Pouhpeih riak ta ganclou ngamna,",
+            "             Eden kathanc khou lungc di kho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thowkumhmei rui Khrista khou"
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0201",
+    "number": 201,
+    "source": {
+      "printedNumber": 201,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles Wesley",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7.7. Alleluias.",
+      "tune": "HLC 173"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thuanc ne, kamei thaumei nungc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thuanc e Kamei thaumei nungc,Alleluia!",
+            "Tingkauh Kaguangc bamvpaeng khou, Alleluia!",
+            "Paapc mei khang keymei Khrista, Alleluia!",
+            "’Taw thu tingkauh ku kan the, Alleluia!",
+            "",
+            "2 Rih ngammei #^7 Kata ’Khwan, Alleluia!",
+            "Raenghmun guay py ngangc thau o, Alleluia!",
+            "Paapc lev theihmei ta ngam the, Alleluia!",
+            "Hymdaih Guangc ta tiigut ro,Alleluia!",
+            "",
+            "3 Zauc lo, Kabaanc zay thau the, Alleluia!",
+            "Zauc lo, zianmei zamv lyanlou, Alleluia!",
+            "Chu lo, Kamei ’zianmei khwan, Alleluia!",
+            "Phwamling ta suaihiamloumei, Alleluia!",
+            "",
+            "4 ’Niw how tangh makmei Kaipouc, Alleluia!",
+            "’Niw lung Nang khou phungc guang e, Alleluia!",
+            "Khou 7}$ Nang zaw paanv gaanc e, Alleluia!",
+            "Aniw tingkauc kiu Nang e, Alleluia!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Hail the Day that Sees Him Rise",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "7.7.7.7. Alleluias.",
+        "HLC 173",
+        "Charles Wesley",
+        "Hail the Day that Sees Him Rise",
+        "source hymn 201",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 201."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thuanc ne, kamei thaumei nungc",
+        "titleRongmei": "Thuanc ne, kamei thaumei nungc",
+        "titleEnglish": "Hail the Day that Sees Him Rise"
+      }
+    }
+  }
+}

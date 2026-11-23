@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0095",
+    "number": 95,
+    "source": {
+      "printedNumber": 95,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "P.P.Bliss",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7.8.",
+      "tune": "SS 102"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HALLELUJAH! GULOUMEIPU!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Ryanra ’khaengvmeipu,” Jisu,",
+            "Paapcmei ringc dat khang keymei,",
+            "Ravguangc Nac zanc hei ch’ryn e!",
+            "Hallelujah! Guloumeipu!",
+            "",
+            "2 Sinnuimei, zakmei phungclou,",
+            "Aphaan Kamei dinglynlou;",
+            "Kazei #^5 apaap kuaklou;",
+            "Hallelujah! Guloumeipu!",
+            "",
+            "3 Kasai-karou khang maekmei",
+            "Ravguangc Lauziu Nac ’thanmei,",
+            "Paapc pow khangh khang",
+            "theicloumei!",
+            "Hallelujah! Guloumeipu!",
+            "",
+            "4 Theic diu khang zaydaanc thau e,",
+            "“Luai the!” twna kauc pat the;",
+            "’Taw thu kauh thangc hymdaic bam,",
+            "Hallelujah! Guloumeipu!",
+            "",
+            "5 Lwmmei guay ta laa thau khang,",
+            "Aniw Guangc key dat pwkhou,",
+            "Hei lu hei ’niw suan dat ni,",
+            "Hallelujah! Guloumeipu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Hallelujah! What a Saviour!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "7.7.7.8.",
+        "SS 102",
+        "P.P.Bliss",
+        "Hallelujah! What a Saviour!",
+        "source hymn 95",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 95."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HALLELUJAH! GULOUMEIPU!",
+        "titleRongmei": "HALLELUJAH! GULOUMEIPU!",
+        "titleEnglish": "Hallelujah! What a Saviour!"
+      }
+    }
+  }
+}

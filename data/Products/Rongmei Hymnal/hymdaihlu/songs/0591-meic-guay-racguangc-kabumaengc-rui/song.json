@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0591",
+    "number": 591,
+    "source": {
+      "printedNumber": 591,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Haynes Holmes",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. D.",
+      "tune": "CW 554"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Meic guay Racguangc Kabumaengc rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Meic guay Ravguangc",
+            "KaBumaengc ^&5,",
+            "Dihpy dihba zin e,",
+            "Kangamv ^&5 gaanchuangc guay bangclou",
+            "Kalangv akhat swna;",
+            "Ringhmei, gaanhmei nsa tiilou,",
+            "Maansei nac kathuic khou,",
+            "Nang khou ’niw huayneyna bam e,",
+            "’Niw hei khat na sw khang.",
+            "",
+            "2 Nang ningmei phumei nunc guay hei",
+            "Kapang khat sw bam e;",
+            "Nang Latdanv guay piu ’thuih ngam khang",
+            "Tut makna karamc e.",
+            "Kadam khat na laa ’chamc bam e,",
+            "Laanhmei ta athwng khang;",
+            "Bumaengh baengsaeng 5^& zay thau e,",
+            "’Suanmei nunc ta gaek khang.",
+            "",
+            "3 ’Chumhmei khou ’niu khat na sw e,",
+            "Tiibauhmei ramlwm khou;",
+            "Zianmei ^&5 khat na khang bangclou,",
+            "’Khavlou khang, gulou khang;",
+            "Howduhmei khou khat na sw e,",
+            "Chuzaenghmei guangcdic ta;",
+            "Khou5^& ramh guay khat na sw ni,",
+            "Ramh guay Kaipouc Nang khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Thou God of All, Whose Spirit Moves",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "8.6.8.6. D.",
+        "CW 554",
+        "John Haynes Holmes",
+        "Thou God of All, Whose Spirit Moves",
+        "source hymn 591",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 591."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Meic guay Racguangc Kabumaengc rui",
+        "titleRongmei": "Meic guay Racguangc Kabumaengc rui",
+        "titleEnglish": "Thou God of All, Whose Spirit Moves"
+      }
+    }
+  }
+}

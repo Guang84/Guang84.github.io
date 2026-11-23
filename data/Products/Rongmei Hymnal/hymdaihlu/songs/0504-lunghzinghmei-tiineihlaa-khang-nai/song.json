@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0504",
+    "number": 504,
+    "source": {
+      "printedNumber": 504,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "George Cooper",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7.7.7.7.7. Ref.",
+      "tune": "SS 802"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lunghzinghmei tiineihlaa khang nai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Lunghzinghmei tiineihlaa khang nai,",
+            "Tingmik guay ^&8 tat bam khou;",
+            "’Maanmei, ryanramei bumaengc nai,",
+            "Tingmik guay ^&8 tat bam khou;",
+            "’Niu ’gyn tatpui chaenglwan khou",
+            "Lungh tiineihlaa ngam ethei",
+            "Gaymei taanv ’niu taanh tu the,",
+            "Tingmik guay ^&8 tat bam khou.",
+            "",
+            "Tat bam khou, .. tat bam khou!",
+            "Tat bam khou, .. tat bam khou!",
+            "Gaymei taanv ’niu taanc nuh e,",
+            "Tingmik guay ^&8 tat bam khou!",
+            "",
+            "2 Khanc-lanc bam khang kaganv maek ge,",
+            "Tingmik guay ^&8 tat bam khou:",
+            "Nang zaw 8^& lauthwan kumc gaanc o,",
+            "Tingmik guay ^&8 tat bam khou;",
+            "Dih hei ryanramei padik,",
+            "Lungh ryanra mikdui padik,",
+            "Nang pammei ta zaythau o,",
+            "Tingmik guay ^&8 tat bam khou.",
+            "",
+            "3 Aniu nzianmei riangluaih guay,",
+            "Tingmik guay ^&8 tat bam khou,",
+            "Khat khat swna tat rey kan the,",
+            "Tingmik guay ^&8 tat bam khou;",
+            "’Ki gay mei thw lingcloumei",
+            "Gayna thau dat puni de;",
+            "Khou kiu ’niu neihlaa puni,",
+            "Tingmik guay ^&8 tat bam khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "While the Days are Going By",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "8.7.8.7.7.7.7.7. Ref.",
+        "SS 802",
+        "George Cooper",
+        "TINGMIK GUAY RUI TAT BAM KHOU",
+        "While the Days are Going By",
+        "source hymn 504",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 504."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lunghzinghmei tiineihlaa khang nai",
+        "titleRongmei": "Lunghzinghmei tiineihlaa khang nai",
+        "titleEnglish": "While the Days are Going By"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-036",
+    "number": 36,
+    "source": {
+      "printedNumber": 36,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kanlou mei pu akhang tei rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kanloumeipu akhang tei rui,",
+            "Kandih khou keilou e;",
+            "Ringkhang ziimakmei guaykum na,",
+            "Thingru khou khaenglou the.",
+            "",
+            "He! ringmei tei Poubaumei e",
+            "Akhang khaeng lou kan the,",
+            "Ryanra theimei ngan na khaeng lou",
+            "Aniu ta kanlou the.",
+            "",
+            "2. KanloumeiPu tari e na",
+            "Thingru khou kaobam khou",
+            "Meigeihmei dingkhou tinimei",
+            "khat sini mei mak ge.",
+            "",
+            "3. Kachaeng luan tei phaeng zau lana",
+            "Kalvary ching ngan na",
+            "Poubaomei thei lai ngam mak ge,",
+            "Lummei guai sabam me.",
+            "",
+            "4. Kalung geicna rian bam khou,",
+            "Nkhaa lou diu ni ye,",
+            "Kamei ning mei sulou ni tuang",
+            "Ai rui ramthai mak ge."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 36",
+        "Khristian Luzaam PDF",
+        "Chord: F",
+        "Meta 3: 8.6.8.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 36. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 36,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kanlou mei pu akhang tei rui",
+        "titleRongmei": "Kanlou mei pu akhang tei rui"
+      }
+    }
+  }
+}

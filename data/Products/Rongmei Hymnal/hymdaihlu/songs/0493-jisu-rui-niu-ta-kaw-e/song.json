@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0493",
+    "number": 493,
+    "source": {
+      "printedNumber": 493,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. C.F. Alexander",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "3/2",
+      "meter": "8.7.8.7.",
+      "tune": "SS 762"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu rui ’niu ta kaw e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Chuzaengh maekmei panty khou )}3",
+            "Jisu )}3 ’niu ta kaw e;",
+            "Zianpui khwan )}3 tingmik ’thuic kaw:",
+            "“He khristian, Athei lay o!”",
+            "",
+            "2 Gaeng makmei kandih syan-lanv ta",
+            "Aniu )}3 kalum bam khou,",
+            "Ravmaengc khou )}3 Jisu kaw e:",
+            "“Khristian, Ata zian diangc o!”",
+            "",
+            "3 Neihlaa bam khou,ryanra bam khou,",
+            "Amanv khou, lak khou kaw e;",
+            "‘Taw nganv kaw bam,thala khou )}3:",
+            "“Hei suangc Ata zian diangc o!”",
+            "",
+            "4 Jisu kaw e, zauzian paan )}3,",
+            "He Pou, Nang khwan ’niw chu diu;",
+            "’Khavlou o, Nang lat piu diangh khang,",
+            "Zian diangcna siamruai sw khang!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus Calls Us",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "3/2",
+        "8.7.8.7.",
+        "SS 762",
+        "Mrs. C.F. Alexander",
+        "Jesus Calls Us",
+        "source hymn 493",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 493."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu rui ’niu ta kaw e",
+        "titleRongmei": "Jisu rui ’niu ta kaw e",
+        "titleEnglish": "Jesus Calls Us"
+      }
+    }
+  }
+}

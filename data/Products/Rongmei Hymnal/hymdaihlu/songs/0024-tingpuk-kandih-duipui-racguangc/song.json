@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0024",
+    "number": 24,
+    "source": {
+      "printedNumber": 24,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Samuel Longfellow",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "L.M.",
+      "tune": "CW 120"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "TINGPUK, KANDIH, DUIPUI RACGUANGC",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingpuk, kandih, duipui Racguangc,",
+            "Ramh kaguayna ta Damhmeipu,",
+            "Ramh guay Nang paan nai bam tuang e,",
+            "Hei guay ringhmei Nang paan @<4 e.",
+            "",
+            "2 Neihriw khou Nang zauzian nai e,",
+            "’Pwan khou Nang tuang ringhmei how e,",
+            "Tingthimc ganh key, tingp’lik pwkhou,",
+            "Nang ngamv how e, ramh guay ruc khou.",
+            "",
+            "3 Tingzyn ganv khou Nang ta how e,",
+            "Nang chingkhiuh ta zingbangc how e;",
+            "Lauthwan gaanhmei pat dat pwkhou",
+            "Nang khwan chu e: “gaanhmei nai diu.”",
+            "",
+            "4 Tiki kauh ranv, how ’than ranvna",
+            "Maansei nunc khou Nang ta how e;",
+            "Nang ta luihmei, Nang kahak ta,",
+            "Nang lungcloumei nunc khou how e.",
+            "Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "God of The Earth, the Sky, the Sea",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "3/4",
+        "L.M.",
+        "CW 120",
+        "Samuel Longfellow",
+        "God of The Earth, the Sky, the Sea",
+        "source hymn 24",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 24."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "TINGPUK, KANDIH, DUIPUI RACGUANGC",
+        "titleRongmei": "TINGPUK, KANDIH, DUIPUI RACGUANGC",
+        "titleEnglish": "God of The Earth, the Sky, the Sea"
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-179",
+    "number": 179,
+    "source": {
+      "printedNumber": 179,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lungh Ryanraamei rui Ata Duam Liamna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          179 Lungh Ryanraamei rui Ata Duam Liam",
+            "                              10.9.9.9. Ref. 10. 10. 11. 10",
+            "          Doh hei D",
+            "",
+            "          1. Lungh ryanraamei rui ata duam liamna,",
+            "             Kandih neihlaamei tingmik dui e;",
+            "             Pou' Jisu ta lwmlou makmei nunc khang,",
+            "             Ringc nimei lev chwn gaymei maek ge.",
+            "",
+            "                      Jisu guang pwkhou ai kap taan pwni;",
+            "                      Nkhwan ngammak ge Jisu guang nimei.",
+            "                      Kalwn how pwkhou ai neihlaa bam pwni;",
+            "                      Heicpui ganv khoutei ai kap dat lak khe.",
+            "",
+            "          2. Lungh ryanraamei lev kapmei padik the;",
+            "             Tat reymei champanv guay phaengc bam e,",
+            "             Tingsaeng ramgai khou lungc 'chamc diu khangrui,",
+            "             Guangtangclou khang ai huayney bam e.",
+            "",
+            "          3. Kap dat lak khe Jisu keypui nungc kiu;",
+            "             Lwmmei nunc mikdui key dat lak khe;",
+            "             Tingkauh ramc gaymei khou guang lungc pwkhou,",
+            "             Lwmloumei guay mu kap dat lak khe.",
+            "",
+            "          4. 'Maanmei nunc khang ai huayney ranv bam ni;",
+            "             Theihmei bamv khou kapmei bamv khourui,",
+            "             Saa ngammakmei khaengv ngammakmei khourui,",
+            "             Khrista khou ringhmei tithaylou khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lungh Ryanraamei rui Ata Duam Liamna"
+      }
+    }
+  }
+}

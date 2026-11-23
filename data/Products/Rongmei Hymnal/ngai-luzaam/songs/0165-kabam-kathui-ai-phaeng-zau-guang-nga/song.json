@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-165",
+    "number": 165,
+    "source": {
+      "printedNumber": 165,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kabam kathui ai phaeng zau guang nga",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kabamv kathui ai phaeng zau guangc nga.",
+            "Nzianmei guang Poubaomei ta hou na;",
+            "Lily munpuang pui ramc khou tei,",
+            "Poubaomei nzaengmei rui zailou o.",
+            "",
+            "Mikdui keina tam nimei hei,",
+            "Bui nung rui riu dat nicho?",
+            "Jordan pang khou riu pui kan khou,",
+            "Zian mei nun ta suni salam.",
+            "",
+            "2. Hou khang ning e nzian mei nun ta,",
+            "Mi kandih khou hei houdat lakni cho",
+            "Zianmei tam pui kandi khou hei",
+            "Mpatlou ri o, hei kaguang jisu.",
+            "",
+            "3. Kagan kathui ai ningtan mak ge,",
+            "Nzian meita tamna kaplak ni cho?",
+            "Adi sii cho kandih mei nun ,",
+            "Mikdui phui lou pui bam mak kandih khou.",
+            "",
+            "4. Ntampui bam ana bam khou hei ,",
+            "Zingmei lim rui gumliam lou bam khou hei",
+            "Ti gaan lou o tingkao riw rui",
+            "Zian mei chamv panc guay tam dikho salam"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 165",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 165. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kabam kathui ai phaeng zau guang nga",
+        "titleRongmei": "Kabam kathui ai phaeng zau guang nga"
+      }
+    }
+  }
+}

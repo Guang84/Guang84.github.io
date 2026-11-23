@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-300",
+    "number": 300,
+    "source": {
+      "printedNumber": 300,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zauzian Racguangc Ata Duanghlou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          300 Zauzian Racguangc Ata 'Duanghlou",
+            "                             9.9.9.10. Ref. 5. 5. 8.5",
+            "          Doh hei Gb",
+            "",
+            "          1. Zauzian Racguangc ata duanghlou o;",
+            "             Neihlaamei ai ariw ngammak ge.",
+            "             Nang rui hamhna neihlaa kim khang maek;",
+            "             Nduanghlou o, Kanloumeipu Ravguangc.",
+            "",
+            "                  Tingkauhramc gay khou, (2)",
+            "                  Nduanghlou o, Kanloumeipu;",
+            "                  Tingkauh ramc gay khou.",
+            "",
+            "          2. Ryanraa zaengsina kap bam khouhei,",
+            "             Nang zauzian khwan rui tikimlou o.",
+            "             Kapmei tingmik hei twan pwni the,",
+            "             Ringhmei thingbang lim khou zaengsw 'ni the.",
+            "",
+            "          3. Nkhwan bam e arup-ryan guay rui;",
+            "             Ringhmei thing lim khou zaengsw 'chamc khang.",
+            "             'Zianmei nunc bammei tingkauh ramc khou,",
+            "             Nduanghlou o, Kanloumeipu Ravguangc."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zauzian Racguangc Ata Duanghlou o"
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0281",
+    "number": 281,
+    "source": {
+      "printedNumber": 281,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J.Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": ". 4/4",
+      "meter": "8.5.8.5. Ref.",
+      "tune": "SS 488"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ata ganclou rio",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ata ganclou rio, Gumeipu, Chulou o, huaymei;",
+            "Nang meic baihmei ta kaw khou hei",
+            "Ata ganclou rio.",
+            "Guloumeipu, chulou o,huaymei,",
+            "Nang meic baihmei ta kaw khou hei",
+            "Ata ganclou rio!",
+            "",
+            "2 Nang zauzian guangc bamvpaeng khou <~1",
+            "Ata zianlou o;",
+            "Lungh kabiuna khuksun bam e,",
+            "Ata ’khavlou o.",
+            "",
+            "3 Nang tuang taanv khou na ai lwmna,",
+            "Ai guang e, Nang khou;",
+            "Bakmei bumaengc tiigaylou o,",
+            "Gulou o, zianna.",
+            "",
+            "4 Neihlaamei duipuakkai Nang e,",
+            "Dih neilaa suangc e;",
+            "Kandih, tingkauh khou Nang kumhmei",
+            "Meic baihmei maek ge."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Pass Me Not!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        ". 4/4",
+        "8.5.8.5. Ref.",
+        "SS 488",
+        "Fanny J.Crosby",
+        "Pass Me Not!",
+        "source hymn 281",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 281."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ata ganclou rio",
+        "titleRongmei": "Ata ganclou rio",
+        "titleEnglish": "Pass Me Not!"
+      }
+    }
+  }
+}

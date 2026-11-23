@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0203",
+    "number": 203,
+    "source": {
+      "printedNumber": 203,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Isaac Watt",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "6.6.8.6. Ref.",
+      "tune": "SS 136"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu guanghtu bam the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu guanghtu bam the,",
+            "Tingkauh guangc bamvpaeng khou;",
+            "Kapy khou guangh pyrun run the,",
+            "’Thanmei nunc bwan bam the.",
+            "Khou 5#^ ’thanmei nunc lev",
+            "Kadaeng khou bam pwkhou,",
+            "’Niu lung kim puni the, ’saanh mak khou;",
+            "’Saanh mak khou,’saanh mak khou;",
+            "’Niu lung kim puni the, ’saanh mak khou!",
+            "",
+            "2 Chak ngam lakmei kangdai",
+            "Kangranmei pwan piuna,",
+            "Meic kathuic tadanvkwan sinna,",
+            "Thuanhpui lu suan bam e.",
+            "",
+            "3 Kaniw phaan swluaimei",
+            "Lauziu Nac ta thuanc e;",
+            "Kuakloumei Kazei paan khou #^5",
+            "Kaniw pyrun run e.",
+            "",
+            "4 He Bumaengh ’Thanmeile,",
+            "’Khavlou o, aniw ta;",
+            "Kaniw pangc khou kazauh ngam khang,",
+            "Tingkauh khou 5#^ bam khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Enthroned is Jesus Now",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "6/8",
+        "6.6.8.6. Ref.",
+        "SS 136",
+        "Isaac Watt",
+        "Enthroned is Jesus Now",
+        "source hymn 203",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 203."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu guanghtu bam the",
+        "titleRongmei": "Jisu guanghtu bam the",
+        "titleEnglish": "Enthroned is Jesus Now"
+      }
+    }
+  }
+}

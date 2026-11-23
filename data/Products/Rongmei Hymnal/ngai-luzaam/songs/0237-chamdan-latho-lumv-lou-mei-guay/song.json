@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-237",
+    "number": 237,
+    "source": {
+      "printedNumber": 237,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chamdan latho lumv lou mei guay",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Chamdan latho lumlou meiguai nian laritho,",
+            "Matat khatna khang de aniu guai panty hei",
+            "Kandih khouhei gaichuimei le Kaman kung mei",
+            "Matat khatna khourui man ngam puni.",
+            "",
+            "Kandih akai aman ngam kansi ni",
+            "Tingkao akai gaimei nai e;",
+            "Kandih khouhei lung swang nimei kaibai meimak ,",
+            "Nban thaimei tingkao akai nai e.",
+            "",
+            "2. Nang khang tiloumei sianlan ka-guaina rukhou,",
+            "Nang liantimei tan tei taan khang, ti twang ramc e;",
+            "Kandih khouhei ram khat sini, phung guang makge",
+            "Ram khat sini phung tat dat khang makge.",
+            "",
+            "3. Zianmei khuan ruikao na bam the nian laritho,",
+            "Kandi khou Ravguangc rui rianra lakmei guai ta,",
+            "Lum loumei guay nakhang kazauzian tilou e.",
+            "Nrian loumei ramv khou phung guang louni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 237",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 237. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chamdan latho lumv lou mei guay",
+        "titleRongmei": "Chamdan latho lumv lou mei guay"
+      }
+    }
+  }
+}

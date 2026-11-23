@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0541",
+    "number": 541,
+    "source": {
+      "printedNumber": 541,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "F.R. Havergal",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. D. Ref",
+      "tune": "SS 282"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "“NANG GUANG PW THE”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang guang pw the, he Gumei pu!",
+            "Nang guang pw the, he aGuangc!",
+            "Zaatc kathuic Nang zanc ndauh e,",
+            "’Niw nic neihlaana suan e;",
+            "Nang guang pw the! Hymdaih riw 8^&",
+            "Nang bamv khou ^&8 gaanc guang the,",
+            "Kaek kanmei khamvthinghphey chaeng ^&8",
+            "’Niw chaenglwan tiigaanclou o.",
+            "",
+            "Nang guang pw the! he Gumei pu!",
+            "’Niw how ni Nang chaenglwan khou,",
+            "Nang guang pw the!",
+            "Nang ta howna",
+            "’Niw nic Nang ta luic ni the!",
+            "Nang guang pw the! Nang guang pw the!",
+            "’Niw zianmei Kaipouc Jisu!",
+            "Nang guanghtumei ta how ni the,",
+            "Nang ta kalum nimei 8^&.",
+            "",
+            "2 Nang guang pw the! hei nungc kiu thu",
+            "Ramhswng, muanghzingh nai lak khe;",
+            "Mikdui keymei, paapc ^&8 ngammei,",
+            "Ryanramei nai dat lak khe;",
+            "Nang guang pw the! he Pou Jisu!",
+            "Nang ta na agwn bam e;",
+            "Ch’ryn dyng e, Nang ryanramei thai",
+            "Hymdaihmei neihlaamei hei!",
+            "",
+            "3 Nang guang pw the! aniw ’khwan e,",
+            "Kim dat makmei machunc ^&8",
+            "Tingmik, kaganv ta thanv makna",
+            "How mak sihni lwm bam ni;",
+            "Nang guang pw the! sakhi ’ niw e,",
+            "’Thanmei taektw bamv khou hei",
+            "Nang lev ’niw kadam laa ’chamc khou,",
+            "Guang nimei khang rigwn e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "8.7.8.7. D. Ref",
+        "SS 282",
+        "F.R. Havergal",
+        "“Thou art Coming!”",
+        "source hymn 541",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 541."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "“NANG GUANG PW THE”",
+        "titleRongmei": "“NANG GUANG PW THE”"
+      }
+    }
+  }
+}

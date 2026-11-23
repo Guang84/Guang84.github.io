@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0774",
+    "number": 774,
+    "source": {
+      "printedNumber": 774,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "7.7.7.6.13.13.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai nkhuan e Guang daimei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai nkhuan e guang daimei,",
+            "Kandih rianra jingmei khou;",
+            "Damloumei Salem namdai,",
+            "Gaimei 5#^ ning thuk ge,",
+            "Kandih rianramei le jingmei bamkhou bamsini,",
+            "Jaujianlouna phungguangmei Puta ningtan makge.",
+            "",
+            "Chorus:",
+            "Tingkau Eden than gaimei 5#^,",
+            "Rianra rianriu mei mak pui bam;",
+            "He tabui nung guangtang nicho?",
+            "Nang tingsang Guang daimei –",
+            "Supui ram gaimei.",
+            "",
+            "2. Naguang o kanloumeipu,",
+            "Rihdai e kandih khou hei;",
+            "Nang jei ruina kanloumeiGuai lung gei na kap be,",
+            "Kandih khou hei rianra lou pui bam e kalvari,",
+            "Houmumei guai guange nangta adoumei nun 5#^.",
+            "",
+            "3. He bui thang cho? Kanloumei,",
+            "Zion luangbut gaimei 5#^;",
+            "Pap guai 5#^ tithan diu khang,",
+            "Jeih 5#^ luang kei lou the,",
+            "Papguai manpui bame tingsang namdai gaimei khou,",
+            "Kanloumei guai gaina bampui ram gaimei khou 5#^.",
+            "",
+            "4. Hei kandih hei man puni,",
+            "Tikgun daimei guai hei ni;",
+            "Kanloumeipu ruina khuam kariu nimei guai ta,",
+            "Kamei jianmei nun rui tikgun daimei lapuni,",
+            "Kamei njianloumei thuanku o, Hallelujah."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "7.7.7.6.13.13.",
+        "Ai nkhuan e Guang daimei",
+        "source hymn 44",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 44."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai nkhuan e Guang daimei",
+        "titleRongmei": "Ai nkhuan e Guang daimei"
+      }
+    }
+  }
+}

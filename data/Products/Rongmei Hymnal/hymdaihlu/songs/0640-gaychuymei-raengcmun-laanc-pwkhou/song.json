@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0640",
+    "number": 640,
+    "source": {
+      "printedNumber": 640,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/8",
+      "meter": "11.8.11.8. Ref.",
+      "tune": "SS 970"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gaychuymei raengcmun laanc pwkhou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zinghmei zingbangc khou aniu",
+            "ruan saengc lak khe,",
+            "Gaychuymei raengcmun laanc pwkhou;",
+            "Gaanhmei Ravguangc kaidai",
+            "khou ’niu ruan puni,",
+            "Gaychuymei raengcmun laanc pwkhou.",
+            "",
+            "Gaychuymei raengcmun laanc pwkhou,",
+            "Gaychuymei raengcmun laanc pwkhou,",
+            "Aniu neihlaa ni, Kaipouc ta how pwkhou,",
+            "Gaychuymei raengcmun laanc pwkhou.",
+            "",
+            "2 Zianmei nunc ata ’khwan bam e, duipaengc khou,",
+            "Gaychuymei raengcmun laanc pwkhou;",
+            "Kai khou riulou ni, paapc khou ({0 ai duak ni,",
+            "Gaychuymei raengcmun laanc pwkhou.",
+            "",
+            "3 Dih khou kumc ryanra sucnumei nai lak khe,",
+            "Gaychuymei raengcmun laanc pwkhou;",
+            "Rey khou kumc ruprian guay lev neihlaa bam ni,",
+            "Gaychuymei raengcmun laanc pwkhou.",
+            "",
+            "4 Saa ngam lakmei neihlaa 0({ akhang sw ni,",
+            "Gaychuymei raengcmun laanc pwkhou;",
+            "Rav tuang ’thanmei, gaymei 0({ akhang sw ni,",
+            "Gaychuymei raengcmun laanc pwkhou.",
+            "",
+            "5 Panty puatphung ({0 tii-katuakc dat lak khe,",
+            "Gaychuymei raengcmun laancpwkhou;",
+            "Khrista lev neihlaa taek maknga bam ni the,",
+            "Gaychuymei raengcmun laancpwkhou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "When the Beautiful Gates Unfold",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/8",
+        "11.8.11.8. Ref.",
+        "SS 970",
+        "Zinghmei zingbangc khou",
+        "When the Beautiful Gates Unfold",
+        "source hymn 640",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 640."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gaychuymei raengcmun laanc pwkhou",
+        "titleRongmei": "Gaychuymei raengcmun laanc pwkhou",
+        "titleEnglish": "When the Beautiful Gates Unfold"
+      }
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0268",
+    "number": 268,
+    "source": {
+      "printedNumber": 268,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Jessie Brown Pounds",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.11. D. Ref.",
+      "tune": "RS 233"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NANG TA PHUNGC TAT THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang ta phungc tat duc kan the,",
+            "Nang thouh swlou mak khou _>6;",
+            "Nang ta phungc tat nzaeng zaengna phungc tat the;",
+            "Duiluat _>6 phungc gut kan the,",
+            "Nang ta zinghmei duipui thangc,",
+            "Nang ta phungc tat nzaeng zaengna phungc tat the.",
+            "",
+            "Nang ta phungc tat the, phungc tat the,",
+            "Pingmei, zinghmei duipui thangc,",
+            "Nang ta phungc tat the;",
+            "Nang Pu nzianmei khou _>6",
+            "Swang dwang maekmei zinghmei thangc,",
+            "Nang ta phungc tat nzaeng zaengna phungc tat the.",
+            "",
+            "2 Zauc lo, kai biak thangc riw _>6",
+            "Suriak thay khang dinc bam e,",
+            "Nang ta phungc tat nzaeng zaengna phungc tat the;",
+            "Rungh ’thaekcbamv khou _>6 nang ta",
+            "Duh thangc ’zuan ganclou puni,",
+            "Nang ta phungc tat nzaeng zaengna phungc tat the.",
+            "",
+            "3 Kai biak thangc huaymei khwan 6_>,",
+            "Chu taan khith khit guang pw the;",
+            "Nang ta phungc tat nzaeng zaengna phungc tat the;",
+            "He zianmeile, nyan ri tho!",
+            "Ric mak khou chulou la tho,",
+            "Nang ta phungc tat nzaeng zaengna phungc tat the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "7.7.11. D. Ref.",
+        "RS 233",
+        "Jessie Brown Pounds",
+        "Drifting Down",
+        "source hymn 268",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 268."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NANG TA PHUNGC TAT THE",
+        "titleRongmei": "NANG TA PHUNGC TAT THE"
+      }
+    }
+  }
+}

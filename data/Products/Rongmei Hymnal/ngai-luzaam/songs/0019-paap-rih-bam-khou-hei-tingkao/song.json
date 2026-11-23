@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-019",
+    "number": 19,
+    "source": {
+      "printedNumber": 19,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Paap rih bam khou hei tingkao",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Paap rihbam khou hei tingkao guang nah,",
+            "Saupirun run lou nimei ta thaina,",
+            "Lung rianrana kalum bam khou.",
+            "Zeiluang kumna talandui kei getsamani khou,",
+            "Nim kan the Israel nun ruina.",
+            "",
+            "Lani makge lani makge Israel",
+            "Nang rui lani mak,",
+            "Karu khou ti nkhuailou khang mei nun rui phuna",
+            "Pilat nang latzan suhan dat ro.",
+            "",
+            "2. Kandih Guangh lani mak Judah nun,",
+            "Kalvary ching rukhou hianbin louna,",
+            "Kapui meri lung ryanrana,",
+            "Munrim gaimei tuai kanmei tei kalung ryanra na,",
+            "Guang supui ram tei la mak khou rui.",
+            "",
+            "3. Rianra the tarou lung zing mei khou,",
+            "Aniu guang nzaeng mei theipui nung mu,",
+            "Zerusalem rakai lung khou",
+            "Khamthing phei tei siet kak kanthe baenglani zai the.",
+            "Nthanmei kau bumaeng guang datro.",
+            "",
+            "4. Riukan the paaprih adou tang khou,",
+            "Kandi hei poubaomei le khrista ram.",
+            "Paaprii ta ngam mei guangh daimei,",
+            "Nthukpui zeirui liwlou the kalvary ching khou,",
+            "Ncham lou kan the Poubaomei rui."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 19",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 19. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Paap rih bam khou hei tingkao",
+        "titleRongmei": "Paap rih bam khou hei tingkao"
+      }
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0556",
+    "number": 556,
+    "source": {
+      "printedNumber": 556,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William G. Tarrant",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D",
+      "tune": "CW 500"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AKaipouc taanv taanc khwan e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Akaipouc taanv taanc khwan e,",
+            "Tingmik ’thuic dwan naina;",
+            "Kata luic niimei guay _>6",
+            "Taanv taanc ranv nina de;",
+            "Taanv guay alinghna taanc o,",
+            "Lungning ’thanmei taanv guay",
+            "Taanhpuimei naipui bamv ’thuic",
+            "Kaipouc mei 6_> nai the.",
+            "",
+            "2 AKaipouc hei duangda e,",
+            "Lwmnuhmei pam khwan e,",
+            "Kata luic niimei guay _>6",
+            "Pam sw thay nina de;",
+            "Neihlaana thuanhpui ganv khou,",
+            "Kadanmei padik khou,",
+            "Pam gaymei naipui bamv ’thuic",
+            "Kaipouc mei 6_> nai the.",
+            "",
+            "3 AKaipouc ’khavlou thay e,",
+            "Ryanramei ta thay e;",
+            "Kata luic niimei guay _>6",
+            "’Khavlou thay nina e;",
+            "Meic kathuic phungc ’khav tithei",
+            "Puatrith ’thaan maih puni;",
+            "’Khavlou thaymei nai bam saanv",
+            "Kaipouc mei 6_> nai the.",
+            "",
+            "4 Chanathiu, ’niu zauc-gay kho,",
+            "Maansei khat kumc lungc kho;",
+            "Aniu Kaipouc Kamei hei",
+            "Maansei khat sw khwan e,",
+            "Kakumhmei maansei nunc ta",
+            "Kabamv ’’thuic phu bam e;",
+            "Khat khat ta zianpui bamv khou",
+            "Kaipouc mei nunc nai the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "My Master Was a Worker",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "7.6.7.6. D",
+        "CW 500",
+        "William G. Tarrant",
+        "My Master Was a Worker",
+        "source hymn 556",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 556."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AKaipouc taanv taanc khwan e",
+        "titleRongmei": "AKaipouc taanv taanc khwan e",
+        "titleEnglish": "My Master Was a Worker"
+      }
+    }
+  }
+}

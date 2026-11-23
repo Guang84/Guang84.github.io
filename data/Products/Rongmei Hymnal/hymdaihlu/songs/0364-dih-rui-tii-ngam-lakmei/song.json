@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0364",
+    "number": 364,
+    "source": {
+      "printedNumber": 364,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. Will L. Murphy",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.8.12.9. Ref.",
+      "tune": "3 TH 42"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "DIH RUI TII NGAM LAKMEI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Dih $%6 tiingam lakmei chuzaenghmei akhou nai,",
+            "Mi hei dih $%6 laa ganc ngam mak;",
+            "Nchanvmei $%6 muangh kumc padik guang pw sihni,",
+            "Alung khou chuzaenghmei ’maan dat lak.",
+            "",
+            "Taek .. makna nai bam e,",
+            "Ji ..su akhang,",
+            "Taek .. makna nai bam e, ingkauh neihlaa;",
+            "Kamei ganc ’rulou zat lak, zianna saalou e;",
+            "“Ai nang ta ’pat zat lak,”",
+            "Jisu akhang!",
+            "",
+            "2 Dih kapwm Ravguangc ta thuancku bam tu kumc the,",
+            "Chuzaenghmei akhou gut pwkhou,",
+            "Ryanra guay tat kan the, zingbangckalaanv guanh the,",
+            "He Jisu, Nang hym adih daic cho!",
+            "",
+            "3 Bih $%6 swmei ravkai, akhou lanv hei nai the,",
+            "Kaphaypan dih khou ruan bam khou;",
+            "Hymdaihpui neic ata laa khang key dat puni,",
+            "Tingkauh akai khou 6$% lungc diu khang!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "12.8.12.9. Ref.",
+        "3 TH 42",
+        "Mrs. Will L. Murphy",
+        "TAEK MAKNA NAI BAM E",
+        "Constantly Abiding",
+        "source hymn 364",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 364."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "DIH RUI TII NGAM LAKMEI",
+        "titleRongmei": "DIH RUI TII NGAM LAKMEI"
+      }
+    }
+  }
+}

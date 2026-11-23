@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0023",
+    "number": 23,
+    "source": {
+      "printedNumber": 23,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "3/4",
+      "meter": "Irregular.",
+      "tune": "CW 117"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’NIW GUANG KADUAI BAM E, KAIPOUC",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Niu guang kaduai bam e",
+            "Kaipouc suaihiam ney khang;",
+            "’Niu ta riaplouna Kachwn tiithaylou e",
+            "Siimei #^5 zynmei 5#^ ’taw thu",
+            "’Thaek key kan the;",
+            "Kazanc thuancna suan o,",
+            "’Niu ta ’muclou mak ge.",
+            "",
+            "2 ’Niu daeng khou zaylou khang",
+            "Ravguangc bam ’chamc bam e,",
+            "Kaguangcdic duanc thau,",
+            "Tiidaih khang swlou e;",
+            "Hei zaeng #^5 thaureythuay khou #^5",
+            "’Niw ngam bam e;",
+            "’Niw biak Nang liangc bam e,",
+            "Pou, Nang hym daic kan diu.",
+            "",
+            "3. Nang zanc ’niw thuanc e, rih ngammeipu, ’Niw Kaipouc;",
+            "’Niw ta Gaekmeipu sw bam khang ’Niw huay e;",
+            "Nang mei nunc hei ryanra daihmei khou #^5 duak diu,",
+            "’Niw ta tiiduaklou o,",
+            "Kaipouc, Nang zanc thuanc diu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "We Gather Together to Ask",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "3/4",
+        "Irregular.",
+        "CW 117",
+        "Anonymous",
+        "We Gather Together to Ask",
+        "source hymn 23",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 23."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’NIW GUANG KADUAI BAM E, KAIPOUC",
+        "titleRongmei": "’NIW GUANG KADUAI BAM E, KAIPOUC",
+        "titleEnglish": "We Gather Together to Ask"
+      }
+    }
+  }
+}

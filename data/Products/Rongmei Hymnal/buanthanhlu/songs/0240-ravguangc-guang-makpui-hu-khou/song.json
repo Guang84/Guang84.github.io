@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-240",
+    "number": 240,
+    "source": {
+      "printedNumber": 240,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc Guang Makpui Hu khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          240 Ravguangc Guang Makpui Hu khou",
+            "                           10.11.11. 10.Ref.11.9. 10.8",
+            "          Doh hei E",
+            "",
+            "          1. Ravguangc guang makpui hu khou chamdaanv tho,",
+            "             Khristian gaymei guay nic ramhthayna lungc o.",
+            "             Baibal thaymei guay rui nic han ngam pwni,",
+            "             Chuangc bammei mai kimkey kan pwkhou kiu.",
+            "",
+            "                      Nthei han ngam kan ni de mi ganv khou kiu,",
+            "                      Kapna huay sihnic guang dat lak khe.",
+            "                      Kaipouc ta thay makpui ganv guang pwni;",
+            "                      Khou kiu Kamei guang pwni the.",
+            "",
+            "          2. Tingkauh thangc bammei baanch'raa guay tei rui,",
+            "             Lwmloumei guay ta laa khang guang pwni the.",
+            "             Ntaw nangniw rui lwmlou mak gethei mu,",
+            "             Nangniw panty nsaana 'maan pwni.",
+            "",
+            "          3. Ringhmei latchamv dinc ruantat bam shnic,",
+            "             Kalung khou Bumaengh lungclou makmei guay thu,",
+            "             Adih sansi pwni cho heicpui nungc kiu.",
+            "             Tingsaeng zaeng amaanmei kiu sw pwni.",
+            "",
+            "          4. 'Taw chuangc bammei mai bwang hei tingsaeng zaeng,",
+            "             Ravguangc guang makpui saanv chuangc bam khang sw kho.",
+            "             Heicpui Bumaengh mai hei kimkęy kan ethei,",
+            "             Baanhzaap bam sihnic ngalanc dat lak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc Guang Makpui Hu khou"
+      }
+    }
+  }
+}

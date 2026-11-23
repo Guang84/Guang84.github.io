@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0798",
+    "number": 798,
+    "source": {
+      "printedNumber": 798,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "9.6.5.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kabam kathui ai phang jao bam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kabam kathui ai phangjao bam khou,",
+            "Jingmei muang rui gumliam;",
+            "Jangsi pui ram me.",
+            "",
+            "Chorus:",
+            "He! Kapu kanah bumang thanmei rui,",
+            "Jai lou o nang njianmei nang na guai ta;",
+            "Nthiampui bam khou rui nduang lou o.",
+            "",
+            "2. Kandih rianra thak nipui bam mak,",
+            "He ti nchu lou o;",
+            "Poubaumei jisu.",
+            "",
+            "3. Nthak kan dikho njianmei nun,",
+            "Mu ri o panti ngan;",
+            "Jai loumei put a.",
+            "",
+            "4. He apui apu njian liangmei,",
+            "Mpat lout ho neila na;",
+            "Tam kan dikho.",
+            "",
+            "5. Mulou rio jianmei champan thiu le,",
+            "Poubaumei siamruai su khang;",
+            "Khanpat mei e.",
+            "",
+            "6. Meiguai pou nchumpui chang phu kho,",
+            "Kum ethei poubaumei;",
+            "Lungkiang lou puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "9.6.5.",
+        "Kabam kathui ai phang jao bam",
+        "source hymn 68",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 68."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kabam kathui ai phang jao bam",
+        "titleRongmei": "Kabam kathui ai phang jao bam"
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0766",
+    "number": 766,
+    "source": {
+      "printedNumber": 766,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kanloumeipu akhang tei rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kanlumeipu akhang 6$% rui,",
+            "Kandih khou kei lou e;",
+            "Ring khang jimakmei guai kumma,",
+            "Kross rukhou khang lou the.",
+            "",
+            "Chorus:",
+            "He ringmei 6$% poubaumei e,",
+            "Akhang khang lou kan the;",
+            "Rianra thei mei nganna khang lou,",
+            "Aniu ta kanlou the.",
+            "",
+            "2. Kanloumeipu tari e na,",
+            "Kross rukhou kao bam khou;",
+            "Meigei mei ding khou tinimei,",
+            "Khat sini mei mak ge.",
+            "",
+            "3. Kachang khou 6$% jao bam lana,",
+            "Kalvari ching nganna;",
+            "Poubaunei thei lai ngam makge,",
+            "Lummei guai sa bamme.",
+            "",
+            "4. Kalung geimei na rianra bam khou,",
+            "Nkha lou diu nii e,",
+            "Kaning ning 6$% sulou nituang,",
+            "Ai rui ram thai mak ge."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "8.6.8.6.",
+        "Kanloumeipu akhang tei rui",
+        "source hymn 36",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 36."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kanloumeipu akhang tei rui",
+        "titleRongmei": "Kanloumeipu akhang tei rui"
+      }
+    }
+  }
+}

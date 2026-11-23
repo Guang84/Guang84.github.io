@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-130",
+    "number": 266,
+    "source": {
+      "printedNumber": 130,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Apam ajiuna gan lou the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Apam ajiuna gan lou the,",
+            "Nangpui huainei mei mu ri o;",
+            "Hei lat kang hei ai khat sini,",
+            "Mu thui lak ge apui latkang.",
+            "",
+            "Chorus:",
+            "Apui ram jian makum pukhou,",
+            "Tauni kamei ring bam kumme;",
+            "Mpuan aliu rih-ri guang khou,",
+            "Apui neimei tei ning tou e.",
+            "",
+            "2. Ai mu thui lak apui khuan ta,",
+            "Kakhuan #!7 alung ti kabiu;",
+            "Aram rianra Raguang thai lou,",
+            "Apui manmei makum bam khou.",
+            "",
+            "3. Tingkum guan sini mu thui lak,",
+            "Jianmei lat #!7 ncham lou mei;",
+            "Aram rianra Raguang #!7 thai,",
+            "Apui neimei makum pukhou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 130",
+        "SQLite BookTypeID 2",
+        "Key: G",
+        "Meter: 8.8.8.8.",
+        "Chord: G",
+        "Meta 3: 8.8.8.8."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 130); no high-confidence title match was found in the PDF list. The digital catalogue number is 266; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 130,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Apam ajiuna gan lou the",
+        "titleRongmei": "Apam ajiuna gan lou the"
+      }
+    }
+  }
+}

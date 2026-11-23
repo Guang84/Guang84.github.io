@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-131",
+    "number": 131,
+    "source": {
+      "printedNumber": 131,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih hei Zingbangc Kumc Zingcguang the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          131 Kandih Hei Zingbangc Kumc Zingc Guang The",
+            "                           13.9.6. 7.9. Ref. 13.9. 13.9",
+            "          Doh hei E",
+            "",
+            "          1. Kandih hei zingbangc kumc zingc guang the, a Poubauhmei",
+            "             Kabamv kathuihna khou zauc pw ki,",
+            "             Ryanraa pingmei khwan rui,",
+            "             Kapmei ryanraamei khwan rui,",
+            "             Zingc guang the, 'dih ryanraa ramc khou hei,",
+            "",
+            "              Tabui nungc tingkauh khou neihlaana guang tangc ni cho?",
+            "              Tingsaeng mbaanv thaypui ramc khou tei,",
+            "              'Chu-nzaenghmei kaidai neihlaa suangmei ramc khou tei,",
+            "              Guang tangh khang ai nkhwan lian lak khe !",
+            "",
+            "          2. Tabui thangc paklouna tabui thangc duplou ni cho ?",
+            "             Ai duplou nipui bam Nang na de;",
+            "             Zingbangc ny, kalaan ny Poubauhmei nang guang pw khou,",
+            "             Ata laa thaulou o, Poubauhmei !",
+            "",
+            "          3. Tingkauh kandic khoutei, ringhmei thingbang lim khou tei,",
+            "             Nthanmei alauc nunc guay tei rui,",
+            "             Ravguangc ta thuanckuna neihlaana lu suan bam e,",
+            "             Ravguangc hym daic kan diuc, Hallelujah !",
+            "",
+            "          4. Poubauhmei Jisu rui kasiamhloumei tingkauh ramc",
+            "             Maansei mwang nà rui saa ngam mak ge;",
+            "             Kakandic khou thingbang guay tei nic kariw tii e,",
+            "             Mphuaic guay tei ni kariw tii e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih hei Zingbangc Kumc Zingcguang the"
+      }
+    }
+  }
+}

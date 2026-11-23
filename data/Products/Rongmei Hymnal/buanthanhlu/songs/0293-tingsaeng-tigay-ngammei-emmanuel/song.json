@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-293",
+    "number": 293,
+    "source": {
+      "printedNumber": 293,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingsaeng Tigay Ngammei Emmanuel",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          293 Tingsaeng Tigay Ngammei Emmanuel",
+            "                                       9.11.7",
+            "          Doh hei Db",
+            "",
+            "          1. Tingsaeng tigay ngammei Emmanuel,",
+            "             Kazanc khourui karik guay tei theic kan diu:",
+            "             Tingsaeng gay kan diu!",
+            "",
+            "          2. Ngammei baanc zaythau khou siimei ravsic",
+            "             Karei pwni ringhmei baanc kahi pwkhou.",
+            "             Tingsaeng gay kan diu!",
+            "",
+            "          3. Tingsaeng ngammeipu Jisu zanc khourui,",
+            "             Gay makmei ravsic guay ta nthauganc e;",
+            "             Jisu zanc khourui gay tho.",
+            "",
+            "          4. Tingsaeng ngammeipu Ravguangc rui,",
+            "             Suc-nucmei kazaat geihmei ta tigaylou.",
+            "             Jisu zanc khourui gay tho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingsaeng Tigay Ngammei Emmanuel"
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0574",
+    "number": 574,
+    "source": {
+      "printedNumber": 574,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Julia Sterling",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.6.9.6. Ref.",
+      "tune": "SS 756"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KAIPOUC RUI KAWMEI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zauc lo, Kaipouc ’taw hei kaw bam the,",
+            "Lautaypuimei ling khang;",
+            "Kachaekc laupuk mincna ’khwan bam the,",
+            "Taypuimei thu raw e.",
+            "",
+            "Tat ro, ’khaengvthayna, zianlou thayna;",
+            "Tat ro, Kaipouc zanc khou,",
+            "Nsa tiimei ringhbamv chamv gaymei",
+            "Kandih pwm dinc lik go.",
+            "",
+            "2 Tat ro, paapc _>6 zyn bampui bamv khou,",
+            "’Maanmei ta kanlou o;",
+            "Tat ro, kangriang guay sw taeklou o;",
+            "Kaniw ta gulou o.",
+            "",
+            "3 Tat ro, lungcsiimei ta kaw guang o,",
+            "Khwmkihmei tu diu khang;",
+            "Ringcsuangmei ’Tyan, Jisu Kamei _>6",
+            "Kaniw ta riu puni.",
+            "",
+            "4 Tat ro, tingmik hei raw guang pw the,",
+            "Zingc nuangc kan puni the,",
+            "Nkhamhpui ganv katumcna guang the,",
+            "Taanv taanc nuh mak ni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Master’s Call",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "9.6.9.6. Ref.",
+        "SS 756",
+        "Julia Sterling",
+        "Zauclo Kaipouc ’taw hei kaw bam",
+        "The Master’s Call",
+        "source hymn 574",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 574."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KAIPOUC RUI KAWMEI",
+        "titleRongmei": "KAIPOUC RUI KAWMEI",
+        "titleEnglish": "The Master’s Call"
+      }
+    }
+  }
+}

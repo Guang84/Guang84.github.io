@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-047",
+    "number": 47,
+    "source": {
+      "printedNumber": 47,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.11.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chamloumei Guangh puan ne",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Chamloumei Guangh puan ne Bethlehem khou,",
+            "Hei tei ramla liangmei Kanaan ram e;",
+            "Zaat guayna rui tanrui tat guang tang nuh e,",
+            "Thu tei ringhmei dui thanmei tei luang e.",
+            "",
+            "He! Lung neihlana Guangh Nga na puan pui nung,",
+            "Neihlana suan kho lung neihla thau na;",
+            "Zaat kapum na khang rui puan pui tuang e,",
+            "Thuan no thuan no halleluijah tuna.",
+            "",
+            "2. Neikhat zingbang phuairiow gaimei ding khou,",
+            "Laoziu gangmei nun laoziu gaeng bam khou;",
+            "Zipchung gan khou Gabreal rui ti daolou na.",
+            "Ringhpui lat gaimei phung keilou du e.",
+            "",
+            "3. Khou tei tingkao thu kao banchra nun rui,",
+            "Kei ndao na kaolu gaimei suan ne;",
+            "Thuai hien liang mei poubaomei tikgun dai diu,",
+            "Kandi khou ni lu gaimei suancham diu.",
+            "",
+            "4. Laoziu gaengmei nun rui namdai zuan ne,",
+            "Salem ntakmei nun ni nzuan e;",
+            "Lungsimei nun rui kaniu muang rui kalum:",
+            "Lung gaimei guayni lankhuk laan guang e.",
+            "",
+            "5. Neihla kho kau le kandih Guangh puan nung ,",
+            "Tingkao le kandi rui khuang hiucham diw,",
+            "Guangh guayna Guangc Poubao mei thuai hian liang mei",
+            "Aniu panti ngan na thuan kho Guangh khrista."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 47",
+        "Khristian Luzaam PDF",
+        "Chord: Ab",
+        "Meta 3: 10.10.11.10."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 47. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 47,
+        "match": "title-match-0.95"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chamloumei Guangh puan ne",
+        "titleRongmei": "Chamloumei Guangh puan ne"
+      }
+    }
+  }
+}

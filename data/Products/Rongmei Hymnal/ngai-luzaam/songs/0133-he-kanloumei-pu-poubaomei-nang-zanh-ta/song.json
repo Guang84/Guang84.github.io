@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-133",
+    "number": 133,
+    "source": {
+      "printedNumber": 133,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He! Kanloumei Pu Poubaomei Nang zanh ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He! Kanloumei Pu Poubaomei Nang zanh ta,",
+            "Kandihmei rui nthuknga ning diu;",
+            "Nang rui dam lou mei mansei ta zian khou rui,",
+            "Kandihmei lun phung lou na puan e.",
+            "",
+            "He! Poubaomei Jisu! Nang hei,",
+            "Nangna raph de mei ringh khangmu,",
+            "Nangzanh him dai diu,",
+            "Guangh hei zumei rukhou,",
+            "Dai liangmei Nang e.",
+            "",
+            "2. Kandihmei nun hei tingkauhmei sudiu khang,",
+            "Kandihmei lun Nang keiphunglou e,",
+            "Tingkao thu taek makna baanthaina lungh khang,",
+            "Nang rui rianrana pap phunglou e.",
+            "",
+            "3. Kandihmei guai nao-sunu dat mak khang rui,",
+            "Rianra rianriumei zam phunglou e,",
+            "Ndap tari dat makmei bumaeng taktu,",
+            "Nang rui mansei khang kei tilou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 133",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 133. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He! Kanloumei Pu Poubaomei Nang zanh ta",
+        "titleRongmei": "He! Kanloumei Pu Poubaomei Nang zanh ta"
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0357",
+    "number": 357,
+    "source": {
+      "printedNumber": 357,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "C. A. Tindley",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/8",
+      "meter": "10.9.10.9. Ref.",
+      "tune": "SSSH 325"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "RAMHKHAMV MAK KHE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ramh khamv mak khe, Kaipouc lev akak khou,",
+            "Hei kandih tuang ^&5 khamv tuang maek khe;",
+            "’Patlou ngam the, paapc tuang thala kaguay,",
+            "Jisu akhang! ramh khamvmei maek khe.",
+            "",
+            "Ramh khamv mak khe, Kaipouc lev akak khou,",
+            "Suaihiam zawpaanv ai how bam nuh khang;",
+            "Ramh khat ^&5 sihni",
+            "Kasuaihiam ta khamv mak;",
+            "Chaeng sw ’than the! ramh tii khamv mak khe.",
+            "",
+            "2 Ramh khamv mak khe, kandih thala ^&5 nic,",
+            "Sii hak mak kumhmei lung-khei ^&5 nganv,",
+            "Alung ta Kakhou ^&5 tii’tamv zat lak;",
+            "Kamei di the! ramh khamvmei maek khe.",
+            "",
+            "3 Ramh khamv mak khe, gaengh sw liantiimei ^&5,",
+            "Araana ^&5, pam-rai ^&5 khaam lak;",
+            "Akhang kunghmei ’peyna ’riw pw sihni,",
+            "Alung ding the, ramh khamvmei maek khe.",
+            "",
+            "4 Ramh khamv mak khe, nchanvmei geic sihni,",
+            "Kandih pwm ata zauczih sihni,",
+            "Huayneymei lev akhaengvthaymei paan ^&5",
+            "Ai rih ngam ni, ramh khamvmei maekna."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "C. A. Tindley",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/8",
+        "10.9.10.9. Ref.",
+        "SSSH 325",
+        "C. A. Tindley",
+        "Nothing Between",
+        "source hymn 357",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 357."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "RAMHKHAMV MAK KHE",
+        "titleRongmei": "RAMHKHAMV MAK KHE",
+        "titleEnglish": "C. A. Tindley"
+      }
+    }
+  }
+}

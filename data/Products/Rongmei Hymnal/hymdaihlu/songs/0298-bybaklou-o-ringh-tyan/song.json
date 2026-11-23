@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0298",
+    "number": 298,
+    "source": {
+      "printedNumber": 298,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mary A.Lathbury",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "2/2",
+      "meter": "10.10.10.10.",
+      "tune": "CW 461"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Bybaklou o ringh ’tyan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 By baklou o Ringhtyan; Kaipouc akhang,",
+            "Reynungc duipui paengc khou by baklou kumc,",
+            "’Thanmei Latrik paengc thangc, he Ringhmei Lat,",
+            "Nang ta t’riina phu e, abumaengc ({0.",
+            "",
+            "2 Suaihiamlou o akhou, Nang Lat paan ({0,",
+            "Nang reynungc ’tyan ruc khou suaihiamlou kumc,",
+            "Khou kiu ai duak puni, kangriang taek ni,",
+            "Chuzaenghmei ai laa ni, Kaipouc Nang khou.",
+            "",
+            "3 Nang Ringhtyan e, akhang, he Poubauhmei,",
+            "’Thanmei Nang Lat paan ({0 ata gulou;",
+            "Nang lev lungc ’chamc ngam khang tiitulou o;",
+            "Nang Lat kahaw thay khang nchamlou o.",
+            "",
+            "4 Tiikey o, Nang Bumaengc ’taw hei akhou,",
+            "Amik kahilouna tiihowlou o;",
+            "Nang Lat thukh 0({ akhou tiithaylou o,",
+            "Nang Latrik khou Nang lwn tiihowlou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Break Thou the Bread of Life",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "2/2",
+        "10.10.10.10.",
+        "CW 461",
+        "Mary A.Lathbury",
+        "Break Thou the Bread of Life",
+        "source hymn 298",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 298."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Bybaklou o ringh ’tyan",
+        "titleRongmei": "Bybaklou o ringh ’tyan",
+        "titleEnglish": "Break Thou the Bread of Life"
+      }
+    }
+  }
+}

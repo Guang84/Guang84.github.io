@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0754",
+    "number": 754,
+    "source": {
+      "printedNumber": 754,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "10.9.10.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He kanloumeipu nangta ning tan mak",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He kanloumeipu nangta ningtan mak,",
+            "Akhang rianra muang kumma jing e;",
+            "He nang lun gaimei rianra kuakmei,",
+            "Tingkauh ganphiu gan pat datro.",
+            "",
+            "Chorus:",
+            "He ningtan makge ata nduang lou o,",
+            "Nangrui ram mak kanloumeipu;",
+            "Tingjing ngam makge.",
+            "",
+            "2. Kapma bam pui bam rianra ram khou hei,",
+            "Pat lou rio he kanloumeipu;",
+            "He nang jaujian rui ata jailou o,",
+            "Ping pui chang khou tat bam khou hei.",
+            "",
+            "3. Theimei Jardon dui dai bam khuan sini,",
+            "Nduang lou o he guang Jisu le;",
+            "He kachak namdai gaimei chang khou 7#@,",
+            "Neila luh suan na titat ro.",
+            "",
+            "4. Salem namdai ringmei thingbang lim khou,",
+            "Bumang thanmei rui nduang gutni;",
+            "Nangrui ram mak ai hei he kanloumei pu,",
+            "Nangta ninga tingjing ngam amkge."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "10.9.10.8.",
+        "He kanloumeipu nangta ning tan mak",
+        "source hymn 24",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 24."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He kanloumeipu nangta ning tan mak",
+        "titleRongmei": "He kanloumeipu nangta ning tan mak"
+      }
+    }
+  }
+}

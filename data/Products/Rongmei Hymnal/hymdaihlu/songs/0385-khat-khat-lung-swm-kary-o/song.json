@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0385",
+    "number": 385,
+    "source": {
+      "printedNumber": 385,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/8",
+      "meter": "7.6.7.7.6. Ref.",
+      "tune": "SS 727"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KHAT KHAT LUNG SWM KARY O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Nang lung chwnsw-katuakc rio,”",
+            "Khrista khou zaeng ’thaekc go;",
+            "Rigwnmei maek kumc kap rio;",
+            "Khrista khou theihmei nunc thu",
+            "Muangh khou key dat puni.",
+            "",
+            "Hei zaeng )}3 nangniw khat khat lung swm kary o,",
+            "Mi lat )}3 khat khat lung swm karyna bam o;",
+            "Hei zaeng )}3 nangniw khat khat lung swm kary o,",
+            "Khat khat lung swm kary o, mi lat )}3.",
+            "",
+            "2 “Nang lung chwnsw-katuakc rio,”",
+            "Khrista khou lwm ethei",
+            "Zaengsiimei 3)^ zaenggaymei,",
+            "Zingbangc 3)^ kalaanv gaanhmei,",
+            "Nang khang tiiguanh puni.",
+            "",
+            "3 Changkhaanv tho, kaganv ’naa the,",
+            "Kaipouc key puni the;",
+            "Tingkauh ku kanmeipu 3)^",
+            "’Niu )}3 huay bammei nunc lev",
+            "Key dat nuangc puni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Comfort Ye One Another",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/8",
+        "7.6.7.7.6. Ref.",
+        "SS 727",
+        "Fanny J. Crosby",
+        "Nang lung chwnsw katuakc rio",
+        "Comfort Ye One Another",
+        "source hymn 385",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 385."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KHAT KHAT LUNG SWM KARY O",
+        "titleRongmei": "KHAT KHAT LUNG SWM KARY O",
+        "titleEnglish": "Comfort Ye One Another"
+      }
+    }
+  }
+}

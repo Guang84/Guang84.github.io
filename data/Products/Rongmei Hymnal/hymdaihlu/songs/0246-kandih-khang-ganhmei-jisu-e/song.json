@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0246",
+    "number": 246,
+    "source": {
+      "printedNumber": 246,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "P.P.Bliss",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "6/8",
+      "meter": "11.8.11.8. Ref.",
+      "tune": "SS 417"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khang ganhmei Jisu e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Paapc zinghmei khou kandih",
+            "kapwm ’maan khwan the,",
+            "Kandih khang gaanhmei Jisu e!",
+            "Kalaanv neicriw kumc Jisu riw }?2 gaanclou,",
+            "Kandih khang gaanhmei Jisu e!",
+            "",
+            "Gaanh khou guang o,",
+            "Nang khang gaanc bam the;",
+            "Akhang mu gaanc chuyna gaanclou the;",
+            "Mik tiat khwanmei ’taw thu ai how the:",
+            "Kandih khang gaanhmei Jisu e!",
+            "",
+            "2 Jisu khou bammei ’niu khou",
+            "zinghmei maek khe,",
+            "Kandih khang gaanhmei Jisu e!",
+            "Jisu thei lay ethei ’niu gaanh khou tat re,",
+            "Kandih khang gaanhmei Jisu e!",
+            "",
+            "3 Zingh khou lunghmei paapc }?2 mik tiat bammeithiu,",
+            "Kandih khang gaanhmei Jisu e!",
+            "Kalat piuna khiu tat ro, how puni the,",
+            "Kandih khang gaanhmei Jisu e!",
+            "",
+            "4 Neihriw hei tingkauh thangc thu kage maek khe,",
+            "Tingkauh thangc gaanhmei Jisu e!",
+            "Kachaekc kaidai khou gaanhmei",
+            "Lauziu Nac e,",
+            "Tingkauh thangc gaanhmei Jisu e!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Light of the World!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "6/8",
+        "11.8.11.8. Ref.",
+        "SS 417",
+        "P.P.Bliss",
+        "Paapc zinghmei khou kandih kapwm",
+        "The Light of the World!",
+        "source hymn 246",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 246."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khang ganhmei Jisu e",
+        "titleRongmei": "Kandih khang ganhmei Jisu e",
+        "titleEnglish": "The Light of the World!"
+      }
+    }
+  }
+}

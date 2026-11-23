@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-059",
+    "number": 59,
+    "source": {
+      "printedNumber": 59,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He ARavguangc Zaylou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          59 He ARavguangc Zaylou o",
+            "                           7.7.11.7. Pef. 8. 8",
+            "          Doh hei D",
+            "",
+            "          1. He aRavguangc zaylou o;",
+            "             Nang ningmei khou zaylou o.",
+            "             Nang hamhna ai ingc ngammak ge, aRavguangc;",
+            "             He Kaipouc Nang rui hamhna.",
+            "",
+            "                  Zaylou o, Kaipouc zaylou o;",
+            "                  Ringc nipui chaeng khou zaylou o.",
+            "",
+            "          2. He aRavguangc 'zianlou o;",
+            "             Ai 'suan e Nang thu tanc e.",
+            "             Nang pamv khou ai ngangvlou ni the, aRavguangc;",
+            "             He Kaipouc pumtan tii o.",
+            "",
+            "          3. Tingkauh ramc gaymei khoutei,",
+            "             Alung rui ningna bam e.",
+            "             Heic ramc gay' tei guang tangh khang kaganv 'naa the;",
+            "             Lungning 'thanna khwan bam o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He ARavguangc Zaylou o"
+      }
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-109",
+    "number": 109,
+    "source": {
+      "printedNumber": 109,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Alung hei paap rui zing sini",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Alung hei pap rui zing sini",
+            "Than mei bam tisu lou o",
+            "Alung khou hei He! Poubaomei",
+            "Kagan thui bam duang lou o.",
+            "",
+            "Nang bam mi thei ] 2",
+            "Mban thai na bam nithe,",
+            "Nang bam mi thei] 2",
+            "Mban thai na bam ni the.",
+            "",
+            "2. Neikhat nang ta khiu giang lou na",
+            "Neikhat nang khou lum louna ,",
+            "Man nimei khou lung gut lou rio",
+            "Ring nimei khou lung gut ro.",
+            "",
+            "Ti ngam puni.] 2",
+            "Nang khou lum lou rap khou rui,",
+            "Ti ngam puni .] 2",
+            "Nang khou lum lou rapkhou rui.",
+            "",
+            "3. Pap riang guay hei ripat lou o,",
+            "Abumang ta kanlou o",
+            "Zing mei khou hei bam sang lak khe",
+            "Nei mik riw kumv gan guang o",
+            "",
+            "Gan bam mi thei.] 2",
+            "Ai ning mei guang tang ni the ,",
+            "Ganbam mi thei ]2",
+            "Ai ning mei guang tang ni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 109",
+        "Khristian Luzaam PDF",
+        "Chord: A",
+        "Meta 3: 8.7.8.7."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 109. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 146,
+        "match": "title-match-0.91"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Alung hei paap rui zing sini",
+        "titleRongmei": "Alung hei paap rui zing sini"
+      }
+    }
+  }
+}

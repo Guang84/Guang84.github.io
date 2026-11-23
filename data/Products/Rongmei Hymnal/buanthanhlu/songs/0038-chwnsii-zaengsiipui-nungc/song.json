@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-038",
+    "number": 38,
+    "source": {
+      "printedNumber": 38,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chwnsii Zaengsiipui Nungc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "              38 Chwnsii Zaengsiipui nungc",
+            "                            15.11.7.8. Ref. 12.15",
+            "              1. Chwnsii zaengsiipui nungc aRavguangc Nang",
+            "                                                  ata 'duanghlou o.",
+            "                 Lungh ryanraa zaengthaekcloupui bamv",
+            "                                                  Nang pamv khou,",
+            "                 Akhou kauh chamv dinclou o,",
+            "                 Zinghmei kandihramc khou bam khou.",
+            "",
+            "                      Kahymdaihmei chamv hei a saa",
+            "                      ngamthuy lakge, hei!",
+            "                      Tingkauh nrah alim muanna thuanhpui",
+            "                      khwan ai chu pwkhou.",
+            "              2. Ai zinghmei ramc khouhei lungh ryanraana",
+            "                                                  kapbam khwan sihnic,",
+            "                 Theihmei duidai kaanpat pwkhou",
+            "                                               aRavguangc rui,",
+            "                 He ata riulou ni, lungh kabiuna kapmei",
+            "                                                     nai lak khe.",
+            "              3. Heic khoutei bammei guay ramnavpui",
+            "                                            lat hei saa dat lak khe.",
+            "                 Nthanmei Kaidai khoutei Lauziunac ta,",
+            "                 Nthanmei Seraphim guay thuanhpui lu",
+            "                                                suan nthaekc makge.",
+            "",
+            "              4. Mi ramc tei tangh khang kandih ryanraa rui",
+            "                                                   ata gumliam bam,",
+            "                 He ai 'khwan e nang ramc thanh khou lungh khang tei;",
+            "                 Rihngammei tadannwang sinna, Salem thanh",
+            "                                                   khou thuancdiu khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chwnsii Zaengsiipui Nungc"
+      }
+    }
+  }
+}

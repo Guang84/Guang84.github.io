@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0549",
+    "number": 549,
+    "source": {
+      "printedNumber": 549,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Horatius Bonar",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "2/2",
+      "meter": "L. M.",
+      "tune": "HLC 500"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tatna taanc tho , daek dat ritho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tatna taanc tho, daek dat ritho,",
+            "Neihlaana Pu {:1 chwnmei khou;",
+            "Kaipouc tatpui chaenglwan khou hei",
+            "Kabangc nunc nic lay tat lak cho?",
+            "",
+            "2 Tatna taanc tho, nsa hamh the,",
+            "Tingkauh thangc nang dwan gay khang e;",
+            "Meic {:1 thaylou, thuanclou mak diu,",
+            "Kaipouc {:1 thuanckulou bam de.",
+            "",
+            "3 Tatna taanc tho, gaanc bam khou hei,",
+            "Kandih zinghmei ganv guang pw the;",
+            "Mazat la tho, du daih ritho,",
+            "Zauc gayna bumaengh khuam tat tho.",
+            "",
+            "4 Liat lak ritho, huayney ranv tho,",
+            "Ramh thayna ’maanmei ta khuam tho;",
+            "Tat pat tho, kandih chaeng dai khou,",
+            "’Maanmei ta kabai guang geic tho."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Go, Labour on, Spend, and be Spent",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "2/2",
+        "L. M.",
+        "HLC 500",
+        "Horatius Bonar",
+        "Go, Labour on, Spend, and be Spent",
+        "source hymn 549",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 549."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tatna taanc tho , daek dat ritho",
+        "titleRongmei": "Tatna taanc tho , daek dat ritho",
+        "titleEnglish": "Go, Labour on, Spend, and be Spent"
+      }
+    }
+  }
+}

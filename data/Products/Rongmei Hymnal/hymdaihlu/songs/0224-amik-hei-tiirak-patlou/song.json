@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0224",
+    "number": 224,
+    "source": {
+      "printedNumber": 224,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Clara H. Scott",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.8.9.8.8.8.8.4.",
+      "tune": "RS 537"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Amik hei tiirak patlou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Amik hei tiirak patlou o,",
+            "Nang lat thukh 2^< ai how ngam",
+            "khang;",
+            "Nsinlou o, khamvtaan chabi 2^<,",
+            "Ata riclouna tiiduak khang;",
+            "Reih reina ai Nang ta ’khwan e,",
+            "Nang ningmei taanh khang",
+            "chamdaanvna;",
+            "Tiiraklou o, tiigaanclou o;",
+            "Ravguangc Bumaengc.",
+            "",
+            "2 Anukuanc hei tiichulou o,",
+            "Nang tiiguangmei ’chumhmei",
+            "khwan 2^<;",
+            "Nang khwan anu khou chutow",
+            "pwkhou",
+            "Laanhmei khwan guay ’maan kan puni;",
+            "Reih reina ai Nang ta ’khwan e,",
+            "ARavguangc Nang ningmei phuna;",
+            "Anukuanc hei tiichulou o,",
+            "Ravguangc Bumaengc.",
+            "",
+            "3 Amwang hah pat khang ’khavlou o,",
+            "Nang tuang lat thukh ai dinc ngam",
+            "khang,",
+            "Chamdaanvlou o, alung laanclou o,",
+            "Nang mei nunc lev kadam laa khang,",
+            "Reih reina ai Nang ta ’khwan e,",
+            "ARavguangc Nang ningmei phuna;",
+            "Alung laanclouna tiigaanc o,",
+            "Ravguangc Bumaengc."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Open My Eyes that I May See",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/8",
+        "8.8.9.8.8.8.8.4.",
+        "RS 537",
+        "Clara H. Scott",
+        "Open My Eyes that I May See",
+        "source hymn 224",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 224."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Amik hei tiirak patlou",
+        "titleRongmei": "Amik hei tiirak patlou",
+        "titleEnglish": "Open My Eyes that I May See"
+      }
+    }
+  }
+}

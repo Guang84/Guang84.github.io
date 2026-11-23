@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0128",
+    "number": 128,
+    "source": {
+      "printedNumber": 128,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "C.H.Gabriel",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "9/8",
+      "meter": "9.8.9.8. Ref",
+      "tune": "SS 73"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "CHR’INMEI P’RY",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He adih gay cho, Jisu p’ry hei!",
+            "Paapc mei nunc khang theicloumei pu,",
+            "Ch’rynmei Guloumeipu tuang chamv hei,",
+            "Ai rac kaluaih luaih bam ni the!",
+            "He ch’rynmei, ch’ryn kanmei p’ry kiu e!",
+            "Kamanv kungc liangmei p’ry kiu e!",
+            "Ai rac kaluaih bam ni,",
+            "Kauh thangc mi ch’rynmei p’ry hei",
+            "Karamgai ai howpui nungc kiu.",
+            "",
+            "2 Hymdaihmei kauh kai thangc #<8 key e,",
+            "Paapc ranh khang Kazei keylou the;",
+            "Thuaklou suangmei hei liulou khang e,",
+            "Kamei gulou khang ngammei e.",
+            "",
+            "3 Kazauzian hei dui kumcna luangc e,",
+            "Karamzian hei kadath maek ge;",
+            "Karamzian hei tingsaeng khan biuc e,",
+            "Hei #<8 ata nganv gulou e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Wonderful Story",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "9/8",
+        "9.8.9.8. Ref",
+        "SS 73",
+        "C.H.Gabriel",
+        "He adih gay cho Jisu p’ry hei!",
+        "The Wonderful Story",
+        "source hymn 128",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 128."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "CHR’INMEI P’RY",
+        "titleRongmei": "CHR’INMEI P’RY",
+        "titleEnglish": "The Wonderful Story"
+      }
+    }
+  }
+}

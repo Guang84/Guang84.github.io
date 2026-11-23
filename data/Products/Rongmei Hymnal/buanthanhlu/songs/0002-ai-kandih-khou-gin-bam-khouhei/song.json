@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-002",
+    "number": 2,
+    "source": {
+      "printedNumber": 2,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai Kandih khou 'Gin Bam Khouhei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          2    Ai Kandih khou ’Gin Bam Khouhei",
+            "                               8.12.8.12.9. Ref. 11.7.9.9",
+            "          Doh hei E",
+            "",
+            "          1. Ai kandih khou ’gin bam khouhei,",
+            "             Aram nyngtyng takh hei rui saa ngam thuylak ge.",
+            "             Kachaekc kaphut kai tei ch’ryn e!",
+            "             Mi guay rui abumaengc tiringc ngam pwni cho?",
+            "             O, mihei ruina ringc ngam lak ge!",
+            "",
+            "                  Abraham le! Lazar ta kabaanc twan khou,",
+            "                  Dui katitna rowlouna,",
+            "                  Abaley khou tizukkeylou o;",
+            "                  Suhmei mai rui ai khaengv ngammak khe.",
+            "",
+            "          2. Lazar ’dih khou lunghpui kaanc khou,",
+            "             Lungcgaymeipu rui tu kathowkeyloumei ta,",
+            "             Khuaic tu khang chaengmun khou guang e.",
+            "             Karamgaigiu tei lungcgaymeipu rui karaeng.",
+            "             Kum khwan sihnic Ravguangc rui ’zian e.",
+            "",
+            "          3. Lungcgaymeipu theihpui kaanc khou,",
+            "             Tingkauh kandic guang makna maikwam tat kan the.",
+            "             Lazar tei Abraham pamv khou,",
+            "             Dungc bammei ta howna kamei rui ning ngammak!",
+            "             Kum khwan sihnic kamei ringc dat mak."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai Kandih khou 'Gin Bam Khouhei"
+      }
+    }
+  }
+}

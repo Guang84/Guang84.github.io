@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0433",
+    "number": 433,
+    "source": {
+      "printedNumber": 433,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William Williams",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7.8.7.7.",
+      "tune": "3TBH 11"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Daihmei Poubauhmei zaylou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Daihmei Poubauhmei zaylou o!",
+            "Tazikramv khou tat bam khou;",
+            "Ai suan e, ’ki Nang thu tanc e,",
+            "Ngammei baanc ^&8 zaylou o;",
+            "He tingkauh ’tyan, he tingkauh ’tyan;",
+            "Ata tii n-gulou o! (2)",
+            "",
+            "2 Alyngmei duipuak laanclou o,",
+            "Ringhphaengdui patmei duipuak;",
+            "Maibwang lev muanghtiangc ^&8 ata,",
+            "Chaenglwan saanvsaengh zaylou o,",
+            "Thuakloumei pu,Thuakloumei pu,",
+            "Apumtan n-gih Nang e. (2)",
+            "3 Jordan tin khou ai tat bam khou,",
+            "Pingmei tii-amaanlou o,",
+            "Dui daic bam khou zay kaanlou o,",
+            "Kanaan khou zay guanglou o;",
+            "Thuanhpui lu ^&8, thuanhpui lu ^&8,",
+            "Ai tingsaeng Nang ta thuanc ni! (2)"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Song of Praise",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.7.8.7.8.7.7.",
+        "3TBH 11",
+        "William Williams",
+        "THUANHPUI LU",
+        "Song of Praise",
+        "source hymn 433",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 433."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Daihmei Poubauhmei zaylou o",
+        "titleRongmei": "Daihmei Poubauhmei zaylou o",
+        "titleEnglish": "Song of Praise"
+      }
+    }
+  }
+}

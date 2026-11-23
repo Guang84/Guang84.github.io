@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-084",
+    "number": 84,
+    "source": {
+      "printedNumber": 84,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "10.7.6.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aniu nkhuan bammei tingkwm tang the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Aniu nkhuan bammei tingkwm tang the,",
+            "Neihla na lu suandi kho",
+            "Pou-pei riak ning maknga;",
+            "Aniu hu thang zau kho.",
+            "",
+            "Neihlana thuanku e nang,",
+            "Kagan tingkum gaimei",
+            "Meiguai lungning",
+            "Mun kumna ti puanglou o,",
+            "Kandihmei riak ta ningdat mak khang.",
+            "",
+            "2. Chunsi zaengsi tuang guai mak kanmei hei,",
+            "Tingkum kathanh houdat khang,",
+            "Nangpaan khou ruina;",
+            "Thuandiu mei kapumma rui.",
+            "",
+            "3. Suaihiammei tingkum hei ‘maan kan sini,",
+            "Jisu zauzian tei akhang",
+            "Zaat kapumma guai khang;",
+            "Tingkwm ‘thanh houdat diu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 84",
+        "Khristian Luzaam PDF",
+        "Chord: E",
+        "Meta 3: 10.7.6.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 84. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 84,
+        "match": "title-match-0.97"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aniu nkhuan bammei tingkwm tang the",
+        "titleRongmei": "Aniu nkhuan bammei tingkwm tang the"
+      }
+    }
+  }
+}

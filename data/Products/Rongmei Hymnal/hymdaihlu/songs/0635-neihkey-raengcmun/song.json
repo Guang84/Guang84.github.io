@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0635",
+    "number": 635,
+    "source": {
+      "printedNumber": 635,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Julia H. Johnston",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.7.9.7. Ref.",
+      "tune": "4 TBH 75"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NEIHKEY RAENGCMUN",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neihkey raengcmun biak ai tat bam e,",
+            "Kai ’zwanna ai tat bam e;",
+            "Tingzyn neic suc katynmei kumcna",
+            "Neihkei raengcmun ’naa guang khou!",
+            "",
+            "Tingzyn kaeng .. khwan ai chu e,",
+            "Neihkey raengcmun ’naaguang khou!",
+            "",
+            "2 Neihkey khou nchuna zaeng ’thaekc ni,",
+            "Chuzaenghmei khou zip key ni;",
+            "Neihkey khou ai kai tangc pwkhou kiu",
+            "Chuzaenghmei khou zip key ni.",
+            "",
+            "3 Nzianmei nunc daeng khou tangc pwkhou,",
+            "Aryanra guay lou key ni;",
+            "Niamhmei Kaipouc khwan ni chu pwkhou",
+            "Aryanra guay lou key ni.",
+            "",
+            "4 Tinggaanc pwkhou ai thau dat puni,",
+            "Hymdaihmei 5#^ ai piu ni;",
+            "Theihmei 5#^ laa ganc kan pwkhou kiu,",
+            "Hymdaihmei 5#^ ai piu ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Sunset Gate",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "9.7.9.7. Ref.",
+        "4 TBH 75",
+        "Julia H. Johnston",
+        "Tingzyn kaeng khwan ai chu e",
+        "The Sunset Gate",
+        "source hymn 635",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 635."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NEIHKEY RAENGCMUN",
+        "titleRongmei": "NEIHKEY RAENGCMUN",
+        "titleEnglish": "The Sunset Gate"
+      }
+    }
+  }
+}

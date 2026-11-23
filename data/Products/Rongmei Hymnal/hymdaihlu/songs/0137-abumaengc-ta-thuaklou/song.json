@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0137",
+    "number": 137,
+    "source": {
+      "printedNumber": 137,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J.E.Hall",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.6. Ref.",
+      "tune": "SS 648"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Abumaengc ta thuaklou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Abumaengc ta thuaklou khang <~1",
+            "Kros khou ryanra akhangvloumei,",
+            "Gumeipu Jisu ramzian hei,",
+            "Ai saa dat ngam mak khe!",
+            "",
+            "",
+            "Karamzian saa dat ngam mak khe!",
+            "Karamzian saa dat ngam mak khe!",
+            "Jisu <~1 ata zianmei hei",
+            "Ai saa dat ngam mak khe!",
+            "",
+            "2 Ai ringcsuangna ringc bam khang <~1",
+            "Kamei ryanra phungcloumei 1<~,",
+            "He, sauh pyrun runloumei 1<~,",
+            "Ai saa dat ngam mak khe!",
+            "",
+            "3 Akhang huayney bammei Khrista,",
+            "Kapaan chuzaenghmei naimei hei,",
+            "Kunghmei Khrista tuang zei thukh hei,",
+            "Ai saa dat ngam mak khe!",
+            "4 Kamei ’naa bam khou neilaa hei,",
+            "Kamei tiimei zaeng thaekmei hei,",
+            "Kakhou naimei machunhmei hei,",
+            "Ai saa dat ngam mak khe!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.8.8.6. Ref.",
+        "SS 648",
+        "J.E.Hall",
+        "Karamzian saa dat ngam mak khe",
+        "More than Tongue can Tell",
+        "source hymn 137",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 137."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Abumaengc ta thuaklou",
+        "titleRongmei": "Abumaengc ta thuaklou"
+      }
+    }
+  }
+}

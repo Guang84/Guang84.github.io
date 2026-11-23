@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0232",
+    "number": 232,
+    "source": {
+      "printedNumber": 232,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "F.J.Van Alstyne",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.8.10.8. Ref.",
+      "tune": "SS 779"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kabai guang o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kabai guang o! ’taw nganv bamv nai he,",
+            "Guangh _>6 khwmkihmei khou tu khang;",
+            "Kabai guang o! Kakai padik kan diu,",
+            "Ndaapcmei, lungcsiimei tu diu.",
+            "",
+            "Chaengdai khou lev chaengkwn haengkuaic khou 6_>,",
+            "Paapc chaeng zinghmei bamv khou 6_>,",
+            "Tat ro, tat ro, zianpui lung phungcna;",
+            "’Maanmei guay ta khuam guang o!",
+            "",
+            "2 Kabai guang o! ’taw nganv bamv nai he,",
+            "’Niu lung hei adih kabiu cho!",
+            "Kawmei ta thouh swlou",
+            "makmei nunc 6_>,",
+            "Kawpui khwan chu dat pw lak khe!",
+            "",
+            "3 Kabai guang o! ’taw nganv bamv nai he,",
+            "Mi hei tingkauh Racguangc Lat re;",
+            "He, kabai guang geic o, zauzian kai khou,",
+            "Guloumeipu zauzian pamv khou!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Gather Them in!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "9.8.10.8. Ref.",
+        "SS 779",
+        "F.J.Van Alstyne",
+        "Gather Them in!",
+        "source hymn 232",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 232."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kabai guang o",
+        "titleRongmei": "Kabai guang o",
+        "titleEnglish": "Gather Them in!"
+      }
+    }
+  }
+}

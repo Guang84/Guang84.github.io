@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-242",
+    "number": 242,
+    "source": {
+      "printedNumber": 242,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neihlaa zaenggai o kaipou khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Neihla zaeng gai o kaipou khou,",
+            "Lungning ntun mei nun thiu le,",
+            "Aniu kapah loumei Pu rui",
+            "Rianra tuang guay ti-maan lou the.",
+            "",
+            "Neihla lou o,",
+            "Neihla lou o, Poubaumei khou! 2",
+            "",
+            "2. Neihla o, kamei kaipou e,",
+            "Kauh lev dihkhou dai liangmei e.",
+            "Kalat rui ramguay ta sin e:",
+            "Thuakpat lou khang ngam mei pu e.",
+            "",
+            "3. Nzihmei khang rihsu pukhou",
+            "Zauzihmei rui tan guang sini!",
+            "Houmak mei Ravguangc rimei rui;",
+            "Zauzihmei khang suang ni tan e.",
+            "",
+            "4. Zinghmei rui nang ta haeng sini,",
+            "Zingbang kum zingliam guang sini,",
+            "Nang niu lungning tangkhin zat riu,",
+            "Lum o rianramei luai mak saan.",
+            "",
+            "5. Neihla zaeng gai o, kaipou khou,",
+            "Kata thuanhmei guay lusuan o;",
+            "Nrah le tiangka khuan ruina,",
+            "Kata thuanhmei guay lusuan o!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 242",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 242. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neihlaa zaenggai o kaipou khou",
+        "titleRongmei": "Neihlaa zaenggai o kaipou khou"
+      }
+    }
+  }
+}

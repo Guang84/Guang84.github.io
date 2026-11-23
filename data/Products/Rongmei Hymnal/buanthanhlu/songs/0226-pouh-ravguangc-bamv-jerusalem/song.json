@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-226",
+    "number": 226,
+    "source": {
+      "printedNumber": 226,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pouh Ravguangc Bamv Jerusalem",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          226 Pou Ravguangc Bamv Jerusalem",
+            "                          10.11.12.8. Ref. 8. 10.9",
+            "",
+            "          1. Pou Ravguangc bamv Jerusalem Thanh khou,",
+            "             Thuanckumei hymdaihmei khwan rui padikge;",
+            "             Kahymdaihmei zanc hei saana bam khwan sihnic,",
+            "             Paekri sihnic saatangh mak ge.",
+            "",
+            "                    Paekri sihnic saatangh mak ge,",
+            "                    Kaidai gaymei, 'kauhmei lam hei saana,",
+            "                    Paekri sihnic saatangc ngammak ge.",
+            "",
+            "          2. Nthanmei nunc lev 'kauh baancharaa guay,",
+            "             Kaidai gaymei khoutei zaatc kaguayna rui,",
+            "             Aniw rui mwnpwang tuai kanmei, puangc dat nimei,",
+            "             Paekri sihnic saatangh mak ge.",
+            "",
+            "          3. Zaat guay khourui kasing chak ngam lakmei,",
+            "             Tingmik 'thuih Lauziunac guangh bamvpaeng hu khou,",
+            "             Kaidai khou gutmei bumaengc tei chak ngam lak ge.",
+            "             Paekri sihnic saatangh mak ge.",
+            "",
+            "          4. Ringhmei latrik khou zanh hyloumei nunc,",
+            "             Kaniw khang Gu'meipu rui bamv chamdaanvlou,",
+            "             Gu'meipu rui'niw ryanraa tizaengthaekclou ni.",
+            "             Karamgai aniw how ni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pouh Ravguangc Bamv Jerusalem"
+      }
+    }
+  }
+}

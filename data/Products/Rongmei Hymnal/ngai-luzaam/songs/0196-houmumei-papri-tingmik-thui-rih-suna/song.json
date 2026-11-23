@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-196",
+    "number": 196,
+    "source": {
+      "printedNumber": 196,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Houmumei papri tingmik thui rih suna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Houmumei papri tingmik thui rih suna,",
+            "Thei numei khai tanhmei rui adou;",
+            "Ai rianra sih the,",
+            "Pou Jisu akhang ripuan ti lou pui tang",
+            "Simei pap rita adou ngam the.",
+            "",
+            "San-gaimei ti lou na",
+            "Pap puanzing tanhmei rui",
+            "Liu guang sini kacha lak",
+            "Ntipmei tao daimei khang suang e.",
+            "",
+            "2. Ping riu nzuan o pap rimei nun ti hei;",
+            "Pou Jisu riphian ta ngam lak khe,",
+            "Theimei pap tei rui",
+            "Hubiak thang zingmei guai ni tigaanlou the",
+            "Phaengzau lo Zion namdai hou the.",
+            "",
+            "3. Adoupui ngam nang latdan tei tilouna",
+            "Pou Jisu Mikhael kha lou na seitan ta ngam ni;",
+            "Riphian guai rih ngam khang rih hei tan bam the",
+            "Theimei Guang pap ri adou ngam khang.",
+            "",
+            "4. Nangpam khou aniu ntau thu guang tang the,",
+            "Thuanpui khuan rui lik kandiu",
+            "Kao le kandi kabam thui;",
+            "Theimei pap zingmei khou rui guduaklou the",
+            "Huainei mei pou Raguang chulouna."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 196",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 196. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Houmumei papri tingmik thui rih suna",
+        "titleRongmei": "Houmumei papri tingmik thui rih suna"
+      }
+    }
+  }
+}

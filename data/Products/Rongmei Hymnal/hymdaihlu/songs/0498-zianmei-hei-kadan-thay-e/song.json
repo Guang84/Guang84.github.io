@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0498",
+    "number": 498,
+    "source": {
+      "printedNumber": 498,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Christopher Wordswarth",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7.5.",
+      "tune": "CW 386"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zianmei hei kadan thay e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zianmei hei kadan thay e,",
+            "’Khaengvsaengc e, lungning niamh e;",
+            "Zianmei thu sii khang sw mak,",
+            "Zianmei tiilou o.",
+            "",
+            "2 Ravmundinhmei ’thaekc puni,",
+            "Kalaanv riw khou ’maan kumcna;",
+            "Zianmei thu nai bam puni,",
+            "Zianmei tiilou o.",
+            "",
+            "3 Lwmmei hei how tangc pwkhou,",
+            "Machunhmei guang tangc pwkhou,",
+            "Zianmei thu gaanc ranv puni,",
+            "Zianmei tiilou o.",
+            "",
+            "4 Lwmmei, machunhmei, zianmei,",
+            "Kathumh hei nai bam puni,",
+            "Tiki mi kathumh pangc khou",
+            "Zianmei daic liang e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Love is Kind and Suffers Long",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "7.7.7.5.",
+        "CW 386",
+        "Christopher Wordswarth",
+        "Love is Kind and Suffers Long",
+        "source hymn 498",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 498."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zianmei hei kadan thay e",
+        "titleRongmei": "Zianmei hei kadan thay e",
+        "titleEnglish": "Love is Kind and Suffers Long"
+      }
+    }
+  }
+}

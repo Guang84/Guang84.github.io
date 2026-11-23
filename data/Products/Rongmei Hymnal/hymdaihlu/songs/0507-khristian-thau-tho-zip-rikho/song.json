@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0507",
+    "number": 507,
+    "source": {
+      "printedNumber": 507,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Frances Hill",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "3/4",
+      "meter": "7.7.7.7. Ref",
+      "tune": "SS 748"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khristian thau tho, zip rikho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Khristian thau tho zip ri tho,",
+            "Gaanv saekc thu kapna bam khou,",
+            "Kaipouc #^7 ndiu bam khou,",
+            "Baanh ’suina dungc bam kho cho?",
+            "",
+            "Taanc tat ro, .. ’taw hei thau tho!",
+            "’Maanmei ta .. phu khang tat ro,",
+            "Zinghpui bamv .. paapc bamv khou #^7,",
+            "Khwmkih bamv khou ’duangh guang o!",
+            "",
+            "2 Kaipouc zanc ta ’niu zian cho?",
+            "Kalatryan ta ’niu lwm cho?",
+            "’Niu tuang guay tii khang ding cho?",
+            "Kamei saamei piu lak cho?",
+            "",
+            "3 Kata ’niu lwmgay di cho?",
+            "Kamei saa kumc lungc bam cho?",
+            "Aniu Katuang na di cho?",
+            "Aniu taanv #^7 ndauh kho!",
+            "",
+            "4 Phungh mak nuh makmei kros nai,",
+            "Pyrun run ni, ning ethei;",
+            "Pumtan thanh khou thau di kho;",
+            "Kaganv rau tingmik dui the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Go and Work!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "3/4",
+        "7.7.7.7. Ref",
+        "SS 748",
+        "Frances Hill",
+        "Taanc tat ro ’taw hei thau tho",
+        "Go and Work!",
+        "source hymn 507",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 507."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khristian thau tho, zip rikho",
+        "titleRongmei": "Khristian thau tho, zip rikho",
+        "titleEnglish": "Go and Work!"
+      }
+    }
+  }
+}

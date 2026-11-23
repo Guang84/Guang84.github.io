@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0518",
+    "number": 518,
+    "source": {
+      "printedNumber": 518,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Timothy Dwight",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.6.8.6.6.6.8.6",
+      "tune": "CW 428"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NANG GUANGHDIC TA AI ZIAN",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang Guangcdic ta ai zian",
+            "He Ravguangc, Nang bamv ta;",
+            "Kunghmei Thuakloumei pu zei @{4",
+            "Guloumei phwamling ta;",
+            "He Damhmei pu Ravguangc!",
+            "Zian e, Nang phwamling ta,",
+            "Nang @{4 kungc-kaziwmei phwam ta,",
+            "Nang @{4 suangloumei ta.",
+            "",
+            "2 Phwamling khang amikdui",
+            "Keyna huayneylou ni;",
+            "Kakhang @{4 ai taanc-ruailou ni,",
+            "Taanc-ruai nthaekc mak saanv;",
+            "Karamgai khou bam ni,",
+            "’Thukmei latryan ngaek ni;",
+            "Katuang zianmei lu ai suan ni,",
+            "Karamgai ta thuanc ni.",
+            "",
+            "3 He Jisu ’niu Kaipouc,",
+            "Thuakloumei pu ’niw Guangh!",
+            "Phah lev zauczihmei guay khou @{4",
+            "Nang @{4 gaeklou puni;",
+            "Nang tuang ’twnmei ’maan lak,",
+            "Zion khou tiilou ni,",
+            "Kandih khou hym daicliangmei lev",
+            "Kauh thangc gay liangmei 4@<."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Love Thy Kingdom, Lord",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "6.6.8.6.6.6.8.6",
+        "CW 428",
+        "Timothy Dwight",
+        "I Love Thy Kingdom, Lord",
+        "source hymn 518",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 518."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NANG GUANGHDIC TA AI ZIAN",
+        "titleRongmei": "NANG GUANGHDIC TA AI ZIAN",
+        "titleEnglish": "I Love Thy Kingdom, Lord"
+      }
+    }
+  }
+}

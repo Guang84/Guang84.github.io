@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0526",
+    "number": 526,
+    "source": {
+      "printedNumber": 526,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Newton",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "7.7.7. D.",
+      "tune": "CSH 190"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "TAT KANMEI KANIT KHOU RUI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tat kanmei kanit khou $%6",
+            "Poubauhmei $%6 ’duanghlou the;",
+            "Kalumpui kai khou bamna,",
+            "Kasuaihiam ’taw ’niu ney kho;",
+            "Tingmik ruang khou gay liangmei,",
+            "Tingsaeng zaengthaek tuang maengc e. ( 2)",
+            "",
+            "2 Thuakloumei pu zanc khou $%6",
+            "Kuaklou khang zauzian ney e;",
+            "Paapc lev zakmei laa gancna,",
+            "Nang zawpaanv tiihowlou o;",
+            "Dih chwn guay laa ganclou o,",
+            "Nang pamv khou ’niw zaengsw ni. (2)",
+            "",
+            "3 ’Niw Nang zanc thuanh khang guang e,",
+            "’Niw pangc khou guang bamlou o,",
+            "Nang hymdai tiihowlou o;",
+            "Nang kai khou ’niw guang bam khou;",
+            "Pou, ’niw ta tii ’baplou o,",
+            "Kauh thangc khwmkihmei ramgai.(2)",
+            "",
+            "4 Neihlaamei Gaychamv khwan $%6",
+            "Paapcmei nunc ta ngam diu o;",
+            "Lwmmei nunc lung tiithau diu,",
+            "Sunu guay tiigaylou diu;",
+            "Kauh phwamling khou ’zauh mak saanv,",
+            "Zauzian thai padiklou o. (2)"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "7.7.7. D.",
+        "CSH 190",
+        "John Newton",
+        "Safely Through Another Week",
+        "source hymn 526",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 526."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "TAT KANMEI KANIT KHOU RUI",
+        "titleRongmei": "TAT KANMEI KANIT KHOU RUI"
+      }
+    }
+  }
+}

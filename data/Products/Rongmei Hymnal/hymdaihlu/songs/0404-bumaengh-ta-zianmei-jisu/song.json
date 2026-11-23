@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0404",
+    "number": 404,
+    "source": {
+      "printedNumber": 404,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles Wesley",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "6/4",
+      "meter": "7.7.7.7. D.",
+      "tune": "SS 227"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Bumaengh ta zianmei Jisu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Bumaengh ta zianmei Jisu,",
+            "Nang pamv khou tiibamlou o,",
+            "Dui kamuatcmei ’naa guang khou,",
+            "Pwanzingh ranvna bam khou hei;",
+            "He Kaipouc, tiiduplou o,",
+            "Panty pwanzingh luai mak saanv,",
+            "Tingkauh nganvna gaeklou o,",
+            "Abumaengc laa thaulou o!",
+            "",
+            "2 Baihmei duppui bamv maek ge,",
+            "Abumaengc Nang khou ngangvlou,",
+            "Araana ta ’patlou rio,",
+            "Ata tiineihlaalou o,",
+            "",
+            "Aramlum Nang khou lou ngam,",
+            "Nang ram ’khavlou ta huay e;",
+            "Duppuibamv maekmei ata",
+            "Nang swkaeng bangc khou lou o.",
+            "",
+            "3 He Khrista, Nang khou laatow,",
+            "Akhang kage naimei guay;",
+            "Bowmei, ’suanmei ta zay thau,",
+            "’Naumei, miktiatmei tiigay,",
+            "’Chumhmei, ’thanmei Nang zanc e,",
+            "Ai hei thu ’than makmei e,",
+            "Ai hei paapc padikmei e,",
+            "Nang thu zauzian Kaipouc e.",
+            "",
+            "4 Nang khou zauzian padik nai,",
+            "Apaap pwm gum binlou khang,",
+            "Ringhphaengdui tiiluangc guangna",
+            "Ata low nthanlou o;",
+            "Ringhmei duipuakkai Nang e,",
+            "Nsa na tiizangvlou o,",
+            "Alung tii-chuangc thaulou o,",
+            "Nganv mak khang tiithaulou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus, Lover of My Soul",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "6/4",
+        "7.7.7.7. D.",
+        "SS 227",
+        "Charles Wesley",
+        "Jesus, Lover of My Soul",
+        "source hymn 404",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 404."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Bumaengh ta zianmei Jisu",
+        "titleRongmei": "Bumaengh ta zianmei Jisu",
+        "titleEnglish": "Jesus, Lover of My Soul"
+      }
+    }
+  }
+}

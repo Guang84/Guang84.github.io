@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-088",
+    "number": 88,
+    "source": {
+      "printedNumber": 88,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Heic Kandic Kabamv Kathuihna khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          88      Heic Kandic Kabamv Kathuihna khou",
+            "                             9.7.10.5. 12.7.Ref. 9.8. 11.7",
+            "          Doh hei F",
+            "",
+            "          1. Heic kandic kabamv kathuihna khou,",
+            "             Ryanraa lakmei khwan raana.",
+            "             Tingpuk kandih 'maan changh kan pwni the;",
+            "             Tingsaengc pwlak khe.",
+            "             Baibal khou saaloumei hei guang khithkhit pwthe;",
+            "             Kandih mai rui raw pwni.",
+            "",
+            "                  Poubauhmei guang datmei ganv khou kiu,",
+            "                  Kandih khouhei tanc-bauhmei guay,",
+            "                  Nkamh khang tei kabamv nai dat pwlak khe,",
+            "                  Ravguangc Lauziu Nac hu khou.",
+            "",
+            "          2. 'Dih khou ramhkhe swna liantimei,",
+            "             Nang ping thayna lunghlaic o;",
+            "             Nang ruc khoutei latzan sw khang ruina",
+            "             Poubauhmei guang the;",
+            "             Maansei nac mwang rui daw hzih ngam pwlak ge;",
+            "             Ravguangc Lauzíu Nac hu khoutei.",
+            "",
+            "          3. Kandih khou nang taanv tynmei khangsuangc,",
+            "             Nang bumaengc khangrui 'tyn o.",
+            "             Nai dat pwlak khe 'maan ngam pwni the,",
+            "             Nang tuang syan-lanv guay.",
+            "             Ntaw kaganv gay khou kunghmei nang bumaengc ta",
+            "             Gulou ngam khang chamdaanv la tho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Heic Kandic Kabamv Kathuihna khou"
+      }
+    }
+  }
+}

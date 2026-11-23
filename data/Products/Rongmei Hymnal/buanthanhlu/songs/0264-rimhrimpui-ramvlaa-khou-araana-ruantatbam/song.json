@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-264",
+    "number": 264,
+    "source": {
+      "printedNumber": 264,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Rimhrimpui Ramvlaa khou Araana Ruantatbam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          264 Rimhrimpui Ramvlaa khou Araana",
+            "                        12.9.8.12. 10.11.Ref. 10. 12. 12. 11",
+            "",
+            "          1. Rimhrimpui ramvlaa khou araana ruantat bam,",
+            "             Gaanhmei riw how makna paapc lung khou.",
+            "             Abumaengc maan kan pwni the,",
+            "             Lungh zinghmei khouruina alung tigaanclou o.",
+            "             Kaganv kathuihna khou abumaengc hei -",
+            "             Poubauhmei nang baancpav khou ai 'sinlou the",
+            "",
+            "               Paapc rui padikmei zinghmei kandic khou,",
+            "               Bumaengh chaeng thay makna tat maan ngam kan ni the.",
+            "               Zinghpui ramc khou ai ruantatna ryanraa sihnic,",
+            "               He Ravguangc akai nganvna 'duanghguanglou o.",
+            "",
+            "          2. Nchu rihri, rimhrimpui nzaengcdic lim khou,",
+            "             'Khavlou nimei maek ge paapc lung khou,",
+            "             Ai zipkey ki zipri thuy mak,",
+            "             Alung ryanraamei ruina padik bam khou,",
+            "             Zingkey khithkhit the a-Poubauhmei le,",
+            "             Zaylou na ro siimei raana guang pwthe.",
+            "",
+            "          3. Kandih ravpui rvapu ta ntamvlou lana",
+            "             Tat di kho tingkauh Zionramc thangc.",
+            "             Kandih khou zinghmei raana de,",
+            "             Gaanmei riw how makna ai katham bam khou",
+            "             Chaeng dinclou na ro a-Poubauhmei le.",
+            "             Nang mbaanv thaypui ramc khou guangtangh mak saanv."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Rimhrimpui Ramvlaa khou Araana Ruantatbam"
+      }
+    }
+  }
+}

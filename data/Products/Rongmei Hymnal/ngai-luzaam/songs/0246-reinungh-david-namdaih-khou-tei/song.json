@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-246",
+    "number": 246,
+    "source": {
+      "printedNumber": 246,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Reinungh David namdaih khou tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Reinungh David namdaih khou tei",
+            "Guaihkai raan dingbam khuan e,",
+            "Kapui rui Kanah zibam khang",
+            "Guaihkuak lung khou zilou e;",
+            "Kachangh thaimeipui Mary e,",
+            "Kanah Jisu Khrista e.",
+            "2. Kamei tingkau thang rui kei e,",
+            "Kamei meiguai Raguang e,",
+            "Kamei duppui bam guaih kai e,",
+            "Kazibam tei guaih kuak ge;",
+            "Lung simei panti khou lung e,",
+            "‘Niu ta kalloumei Pu e",
+            "2. Kamei alau khou rui thauna",
+            "Lat piumei na sukhuan e,",
+            "Zianthaimei lungh niamhmei kapui",
+            "Baanpuam rui na pamlou e,",
+            "Khristian alau nun guai rui ni",
+            "Kakum lat piu nina e.",
+            "",
+            "3. Aniu alau kumna Jisu,",
+            "Tingmik thuih daithau khuan e;",
+            "Suanmei, thiammei, alau suna",
+            "Kapmei, nuihmei, thai khuan e;",
+            "Aniu rianra neihla gan khou,",
+            "Kamei rui phungchamhlou e.",
+            "",
+            "4. Nzianna thuakloupui paan rui,",
+            "Khampui nung Kalun hou ni;",
+            "Nzaengmei zianmei ngana hei",
+            "Aniu tingkau Raguang e;",
+            "Kamei tatpui chaengluan khou tei",
+            "Kanah nun ta zailou e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 246",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 246. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Reinungh David namdaih khou tei",
+        "titleRongmei": "Reinungh David namdaih khou tei"
+      }
+    }
+  }
+}

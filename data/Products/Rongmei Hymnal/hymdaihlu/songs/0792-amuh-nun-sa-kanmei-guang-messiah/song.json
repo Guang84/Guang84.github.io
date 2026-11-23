@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0792",
+    "number": 792,
+    "source": {
+      "printedNumber": 792,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.10.9.8.8.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Amuh nun sa kanmei Guang Messiah",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Amuh nun sa kanmei Guang Messsiah,",
+            "Keisaria khou gaipui tingmik tang the;",
+            "Guan than gaimei tihei (thuan no) (2),",
+            "Kau thanmei nun le bumang thanmei,",
+            "Duthang rui guang ntak mei nun,",
+            "Kau ganchuang le thanmei nun rui,",
+            "Neilana Guang than puanmei din lou e.",
+            "",
+            "2. Guang guaina puanmei kum puanpat lou the,",
+            "Bethlehem guai kai khou 3)_ puan lou the;",
+            "Guang Immanuel ta (thuan no) (2),",
+            "Bumang thanmei le laujiu gangmei,",
+            "Du thang rui guang ntak mei nun,",
+            "Kau banchuang le thanmei nun rui,",
+            "Neilana Guang than puanmei din lou e.",
+            "",
+            "3. Kanlou mei Guang Jubili kang khuan 3)_,",
+            "Kandih le tingkau ram kagang lik diu;",
+            "Guang than gaimei tihei (thuan no) (2),",
+            "Bumang thanmei le laujiu gangmei,",
+            "Nakmei guang kariu mei 3)_,",
+            "Kau banchuang le thanmei nun rui,",
+            "Ganphiu rui Guang than puanmei dinlou e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "10.10.10.9.8.8.10.",
+        "Amuh nun sa kanmei Guang Messiah",
+        "source hymn 62",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 62."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Amuh nun sa kanmei Guang Messiah",
+        "titleRongmei": "Amuh nun sa kanmei Guang Messiah"
+      }
+    }
+  }
+}

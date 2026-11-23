@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0824",
+    "number": 824,
+    "source": {
+      "printedNumber": 824,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "6.5.12.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lung geimei jingbang khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Lung geimei jingbang khou,",
+            "Guang daimei Jisu rui;",
+            "Hei 0({ ajanne, ajei hei tujang mei rui,",
+            "Ata ningtan mak khang.",
+            "",
+            "Chorus:",
+            "Poubaumei la ni mak,",
+            "Zion pilung khou 0({;",
+            "Khalou nimei maknga,",
+            "Siangding kross khou dup the.",
+            "",
+            "2. Jaolo hei khou 0({ rui,",
+            "Tat patkan puni the;",
+            "Nkhuaimei khang phulou,",
+            "Poubaumei thanmei ta,",
+            "Rianramei khou jai lou.",
+            "",
+            "3. Latjan 0({ luai lana,",
+            "Kalvari ching thang 0({;",
+            "Amu daimei nun le,",
+            "Rihmei bui sinmei le,",
+            "Poubaumei ta jai tat.",
+            "",
+            "4. Njangmei poubaumei,",
+            "Rianramei kross phunga;",
+            "Houmu nun rui jai na,",
+            "Kalvari juan na tat,",
+            "Khaloumei maknga tat."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "6.5.12.6.",
+        "Lung geimei jingbang khou",
+        "source hymn 94",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 94."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lung geimei jingbang khou",
+        "titleRongmei": "Lung geimei jingbang khou",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

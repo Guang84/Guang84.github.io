@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-017",
+    "number": 17,
+    "source": {
+      "printedNumber": 17,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Apaap kang zaeng khou rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Apaap kang zaeng khou ruina",
+            "Ata kanlou mei pu ta,",
+            "Sao pirun tei run lou lana",
+            "Zeimiu zeihaeng patna zai the",
+            "",
+            "He! Tingkao guang dai ryanra rian riu khaeng mei",
+            "Israel le kandih guang daimei nun tei rui,",
+            "Thai e thei thuai hien mei Poubaomei ta",
+            "Thingru khou thou rui hien bin ni na cho.?",
+            "",
+            "2. Mei nun rui nu e dou loi khang",
+            "Kandi Guangc guay kai khou,",
+            "Tingkao Guangc ryanra na khum kei.",
+            "Pap phung mei nun khang tei rui na,",
+            "Thing ru khou thei lou the.",
+            "Hou mu mei nun ruina hozam kao e.",
+            "",
+            "3. He tingkao tingthin kei o,",
+            "Tingkao kaguang khum la khang,",
+            "Meinun rui kaap pui lu suanc diu,",
+            "Duikum ma mik dui rui luang diu,",
+            "Banglaa ni zai kan diw",
+            "Tingkao kaguang ruina thei lou pui nung.",
+            "",
+            "4. Paap le ryanra thei mei ta",
+            "Ngam lana thaodat kan the.",
+            "Rianra theimei bam khou ruina.",
+            "Kanloumeipu paanrui ring thao dat lana neihlaa na",
+            "Ringpui ram namdai gaimei khou gut the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 17",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 17. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Apaap kang zaeng khou rui",
+        "titleRongmei": "Apaap kang zaeng khou rui"
+      }
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0339",
+    "number": 339,
+    "source": {
+      "printedNumber": 339,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Frances R. Havergal",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "7.7.7.7.",
+      "tune": "SS 616"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "APANTY HEI LAALOU NA RO",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Apanty hei laalou o,",
+            "Kaipouc Nang khang katpat the;",
+            "Aganv, ating laalou o,",
+            "Taek makna Nang ta thuanh khang.",
+            "",
+            "2 Abaanc nei hei laalou o,",
+            "Nang ta zianpui taanv taanh khang;",
+            "Aphay nei hei laalou o,",
+            "Katumcna Nang khang tat khang.",
+            "",
+            "3 Akhwan ti hei laalou o,",
+            "Kaganv ’thuic Nang ta thuanh khang;",
+            "Achy ti hei laalou o,",
+            "Nang Lat gaymei hei saa khang.",
+            "",
+            "4 Asyan-alanv laalou o,",
+            "Ramh khat shini daek lak ge;",
+            "Aningting hei laalou o,",
+            "Nang ningmei phuna taanh khang.",
+            "",
+            "5 Achwn Nang khang laalou o,",
+            "Mi hei atuang sw lak khe;",
+            "Alung hei Nang laalou o,",
+            "Mi hei Nang bamvpaeng sw khang.",
+            "",
+            "6 Aramzian hei laalou o,",
+            "Nang phaypav khou bunlou the;",
+            "Ai kapwm ta laalou o,",
+            "Nang khang na ai lungc ni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Take My Life and Let it Be",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "7.7.7.7.",
+        "SS 616",
+        "Frances R. Havergal",
+        "KATGUTMEI",
+        "Take My Life and Let it Be",
+        "source hymn 339",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 339."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "APANTY HEI LAALOU NA RO",
+        "titleRongmei": "APANTY HEI LAALOU NA RO",
+        "titleEnglish": "Take My Life and Let it Be"
+      }
+    }
+  }
+}

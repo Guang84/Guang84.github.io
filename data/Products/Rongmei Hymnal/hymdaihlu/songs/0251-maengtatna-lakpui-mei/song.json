@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0251",
+    "number": 251,
+    "source": {
+      "printedNumber": 251,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Grace J.Frances",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 404"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Maengtatna lakpui mei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Maeng tatna lakpui mei ’king lo,",
+            "Neihlaapui chamv phungc guang e,",
+            "Khwmkih khang Jisu laengvlou the,",
+            "Guang tho, nang ta riu bam the.",
+            "",
+            "Guang zihna ley saengc la ri tho;",
+            "Jisu nang ta kaw bam the;",
+            "Guang tho, ramh guay",
+            "chamdaanv luai the,",
+            "Tabui khang nyan bam ni cho?",
+            "",
+            "2 Nang paap 7?| ’ritmei puatphwng cho?",
+            "Ravguangc khou ’taw guang",
+            "dauh tho;",
+            "Kuaklou khang Kamei ’khwan bam the,",
+            "Tabui khang nyan bam ni cho?",
+            "",
+            "3 Jisu tuang zianmei baanc pwam khou,",
+            "Ngangvlou tho, ’taw lwmlou tho;",
+            "Kamei ?|7 nang ta kuaklou diu,",
+            "’Taw guang tho, nyan la ri tho.",
+            "",
+            "4 Nowsuanh pheybaan gay liangmei 7?|,",
+            "Kamei ’taw sinna bam the;",
+            "Guang ’khap tho, khwmkihpui bamv khou,",
+            "Gut la tho, nyan la ri tho."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Grace J.Frances",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "SS 404",
+        "Grace J.Frances",
+        "Weary Wanderer",
+        "source hymn 251",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 251."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Maengtatna lakpui mei",
+        "titleRongmei": "Maengtatna lakpui mei",
+        "titleEnglish": "Grace J.Frances"
+      }
+    }
+  }
+}

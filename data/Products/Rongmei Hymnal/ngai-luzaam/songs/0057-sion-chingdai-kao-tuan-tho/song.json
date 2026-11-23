@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-057",
+    "number": 57,
+    "source": {
+      "printedNumber": 57,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Sion chingdai kao tuan tho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Sion chingdai kao tuan thu.",
+            "Thei mei makpui bam khou tei ,",
+            "Ripi daimei jisu rui kao the Chula tho,",
+            "Ru adou khang rimei nun,",
+            "Nang niu riipuan piu thao tho,",
+            "Kao the khriata rui.",
+            "",
+            "2. Pou Raguangh chuang tei jaona ,",
+            "Bengul khuan thei phai kam na .",
+            "Huthu gutro sipai nun ;",
+            "Buibang sin tipna",
+            "Jisu lat tei ning chui lo,",
+            "Pou Raguangh chuang phei zaulo",
+            "Raguang rui hu gut puni.",
+            "Rih tei adou khang.",
+            "",
+            "3. Kandimei riek phung mei nun,",
+            "Raguang lat khou meijakmei",
+            "Seitan rita ping mei nun,",
+            "Athei lai ri o,",
+            "Kapui kapu lou duna ,",
+            "Thei khang ring khang ping mak mei,",
+            "Kathei kari dat makmei,",
+            "Nun rui laikan diu.",
+            "",
+            "4. Guang o mei nuan phung mei nun,",
+            "Tingkao kandi lakhang tei,",
+            "Tingsaeng ritho guang khap tho,",
+            "Jisu thei laina ,",
+            "Thei mei ta ngam lou duna ,",
+            "Tarou khou rui thau datna ,",
+            "Katik kagun tei daina ting kao ku kan the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 57",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 57. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Sion chingdai kao tuan tho",
+        "titleRongmei": "Sion chingdai kao tuan tho"
+      }
+    }
+  }
+}

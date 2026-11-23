@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-252",
+    "number": 252,
+    "source": {
+      "printedNumber": 252,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc rui Meic Khatna ta Sihnic",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          252 Ravguangc rui Meic Khatna ta Sihnic",
+            "                           14.13.12.13.Ref. 8.7. 6. 6.7. 6",
+            "          Doh hei Gb",
+            "",
+            "          1. Ravguangc rui meic khat na ta sihnic swmaan nii mak ge;",
+            "             Tihkic lungh laicna kakhou guangmei ta laanii e.",
+            "             Ravguangc Bumaengc ruina heic kumna dinclou",
+            "             Nang kandic 'maan nipui ganv katumcna gang pwthe.",
+            "",
+            "                  Lwmlou la tho, lungh laic la tho,",
+            "                  Guloumeipu ta phu o.",
+            "                  Nangniw lungh laic la tho,",
+            "                  Paapc khourui gulou khang.",
+            "                  Nang kandic 'maan nipui ganv,",
+            "                  Katumcna guang pwthe.",
+            "",
+            "          2. Heic kandic hei paapc ruina guanghtuna lunghpui bamv e.",
+            "             Siimei paapc taanv taanh khangtei raana phuna lungc bam.",
+            "             Tu lana zangv lana mbaa bammei kaguay,",
+            "             Ning makmei ganv khou nang kandic hei 'maan pwni the.",
+            "",
+            "          3. Nang kandic hei Sodom lev Gomora lev nchamce:",
+            "             Saa ngammakmei ryanraa pingmei ganv tei guang pwni.",
+            "             'Khamhpui ganv guang pwthe paapc rui guanghtupui ganv.",
+            "             Chakin charin maek pwni 'khamhpui ganv guang pwkhou.",
+            "",
+            "          4. 'Zianmei nunc le, kaganv hei chak lana lungh laic la tho;",
+            "             Zauc 'zianloupui ganv guay tei tat twan kan pwni the:",
+            "             Nouha rui lunghpui ganv khou pat kanmei kumcna,",
+            "             Kapna huayna bam sihnic gulou dat pwlak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc rui Meic Khatna ta Sihnic"
+      }
+    }
+  }
+}

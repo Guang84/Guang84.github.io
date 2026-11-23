@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-033",
+    "number": 33,
+    "source": {
+      "printedNumber": 33,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ch'rynpui Ramzian rui Aniw ta Gulou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          33 Ch'rynpui Ramzian Rui Aniw ta Gulou",
+            "                             10.9.10.7. Ref. 8. 7. 8.8",
+            "          Doh hei F",
+            "",
+            "          1. Ch'rynpui ramzian rui aniw ta gulou,",
+            "             Ntwnpui chaeng khou 'niw ta zaylou.",
+            "             Tat di kho tingkauh ramc guangtangh mak saanv.",
+            "             \"Khamhpui ganv 'naaguang pwthe.",
+            "",
+            "               He Kaipouc Nang Latkaeng 'deihmei,",
+            "               Kandihmei guay rui thay diu.",
+            "               Ntaw nuhloupui ganv di the,",
+            "               'Zianmei nunc le, lwmlou la tho.",
+            "",
+            "          2 Tingkauh Jubilee kaeng hiwna bam khou,",
+            "            Lungcsi lungcgay ta kadaa mak ge.",
+            "            Guang niimei guay tingkauh Jubilee khou,",
+            "            Tingsaeng mbaanvthay bam ni.",
+            "",
+            "          3. Aniw pumc guay bumaengh, pumc sw pwni.",
+            "             Aniw phey-baan karaan dat lak khe.",
+            "             Tingkauh mei lwn 'guanhna lungc bam pwni;",
+            "             Mbaanvthaymei ramc khoutei.",
+            "",
+            "          4. Tingkauh ramc khoutei aniw lungh khangrui,",
+            "             Simei paap ta mpatlou la tho.",
+            "             Ringhmei latrik khou zanh hylou makmei,",
+            "             Tingkauh ramc gut nuh lak ge."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ch'rynpui Ramzian rui Aniw ta Gulou"
+      }
+    }
+  }
+}

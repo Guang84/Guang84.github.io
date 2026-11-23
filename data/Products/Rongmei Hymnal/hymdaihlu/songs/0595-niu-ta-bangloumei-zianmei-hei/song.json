@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0595",
+    "number": 595,
+    "source": {
+      "printedNumber": 595,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charles Wesley",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "C.M.",
+      "tune": "CW 483"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’NIU TA BANGLOUMEI ZIANMEI HEI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Niu ta bangcloumei zianmei hei",
+            "Phak dat makmei sw diu;",
+            "’Niu pumc swna tat ’tamv sihni,",
+            "Lungning thu khat na de.",
+            "",
+            "2 Khrista khou ’niu guay alamv e,",
+            "Thouhpui bamv khou tat re,",
+            "Jisu phaykaamv suicna tat re,",
+            "Karamgai lungc lyan e.",
+            "",
+            "3 Kamei lev ’niu tat ’chamc bam diu,",
+            "Baihmei ^&8 khamv makna;",
+            "Theicloumei Jisu ta hamhna",
+            "Baihmei ta ning mak diu.",
+            "",
+            "4 Gumeipu zauzian laa ’chamcmei,",
+            "Lungh khat chwn khat swna",
+            "Ryanra, neihlaa, ringhmei, theihmei,",
+            "Hei guay ^&8 tii ’tamv lak,"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Blest be the Dear, Uniting Love",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "3/4",
+        "C.M.",
+        "CW 483",
+        "Charles Wesley",
+        "Blest be the Dear, Uniting Love",
+        "source hymn 595",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 595."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’NIU TA BANGLOUMEI ZIANMEI HEI",
+        "titleRongmei": "’NIU TA BANGLOUMEI ZIANMEI HEI",
+        "titleEnglish": "Blest be the Dear, Uniting Love"
+      }
+    }
+  }
+}

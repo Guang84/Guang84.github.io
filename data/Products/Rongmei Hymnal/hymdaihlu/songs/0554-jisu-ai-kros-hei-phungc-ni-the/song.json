@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0554",
+    "number": 554,
+    "source": {
+      "printedNumber": 554,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Henry F. Lyte",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. D.",
+      "tune": "HLC 443"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu ai kros hei phungc ni the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu ai kros hei phungc ni the,",
+            "Nang thei na ai lay ni the;",
+            "Lungcsi, malaa, ganc ’rulouna",
+            "Nang na hei di the, akhang;",
+            "Ai kahawmei guay ’maan kan diu,",
+            "Ai machunhmei, ningmei guay;",
+            "Kum sic ai adih lungcgay cho,",
+            "Ravguangc lev tingkauh akhang!",
+            "",
+            "2 Dih @{4 malaana ganclou diu,",
+            "Pou, Nang ta ganclou muay de,",
+            "Maansei lung hei thu lwm nuh mak,",
+            "Pou, Nang thu suai zat mak ge;",
+            "Nang akhou neihlaalou pwkhou,",
+            "He zauzian Kaipouc Ravguangc,",
+            "Meic nunc @{4 karaeng bam tan diu,",
+            "Nang zaw howmei hei biuc the.",
+            "",
+            "3 Meic nunc @{4 rairiu bam tan diu,",
+            "Nang daeng tiiguang tuanh khang de;",
+            "Nchanvmei azuh nai tan diu,",
+            "Kauh zaengthaek gay ranvmei nai;",
+            "Chwnsii, zaengsii @{4 kabiu lak,",
+            "Nang ata zianlou bam saanv;",
+            "Nang kazauh makmei neilaa 4@<",
+            "Ai machunh dat zat lak khe.",
+            "",
+            "4 Hymdaihmei khou phungc guang ’khap tho,",
+            "Lwmmei, huayneymei paan @{4,",
+            "Tingsaeng tingkauh ahu khou nai,",
+            "Ravguangc @{4 zaylou puni;",
+            "Kandih khou athouc luai pwkhou,",
+            "’Gynmei tingmik luai pwkhou,",
+            "Machunhmei hei kathai guanhna",
+            "Nang ta thuancna bam ni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus, I My Cross Have Taken",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.7.8.7. D.",
+        "HLC 443",
+        "Henry F. Lyte",
+        "Jesus, I My Cross Have Taken",
+        "source hymn 554",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 554."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu ai kros hei phungc ni the",
+        "titleRongmei": "Jisu ai kros hei phungc ni the",
+        "titleEnglish": "Jesus, I My Cross Have Taken"
+      }
+    }
+  }
+}

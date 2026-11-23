@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0696",
+    "number": 696,
+    "source": {
+      "printedNumber": 696,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Walter J.Mathams",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.6.8.6. D.M.D.",
+      "tune": "CW 300"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Takmei rui kaningting phungc guang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Taw chabwan ganv gay khou",
+            "Pumtan zaucgay bam khou,",
+            "He lungning guay Kaipouc,",
+            "Nang khang",
+            "Katgut re, ’niw panty,",
+            "Laalou o, ’niw kaipat,",
+            "Piulou o, ’niw guay ta,",
+            "’Niw ringcting saanv chaenglwan",
+            "guay khou,",
+            "Nang chwn khou ’niw lungh khang.",
+            "",
+            "2 ’Chamlou o, kabamv ’thuic,",
+            "Nang hu khou kum lungh khang,",
+            "Nang }?2 ’niw khou kahawmei guay",
+            "Neihlaana taanc bam khang,",
+            "Daihmei na phu makna",
+            "Liwmei malaa makna,",
+            "’Niw taanv guay Nang khang de twna",
+            "Taanc chuy taanc daic thau khang.",
+            "",
+            "3 ’Chamlou o, ’niw zian khang,",
+            "’Chumhmei, gaymei, ’thanmei,",
+            "Matat khat sic ’niw lungning khou",
+            "Siimei chwn tiinai rio;",
+            "’Niw khou ngamv tiilou o,",
+            "Tanc-baucna ding ngam khang,",
+            "’Thanmei puat guay ta kahaw",
+            "khang,",
+            "Siimei ta karaeng khang.",
+            "",
+            "4 He Khrista Bumaengcle,",
+            "’Niw ta katiulou o,",
+            "Zianthaymei, kauh liangmei lwnlung",
+            "’Niw guay lungc tangc ngam khang,",
+            "’Niw ta chamdaanvlou o,",
+            "Daic ranvmei panty khang,",
+            "’Niw Pu kai khou ’kamh dat lakmei,",
+            "Tingsaeng panty nganv khang.",
+            "Amen!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Now in the Days of Youth",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "6.6.8.6. D.M.D.",
+        "CW 300",
+        "Walter J.Mathams",
+        "Now in the Days of Youth",
+        "source hymn 696",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 696."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Takmei rui kaningting phungc guang",
+        "titleRongmei": "’Takmei rui kaningting phungc guang",
+        "titleEnglish": "Now in the Days of Youth"
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0286",
+    "number": 286,
+    "source": {
+      "printedNumber": 286,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "L.Hartsough",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "6.6.8.6. Ref.",
+      "tune": "SS 475"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ata kawmei chu e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ata kawmei chu e,",
+            "Kaipouc, Nang khou guang khang;",
+            "Kalvari tuang kunghmei zei _>6",
+            "Ata sw ’thanlou khang.",
+            "",
+            "Guang the, Poubauhmei!",
+            "’Taw Nang khou guang the!",
+            "Ata khiu ’thanlou na ro,",
+            "Kalvari tuang zei _>6.",
+            "",
+            "2 ’Suanna, ’phuamna guang khou,",
+            "Nang _>6 pumtan tiilou;",
+            "’Phuammei guay Nang _>6 khiu ’thanlou,",
+            "’Thanmei ai sw mak saanv.",
+            "",
+            "3 Jisu ata kaw e:",
+            "Lwm ’thuih khang, zian ’thuih khang,",
+            "Machunh khang, ning khang, chuzaengh khang;",
+            "Dih khou lev kauh thangc khang.",
+            "",
+            "4 Mi hei Jisu _>6 e:",
+            "Muigaymei tiiloumei;",
+            "Paapc _>6 zyn bampui mei lung khou",
+            "Zauzian tii bammei hei."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Hear Thy Welcome Voice",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "3/4",
+        "6.6.8.6. Ref.",
+        "SS 475",
+        "L.Hartsough",
+        "I Hear Thy Welcome Voice",
+        "source hymn 286",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 286."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ata kawmei chu e",
+        "titleRongmei": "Ata kawmei chu e",
+        "titleEnglish": "I Hear Thy Welcome Voice"
+      }
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0193",
+    "number": 193,
+    "source": {
+      "printedNumber": 193,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.A. Barnes",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 146"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zauclo, Ester ganv guang dat the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zauc lo, Easter ganv guang dat the,",
+            "Neihlaamei padikna;",
+            "Zauc lo, roukhamtauc hei laanc the,",
+            "T’rou ta ngammei lyan khang.",
+            "Jisu ringcthau the, saamei kumc,",
+            "Rih ngamna t ’rou khou >|3 thau the!",
+            "Neihlaana suan o, Easter ganv khou",
+            "Jisu thau the gulou khang ngamna.",
+            "",
+            "2 Zauc lo, theih pwanrai kaguay 3>|,",
+            "Kadip chuylou bam the;",
+            "Zauc lo, zinghmei t’rou raeng ta 3>|,",
+            "Jisu khou 3>| maek khe.",
+            "",
+            "3 Zauc lo, Kamei tat bam dat the,",
+            "Tiisaengc tiidaiclou the;",
+            "Zauc lo, hymdaihmei",
+            "Kazaw 3>| Kariw tiitah ta the.",
+            "",
+            "4 Zauc lo, Easter ganv guang dat the,",
+            "Easter latlu phungcna,",
+            "Zauc lo, Easter kaipat pangc khou",
+            "Kaipouc tuang rih ngammei!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus is Risen!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 146",
+        "E.A. Barnes",
+        "Jesus is Risen!",
+        "source hymn 193",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 193."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zauclo, Ester ganv guang dat the",
+        "titleRongmei": "Zauclo, Ester ganv guang dat the",
+        "titleEnglish": "Jesus is Risen!"
+      }
+    }
+  }
+}

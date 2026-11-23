@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0358",
+    "number": 358,
+    "source": {
+      "printedNumber": 358,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Knowles Show",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "9/8",
+      "meter": "10.9.10.9. Ref.",
+      "tune": "GSC 72"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AI DRAKHALUAI E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Ai drakhaluai e, nangniw kachy e,”",
+            "Kunghpui thai ’thai o, ’seic Jisu khang;",
+            "Kathai ’thai makmei chychaengc guay 6_> mu",
+            "“Kaipouc laa ganc e,” Jisu saa e.",
+            "",
+            "“Ai drakhaluai e, nangniw kachy e;",
+            "Ai drakhaluai e, Akhou bam o;",
+            "Nang laa niimei guay ney o, tiilou ni;",
+            "Pu _>6 Ata zian kumc Ai nang ta zian.”",
+            "",
+            "2 Alat paan _>6 ’taw nangniw nthan the;",
+            "Akhou bam ’tip bo, kathai geih khang; ethei",
+            "Kauh thangc hymdaihmei dam laa ’chamc ni.",
+            "",
+            "3 Nang thai _>6 meic nunc nang ta thay puni,",
+            "Zianmei khou tat ro, kalaanv na kumc,",
+            "Zayloumei pu _>6 chaeng hu tat bam the,",
+            "Hymdaih guangcdic khouchaeng zaylou khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I am the Vine",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "9/8",
+        "10.9.10.9. Ref.",
+        "GSC 72",
+        "Knowles Show",
+        "I am the Vine",
+        "source hymn 358",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 358."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AI DRAKHALUAI E",
+        "titleRongmei": "AI DRAKHALUAI E",
+        "titleEnglish": "I am the Vine"
+      }
+    }
+  }
+}

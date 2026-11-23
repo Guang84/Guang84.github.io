@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-244",
+    "number": 244,
+    "source": {
+      "printedNumber": 244,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc rui Aniw ta Nzianna Kawbam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          244 Ravguangc rui Aniw ta Nzianna",
+            "                            11.9.9.10.Ref. 8. 9.9. 10",
+            "          Doh hei Eb",
+            "",
+            "          1. Ravguangc rui aniw ta nzianna kaw bam;",
+            "             Aniw Kataanv taancna bam diu khang.",
+            "             Chulou o, Nang nzianmei guay rui,",
+            "             Nkhavlou diu khang ningna kalum e.",
+            "",
+            "                       He Ravguangc Nang ngamv tei ch'ryn e;",
+            "                       Kandihmei guay rui Nang ta kaw bam;",
+            "                       Chulou o, Nang nzianmei guay rui,",
+            "                       Tingsaengc tingsaengcna Nang ta kalum e.",
+            "",
+            "          2. Pinglou ri o nzianmei chabwan guay thiu le !",
+            "             Taanc o, huayney o, \"khavlou pwni,",
+            "             Zinghpui kandic khou 'niw bam saanv khou,",
+            "             Nkhavlou diuc khang ningna kalum e.",
+            "",
+            "          3. Nang nzianmei aniu chabwan kin guay ta,",
+            "             Nkhavlou diu khang ningna khwan bam.",
+            "             Tingzyn ganv kumc 'niu panty hei,",
+            "             Tat kanmei ganv tei ngalanc dat lak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc rui Aniw ta Nzianna Kawbam"
+      }
+    }
+  }
+}

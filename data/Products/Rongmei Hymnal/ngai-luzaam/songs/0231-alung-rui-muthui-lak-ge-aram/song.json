@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-231",
+    "number": 231,
+    "source": {
+      "printedNumber": 231,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Alung rui muthui lak ge aram",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Alungrui mu thuilak ge aram,",
+            "Ruanry ta pat lou lana,",
+            "Neilamei munpuang kaganv nituai the,",
+            "Lily puang tuaikum tuai e.",
+            "",
+            "Agu alang apin kaan lana",
+            "Zipkei zipman na tat re",
+            "Nngow thing bang rim khou achun su",
+            "Heikandi hei mik dui kaiphun di the.",
+            "Rian ramei nah akhang .",
+            "",
+            "2. Luang but gaikhou kuding najaoki",
+            "Alung ta tikabiu lou,",
+            "Nrin keimei rui phanghou tang thuimak",
+            "Mikduirui changriu khuan ne.",
+            "",
+            "3. Mageiluang kaomei aram luang e,",
+            "Tabui nung guang tang nicho,",
+            "Nruai nakum sam nu tuang khuan nithei,",
+            "Ai ningmei ram sam nu e.",
+            "",
+            "4. Kagan gaimei guai tat rikan the,",
+            "Munpuang gaimei guai teini",
+            "Nzianmei nun ram ta ningtou puki,",
+            "Kagan ruiphung du kan the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 231",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 231. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Alung rui muthui lak ge aram",
+        "titleRongmei": "Alung rui muthui lak ge aram"
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0654",
+    "number": 654,
+    "source": {
+      "printedNumber": 654,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "ACS 5"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KAGANV TAT KHOU ’NIU NIC TAT RE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaganv tat khou ’niu nic tat re,",
+            "Tingmik tatmei kumc tat re;",
+            "Hei dic hei ’patlou zaic ni the,",
+            "’Niu kai tingkauh thangc tat khang.",
+            "",
+            "Kaganv @<4 tatmei khou ’niu nic tat re,",
+            "Kaganv @<4 tatmei khou ’niu nic tat re;",
+            "Aniu @<4 aniu kai biak ’zwan bam e,",
+            "Kaganv @<4 tatmei khou ’niu nic tat re.",
+            "",
+            "2 Tingkwm ramhbiuc ’niu lungc guang the,",
+            "Lungc key lungc ku lungc ’riw the;",
+            "Lungh ryanra neihlaa ariw the,",
+            "Kap guai nuic guaina lungc the.",
+            "",
+            "3 He, tingmik ’thuic Pou ta lwm kho,",
+            "Nchumhmei khou zaylou khang;",
+            "Kum ’thei ’niu chaeng maanv mak puni,",
+            "Paapc lev zingbangc chaeng khou 4^&.",
+            "",
+            "4 Kandih chaeng chyam guay tat ngamna,",
+            "Kachyam khat khat tat luaina,",
+            "Bumaengh lunghpui bamv tangc ni the,",
+            "N-gyn chaeng tat luai pwkhou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Rolling on the Wheels of Time",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "ACS 5",
+        "Anonymous",
+        "Rolling on the Wheels of Time",
+        "source hymn 654",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 654."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KAGANV TAT KHOU ’NIU NIC TAT RE",
+        "titleRongmei": "KAGANV TAT KHOU ’NIU NIC TAT RE",
+        "titleEnglish": "Rolling on the Wheels of Time"
+      }
+    }
+  }
+}

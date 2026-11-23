@@ -1,0 +1,150 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0266",
+    "number": 266,
+    "source": {
+      "printedNumber": 266,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Source Unknown",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7.3. D. Ref.",
+      "tune": "SS 437"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gaymei panty dui sih e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Gaymei panty dui sih e,",
+            "Thingnuy paanvnu ’tangv kumc e,",
+            "Napchu bangcmei lev ’chamc e;",
+            "Nyan lam e!",
+            "Samhmei tingmik @{4 dinc e,",
+            "Nang san ndauh puni the,",
+            "Theic nimei san sw lam e;",
+            "Nyan lam e!",
+            "",
+            "Nyan lam e! .. nyan lam e!",
+            "Jisu @{4 nang ta kaw bam khou,",
+            "Nyan lam e!",
+            "Paapc khou nang bam saengc ethei,",
+            "Raenghmun mbangh rey kan ni;",
+            "Nang kapmei gaengc mak puni;",
+            "Nyan lam e!",
+            "",
+            "2 Gaymei mwnpwang kim nuangc e,",
+            "Chabwan lev gaymei thian de;",
+            "Nang ringc saengc bam khang ning riu;",
+            "Nyan lam e!",
+            "Ravguangc Bumaengc kaw bam khou,",
+            "Paapc mei ruan saengc bam ri tho,",
+            "Hamh ethei nang chuak lam e;",
+            "Nyan lam e!",
+            "",
+            "3 Kaganv katumcna tat the,",
+            "Latzan lev theihmei ’naa the;",
+            "Jisu pamv khou samc guang tho,",
+            "Nyan lam e!",
+            "Kathukh hei chak chuy zauc o,",
+            "Theihmei @{4 lay tangh mak khou,",
+            "Bumaengh t’ruaih khou ’maan",
+            "mak khou,",
+            "Nyan lam e!",
+            "",
+            "4 Paapc mei, lat hei ’king chuy lo,",
+            "Kaipouc Jisu ta laa tho,",
+            "Tingkauh guay neihlaa puni;",
+            "Nyan lam e!",
+            "Zingh khou @{4 gaanh khou",
+            "guang tho,",
+            "Jisu tii nzihlou diu;",
+            "Guang tho, tingkauh tat thau tho;",
+            "Nyan lam e!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Life at Best is Very Brief",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "7.7.7.3. D. Ref.",
+        "SS 437",
+        "Source Unknown",
+        "Life at Best is Very Brief",
+        "source hymn 266",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 266."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gaymei panty dui sih e",
+        "titleRongmei": "Gaymei panty dui sih e",
+        "titleEnglish": "Life at Best is Very Brief"
+      }
+    }
+  }
+}

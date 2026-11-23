@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0348",
+    "number": 348,
+    "source": {
+      "printedNumber": 348,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. C.H. Morris",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "9.8.9.8. Ref.",
+      "tune": "AACH 37"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Alung tanhmei ’taw thu bowlou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Alung tanhmei ’taw thu bowlou the,",
+            "Ai Nang khang na sw kan ni the;",
+            "Ai huaymei ravsuai kiu mi hei the:",
+            "“Pou, akhou Nang ningmei sw diu.”",
+            "",
+            "Ravguangc chwnmei @<4 pamc ’tiplou,",
+            "Ai hei Nang khou manclou",
+            "mak saanv;",
+            "Ravguangc chwnmei @<4 pamc ’tiplou,",
+            "Ai hei Nang khou manclou mak saanv.",
+            "",
+            "2 Paapc khou lak the, aphay tat chungc the,",
+            "Zinghmei chaeng hei sii khith khit the;",
+            "’Ki gaanhmei riw achaeng khou how the,",
+            "Akhang bw, neih, gaanchuangcNang e.",
+            "",
+            "3 Nang chwnmei @<4, he Guloumei pu,",
+            "Ata pamclou, bam ’kuay bam e,",
+            "Katuakcmei guay, nthaekc key kan the,",
+            "Abumaengc phah khou @<4 duak the.",
+            "4 Bangc binlou, tingsaengzaeng khang, Kaipouc,",
+            "Aphay @<4 chaeng maanv dat mak khang;",
+            "Thow @<4 ata tii’tamv dat ngam cho?",
+            "Ravguangc ningmei 4^& achwn the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Sweet will of God",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "9.8.9.8. Ref.",
+        "AACH 37",
+        "Mrs. C.H. Morris",
+        "Ravguangc chwnmei rui",
+        "Sweet will of God",
+        "source hymn 348",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 348."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Alung tanhmei ’taw thu bowlou",
+        "titleRongmei": "Alung tanhmei ’taw thu bowlou",
+        "titleEnglish": "Sweet will of God"
+      }
+    }
+  }
+}

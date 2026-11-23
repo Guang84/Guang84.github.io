@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0271",
+    "number": 271,
+    "source": {
+      "printedNumber": 271,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Knowles Shaw",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.8.7.7.7.8.7. Ref.",
+      "tune": "SS 432"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Belsazar guangc khwmkih khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Belsazar guangc khumkih khou,",
+            "Kapam kaipouc ching khat lev",
+            "Kachaekcbuangc puanc zangvna bam khou,",
+            "’Thanmei Baibal ^&8 dinc e:",
+            "",
+            "Zingbangc 8^& guangh kaidai khou",
+            "Tuzangv ’baana bam geih khou,",
+            "Kaniw ta tii’luang phuanglou e,",
+            "Ngaengsaengc khou baanc dangv 8^& ^&8!",
+            "",
+            "Ravguangc baanc",
+            "ngaengsaengc khou baanc 8^&!",
+            "Ravguangc baanc",
+            "ngaengsaengc khou baanc 8^&!",
+            "“Nang biuh mak ge!” tw puni cho,",
+            "“Nang biu the,” tw puni cho,",
+            "Baanh dangv 8^& ^&8 nang",
+            "khang hy pwkhou?",
+            "",
+            "2 Zauc lo, bauhmei Daniel 8^&",
+            "Meic guay hu khou 8^& dingna,",
+            "Ramhkhe swmei guangc ta ’phutna,",
+            "Kakhuay 8^& saa ’dauhlou the;",
+            "Hyloumei 8^& paac pat the,",
+            "Meic guay khang tasiat chamv e:",
+            "“Nang guangcdic ’seic mut puni the!”",
+            "Baanh dangv 8^& ^&8 hylou e.",
+            "",
+            "3 Aniu taanv guay nic chakna",
+            "Hy bammei baanc khat nai e:",
+            "He paapc mei, Jisu ta laa tho,",
+            "Kalatdanv hei piu la tho,",
+            "’Khamhpui tingmik guang pw the,",
+            "Meic kathuic khang guang puni:",
+            "Paapc mei khang tii nimei dandi",
+            "Ngaengsaengc khou lyanpui neic 8^&!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Handwriting on the Wall",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "7.7.8.7.7.7.8.7. Ref.",
+        "SS 432",
+        "Knowles Shaw",
+        "RAVGUANGC BAANC NGAENGSAENGC",
+        "The Handwriting on the Wall",
+        "source hymn 271",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 271."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Belsazar guangc khwmkih khou",
+        "titleRongmei": "Belsazar guangc khwmkih khou",
+        "titleEnglish": "The Handwriting on the Wall"
+      }
+    }
+  }
+}

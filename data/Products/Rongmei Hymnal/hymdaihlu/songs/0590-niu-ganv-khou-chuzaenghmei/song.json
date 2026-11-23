@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0590",
+    "number": 590,
+    "source": {
+      "printedNumber": 590,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Oxenhum",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "S.M.D.",
+      "tune": "HLC 519"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’NIU GANV KHOU CHUZAENGHMEI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Niw ganv khou chuzaenghmei",
+            "Zaatc guay khou tiilou o,",
+            "Ntwnmei khou suamc thauloumei",
+            "Nang chwnmei chuzaenghmei,",
+            "Bumaengh naumei nunc ta",
+            "Bangclou bammei kangriang",
+            "Nang na @{4 sw taeklou ngam e,",
+            "Tii gaylou dat ngam e.",
+            "",
+            "2 Lwmsiimei, pingmei @{4",
+            "Meic nunc lung sin guang the,",
+            "He Tingkauh Thiule, ’liu key o,",
+            "Kandih pwm ’liu lik go;",
+            "Guang tho, reynungc kumcna",
+            "Zianmei ngamv 4@< phungcna,",
+            "Meic nunc Nang ta na kalum diu,",
+            "Rav baihmei ganclouna!",
+            "",
+            "3 He ’niw thay zat lak cho",
+            "Nchumhmei Latkaeng hei,",
+            "’Niw kai ramsu hei gaengc mak ge,",
+            "Rav’ @{4 ’khavlou mak ’thei;",
+            "He ringc bammei Khrista,",
+            "’Niw puat phungc ’khavmei Pu,",
+            "Guanglou o, meic kathuic lung khou",
+            "Nang @{4 gut lungclou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Peace in Our Time, O Lord",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "S.M.D.",
+        "HLC 519",
+        "John Oxenhum",
+        "Peace in Our Time, O Lord",
+        "source hymn 590",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 590."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’NIU GANV KHOU CHUZAENGHMEI",
+        "titleRongmei": "’NIU GANV KHOU CHUZAENGHMEI",
+        "titleEnglish": "Peace in Our Time, O Lord"
+      }
+    }
+  }
+}

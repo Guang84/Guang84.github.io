@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0633",
+    "number": 633,
+    "source": {
+      "printedNumber": 633,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Ada R.Habershon.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "3 Alex 15"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Hymdaihmei khou zianmei nunc bam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Hymdaihmei khou zianmei nunc bam,",
+            "’Taw kaniw lev ’tamv bam e,",
+            "Kandih panty luaipui nungc kiu",
+            "Kaniw lev lungc ’chamc ni cho?",
+            "",
+            "Kaikhunh ’tamv makna lungc ni cho,",
+            "Thei thangc kiu, thei thangc kiu,",
+            "’Khwan bammei kai gay ranvmei khou,",
+            "Tingkauh khou, tingkauh khou?",
+            "",
+            "2 Zaenggay panty alauc dou 7}$,",
+            "Zianpui p’ry kaniw rac e,",
+            "Zian thaymei pu Jisu lam e;",
+            "’Taw kaniw Jisu lev bam.",
+            "",
+            "3 Tingkauh lu 7}$ nang makumh o,",
+            "Alauc dou suan bammei 7}$,",
+            "Heipui lu 7}$ lunghsii mak cho?",
+            "Kandih lu 7}$ kahaw cho?",
+            "",
+            "4 Reydouc maimangh daeng dungc hwamna",
+            "Bammei douc ta makumh o;",
+            "Kapna ’tamvmei 7}$ makumh o;",
+            "Nang ta ganclou duh nungc 7}$.",
+            "",
+            "5 Khat khat swna tat ngam kan the,",
+            "Kaniw bamv ganc nsalou the;",
+            "Khou hei kaikhunhmei guay ’tamv the;",
+            "Neih khat kariu dat ni cho?"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Will the Circle be Unbroken?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "3 Alex 15",
+        "Ada R.Habershon.",
+        "KAIKHUNH ’TAMV MAKNA LUNGC NI",
+        "Will the Circle be Unbroken?",
+        "source hymn 633",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 633."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Hymdaihmei khou zianmei nunc bam",
+        "titleRongmei": "Hymdaihmei khou zianmei nunc bam",
+        "titleEnglish": "Will the Circle be Unbroken?"
+      }
+    }
+  }
+}

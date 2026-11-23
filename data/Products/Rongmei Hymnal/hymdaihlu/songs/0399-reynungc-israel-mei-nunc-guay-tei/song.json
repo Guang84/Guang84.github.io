@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0399",
+    "number": 399,
+    "source": {
+      "printedNumber": 399,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Emma Pitt.",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 880"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Reynungc Israel mei nunc guay tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Reynungc Israel mei nac guay 7}$,",
+            "Bangh sw bammei douc 7}$",
+            "Ravguangc #^7 Kangamv lyanlouna",
+            "Duipui tiiluangc ’tamvlou.",
+            "",
+            "Duipui tiiluangc ’tamvlou,",
+            "Duipui tiiluangc ’tamvlou,",
+            "Jisu anaa bam khou",
+            "Siimei ta ping lak khe,",
+            "Duipui tiiluangc ’tamvlou.",
+            "",
+            "2 Abumaengc ta paapc #^7 zyn khou,",
+            "’Thiammei tanc guang pwkhou,",
+            "Kaipouc #^7 chuzaenghmei tiilou,",
+            "Duipui tiiluangc ’tamvlou.",
+            "",
+            "3 Achaeng pingmei #^7 zingc sihni,",
+            "Jisu lev ai bam ni;",
+            "Karamzian khou ata lou ni,",
+            "Duipui tiiluangc ’tamv ni.",
+            "",
+            "4 Pou Jisu, ating tanghpui nungc,",
+            "Nang guangcdic ’zwan pwkhou,",
+            "Nang #^7 ata zaylou khang e,",
+            "Duipui tiiluangc ’tamvna."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "He Rolls the Sea Away",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 880",
+        "Emma Pitt.",
+        "He Rolls the Sea Away",
+        "source hymn 399",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 399."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Reynungc Israel mei nunc guay tei",
+        "titleRongmei": "Reynungc Israel mei nunc guay tei",
+        "titleEnglish": "He Rolls the Sea Away"
+      }
+    }
+  }
+}

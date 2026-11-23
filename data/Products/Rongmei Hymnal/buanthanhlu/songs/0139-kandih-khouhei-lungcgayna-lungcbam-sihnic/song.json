@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-139",
+    "number": 139,
+    "source": {
+      "printedNumber": 139,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih Khouhei Lungcgayna Lungcbam Sihnic",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          139 Kandih khouhei Lungcgayna Lungcbam",
+            "                                  11.10.9. 10.Ref.8. 8.9. 10",
+            "          Doh hei Gb",
+            "",
+            "          1. Kandih khouhei lungcgayna lungcbam sihnic,",
+            "             Ravguangc khang lungcgaylou mak gethei mu,",
+            "             Heic kandic tuang lungcgaymei guay mu,",
+            "             'Maan ngam kan nimei maikhou kumh tuang de.",
+            "",
+            "                  Ravguangc Lat rui kabamv kathuih.",
+            "                  Mpwan rui liu guangmei kumcna,",
+            "                  Nang lev akhang dinc ruanna bam e.",
+            "                  Lwmlou lana kalat dinc ruan di kho.",
+            "",
+            "          2. Ramh guayna thayna nyngtyng bam khwan sihnic,",
+            "             Ravguangc ta thay makna lunghmei guay mu,",
+            "             Nyngtyng rui tingkauh tangc ngammak ge;",
+            "             Jisu ta lwmloumei na rui tat ni.",
+            "",
+            "          3. Kandih nyngtyng rui tingkauh tangc ngammak ge.",
+            "             Kandih nyngtyng ramh khat sihnic hamh e;",
+            "             Jisu hym daicna keypui nungc kiu,",
+            "             Maansei nyngtyng guay hei 'maan ngam pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih Khouhei Lungcgayna Lungcbam Sihnic"
+      }
+    }
+  }
+}

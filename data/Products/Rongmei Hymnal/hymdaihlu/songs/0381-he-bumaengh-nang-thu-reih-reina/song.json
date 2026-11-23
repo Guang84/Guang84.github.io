@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0381",
+    "number": 381,
+    "source": {
+      "printedNumber": 381,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Katharina A. Von Schlegel",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10.11.10.",
+      "tune": "HLC 324"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HE BUMAENGH, NANG THU REIH REINA",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He abumaengc, nang thu reih reina bam o!",
+            "Poubauhmei #^7 nang biak liangcna bam de,",
+            "Nang rianra guay Ravguangc",
+            "khou tiigutlou tio;",
+            "Kalaih makmei lwm nuhmei Kamei e.",
+            "Reih rei bam o, Ravguangc taanv swlou bam de,",
+            "Sauh-raengh chaeng #^7 gaymei",
+            "khou zaylou khang.",
+            "",
+            "2 He abumaengc, nang thu reih reina bam o!",
+            "Ravguangc nang ta thei-hu zaylou bam de,",
+            "Nang machunhmei, lwmgaymei 7}$ ’maan zat rio,",
+            "’Taw tamzinghmei thei thangc neihlaakhang de.",
+            "Reih rei bam o, pwanzingh,duiluat kaguay hei,",
+            "Kaipouc khwan ta ’taw nic thayna bam de.",
+            "",
+            "3 He abumaengc, nang thu reih reina bam o!",
+            "Pou lev tingsaeng lungc nimei ganv ’naa the,",
+            "Pian makmei lev lungh ryanramei nai lak khe,",
+            "Ryanramei hei ’mucna neihlaa puni.",
+            "Reih rei bam o, mikdui keymei nganv pwkhou,",
+            "Chwn-gay neihlaana thei thangc ow riw ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Be Still My Soul",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "11.10.11.10.11.10.",
+        "HLC 324",
+        "Katharina A. Von Schlegel",
+        "Be Still My Soul",
+        "source hymn 381",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 381."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HE BUMAENGH, NANG THU REIH REINA",
+        "titleRongmei": "HE BUMAENGH, NANG THU REIH REINA",
+        "titleEnglish": "Be Still My Soul"
+      }
+    }
+  }
+}

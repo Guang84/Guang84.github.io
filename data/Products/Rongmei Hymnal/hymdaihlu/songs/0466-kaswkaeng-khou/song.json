@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0466",
+    "number": 466,
+    "source": {
+      "printedNumber": 466,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "6/4",
+      "meter": "11.10.11.10. Ref.",
+      "tune": "SS 541"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KASWKAENG KHOU",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaswkaeng khou ai giuga makna bam e,",
+            "Zingc ranv guang sihni, pwanzingh ranh sihni,",
+            "Ata gulou puni twmei ai lwm e;",
+            "Ata thuaklou the, ai Kanac di the.",
+            "",
+            "Kaswkaeng khou, zianmei khou _>6",
+            "Thou _>6 tii ’tamv ngamna cho?",
+            "Kaswkaeng khou abumaengc dup ni,",
+            "Giuga makna dup bam ni.",
+            "",
+            "2 Kaswkaeng khou ryanra khou duppui bamv e,",
+            "Khou6_> zaeng ’thaekc khang adih machunh cho!",
+            "Dih khou ata tiigay khang puc maek pwkhou,",
+            "Khou 6_> ata swmlou, tiigaylou e.",
+            "",
+            "3 Kaswkaeng khou neihlaamei hei ch’ryn tuang e!",
+            "Panty ryanra nai saanv dup bam ni the;",
+            "Siimei _>6 ata kabiu dat ngam mak khe,",
+            "Jisu khou zaeng ’thaekclouna",
+            "ai duak the.",
+            "",
+            "Rev. W.O. Cushing"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Under His Wings",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "6/4",
+        "11.10.11.10. Ref.",
+        "SS 541",
+        "Under His Wings",
+        "source hymn 466",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 466."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KASWKAENG KHOU",
+        "titleRongmei": "KASWKAENG KHOU",
+        "titleEnglish": "Under His Wings"
+      }
+    }
+  }
+}

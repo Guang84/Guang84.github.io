@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0521",
+    "number": 521,
+    "source": {
+      "printedNumber": 521,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rolland W. Scholerb",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10.11.10.",
+      "tune": "CW 432"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "RAVGUANGC PHWAMLING KAKHANG",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc phwamling, kakhang khang na ning makna,",
+            "’Niw kariu e, Nang thei laymei kaguay;",
+            "Lu suan ’chamc e, kalung bammei nunc guay lev,",
+            "’Niw huayney khou Ravguangc ningmei phu e;",
+            "Ravguangc phwamling, Nang ta zianmei ’niw khou nai,",
+            "’Niw phungc guang e, ’niw tuang",
+            "Alleluia!",
+            "",
+            "2 Ravguangc phwamling, hiw bammei kaeng khwan kumcna,",
+            "Nang kabai e, pumtan guay phungc guang khang;",
+            "Khrista ramgai lungc lyanna siamruai sw khang,",
+            "Zianmei taanv khou machunhmei lyanlou khang;",
+            "Ravguangc phwamling, paapc lev sunu ’maan pwkhou",
+            "Nang khang suan ni ’niw tuang Alleluia!",
+            "",
+            "3 ’Niw bumaengc kai, neihlaana ’niw guang dat re,",
+            "’Niw khwan ranvna Nang ta thuanc kariu khang;",
+            "Neihlaamei dam laa kariumei ramgai khang,",
+            "Tiineihlaamei pumtan, chuzaenghmei khang;",
+            "Ravguangc phwamling, Nang ta ’niw lung ?|7 ning e,",
+            "Nang khang kauhmei ’niw tuang",
+            "Alleluia!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O Church of God",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "11.10.11.10.11.10.",
+        "CW 432",
+        "Rolland W. Scholerb",
+        "O Church of God",
+        "source hymn 521",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 521."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "RAVGUANGC PHWAMLING KAKHANG",
+        "titleRongmei": "RAVGUANGC PHWAMLING KAKHANG",
+        "titleEnglish": "O Church of God"
+      }
+    }
+  }
+}

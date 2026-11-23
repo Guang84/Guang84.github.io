@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0313",
+    "number": 313,
+    "source": {
+      "printedNumber": 313,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "P.P. Bliss",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "9/8",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 896"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai suan ni Thuakloumeipu lam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ata Thuakloumei pu lam lev",
+            "Ch’rynmei Kazauzian suan ni;",
+            "Siimei kros khou Kamei khaengvlou,",
+            "Syang khou )}3 tiiduaklou khang.",
+            "",
+            "Ai suan ni, Thuakloumei pu lam!",
+            "Kazei )}3 .. ata liulou!",
+            "Kros ruc khou akhuay guay kuaklou!",
+            "Pow khangclou, nyng tiiswlou!",
+            "",
+            "2 ’Maan khwanmei ata gulou khang",
+            "Nganv makmei Kazauzian )}3,",
+            "Thuakloumei nsa tiiswloumei",
+            "Ch’rynmei p’ry hei ai rac ni.",
+            "",
+            "3 Thuakloumei pu ta ai thuanc ni,",
+            "Ngammei pumtan ai rac ni;",
+            "Paapc lev theihmei, t’ruaih ngamv ruc khou,",
+            "Rih ngammei p’ry ai rac ni.",
+            "",
+            "4 Thuakloumeipu lam ai suan ni,",
+            "Tingkauh tuang zianmei suan ni;",
+            "Theihmei khou )}3 tiiringclou the,",
+            "Jisu lev lungc ’chamc bam khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "My Redeemer",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "9/8",
+        "8.7.8.7. Ref.",
+        "SS 896",
+        "P.P. Bliss",
+        "ATA THUAKLOUMEIPU",
+        "My Redeemer",
+        "source hymn 313",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 313."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai suan ni Thuakloumeipu lam",
+        "titleRongmei": "Ai suan ni Thuakloumeipu lam",
+        "titleEnglish": "My Redeemer"
+      }
+    }
+  }
+}

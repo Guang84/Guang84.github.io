@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-192",
+    "number": 192,
+    "source": {
+      "printedNumber": 192,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khumkipou rui bam cham dan na",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Khum ki pou rui bam cham dan na",
+            "Ringmei takta guang tu khang kao ,",
+            "Chulou na guang tumei sangai chang mei nun ne;",
+            "Khum ki puigan luaina,",
+            "Khumki poourui ding thao lana ,",
+            "Kaikham guaitaei mbang ri puni.",
+            "",
+            "Kaikham lan lou naro",
+            "Zian thaimei poubaomei",
+            "Nang kum mei na nun de",
+            "Kaikham lanlou naro",
+            "Kagan tat ri kan the",
+            "Maikuam khou gutkhang na di the",
+            "Miilat hei kandih khou pat chang puni",
+            "",
+            "2. Khumkipou rui cham dan lou mei",
+            "Tari datzat makpui duitei,",
+            "Nsana guang zang khang dinlou tiu mei guai khou;",
+            "Guang zang makmei nunc muh ,",
+            "Khumki pourui rang be guaitei,",
+            "Kaikham mbang rikan puni the.",
+            "",
+            "3. Khumki pourui ganpat mei guai",
+            "Maikuam tat mak puihu khou tei,",
+            "Taodai luang but guai le niu ta nkam lou-o;",
+            "Kaipou lungpuam dai ta,",
+            "Thou rui ding da ngam ni cho;",
+            "Kauna kauna thei ngam khang di the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 192",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 192. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khumkipou rui bam cham dan na",
+        "titleRongmei": "Khumkipou rui bam cham dan na"
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0500",
+    "number": 500,
+    "source": {
+      "printedNumber": 500,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William W. How",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "S.M.",
+      "tune": "HLC 507"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Niu khou naimei guay hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Niw khou naimei guay hei",
+            "He Kaipouc, Nang tuang de;",
+            "Nang tuang Nang khang tiidat tuang de,",
+            "Laalou o, Poubauhmei.",
+            "",
+            "2 Geicna Nang tiilou e,",
+            "’Niw tamthiwmei swna",
+            "Nthai luan reymei phuling hei",
+            "Neihlaana phungc guang e.",
+            "",
+            "3 Swmlou, katiuloumei,",
+            "Lungh bakmei tii gaymei,",
+            "Sansiimei nunc ta ’khavloumei",
+            "Ravguangc taanv ling kiu e.",
+            "",
+            "4 Banghmei ta ricloumei,",
+            "’Maanmei ta phungc guangmei,",
+            "Ringhmei chaeng khou zayloumei hei",
+            "Khrista ningmei taanv e.",
+            "",
+            "5 Aniw Nang Lat lwm e,",
+            "’Niw ramlum ’thyam sihni,",
+            "’Niw taanhmei kathuic hei Kaipouc,",
+            "Nang khang @{4 taanh tuang e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "We Give Thee But Thine Own",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "S.M.",
+        "HLC 507",
+        "William W. How",
+        "We Give Thee But Thine Own",
+        "source hymn 500",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 500."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Niu khou naimei guay hei",
+        "titleRongmei": "’Niu khou naimei guay hei",
+        "titleEnglish": "We Give Thee But Thine Own"
+      }
+    }
+  }
+}

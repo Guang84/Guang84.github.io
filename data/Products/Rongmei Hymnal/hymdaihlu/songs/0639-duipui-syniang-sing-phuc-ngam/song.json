@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0639",
+    "number": 639,
+    "source": {
+      "printedNumber": 639,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "F.A.Blackmer",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.9.10.9. Ref.",
+      "tune": "SS 998"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "DUIPUI SYNIANG SING PHUC NGAM",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jordan paengc thangc aniu kariu pwkhou,",
+            "Thuakloumei nunc ta ’niu how pwkhou,",
+            "Duipui syniang sing phuc ngam makmei kumc",
+            "Hei kiu adihkamv ch’ryn puni cho!",
+            "",
+            "Duipui syniang sing phucngam makmei kumc!",
+            "Duipui syniang phucngam makmei kumc!",
+            "He adih ch’ryn ni cho,",
+            "Thuakloumei nunc kariu khou",
+            "Duipui syniang phuc ngam makmei kumc puni!",
+            "",
+            "2 Guloumei guay ta aniu how pwkhou,",
+            "Ryanramei khou {:1 duakmei nunc ta,",
+            "Tingkauh tuang neihlaa khou sowriw pwkhou",
+            "Hei kiu adihkamv ch’ryn puni cho!",
+            "",
+            "3 Gaychuymei dui paengc khou ’niu ding pwkhou,",
+            "Ringhmei tiimei thingbang lym khou 1<:,",
+            "’Rianhloumei ramc 1<: aniu how pwkhou",
+            "Hei kiu adihkamv ch’ryn puni cho!",
+            "",
+            "4 Thuakloumeipu ta ’niu howpui nungc kiu",
+            "Kahymdaih ta ’niu how pw khou kiu,",
+            "Guanghdic kaguay ruc khou",
+            "guanghtu pw khou",
+            "Hei kiu adihkamv ch’ryn puni cho!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Numberless as the Sands of the Sea",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "10.9.10.9. Ref.",
+        "SS 998",
+        "F.A.Blackmer",
+        "Jordan paengc thangc aniu kariu pw",
+        "Numberless as the Sands of the Sea",
+        "source hymn 639",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 639."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "DUIPUI SYNIANG SING PHUC NGAM",
+        "titleRongmei": "DUIPUI SYNIANG SING PHUC NGAM",
+        "titleEnglish": "Numberless as the Sands of the Sea"
+      }
+    }
+  }
+}

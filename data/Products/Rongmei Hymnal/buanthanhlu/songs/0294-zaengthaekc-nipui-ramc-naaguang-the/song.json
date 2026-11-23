@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-294",
+    "number": 294,
+    "source": {
+      "printedNumber": 294,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zaengthaekc Nipui Ramc 'Naaguang the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          294 Zaengthaekc nipui Ramc 'Naaguang the",
+            "                                8.8.8.8. 8. Ref. 8.8. 8. 8",
+            "",
+            "          1. Zaeng thaekc nipui ramc 'naaguang the,",
+            "             Kanloumeipu bampui ramc khou;",
+            "             Kahym daihmei Tingkauh Ravguangc,",
+            "             'Akhou guang khap tho' kawbam the,",
+            "             'Niw nic kata how pwni the.",
+            "",
+            "                        Poubauhmei rui guang dat pwkhou",
+            "                        Kamei guay ta laathau pwni;",
+            "                        Jerusalem kathanc khoutei",
+            "                        Tingkwm kaganv nai dat lak khe.",
+            "",
+            "          2. Paapc kandic hei kaanpat pwkhou,",
+            "             Abumaengc neihlaana lungc ni.",
+            "             Ryanraamei guay zaeng 'thaekcpui ramc,",
+            "             Ringhmei dui tei zangv pwni the,",
+            "             Kanloumeipu ramgai khoutei.",
+            "",
+            "          3. Kandih khou ntamv kanmei guay,",
+            "             Duipaengc ramc gay khou 'khwan bam e.",
+            "             Poubauhmei khou lwmloumei guay",
+            "             Bumaengh panty khou lungc pwni.",
+            "             Hallelujah thuancna bam ni.",
+            "",
+            "          4. Kangvranmei andic khat nai e,",
+            "             Heicramc gay tei saa ngam mak ge;",
+            "             Khoutei neihlaa tuai dat lak khe.",
+            "             Lwmlou makmei guay ramsii mu,",
+            "             Phaengzaucna kapbam pwni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zaengthaekc Nipui Ramc 'Naaguang the"
+      }
+    }
+  }
+}

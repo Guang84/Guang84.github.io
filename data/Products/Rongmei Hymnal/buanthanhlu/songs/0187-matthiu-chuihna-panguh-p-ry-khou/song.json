@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-187",
+    "number": 187,
+    "source": {
+      "printedNumber": 187,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Matthiu Chuihna Panguh P'ry khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          187 Matthiu Chuihna Panguh P'ry khou",
+            "                           12.12. 11.9. Ref. 12. 12.11",
+            "          Doh hei F",
+            "",
+            "          1. Matthiu chuihna panguh pary khou saalou e:",
+            "             Bangh gaanvthumh khou Kaipouc rui talent nzanhlou.",
+            "             Gaanvkhat khang panguh, gaanvkhat khangtei kanei,",
+            "             Gaanvkhat khang akhat nzanhlou e.",
+            "",
+            "               \"Ai tatna guang dat 'ni, nangniw taanv guay zauh khang;",
+            "               Nzanhloumei khourui mbuna taanc bam o,\"!",
+            "               Twna Kaipouc rui meic kathuih khou dinclou.",
+            "",
+            "          2. Kaipouc rui guang datna talent tei khuamthau the.",
+            "             Bangh gaanvnei khou tei Kaipouc rui kumna saa e:",
+            "             \"Ai rui tiiloumei taanv tei taanc chuy dyng the;",
+            "             Atuang neihlaamei dam guanglaa tho.",
+            "",
+            "          3. Bangh gaanvkhat khoutei Kaipouc rui kumna saa e:",
+            "             \"Ai rui tiimei taanv tei t'ui swna taanh mak cho!",
+            "             Kaipouc rui Kalung puamcna mi lat saa e.",
+            "             \"Kamei ta mpaeng thangc gancpat tho.\"",
+            "",
+            "          4. Ntaw kin khou nic Kaipouc rui kumna saa e.",
+            "             Nang khou tiloumei taanv tei taanc zih bam tu ch0",
+            "             Kaipouc guang pwkhou tabui lat daw ni cho?",
+            "             Nang pumc kaguay tiipatna taanc o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Matthiu Chuihna Panguh P'ry khou"
+      }
+    }
+  }
+}

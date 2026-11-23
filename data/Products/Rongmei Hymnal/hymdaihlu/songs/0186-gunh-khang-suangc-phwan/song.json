@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0186",
+    "number": 186,
+    "source": {
+      "printedNumber": 186,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E1.R.Latta",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.8. D. Ref.",
+      "tune": "SS 113"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gunh khang suangc ’phwan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Muigaymei sw diu, zeipuakkai,",
+            "Paapc kandic khang tiipatmei 4^&;",
+            "Guigaymei sw diu, Ravguangc Nac,",
+            "Kazamv paan ’niu ta tiigay the;",
+            "Kakuanc khou @<4 ai tat ducna",
+            "Lungh kabiu, ryanra bam pwkhou",
+            "Lauziu Nac zei @<4 khiulou o,",
+            "Khou kiu ai hei gunh suangc ’phwan ni!",
+            "",
+            "Gunh .. khang suangc ’phwan ni! (2)",
+            "Lauziu Nac zei khou khiulou o,",
+            "Khou kiu ai hei gunh suangc ’phwan ni!",
+            "",
+            "2 Sauh pyrun Kamei run khwan e,",
+            "Kros 4^& ’rit langvna bow key e,",
+            "Saa ngam makmei ryanra ’khaengvlou,",
+            "Karianra 4^& nsa hamh e;",
+            "Zeipuakkai khou 4^& zaylouna,",
+            "Apaap guay 4^& khiu ’thanlou o,",
+            "Khiulou o, ata zei khou 4^&",
+            "Khou kiu ai hei gunh suangc ’phwan ni!",
+            "",
+            "3 APu, Nang khou @<4 ai duc the,",
+            "Ai hei chaeng maanv tat katup the,",
+            "Apaap guay haengcmumhmei ta hei,",
+            "Dui @<4 khiu ’than khang ngam mak khe;",
+            "He Jisu, Nang zeipuakkai khou",
+            "Nang latryan lwmna ai tat ni,",
+            "Nang @<4 ata khiu ’thanlou o,",
+            "Khou kiu aihei gunh suangc ’phwan ni!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Blood of the Lamb",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "8.8.8.8. D. Ref.",
+        "SS 113",
+        "E1.R.Latta",
+        "LAUZIU NAC ZEI",
+        "Muigaymei sw diu, zeipuakkai",
+        "The Blood of the Lamb",
+        "source hymn 186",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 186."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gunh khang suangc ’phwan",
+        "titleRongmei": "Gunh khang suangc ’phwan",
+        "titleEnglish": "The Blood of the Lamb"
+      }
+    }
+  }
+}

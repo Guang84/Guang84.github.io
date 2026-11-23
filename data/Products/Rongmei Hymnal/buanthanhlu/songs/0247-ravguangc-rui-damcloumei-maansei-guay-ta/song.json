@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-247",
+    "number": 247,
+    "source": {
+      "printedNumber": 247,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc rui Damcloumei Maansei guay ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          247 Ravguangc rui damcloumei Maansei",
+            "                              14.12. 10.4. Ref. 8. 4. 10.5",
+            "",
+            "          1. Ravguangc rui, damcloumei maansei guay ta, nzian khourui,",
+            "             Kanac Mpouh akhatnamei ta tiilou the.",
+            "             Kata lwmloumei guay rui ringc pwni,",
+            "             Tingsaengzaengna.",
+            "",
+            "                  Tingkauh kandic gaymei khoutei,",
+            "                  Ai guang pwkhou,",
+            "                  Karuhloumei nowpeic kumhmei Tingkauc,",
+            "                  Ai rui how ni the.",
+            "",
+            "          2. Mpwan liu rihri e, tingkauhramc tei, zianmei guayle,",
+            "             Gunh kumcna mphwanmei bamv khoutei ai bam ni.",
+            "             Neihkhat khoutei ai rihngam lu suan ni,",
+            "             Taek dat makna.",
+            "",
+            "          3. Salem namvdai ringhmei thingbang lim khou,",
+            "                                               ai ruan bam ni the;",
+            "             Tingkauh baanch'ra guay lev thuancku kariu lana,",
+            "             Ravguangc ta thuanckupui lu tei suanna,",
+            "             Halelujah!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc rui Damcloumei Maansei guay ta"
+      }
+    }
+  }
+}

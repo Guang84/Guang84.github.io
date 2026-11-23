@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0737",
+    "number": 737,
+    "source": {
+      "printedNumber": 737,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "6.9.6.6.9.9",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lung rianramei khanga",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Lung rianramei khanga,",
+            "Ai kapma kalang bam pui ram e;",
+            "Tabui nung manni cho?",
+            "Ai nkhuan ngam mak ge,",
+            "Tabui nung ruina tang nina cho?",
+            "Kanloumei gai pui ram khou bam khang.",
+            "",
+            "Chorus:",
+            "He! tingsang gai pui ram khou,",
+            "Ai bam ni e (2) gaichui pui ram khou,",
+            "Rianra guai thao o,",
+            "Nthanmei guai bam pui ram khou,",
+            "Tingkau Laujiu Nah le bam cham ni,",
+            "",
+            "2. Kandih rianra pui ram,",
+            "Seitan rih tanna bam pui ram khou;",
+            "Lungbam khang kabam mak,",
+            "Achun suna mikdui Luanga,",
+            "Ai ning pui ram gaimei khou,",
+            "He! bumang thanmei leh jai lou o.",
+            "",
+            "3. Neilamei jianmei nun,",
+            "Tingsang gai pui ram guang tang ngam the;",
+            "Hallelujah! Amen,",
+            "Jai gut lou o pou rui,",
+            "Tingkau gai pui ram khou 9!@ bam khang,",
+            "Tingkau laujiu Nah le bam cham khang.",
+            "",
+            "4. Kandih khou rianra na,",
+            "Kapmei mikdui thut phui than lou ni,",
+            "Tingkau Laujiu Nah rui;",
+            "Kagan guang tang mak khou,",
+            "Poubaumei ta nkhuan ngam mak ge,",
+            "Thei na ringthau datmei ram gaimei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "6.9.6.6.9.9",
+        "Lung rianramei khanga",
+        "source hymn 7",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 7."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lung rianramei khanga",
+        "titleRongmei": "Lung rianramei khanga"
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0672",
+    "number": 672,
+    "source": {
+      "printedNumber": 672,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Jessie H. Brown",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "6/8",
+      "meter": "11.11.11.11. Ref.",
+      "tune": "SS 627"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KABAMV ’THUIC JISU ’DUANGHNA",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kabamv ’thuic Jisu ’duanghna ai ping mak khe!",
+            "Kamei @<4 ata zayloupui bamv ’thuic khou!",
+            "Jisu bam makmei bamv khou neihlaa suang mak,",
+            "Kabamv ’thuic Jisu ’duanghna ai ping mak khe!",
+            "",
+            "Kabamv ’thuic! kabamv thuic!",
+            "Ai ping dat lak khe,",
+            "Kabamv ’thuic Jisu ’duanghna",
+            "ai ping maek khe!",
+            "",
+            "2 Jisu ’duanghloupui bamv ’thuic ara na hamh,",
+            "Pam nunc @<4 ganclou sihni aPam ling e!",
+            "Ryanra liangpui chaeng khou zaylou pw sihni,",
+            "Jisu bampui bamv ’thuic thuanhmei padik ge.",
+            "",
+            "3 Kabamv ’thuic Jisu ’duanghna ai zip ngam e,",
+            "Zinghmei lym @<4 adaeng chingc liam guang sihni!",
+            "Zip ’chyang thau dat pwkhou maeng tat dat lak khe;",
+            "Jisu ’duanghpui bamv guay lungh kwnpui kai e!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Anywhere with Jesus",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "6/8",
+        "11.11.11.11. Ref.",
+        "SS 627",
+        "Jessie H. Brown",
+        "Anywhere with Jesus",
+        "source hymn 672",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 672."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KABAMV ’THUIC JISU ’DUANGHNA",
+        "titleRongmei": "KABAMV ’THUIC JISU ’DUANGHNA",
+        "titleEnglish": "Anywhere with Jesus"
+      }
+    }
+  }
+}

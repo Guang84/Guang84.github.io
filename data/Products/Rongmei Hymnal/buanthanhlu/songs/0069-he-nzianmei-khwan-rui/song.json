@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-069",
+    "number": 69,
+    "source": {
+      "printedNumber": 69,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Nzianmei Khwan rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          69 He Nzianmei Khwan rui",
+            "                        12.10.12. Ref. 8. 10",
+            "          Doh hei D",
+            "",
+            "          1. He nzianmei khwan rui nang ta kawna bam khou.",
+            "             Akhou guang o, twna niamhna kaw e.",
+            "             Guang nyanmei sw la rio, 'zianna kaw bam khouhei;",
+            "             Akhou guang o, Ai zaeng tithaekclou ni.",
+            "",
+            "                      'Zianmei khwan rui kawna bam khou,",
+            "                      Nang puatrith tei Ai rui laaganclou ni.",
+            "",
+            "          2. He 'zianmei Poubauhmei rui kawna bam khouhei,",
+            "             Ngalancguang o, theihmei paap bam khourui.",
+            "             Nang khuay guay kuaklouna nang ta sw 'thanlou ni:",
+            "             'Zianthaymei Guangh Jisu ruina kawe.",
+            "",
+            "          3. Ngamp'rimei Guangh Jisu rui kawna bam khouhei,",
+            "             Duploupui bamv maekmei Nang nac guay ta,",
+            "             Kachac lakmei taudaic lang khou guangna dup tho;",
+            "             Theihmei paap ngamv khourui guduaklou ni.",
+            "",
+            "          4. Ntaw kaganv gay khou Jisu khou guang la tho;",
+            "             Nkhamhpui ganv katumcna guang pwthe.",
+            "             Duakpat la tho paapcmei kandih tuang phac khourui;",
+            "             Lunghlaic dat nuh makpui ganv guang pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Nzianmei Khwan rui"
+      }
+    }
+  }
+}

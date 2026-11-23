@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0384",
+    "number": 384,
+    "source": {
+      "printedNumber": 384,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. J. Oatman. Jun.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "2/2",
+      "meter": "11.11.11.11. Ref.",
+      "tune": "SS 745"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Panty dui kamuatcmei guang pw",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Panty dui kamuatcmei pwanzingh guang pwkhou,",
+            "Nang machunc guay ’maan ngamna diwsii pwkhou,",
+            "Suaihiam sing phuc o, kazanc khatkhat swna,",
+            "Kaipouc taanv guay khou 4^& nang khang ch’ryn puni!",
+            "",
+            "Suaihiam sing phuc o, khat khat swna,",
+            "Suaihiam sing phuc o,",
+            "Ravguangc taanv 4^&!",
+            "Suaihiam sing phuc o, khat khat swna,",
+            "Kaipouc taanv guay khou 4^& nang khang ch’ryn puni!",
+            "",
+            "2 Nang nritmei puat phungc tanh tan bam tucho?",
+            "Kros 4^& phungh khang nrit pwng e ning tucho?",
+            "Suaihiam sing phuc o, lwmsiimei ’maan puni,",
+            "Tingmik nai bam saanv nang lu suan bam puni.",
+            "",
+            "3 Meic kai puat guay lev syanlanv nang how pwkhou,",
+            "Saa ngam makmei lanv Khrista tii ni ning o;",
+            "Suaihiam guay sing phuc o, syan @<4 liu ngam mak,",
+            "Kauh thangc naimei nang swan lev tingkauh kai 4^&.",
+            "",
+            "4 Rih sw pwkhou nthyam nic, daic nic pingc rio,",
+            "Lungh geih rio, Ravguangc bam e kabamv ’thuic khou;",
+            "Suaihiam sing phuc o, baanch’ra guay thaylou ni,",
+            "Nang tuang chaenglwan suakpui nganv ’khavlou puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Count Your Blessings",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "2/2",
+        "11.11.11.11. Ref.",
+        "SS 745",
+        "Rev. J. Oatman. Jun.",
+        "SUAIHIAM SING PHUC O",
+        "Count Your Blessings",
+        "source hymn 384",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 384."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Panty dui kamuatcmei guang pw",
+        "titleRongmei": "Panty dui kamuatcmei guang pw",
+        "titleEnglish": "Count Your Blessings"
+      }
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0288",
+    "number": 288,
+    "source": {
+      "printedNumber": 288,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. R. Lowry",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.7.7.7.6. Ref.",
+      "tune": "SS 337"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kapmei rui kanlou mak",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kapmei ^&8 kanlou mak!",
+            "Azaw mikdui phiangc sihni,",
+            "Pingmei guay tii ’maan ngam mak,",
+            "Paapc guay 8^& khiu ’than ngam mak,",
+            "Kapmei ^&8 kanlou mak!",
+            "",
+            "Jisu kros khou akhaengvlou;",
+            "Akhang ^&8 kapna theiclou;",
+            "Jisu ’khwan bam tiiduak khang;",
+            "Jisu na kan ngam e!",
+            "",
+            "2 Taanv ^&8 kanlou ngam mak!",
+            "Gay liangmei taanv taanc sihni,",
+            "’Than liangmei chwn ning sihni,",
+            "Bumaengh tiikathanc ngam mak;",
+            "Taanv ^&8 kanlou ngam mak!",
+            "",
+            "3 ’Khwanmei ^&8 kanlou mak!",
+            "’Khuaina ngam makna bam khou;",
+            "Zian thaymeipu khwan chu e;",
+            "’Khwan bam ethei, theic ni the;",
+            "’Khwanmei ^&8 kanlou mak!",
+            "",
+            "4 Lwmmei ^&8 kanlou ngam!",
+            "Khrista khou tiilwmlou o,",
+            "Kataanv khou tiilwmlou o;",
+            "Kapamv khou zay guanglou o;",
+            "Lwmmei ^&8 kanlou ngam!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Weeping Will not Save Me!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "6.7.7.7.6. Ref.",
+        "SS 337",
+        "Rev. R. Lowry",
+        "Weeping Will not Save Me!",
+        "source hymn 288",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 288."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kapmei rui kanlou mak",
+        "titleRongmei": "Kapmei rui kanlou mak",
+        "titleEnglish": "Weeping Will not Save Me!"
+      }
+    }
+  }
+}

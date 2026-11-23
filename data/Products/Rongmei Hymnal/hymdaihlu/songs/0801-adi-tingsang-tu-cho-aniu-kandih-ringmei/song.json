@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0801",
+    "number": 801,
+    "source": {
+      "printedNumber": 801,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "15.9.15.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Adi tingsang tu cho aniu kandih ringmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Adi tingsang tucho aniu kandih ringmei tingmik hei,",
+            "Neilamei munpuang tuai dat lak khe;",
+            "Aniu hei ntam dat khang tingmik kathan patdat kanthe,",
+            "Tam dat mak pui ram gaimei 2!- ninge.",
+            "",
+            "Chorus:",
+            "Ntam makmei samei ram gaimei khou,",
+            "Jianmei nun le nban thaini;",
+            "Gakloumei guang khrista kanloumeipu,",
+            "Neilamei hu khou rianramei 2!- manni.",
+            "",
+            "2. Kandih ram hei khou hei kapma huaina rianra bamsini,",
+            "Rianramei pang khou ram gaimei nai;",
+            "Kanloumei guang khrista thei laikhou",
+            "rianraloumei guaimu,",
+            "Hei ramgai khou 2!- aniuni lungni.",
+            "",
+            "3. Neilamei munpuang bam kanloumeipu khrista bampui ram,",
+            "Jaolo ai tingmik thui ning bamme;",
+            "Tingkau latdiu nun le njianmei ntam kanmei guai le,",
+            "Tabui nung neilana kariu nicho?",
+            "",
+            "4. He njianmei nun le katan tanh khang 2!- aleao maknga,",
+            "Kagan hei tingmik thui na guang the;",
+            "Lauthuan ganphiu gan gaimei 2!- guang khang tingmik heicna the,",
+            "Tan hei tan luai pukhou nban thaini.",
+            "",
+            "5. He pou kanloumeipu neilamei munpuang gaimei nang e,",
+            "Kandih neilamei munpuang tuai the;",
+            "Nang jau khou2!- he pou neilamei tuang kapumma patdiu,",
+            "Neilamei Sharon mun gai nang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "15.9.15.10.",
+        "Adi tingsang tu cho aniu kandih ringmei",
+        "source hymn 71",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 71."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Adi tingsang tu cho aniu kandih ringmei",
+        "titleRongmei": "Adi tingsang tu cho aniu kandih ringmei"
+      }
+    }
+  }
+}

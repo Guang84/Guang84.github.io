@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0409",
+    "number": 409,
+    "source": {
+      "printedNumber": 409,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E. Prentiss",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.4.6.4.6.6.4.4.",
+      "tune": "SS 632"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Khrista ai Nang ta zian diangh",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Khrista, ai Nang ta",
+            "Zian diangc bam khang,",
+            "Khuksunna ai ney e tiiswlou o;",
+            "Mi hei aramhuai e:",
+            "Nang ta zian diangc bam khang",
+            "He Pou Khrista tiiswlou o!",
+            "",
+            "2 Kandih ramgai laa khang",
+            "Ai phu khwan e,",
+            "’Taw mu Nang ta phu e",
+            "Tiikwnlou o!",
+            "Mi hei aramhuai e:",
+            "Nang ta zian diangc bam khang",
+            "He Pou Khrista tiiswlou o!",
+            "",
+            "3 Ryanra sunupui tuang",
+            "Guang geic sihni,",
+            "Nang khou >|3 guangmei guay",
+            "Gay khang >|3 de;",
+            "Hei guay paan >|3 ai hei",
+            "Nang ta zian diangc bam khang",
+            "He Pou Khrista tiiswlou o!",
+            "",
+            "4 Ai theic ni khou nganvna",
+            "Nang ta thuanc ni,",
+            "Mi hei ramnavpui lat swna saa ni;",
+            "Khou kiu nganv ai huay ni,",
+            "Nang ta zian diangc bam khang",
+            "He Pou Khrista tiiswlou o!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "More Love to Thee, O Christ",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "6.4.6.4.6.6.4.4.",
+        "SS 632",
+        "E. Prentiss",
+        "More Love to Thee, O Christ",
+        "source hymn 409",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 409."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Khrista ai Nang ta zian diangh",
+        "titleRongmei": "He Khrista ai Nang ta zian diangh",
+        "titleEnglish": "More Love to Thee, O Christ"
+      }
+    }
+  }
+}

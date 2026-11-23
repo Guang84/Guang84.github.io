@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-159",
+    "number": 159,
+    "source": {
+      "printedNumber": 159,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kauh Kanaan Ramc ta Ningna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          159 Kauh Kanaan Ramc ta Ningna",
+            "                            7.7.9.7.Ref. 5. 12. 12",
+            "          Doh hei F",
+            "",
+            "          1. Kauh Kanaan ramc ta ningna,",
+            "             Neih key dat makpui ramc tei;",
+            "             Bumaengh guay guang lungc nipui ramc e;",
+            "             Guang tangc pwni neih khat ai.",
+            "",
+            "                   He kauh ramc gaymei,",
+            "                   Zaion ramgai ta machunh e aPoubauhmei;",
+            "                   He Poubauhmei Jisu ata zay thaulou o.",
+            "",
+            "          2. Lwmloumei guay 'baanvthay ni,",
+            "             Baanch'raa guay bampui ramc khou.",
+            "             Kachaekc kaidai gaymei ramc khou tei,",
+            "             Samc tat pwni neih khat ai.",
+            "",
+            "          3. Guangh ramc gaymei tangc pwkhou,",
+            "             Ryanraamei nai dat lak khe.",
+            "             Zaeng 'thaekcmei kaidai tangc zaic 'ni the;",
+            "             Panty duidai paengc thangc tei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kauh Kanaan Ramc ta Ningna"
+      }
+    }
+  }
+}

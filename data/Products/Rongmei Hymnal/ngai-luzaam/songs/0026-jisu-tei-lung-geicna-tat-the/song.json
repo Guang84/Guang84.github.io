@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-026",
+    "number": 26,
+    "source": {
+      "printedNumber": 26,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu tei lung geicna tat the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Jisu tei lung geina tat the,",
+            "Haumuh mei rui zaina;",
+            "Tatnipui chaeng tei zaulana,",
+            "Theilounipui bam thang.",
+            "",
+            "Luangbut thang tei thaengc thau kan the,",
+            "Siangc loupui thingru khou,",
+            "Rianra ‘kheangmei khuan chumei tei,",
+            "Kanloumei pu khuan e.",
+            "",
+            "2. Ryanramei Kros tei puan lana,",
+            "Poubaomei ta zaina,",
+            "Tabui thang tei thaengc thau nicho?",
+            "Ai rui phangzau bamni.",
+            "",
+            "3. Charinmei sauh pirun runlou,",
+            "Haumuh mei rui zaina,",
+            "Theinipui luangbut thang tat the,",
+            "Apap guai tei phungna.",
+            "",
+            "4. Khou tei mei geicmei kariuna,",
+            "Ravguangc haumuh mei guai,",
+            "Kaniu ningmei guangc tangh khang e",
+            "Kros khou thaeng thaumei tei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 26",
+        "Khristian Luzaam PDF",
+        "Chord: D",
+        "Meta 3: 8.6.8.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 26. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 26,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu tei lung geicna tat the",
+        "titleRongmei": "Jisu tei lung geicna tat the"
+      }
+    }
+  }
+}

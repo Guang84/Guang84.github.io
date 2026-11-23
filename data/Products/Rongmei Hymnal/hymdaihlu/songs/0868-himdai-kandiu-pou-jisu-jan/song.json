@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0868",
+    "number": 868,
+    "source": {
+      "printedNumber": 868,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Himdai kandiu pou Jisu jan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Himdai kandiu pou Jisu jan,",
+            "Kandih le tingkauh khou;",
+            "Banchranun Raguang kalummei,",
+            "Seitan pinga kadun.",
+            "",
+            "Chorus:",
+            "Akhang ntang mak tuang makge,",
+            "Baimei ta kahao mak....",
+            "Khrista akhang theimei biu the,",
+            "Akhang %&6 thei tuang e.",
+            "",
+            "2. Pap phungmei nun khang khrista thei,",
+            "Gai makmei nun phan thei;",
+            "Nuan guaina khangh lou ngam kan the,",
+            "Neilamei tilin the.",
+            "",
+            "3. Karam jian hei tithai lik go,",
+            "Thuak patmei ndao o;",
+            "Ai %&6 ranimei chamdin kiu,",
+            "Laujiu Nah pari e.",
+            "",
+            "4. Neilana kajan ndaoni,",
+            "Apanti nai bam khou;",
+            "Mei guaina khou ra ndaoni,",
+            "Laujiu Nah pari hei."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "8.6.8.6.",
+        "Himdai kandiu pou Jisu jan",
+        "source hymn 138",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 138."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Himdai kandiu pou Jisu jan",
+        "titleRongmei": "Himdai kandiu pou Jisu jan",
+        "titleEnglish": "A"
+      }
+    }
+  }
+}

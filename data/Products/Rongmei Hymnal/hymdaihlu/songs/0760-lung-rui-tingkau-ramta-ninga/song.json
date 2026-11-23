@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0760",
+    "number": 760,
+    "source": {
+      "printedNumber": 760,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.8.8.",
+      "tune": "2 korinthian 5:2"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lung rui tingkau ramta ninga",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Lung rui tingkau ramta ninga,",
+            "Kandih rianra khang ngam mei guai;",
+            "Neilana bam mei 7#@ hou e,",
+            "Neilamei lukhuan jangmei 7#@,",
+            "Tingmik thui ai suan bam sini,",
+            "Khou 7#@ guangtang khang khuan ngam mak.",
+            "",
+            "Chorus:",
+            "Jaukei lou o tingkau guang dai,",
+            "Ai hei rianra naangmei 7#@ e,",
+            "Ata pap riang rui banglou e,",
+            "Nang ram khou 7#@ guang nisini,",
+            "Theimei le rianramei ruina,",
+            "Tingmik thui ata duam.",
+            "",
+            "2. Lung rui ninga guang tang numak,",
+            "Theimei hei tinai lou khou rui;",
+            "Rianra rianriumei rui guam liam,",
+            "Tangkhang khuan ngam makpui jangrui,",
+            "Poubaumei nang bam gaimei 7#@,",
+            "",
+            "3. Tingmik kathui ai rui ninga,",
+            "Ai rui rianramei hei thai na;",
+            "Akhang rianra sang khang na de,",
+            "Kap bammei hei lung neila khang,",
+            "Kandih khou hei phung ngammak ge,",
+            "Tingmik thui ninga bam sini.",
+            "",
+            "",
+            "4. Alau kumma kap bammei hei,",
+            "Poubaumei rui lathao mak san;",
+            "Ai rui rianramei man lakkhe,",
+            "Apanti hei nai bam san khou,",
+            "Tingkau kandih la ngam makge,",
+            "Poubaumei ai guangtang ngammak."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "8.8.8.8.8.8.",
+        "2 korinthian 5:2",
+        "Lung rui tingkau ramta ninga",
+        "source hymn 30",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 30."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lung rui tingkau ramta ninga",
+        "titleRongmei": "Lung rui tingkau ramta ninga"
+      }
+    }
+  }
+}

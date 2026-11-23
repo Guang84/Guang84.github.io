@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-033",
+    "number": 33,
+    "source": {
+      "printedNumber": 33,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Rianra mei guai naidat lak khe",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ryanramei guai naidat lak khe ,",
+            "Bumaeng kandih gaipui ram khou,",
+            "Kanloumei guai bam puni e,",
+            "Aniu kandi hei kum makge.",
+            "",
+            "Rianramei lunghgeihmei rui duamliam,",
+            "Rian ra meirui dui kum ma dailiam ,",
+            "Gai na hei ram tei guang tang pukhou,",
+            "",
+            "2. Hei kandih mu hei kun makge ,",
+            "Rianra khang na kap pui ram e.",
+            "Kanpat lou o bamcham diu khang,",
+            "Neihlaa mei guay akhang suna.",
+            "",
+            "3. Kandih khou hei tamkanmei guai,",
+            "Ata kau e duipaeng ram khou,",
+            "Gaipuiram khou tei guangdiu khang,",
+            "Kaniuban tei ham ma kau e.",
+            "",
+            "4. He! Nthuk e Poubaomei zei",
+            "Rianramei guai nangpan khou rui,",
+            "Gaipuiram tei guang tang nuh the,",
+            "Kandih ryanraram pat louna."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 33",
+        "Khristian Luzaam PDF",
+        "Chord: D",
+        "Meta 3: 8.8.8.8."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 33. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 33,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Rianra mei guai naidat lak khe",
+        "titleRongmei": "Rianra mei guai naidat lak khe"
+      }
+    }
+  }
+}

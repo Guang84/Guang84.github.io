@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0228",
+    "number": 228,
+    "source": {
+      "printedNumber": 228,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Dr. A. Reed",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6.",
+      "tune": "SS 201"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc bumaengc chulou na ro",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc Bumaengc chulou na ro,",
+            "’Niw lung khou lungclou o;",
+            "Nang ngamv guay phungcna",
+            "keylou o,",
+            "Guanglou o, Bumaenghle.",
+            "",
+            "2 Gaanhmei swna guang lyanlou o,",
+            "’Niw khou gatmei guay 2}?;",
+            "’Thanmei panty lwnlung khou 2}?",
+            "’Niw ta tiilungclou o.",
+            "",
+            "3 ’Niw lung ti hei raw ’thanlou o,",
+            "Ravcha tuang maibwang kumc;",
+            "’Niw lung hei ravkatpuat sw diu,",
+            "Thuakloumeipu Nang khang.",
+            "",
+            "4 Akhouhna kumc Nang guanglou o,",
+            "Chuzaenghmei sw laemvna;",
+            "Dih khou Nang tuang phwamling",
+            "guay hei",
+            "Kauh thangc kumc gay kan diu.",
+            "",
+            "5 Guang o, mpwan kumc ’liu key o,",
+            "Penticost nungc kumcna;",
+            "Ntumei kikta kaguay hei",
+            "Nang hym daihmei how diu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Spirit Divine, Attend to Our Prayer",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "8.6.8.6.",
+        "SS 201",
+        "Dr. A. Reed",
+        "Spirit Divine, Attend to Our Prayer",
+        "source hymn 228",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 228."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc bumaengc chulou na ro",
+        "titleRongmei": "Ravguangc bumaengc chulou na ro",
+        "titleEnglish": "Spirit Divine, Attend to Our Prayer"
+      }
+    }
+  }
+}

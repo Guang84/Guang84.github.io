@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0105",
+    "number": 105,
+    "source": {
+      "printedNumber": 105,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William C.Dix.",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "CW 200"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Kumhmei nac cho Meri pamv khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Kumhmei Nac cho, Meri pamv khou",
+            "Zaeng swna zip bammei Nac hei,",
+            "Baanch’ra nunc lu suanna",
+            "thuanhmei,",
+            "Lauziu gaengc bammei nunc khou?",
+            "",
+            "Mi hei Guangh Khrista e,",
+            "Baanch’ra nunc thuanc",
+            "bammeipu the!",
+            "’Khap tho, guang kalum tho,",
+            "Ngana, Ravguangc Nac",
+            "Pouh ta.",
+            "",
+            "2 Bui zaeng hei di liwmei lwn khou",
+            "Kiruai ding khou zip bam tu cho?",
+            "Thaylou o, khwan pat mak sihni",
+            "Paapc mei nunc ta huay bam e.",
+            "",
+            "3 Kachaekc, mwndui, ‘gaw phungc",
+            "guang tho,",
+            "Lungcgaymei, lungcsiimei guang",
+            "tho;",
+            "Guangh guay Guangc ringhbamv",
+            "phungc guang the,",
+            "Zianna Kata laalou tho!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "What Child is This?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/8",
+        "8.7.8.7. Ref.",
+        "CW 200",
+        "William C.Dix.",
+        "What Child is This?",
+        "source hymn 105",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 105."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Kumhmei nac cho Meri pamv khou",
+        "titleRongmei": "’Kumhmei nac cho Meri pamv khou",
+        "titleEnglish": "What Child is This?"
+      }
+    }
+  }
+}

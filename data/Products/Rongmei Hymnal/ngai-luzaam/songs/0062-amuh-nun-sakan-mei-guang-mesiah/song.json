@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-062",
+    "number": 62,
+    "source": {
+      "printedNumber": 62,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.10.9.8.8.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Amuh nun sakan mei guang Mesiah",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Amu nun sakanmei guang Mesiah,",
+            "Caesaria khou gaipui ting mik tang the,",
+            "Guang than gaimei tei hei thuan no thuan no, ] 2",
+            "Kao than mei nun le laojiu gang mei,",
+            "Duh thu rui guang ntak mei nun,",
+            "Kao ganchuang le than mei nun rui,",
+            "Neihla na guang than puan mei din lou e.",
+            "",
+            "2. Guang guaina puan mei kum puan pat lou the,",
+            "Bethlehem guai kai khou tipuan lou the,",
+            "Guang Immanual ta thuan no thuan no.] 2",
+            "Kao banchra nun le lauziu gaengmei,",
+            "Duh thu rui guang ntakmei nun,",
+            "Kao ganchuang le than mei nun rui",
+            "Neilana guang than puan mei din lou e.",
+            "",
+            "3. Kalloumei guang jubilee kang khuan tei,",
+            "Kandi le tingkao ram kagang lik e,",
+            "Guang than gaimei ti hei thuan no thuan no.] 2",
+            "Kao banchra nun le lauziu gaeng mei,",
+            "Ntakmei guang kariu mei tei,",
+            "Kao ganchuang le than mei nun rui,",
+            "Gann phiu rui guang than puan mei dinlou e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 62",
+        "Khristian Luzaam PDF",
+        "Chord: Ab",
+        "Meta 3: 10.10.10.9.8.8.10."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 62. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 62,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Amuh nun sakan mei guang Mesiah",
+        "titleRongmei": "Amuh nun sakan mei guang Mesiah"
+      }
+    }
+  }
+}

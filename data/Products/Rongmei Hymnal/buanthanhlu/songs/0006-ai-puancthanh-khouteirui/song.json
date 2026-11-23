@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-006",
+    "number": 6,
+    "source": {
+      "printedNumber": 6,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai Puancthanh Khouteirui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          6       Ai Puancthanh khou tei rui",
+            "                              10.10.10.8 Ref. 6.6.6.8",
+            "          Doh hei G",
+            "",
+            "",
+            "                  Ai puancthanh khoutei rui, (3)",
+            "                  Ch’rynmei daihmei neihlaamei nai.",
+            "",
+            "          1. Rey khou taanhmei tei ai taanc dat mak khe; (3)",
+            "             Ch’rynmei daihmei neihlaamei nai.",
+            "",
+            "          2. Rey khou saamei lat ai saa dat mak khe; (3)",
+            "             Ch’rynmei daihmei neihlaamei nai.",
+            "",
+            "          3. Rey khou suanmei lu ai suan dat mak khe; (3)",
+            "             Ch’rynmei daihmei neihlaamei nai.",
+            "",
+            "          4. Simei taektw guay ai tu dat mak khe; (3)",
+            "             Ch’rynmei daihmei neihlaamei nai.",
+            "",
+            "          5. Zianmei champanv le, nang thu akumh cho? (3)",
+            "             Nang nic Puancthanh changhmei the cho?",
+            "",
+            "          6. Ntaw Khrista khou nang guang mak gethei (3)",
+            "             Nang Tingkauh chaeng tei maan pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai Puancthanh Khouteirui"
+      }
+    }
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0917",
+    "number": 917,
+    "source": {
+      "printedNumber": 917,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.1010.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ata ringmei thingbang ti sulou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ata ringmei thingbang ti sulou o,",
+            "Duithuak pangkhou thaomei thingbang kumma;",
+            "Kaman jangnga kabuan gaimei buan khang,",
+            "Bumang tan thaimei nbu thao diukhang.",
+            "",
+            "Chorus:",
+            "Suthan lou o aniu guai lungning hei,",
+            "Timan lou o reinung lungning guaitei;",
+            "Lungning gaimei kumma gaibam diukhang,",
+            "Hei ram gaimei khoutei ai guang diukhang.",
+            "",
+            "2. Ring chang puni de rianra bam sini,",
+            "Jisu limbang khou tei ringmei nai e;",
+            "Raguang +:1 liu loumei bang thei datmak,",
+            "Hei kandih kiu aman dat jat lak khe.",
+            "",
+            "3. Tingpui ma+:1na rianra bam sini,",
+            "Raguang pirun runpui nungguang diukhang;",
+            "Khou tei guang khang Jisu +:1 kao bam e,",
+            "Nbanthaimei tingkauh khou guang diukhang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Ata ringmei thingbang ti sulou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "10.10.1010.",
+        "Ata ringmei thingbang ti sulou o",
+        "source hymn 187",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 187."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ata ringmei thingbang ti sulou o",
+        "titleRongmei": "Ata ringmei thingbang ti sulou o",
+        "titleEnglish": "Ata ringmei thingbang ti sulou o"
+      }
+    }
+  }
+}

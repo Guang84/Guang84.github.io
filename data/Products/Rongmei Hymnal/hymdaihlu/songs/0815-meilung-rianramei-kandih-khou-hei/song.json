@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0815",
+    "number": 815,
+    "source": {
+      "printedNumber": 815,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.9.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Meilung rianramei kandih khou hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Meilung rianramei kandih khou hei,",
+            "Lung rianra mikdui keina khuan bam;",
+            "Tak maknga poubaumei duang lou o,",
+            "Jat guai rianramei hei mun kumma puang diu.",
+            "",
+            "Chorus:",
+            "He samguang o poubaumei thanmei,",
+            "Kalvari khou jaujian loumei 1@:;",
+            "Him chuangphei kumma aniu rukhou,",
+            "Kajit bammo mun kumma puang dat nu khang.",
+            "",
+            "2. Nang ram gaimei 1@: ai hou sini,",
+            "Ai neila ngam makge poubaumei;",
+            "Alau kumma jat guai kap bam khou,",
+            "Jat guaina ta nang rui tigai lou ngam mo.",
+            "",
+            "3. Nuang rui ata gumliam bam sini,",
+            "Theimei rianramei khou bam sini;",
+            "Poubaumei ti o ringmei bumang,",
+            "Jatguai rianramei hei mun kumma puangdiu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "9.9.9.11.",
+        "Meilung rianramei kandih khou hei",
+        "source hymn 85",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 85."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Meilung rianramei kandih khou hei",
+        "titleRongmei": "Meilung rianramei kandih khou hei"
+      }
+    }
+  }
+}

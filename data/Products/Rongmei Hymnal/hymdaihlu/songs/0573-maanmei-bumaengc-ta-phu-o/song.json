@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0573",
+    "number": 573,
+    "source": {
+      "printedNumber": 573,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D. Ref.",
+      "tune": "SS 820"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Maanmei Bumaengc ta phu o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Maanmei bumaengc ta phu o,",
+            "Chaeng maanv tatmei guay ta;",
+            "Sangli-’khaengvna zaylou tio,",
+            "Nrummei chaeng khou 5^&;",
+            "Kaniw daeng khou beic keyna,",
+            "Kaniw khou saalou o:",
+            "Pou ^&5 khwmkih khou kaw e,",
+            "Meic guayna khang bamv nai.",
+            "",
+            "Meic .. guayna khang .. bamv nai,",
+            "Dinc tat ro, ngayraeng luai the,",
+            "Meic guayna khang bamv nai.",
+            "",
+            "2 Ryanramei nzaengc khou ^&5,",
+            "Zinghmei zingbangc khou ^&5,",
+            "Kachaekc neic riw gaanhmei khou,",
+            "Chuzaenghmei gaanh riw khou,",
+            "’Taw khuam guang o, Jisu khou,",
+            "Dinc kaluaih luaihlou o,",
+            "Dinclou tio, ngayraeng luai the:",
+            "Meic guayna khang bamv nai.",
+            "",
+            "3 Tat ro zianmei lung phungcna,",
+            "Tat ro Kaipouc zanc khou;",
+            "Bumaengh ringcsuangmei chamv hei,",
+            "Kandih thuic dinc tat ro;",
+            "Katumc tho, neih riw nai khou,",
+            "Zingc key nuangc puni the;",
+            "Dinc tat ro, ngayraeng luai the:",
+            "Meic guayna khang bamv nai."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "There’s Room for All",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "7.6.7.6. D. Ref.",
+        "SS 820",
+        "Fanny J. Crosby",
+        "MEIC GUAYNA KHANG BAMV NAI",
+        "There’s Room for All",
+        "source hymn 573",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 573."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Maanmei Bumaengc ta phu o",
+        "titleRongmei": "’Maanmei Bumaengc ta phu o",
+        "titleEnglish": "There’s Room for All"
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0708",
+    "number": 708,
+    "source": {
+      "printedNumber": 708,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Isaac Watts",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6.",
+      "tune": "GSC 555"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zauc lo, adih hymdaih lwn cho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zauc lo, adih hymdaih lwn cho,",
+            "Lwmloumei nunc mik khou;",
+            "Tingpuk lev kandih ’maan kan the,",
+            "Lairikzy kazih kumc.",
+            "",
+            "2 Ravguangc bamv tingkauh luan ’thumhmei,",
+            "’Thanmei tingkauh thangc @<4",
+            "Jirusalem Thanh 4^& key the,",
+            "Chingkhiuhmei karuhna.",
+            "",
+            "3 Hymdaihmei Racguangc mei nunc lev",
+            "Bam ’chamc khang key pw the;",
+            "Kazauzian hei meic nunc khang e,",
+            "Zianthaymei Racguangc hei.",
+            "",
+            "4 Mikdui kaguay thutphuilou ni,",
+            "Zianmei Kabaanc 4^& @<4;",
+            "Sucnumei, ryanramei, pingmei,",
+            "Theihmei hei nai lak khe.",
+            "",
+            "5 Asaanh puni cho Gumeipu,",
+            "Mi ganv 4^& guang tangh khang?",
+            "Phungc guang ’khap tho he kaganvle,",
+            "Neihlaamei tingmik 4^&."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Lo, What a Glorious Sight",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "8.6.8.6.",
+        "GSC 555",
+        "Isaac Watts",
+        "Lo, What a Glorious Sight",
+        "source hymn 708",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 708."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zauc lo, adih hymdaih lwn cho",
+        "titleRongmei": "Zauc lo, adih hymdaih lwn cho",
+        "titleEnglish": "Lo, What a Glorious Sight"
+      }
+    }
+  }
+}

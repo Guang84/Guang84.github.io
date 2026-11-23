@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0403",
+    "number": 403,
+    "source": {
+      "printedNumber": 403,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "H.F. Lyte",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.10.10.10.",
+      "tune": "SS 297"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ata bam ’duanglou o zingc key",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ata bam ’duanghlou o, zingc key pw the,",
+            "Zingc khith khit key the, Pou, bam ’duanghlou o;",
+            "’Khavloumei maekna lungh ryanra bam khou,",
+            "’Khavloumei maekmei ata ’duanghlou o.",
+            "",
+            "2 Panty tingmik katumcna dui guang the,",
+            "Kandih neihlaa lev hymdaih guay ’maan the;",
+            "Ramh guayna kalaicna kim key ngam the,",
+            "He kalaih makmei pu, bam ’duanghlou o.",
+            "",
+            "3 Guangh guay Guangc kumc pingmei lwn phungh makna,",
+            "Guang o, zauzian lev tiigaymei phungcna;",
+            "Ryanra zaengsii bammei ta ’khavlou khang,",
+            "Guang o, paapc mei nunc Pam bam ’duanghlou o.",
+            "",
+            "4 Nang bam ’chamcmei kaganv ’thuic kahaw e,",
+            "Nang zauzian )}3 ’thiammei ngamv sw ’maan e;",
+            "Nang kumhmei nai cho, ata zayloumei?",
+            "Zingc nic gaanc nic ata bam ’duanghlou o.",
+            "",
+            "5 Nang lev bamna zauczihmei ta ping mak,",
+            "Sunumei, mikdui keymei ta ping mak;",
+            "Theihmei sat ’bui thangc, t’rou ngamv nic ’bui thangc?",
+            "Ai )}3 ngam ni, Nang bam ’duanghlou ethei.",
+            "",
+            "6 Amik tanguih key khou bam ’duanghlou o,",
+            "Zinghmei tiigaancna kauh chaeng dinclou o;",
+            "Tingkauh lauthwan pat, kandih zinghmei ’maan,",
+            "Theic nic ringc nic, Poubauhmei ’duanghlou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Abide with Me!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "10.10.10.10.",
+        "SS 297",
+        "H.F. Lyte",
+        "Abide with Me!",
+        "source hymn 403",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 403."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ata bam ’duanglou o zingc key",
+        "titleRongmei": "Ata bam ’duanglou o zingc key",
+        "titleEnglish": "Abide with Me!"
+      }
+    }
+  }
+}

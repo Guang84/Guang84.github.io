@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0415",
+    "number": 415,
+    "source": {
+      "printedNumber": 415,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E.G. Taylor",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.5.7.5.7.7.7.5.",
+      "tune": "SS 639"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaipouc ai Nang khou guang the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kaipouc, ai Nang khou guang the,",
+            "’Naa guang tuanc pw the;",
+            "Duppui bamv Nang swkaeng khou",
+            "Ai tingsaeng dup ni;",
+            "Paapc lev lwmsiimei pwanzingh",
+            "Akhou ranvna ’liu bam the;",
+            "’Khavlou o, ai rih ngam khang,",
+            "Kaipou, ’naa guang the!",
+            "",
+            "2 ’Naa guang the, he Pou, Taudaic,",
+            "Bumaengh duppui bamv;",
+            "Ping lak khe pwanzingh guang nic,",
+            "Dui kamuatc khou nic,",
+            "Pwanzingh ta ai ping lak khe,",
+            "Ata kabiu ngam mak ge,",
+            "Nang baancpwam khou",
+            "ngangvlouna,",
+            "Kaipouc, ’naa guang the!",
+            "",
+            "3 ’Naa guang the ’Khavloumei pu,",
+            "’Naa guang tuanc pw the;",
+            "Lungh niamhna ai saa ni the:",
+            "\"Pou, Nang nyng sw diu!\"",
+            "Ryanra chwnsii zaengsiimei,",
+            "Akhou Nang tii guang sihni,",
+            "Thay the zianpui zaeng ^&8 de,",
+            "Kaipouc, ’naa guang the!",
+            "",
+            "4 He Kaipouc, ai ’naa guang the,",
+            "He gaanhmei Ravguangc;",
+            "Guigaymei Nang Nac paan ^&8",
+            "Neihlaa chuzaengh the;",
+            "",
+            "Nang zianmei khou ai bam ni,",
+            "Nang daeng khou ata lou o,",
+            "’Kamhlou o, Taudaic lang khou,",
+            "Kaipouc, ’naa guang the!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Closer, Lord, to Thee",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "7.5.7.5.7.7.7.5.",
+        "SS 639",
+        "E.G. Taylor",
+        "Kaipouc biak liangc nimei thow",
+        "Closer, Lord, to Thee",
+        "source hymn 415",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 415."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaipouc ai Nang khou guang the",
+        "titleRongmei": "Kaipouc ai Nang khou guang the",
+        "titleEnglish": "Closer, Lord, to Thee"
+      }
+    }
+  }
+}

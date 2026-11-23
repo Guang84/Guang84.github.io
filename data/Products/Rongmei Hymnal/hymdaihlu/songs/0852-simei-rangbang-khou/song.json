@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0852",
+    "number": 852,
+    "source": {
+      "printedNumber": 852,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.10.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Simei rangbang khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Simei rangbang khou ai #!7 tat bam khou,",
+            "Heikhou tei neila gaipui chang phu ban khou;",
+            "Theimei duipang khou kalang khuan chuna,",
+            "Pingmei #!7 alung khou nai e.",
+            "",
+            "Chorus:",
+            "He Jisu ata jai guang lou o,",
+            "Poubaumei ai chang man na;",
+            "Mang tat bam khou.",
+            "",
+            "2. Pap tanmei suan mu theimei hei na de,",
+            "Ai#!7 theimei duipang khou pat ngammak;",
+            "Kum sini chang baimei mak poubaumei,",
+            "Kanloumeipu nang ta ning e.",
+            "",
+            "3. Tingkum heisan nangta gan lou sini,",
+            "Kagan kathui nang jian na jailou o;",
+            "Kabam kathui nang nade he Raguang,",
+            "Kandih khou thuanmei padik diu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "10.10.10.8.",
+        "Simei rangbang khou",
+        "source hymn 122",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 122."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Simei rangbang khou",
+        "titleRongmei": "Simei rangbang khou"
+      }
+    }
+  }
+}

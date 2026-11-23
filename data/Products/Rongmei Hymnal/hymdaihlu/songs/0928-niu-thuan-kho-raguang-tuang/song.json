@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0928",
+    "number": 928,
+    "source": {
+      "printedNumber": 928,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "12.9.12.9.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Niu thuan kho Raguang tuang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Niu thuankho Raguang tuang chrinmei kajaujian khang,",
+            "Tak makna gaklou bam puijang khang;",
+            "Agau rim kum niu thuanmei khuanni ku kandiu;",
+            "Kalum khang guang kaduai bam khouhei.",
+            "",
+            "Chorus:",
+            "Thuan dikho kalum kho,",
+            "Katuang tan guuai jang khang;",
+            "Karamgai karam gaklu din kho,",
+            "Agau rim kum niu thuanmei khuanni ku kandiu,",
+            "Kalum khang guang kaduai bam khou hei.",
+            "",
+            "2. Niu thuan kho kajaujian tuang chrinmeiKaipat tei,",
+            "Kamei ({0 niu khou lian loumei khang;",
+            "Jisu le madiatna kadam lacham pukhou,",
+            "Kabampang dang niuta jai guangni.",
+            "",
+            "3. Huainei kho kasuaihiam tak maknaTilou khang,",
+            "Niu changluan tigan lou bamdiu khang;",
+            "Kamei ({0 aniuta titui lou pui pan({0,",
+            "Niu bumang kaguangdih khou lungkhang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "12.9.12.9.",
+        "Niu thuan kho Raguang tuang",
+        "source hymn 198",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 198."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Niu thuan kho Raguang tuang",
+        "titleRongmei": "Niu thuan kho Raguang tuang"
+      }
+    }
+  }
+}

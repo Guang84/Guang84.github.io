@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-001",
+    "number": 1,
+    "source": {
+      "printedNumber": 1,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lum mak lang mei ning tou lana",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Lum mak lang mei ning tou lana.",
+            "Lung geina phu tat re theimu;",
+            "Kalvary khou tei hou puni.",
+            "Aniu khang rui thei lou meipu",
+            "Kanloumeipu ta.",
+            "",
+            "He guanga thuano khang loumei puta.",
+            "Rian ramei lat nzan luai na.",
+            "Kandimei nuan phung ngam kan the.",
+            "Zaukim makmei pu.",
+            "",
+            "2. Gaimak khang tei rana sulou.",
+            "Su kasih khang ningmei nun rui.",
+            "Roman rimei kheisi meirui,",
+            "Su kasi sihna su kan the.",
+            "Kanloumeipu ta.",
+            "3. Lu suan mei guay guang kariu o.",
+            "Poubaomei ta rak nduang khang.",
+            "Ruak naipui kam tei kao lana.",
+            "Ntam khang tei thuan ku dikho.",
+            "4. Pouta ning mei zing bang dak khou,",
+            "Kamei theimei ta houlana.",
+            "Mikdui luan laina kap meipui,",
+            "Ringthao dat mei tei hou lana,",
+            "Kap tan dat kan the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 1",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 1. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lum mak lang mei ning tou lana",
+        "titleRongmei": "Lum mak lang mei ning tou lana"
+      }
+    }
+  }
+}

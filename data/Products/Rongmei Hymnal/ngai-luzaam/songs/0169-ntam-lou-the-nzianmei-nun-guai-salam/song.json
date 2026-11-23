@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-169",
+    "number": 169,
+    "source": {
+      "printedNumber": 169,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "11.8.10.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ntam lou the nzianmei nun guai salam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ntam lou the nzian mei nun guai salam",
+            "Kandih munpuang guai tuai ngam the.",
+            "Lung gei mei le zaeng si mei hei mak na",
+            "Tat tho nzian mei nun guai le salam .",
+            "",
+            "Salam salam salam",
+            "Aniu rui dat mak san khang",
+            "Kaoram gaikhou bam cham puni",
+            "Tam mei nai dat lak khe salam.",
+            "",
+            "2. Zangsi rikho nzian mei nun lev salam",
+            "Pingmei le zaeng simei mak na",
+            "Kandi khou hei mei guai na ntam the,",
+            "Lung gei mei mak na ntam kandi kho.",
+            "",
+            "3. Tat tho arup zian mei nun tam kandi kho",
+            "Ntam dat mak na lung bam khang",
+            "Ravguangc khou aniu kalum bam dikho",
+            "Tamc mei nailak khe ting kao ramgai khou.",
+            "",
+            "4. Ntam khang nei pat biak thang nei patdat the,",
+            "Kandih khou ntam lou sini",
+            "Tingkao ram gaikhou guang tang pui nung kiu",
+            "Tam mei nailak khe nzian mei nun ta."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 169",
+        "Khristian Luzaam PDF",
+        "Chord: E",
+        "Meta 3: 11.8.10.10."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 169. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 107,
+        "match": "title-match-0.97"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ntam lou the nzianmei nun guai salam",
+        "titleRongmei": "Ntam lou the nzianmei nun guai salam"
+      }
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0670",
+    "number": 670,
+    "source": {
+      "printedNumber": 670,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William Witting (Adapted)",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "Melita 8.8.8. D.",
+      "tune": "HLC 2"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ngamp’rymeipu gaeklou ngammei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ngamp’rymei Pu, gaeklou ngammei,",
+            "Duiluat guay ta khaam ngammei pu,",
+            "Daihmei duipuisyng ’thukmei ta,",
+            "Kanganv, kathukh riatloumei pu,",
+            "Duipui khou ’gyn bammei nunc ta,",
+            "Siimei guay khou $%6 gaeklou o.",
+            "",
+            "2 He chyng ’zaengc guay Kaipou Ravguangc,",
+            "’Niw ’gyn phaylaanna tat pwkhou,",
+            "Chyng, ’zaengc khow ’tauh ram kathuic khou,",
+            "Nang nac nunc tatpui bamv ’thuic khou,",
+            "Nang baancpwam $%6 gaeklou na ro,",
+            "Kabiu nuhmei kathuic khou $%6.",
+            "3 He Pu $%6 thoucloumei Bumaengc,",
+            "Tingpuk laamv ’tyng khang keymei pu,",
+            "He tingkauh pwan Nang nac nunc $%6",
+            "Samcna tat pwkhou gaeklou o;",
+            "Tingpuk laan khou kabiu nuhmei,",
+            "Kaguay khou $%6 gaek duaklou o.",
+            "",
+            "4 He Gaanv Thumh khat swmei Ravguangc,",
+            "Nang nac nunc tatpui bamv ’thuic khou",
+            "Thing-’tauh, dui-mai lev howmumei",
+            "Kaguay khou $%6 gaekduaklou o;",
+            "Nang ta thuanhmei khwan kauc thau diu,",
+            "Tingpuk, kandih, duipui khou $%6."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Almighty Father, Strong to Save",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "Melita 8.8.8. D.",
+        "HLC 2",
+        "William Witting (Adapted)",
+        "Almighty Father, Strong to Save",
+        "source hymn 670",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 670."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ngamp’rymeipu gaeklou ngammei",
+        "titleRongmei": "Ngamp’rymeipu gaeklou ngammei",
+        "titleEnglish": "Almighty Father, Strong to Save"
+      }
+    }
+  }
+}

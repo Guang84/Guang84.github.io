@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-114",
+    "number": 114,
+    "source": {
+      "printedNumber": 114,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandi champan guay ntam nimei hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih chamv pan guay, ntam nimei hei..",
+            "Tingmik kathan pat dat the tat khuan tho.",
+            "",
+            "2. Hei kandi khou hei, lung kiang lou khang mak",
+            "Tingmik kathui simei rui gum liam e.",
+            "",
+            "3. Nei khat neila lu, tei suan cham sini..",
+            "Munpuang tuai mei tei kumna tuai nuang e.",
+            "",
+            "4. Ntam nimei hei, kandi zaeng si e",
+            "Ram le thing nui chung ngam the guang ..dat ro.",
+            "",
+            "5. Kaoram gaikhou tei, ntam mei mak ge",
+            "Khou tei ariu dat khang rui tam ..lou the.",
+            "",
+            "6. Kandi rukhou hei, ban thai khang makge,",
+            "Munpuang tuai mei hei kumna tuai ..nuang e.",
+            "",
+            "7. Nzianmei guai ta, ntam bam sini..",
+            "Tingkao ram gai khou khuan bam pu..ni ye."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 114",
+        "Khristian Luzaam PDF",
+        "Chord: D",
+        "Meta 3: 10.10."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 114. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 108,
+        "match": "title-match-0.93"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandi champan guay ntam nimei hei",
+        "titleRongmei": "Kandi champan guay ntam nimei hei"
+      }
+    }
+  }
+}

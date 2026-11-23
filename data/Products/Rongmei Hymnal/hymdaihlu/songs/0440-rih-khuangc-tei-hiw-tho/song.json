@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0440",
+    "number": 440,
+    "source": {
+      "printedNumber": 440,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William F. Sherwin",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.8.10.9. Ref.",
+      "tune": "SS 703"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Rih khuangc tei hiw tho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Rihkhuangc 2^< hiw tho, zauczihmei guang the!",
+            "Kaipouc khang chuanghphey zay kauh tho!",
+            "Nang ricpwan piu tho, meic guay chamdaanv tho,",
+            "Kalat ’thanmei khou nang ngangvlou tho.",
+            "",
+            "Thau tho, rihmei!",
+            "Chuanghphey bangc khou guang tho!",
+            "Chamdaanv tho, nang dyng kalyng chuy tho;",
+            "Hu thangc gut tho! Hosanna kauc ranvna;",
+            "Rih kangdai rihpi kiu Khrista e!",
+            "",
+            "2 Zauczihmei ta ngam khang baucna gut kho,",
+            "Thay e, aniu ngam puni de;",
+            "N-gih lev chuanghphey sinna ‘dow bam khou",
+            "Aniu zawsiimei nai zat lak ge!",
+            "",
+            "3 He meic guay Racguangc,huaymei chulou o;",
+            "Nang zauzian paan !}2 ’khavlou o;",
+            "Rih hei luai lana rih ngam guang pwkhou",
+            "Nang hu khou ’niw swan pyrun run ni!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Sound the Battle Cry",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "10.8.10.9. Ref.",
+        "SS 703",
+        "William F. Sherwin",
+        "Sound the Battle Cry",
+        "source hymn 440",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 440."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Rih khuangc tei hiw tho",
+        "titleRongmei": "Rih khuangc tei hiw tho",
+        "titleEnglish": "Sound the Battle Cry"
+      }
+    }
+  }
+}

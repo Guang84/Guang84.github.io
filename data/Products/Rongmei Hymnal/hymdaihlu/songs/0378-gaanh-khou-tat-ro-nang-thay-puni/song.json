@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0378",
+    "number": 378,
+    "source": {
+      "printedNumber": 378,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Bernard D. Barton",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.6.8.6.",
+      "tune": "CW 479"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gaanh khou tat ro nang thay puni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Gaanh khou tat ro nang thay puni!",
+            "Zianmei kadam laamei;",
+            "Kabumaengc na ^&8 tii ngam e,",
+            "Kauh thangc bammei Pu ^&8.",
+            "",
+            "2 Gaanh khou tat ro, nang laa tow ni,",
+            "Kalung lev tamzuanmei;",
+            "Kamei gaanhmei kai khou bam e,",
+            "Kakhou zinghmei maek ge.",
+            "",
+            "3 Gaanh khou tat ro, nang khang sw ni,",
+            "Zinghmei hac gancloumei;",
+            "Kalaanv gaanhriw ’thuihmei 8^& ^&8",
+            "Nang khou souc gaanclou the.",
+            "",
+            "4 Gaanh khou tat ro, nang chu puni,",
+            "Sauhding khou gaanhmei chamv,",
+            "Ravguangc nang khou lungclou puni,",
+            "Kamei hei gaanhmei e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Walk in the Light!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "3/4",
+        "8.6.8.6.",
+        "CW 479",
+        "Bernard D. Barton",
+        "Walk in the Light!",
+        "source hymn 378",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 378."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gaanh khou tat ro nang thay puni",
+        "titleRongmei": "Gaanh khou tat ro nang thay puni",
+        "titleEnglish": "Walk in the Light!"
+      }
+    }
+  }
+}

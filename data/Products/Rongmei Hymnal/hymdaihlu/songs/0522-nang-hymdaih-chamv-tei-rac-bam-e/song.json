@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0522",
+    "number": 522,
+    "source": {
+      "printedNumber": 522,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John Newton",
+      "composer": null,
+      "arranger": null,
+      "chord": "Fb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. D.",
+      "tune": "CW 431"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang hymdaih chamv tei rac bam e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang hymdaih chamv 8^& rac bam e,",
+            "He Zion, Ravguangc kaidai;",
+            "Kalat kai dat makmei pu ^&8",
+            "Kalwng bamv khang swlou the;",
+            "Tingsaeng Taudaic khou suamclou the,",
+            "Tabui ^&8 kanuk ngam cho?",
+            "Ringhbamv ngaengsaengc ^&8 raengc ’kuay e,",
+            "Zauczihmei ta ping khang maek.",
+            "",
+            "2 Zauc lo, ringhmei duiriang guay 8^&,",
+            "Tingsaeng zianmei zeic khou ^&8",
+            "Kanac nunc khang luangc liklou e,",
+            "Mpun-alun ta ping mak;",
+            "Hei kumhmei duithuak luangc bam khou",
+            "Thow 8^& t’ri dat khang nai cho?",
+            "Tiimei pu kumc Kazauzian hei",
+            "Zuk zuk khou suai zat mak ge.",
+            "",
+            "3 ’Niu lunghpui bamv ’thuic bam haengvna,",
+            "Muangh lev maibwang ta zauc lo;",
+            "Ravguangc Nac bammei ta lyan e,",
+            "Kahym ^&8 hwam bin bam e;",
+            "Nang hym daih chamv 8^& rac bam e,",
+            "He Zion, Ravguangc kaidai,",
+            "Kalat kalaic makmei pu ^&8",
+            "Kalwng bamv khang swlou e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Glorious things of Thee are Spoken",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Fb",
+        "4/4",
+        "8.7.8.7. D.",
+        "CW 431",
+        "John Newton",
+        "Glorious things of Thee are Spoken",
+        "source hymn 522",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 522."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang hymdaih chamv tei rac bam e",
+        "titleRongmei": "Nang hymdaih chamv tei rac bam e",
+        "titleEnglish": "Glorious things of Thee are Spoken"
+      }
+    }
+  }
+}

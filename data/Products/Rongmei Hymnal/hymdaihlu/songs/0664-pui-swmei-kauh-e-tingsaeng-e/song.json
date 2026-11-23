@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0664",
+    "number": 664,
+    "source": {
+      "printedNumber": 664,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J.S.Cultler",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. D.",
+      "tune": "CW 604"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pui swmei kauh e, tingsaeng e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Pui swmei, kauh e, tingsaeng e,",
+            "Ravguangc ’zianmei chwn khou nai;",
+            "Tingsaengzaeng ’niw ta pamclou o,",
+            "’Niw ta kaduaph liamlou o;",
+            "Khaengvsaengc, ’zianthay, kuaklou thay e,",
+            "’Niw chaengmaanv guang tisihni;",
+            "’Zaenghna luh e, chaeng dinclou e,",
+            "Zianna kai ’duangh guanglou e.",
+            "",
+            "2 Laanhmei kathuic tii ’twnlou e,",
+            "Siimei khei guay laa ganclou;",
+            "’Chumhmei, ’twnmei latzan swlou,",
+            "Gay ranvmei khou zaylou e,",
+            "Pui _>6 kanac nunc ta kawna,",
+            "Bow pwkhou puanc thaulou e,",
+            "Kaniw ta kapuih chuylou e,",
+            "Pui ramzian _>6 gungclou e.",
+            "",
+            "3 Ravguangc zianmei e,",
+            "tingsaeng khang,",
+            "Pui ramzian ta suaihiamlou;",
+            "Nai tingswang e, tanc liang bam e,",
+            "Baihmei ramzian ta rii e!",
+            "Pumtan, ningting paan _>6 hamh e,",
+            "’Niu ta zay thauloumei hei;",
+            "Pui ramzian _>6 ramh guay swlou,",
+            "Pui lungning Ravguangc khou nai. Amen."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "8.7.8.7. D.",
+        "CW 604",
+        "J.S.Cultler",
+        "Motherhood, Sublime, Eternal",
+        "source hymn 664",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 664."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pui swmei kauh e, tingsaeng e",
+        "titleRongmei": "Pui swmei kauh e, tingsaeng e"
+      }
+    }
+  }
+}

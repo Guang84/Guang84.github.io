@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-169",
+    "number": 169,
+    "source": {
+      "printedNumber": 169,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khrista Zanc khou Nangniw Dwan-gaymei e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          169 Khrista Zanc Khou Nangniw Dwan-gaymei e",
+            "                       11.10.10. 11. Ref. 6. 6. 6. 6",
+            "",
+            "          1. Khrista zanc khou nangniw dwan-gaymei e;",
+            "             Guang kariumei hei Khrista paan rui e;",
+            "             Tingsaeng zaeng ringh khang kata lwmlou o;",
+            "             Nangniw Ravguangc nac swmei adih kamv gay!",
+            "",
+            "                  Ravguangc Lat nking khang,",
+            "                  Guang o nangniw meic guay.",
+            "                  Kamei Khrista kiu e;",
+            "                  Kamei ringhbamv kiu e.",
+            "",
+            "          2. Nthuanh panty ta nang thay dina cho?",
+            "             Khrista guang nimei kiu nang thayna cho?",
+            "             Nthuanh twna saa khang kaganv maek khe;",
+            "             Ntaw twmei hei nang khang kaganv di the.",
+            "",
+            "          3. Lungh laic nimei kaganv kiu guang pwthe;",
+            "             Khrista guang nimei kiu nic 'naa guang the.",
+            "             Lungh laic tho twna Khrista rui kaw bam;",
+            "             Kamei key khang chaengmun khou dingna bam the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khrista Zanc khou Nangniw Dwan-gaymei e"
+      }
+    }
+  }
+}

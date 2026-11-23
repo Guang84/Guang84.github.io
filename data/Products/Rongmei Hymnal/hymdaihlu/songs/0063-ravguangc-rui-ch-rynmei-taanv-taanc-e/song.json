@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0063",
+    "number": 63,
+    "source": {
+      "printedNumber": 63,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William Cowper",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "C.M. HLC 47",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc rui ch’rynmei taanv taanc e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc {:1 ch’rynmei taanv taanc e,",
+            "Kadath datmei thiak khou;",
+            "Duipui ta kaphaygim sw e;",
+            "Pwanzingh khou tuangc tat re.",
+            "",
+            "2 Ping tanhmei nunc, diw sii bam rio,",
+            "Muanghbangv ta rouh bam riu,",
+            "Zauzian padikmei muangcbangv de,",
+            "Suaihiam phungc guang puni.",
+            "",
+            "3 Ravguangc ta nang cham khou ning riu,",
+            "Kazauzian ta lwm o,",
+            "Kaipouc nuic rimh rimna bam de,",
+            "Tamzinghmei guay paengc thangc.",
+            "",
+            "4 Katuang raeng guay guang tangc puni,",
+            "Khith khitna lyan puni,",
+            "Kazik 1<: nkhuc bam sihni",
+            "Kapwang namh gay puni.",
+            "",
+            "5 Lwm makmei thu chaeng tatmaanv e,",
+            "Rav taanv ta how pat mak,",
+            "Ravguangc Kataanv lyan puni de,",
+            "Meic guay how puni de."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "3 God Moves in a Mysterious Way",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "C.M. HLC 47",
+        "William Cowper",
+        "3 God Moves in a Mysterious Way",
+        "source hymn 63",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 63."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc rui ch’rynmei taanv taanc e",
+        "titleRongmei": "Ravguangc rui ch’rynmei taanv taanc e",
+        "titleEnglish": "3 God Moves in a Mysterious Way"
+      }
+    }
+  }
+}

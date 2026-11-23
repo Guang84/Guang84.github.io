@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0389",
+    "number": 389,
+    "source": {
+      "printedNumber": 389,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "C.D. Martin",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "3 Alex 2"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang chwn karum bam zat rio de",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang chwn karum bam zat rio de,",
+            "Tabui bui guang .. sihni;",
+            "Zianpui swkaeng bangc khou bam o,",
+            "Ravguangc kadan .. lou ni!",
+            "",
+            "Rav .. guangc .. kadan .. lou ni!",
+            "Tingmik kathuic .. chaeng kathuic khou,",
+            "Ka .. mei .. kadan .. lou ni!",
+            "Ravguangc kadan .. lou ni!",
+            "",
+            "2 Ryanra khou lungning ’suan pwkhou,",
+            "Ravguangc kadan .. lou ni!",
+            "Nang chaeng khou theih chaengkhaek nai khou,",
+            "Ravguangc kadan .. lou ni!",
+            "",
+            "3 Nang kahawmei Kamei tii ni,",
+            "Ravguangc kadan .. lou ni!",
+            "Nang neymei guay tiilou puni,",
+            "Ravguangc kadan .. lou ni!",
+            "",
+            "4 Nang pammei guay lev bam phakna,",
+            "Nang raana bam .. sii khou,",
+            "Lungh kabiumei tii ’chulou ni!",
+            "Ravguangc kadan .. lou ni!",
+            "",
+            "5 Tabui ’bui tuang pat pw sihni,",
+            "Ravguangc kadan .. lou ni!",
+            "Lakmei, Kangaengv khou ngangvlou tho,",
+            "Ravguangc kadan .. lou ni!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Be Not Dismayed",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "6/8",
+        "8.6.8.6. Ref.",
+        "3 Alex 2",
+        "C.D. Martin",
+        "RAVGUANGC KADANLOU NI",
+        "Be Not Dismayed",
+        "source hymn 389",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 389."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang chwn karum bam zat rio de",
+        "titleRongmei": "Nang chwn karum bam zat rio de",
+        "titleEnglish": "Be Not Dismayed"
+      }
+    }
+  }
+}

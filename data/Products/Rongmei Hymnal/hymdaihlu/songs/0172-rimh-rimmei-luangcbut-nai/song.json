@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0172",
+    "number": 172,
+    "source": {
+      "printedNumber": 172,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Dr. R.Carradine",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "12.9.D. Ref.",
+      "tune": "RS 82"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Rimh rimmei luangcbut nai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Rimh rimmei luangcbut nai, duc sihmei kandih thangc,",
+            "Duipui paengc thangc naimei kandic khou;",
+            "Heipui luangcbut thangc 0({ gaanv khat ’zwan tat kan the,",
+            "Nang khang, akhang, dihmei khang theih khang.",
+            "",
+            "Lungning khou makumh ’ki akhaengv kancpui thiak 0({,",
+            "Lungchwn khou howna mikdui key e;",
+            "Ryanramei akhaengvna Pou Jisu theiclou the,",
+            "Ai kumhmei nwan phunghmei ta thuaklou khang.",
+            "",
+            "2 Zauc lo, ngam lak sihna dih paap puatrith phungcna,",
+            "Sauh pyrun runmei pu tatpat the,",
+            "’Ritmei kros 0({ phungcna ’bum keyna, ryanrana,",
+            "Kalvari luangcbut thangc ku kan the.",
+            "",
+            "3 Nking o, ai chu the, zotpi hianmei khwan 0({,",
+            "Pou ta kros khou hianbinna bam the;",
+            "Meic guay ({0 zauc bam khou kalvari Lauziu Nac,",
+            "Kros 0({ kaniw ({0 zaythau kan the.",
+            "",
+            "4 Theihthiu laa bam khou nganv Kaipouc ta sinnui e,",
+            "Kamei nunc zaengsiina kap bam khou;",
+            "Heidi ryanra sihni Kakhwan karing pat mak,",
+            "Diwsiimei rimh rimmei luangcbut khou.",
+            "",
+            "5 Neihriw nic zingc tan diu, baengla nic zay tan diu,",
+            "Gumeipu ta swluaimei nunc khou;",
+            "’Ki zauc lo, t’rou khou ({0 Ravguangc Lauziu Nac 0({,",
+            "Guang the, theic lana ringcthau kan the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "There’s a Hill Lane and Grey",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "3/4",
+        "12.9.D. Ref.",
+        "RS 82",
+        "Dr. R.Carradine",
+        "There’s a Hill Lane and Grey",
+        "source hymn 172",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 172."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Rimh rimmei luangcbut nai",
+        "titleRongmei": "Rimh rimmei luangcbut nai",
+        "titleEnglish": "There’s a Hill Lane and Grey"
+      }
+    }
+  }
+}

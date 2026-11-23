@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-114",
+    "number": 114,
+    "source": {
+      "printedNumber": 114,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaipou Khrista rui Dincloumei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          114     Kaipouc Khrista rui Dincloumei",
+            "                             8.6.8.8.Ref. 9.5.9.8.9",
+            "",
+            "          1. Kaipouc Khrista rui dincloumei,",
+            "             Bumaengh khuanguangmei khang,",
+            "             Katuang swan gaymei phungc lana,",
+            "             Nzanhlou khang guang pwni the.",
+            "",
+            "                  O, maan ngam ni the bumaengh guay hei,",
+            "                  Tat lana zauc lo,",
+            "                  Chaeng maanvna bammei ta gulou o,",
+            "                  Kaipouc ruina kadylou e,",
+            "                  Tingsaeng ringhmei cham tei dincruanlou o.",
+            "",
+            "          2. Tingsaeng ringc nimei latchamv tei,",
+            "             Chu makmei nic nai e;",
+            "             Nwmding zinghpui bamv khou tatna",
+            "             Pingna bammei ta gulou o.",
+            "",
+            "          3. Thei han lana nkamh bammei,",
+            "             Nang bumaengc kap bam e,",
+            "             Bumaengh khuammei swna lungh khang,",
+            "             Kawna bam the ngalancguang o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaipou Khrista rui Dincloumei"
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-009",
+    "number": 9,
+    "source": {
+      "printedNumber": 9,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.8.10",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih mun gai aniu khou puang mei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandi mun gai aniu khou puang mei",
+            "Timaan lou o zingpui bam khou hei.",
+            "Zingmei ruina achaeng maan the",
+            "Zauzian loupui bam jordan paeng khou hei.",
+            "",
+            "Ata nduang lou o.",
+            "Rianrapui ram zing mei khou hei,",
+            "Ata nduang lou o, Immanual Guang jisu.",
+            "",
+            "2. Kandi khou lik kandiu Guangh jisu",
+            "Nzianlou mei nang lat gaimei hei,",
+            "Nangzan nthan mei thuan ku khang,",
+            "Ting mik thui tithai o kalvary lat.",
+            "",
+            "3. Zianmei nun tampui bam kandi hei,",
+            "Kapma huai bam e kanlou meipu.",
+            "Thukpui zei rui kanloumei guay.",
+            "Tingkao mun gai neihlana guang datro.",
+            "",
+            "4. Guang jisu ganphiu gan gaimei Pu.",
+            "Gan guang datro alung zing mei khou.",
+            "Zingpui ram khou bam mei guai ta.",
+            "Ganlou datna nang rui zai guang datro."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 9",
+        "Khristian Luzaam PDF",
+        "Chord: A",
+        "Meta 3: 9.9.8.10"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 9. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 9,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih mun gai aniu khou puang mei",
+        "titleRongmei": "Kandih mun gai aniu khou puang mei"
+      }
+    }
+  }
+}

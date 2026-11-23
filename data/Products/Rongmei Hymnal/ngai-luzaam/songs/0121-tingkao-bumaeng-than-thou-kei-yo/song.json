@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-121",
+    "number": 121,
+    "source": {
+      "printedNumber": 121,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkao bumaeng than thou kei yo",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Tingkao bumaeng than thou kei o,",
+            "Guangc bamlou o aniu pang khou,",
+            "Nchiang thao lou datro ziprii mei ta,",
+            "Kaganv taekmak nga bamlou o.",
+            "",
+            "He! Aniu ning e tingkao than mei",
+            "Nang rui ramc thei chaeng tatmaan ngam ni the;",
+            "Zailou o gaanphiu gaanmei ram zion khou,",
+            "Nang ram than gaimei khou.",
+            "",
+            "2. Ning zau lo ! kamei thuak lou mei",
+            "Ring chaeng thai mak mei nun khang ,",
+            "Nang rui thuak lou mei thai ngam mei hei",
+            "He! Pou bui kum sulou ni cho?",
+            "",
+            "3. Tingkao than mei nang bam e thei,",
+            "Kandih mei guai duanc gaini,",
+            "Kandi simei pap rii adou sini",
+            "Nang zan thuan pui lu suan bam ni.",
+            "",
+            "4. Gui gaipou jisu guang dat ro,",
+            "Rianra na nang khang lou mei ;",
+            "Dih tat ni nang saopirun run mei lam,",
+            "Charinmei nang ram rianra guai tei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 121",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 121. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkao bumaeng than thou kei yo",
+        "titleRongmei": "Tingkao bumaeng than thou kei yo"
+      }
+    }
+  }
+}

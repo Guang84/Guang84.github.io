@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-043",
+    "number": 43,
+    "source": {
+      "printedNumber": 43,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gaanhmei Chaeng khou Tatna Bammei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          43 Gaanhmei Chaeng khou Tatna Bammei",
+            "                        8.10. 10. 8 10.Ref.6. 6. 6. 6.7. 14",
+            "",
+            "          1. Gaanhmei chaeng khou tatna bammei,",
+            "             Nang bumaengc ringhmei tei laatow diu khang,",
+            "             Nang lungning khou Abumaengc lungclou the,",
+            "             Nang khou Ariw tigaanclou the.",
+            "             Cross tei phungcna dinc tat khang nuhlou the.",
+            "",
+            "                  Cross tei zaucna tat ro;",
+            "                  Chaeng sw 'thanlou pwni.",
+            "                  Nang phaykaamv kathuih khou,",
+            "                  Chaeng dinclou pwni e.",
+            "                  Lwmmei nggic phungc tat ro;",
+            "                  Alat rui thandibaeng swna rih tei adow tat ro.",
+            "",
+            "          2. Ping riu, rouh riu baucna tat ro.",
+            "             Nang sian kamc 'tipna hu thangc tatgut ro.",
+            "             Zinghmei bamv khou zipri bammei guay khou,",
+            "             Gaanhmei riw rui chaeng tigaanclou.",
+            "             Nang latdyn guay khou nkhavlou pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gaanhmei Chaeng khou Tatna Bammei"
+      }
+    }
+  }
+}

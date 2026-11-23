@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0758",
+    "number": 758,
+    "source": {
+      "printedNumber": 758,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "12.9.10.8.6",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Bumang thanmei mai le muang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Bumang thanmei mai le muang rui jailoumeipu,",
+            "Guang Immanuel na guang dat ro;",
+            "Numbang jingpui chang khou tat bam khou hei,",
+            "Ganguang dat ro tingkau ganphiuGan gailiangmei pu rui.",
+            "",
+            "Chorus:",
+            "He kau ganphiu (2) gaimei,",
+            "Kanloumeipu le guang dailiangmei pu nang e;",
+            "Rianramei rui rih kum ma dai guang pu sini,",
+            "Ringmei Raguang khou tingsangjang bam ni.",
+            "",
+            "2. Nthukpui changmun kai kham lanlou pui kan khou,",
+            "Kachak namdai gaimei khou gut ni,",
+            "Pap jang khou rui rianra loumei guai 7#@,",
+            "Katik gun daimei ramGuang tang pukhou puang lou puni.",
+            "",
+            "3. Lujiu Nah daimei neikei dat mak pui ram khou,",
+            "Jianmei nun rui kandih ning dat mak;",
+            "Laujiu Nah tikgun daimei thuan ku o,",
+            "Ringmei thingbang lim khou,",
+            "Nphuanmei phei banna bamni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "12.9.10.8.6",
+        "Bumang thanmei mai le muang",
+        "source hymn 28",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 28."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Bumang thanmei mai le muang",
+        "titleRongmei": "Bumang thanmei mai le muang"
+      }
+    }
+  }
+}

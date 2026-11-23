@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-240",
+    "number": 240,
+    "source": {
+      "printedNumber": 240,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aram Duithanzaeng kaomei hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Aram Duithanzaeng kao mei hei ,",
+            "1956 Khou lung thao e,",
+            "Poupei kinc khou muh aramv hei ,",
+            "Khouring khou-nah kailuang sw khuan ne.",
+            "",
+            "Nzianne aramv mei naah thiu,",
+            "Ai ningbam mei guang dat khang ,",
+            "Zian ne zian ne arupmei ,",
+            "Ziangri guang salam sudat ngam mak.",
+            "",
+            "2. Charin ne raguang ram dam hei ,",
+            "Kagui gai e aram Duithanzeang,",
+            "Ravguangc rui suaihiam lou pui ram",
+            "Tingsaeng nga thuan diu Ravguangc zan ta.",
+            "",
+            "3. Nampaanc thang rui phaeng guang zau ki,",
+            "Gailiang e aram hei namluang khou",
+            "Munbang ching ching rui thao padik",
+            "Mun rimv rui kaphanc su aramv ta.",
+            "",
+            "4. Chabuanc kin azu guay rui na.",
+            "Neihlaa tarina lung bam khuan ne,",
+            "Meikin azuh lungthao pui ramv",
+            "Nchu nzaeng na lung bam khuan ne."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 240",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 240. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aram Duithanzaeng kaomei hei",
+        "titleRongmei": "Aram Duithanzaeng kaomei hei"
+      }
+    }
+  }
+}

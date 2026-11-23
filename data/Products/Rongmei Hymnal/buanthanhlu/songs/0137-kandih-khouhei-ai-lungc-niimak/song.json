@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-137",
+    "number": 137,
+    "source": {
+      "printedNumber": 137,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih Khouhei Ai Lungc Niimak",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          137 Kandih Khouhei Ai Lungc Nii mak",
+            "                             8.6.8.7.Ref. 10.9. 10.6",
+            "",
+            "          1. Kandih khouhei ai lungc niimak,",
+            "             He Ravguangc Nang hamhna,",
+            "             Tingmik thuih ata duanghlou o,",
+            "             Ata 'patlou rio Ravguangc.",
+            "",
+            "                        Jisu na de ata 'zianlou nimei,",
+            "                        'Thiammei khourui ata gulou o.",
+            "                        Jisu na de ata 'zianlou nimei,",
+            "                        Ch'ryn e nang ramzian hei.",
+            "",
+            "          2. Kandih khou ai lungc niimak ge,",
+            "             Ai neihlaa khang maek ge;",
+            "             Jisu na de lungh neihlaa khang,",
+            "             Akhang sw ni the Ravguangc hei.",
+            "",
+            "          3. Alung rui Nang ta thuanc bam ni,",
+            "             Abumaengc hei nang khang,",
+            "             He Ravguangc ai Nang khang sw ni;",
+            "             Apanty hei Nang khang dithe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih Khouhei Ai Lungc Niimak"
+      }
+    }
+  }
+}

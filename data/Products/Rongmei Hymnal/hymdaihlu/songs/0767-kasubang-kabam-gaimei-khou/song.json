@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0767",
+    "number": 767,
+    "source": {
+      "printedNumber": 767,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.9.8.",
+      "tune": "Psalms 91:4"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kasubang kabam gaimei khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kasubang kabam gaimei khou,",
+            "Kanloumei guai banthai puni;",
+            "Kaniu guai 6$% tingsang ringmei la",
+            "Pui kan khou neila puni the.",
+            "",
+            "Chorus:",
+            "Lung puni lungsuang puni the,",
+            "Poubaumei jaojian 6$% thuanna;",
+            "Tingsangjang neila bampuni the,",
+            "Kasubang kabam gaimei khou.",
+            "",
+            "2. Kasubang mang bam gaimei khou,",
+            "Kapmei rianramei nai lakkhe;",
+            "Simei le nthiampui rih daimei,",
+            "Mak ge namdai gaimei khou 6$%.",
+            "",
+            "3. Kasubang mang bam gaimei khou,",
+            "Rianra rianriu mei nai lakkhe;",
+            "Ringmei duikhun khou dui lou puni,",
+            "Gun nphuanmei suang nphuan ni.",
+            "",
+            "4. He’ hei khou 6$% bammei guai 6$%,",
+            "Kandih rianramei khang lakkhe,",
+            "Tingkau ram gaimei 6$% lapuni,",
+            "Tingkau rang guai hang puni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "8.8.9.8.",
+        "Psalms 91:4",
+        "Kasubang kabam gaimei khou",
+        "source hymn 37",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 37."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kasubang kabam gaimei khou",
+        "titleRongmei": "Kasubang kabam gaimei khou"
+      }
+    }
+  }
+}

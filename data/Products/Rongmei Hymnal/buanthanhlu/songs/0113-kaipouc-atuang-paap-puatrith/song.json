@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-113",
+    "number": 113,
+    "source": {
+      "printedNumber": 113,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaipouc Atuang Paap Puatrith",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          113     Kaipouc Atuang Paap Puatrith",
+            "                           12..8.8.6. Ref. 1 1. 11. 12.8.6",
+            "",
+            "          1. Kaipouc atuang paap puatrith kaguayna ti hei.",
+            "             Ai phungc ngammak 'rit langvmei rui.",
+            "             Bowkey pwkhou 'bui tuang sw ni;",
+            "             Ryanraamei khaengv ngammak.",
+            "",
+            "                     Ai rui huayneymei chulou o Poubauhmei.",
+            "                     Mik nic how mak ge ai ryanraamei ruina.",
+            "                     Mbaanv apanty heirui taniang guanh sihnic,",
+            "                     Abumaengc ta Nang rui damclou.",
+            "                     Nang laalou dat pw o.",
+            "",
+            "          2. Apaap guay ta ningtow pwkhou ai ning ngammak.",
+            "             Ai saa ngammak apaap guay ta.",
+            "             Kaipouc Nang khang gaymei taanv tei,",
+            "             Ai taanclou dat nii e.",
+            "",
+            "          3. Apanty khou neihlaa chuzaenghna lungc ethei,",
+            "             Kaganv gaymei hei nai bam khou:",
+            "             Ai rui phu e ringhmei chaeng tei,",
+            "             Akhou nang dinclou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaipouc Atuang Paap Puatrith"
+      }
+    }
+  }
+}

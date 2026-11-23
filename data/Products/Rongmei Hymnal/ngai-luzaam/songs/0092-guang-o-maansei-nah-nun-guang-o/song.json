@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-092",
+    "number": 92,
+    "source": {
+      "printedNumber": 92,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.7.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guang o maansei nah nun guang o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Guang o man sei nah nun guangc o,",
+            "Damlou meipu Ravguangc khou,",
+            "Lat hei gaipui ring pui latre,",
+            "Ai phung guang the guang king o.",
+            "",
+            "Heina de gaimei ring pui lat",
+            "Heina de bumang ring khang mu;",
+            "Raguang nah jisu khrista hei,",
+            "Aniu khang rui tilou the.",
+            "",
+            "2. Mundan rav khang napkao ngai mei",
+            "Gan ngam mo kapum ma tei;",
+            "Hei tei gai khang gang khang mak ge,",
+            "Hei tei maan tuang e nang khang.",
+            "",
+            "3. Latzan sukhang ting mik na the.",
+            "Katum ma lung lai la tho,",
+            "Panti tingmik hei luai pukhou,",
+            "Guang puni latzan ting mik,",
+            "",
+            "4. Latzan su khou khuai mak khang mu",
+            "Jisu khou gut mei hei de",
+            "Hei ram ma baimei chang mak khe,",
+            "Jisu nade ring khang mu.",
+            "",
+            "5. Kei puni kaguang khrista tei,",
+            "Tingkao than mei nun goi le",
+            "Bumaeng kapum khuam kariu na",
+            "Latzan suni kapum ta."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 92",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 8.7.8.7."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 92. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 92,
+        "match": "title-match-0.92"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guang o maansei nah nun guang o",
+        "titleRongmei": "Guang o maansei nah nun guang o"
+      }
+    }
+  }
+}

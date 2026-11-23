@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0068",
+    "number": 68,
+    "source": {
+      "printedNumber": 68,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J.W.Peterson and A.B.Smith",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "Irreg. Ref.",
+      "tune": "HLC 49"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai ginpu khat swna maeng bam",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai ginpu khat swna maeng bam khwan e,",
+            "Tingsikmei, zinghmei paapc zingbangc khou,",
+            "Jisu @{4 ata phutow khwan e,",
+            "’Taw thu ai kai ’zwan bam di the.",
+            "",
+            "",
+            "Nang ramgai, Nang ramzian @{4 lamluai bam ni,",
+            "Apanty, aringcting nai bam saanv. (2)",
+            "",
+            "2 Ai lak pwkhou achaengc tiiringclou e,",
+            "Tingmik ’thuic khang pumtan tiilou e;",
+            "Chunghmei dui khou ata zaylou e,",
+            "Aphaykaamv ’thuic makavlou e.",
+            "",
+            "3 Chwn karummei nzaengc ai tat kaan khou,",
+            "Gumeipu @{4 ai lev tat ’chamc ni;",
+            "Kabaanc @{4 ata zay guang tangc ni,",
+            "Akhang chamdaanvloumei kai khou.",
+            "",
+            "Coda:",
+            "Ringhpouc kai khou ai lungc",
+            "bam puni the,tingsaengzaeng",
+            "Chamdaanvloumei taektw guay ai tu bam ni;",
+            "Nang ramgai, Nang ramzian @{4 lamluai bam ni,",
+            "Apanty, aringcting nai bam saanv.",
+            "Apanty, aringcting nai bam saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A Pilgrim Was I and A-wandering",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "Irreg. Ref.",
+        "HLC 49",
+        "J.W.Peterson and A.B.Smith",
+        "NANG RAMGAI, NANG RAMZIAN",
+        "A Pilgrim Was I and A-wandering",
+        "source hymn 68",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 68."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai ginpu khat swna maeng bam",
+        "titleRongmei": "Ai ginpu khat swna maeng bam",
+        "titleEnglish": "A Pilgrim Was I and A-wandering"
+      }
+    }
+  }
+}

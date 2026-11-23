@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0396",
+    "number": 396,
+    "source": {
+      "printedNumber": 396,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "P.P. Bliss",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "6/8",
+      "meter": "7.6.7.6. D. Ref.",
+      "tune": "SS 865"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "GAY RANVMEI NAI DI HE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Poubauhmei khou lwmlou tha?",
+            "Gay ranvmei nai di he,",
+            "Kazauzian 8^& laa tow tha?",
+            "Gay ranvmei nai di he,",
+            "Ch’ryn dyng e, Pu ramzian hei!",
+            "Gay ranvmei nai di he,",
+            "Kazauzian nsaa tiilou,",
+            "Gay ranvmei nai di he.",
+            "",
+            "Nai di he, nai di he,",
+            "Gay ranvmei nai di he.",
+            "Ch’rynmei Kazauzian kiu e,",
+            "Gay ranvmei nai di he.",
+            "",
+            "2 Jisu ’naa bammei thay cho?",
+            "Gay ranvmei nai di he,",
+            "Kamei ^&8 tiineihlaa cho?",
+            "Gay ranvmei nai di he,",
+            "Ch’ryn dyng e, Jisu zauzian!",
+            "Gay ranvmei nai di he,",
+            "Karamzian nsaa tiilou,",
+            "Gay ranvmei nai di he.",
+            "",
+            "3 Bumaengh ngamv ta nang thay tha?",
+            "Gay ranvmei nai di he,",
+            "Tingriu kumc riu keyloumei,",
+            "Gay ranvmei nai di he,",
+            "Ch’ryn dyng e,Bumaengh ngamv hei!",
+            "Gay ranvmei nai di he,",
+            "Kapumtan nsa tiilou,",
+            "Gay ranvmei nai di he."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "More to Follow",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "6/8",
+        "7.6.7.6. D. Ref.",
+        "SS 865",
+        "P.P. Bliss",
+        "Poubauhmei khou lwmlou tha",
+        "More to Follow",
+        "source hymn 396",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 396."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "GAY RANVMEI NAI DI HE",
+        "titleRongmei": "GAY RANVMEI NAI DI HE",
+        "titleEnglish": "More to Follow"
+      }
+    }
+  }
+}

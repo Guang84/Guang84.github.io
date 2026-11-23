@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-213",
+    "number": 213,
+    "source": {
+      "printedNumber": 213,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingsaeng ram gaita ganlou na",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Tingsaeng ram gaita ganc lou na",
+            "Maan nuang nimei ta rana phuna",
+            "Ngalan guang dat ngam lakni kum the",
+            "Chuna chuna du khit khit tat kan the.",
+            "",
+            "Guang guai Guangnah bui thang tat ni cho,",
+            "Guangnaa puanc nang luak gan lou duna",
+            "Theipuanc piuna nang tat dwlang khe,",
+            "Han dat tho de Guangc daimei nah le.",
+            "",
+            "2. Theimei chaeng khou mun chailou na",
+            "Kachaek turiang nang khang lei lou na",
+            "Taruai guang nah guai rui kau tiki",
+            "Adi neihla na nang tat kanc tu cho.",
+            "",
+            "3. Nang pu nang bam paeng daklou na",
+            "Nang zan saan kaluai na kapbam e",
+            "Bui khang nang nsaa maan nina cho",
+            "Theikai tat tang mak khou kai handat tho.",
+            "",
+            " Pastor Abui"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 213",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 213. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingsaeng ram gaita ganlou na",
+        "titleRongmei": "Tingsaeng ram gaita ganlou na"
+      }
+    }
+  }
+}

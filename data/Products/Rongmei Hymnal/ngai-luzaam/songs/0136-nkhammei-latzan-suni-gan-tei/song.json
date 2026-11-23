@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-136",
+    "number": 136,
+    "source": {
+      "printedNumber": 136,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nkhammei latzan suni gan tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nkham mei latzan suni gan tei ,",
+            "Tingmik thui na guang the;",
+            "Rianra mei lev nthiam mei rui,",
+            "Zauzii mei rihmei kum guangc e.",
+            "",
+            "He! Ata npat lou ri o,",
+            "Adang khou bam lou o",
+            "Zion ching ai guang tang mak san ,",
+            "Kanlou meipu nduang lou o.",
+            "",
+            "2. Ahu khou nthiam mei dui rui dailiam ,",
+            "Ai aman khang ping e;",
+            "Pap dui thuak khou zuang lou mei nun,",
+            "Tingsaeng gaipui ram tang ngam mak.",
+            "",
+            "3. Noah kin khou pat kanmei tei kum na,",
+            "Sodom kailuang kum ma;",
+            "Kandi ramgai ta ning khou rui,",
+            "Raguang ta mpatlou ngam the.",
+            "",
+            "4. Nang tuang than mei larik khou hilou kum ,",
+            "Kandi zing guang pu the;",
+            "Nzian thaimei lung ning mak khe.",
+            "Zeimuh zeihaeng keimei padik.",
+            "",
+            "5. Kandih rian ramei khang na bam khou hei,",
+            "Nang zau kari patro",
+            "Zion nanun guai tei kum khang ,",
+            "Gun daimei tingmik guang pukhou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 136",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 136. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nkhammei latzan suni gan tei",
+        "titleRongmei": "Nkhammei latzan suni gan tei"
+      }
+    }
+  }
+}

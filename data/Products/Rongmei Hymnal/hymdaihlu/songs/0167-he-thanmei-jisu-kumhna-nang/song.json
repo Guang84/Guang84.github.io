@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0167",
+    "number": 167,
+    "source": {
+      "printedNumber": 167,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Johann Heermann",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.5.",
+      "tune": "HLC 152"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He ’Thanmei Jisu, kumhna Nang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He ’thanmei Jisu, kumcna Nang nuhlou cho,",
+            "Meic nunc #^5 Nang ta ’khuaimei latzan sw khang?",
+            "Zauczihmei hu khou Nang mei nunc #^5 ganc pat,",
+            "Ryanra ’khaengvmeipu.",
+            "",
+            "2 Thow khuay zaeng khou #^5 Nang khou keylou tu cho?",
+            "Akhuay zaeng khou #^5 Nang khou keylou tuang the;",
+            "Kaipouc Jisu Nang ta ai nuh mak khwan the,",
+            "Nang ta thaengcluai the.",
+            "",
+            "3 Akhang Jisu hei Ravguangc Maansei kiu the,",
+            "Nang ryanra ’khaengvloumei, Nang pumc tiipatmei,",
+            "Nang ram rianra ’khaengvloumei, theicloumei 5#^,",
+            "Ai ringc diu khang e.",
+            "",
+            "4 Hei zaeng #^5 Jisu Nang pow ai khangc ngam mak,",
+            "Tingsaengzaeng Nang ta bwanna kalum bam ni;",
+            "Kalaih makmei Nang ramzian makumh pwkhou,",
+            "Ai hei biuh mak ge."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Ah, Holy Jesus?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "11.11.11.5.",
+        "HLC 152",
+        "Johann Heermann",
+        "Ah, Holy Jesus?",
+        "source hymn 167",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 167."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He ’Thanmei Jisu, kumhna Nang",
+        "titleRongmei": "He ’Thanmei Jisu, kumhna Nang",
+        "titleEnglish": "Ah, Holy Jesus?"
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-257",
+    "number": 257,
+    "source": {
+      "printedNumber": 257,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc ta Thuanc o Meic guay le",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          257 Ravguangc ta Thuanc o Meic Guayle!",
+            "                                   8.8.8.8",
+            "          Doh hei F",
+            "",
+            "          1. Ravguangc ta thuanc o meic guayle !",
+            "             Zauc nzianloumei zaeng khangrui,",
+            "             Kazauzian sing tei chaklou kho,",
+            "             'Thyammei daihmei kaguayna rui.",
+            "",
+            "          2. Tingkauh kaidai guang tanghpui nungc,",
+            "             Neihlaamei kanganv nai lak khe;",
+            "             Ryanraa kapmei mikdui keymei,",
+            "             Thut phuilou khang nkhwan bam the.",
+            "",
+            "          3. Mik rui how makmei tingkauh thangc,",
+            "             Thuanhmei lu suan taek dat lak khe.",
+            "             Suan ngimhngim bame heic khoutei;",
+            "             Aniw nic lay suan tat di kho.",
+            "",
+            "          4. Tingkauh ramc thangc lwmmei guay rui,",
+            "             Lungh khang tat ngam kanpui tangv kiu,",
+            "             Kandih hei 'chwng rimhrim pwni,",
+            "             Kandih hei zingc gunhgun pwni.",
+            "",
+            "          5. Ntavw kin khou lungc bammei nunc.",
+            "             Aniw ta nzian diangclou the.",
+            "             Nkhuaimei lev mphuammei guay,",
+            "             Khiu 'thanna guang khang kawlou the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc ta Thuanc o Meic guay le"
+      }
+    }
+  }
+}

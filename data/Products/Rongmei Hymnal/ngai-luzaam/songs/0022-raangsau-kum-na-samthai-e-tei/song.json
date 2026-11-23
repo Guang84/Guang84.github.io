@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-022",
+    "number": 22,
+    "source": {
+      "printedNumber": 22,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Raangsau kum na samthai e tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Raangsou kumna samthai e thei ai,",
+            "Poubaomei theihpui ching zau tatni,",
+            "Hei khou tei kalloumei tei houni,",
+            "Zei kumna talandui patmei tei,",
+            "Zianmei pheinuaih rui thut nthanni.",
+            "He Kalvary! He Kalvary!",
+            "Nang ruhkhou nang guangh hianbin lou the,",
+            "Thaulana hianmei tei satpat ro,",
+            "Kazei luang kaimei thut nthan o.",
+            "",
+            "2. Kidron dui le nangni thau lana,",
+            "Nang Pou tarimei ta tizang tiu,",
+            "Tatna kazanh nthanmei bam khou,",
+            "Nchu nzanghna dui tizang o.",
+            "",
+            "3. Ata ninga tari tuang e thei,",
+            "Kidron duile tuna kau e thei,",
+            "Rei khou tei tizang louni tuang e,",
+            "Nang ta ninga taripui tuang e",
+            "Abumaeng tatna dui tizang tiu.",
+            "",
+            "4. Ai tat sini ‘bui tuang sulouni?",
+            "Poubaomei tari kimdiu khang tei,",
+            "Ai ruina ramh khatsini thai mak,",
+            "Tatmu tatni the Kalvary thang,",
+            "Kazei luang keimei sini thutni.",
+            "",
+            "5. Kalvary le, He Jerusalem!",
+            "Nzaenghmei Pubaomei zaulou o,",
+            "Aniu pap khang ruui rianra tuang e,",
+            "Tatna kazanh nthanmei bam khou,",
+            "Tingkauh lauziunaa theilou puinung."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 22",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 22. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Raangsau kum na samthai e tei",
+        "titleRongmei": "Raangsau kum na samthai e tei"
+      }
+    }
+  }
+}

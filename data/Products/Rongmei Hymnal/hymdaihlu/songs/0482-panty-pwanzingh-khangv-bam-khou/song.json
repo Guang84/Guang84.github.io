@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0482",
+    "number": 482,
+    "source": {
+      "printedNumber": 482,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W.C. Matin",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7. D. Ref.",
+      "tune": "RS 731"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Panty pwanzingh ’khangv bam khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Panty pwanzingh ’khangv bam khou,",
+            "Dui kamuatc daic guang sihni,",
+            "Alung geic bam khang maek ge,",
+            "Pwanzingh ’liu ranv guang sihni,",
+            "Akhang rungh banghchei nai the,",
+            "Tingsaengzaeng kachac lak khe.",
+            "",
+            "Rungh banghchei lingc ’tiplou the,",
+            "He pwanzingh aliu tan diu,",
+            "Arungc hei ’thyam khwan sihni",
+            "Nkhan zat ni tuang hamh the;",
+            "Arungc bangclou the, bangc ’tiplou the.",
+            "",
+            "2 Adaeng khou dui kamuatc re,",
+            "Dui lungc khou siimei nai e,",
+            "Muangh @{4 tingpuk gumliam the,",
+            "Pwanzingh nic ’liu ranv guang the;",
+            "Kum sihni akhangv diw e,",
+            "Taudaic khou rungh bangclou the.",
+            "",
+            "3 Katuakcmei @{4 thumliam guang,",
+            "Ryanra dui kamuatc kumc guang,",
+            "Chaeng tat ’maan khang ’thiambam e,",
+            "Pwanzingh @{4 gaanhmei sw liam,",
+            "Kumsic ai akhangv ngam e;",
+            "Duak lakmei rungc-chei nai the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "My Anchor Holds",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "7.7.7. D. Ref.",
+        "RS 731",
+        "W.C. Matin",
+        "RUNGH BANGHCHEI LINGC ’TIPLOU THE",
+        "My Anchor Holds",
+        "source hymn 482",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 482."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Panty pwanzingh ’khangv bam khou",
+        "titleRongmei": "Panty pwanzingh ’khangv bam khou",
+        "titleEnglish": "My Anchor Holds"
+      }
+    }
+  }
+}

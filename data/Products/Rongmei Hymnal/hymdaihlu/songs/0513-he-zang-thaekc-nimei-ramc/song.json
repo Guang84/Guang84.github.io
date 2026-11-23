@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0513",
+    "number": 513,
+    "source": {
+      "printedNumber": 513,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. E. Mills",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 920"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He zang ’thaekc nimei ramc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He zaeng ’thaekc nipui ramc tingkauh!",
+            "Tabui nungc tangc ni cho?",
+            "Tabui nungc aricpwan gancna",
+            "Chuzaenghna lungc ni cho?",
+            "",
+            "Jisu .. guang mak saanv ’niu",
+            "Taanc ni .. guang makpui saanv;",
+            "Jisu .. guangpui nungc kiu",
+            "Tingkauh khou kariu ni.",
+            "",
+            "2 Kandih khou neihlaamei maek ge,",
+            "Chuzaenghmei nic maek ge;",
+            "Hei dic mu ryanrapui bamv de,",
+            "Khou hei akai maek ge.",
+            "",
+            "3 Zaeng ’thaekc khang Jisu khou guang e,",
+            "Tat dat mak khang saa e;",
+            "Zaengswmei kauh kai tangh mak saanv",
+            "Kakhou bam khang saa e.",
+            "",
+            "4 Guloumei pu khou ai guang the,",
+            "Ai tat pat dat lak khe;",
+            "Theihpui nganv Kathei ai lay ni,",
+            "Tingkauh kai tangh mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "We’ll Work Till Jesus Comes",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 920",
+        "Mrs. E. Mills",
+        "JISU GUANG MAK SAANV ’NIU TAANC NI",
+        "We’ll Work Till Jesus Comes",
+        "source hymn 513",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 513."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He zang ’thaekc nimei ramc",
+        "titleRongmei": "He zang ’thaekc nimei ramc",
+        "titleEnglish": "We’ll Work Till Jesus Comes"
+      }
+    }
+  }
+}

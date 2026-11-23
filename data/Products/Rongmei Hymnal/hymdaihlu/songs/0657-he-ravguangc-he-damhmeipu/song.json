@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0657",
+    "number": 657,
+    "source": {
+      "printedNumber": 657,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous.",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "Tune SS 1111"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Ravguangc, he Damhmeipu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Ravguangc, he Damhmeipu,",
+            "Nang hu khou ’taw guangmei",
+            "Mi nei hei pumh khat sw khang",
+            "Nang {:1 damc thaulou e;",
+            "Nang hym ndauhna lungc diu,",
+            "Nang suaihiam khou lungc diu,",
+            "Theihmei {:1 ntamv mak saanv",
+            "Nrianhpui lat piu diu.",
+            "",
+            "2 Eden pic Paradais khou",
+            "Maansei khou khuay maek khou,",
+            "Pouh-peih Adam lev Eve ta",
+            "Pou, Nang {:1 suanclou the;",
+            "Aseic mi nei ta hei nic",
+            "Pou, Nang {:1 suanclou o;",
+            "Reynungc Isaak, Rebeka",
+            "Tampy kumc lungc kan diu.",
+            "",
+            "3 Dih khou Pou, Nang bampui douc",
+            "Galili Cana khou",
+            "Nowsuanhpui kai khou guanglou;",
+            "Nang {:1 suaihiam tiilou;",
+            "Suaihiam duipuakkai swlou,",
+            "Kakai khou 1<: suaicsamclou,",
+            "Mi 1<: kumc hei kai ruc khou",
+            "’Taw Nang suaihiamlou o.",
+            "",
+            "4 He Ravguangc, Suaihiam Kaipouc,",
+            "Hei kai tampy thanh khou",
+            "Nang suaihiam kathanc thanc khou",
+            "Kaikhunh suaihiam sw diu!",
+            "Zaengsii-zaenggay kathuic khou",
+            "San khou patmei kathuic kiu",
+            "Neihlaamei khang chaklou diu!",
+            "Kauh tampy maengc nai diu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Holy Matrimony",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "7.6.7.6. D.",
+        "Tune SS 1111",
+        "Anonymous.",
+        "Holy Matrimony",
+        "source hymn 657",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 657."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Ravguangc, he Damhmeipu",
+        "titleRongmei": "He Ravguangc, he Damhmeipu",
+        "titleEnglish": "Holy Matrimony"
+      }
+    }
+  }
+}

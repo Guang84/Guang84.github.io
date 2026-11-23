@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0034",
+    "number": 34,
+    "source": {
+      "printedNumber": 34,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "German Hymn",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.6.6. D.",
+      "tune": "CW 135"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lauthwan gaanhra pat khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Lauthwan gaancra pat khou",
+            "Ai zip thauna thuanc e,",
+            "Jisu ta thuanc kan diu!",
+            "Tanc bam khou, huayney khou;",
+            "Jisu khou ngangvlou e,",
+            "Khrista hym tiidaic diu.",
+            "",
+            "2 Ravkai kaeng hiw pwkhou,",
+            "Chingh zaengc chu lik pwkhou,",
+            "Jisu ta thuanc kan diu!",
+            "King o, suan bammei kiu,",
+            "Neihlaana hiw bam khou,",
+            "Khrista hym tiidaic diu.",
+            "",
+            "3 Zingbangc kalaanv guanh e,",
+            "Mi lu hei suan pwkhou,",
+            "Jisu ta thuanc kan diu!",
+            "Zinghmei ngamv _>6 ping e,",
+            "Mi lu hei chu pwkhou,",
+            "Khrista hym tiidaic diu.",
+            "",
+            "4 He maansei zaat guayle,",
+            "Lungh khat swna suan o,",
+            "Jisu ta thuanc kan diu!",
+            "Kandih kabamv ’thuic khou,",
+            "Neihlaa lu hei suan diu,",
+            "Khrista hym tiidaic diu."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "When Morning Gilds the Skies",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "6.6.6. D.",
+        "CW 135",
+        "German Hymn",
+        "When Morning Gilds the Skies",
+        "source hymn 34",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 34."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lauthwan gaanhra pat khou",
+        "titleRongmei": "Lauthwan gaanhra pat khou",
+        "titleEnglish": "When Morning Gilds the Skies"
+      }
+    }
+  }
+}

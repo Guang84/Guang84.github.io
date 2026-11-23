@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0144",
+    "number": 144,
+    "source": {
+      "printedNumber": 144,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "C.W.Fray",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "2/2",
+      "meter": "Irregular.",
+      "tune": "RS 360"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu ta pam khanv tow the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu ta Pam khanv tow the, Kamei akhang biuc the,",
+            "Ching ruh pangc khou akhang Kamei gay liang e,",
+            "Kamei nzaengc Lili e, Kakhou ramh guay nai the,",
+            "Ata khiu ’than khang, ata tiigaylou khang;",
+            "Ryanra khou swm gaylou e, katuak khou ’khavlou e,",
+            "Kadanmei guay Kakhou lou khang saa e;",
+            "Kamei nzaengcbaek Lili e, Lauthwan Gaanphiu kiu e,",
+            "Ching ruh pang khou akhang Kamei gay liang e.",
+            "",
+            "Ryanra khou swm gaylou e, katuakc khou ’khavloue,",
+            "Kadanmei guay Kakhou lou khang saa e;",
+            "Kamei Nzaengcbaek Lili e, Lauthwan Gaanphiu kiu e,",
+            "Ching ruh pang khou akhang Kamei gay liang e.",
+            "",
+            "2 Alung ryanramei guay 8^& Kamei ^&8 phungclou the,",
+            "Pwanzingh ganv khou akhang duploupuikai e;",
+            "Kakhang ^&8 ai kahawme ravmaengc guay ganc pat the,",
+            "’Taw thu ata Kangamv ^&8 sin gaeklou the;",
+            "Dih ^&8 ganc rulou sini, Seitaan ^&8 ’thiam sihni,",
+            "Jisu paan ^&8 gayna ai kai tangc ni;",
+            "Kamei nzaengcbaek Lili e, Lauthwan Gaanphiu kiu e,",
+            "Ching ruh pang khou akhang Kamei gay liang e.",
+            "",
+            "3 Ata ganc ’rulou lak ge, ata ’patlou lak ge,",
+            "Kakhou lwmna Kachwn khou ai lungc pwkhou,",
+            "Mai ^&8 akhang raengh swlou, ai ping dat khang maek khe,",
+            "’Daapcmei abumaengc ta tii-n-gulou the;",
+            "Thei thangc tingkauh ku pwkhou, Kazawpaanv how pwkhou,",
+            "Neihlaamei kanganv nai dat pw lak khe;",
+            "Kamei nzaengcbaek Lili e, Lauthwan Gaanphiu kiu e;",
+            "Ching ruh pang khou akhang Kamei gay liang e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Lily of the Valley",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "2/2",
+        "Irregular.",
+        "RS 360",
+        "C.W.Fray",
+        "NZAENGC LILI",
+        "Ryanra khou swmgaylou e",
+        "The Lily of the Valley",
+        "source hymn 144",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 144."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu ta pam khanv tow the",
+        "titleRongmei": "Jisu ta pam khanv tow the",
+        "titleEnglish": "The Lily of the Valley"
+      }
+    }
+  }
+}

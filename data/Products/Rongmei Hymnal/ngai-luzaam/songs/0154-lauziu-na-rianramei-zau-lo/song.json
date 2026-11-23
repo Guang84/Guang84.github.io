@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-154",
+    "number": 154,
+    "source": {
+      "printedNumber": 154,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lauziu Na rianramei zau lo",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Lauziu Na rianramei zau lo!",
+            "Theilou nimei chingbut thang duangh tatna;",
+            "Rianra nkhalou nimei mei makge,",
+            "Rianra khaengmei Pu.",
+            "",
+            "He! Poubaomei rianra khalou nimei mak,",
+            "Kalvary chingbut thang nzuan tatna;",
+            "Meipui meina lungh rianrana,",
+            "Kapma handat the.",
+            "",
+            "2. Theilou nimei ching guang tanga,",
+            "Akumhni cho aPoubauhmei ti hei;",
+            "Kaphai kaban hian binlou Kros rukhou,",
+            "Houmumei nun rui.",
+            "",
+            "3. Zauna rianra mak khang makge.",
+            "Hei di nthuknga theilou kanmei tei;",
+            "Kazei nthanmei zei rui luangliam lou,",
+            "Nangni guang zau lo.",
+            "",
+            "4. Poubaomei zei patlou khou rui,",
+            "Kandihmei ta pap khou ru thuaklou the;",
+            "Tingkao kai chaengmun tei laanlou kan the.",
+            "Kamei nun guay khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 154",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 154. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lauziu Na rianramei zau lo",
+        "titleRongmei": "Lauziu Na rianramei zau lo"
+      }
+    }
+  }
+}

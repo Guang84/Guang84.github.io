@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-124",
+    "number": 124,
+    "source": {
+      "printedNumber": 124,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih Apanty Luai Pwkhou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          124 Kandih Apanty Luai Pwkhou",
+            "                          8.8.8.8. ref.9.9. 10.7",
+            "",
+            "          1. Kandih apanty luai pwkhou,",
+            "             Mbaanv pumc hei ganclou ducna;",
+            "             Neihlaamei tingkauh akai thangc,",
+            "             Samctat kan ni the akai thangc.",
+            "",
+            "                     Neihlaamei laana lungc nipui ramc,",
+            "                     Lauziu nac rui gaancna bampui ramc,",
+            "                     Theihmei mikdui keymei nai dat lak khe,",
+            "                     Tingkauh salem ramc khoutei.",
+            "",
+            "          2. Kandih khou lwmloumei guay rui,",
+            "             Tingsaeng zaeng kata lungc 'cham ni,",
+            "             Heic ramcgai khoutei lungh khangrui,",
+            "             Samctat kan ni the heic khoutei.",
+            "",
+            "          3. Aniw rui 'tamvlou kanmei guay",
+            "             Heic khoutei ariu dat pwni.",
+            "             Heic nungc kiu adih gay ni cho?",
+            "             'Zianmei nunc khoutei khwan bam e.",
+            "",
+            "          4. Heic ramc thangctei 'niw tangc pwkhou,",
+            "             Neihlaamei lu raana suanna,",
+            "             Eden ramc gay khou thuanc bam ni,",
+            "             Khoutei guang khang khwan ngammak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih Apanty Luai Pwkhou"
+      }
+    }
+  }
+}

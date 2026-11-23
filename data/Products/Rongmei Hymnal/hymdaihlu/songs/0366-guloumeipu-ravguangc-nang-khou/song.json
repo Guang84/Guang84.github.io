@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0366",
+    "number": 366,
+    "source": {
+      "printedNumber": 366,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Philip Doddridge",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/2",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "SS 866"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guloumeipu Ravguangc Nang khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guloumeipu, Ravguangc Nang khou,",
+            "Lwmlou nungc 4^& daihmei neic e,",
+            "Alungsyng thangc neihlaa bam ni,",
+            "Zaenggay chamv hei dinc lik bam ni.",
+            "",
+            "Neihlaamei tingmik ge!",
+            "Jisu apaap khiulou nungc 4^&!",
+            "Changkhaanv bam khang,",
+            "huayney bam khang,",
+            "Neihlaa bam khang nchamlou e,",
+            "Neihlaamei tingmik ge!",
+            "Jisu apaap khiulou nungc 4^&!",
+            "",
+            "2 Luai the, taanv daih taanc luailou the,",
+            "Kaipouc akhang, ai Kakhang e;",
+            "Kamei zaylou, ai Kathei lay,",
+            "Kakhwan neihlaana ’king bam ni.",
+            "",
+            "3 ’Taw mu alung hei zaeng ’thaekc the,",
+            "Lunghkwn, neihlaana zaeng ’thaekc the;",
+            "AKaipouc khou bam chuy bam ni,",
+            "Kakhou @<4 e, gaymei guay hei!",
+            "",
+            "4 Kauh thangc chu kanmei latryan 4^&,",
+            "Tingmik ’thuic tiichu thanh bam ni,",
+            "Theihthiu laapui nganv ai ding ni,",
+            "Latryan khou neihlaana theic ni!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O Happy Day!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/2",
+        "8.8.8.8. Ref.",
+        "SS 866",
+        "Philip Doddridge",
+        "Neihlaamei tingmik ge",
+        "O Happy Day!",
+        "source hymn 366",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 366."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guloumeipu Ravguangc Nang khou",
+        "titleRongmei": "Guloumeipu Ravguangc Nang khou",
+        "titleEnglish": "O Happy Day!"
+      }
+    }
+  }
+}

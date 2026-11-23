@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-108",
+    "number": 108,
+    "source": {
+      "printedNumber": 108,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaganv Khat Khang de Heickandic",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          108     Kaganv Khat Khang' de Heickandic",
+            "                          12.12.12. 12.Ref. 10. 12. 12. 12",
+            "",
+            "          1. Kaganv khat khang de heic kandi akai hamh e.",
+            "             Neihkhat Poubauhmei rui azanc kauckey pwkhou,",
+            "             Dih hei 'patlouna akai tingkauh thangc tat ni.",
+            "             Chamdaanv luai ngam the heic kandi akai hamh e",
+            "",
+            "                     He Poubauhmei 'dih khou apam maek ge.",
+            "                     Tingkauhramc thangc tat khou 'dih khou",
+            "                     tabui sw ni?",
+            "                     Tingkauh baanch'raa rui kaw bam tingkauh",
+            "                     chaengmun khou",
+            "                     Ai tat zaic ni the, heic kandic akai hamh e.",
+            "",
+            "          2. Kahym daihmei ramc khoutei lwmloumei guayna",
+            "             Theihmei suhmei naumei ryanraamei nai lak khe;",
+            "             Neihlaana lungc pwni Hallelujah kaucna.",
+            "             'Baanthayna rih ngammei lu suanna bam pwni.",
+            "",
+            "          3. Kawmei khou gut nuh khangrui Pou' khou 'taw lwm' tho;",
+            "             Lwmlou makmei nunc rui maikwam thangc tat pwni.",
+            "             Tingkwm kaganv nai makna ryanraa bam pwni;",
+            "             'Ki lwmloumei nunc khang 'baanvthaymei tingkauh nai.",
+            "",
+            "          4. Arup nunc rui ata khwan bam tingkauh kai khou;",
+            "             Zianmei apui-pu nic khoutei ata khwan bam.",
+            "             Ai nic neihkhat tat pwni gaymei ramc khoutei",
+            "             Ata puanhpui bamv heic kandic akai hamh e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaganv Khat Khang de Heickandic"
+      }
+    }
+  }
+}

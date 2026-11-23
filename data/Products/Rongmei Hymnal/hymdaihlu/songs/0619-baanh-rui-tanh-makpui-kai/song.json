@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0619",
+    "number": 619,
+    "source": {
+      "printedNumber": 619,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "L.W.Mansfield",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 957"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "BAANH RUI TANH MAKPUI KAI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neih keyloumei paengc gaanhmei thangc,",
+            "Muangh guam bammei paengc thangc,",
+            "Zingbangc gaanchuangc gaanhmei paengc thangc,",
+            "Akhang kai nai, kauh thangc.",
+            "",
+            "Baanh )}3 taanh mak .. pui kai nai e,",
+            "Akhang .. chamdaanvloumei,",
+            "Ravguangc baanch’ra guay lungc bammei",
+            "Kai 3)^ .. akai sw ni.",
+            "",
+            "2 Sunu, ryanra bammei paengc thangc",
+            "Thay tangh makmei paengc thangc,",
+            "Kaganv kalaic bammei paengc thangc,",
+            "Daeklou e, akai khang.",
+            "",
+            "3 Theihmei dui kamuatcmei paengc thangc",
+            "Zingbangc maekmei bamv 3)^",
+            "Alung neihlaa khou ai zauc e,",
+            "’Thangc 3)^ gaanhmei kai ta.",
+            "",
+            "4 Apaap lev ryanramei, pingmei,",
+            "’Patlou ducna ’tamv the;",
+            "Kauh thangc tingkwm kanganv maekna",
+            "Khrista lev lungc bam khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A Home on High",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 957",
+        "L.W.Mansfield",
+        "Neih keyloumei paengc thangc",
+        "A Home on High",
+        "source hymn 619",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 619."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "BAANH RUI TANH MAKPUI KAI",
+        "titleRongmei": "BAANH RUI TANH MAKPUI KAI",
+        "titleEnglish": "A Home on High"
+      }
+    }
+  }
+}

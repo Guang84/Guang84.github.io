@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0916",
+    "number": 916,
+    "source": {
+      "printedNumber": 916,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih juk hei luai guang puthe",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih juk hei luai guang puthe,",
+            "Khat +:1 khat ta jianna lung o;",
+            "Jaojimei +:1 padik pukhou,",
+            "Ntunmei guai rukhou nai e.",
+            "",
+            "Chorus:",
+            "Gaimei tingmik hou nimei guai,",
+            "Simei tan guai npat latho;",
+            "Poubaumei mik jaopan tei mu,",
+            "Ntunmei guai rukhou nai e.",
+            "",
+            "2. Kandih khou nangniu lung chammei,",
+            "Khat +:1 khatta njian makna;",
+            "Mik +:1 hou makmei Raguang ta jian e,",
+            "Samei nkhuaimei e.",
+            "",
+            "3. Simei tanh tan puijang khou +:1,",
+            "Rianra akhang mei khang suangmu;",
+            "Gaimei tanh tanpui jang khou +:1,",
+            "Rianra akhangmei +:1 gai e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "8.8.8.8.",
+        "Kandih juk hei luai guang puthe",
+        "source hymn 186",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 186."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih juk hei luai guang puthe",
+        "titleRongmei": "Kandih juk hei luai guang puthe"
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0862",
+    "number": 862,
+    "source": {
+      "printedNumber": 862,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "5.7.8.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Suaihiam tilou khang tingkauh",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Suaihiam tilou khang,",
+            "Tingkauh thu latjan su the;",
+            "Eden kaikham lan lou dat the,",
+            "Gut ro Zion tinggan pat the.",
+            "",
+            "Chorus:",
+            "Thuan o (2), kanloumei pu,",
+            "Laujiu na guang the;",
+            "Thuan o halleluijah Amen,",
+            "Halleluijah kanloumeipu guang datthe.",
+            "",
+            "2. Jingbang lung geimei %&6,",
+            "Kandih ti jang silou;",
+            "Eden khou puanmei %&6 thuan ne,",
+            "Bui tei cho kalan ganchuanga.",
+            "",
+            "3. Guang guaina guang %&6,",
+            "Zion thu latjan sulou;",
+            "Meinun %&6 nu lou nimak ge,",
+            "Njian loumei hei nthuk ge.",
+            "",
+            "4. Tingkauh thanmei nun %&6,",
+            "Thuan kupui lu suan ne;",
+            "Duipui ramkiang kabam thui khou,",
+            "Zion likdiu halleluijah."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "5.7.8.7.",
+        "Suaihiam tilou khang tingkauh",
+        "source hymn 132",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 132."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Suaihiam tilou khang tingkauh",
+        "titleRongmei": "Suaihiam tilou khang tingkauh"
+      }
+    }
+  }
+}

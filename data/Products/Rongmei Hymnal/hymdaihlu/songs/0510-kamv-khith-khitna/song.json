@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0510",
+    "number": 510,
+    "source": {
+      "printedNumber": 510,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "H. Bonar, D.D.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10. Ref.",
+      "tune": "SS 798"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kamv khith khitna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kamv khith khitna lauthwan",
+            "gaanchuangcna guay @<4",
+            "Neihriw khou kariw amaanmei kumcna,",
+            "Taanc-ruaihmei dic khou @<4 ’niu tat kan pwkhou",
+            "’Niu taanv paan na @<4 ningtow bam puni.",
+            "",
+            "’Niu taanv paan na @<4, ’niu taanv paan na @<4,",
+            "’Niu taanv paan na @<4 ningtow bam puni;",
+            "Taanc-ruaihmei dic khou @<4 ’niu tat kan pwkhou",
+            "’Niu taanv paan na @<4 ningtow bam puni.",
+            "",
+            "2 ’Niu lingcloumei hei baihmei @<4 tay pwkhou,",
+            "’Niu taanv huath ta meic thaylou puni cho?",
+            "Kathw lingcloumei nunc 4^& maek kan sihni,",
+            "Kaniw taanv 4^& kathai @<4 nchin e.",
+            "",
+            "3 ’Niu panty khou nchumhmei saaloumei 4^&,",
+            "’Niu @<4 kathw guay nrouloumei 4^&;",
+            "’Niu ta ’muc kan sihni ningtow bam puni,",
+            "Kathai 4^& @<4 aniu taanv nchin e.",
+            "",
+            "4 Gumei pu @<4 taanv thai nzanhpui nungc kiu",
+            "Neihlaamei swan pyrun runpui nungc kiu,",
+            "Ziap nunc ryanra, neihlaana",
+            "taancloumei 4^&,",
+            "Kaniw taanv 4^& hei nungc kiu ndauh ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "11.10.11.10. Ref.",
+        "SS 798",
+        "H. Bonar, D.D.",
+        "’NIU TAANV PAAN NA RUI NINGTOW",
+        "Only Remembered",
+        "source hymn 510",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 510."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kamv khith khitna",
+        "titleRongmei": "Kamv khith khitna"
+      }
+    }
+  }
+}

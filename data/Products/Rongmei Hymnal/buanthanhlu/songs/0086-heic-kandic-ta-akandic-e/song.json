@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-086",
+    "number": 86,
+    "source": {
+      "printedNumber": 86,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Heic Kandic ta Akandic e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          86      Heic Kandic ta Akandic e",
+            "                          8.5.9.4. Ref. 8. 7. 8.6",
+            "          Doh hei D",
+            "",
+            "          1. Heic kandic ta akandic e",
+            "             Twna ning khourui,",
+            "             Nzianmei guay lungh khang tat kan the",
+            "             Jordan paengc thangc.",
+            "",
+            "                  Neihmik nic gaanhmei nsaa de;",
+            "                  Bw lev gaanchuangcna guay nic;",
+            "                  Baanh sin kadymei nai lak khe;",
+            "                  Gaanhmei Jisu hu khou.",
+            "",
+            "          2. Heic kandic khou suhmei naumei guay",
+            "             Nai dat lak khe.",
+            "             Nzianmei guay ta ariu pwni",
+            "             Jordan paengc thangc.",
+            "",
+            "          3. Lwmmei guay mu tingkauhramc thangc",
+            "             Lungh khang tat kan the.",
+            "             Tat rey kanmei nzianmei nunc ta",
+            "             Ariu pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Heic Kandic ta Akandic e"
+      }
+    }
+  }
+}

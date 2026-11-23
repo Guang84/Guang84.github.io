@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0610",
+    "number": 610,
+    "source": {
+      "printedNumber": 610,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Phoebe Cary",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "6.6.8.6. Ref.",
+      "tune": "SS 987"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Diw gaymei chwn guang e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Diwgaymei chwn guang e,",
+            "Kaluaih luaihna guang e,",
+            "Aseic akai ’naa ranv guang the,",
+            "Rey khou suangc ’naa guang the.",
+            "",
+            "‘Naa the akai, ’naa the akai,",
+            "‘Naa ranv guang the akai aseic,",
+            "Rey khou 6_> suangc ’naa the.",
+            "",
+            "2 ’Naa guang the, aPu kai,",
+            "Khou6_> kai ’peyna nai;",
+            "’Phwanmei guangh bamvpaeng ’naa ranv the,",
+            "’Naa the kachaekc kaidai.",
+            "",
+            "3 Panty ramvrei ’naa the,",
+            "’Ritmei puat lou key khang;",
+            "Kros 6_> ganc key khang ’naa ranv the,",
+            "Pyrun laa khang ’naa the.",
+            "",
+            "4 Akhou ’naa guanglou o,",
+            "Aphaydyng sii pwkhou;",
+            "Kai tangh khang ’naa ranv the aseic,",
+            "Ai ningmei suangc ’naa the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "6/8",
+        "6.6.8.6. Ref.",
+        "SS 987",
+        "Phoebe Cary",
+        "One Sweetly Solemn Thought",
+        "source hymn 610",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 610."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Diw gaymei chwn guang e",
+        "titleRongmei": "Diw gaymei chwn guang e"
+      }
+    }
+  }
+}

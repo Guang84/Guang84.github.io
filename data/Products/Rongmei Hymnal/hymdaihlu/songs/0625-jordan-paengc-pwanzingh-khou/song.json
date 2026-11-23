@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0625",
+    "number": 625,
+    "source": {
+      "printedNumber": 625,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. S.Stennett.",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 973"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jordan paengc pwanzingh khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jordan paengc pwanzingh khou dingna",
+            "Agwnna ai phaan e,",
+            "’Baanvthaypui dic Kanaan ramc ta;",
+            "Khou3>| akai nai e.",
+            "",
+            "Zaeng ’thaekc ni aniu ’baanvthaypui dic khou,",
+            "Gaymei dui paengc khou tangc pwkhou,",
+            "Lauziu Nac lev Mousi lu 3>| suanna bam ni,",
+            "Jisu lev tingsaeng lungc ’chamc ni.",
+            "",
+            "2 Daihmei nzaengc dic pwm khou 3>|",
+            "Kalaanv swna gaanc e;",
+            "Khou3>| Jisu >|3 guanghtu e,",
+            "Zingbangc nai dat mak khe.",
+            "",
+            "3 Tingsaeng neihlaa ’baanvthay ramc kiu,",
+            "’Bui nungc ai tangc ni cho?",
+            "’Bui nungc aPu zaw kiu howna",
+            "Kapamv khou ’thaekc ni cho?",
+            "",
+            "4 Alung neihlaamei padik the,",
+            "Khou hei bam saengc zih the,",
+            "Jordan dui kamuatc bam sihni",
+            "Ping makna kaan ni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "On Jordan’s Stormy Banks",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 973",
+        "Rev. S.Stennett.",
+        "On Jordan’s Stormy Banks",
+        "source hymn 625",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 625."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jordan paengc pwanzingh khou",
+        "titleRongmei": "Jordan paengc pwanzingh khou",
+        "titleEnglish": "On Jordan’s Stormy Banks"
+      }
+    }
+  }
+}

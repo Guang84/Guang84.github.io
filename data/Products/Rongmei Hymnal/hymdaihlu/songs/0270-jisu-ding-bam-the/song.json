@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0270",
+    "number": 270,
+    "source": {
+      "printedNumber": 270,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Alburt B. Simpson",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "6/8",
+      "meter": "9.9.9.7. Ref.",
+      "tune": "GHF 111"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu ding bam the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu ding bam the Pilat hu khou,",
+            "Pamrai maek, ganc ’rulou, ’muclouna;",
+            "King o, ’bui ’bah cho, kauc patmei kiu!",
+            "Nang tu kumh ni Jisu ta?",
+            "",
+            "Nang tu kumh ni Jisu ta?",
+            "Chakakmei sw nuh mak!",
+            "Neih khat nang raana thanv puni:",
+            "“Ata tu kumh puni?”",
+            "",
+            "2. Jisu latzan bamv khou ding bam he,",
+            "Lwm nuh makmei swna lungc nuh e,",
+            "Lwm nuhmei swna nang lungc nuh e;",
+            "Nang tu kumh ni, Jisu ta?",
+            "",
+            "3 Pilat kumc Kata ganclou ni cho?",
+            "Tabui puni Kata laa ni cho?",
+            "Nang nkamh ngam mak ge",
+            "Kakhou ^&8,",
+            "Nang tu kumh ni Jisu ta?",
+            "",
+            "4 Pitor kumc Kata nuh mak ni cho?",
+            "Kata howmumei ta ping makna,",
+            "Theic nic, ringc nic Kakhang ding ni cho?",
+            "Nang tu kumh ni Jisu ta?",
+            "",
+            "5 “Jisu, Nang khang alung tiigut the!",
+            "Ringc bam saanv ai Nang thei lay ni the;",
+            "Nang Lat piu ni twna saa ni cho;",
+            "Ai sw ni the, Jisu khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "What Will You do with Jesus?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "6/8",
+        "9.9.9.7. Ref.",
+        "GHF 111",
+        "Alburt B. Simpson",
+        "NANG TUKUMH NI JISU TA?",
+        "What Will You do with Jesus?",
+        "source hymn 270",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 270."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu ding bam the",
+        "titleRongmei": "Jisu ding bam the",
+        "titleEnglish": "What Will You do with Jesus?"
+      }
+    }
+  }
+}

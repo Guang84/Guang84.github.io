@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0312",
+    "number": 312,
+    "source": {
+      "printedNumber": 312,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "9/8",
+      "meter": "9.10.9.9. Ref.",
+      "tune": "SS 873"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU HEI AKHANG THE KACHANGCNA",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu hei akhang the kachangcna",
+            "Twmei khou Ravguangc ramgai adih nai!",
+            "Kazei paan @<4 ringhbamv liulou the,",
+            "KaBumaengc ’Thanmei paan puancthanh the.",
+            "",
+            "Mi hei ap’ry e, mi alu e;",
+            "Gumei pu ta tingsaeng thuanhmei hei,",
+            "Mi hei ap’ry e, mi alu e:",
+            "Gumei pu ta tingsaeng thuanhmei hei!",
+            "",
+            "2 Tiigutlou p’rymei adih neihlaa!",
+            "Alung mik khou ’taw rapchar ta howthe,",
+            "Kauh thangc @<4 baanch’ra nunc phungc key e,",
+            "Zauzian khwan gaymei kagaengv keymei.",
+            "",
+            "3 Tiigutlou p’rymei zaeng nthaekc ge,",
+            "Guloumeipu khou ai neihlaa bam the;",
+            "Tingkauh ta machunhna ’khwan bam e,",
+            "Karamgai @<4 tiipadiklou e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "9/8",
+        "9.10.9.9. Ref.",
+        "SS 873",
+        "Fanny J. Crosby",
+        "Blessed Assurance!",
+        "source hymn 312",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 312."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU HEI AKHANG THE KACHANGCNA",
+        "titleRongmei": "JISU HEI AKHANG THE KACHANGCNA"
+      }
+    }
+  }
+}

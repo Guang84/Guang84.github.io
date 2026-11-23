@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-278",
+    "number": 278,
+    "source": {
+      "printedNumber": 278,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh Bumaengh 'Than' Thouckey o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          278 Tingkauh' Bumaengh 'Than' Thouckey o",
+            "                           8.7.10.8. Ref. 9. 10. 10.6",
+            "          Doh hei E",
+            "",
+            "          1. Tingkauh' Bumaengh 'Than' thouckey o;",
+            "             Guang bamlou o 'niw pangc khou.",
+            "             Nchyang thaulou dat ro ziprimei ta,",
+            "             Kaganv taek makna bamlou o.",
+            "",
+            "                  He aniw ning e Bumaengh 'Thanmei",
+            "                  Nang rui hamh 'thei chaeng tat maanv ngam ni the,",
+            "                  Zaylou o, gaanphiu gaanhmei ramc Zion khou;",
+            "                  Nang ramc thanh gaymei khou.",
+            "",
+            "",
+            "          2. Dinclou o, Kamei thuakloumei;",
+            "             Ringh' chaeng thay makmei nunc khou.",
+            "             Nang zei rui thuakloumei hei saa ngammak;",
+            "             Ch'rynmei Nang ramrianraa guay ta.",
+            "",
+            "          3. Tingkauh 'Thanmei Nang bam ethei,",
+            "             Kandihmei guay dwan gay ni.",
+            "             Kandih siimei paapc ric adow sihnic,",
+            "             Nang zanc thuanhpui lu suan bam ni.",
+            "",
+            "          4. Guigaypouc Jisu guang dat ro.",
+            "             Ryanraana Nang khaengvloumei,",
+            "             Dinc tat ni Nang sauh pyrun runmei lam;",
+            "             Ch'rynmei Nang ramrianraa guay tei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh Bumaengh 'Than' Thouckey o"
+      }
+    }
+  }
+}

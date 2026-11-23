@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-134",
+    "number": 134,
+    "source": {
+      "printedNumber": 134,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih Hymdaih ta ai Phubam khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          134 Kandih Hymdaih ta ai Phubam Khou",
+            "                                9.9.9.Ref. 8. 9.9.",
+            "",
+            "          1. Kandih hymdaih ta ai phubam khou,",
+            "             Alung khou Poubauhmei dinclou e -",
+            "             Chaeng maanvmei nang ngalanc dat ro.",
+            "",
+            "                  Poubauhmei hamhna ai neihlaa khang maek,",
+            "                  Chaengmaanv khou thow ata zaylou ni?",
+            "                  Kaipouc nang hamhna neihlaa khang maek.",
+            "",
+            "          2. Ryanraamei khou ai chaengmaanv sihnic,",
+            "             Nang zauzian rui ai mbaanvthay the.",
+            "             Kandih chwn ta ai amuc kan' the.",
+            "",
+            "          3. Guloumeipu ta ai kahaw e.",
+            "             Apanty hei nang khou tiilou the.",
+            "             Ata laa o Kaipouc Nang taanv khang.",
+            "",
+            "          4. Taw kandih puat guay ta karaeng the.",
+            "             Kaipou, Nang tuang ringhmei chamv na ta,",
+            "             Lu rui thuanc bam ni apanty khou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih Hymdaih ta ai Phubam khou"
+      }
+    }
+  }
+}

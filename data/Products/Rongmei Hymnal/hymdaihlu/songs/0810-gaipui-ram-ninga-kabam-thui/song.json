@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0810",
+    "number": 810,
+    "source": {
+      "printedNumber": 810,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "8.10.12.5.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gaipui ram ninga kabam thui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Gaipui ram ninga kabam thui,",
+            "Ai puai tat sini gaimei ariu mak;",
+            "Ai lungpui ram hei patlou puinung tang puni,",
+            "Ai kap dat lak khe.",
+            "",
+            "Chorus:",
+            "Ai ningmei ram2!- munpuang rui padikge,",
+            "Rianramei 2!- nai mak nangpan rui;",
+            "Guang tupui ram gaimei ram la puni.",
+            "",
+            "2. Ai nruai kum samthai ethei,",
+            "Tingkauh thu 2!- ai hei sam talana;",
+            "Kalvari chingbut banrao thing rukhou 2!-,",
+            "Ai guang tou jao ni e.",
+            "",
+            "3. Champan jianmei bam chamm ethei,",
+            "Chunsi jangsimei hei kim puni cho?",
+            "Chunsi jangsimei hei kim kasuan pulak ge,",
+            "Kapmei ni tan mak.",
+            "",
+            "4. Chunsi jangsimei khang sulou,",
+            "Kauh Raguang rui suaihiammei rui gaina;",
+            "Bumang kandih thu 2!- bam cham lou puni e,",
+            "Kandih kathan thu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "8.10.12.5.",
+        "Gaipui ram ninga kabam thui",
+        "source hymn 80",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 80."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gaipui ram ninga kabam thui",
+        "titleRongmei": "Gaipui ram ninga kabam thui"
+      }
+    }
+  }
+}

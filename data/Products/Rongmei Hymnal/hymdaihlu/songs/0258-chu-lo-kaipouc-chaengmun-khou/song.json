@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0258",
+    "number": 258,
+    "source": {
+      "printedNumber": 258,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "L.H. Parthemore",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.6.10.6. Ref.",
+      "tune": "RS 188"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Chu lo, Kaipouc chaengmun khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Chu lo, Kaipouc chaengmun khou ding bam e,",
+            "Tiigut ro, .. tiigut ro;",
+            "Kamei katupna kaikhamv ’chow bam the,",
+            "Tiigut ro, .. tiigut ro.",
+            "",
+            "Gumeipu e chaengmun khou bammei,",
+            "Kamei ’khwanna chang-khaanvna bam the;",
+            "Nang lung 4^& laanc daiclou tio,",
+            "Guloumeipu gut kan diu;",
+            "Tiigut ro, .. tiigut ro.",
+            "",
+            "2 Kamei nang khang gay liangmei",
+            "Pam kiu e,",
+            "Tiigut ro, .. tiigut ro;",
+            "Kaganv ’thuic gaeklou nimei pu kiu e,",
+            "Tiigut ro, .. tiigut ro.",
+            "",
+            "3 Kata nsa khou kaikhamv tii ’chow rio,",
+            "Tiigut ro, ... tiigut ro;",
+            "Kamei guang dat zat makna taan nuh e,",
+            "Tiigut ro, .. tiigut ro.",
+            "",
+            "4 Kakhwan zianthaymei khwan 4^& chulou o,",
+            "Tiigut ro, .. tiigut ro;",
+            "Gut ro, twna riulouna neihlaa tho,",
+            "Tiigut ro, .. tiigut ro."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Let the Blessed Saviour in",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "10.6.10.6. Ref.",
+        "RS 188",
+        "L.H. Parthemore",
+        "GUMEIPU GUT KAN DIU",
+        "Let the Blessed Saviour in",
+        "source hymn 258",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 258."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Chu lo, Kaipouc chaengmun khou",
+        "titleRongmei": "Chu lo, Kaipouc chaengmun khou",
+        "titleEnglish": "Let the Blessed Saviour in"
+      }
+    }
+  }
+}

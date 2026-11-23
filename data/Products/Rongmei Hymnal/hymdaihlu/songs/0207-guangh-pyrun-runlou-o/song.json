@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0207",
+    "number": 207,
+    "source": {
+      "printedNumber": 207,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Matthew Bridges",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.6.8.6 D.",
+      "tune": "Alex 242"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guangh pyrun runlou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guangh pyrun runlou o,",
+            "Guangh Lauziu Nac py khou,",
+            "’King o, kauh bamvdaih Lu ramgai!",
+            "Lu baihmei guay ta bin e,",
+            "Thau suan tho, he alung,",
+            "Nang khang theihmei pu zanc,",
+            "Thuanc o, saa ’da lakmei",
+            "Guangc ta,",
+            "Tingsaengc kanganv maekna.",
+            "",
+            "2 Kaipouc khou runlou o,",
+            "Kabaanc kanaek zauc o,",
+            "Kazam guay 1<: ’taw nganv thay e,",
+            "’Taw hymdaic bam sihni,",
+            "Tingkauh Baanch’ra sihni,",
+            "Zamv 1<: zauc Ngam makna",
+            "Kaniw zaw 1<: ’khum key bam e,",
+            "Ch’rynmei kazam hu khou.",
+            "3. Guang pyrun runlou o,",
+            "Chuzaenmghmei Guangc py khou;",
+            "Dihpy Dihba suc rih maekna",
+            "Kata thuanc bam ni the;",
+            "Kaguangcdic mut lak khe,",
+            "Kaphaypav zam khou {:1",
+            "Paradais mwnrym gaymei 1<:",
+            "Tingsaengzang tiipat bam ni.",
+            "",
+            "4 Guangh pyrun runlou ni,",
+            "Kaganv Kaipouc Nang khou;",
+            "Nai bammei guay ta damhmei pu,",
+            "Saengc daihmeipu Nang khou!",
+            "Thuanc e, thuakloumei pu,",
+            "Aniw khang theihmei pu,",
+            "Taek makna Nang ta thuanc bam ni,",
+            "Tingsaeng kanganv maekna."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Crown Him with Many Crowns",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "6.6.8.6 D.",
+        "Alex 242",
+        "Matthew Bridges",
+        "Crown Him with Many Crowns",
+        "source hymn 207",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 207."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guangh pyrun runlou o",
+        "titleRongmei": "Guangh pyrun runlou o",
+        "titleEnglish": "Crown Him with Many Crowns"
+      }
+    }
+  }
+}

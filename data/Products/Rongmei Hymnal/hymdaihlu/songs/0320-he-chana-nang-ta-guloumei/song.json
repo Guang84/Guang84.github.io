@@ -1,0 +1,149 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0320",
+    "number": 320,
+    "source": {
+      "printedNumber": 320,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J.M. Whyte",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": ". 4/4",
+      "meter": "11.11.D.10.9.11.11.Ref.",
+      "tune": "SS 898"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He chana nang ta guloumei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He chana, nang ta guloumei ndauh tha ?",
+            "Aniw chu nii e, nang rac kaluaih dat ro;",
+            "Gulou khang kros daeng khou",
+            "nang guangmei p’ry 4@<,",
+            "Aniw chu nii e, nang rac kaluaih dat ro;",
+            "Kasuaihiam riw khou nang tat bam dai cho?",
+            "Nwan guay khou @{4 khiu ’thanlou the cho?",
+            "Kakhou zingbangc, kalaanv nang neihlaa bam dai?",
+            "Aniw chu nii e, nang rac kaluaih dat ro.",
+            "",
+            "’Niw chu nii ...e,nang rac dat ro,",
+            "Rac kaluaih .. luaihlou dat ro;",
+            "Nuhgaymei, suaihiammei p’ry 4@<,",
+            "Kauh chaeng khou nang ta ’khavlou ni,",
+            "Aniw chu nii e, nang rac kaluaih dat ro.",
+            "",
+            "2 Nang chaeng-ngaengv ku pwkhou",
+            "Kamei tat ’chamc dai?",
+            "Aniu chu nii e, nang rac kaluaih dat ro:",
+            "Jisu @{4 kadanna nang ta pamclou dai ?",
+            "Aniw chu nii e, nang rac kaluaih dat ro;",
+            "Kakumhmei dwangda gaymei baihmei maek,",
+            "Ryanra lak khou nang ta ’khavloumei,",
+            "Chu lik diu, Kamei @{4 nang khang taancloumei,",
+            "Aniw chu nii e, nang rac kaluaih dat ro.",
+            "",
+            "3 Hei kumhmei gaymei p’ry nang rac tanh tan dai?",
+            "Aniw chu nii e, nang rac kaluaihdat ro;",
+            "Gay liangmei mang khang suangc mi 4@< gay diangc e,",
+            "Aniw chu nii e, nang rac kaluaih dat ro;",
+            "Meic nunc pangc khou hei lungh ryanramei nai,",
+            "Zaengthaekmei phutow ngam makmei nunc;",
+            "Jisu ramzian lyan tio, nang tuang latlu @{4,",
+            "Aniw chu nii e, nang rac kaluaih dat ro.",
+            "",
+            "4 Nang rih guay adowna rih ngammei chamv 4@<,",
+            "Aniw chu nii e, nang rac kaluaih dat ro;",
+            "Rih dou bammei nunc ta mi @{4 ’khavlou ni,",
+            "Aniw chu nii e, nang rac kaluaih dat ro;",
+            "’Taw aniu paapc tuang ngamv ta ’dow bam e,",
+            "’Saanh mak khou Khrista lev guanghtu ni,",
+            "He thuaklou tangmei nunc, bumaengh khuam guang o,",
+            "Aniw chu nii e, nang rac kaluaih dat ro."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Let Us Hear You Tell It",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        ". 4/4",
+        "11.11.D.10.9.11.11.Ref.",
+        "SS 898",
+        "J.M. Whyte",
+        "’NIW CHU NII E, NANG RAC DAT RO",
+        "Let Us Hear You Tell It",
+        "source hymn 320",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 320."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He chana nang ta guloumei",
+        "titleRongmei": "He chana nang ta guloumei",
+        "titleEnglish": "Let Us Hear You Tell It"
+      }
+    }
+  }
+}

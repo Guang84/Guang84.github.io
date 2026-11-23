@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0365",
+    "number": 365,
+    "source": {
+      "printedNumber": 365,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "B.E.",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 853"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Khrista Nang khou ariw the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Khrista, Nang khou ariw the,",
+            "Hei saan ai phu guangmei,",
+            "Bumaengc neihlaamei, chuzaenghmei;",
+            "He Pou, Nang khou na nai.",
+            "",
+            "Khrista na #^5 lungh tiikim e!",
+            "Zanh baihmei maek akhang,",
+            "Zianmei, ringhmei, neihlaa suangmei,",
+            "Jisu khou na nai e.",
+            "",
+            "2 Neihlaa, zaengthaek ai phu khwan e,",
+            "Nang ta phu mak khwan e;",
+            "’Ki Gumei pu khou guang pwkhou",
+            "Karamzian #^5 ngam the.",
+            "",
+            "3 Bakmei duikhunc khou dui phu ki",
+            "Khou5#^ dui maek khe, Pou!",
+            "Zangv khang ’bum key’ki pak kan the,",
+            "Ai kapmei ta nuic the.",
+            "",
+            "4 Neihlaamei ’maan khou kap khwan e,",
+            "Nang khang kaplou zat mak,",
+            "Zauzian #^5 mik tiiraklouna",
+            "Nang ramgai how mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "None But Christ Can Satisfy!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 853",
+        "B.E.",
+        "KHRISTA NA RUI LUNGH TIIKIM E!",
+        "None But Christ Can Satisfy!",
+        "source hymn 365",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 365."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Khrista Nang khou ariw the",
+        "titleRongmei": "He Khrista Nang khou ariw the",
+        "titleEnglish": "None But Christ Can Satisfy!"
+      }
+    }
+  }
+}

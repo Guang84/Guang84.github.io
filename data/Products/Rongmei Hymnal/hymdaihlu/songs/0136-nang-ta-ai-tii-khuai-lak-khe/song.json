@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0136",
+    "number": 136,
+    "source": {
+      "printedNumber": 136,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "EL Nathan",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/8",
+      "meter": "7.6.8.6. Ref.",
+      "tune": "SS 47"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang ta ai tii’khuai lak khe",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 \"Nang ta Ai tii’khuai lak khe!\"",
+            "Ch’rynmei zauzian latkaeng!",
+            "Nang paap guay kros khou phungclou the,",
+            "Chwn gayna nang tat tho.",
+            "",
+            "“Nang ta Ai tii ’khuai lak khe!”",
+            "Suan dat kaluaih luaih o,",
+            "“Nang ta Ai tii ’khuai lak khe,”",
+            "Paapc taanc dat ri tho.",
+            "",
+            "2 “Nang ta Ai tii’khuai lak khe!”",
+            "Nang khang nic ’taw nai the;",
+            "“Tii’khuai dat lak khe,” nang ta nic,",
+            "Kros khou ’bum key pwkhou.",
+            "",
+            "3 “Nang ta Ai tii’khuai lak khe!”",
+            "Ai tii’khuai khang guang mak,",
+            "Nang ta gulou khang Ai guang e,",
+            "Paapc khou ({0 tiiduak khang.",
+            "",
+            "4 “Nang ta Ai tii’khuai lak khe!”",
+            "Ravguangc zauzian thuanc o,",
+            "He Guloumeipu ta thuanc o,",
+            "Chuzaenghmei Kalat khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Neither Do I Condemn Thee!\"",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/8",
+        "7.6.8.6. Ref.",
+        "SS 47",
+        "EL Nathan",
+        "Neither Do I Condemn Thee!\"",
+        "source hymn 136",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 136."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang ta ai tii’khuai lak khe",
+        "titleRongmei": "Nang ta ai tii’khuai lak khe",
+        "titleEnglish": "Neither Do I Condemn Thee!\""
+      }
+    }
+  }
+}

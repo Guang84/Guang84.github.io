@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0646",
+    "number": 646,
+    "source": {
+      "printedNumber": 646,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J.Crosby.",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "SS 978"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neih khat panty hei luai puni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neih khat panty hei luai puni,",
+            "’Taw suanmei lu suan ’thaekc puni,",
+            "’Ki ai zip ’chyang thaupui nungc kiu",
+            "Kauh thangc adih neihlaa ni cho!",
+            "",
+            "Ai how puni, .. Kaipouc zawpaanv,",
+            "Zauzian paan guloumei thuanc ni,",
+            "Ai how puni, .. Kaipouc zawpaanv,",
+            "Zauzian paan guloumei thuanc ni.",
+            "",
+            "2 Neih khat bow ni kandih kai hei,",
+            "Adih zaic ni, ai thay mak ge,",
+            "’Ki ai thay e, aKaipouc _>6",
+            "Kauh thangc bam chamdaanvlou bam e.",
+            "",
+            "3 Neih khat kachaekc neic key pwkhou",
+            "Pou _>6 akhou saalou puni,",
+            "“Taanc chuy dyng the, gaymei bangcle!”",
+            "Kazaengthaek khou ai gut puni.",
+            "",
+            "4 Neih khat ai thu ’khwan bam ni the,",
+            "Amaibungc hei daanc gaanc chuyna;",
+            "AKaipouc _>6 raengh laanc pwkhou,",
+            "Kakhou abumaengc samc ku ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Saved by Grace!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "3/4",
+        "8.8.8.8. Ref.",
+        "SS 978",
+        "Fanny J.Crosby.",
+        "ZAUZIAN RUI GULOU THE",
+        "Saved by Grace!",
+        "source hymn 646",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 646."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neih khat panty hei luai puni",
+        "titleRongmei": "Neih khat panty hei luai puni",
+        "titleEnglish": "Saved by Grace!"
+      }
+    }
+  }
+}

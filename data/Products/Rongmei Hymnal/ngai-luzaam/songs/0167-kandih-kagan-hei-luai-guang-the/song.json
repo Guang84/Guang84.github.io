@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-167",
+    "number": 167,
+    "source": {
+      "printedNumber": 167,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih kagan hei luai guang the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandi kagan hei luai guang the,",
+            "Karam gaini kim the;",
+            "Akhang gai mbumei makge,",
+            "Apoubaomei Jisu hamhma",
+            "Kandi ramgai ai kahau dat lak khe,",
+            "Akhang rui kacha dat lakmei",
+            "Zion ram khou tei.",
+            "",
+            "Akhang Zion ram,",
+            "Akhang mi Zion ram,",
+            "Akhang rui Poubaomei, rui",
+            "Chamdaan loumei Zion ram.",
+            "",
+            "2. Apoubaomei keidat puni,",
+            "Katik kagun daina;",
+            "Tingpuk kandi luai guangpui nung,",
+            "Kacha lak khe Zion ram tei,",
+            "Tingkao nthanmei nun le bam chamhni,",
+            "Rianramei muang rui zing,",
+            "Ata sumlou o Poubaomei!",
+            "",
+            "3. Himdaihmei Guang ram tingkao tei,",
+            "Ai ningtou machun e;",
+            "Guang ramgai tei ai houni e,",
+            "He! Namthanh ringhmei gaanghmei ram,",
+            "Kandi rianramei ninga ai kap e,",
+            "Ringsuangmei tingkao kaidai khou tei,",
+            "Aniu tat puni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 167",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 167. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih kagan hei luai guang the",
+        "titleRongmei": "Kandih kagan hei luai guang the"
+      }
+    }
+  }
+}

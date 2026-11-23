@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0413",
+    "number": 413,
+    "source": {
+      "printedNumber": 413,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Frank M. Davis",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7.7. Ref.",
+      "tune": "SS 537"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "GULOUMEI PU ZAYLOU O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guloumeipu, zaylou o!",
+            "’Zaengna chaeng saanv zaylou o;",
+            "Nang daeng khou bamna duak the,",
+            "Nang zianmei khou ai bam ni.",
+            "",
+            "Chaeng .. zay .. lou .. o,",
+            "Zay .. lou mak ’thei chaeng maanv ni,",
+            "Ka .. ganv tat khou zaylou o,",
+            "Chaeng saanvsaengh Pou, zaylou o.",
+            "",
+            "2 Panty pwanzingh guang pwkhou,",
+            "Abumaengc dup bamv Nang e,",
+            "Nang ’naa bam khou ai duak ge,",
+            "Nang zauzian khou ngangvlou e.",
+            "",
+            "3 Zaylou o, katwan nganvna,",
+            "Panty pwanzingh luai pwkhou,",
+            "Mikdui guay rouloupui bamv,",
+            "Kalaanv ramc ai tangh mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Lead Me, Saviour!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "7.7.7.7. Ref.",
+        "SS 537",
+        "Frank M. Davis",
+        "Lead Me, Saviour!",
+        "source hymn 413",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 413."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "GULOUMEI PU ZAYLOU O",
+        "titleRongmei": "GULOUMEI PU ZAYLOU O",
+        "titleEnglish": "Lead Me, Saviour!"
+      }
+    }
+  }
+}

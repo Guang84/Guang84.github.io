@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0153",
+    "number": 153,
+    "source": {
+      "printedNumber": 153,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Theodulph of Orleans",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "CW 221"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Hymdai thwan lev champouhmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Hymdaih, thuanh lev champouhmei,",
+            "Thuakloumeipu Guangc khang,",
+            "Alauna guay mwang khou {:1",
+            "Hosanna kauc bam e:",
+            "Israel mei Guangc Nang e,",
+            "David Nac ’Pouh Nang e,",
+            "Poubauhmei zanc khou guangmei,",
+            "He Guangh, guigaymei pu.",
+            "",
+            "2 Baanch’ra kangdai {:1 kauh thangc",
+            "Nang ta thuancna bam e;",
+            "Maansei lev mbaanv guay {:1",
+            "Kaniw lu suan bam e;",
+            "Meic guay tadanvnuy sinna,",
+            "Nang hu khou tat khwan e;",
+            "’Niw thuanh huayney lev ’niw lu",
+            "Nang hu khou katgut re.",
+            "",
+            "3 Nang theic nipui nit hu khou",
+            "Thuanhpui lu suan khwan e;",
+            "’Niw nic thuanhpui lu suan e,",
+            "Kauhliangmeipu Nang khang;",
+            "Kaniw thuanh nang laalou kumc",
+            "’Niw thuanh nic laalou o;",
+            "’Niw ruc khou neihlaalou o,",
+            "Gaymei, zianthaymei Guangc."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "All Glory, Loud, and Honor",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "7.6.7.6. D.",
+        "CW 221",
+        "Theodulph of Orleans",
+        "All Glory, Loud, and Honor",
+        "source hymn 153",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 153."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Hymdai thwan lev champouhmei",
+        "titleRongmei": "Hymdai thwan lev champouhmei",
+        "titleEnglish": "All Glory, Loud, and Honor"
+      }
+    }
+  }
+}

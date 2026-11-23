@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0374",
+    "number": 374,
+    "source": {
+      "printedNumber": 374,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Cleland B. Mc. Afee",
+      "composer": null,
+      "arranger": null,
+      "chord": "Db",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "CSH 170"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Jisu Thuakloumeipu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zaeng ’thaekc zuh zupui bamv khat nai,",
+            "’Niu Pu Ravguangc pamv khou,",
+            "Paapc @{4 sw katuakc makpui bamv,",
+            "’Niu Pu Ravguangc pamv khou.",
+            "",
+            "He Jisu, Thuakloumei pu,",
+            "Ravguangc khou @{4 keymei,",
+            "Pamclou o, ’niw ’khwan bam e,",
+            "’Niw Pu Ravguangc pamv khou.",
+            "",
+            "2 Amanv gaypui bamv akhat nai,",
+            "’Niu Pu Ravguangc pamv khou,",
+            "Gumeipu ta ariwpui bamv,",
+            "’Niu Pu Ravguangc pamv khou.",
+            "",
+            "3 Duakpatpui bamv gaymei khat nai,",
+            "’Niu Pu Ravguangc pamv khou,",
+            "Neihlaa, chuzaenghpui bamv kiu e,",
+            "’Niu Pu Ravguangc pamv khou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Near to the Heart of God",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Db",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "CSH 170",
+        "Cleland B. Mc. Afee",
+        "Zaeng thaek zuh zupui bamv khat nai",
+        "Near to the Heart of God",
+        "source hymn 374",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 374."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Jisu Thuakloumeipu",
+        "titleRongmei": "He Jisu Thuakloumeipu",
+        "titleEnglish": "Near to the Heart of God"
+      }
+    }
+  }
+}

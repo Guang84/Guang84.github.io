@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-041",
+    "number": 41,
+    "source": {
+      "printedNumber": 41,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Duipui Paengc thangc Kachaekc Kaidai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          41 Duipui Paengc Thangc Kachaekc Kaidai",
+            "                                 11.8.12.7.Ref.7.7.12.12",
+            "          Doh hei A",
+            "",
+            "          1. Duipui paengc thangc kachaekc kaidai",
+            "                                                  gaymei khou,",
+            "             Thanmei nunc khoutei lungc bam e.",
+            "             Thuanhpui lu rui kachaekc kaidai khoutei",
+            "                                                  suan bam.",
+            "             Kaipouc Ravguangc daeng khoutei.",
+            "",
+            "                  O, adihkamv gay tu cho (Heic khoutei).",
+            "                  Heic khoutei ryanraamei maek (Heic khoutei).",
+            "                  Thuanhpui lu rui kachaekc kaidai khoutei",
+            "                                                     suan bam.",
+            "                  He Poubauhmei chaeng tei laanclou o,",
+            "                                                 ai tat khang.",
+            "",
+            "          2. Heicpui kandic khou ai n-gin tat bam e:",
+            "             Kum sihnic neihlaana lungc ni.",
+            "             Paapc ric ta ngamlouna Jisu lev tat 'chamc ni.",
+            "             Heic khoutei ai zaeng 'thaekc ni.",
+            "",
+            "          3. Nthiammei rui ata bam haengv pwsihnic,",
+            "             Jisu rui akhou lungclouna,",
+            "             Paapc ric ta ngamlouna Jisu ley tat chamc ni,",
+            "             Rih ngammei pyrun laa khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Duipui Paengc thangc Kachaekc Kaidai"
+      }
+    }
+  }
+}

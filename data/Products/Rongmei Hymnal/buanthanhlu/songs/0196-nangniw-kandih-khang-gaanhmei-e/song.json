@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-196",
+    "number": 196,
+    "source": {
+      "printedNumber": 196,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nangniw Kandih khang Gaanhmei e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          196 Nangniw Kandih khang Gaanhmei e",
+            "                              8.8.9.9 Ref. 6. 7. 10",
+            "",
+            "          1. Nangniw kandi hkhang gaanhmei e.",
+            "             Nang taanv gåymei rui lungc lyan o,",
+            "             Taanv rui lwmmei tei ndauhpat ro.",
+            "             Tiiloumei kaipat tei taanc chuy o.",
+            "",
+            "                  Kaipouc rui dinclou e.",
+            "                  Nangniw hei kandih riw e.",
+            "                  Kabamv thuih khou",
+            "                  ringhmei chamv dinctat ro.",
+            "",
+            "          2. Kandih kabamv kathuihna khou,",
+            "             Ringhmei chamv tei dinctat la tho.",
+            "             Thei hanna bammei bumaengc guay ta,",
+            "             Khrista rui kaw e lunghlaicguang khang.",
+            "",
+            "          3. Nang khang tiiloumei talent tei,",
+            "             Kaipouc rui zauh khang guang pwni.",
+            "             Nang rui taanc chuyna taanclou ethei,",
+            "             Kaipouc rui swan tei tiilou pwni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nangniw Kandih khang Gaanhmei e"
+      }
+    }
+  }
+}

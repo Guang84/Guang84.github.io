@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-238",
+    "number": 238,
+    "source": {
+      "printedNumber": 238,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai hei saron munpuangc nge",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai hei saron mun puang e,",
+            "Nzaeng dih khou lily puang",
+            "Luang le nzaeng dui pui khou",
+            "Nang ram gai dinlik kan diw.",
+            "",
+            "Lily munpuang pui ram khou",
+            "Rian ramei nai dat lak khe",
+            "Kao sini nga lan lak khe,",
+            "Kao ram gai guang tang mak san.",
+            "",
+            "2. Than mei guai le lung cham ni.",
+            "Hei kandi tad tuan pukhou,",
+            "Nei lapui lu than suan ni.",
+            "Tingsang gan bam pui dih khou .",
+            "",
+            "3. Thao tho thao tho Christian guai .",
+            "Zipri mei ta nchiang o.",
+            "Sao ding khou Apple thao kum .",
+            "Thiem mei ni nai bam khuan ne.",
+            "",
+            "4. Nchum mei na su latho.",
+            "Kagan ri jai puni the.",
+            "Num ding khou Lily thao kum",
+            "Thiem mei ni nai bam khuan ne."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 238",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 238. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai hei saron munpuangc nge",
+        "titleRongmei": "Ai hei saron munpuangc nge"
+      }
+    }
+  }
+}

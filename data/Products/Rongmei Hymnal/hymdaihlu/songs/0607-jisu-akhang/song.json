@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0607",
+    "number": 607,
+    "source": {
+      "printedNumber": 607,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. J.C. Bonor",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "6/8",
+      "meter": "10.10.12.10.",
+      "tune": "SS 1045"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU AKHANG",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kandih neihlaa kim the, Jisu akhang!",
+            "Zianmei riang guay ’tamv the, Jisu akhang!",
+            "Dih hei zinghpui bamv de,",
+            "zaeng ’thaekcpui bamv maek ge;",
+            "Jisu na tiikwn ngam, Jisu akhang!",
+            "",
+            "2 Abumaengc ta ’thiam rio, Jisu akhang!",
+            "Adyng kalaic lak khe, Jisu akhang!",
+            "’Maan nuhmei bih pumc hei,",
+            "neih khat na khang puanh de,",
+            "Akhou >|3 ’tamvlou the, Jisu akhang!",
+            "",
+            "3 Bam duc tho, theic nuhmei, Jisu akhang!",
+            "Riu the, ringcsuangmei >|3, Jisu akhang!",
+            "Riu the, zianmei nunc >|3,",
+            "riu the, zaengthaek bamv >|3;",
+            "Riu the, aKaipouc >|3, Jisu akhang!",
+            "",
+            "4 Bam duc tho, zingbangc mang, Jisu akhang!",
+            "’Muc the, lauthwan pat khou, Jisu akhang!",
+            "Ai >|3 machunhmei guay, gaeng makmei sw ngam the;",
+            "Jisu na tiipian e, Jisu akhang!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus is Mine!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "6/8",
+        "10.10.12.10.",
+        "SS 1045",
+        "Mrs. J.C. Bonor",
+        "Kandih neihlaa kim the",
+        "Jesus is Mine!",
+        "source hymn 607",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 607."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU AKHANG",
+        "titleRongmei": "JISU AKHANG",
+        "titleEnglish": "Jesus is Mine!"
+      }
+    }
+  }
+}

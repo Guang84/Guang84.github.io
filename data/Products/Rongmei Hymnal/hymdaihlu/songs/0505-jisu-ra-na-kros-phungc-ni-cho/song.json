@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0505",
+    "number": 505,
+    "source": {
+      "printedNumber": 505,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/4",
+      "meter": "C.M.",
+      "tune": "CSH 309"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu ra na kros phungc ni cho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu raana kros phungc ni cho,",
+            "Meic guay pumsa tatna?",
+            "Hamh e, meic kathuic khang kros nai,",
+            "Akhang nic kros khat nai.",
+            "",
+            "2 Katpatmei kros hei ai phungc ni,",
+            "Apanty luai mak saanv;",
+            "Hei tangv tingkauh kai thangc ’zwan ni,",
+            "Khou 8^& pyrun laa ni.",
+            "",
+            "3 Kangran gaymei tingkauh kai khou,",
+            "Jisu phayba bam khou,",
+            "Neihlaana pyrun luak key ni;",
+            "Kunghmei zanc thuanc dat ni.",
+            "",
+            "4 He kunghmei kros! he Guangh pyrun!",
+            "He ringcthaumei tingmik!",
+            "He baanch’ra thiu, samc keylou o,",
+            "Ata phungc kulou o!",
+            "",
+            "Thomas Shepherd"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Must Jesus Bear the Cross Alone?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/4",
+        "C.M.",
+        "CSH 309",
+        "KROS LEV PYRUN",
+        "Must Jesus Bear the Cross Alone?",
+        "source hymn 505",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 505."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu ra na kros phungc ni cho",
+        "titleRongmei": "Jisu ra na kros phungc ni cho",
+        "titleEnglish": "Must Jesus Bear the Cross Alone?"
+      }
+    }
+  }
+}

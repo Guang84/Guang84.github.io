@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-212",
+    "number": 212,
+    "source": {
+      "printedNumber": 212,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neihkhat 'Pouh Jisu rui Mang khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          212 Neihkhat Pou Jisu rui Mang khou Akhou",
+            "                          13.12.7. Ref. 9. 6. 11.13",
+            "",
+            "          1. Neihkhat Pou' Jesu rui mang khou akhou lyanlou e.",
+            "             Lwmmei nunc lunghpui bamv Ravguangc bampui ramc khou,",
+            "             Baanch'raa nunc lu suon bam e.",
+            "",
+            "                  Tingkauh ramgai ruanna zauc pwki,",
+            "                                            Ai han dat ni mak khe,",
+            "                  Damc thanhmei tingkauh tingsaeng",
+            "                                            lungc nipui ramc",
+            "                  Lauziu nac Poubauhmei, Jisu liuloupui ramc e.",
+            "",
+            "          2. Kandih khou 'tam kanmei rup-ryan, pu-chaih guay nic,",
+            "             Ravguangc ta thuanhpui lu suanna neihlaa bam e,",
+            "             Baancharaa nunc lev kariuna.",
+            "",
+            "          3. Mbaanv ringting luaina tingkauh nzwantat pwkhou,",
+            "             Laukhwan riw kumc pwni ryanraamei nai lak khe.",
+            "             Ravguangc lwn howpui nungc kiu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neihkhat 'Pouh Jisu rui Mang khou"
+      }
+    }
+  }
+}

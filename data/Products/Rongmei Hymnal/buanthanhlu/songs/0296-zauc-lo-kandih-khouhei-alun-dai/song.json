@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-296",
+    "number": 296,
+    "source": {
+      "printedNumber": 296,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zauc lo, Kandih Khouhei Alun Dai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          296 Zauc lo, Kandih Khouhei Alun Dai",
+            "                           12.12.12.8.Ref. 10. 10. 10.8",
+            "          Doh hei B",
+            "",
+            "          1. Zauc lo, kandih khou hei alun dai guang pwthe;",
+            "             Heic tei tu-zangv khang maekpui tuang alun hamh e.",
+            "             Ravguangc chamv chu nii sihnic chutow lakmei ganv,",
+            "             Tingmik tei guang tangc pwni the.",
+            "",
+            "                      Duipui khat thangcrui duipui khat thangc nganv,",
+            "                      Neihpat biak thangcrui neihkey thangc nganvna,",
+            "                      Ravguangc chamv chu nina phu bam sihnic,",
+            "                      Phutow dat zat ni tuang hamh the.",
+            "",
+            "          2. Khristian geihmei guay nic chaeng tat maanv ngam pwni;",
+            "             Ravguangc Lat 'thukmei tei chutow dat pwlak khe.",
+            "             Tihkic lwmlou tina thuakpatloumei guay ta,",
+            "             Ravguangc rui kadaa kan pwni.",
+            "",
+            "          3. Zauc lo, aseic hei guloumei tingmik kiu the:",
+            "             Duidaihmei kumcna Ravguangc Lat hei dinc bam the.",
+            "             Nang aseic hei Jisu ta laalou mak gethei,",
+            "             Nthuanh thu phutow dat lak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zauc lo, Kandih Khouhei Alun Dai"
+      }
+    }
+  }
+}

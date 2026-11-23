@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-039",
+    "number": 39,
+    "source": {
+      "printedNumber": 39,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "6.6.10.6.6.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kapma kalang bam mei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kaapma kalang bam mei",
+            "Ningsumei kandih khou",
+            "Tingkau salemram gaimeita ning e",
+            "Pap riita ngam lana",
+            "Theimei ta ping lak khe",
+            "Hei neihlaa na bam ni e.",
+            "",
+            "2. Hei kandi hei zauna",
+            "Zingmei rui duamliam the",
+            "Rianramei nanun guai kalang bam e,",
+            "Neihlamei munpuang guay",
+            "Puanghtuay puni e",
+            "He aramta ai ning e.] 2",
+            "",
+            "3. He! Nang zei pan khou rui .",
+            "Kau nam daita nkhuan",
+            "Duipang thang jian mei guaita",
+            "Bamcham khang,",
+            "Khou tei zaikan lou o,",
+            "Tingkao than mei ram khou",
+            "He! Ai bam kazau ni e.] 2",
+            "",
+            "4. Salem namthan gai khou.",
+            "Ai guang tang pui nung kiw",
+            "Kao nthanmei nun le kanloumei nun,",
+            "Guang bam hu khou ding na",
+            "Neihlaa puilu suan ni.",
+            "He! Halleluijah tuna.] 2"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 39",
+        "Khristian Luzaam PDF",
+        "Chord: D",
+        "Meta 3: 6.6.10.6.6.7."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 39. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 39,
+        "match": "title-match-1.00"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kapma kalang bam mei",
+        "titleRongmei": "Kapma kalang bam mei"
+      }
+    }
+  }
+}

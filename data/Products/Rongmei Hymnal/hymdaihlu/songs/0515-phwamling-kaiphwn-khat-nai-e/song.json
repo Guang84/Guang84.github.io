@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0515",
+    "number": 515,
+    "source": {
+      "printedNumber": 515,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "S.J. Stone",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "SS 228"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Phwamling kaiphwn khat nai e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Phwamling kaiphwn khat nai e,",
+            "Jisu Khrista hei e;",
+            "Dui lev Kalatkaeng paan <~1",
+            "Kata damc thanhlou the;",
+            "Jisu kauh thangc <~1 keyna",
+            "Phwamling ta nowpeic khang",
+            "Phu tow lana liulou the,",
+            "Kazei <~1 thuaklou the.",
+            "",
+            "2 Zaatc guay khou <~1 kapah e,",
+            "Tiki phwam khat na de;",
+            "Kaphwam tuang gaymei lwn kiu",
+            "KaKaipouc khat na de;",
+            "Lwmmei, puanhmei khat na de,",
+            "Zanh khat khou kalum e,",
+            "Taektw khat na tu ’chamc e,",
+            "Machunhmei khat na de.",
+            "",
+            "3 Chaeng laanhmei <~1 sw kaguakc,",
+            "Kaphwam phwam bam sihni;",
+            "Meic nunc <~1 Kalwnlung ta",
+            "Malaana bam sihni.",
+            "’Thanmei nunc huayna kauc e:",
+            "“Pou asaanh kum bam ni?”",
+            "Kapmei zingbangc katumcna",
+            "Neihlaa lauthwan guanh ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Church’s One Foundation",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "7.6.7.6. D.",
+        "SS 228",
+        "S.J. Stone",
+        "The Church’s One Foundation",
+        "source hymn 515",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 515."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Phwamling kaiphwn khat nai e",
+        "titleRongmei": "Phwamling kaiphwn khat nai e",
+        "titleEnglish": "The Church’s One Foundation"
+      }
+    }
+  }
+}

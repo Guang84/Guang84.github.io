@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-254",
+    "number": 254,
+    "source": {
+      "printedNumber": 254,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He kaidai launa Bethlehem",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He kaidai launa Bethlehem",
+            "Nang zip rim-rim bam e!",
+            "Nang zip theimang mang bam khou tei",
+            "Gaanchuang rui tatbam e;",
+            "Zinghmei nang chaeng guai khou",
+            "Tingsaengzaeng riu gaan bam e;",
+            "Tingsaengna machunh guangmei tei",
+            "‘Seih zingbang ariu the.",
+            "",
+            "2. Mary khou rui Khrista puan the;",
+            "Meiguai zipri bam khou,",
+            "Ch’rinmei ramzian tei zau lana",
+            "Baanch’ra guai rih gaanbam.",
+            "Laukhuan gaanphiu guai rui",
+            "Thanmei ngana puanhmei ta!",
+            "Kau na Raguang ta thuan na suan,",
+            "Dih khou zaengmei nai diu.",
+            "",
+            "3. Adih rim-rimna charinmei",
+            "Kaipat tei tilou cho!",
+            "Raguang rui maansei guai lung khou",
+            "Tingkau suaihiam tilou.",
+            "Paap kandi khou Kamei;",
+            "Guangmei chu mak khuan sini,",
+            "Kata laloumei lung guai khou,",
+            "Khrista rui gut bam e.",
+            "4. Nthanmei Bethlehem ngana,",
+            "Aniu khou keilou o;",
+            "‘Niu paap la ganna gut bam o",
+            "‘Niu khou ‘seih puanlou o,",
+            "Baanch’ra nun phung guangmei",
+            "Gaicham tei aniu chu e",
+            "Guangna ‘niu ta bamduanghlou o,",
+            "‘Niu pou Immanuel."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 254",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 254. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He kaidai launa Bethlehem",
+        "titleRongmei": "He kaidai launa Bethlehem"
+      }
+    }
+  }
+}

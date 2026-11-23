@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-154",
+    "number": 154,
+    "source": {
+      "printedNumber": 154,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih Zuk hei Luaiguang Pwthe",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          154 Kandih Zuk Hei Luaiguang Pwthe",
+            "                                8.8.8.8.Ref. 8. 8.8.8",
+            "          Doh hei E",
+            "",
+            "          1. Kandih zuk hei luaiguang pwthe;",
+            "             Khat rui khat ta 'zianna lungc o.",
+            "             Zauczihmei rui padik pwni;",
+            "             Akhaengv thaymei guay ringc pwni.",
+            "",
+            "                      Gaymei tingmik how niimei guay,",
+            "                      Simei taanv guay mpat la tho.",
+            "                      Poubauhmei kazaw paanv tei mu,",
+            "                      Ntwnmei guay ruc khou nai e.",
+            "",
+            "          2. Simei taanv taanhpui zaeng khourui,",
+            "             Ryanraa akhaengvmei khangsuangc mu,",
+            "             Gaymei taanv taanhpui zaeng khourui,",
+            "             Ryanraa akhaengvmei rui gay e.",
+            "",
+            "          3. Kandih puat ta nzianmei guay,",
+            "             Kandih chwn guay mpat la tho.",
+            "             Simei ruina ngammei sw rio,",
+            "             Gaymei taanv rui ngammei sw o.",
+            "",
+            "          4. Kandih khou aniw lungc 'chamcmei,",
+            "             Khat rui khat ta nzian makna,",
+            "             Mik rui how makmei Ravguangc ta",
+            "             'Zian e twmei nthuih mak ge."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih Zuk hei Luaiguang Pwthe"
+      }
+    }
+  }
+}

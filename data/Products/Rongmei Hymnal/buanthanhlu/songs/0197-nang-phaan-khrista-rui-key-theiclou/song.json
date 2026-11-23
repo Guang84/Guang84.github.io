@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-197",
+    "number": 197,
+    "source": {
+      "printedNumber": 197,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang Phaan Khrista rui Key' Theiclou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          197 Nang Phaan Khrista rui Key' Theiclou",
+            "                              8.6.7.8.7. Ref. 9. 9.9.8.7",
+            "          Doh hei E",
+            "",
+            "          1. Nang phaan Khrista rui key' theiclou:",
+            "             Nang paap nritmei khourui,",
+            "             Duakna ringhbamv tei laa khang.",
+            "             Aniw Kanac ling e twmei,",
+            "             Bumaengh rui sakhi tii e.",
+            "",
+            "                  Kandih khou aniw panty hei mu,",
+            "                  Duipui duidai rui kamuatc kumcna,",
+            "                  Tat kanmei ganv tei han dat ngammak.",
+            "                  Kandih hei nchwng rimhrim the;",
+            "                  Kandih hei karaankey the.",
+            "",
+            "          2. Theihmei lev zinghmei lim khourui,",
+            "             Thuakpatlou khang guangmeipu,",
+            "             Kalatryan guay suai zat mak.",
+            "             Latdanv guay tei piu makmei mu,",
+            "             Neihkhat huayna kap pwni.",
+            "",
+            "          3. Zei talanvdui keyna khaengvlou;",
+            "             Nang apaap zaeng khang dyng the.",
+            "             Ningzauc o, Karamrianraa:",
+            "             Theihmei nganvna akhaengvlouna,",
+            "             Kanac ling tiswlou the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang Phaan Khrista rui Key' Theiclou"
+      }
+    }
+  }
+}

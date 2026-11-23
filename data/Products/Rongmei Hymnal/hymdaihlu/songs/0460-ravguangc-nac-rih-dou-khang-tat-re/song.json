@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0460",
+    "number": 460,
+    "source": {
+      "printedNumber": 460,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Reginald Heber",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "C.M.D",
+      "tune": "HLC 467"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc Nac rih ’dou khang tat re",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc Nac rih ’dow khang tat re,",
+            "Guangh pyrun 0({ laa khang,",
+            "Kachuangcphey duh thangc ({0 how e;",
+            "Thow Kathei suic tat ni?",
+            "Ryanramei Kabuangc 0({ zangvmei,",
+            "Suhmei akhaengv ngammei,",
+            "Katuang kros 0({ phunghpui mei 0({",
+            "Kathei laypui mei e.",
+            "",
+            "2 Martair reymei 0({ how ducna",
+            "T’rou phaengc kaanna zauc e,",
+            "Kakaipouc ta kauh thangc how e,",
+            "Kanlou khang huay khwan e,",
+            "Kakumc kuakloumei lat saa e,",
+            "Kata raimei nunc ta;",
+            "Kaniw khang huayneylou khwan e;",
+            "Thow Kathei lay ni cho?",
+            "",
+            "3 Kapahloumei katit na khou",
+            "Bumaengh keylou khwan e;",
+            "Ping mak ge, ruhnakanei 0({",
+            "Kros lev maikhunc hu khou;",
+            "Meicsiimei baengsaeng ta ping mak,",
+            "Kamang ta nganv rouh mak;",
+            "Theih khang kaniw ’bum keylou the;",
+            "Thow kaniw thei lay ni?",
+            "",
+            "4 Maansei kangdai meicpui-meicnac,",
+            "’Thyam ’thauh ’peyna guangna,",
+            "Neihlaana Kabamvpaeng dinghuamc,",
+            "Gaanhmei pwan piulouna;",
+            "Tingkauh chaengkhuat kaamc ku khwan e,",
+            "Ryanra khaengvpui paan ({0;",
+            "He Ravguangc, zauzian tiilou o,",
+            "Kaniw thei lay ngam khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Son of God Goes Forth to War",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "C.M.D",
+        "HLC 467",
+        "Reginald Heber",
+        "The Son of God Goes Forth to War",
+        "source hymn 460",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 460."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc Nac rih ’dou khang tat re",
+        "titleRongmei": "Ravguangc Nac rih ’dou khang tat re",
+        "titleEnglish": "The Son of God Goes Forth to War"
+      }
+    }
+  }
+}

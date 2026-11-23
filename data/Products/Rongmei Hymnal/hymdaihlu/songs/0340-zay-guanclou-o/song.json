@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0340",
+    "number": 340,
+    "source": {
+      "printedNumber": 340,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J. Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.7.10.7. Ref.",
+      "tune": "SS 607"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ZAY GUANCLOU O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Pou, ai Nang mei e, Nang khwan ai chuna,",
+            "Nang zauzian khou lwmlou the;",
+            "’Ki lwmmei paan _>6 Nang pamv khou kuna",
+            "Nang daeng tuancna bam nii e.",
+            "",
+            "Zay guanglou .. o, guigaymei Kaipouc,",
+            "Nang theicloumei kros khou 6_>;",
+            "Zay tuanclou o, ata guigaymei Kaipouc,",
+            "Nang zei keyloumei bamv khou.",
+            "",
+            "2 Nang taanv khang ata ’taw reicpatlou o,",
+            "Ravguangc zauzian baantan _>6;",
+            "Alungning ’tipna machunhna zauc diu,",
+            "Ai ningmei Nang khou ’maan diu.",
+            "",
+            "3 He adih neihlaa matat khat sihni",
+            "Nang lev kadam laa ’chamcmei!",
+            "Khuksunna huayna, aRavguang, Nang ta",
+            "Duangda ta kumc kachuc khou.",
+            "",
+            "4 Ai _>6 thay tangc lakmei ramzian nai e,",
+            "Duimei panty luai mak saanv;",
+            "Ai thay tangc lakmei ramneilaa nai e,",
+            "Nang pamv khou zaeng sw mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Draw Me Nearer",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "10.7.10.7. Ref.",
+        "SS 607",
+        "Fanny J. Crosby",
+        "Draw Me Nearer",
+        "source hymn 340",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 340."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ZAY GUANCLOU O",
+        "titleRongmei": "ZAY GUANCLOU O",
+        "titleEnglish": "Draw Me Nearer"
+      }
+    }
+  }
+}

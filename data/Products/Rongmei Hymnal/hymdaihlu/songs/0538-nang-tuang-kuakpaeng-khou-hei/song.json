@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0538",
+    "number": 538,
+    "source": {
+      "printedNumber": 538,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "May P. Hoyt",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "2/2",
+      "meter": "6.4.6.4. D.",
+      "tune": "CW 451"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang tuang kuakpaeng khou hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang tuang kuakpaeng khou hei",
+            "He Poubauhmei,",
+            "’Niw pangc khou Nang bammei",
+            "Tiithaylou o;",
+            "Paapc tuang lungning guay hei",
+            "Laa ganclou o;",
+            "Nang tuang khwmkih taektw tu khang bam khou,",
+            "Tu khang bam khou.",
+            "",
+            "2 ’Niw lev tu ’chamclou o,",
+            "’Tyan bybakna;",
+            "Buangh khou hei luanlou o,",
+            "Ringhmei-dui 6_>;",
+            "Kuakloumei, chuzaenghmei",
+            "’Niw laatow ni;",
+            "Bangcloumei ricpatmei",
+            "’Niw laa tow ni.",
+            "",
+            "3 ’Niu lwmmei panty hei",
+            "Padik puni;",
+            "Tingmik ’thuic khang biuhmei",
+            "Pumtan tii ni;",
+            "Ringhmei ’tyan tiituna",
+            "Ndaap lak khe;",
+            "Gumei pu ta howna",
+            "’Niu pian puni.",
+            "",
+            "4 He guanglou o, Khrista,",
+            "Tiitulou o,",
+            "Zotpi hianmei baanc _>6",
+            "Kahilou o;",
+            "’Niw khou padiklou o,",
+            "Nang zauzian _>6,",
+            "Tingkauh khou ’niw bam khang",
+            "Chamdaanvlou o. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Here at Thy Table, Lord",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "2/2",
+        "6.4.6.4. D.",
+        "CW 451",
+        "May P. Hoyt",
+        "Here at Thy Table, Lord",
+        "source hymn 538",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 538."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang tuang kuakpaeng khou hei",
+        "titleRongmei": "Nang tuang kuakpaeng khou hei",
+        "titleEnglish": "Here at Thy Table, Lord"
+      }
+    }
+  }
+}

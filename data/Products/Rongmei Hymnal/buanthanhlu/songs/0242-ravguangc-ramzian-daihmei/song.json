@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-242",
+    "number": 242,
+    "source": {
+      "printedNumber": 242,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc Ramzian Daihmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          242 Ravguangc Ramzian Daihmei",
+            "                           12.12.12.9.Ref. 6.6. 12.6. 6.9",
+            "          Doh hei F",
+            "",
+            "          1. Ravguangc ramzian daihmei katin phaengc tangc ngammak,",
+            "             Karamzian nthukmei kasyng phaengc tangc ngammak;",
+            "             Karamzian kauhmei hei mik rui phaengc tangc ngammak;",
+            "             Thuanc di kho damcloumei Ravguangc ta.",
+            "",
+            "                      Ravguangc hym daic kan diu! (2)",
+            "                      Ramh kaguayna aniw khang",
+            "                      tiiloupui zaeng rui;",
+            "                      Ravguangc khang tiipat ro,",
+            "                      Kasuaihiam sing phucna.",
+            "                      Halleluijah! Ravguangc hym daic diu!",
+            "",
+            "          2. Ringc bammei panty hei Poubauhmei zauzian e;",
+            "             Thuancku di kho Katuang suaihiam laatowmei tei,",
+            "             Nang khou naimei guay tei Ravguangc khang tiipat ro:",
+            "             Neihlaana tiipatna thuancku o.",
+            "",
+            "          3. Nang tiipatloumei tei nang laatow dat pwni.",
+            "             Nang rui lwm bam sihnic taanv kazauh mak gethei,",
+            "             Ravguangc hu khou nang ramneilaa nthuih ngammak;",
+            "             Tiipatmei rui lwmmei nthuih e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc Ramzian Daihmei"
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-275",
+    "number": 275,
+    "source": {
+      "printedNumber": 275,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thow Pwnic Dui lev Bumaengh khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          275 Thow Pwnic Dui lev Bumaengh khou",
+            "                               9.4.4.9.7. Ref. 6. 6. 6. 10",
+            "          Doh hei Gb",
+            "",
+            "          1. \"Thow pw nic dui lev bumaengh khourui,",
+            "             Puancthanh makmei (2)",
+            "             Ravguangc Guangcdic khou gut ngam mak ge\",",
+            "             Twna Poubauhmei saa e.",
+            "",
+            "                       Thow pw nic lwm ethei,",
+            "                       Tingsaeng ringhmei laa ni,",
+            "                       Thow pw nic lwm ethei,",
+            "                       Tingsaeng zaengna (2) ringc ni.",
+            "",
+            "          2. Thow pw nic katuang guaihhphu sinna,",
+            "             'Thei ziangrihmei (2)",
+            "             Ravguangc Guangcdic mei sw ngammak ge.\".",
+            "             Twna Poubauhmei saa e.",
+            "",
+            "          3. \"Thow pw nic kapui-pu ta zianna,",
+            "             Thei ziangrihmei (2)",
+            "             Ravguangc Guangcdic mei sw ngammak ge.\"",
+            "             Twna Poubauhmei saa e.",
+            "",
+            "          4. \"Thow pw nic Athei lay nii ethei,",
+            "             Kapumc karaana nuhmakna,",
+            "             Katuang cross laathau lana gong o.\"",
+            "             Twna Poubauhmei saa e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thow Pwnic Dui lev Bumaengh khou"
+      }
+    }
+  }
+}

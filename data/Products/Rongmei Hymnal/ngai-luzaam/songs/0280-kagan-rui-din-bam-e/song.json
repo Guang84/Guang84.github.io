@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-169",
+    "number": 280,
+    "source": {
+      "printedNumber": 169,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "Irregular",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kagan rui din bam e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kagan )_3 din bam e, kaiguangmei-",
+            "Gan dithe, tingjin gan guang puthe;",
+            "Neimik ni kei kan the,",
+            "Kaiguang mei gan tang the ruprian,",
+            "Nang chamdan luai latho.",
+            "",
+            "Chorus:",
+            "Tingmik )_3 nkhuan makge,",
+            "Kagan )_3 nkhuan mak ge;",
+            "Jianmei khuan)_3 tingmik thui kaobam e,",
+            "Gental gan hei luai jai kan puni the,",
+            "Tingmik thui tat bam e jangna,",
+            "Luai jai kan puni the.",
+            "",
+            "2. Ndauloumei 21: 13 jaolo,",
+            "Kaikham )_3na kanei rukhou jan naimei tei;",
+            "Thao jao khou )_3 gut nina cho?",
+            "Ram baimei chang mak ge.",
+            "",
+            "3. Tuna ruh latchap tei kaikham thou tei cho?",
+            "Tujang khang guang tucho?",
+            "Kaikham chou khang guang tu cho?",
+            "Phu o kagan gaimei nai bam khou,",
+            "Guang nian lou lame.",
+            "",
+            "4. Kaomei tiangka khuan kagang e’",
+            "Kandih khou hei;",
+            "Nousuan khou kajao khang nousuan pheibanMakmei gut nu makna bam du puni,",
+            "Zion rangpang thang tei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 169",
+        "SQLite BookTypeID 2",
+        "Key: G",
+        "Meter: Irregular",
+        "Chord: G",
+        "Meta 3: Irregular"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 169); no high-confidence title match was found in the PDF list. The digital catalogue number is 280; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 169,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kagan rui din bam e",
+        "titleRongmei": "Kagan rui din bam e"
+      }
+    }
+  }
+}

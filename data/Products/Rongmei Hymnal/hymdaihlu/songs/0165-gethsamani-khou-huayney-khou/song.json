@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0165",
+    "number": 165,
+    "source": {
+      "printedNumber": 165,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Ben H.Price",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref",
+      "tune": "CSH 385"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Gethsamani khou huayney khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Gethsamani khou huayney khou",
+            "Jisu Karaana de;",
+            "Ryanra buangc 7}$ zangvna akhang",
+            "Karaana ’khaengvlou the.",
+            "",
+            "Karaana de,",
+            "Akhaengvlou kanmei 7}$;",
+            "Kamei nunc ta gulou khang e,",
+            "Zei keyna,Karaana ’khaengvna theiclou.",
+            "",
+            "2 Pilat latzan hu khou ding khou",
+            "Jisu Karaana de;",
+            "Sauh pyrun runmei Karaana!",
+            "Meic guay #^7 ’patlou the.",
+            "",
+            "3 Karaana de kros khou theih khou,",
+            "Meic nunc ta gulou khang;",
+            "Ravguangc lev maansei #^7 ’patlou,",
+            "Kapanty tiipat khou;",
+            "",
+            "4 Hei kumhmeipu zauzian ta hei",
+            "Nang laalou zihna cho?",
+            "Nang panty #^7 Kapow khangc o,",
+            "Kata ganc ’ruclou rio."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "8.6.8.6. Ref",
+        "CSH 385",
+        "Ben H.Price",
+        "KARA NA DE",
+        "Alone",
+        "source hymn 165",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 165."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Gethsamani khou huayney khou",
+        "titleRongmei": "Gethsamani khou huayney khou"
+      }
+    }
+  }
+}

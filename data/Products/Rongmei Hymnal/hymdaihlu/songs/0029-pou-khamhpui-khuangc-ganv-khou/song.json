@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0029",
+    "number": 29,
+    "source": {
+      "printedNumber": 29,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Eleazor T.Fitch",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "3/2",
+      "meter": "S.M.",
+      "tune": "CW 131"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pou, ’khamhpui khuangc ganv khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Pou, ’khamhpui khuangc ganv khou",
+            "’Niw ta tiitiplou o;",
+            "Nang Lat ’chumhmei lev ngamv 1<~ <~1",
+            "’Niw ta sin gaeklou tho.",
+            "",
+            "2 Chuzaenghmei tiilou o,",
+            "Zianmei lung tiilou o,",
+            "Lwmna, khaengvsaengcna ’niw lungh khang,",
+            "Kauh zaengthaek ta phu khang.",
+            "",
+            "3 Ravguangc khat namei ta",
+            "Zuk kathuic champouh diu;",
+            "Phwamling khou hymdaihmei nai diu,",
+            "Jisu Khrista paan <~1. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Lord, At This Closing Hour",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "3/2",
+        "S.M.",
+        "CW 131",
+        "Eleazor T.Fitch",
+        "Lord, At This Closing Hour",
+        "source hymn 29",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 29."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pou, ’khamhpui khuangc ganv khou",
+        "titleRongmei": "Pou, ’khamhpui khuangc ganv khou",
+        "titleEnglish": "Lord, At This Closing Hour"
+      }
+    }
+  }
+}

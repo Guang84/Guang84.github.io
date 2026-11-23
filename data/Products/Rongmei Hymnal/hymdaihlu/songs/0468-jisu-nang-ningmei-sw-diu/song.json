@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0468",
+    "number": 468,
+    "source": {
+      "printedNumber": 468,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Benjamin Schmolck",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.7.6. D.",
+      "tune": "CW 408"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU NANG NINGMEI SW DIU",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu Nang ningmei sw diu!",
+            "Nang chwn 8^& achwn sw diu!",
+            "Zian thaymei Nang baancpav khou",
+            "Atun guay bowlou the.",
+            "Ryanra neihlaamei guay ^&8",
+            "Nang daeng zay guang tuanclou o,",
+            "Ata ’saa khang ’khavlou o,",
+            "“Pou, Nang ningmei sw diu!”",
+            "",
+            "2 Jisu Nang ningmei sw diu!",
+            "Mikdui keymei ’riw sihni,",
+            "Amachunc tiikamvlou riu,",
+            "Mi 8^& tii’maanlou riu,",
+            "Dih khou Nang kaplou khwan e,",
+            "Ryanra azuh ’khaengvlou e,",
+            "Nang lev kap ’chamc khang ethei",
+            "“Pou, Nang ningmei sw diu!”",
+            "",
+            "3 Jisu, Nang ningmei sw diu!",
+            "Mi 8^& akhang gay liang e;",
+            "Thei thangc guang nimei guay hei",
+            "Nang khou ai ngangvlou the;",
+            "Tingkauh akai biak zaucna",
+            "Lwmgayna ai tat ni the,",
+            "Theic nic ringc nic ai suan e,",
+            "“Pou, Nang ningmei sw diu!”"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "My Jesus, as Thou Wilt!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "7.7.7.6. D.",
+        "CW 408",
+        "Benjamin Schmolck",
+        "My Jesus, as Thou Wilt!",
+        "source hymn 468",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 468."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU NANG NINGMEI SW DIU",
+        "titleRongmei": "JISU NANG NINGMEI SW DIU",
+        "titleEnglish": "My Jesus, as Thou Wilt!"
+      }
+    }
+  }
+}

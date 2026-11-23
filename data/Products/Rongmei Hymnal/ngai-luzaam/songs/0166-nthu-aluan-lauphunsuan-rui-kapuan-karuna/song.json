@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-166",
+    "number": 166,
+    "source": {
+      "printedNumber": 166,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nthu aluan lauphunsuan rui kapuan karuna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nthu aluan lauphun suan rui kapuan karuna,",
+            "Zeliangrong kandi ta nangniu rui ti-gaanlou",
+            "",
+            "Aniu lung kaluanthau na,",
+            "Khrista ta thuan kho;",
+            "Nkhuang baza kazauhna",
+            "Kata thuanku kho,",
+            "Adih nthuk kan tucho?",
+            "Raguang ramdam hei.",
+            "",
+            "2. Duipi duiba neihpat neihkei ramphaan zau puki,",
+            "Akandimei guai zipri bammei ta hou e.",
+            "",
+            "3. Kandi khou puanpiu suna gaimei munpuang guai rui,",
+            "Thautho thautho tuna nchiang bam the ‘niu ta.",
+            "",
+            "4. Ahuh, Alangh duipui rui na luangbam saan khou hei",
+            "Zeliangrong kandi hei khatsini kachan lak."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 166",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 166. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nthu aluan lauphunsuan rui kapuan karuna",
+        "titleRongmei": "Nthu aluan lauphunsuan rui kapuan karuna"
+      }
+    }
+  }
+}

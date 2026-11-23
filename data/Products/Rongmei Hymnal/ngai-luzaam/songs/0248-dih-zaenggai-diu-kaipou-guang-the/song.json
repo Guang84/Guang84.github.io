@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-248",
+    "number": 248,
+    "source": {
+      "printedNumber": 248,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Dih zaenggai diu, Kaipou guang the!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Dih zaenggai diu, Kaipou guang the!",
+            "Lungning kaguai na rui;",
+            "KaGuangh khang bam chamdaan kan diu;",
+            "Kauh le dih rui suan diu,",
+            "Kauh le dih rui suan diu,",
+            "Kauh le dih rui suanthau kan diu.",
+            "",
+            "2. Guloumei Pu rui Guangh tuthe!",
+            "Kandi rui zaenggai diu;",
+            "Chingh ‘zaeng, dih, dui, maansei guai rui,",
+            "Zaenggaimei lukhuan tei,",
+            "Suan kaluaihna suan diu,",
+            "Zaenggai lu suan kaluaih thau diu.",
+            "",
+            "3. Paap le rianra naidat lak khe,",
+            "Sauraengh ni nailak khe;",
+            "Suaihiam tilou diu khang guang e",
+            "Siang naipui bam kathui,",
+            "Siang naipui bam kathui,",
+            "Siang naipui bam kaguai nakhou.",
+            "",
+            "4. Nchumhmei le kazauzian rui,",
+            "Kandi ti hei sin the",
+            "Kahim daihmei, karam nzih,",
+            "Ch’rinmei karam zian tei",
+            "Ch’rinmei karam zian tei",
+            "Kandi zaat guai na rui thai the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 248",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 248. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Dih zaenggai diu, Kaipou guang the!",
+        "titleRongmei": "Dih zaenggai diu, Kaipou guang the!"
+      }
+    }
+  }
+}

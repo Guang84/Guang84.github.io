@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0681",
+    "number": 681,
+    "source": {
+      "printedNumber": 681,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W.W.How",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.10.10.",
+      "tune": "Alleluias HLC 533"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Taw zaengsw kanmei ’thanmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Taw zaengsw kanmei ’thanmei nunc zaeng khang,",
+            "Kandihmei khou Nang sakhi swmei khang,",
+            "Jisu, Nang zanc tingsaeng thuanhmei sw diu,",
+            "Alleluia, Alleluia.",
+            "",
+            "2 Nang ^&5 kaniw Taudaic, Rihpan swlou,",
+            "Pou, Nang ^&5 kaniw Ricpy swlou the;",
+            "Zinghmei, pingmei, gaanhmei Nang tiiswlou,",
+            "Alleluia, Alleluia.",
+            "",
+            "3 Nang ricmei nunc lwmnuhmei sw kan diu,",
+            "’Thanmei nunc kumcna baucna ’dow diu,",
+            "Ngammei pyrun kaniw laatow kan diu,",
+            "Alleluia, Alleluia.",
+            "",
+            "4 Rih tanc pwkhou rih hei dow saengc pwkhou,",
+            "Duh thangc trampet khwan ’nu khou tiichu o,",
+            "Thouna nai dat, pumtan nai dat kan diu,",
+            "Alleluia, Alleluia.",
+            "",
+            "5 Kachaekc tingzyn neihkey thangc gaanc pat the,",
+            "Lwmnuhmei rihmei khang ’thaekcmei guang the,",
+            "’Baanvthay puni, Paradais gay khou 5^&,",
+            "Alleluia, Alleluia."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "For All The Saints Who From",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "10.10.10.",
+        "Alleluias HLC 533",
+        "W.W.How",
+        "For All The Saints Who From",
+        "source hymn 681",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 681."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Taw zaengsw kanmei ’thanmei",
+        "titleRongmei": "’Taw zaengsw kanmei ’thanmei",
+        "titleEnglish": "For All The Saints Who From"
+      }
+    }
+  }
+}

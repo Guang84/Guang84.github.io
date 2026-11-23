@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-056",
+    "number": 56,
+    "source": {
+      "printedNumber": 56,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guanghdic Khat Thau Bow dat Nuh e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          56 Guanghdic Khat Thau, Bow Dat Nuhe",
+            "                                      8.8.9.4.Ref.",
+            "          Doh hei A",
+            "",
+            "          1. Guanghdic khat thau, bow dat nuh e;",
+            "             Zaatc guayna rui 'muc bam nuh e:",
+            "             'Kic Ravguangc Lat mu kalaic dat lak;",
+            "             Tingsaeng zaengna.",
+            "",
+            "          2. Ravguangc latryan lwm tho;",
+            "             Khrista khou lwm tho;",
+            "             Ringhbamv laa khang tingsaeng zaeng khang",
+            "             Kakhou lwm tho.",
+            "",
+            "          3. Kandih puat hei tingsaengh mak ge;",
+            "             Asaanh mak khou 'maan ngam pwni;",
+            "             'Kic Ravguangc Lat mu kalaic dat mak;",
+            "             Tingsaeng zaengna."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guanghdic Khat Thau Bow dat Nuh e"
+      }
+    }
+  }
+}

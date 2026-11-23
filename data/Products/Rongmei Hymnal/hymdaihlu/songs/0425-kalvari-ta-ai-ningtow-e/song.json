@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0425",
+    "number": 425,
+    "source": {
+      "printedNumber": 425,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. W.G. Martin",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "3 Alex 407"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KALVARI TA AI NINGTOW E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kamei zaylou khou ai tat ni,",
+            "Kakhou lwmmei ramgai thay the;",
+            "Ai ningtow e, akhang dyng e;",
+            "Kalvari khou theicloumei 1<~.",
+            "",
+            "Jisu ata zaylou puni,",
+            "Zingbangc kalaanv, kaganv",
+            "’thuic khou,",
+            "Gay liangmei Pam kiu Kamei e,",
+            "Kalvari ta ai ningtow e.",
+            "",
+            "2 Kalatdanv khou ai neihlaa e,",
+            "Karamzaylou ta ai pian the;",
+            "Kachwn hei akhang gay liang e,",
+            "Kalvari zei <~1 sw ’thanlou.",
+            "",
+            "3 Hu thangc ai gut ni, ping makna,",
+            "Khrista ’duanghlou zaeng neihlaana,",
+            "Neih khat sowriw khang lwmgayna,",
+            "Kalvarimei pu Jisu ta."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Remember Calvary",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "3/4",
+        "8.8.8.8. Ref.",
+        "3 Alex 407",
+        "Rev. W.G. Martin",
+        "Kamei zaylou khou ai tat ni",
+        "I Remember Calvary",
+        "source hymn 425",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 425."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KALVARI TA AI NINGTOW E",
+        "titleRongmei": "KALVARI TA AI NINGTOW E",
+        "titleEnglish": "I Remember Calvary"
+      }
+    }
+  }
+}

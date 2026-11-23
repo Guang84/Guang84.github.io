@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0698",
+    "number": 698,
+    "source": {
+      "printedNumber": 698,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "H.R.Palmer",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "6/8",
+      "meter": "9.8.9.8. D. Ref.",
+      "tune": "SS 1151"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nang panty chaenglwan hei kaamc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Nang panty chaenglwan hei kaamc thau the,",
+            "Saenghmei, gay hakmei chaenglwan e;",
+            "’Thiammei aching ching sowriw puni,",
+            "Kaidai guay siimei padik ge;",
+            "Kandih khou how gaymei ’peyna nai,",
+            "Theic nuhpui bamv ’peyna nai e;",
+            "Nang tuang ’suanmei khou",
+            "’thiam guang pw khou",
+            "Nuh mak ge, twna saa ngam o.",
+            "",
+            "Nuh mak ge, tw o, abungle, (2)",
+            "Nang bauc o, abung, (2)",
+            "Nuh mak ge, tw o, abungle.",
+            "",
+            "2 Bauhmei @{4 nang ta tiiduak puni,",
+            "Panty chaenglwan tat thau pwkhou,",
+            "Pu Ravguangc khou nang ngangvlou pwkhou,",
+            "Paapc khou @{4 nang ta gaeklou ni,",
+            "’Thiammei hei geic ranv khith khit puni,",
+            "Nang panty hei tat ku pwkhou;",
+            "Nang hei maansei khat sw nii ethei",
+            "Nuh mak ge, twna saa ngam o.",
+            "",
+            "3 Ramthay o, nang pam kapah pwkhou,",
+            "Bauhmei, kalingmei ta phu o;",
+            "Nchanv pwkhou pam ta ganclou rio,",
+            "Pam ling phaan pam thanh kapah rio,",
+            "Pam siimei @{4 nang ta ’thiam pwkhou,",
+            "Zouhbuangc puanc ’chamc khang khanv pw khou,",
+            "Ding ’tipna khaengsaengcna nang ding o,",
+            "Nuh mak ge, twna saa ngam o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Have Courage My Boy to Say No",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "6/8",
+        "9.8.9.8. D. Ref.",
+        "SS 1151",
+        "H.R.Palmer",
+        "“Nuh mak ge” tw o, abungle",
+        "Have Courage My Boy to Say No",
+        "source hymn 698",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 698."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nang panty chaenglwan hei kaamc",
+        "titleRongmei": "Nang panty chaenglwan hei kaamc",
+        "titleEnglish": "Have Courage My Boy to Say No"
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-028",
+    "number": 28,
+    "source": {
+      "printedNumber": 28,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Bumaeng thanmei le muang rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Bumaeng than mei le muang rui zailou meipu,",
+            "Guangc Immanuel na guang datro,",
+            "Numbang zing pui chaeng khou tat bam khou hei,",
+            "Gan guang datro ting kao",
+            "Ganphiu gaan gailiangmei pu rui.",
+            "",
+            "He! Kao ganphiew (2) gaimei,",
+            "Kanloumei pu le Guangh dailiang mei pu nang e,",
+            "Ryanra mei rui rih kum ma dai guang pusini,",
+            "Ring mei Ravguangc khou ting saeng zaeng bam ni.",
+            "",
+            "2. Nchum pui kaikham chaeng mun lan lou pui kan khou,",
+            "Kachaek namdai gaimei khou gut ni,",
+            "Paapzaeng khou rui ryanra lou mei guai tei,",
+            "Katikgunc daimei ram .",
+            "Guang tang pukhou mun kum puang ni.",
+            "",
+            "3. Lauziuna daimei neikei datmak pui ram khou,",
+            "Zianmei nun rui kan di ning dat lak,",
+            "Lauziunah tikgun daimei thuanku ni,",
+            "Ringhmei thingbang lim khou,",
+            "Mphuanmei pheiban na bam ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 28",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 28. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Bumaeng thanmei le muang rui",
+        "titleRongmei": "Bumaeng thanmei le muang rui"
+      }
+    }
+  }
+}

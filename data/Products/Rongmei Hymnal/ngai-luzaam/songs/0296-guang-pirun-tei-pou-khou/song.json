@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-195",
+    "number": 296,
+    "source": {
+      "printedNumber": 195,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.9.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guang pirun tei pou khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Guang pirun tei pou khou runlou tho,",
+            "Guang khrista ta meikin guai thuan diu;",
+            "Kajan aniu chakhuang champou ni,",
+            "Taoni tingsangjang na.",
+            "",
+            "Chorus:",
+            "Guang pirun tei niu run louni,",
+            "Himdai dihthang kakhou run louni,",
+            "Thuanni guangta thuanni,",
+            "Thanpui khuan kau ranni.",
+            "",
+            "2. Thuan o pouta kauh banchra guai le,",
+            "Kabampang hukhou nra jai o;",
+            "He jat guai le neilana kauh o,",
+            "Guang guai Guangta thuan o.",
+            "",
+            "3. Pap rih ngammei kaipou kamei e,",
+            "Kabumang ({0 niu lung hei sindiu;",
+            "Kajan pan({0 aniu rih ngamni,",
+            "Tingsang khang run lou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 195",
+        "SQLite BookTypeID 2",
+        "Key: G",
+        "Meter: 9.9.9.6.",
+        "Chord: G",
+        "Meta 3: 9.9.9.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 195); no high-confidence title match was found in the PDF list. The digital catalogue number is 296; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 195,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guang pirun tei pou khou",
+        "titleRongmei": "Guang pirun tei pou khou"
+      }
+    }
+  }
+}

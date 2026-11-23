@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-110",
+    "number": 110,
+    "source": {
+      "printedNumber": 110,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaganv Rau Guang the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          110 Kaganv Rau Guang the",
+            "                          10.8.8.7. Ref.9. 8.9.7",
+            "          Doh hei D",
+            "",
+            "          1. Kaganv rau guang the, chamdaanvna bam tho;",
+            "             Nzianmei guay taanv taanc la tho;",
+            "             Nang kaamc thauna Kataanv taanc tho;",
+            "             Nang Ravguangc ta ariu khang.",
+            "",
+            "               Lumlou latho he nzianmei guay;",
+            "               Kandih ramgai mpat la tho;",
+            "               Nang syan nang lanv ta laa nii mak ge;",
+            "               Nang bumaengc ta laa nii e.",
+            "",
+            "          2. Kandih ramgai phuna lungc bammei guay,",
+            "             Theihmei nganvna lwm mak ge thei,",
+            "             Saa ngam makmei ryanraamei tei,",
+            "             Kaniw khou tiilou pwni.",
+            "",
+            "          3. Ravguangc latdanv piuna lungc bammei guay,",
+            "             Rapchar tingmik guangpui nungc kiu,",
+            "             Kandih ryanraa ganclou ducna,",
+            "             Tingkauh ramc khou guang lungc ni.",
+            "",
+            "          4. Kandih khou lwmlouna theic kanmei guay,",
+            "             Kabamv baic baicna bam sinic,",
+            "             Tingkauh bianggun khwan chu pwkhou,",
+            "             Gu'meipu ta ariu ni.."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaganv Rau Guang the"
+      }
+    }
+  }
+}

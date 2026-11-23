@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0459",
+    "number": 459,
+    "source": {
+      "printedNumber": 459,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William P. Merrill",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "S.M.",
+      "tune": "HLC 461"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thau tho, Ravguangc mei nunc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thau tho, Ravguangc mei nunc!",
+            "Taanv kiak guay ganc key tho;",
+            "Lungning pumtan guay tiigut tho,",
+            "Guangh guay Guangc taanv",
+            "taanh khang.",
+            "",
+            "2 Thau tho, Ravguangc mei nunc!",
+            "Kaguangcdic phungc guang khang,",
+            "Chamchiu gaymei 1<: phungc",
+            "guang tho,",
+            "’Chumh makmei tii ’maan kho.",
+            "",
+            "3 Thau tho, Ravguangc mei nunc!",
+            "Phwamling {:1 ’khwan bam the,",
+            "Taanvdwan khang suangc pumtan ’suan the,",
+            "Thauna tiitanclou tio!",
+            "",
+            "4 Khrista kros puanc kauh o;",
+            "Kaphaykaamv suic tat ro,",
+            "Meic Nac ’Pouh chana nunc swna,",
+            "Thau tho, Ravguangc mei nunc!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Rise Up, O Men of God!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "S.M.",
+        "HLC 461",
+        "William P. Merrill",
+        "Rise Up, O Men of God!",
+        "source hymn 459",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 459."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thau tho, Ravguangc mei nunc",
+        "titleRongmei": "Thau tho, Ravguangc mei nunc",
+        "titleEnglish": "Rise Up, O Men of God!"
+      }
+    }
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0846",
+    "number": 846,
+    "source": {
+      "printedNumber": 846,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Salem ram thang njuan di kho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Salem ram thang njuan di kho,",
+            "Hu thang njuan tat ro;",
+            "He poubaumei ta ai phuna.",
+            "",
+            "Chorus:",
+            "He poubaumei tingsang ringmei neilamei,",
+            "He tikei lou o he apoubaumei,",
+            "Asei hei neila khang.",
+            "",
+            "2. Kandih rianra ram tuan pukhou,",
+            "Lung geimei nai lak khe;",
+            "Kanloumei puta hou pukhou.",
+            "",
+            "3. Ai thuan bam ni poubaumei ta,",
+            "Panti ngan na thuan ni;",
+            "Noupou pu lun ai hou mak san.",
+            "",
+            "4. Poubaumei #@8 jailou puni,",
+            "Suaihiam mei poubaumei;",
+            "Nang ban #@8 ata jai lou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "8.6.8",
+        "Salem ram thang njuan di kho",
+        "source hymn 116",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 116."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Salem ram thang njuan di kho",
+        "titleRongmei": "Salem ram thang njuan di kho"
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0328",
+    "number": 328,
+    "source": {
+      "printedNumber": 328,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "James Rowe",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "6/4",
+      "meter": "8.6.8.6 Ref.",
+      "tune": "3 Alex. 434"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AI JISU KUMC NiI DE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Dih ramgai $%6 ata kaw e,",
+            "Ai Jisu kumc ni de;",
+            "Dih $%6 ata ’thiam ngam pw lak,",
+            "Ai Jisu kumc ni de!",
+            "",
+            "Jisu kumc ni alu e,",
+            "Kai khou lev charuangcbam khou;",
+            "Kaganv ’thuic Jisu kumc ni!",
+            "Ai Jisu kumc ni de!",
+            "",
+            "2 Kamei $%6 kangriang guay sw taek,",
+            "Ai Jisu kumc ni de!",
+            "Kasiamruai sw chuy diangh khang e,",
+            "Ai Jisu kumc ni de!",
+            "",
+            "3 Kandih khou $%6 hymdaihmei nganv,",
+            "Ai Jisu kumc ni de!",
+            "Kap’ry rac kaluaih luaih bam ni,",
+            "Ai Jisu kumc ni de!",
+            "",
+            "4 Kauh thangc ata Kamei ’riw khang,",
+            "Ai Jisu kumc ni de!",
+            "\"Gay the!\" twna ata ’riw khang,",
+            "Ai Jisu kumc ni de!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I Would be Like Jesus!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "6/4",
+        "8.6.8.6 Ref.",
+        "3 Alex. 434",
+        "James Rowe",
+        "Dih ramgai rui ata kaw e",
+        "I Would be Like Jesus!",
+        "source hymn 328",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 328."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AI JISU KUMC NiI DE",
+        "titleRongmei": "AI JISU KUMC NiI DE",
+        "titleEnglish": "I Would be Like Jesus!"
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0488",
+    "number": 488,
+    "source": {
+      "printedNumber": 488,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William R. Featherstone",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.11.",
+      "tune": "SS 659"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HE JISU, NANG TA ZIAN E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Jisu, Nang ta zian e, Nang akhang e!",
+            "Nang khang #<8 ai paapc taanv guay ’patlou ngam the,",
+            "Nang hei Thuakloumei pu, Guloumei pu e,",
+            "Nang ta ai zianmei kiu ’taw hei the, Jisu!",
+            "",
+            "2 Ata zian reyloupui zaeng Nang ta zian e,",
+            "Kalvari kros khou Nang ata thuaklou the,",
+            "Nang azaeng khou #<8 sauh pyrun 8}@ run e;",
+            "Nang ta ai zianmei kiu ’taw hei the, Jisu!",
+            "",
+            "3 Ringc bam khou nic, theih khou nic Nang ta zian ni,",
+            "Athiu tiilaa bam saanv Nang ta thuanc bam ni;",
+            "Theih khang abuc tut key khou kumna saa ni:",
+            "“Nang ta ai zianmei kiu ’taw hei the, Jisu!”",
+            "",
+            "4 Neihlaa taek makmei hymdaihmei kauh kai khou,",
+            "Tiitahtamei khou Nang ta kalum bam ni;",
+            "K’riph ripmei pyrun runna thuancku bam ni,",
+            "Nang ta ai zianmei kiu ’taw hei the, Jisu!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "My Jesus, I Love Thee",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "11.11.11.11.",
+        "SS 659",
+        "William R. Featherstone",
+        "My Jesus, I Love Thee",
+        "source hymn 488",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 488."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HE JISU, NANG TA ZIAN E",
+        "titleRongmei": "HE JISU, NANG TA ZIAN E",
+        "titleEnglish": "My Jesus, I Love Thee"
+      }
+    }
+  }
+}

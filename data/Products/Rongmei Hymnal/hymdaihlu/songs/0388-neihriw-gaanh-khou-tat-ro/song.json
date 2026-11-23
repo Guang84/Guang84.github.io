@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0388",
+    "number": 388,
+    "source": {
+      "printedNumber": 388,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W. Robert Lindsay",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.7. Ref.",
+      "tune": "SS 1099"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NEIHRIW GAANH KHOU TAT RO",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neihriw gaanh khou tat ro, gaanc chuypui riw khou,",
+            "Lauthwan gaanc gay khou, zik keypui zingcbang khou;",
+            "Jisu thei lay o, tingmik ’thuic lay gut ro,",
+            "Chaeng kapwm Kathei lay o.",
+            "",
+            "Lay o, .. ’niu Jisu thei lay kho,",
+            "Lay o, tingmik pum lay o;",
+            "Lay o, zayloupui bamv kathuic,",
+            "Chaeng kapwm ’niu Jisu thei lay kho.",
+            "",
+            "2 Gaanhmei neicriw khou nic, zingh- mei khou punic,",
+            "Lauphunhswan ganv khou pw, chakaanv khou punic,",
+            "Kaipouc kawmei ’king o, Kalat hei piu o,",
+            "Chaeng kapwm Kathei lay o.",
+            "",
+            "3 Kachaekc neicriw khou nic, zinghmei swng khou nic,",
+            "Pwanzingh taanc guang khou nic, pwanzingh maek khou nic,",
+            "Kazauzian khou lwm o, tingmik luai mak saanv,",
+            "Chaeng kapwm Kathei lay o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Walking in the Sunshine",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "11.11.11.7. Ref.",
+        "SS 1099",
+        "W. Robert Lindsay",
+        "Walking in the Sunshine",
+        "source hymn 388",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 388."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NEIHRIW GAANH KHOU TAT RO",
+        "titleRongmei": "NEIHRIW GAANH KHOU TAT RO",
+        "titleEnglish": "Walking in the Sunshine"
+      }
+    }
+  }
+}

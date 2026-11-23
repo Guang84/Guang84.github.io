@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0012",
+    "number": 12,
+    "source": {
+      "printedNumber": 12,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William C.Doane",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10.",
+      "tune": "CW 99"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "RINGHMEI RACGUANGC HYMDAIH",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ringhmei Racguangc hymdaih",
+            "Guangc bamv khou dunghmei,",
+            "Meic guay Nang hu khou khuksunna huay diu!",
+            "Nang ramzian }?2 kandih ta suaihiam lou the,",
+            "Eden khou gaanhmei, ringhmei tiilou the.",
+            "",
+            "2 He ’Thanmei Pu, Nang nac nunc ta zaylou the,",
+            "Mai lev muanghtiangc }?2 zuk lwan kathuic khou,",
+            "Duipui chung khou ramkaengv kumc tiitatlou the,",
+            "Nang ta chakhwang swna ’niw ’bum key e.",
+            "",
+            "3 ’Thanmei Jisu chuzaenghmei Guangc Nac,Nang }?2",
+            "’Niw lungctow bammei chuzaenghmei tiilou,",
+            "Meic siimei }?2 rairiumei ta mathimlou,",
+            "Maansei lungpuam pwanzingh guay khaamlou e.",
+            "",
+            "4 Bumaengh ’Thanmei, Swmloumeipu, gaanhmei lev,",
+            "’Niw khou souclou o, tiiduakmei riw }?2;",
+            "Zinghmei khou }?2 ’niw lung hei tiiduaklou o,",
+            "Chumhmei riw 2}? ’taw khou }?2 gaanclou o. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Ancient of Days",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "11.10.11.10.",
+        "CW 99",
+        "William C.Doane",
+        "Ancient of Days",
+        "source hymn 12",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 12."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "RINGHMEI RACGUANGC HYMDAIH",
+        "titleRongmei": "RINGHMEI RACGUANGC HYMDAIH",
+        "titleEnglish": "Ancient of Days"
+      }
+    }
+  }
+}

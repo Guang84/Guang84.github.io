@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0606",
+    "number": 606,
+    "source": {
+      "printedNumber": 606,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "D.W.C.Huntington.",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.9.9.8. Ref.",
+      "tune": "SS 942"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He makumh o, tingkauh kai ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He, makumh o, tingkauh kai ta,",
+            "Gaanhmei duibaek daeng khou naimei 2}?,",
+            "’Thanmei nunc theic dat makna, gayna",
+            "’Phwanmei pwan piuna bammei 2}?.",
+            "",
+            "Hei thangc 2}?! (2)",
+            "He, makumh o, tingkauh kai ta!",
+            "Hei thangc 2}?! (2)",
+            "He, makumh o, tingkauh kai ta!,",
+            "",
+            "2 He, makumh o, ’niu rup nunc ta,",
+            "Aniu suangc tat hu kanmei nunc 2}?,",
+            "Lu gaymei kaniw suanna bam e,",
+            "Kaniw bamv Ravguangc kaidai khou.",
+            "",
+            "Hei thangc 2}?! (2)",
+            "He, makumh o, ’niu rup nunc ta!",
+            "Hei thangc 2}?! (2)",
+            "He, makumh o, ’niu rup nunc ta!",
+            "",
+            "3 Thangc 2}? Guloumei pu bam e,",
+            "Ariangluaic arup nunc ’thaekc bam e,",
+            "Arianra, dwanman guay ganclouna,",
+            "Samc ku ni dwan-gay dic thangc 2}?!",
+            "",
+            "Hei thangc 2}?! (2)",
+            "Thangc 2}? Guloumei pu bam e!",
+            "",
+            "4 Thangc 2}? ai tangc nuangc puni the,",
+            "Achaenglwan nganv nimei ai how the;",
+            "Ai }?2 zianmei nunc 2}? ’thangc 2}? }?2",
+            "Ata phaengcna khaanna bam the.",
+            "",
+            "Hei thangc 2}?! .. hei thangc 2}?!",
+            "’Thangc 2}? ai tangc nuangc puni the!",
+            "Hei thangc 2}?! (2)",
+            "Thangc 2}? ai tangc nuangcpuni the!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Home Over There",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "8.9.9.8. Ref.",
+        "SS 942",
+        "D.W.C.Huntington.",
+        "HEI THANGC TEI",
+        "The Home Over There",
+        "source hymn 606",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 606."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He makumh o, tingkauh kai ta",
+        "titleRongmei": "He makumh o, tingkauh kai ta",
+        "titleEnglish": "The Home Over There"
+      }
+    }
+  }
+}

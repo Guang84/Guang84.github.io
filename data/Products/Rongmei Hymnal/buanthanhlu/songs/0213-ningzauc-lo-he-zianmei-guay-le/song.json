@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-213",
+    "number": 213,
+    "source": {
+      "printedNumber": 213,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ningzauc lo, He 'Zianmei guay le",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          213 Ningzauc lo, He 'Zianmei Guay le !",
+            "                           8. 10.9.9. Ref. 10. 10.8",
+            "          Doh hei D",
+            "",
+            "          1. Ningzauc lo he 'zianmei guay le !",
+            "             Kaganv tingkwm hei nic tatna bam e;",
+            "             Aniw panty hei nic tat bam e;",
+            "             Ai ningngam mak tat kanmei ganv ta.",
+            "",
+            "                  He ai huay e tingkauh ramc gaymei tei,",
+            "                  Heic kandic ramgai guay 'tamvlou ducna,",
+            "                  'Zwan kan di kho 'zianmei guay le.",
+            "",
+            "          2. Nruay kumcna samc thay ethei,",
+            "             Chyng kauhmei lev dui paengc samc 'twan tat ni;",
+            "             Kachaekc kaphut rui kasiamhpui ramc,",
+            "             Nzwan di kho Kanaan ramc gay tei.",
+            "",
+            "          3. He ai huay e tingkauh ramc tei,",
+            "             Aniw panty hei nic kim dat lak khe.",
+            "             Meic ching ching rui lungc nipui ramc tei,",
+            "             Suc-nuc nau-nianmei nai dat lak khe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ningzauc lo, He 'Zianmei guay le"
+      }
+    }
+  }
+}

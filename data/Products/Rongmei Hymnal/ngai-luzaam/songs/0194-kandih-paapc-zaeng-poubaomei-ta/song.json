@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-194",
+    "number": 194,
+    "source": {
+      "printedNumber": 194,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih paapc zaeng Poubaomei ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandi pap zaeng poubaomei ta",
+            "Zingmei ri rui nimkan the",
+            "Katik gun dai liangmei puta",
+            "Akumna ningtou pat tucho",
+            "Guang rianra ta zau ngam mak 2",
+            "Ning ngam makge alung rui [2]",
+            "",
+            "2. Alung rianramei kaguaina",
+            "Phunglou the Kalvary khou",
+            "He thei kan the Kalvary khou",
+            "Zion naguai lung rianra na",
+            "Maichuang kum alungning khou 2",
+            "Rambaimei ning khang mak khe [2]",
+            "",
+            "3. Ai ningtou e namdai lung khou",
+            "Hosanna kao bampui dou",
+            "Sunu-naonianmei guai nata",
+            "Tigailou dat ngammei put a",
+            "Rianra guai ti maanlou na 2",
+            "Ti-neihlaloumei pu ta [2]",
+            "",
+            "4. Kana khou nousuan khou kumna",
+            "Neilamei gan ta ning e",
+            "Ntau thu munpuang kum tuaithe",
+            "Nanglun gaimei tei tuai lana",
+            "Galilee khou nang bammei 2",
+            "Tabui nung hou dat nicho [2]"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 194",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 194. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih paapc zaeng Poubaomei ta",
+        "titleRongmei": "Kandih paapc zaeng Poubaomei ta"
+      }
+    }
+  }
+}

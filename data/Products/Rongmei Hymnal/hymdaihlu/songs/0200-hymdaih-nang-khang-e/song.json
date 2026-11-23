@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0200",
+    "number": 200,
+    "source": {
+      "printedNumber": 200,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.11.11.11. Ref.",
+      "tune": "CW 244"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "HYMDAIH NANG KHANG E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Hymdaih Nang khang e, ringcthau datmei pu,",
+            "Theihmei ruc khou Nang #<8 rih ngamlou duc the,",
+            "Baanch’ra nunc #<8 keyna roukhamtauc laanclou,",
+            "Pou ta ’zipui bamv khou t’rou phey kadiplou.",
+            "",
+            "Hymdaih Nang khang e,",
+            "Ringcthau datmei pu;",
+            "Theihmei ruc khou Nang #<8",
+            "Rih ngamlou duc the.",
+            "",
+            "2 Zauc lo, Jisu 8}@ ringcthau dat bam the,",
+            "Nang ta ’zianna riu e, ping dat khang maek khe,",
+            "Ravguangc tuang phwamling nic rihngam lu suan diu,",
+            "Kaipouc ringcthau dat the, theihmei ngam mak khe.",
+            "",
+            "3 ’Niw lwmsii lak khe, hymdaihmei Guangc Nac,",
+            "Nang paan hamhna ’niw hei ramh khat sic ngam mak,",
+            "Ngammei nunc suangc ngammei ’niw ta swlou o,",
+            "Jordan dui zay kaanna kai zay guanglou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Thine is the Glory",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "10.11.11.11. Ref.",
+        "CW 244",
+        "Anonymous",
+        "Thine is the Glory",
+        "source hymn 200",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 200."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "HYMDAIH NANG KHANG E",
+        "titleRongmei": "HYMDAIH NANG KHANG E",
+        "titleEnglish": "Thine is the Glory"
+      }
+    }
+  }
+}

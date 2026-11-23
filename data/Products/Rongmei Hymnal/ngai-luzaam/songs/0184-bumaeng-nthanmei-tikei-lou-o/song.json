@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-184",
+    "number": 184,
+    "source": {
+      "printedNumber": 184,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Bumaeng nthanmei tikei lou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Bumaeng nthanmei tikei lou o",
+            "Kaipou Jisu zan khou,",
+            "Aniu lung khou hei tingsaengzaeng na",
+            "Maikum na ti chuang lou o.",
+            "",
+            "Penticost nung tei meiguai nakhou",
+            "Bumaeng Thanmei tikei;",
+            "Kaniu rukhou kei lou pui gankhou",
+            "Zaat guay lat thai ngam khuan e.",
+            "",
+            "2. Hei tei kumna mei guaina khang hei",
+            "Bumaeng Thanmei panrui",
+            "Aniu lung hei guang bam lou o;",
+            "Tingkao latguai thai ngam khang,",
+            "",
+            "3. Ram kaguaina ntang khuan sini",
+            "Mi lat kaeng hei nai e;",
+            "Pap guay kuak louna ringmei lakhang",
+            "Bumaeng Thanmei keilou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 184",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 184. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Bumaeng nthanmei tikei lou o",
+        "titleRongmei": "Bumaeng nthanmei tikei lou o"
+      }
+    }
+  }
+}

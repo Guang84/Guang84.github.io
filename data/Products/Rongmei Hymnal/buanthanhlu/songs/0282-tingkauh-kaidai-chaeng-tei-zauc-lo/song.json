@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-282",
+    "number": 282,
+    "source": {
+      "printedNumber": 282,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh Kaidai Chaeng tei Zauc lo",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          282 Tingkauh Kaidai Chaeng tei Zauc lo",
+            "                          8.9.9.9. Ref. 6.7. 5.5.9",
+            "          Doh hei Db",
+            "",
+            "          1. Tingkauh kaidai chaeng tei zauc lo;",
+            "             Tanc-bauhmei kaipouc guay ruan bam e;",
+            "             Kaniw ramh khat sihnic ping makna,",
+            "             Tingkauh kai khou neihlaana bam ni.",
+            "",
+            "                  He Kalvari chyng cross,",
+            "                  Nang tuang ch'rynmei pumtan guay,",
+            "                  Nang khou lwmmei guay,",
+            "                  Tingkauh kaidai khou,",
+            "                  Kachaekc pyrun runna ruan bam e.",
+            "",
+            "          2. Nrah lev khwan gaymei khwan rui,",
+            "             Gu'meipu ta kaniw thuanc bam e.",
+            "             Kandih tuang ryanraa guay amaanna,",
+            "             Neihlaana rih ngam lu suan bam e.",
+            "",
+            "          3. Poubauhmei Nang ramc ta ningna,",
+            "             Aniw guay Nang khou huayney taek mak.",
+            "             Kandih tuang suc-rih geihpui bamv khou,",
+            "             Aniw ta Nang pamv khou laalou o.",
+            "",
+            "          4. Mi hei neihlaa liangmei kiu e,",
+            "             Akhang Nang rui kasiamhloumei hei,",
+            "             Nang hu khou ai guang dingpui nungc kiu,",
+            "             Neihlaana Nang ta thuancna bam ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh Kaidai Chaeng tei Zauc lo"
+      }
+    }
+  }
+}

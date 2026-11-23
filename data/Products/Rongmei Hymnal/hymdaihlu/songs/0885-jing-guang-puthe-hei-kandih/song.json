@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0885",
+    "number": 885,
+    "source": {
+      "printedNumber": 885,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.4.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jing guang puthe hei kandih",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Jing guang puthe hei kandih hei,",
+            "Liam guang puthe jingmei lim @&4;",
+            "Aphai ding khou ganchuanga @&4,",
+            "Hou dat mak khe.",
+            "",
+            "Chorus:",
+            "Pouhta thuan e alung kapum,",
+            "Patlou duni hei kandih hei;",
+            "Nkha lou o ai kam thao the,",
+            "Tingkauh ramkhou jingguang puthe,",
+            "Hei kandih hei.",
+            "",
+            "2. Ai mang dutat akai khou @&4,",
+            "Kamuat guang the rianramei @&4;",
+            "Khaloumei mak champan guai @&4,",
+            "Nangbang ata.",
+            "",
+            "3. Jingpui ram e hei kandih hei,",
+            "Thut phui lou o kapmei mikdui;",
+            "Timan lou o kandih jangsi,",
+            "Akhou @&4 na.",
+            "",
+            "4. Kapmei khuan @&4 hei kandih khou,",
+            "Chu dat lak khe neilamei @&4;",
+            "Tingkauh ram thang naidat lak khe,",
+            "Mikdui kei mei.",
+            "",
+            "5. Hei kandih hei rianramei @&4,",
+            "Gan lou dulana juan guang the;",
+            "Tingkauh ram thang chana thiu le,",
+            "Suanrei guai le.",
+            "Favourite song: Acham Kamei"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "8.8.8.4.",
+        "Jing guang puthe hei kandih",
+        "source hymn 155",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 155."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jing guang puthe hei kandih",
+        "titleRongmei": "Jing guang puthe hei kandih"
+      }
+    }
+  }
+}

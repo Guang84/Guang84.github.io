@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-085",
+    "number": 85,
+    "source": {
+      "printedNumber": 85,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.9.11.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Meilung rianramei kandi khou hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Mei lung ryanra mei kandi khou hei,",
+            "Lung ryanra mik dui kei na khuan bam ;",
+            "Takmak nga Poubaomei duang lou o,",
+            "Zaat guay ryanra mei hei munkum na puang diu.",
+            "",
+            "He! Sam guang o poubaomei than mei ,",
+            "Kalvary khou zauzian lou mei tei;",
+            "Him chuang phei kum na aniu rukhou,",
+            "Kazit bam mo munv kum maa puangc dat nukhang.",
+            "",
+            "2. Nang ram gaimei tei ai housini ,",
+            "Ai neila ngam mak ge Poubaomei;",
+            "Alaukum ma zaatguai kapbam khou ,",
+            "Zaat guay nata nang rui tigai ngam lou o.",
+            "",
+            "3. Nuan rui ata gumliam bam sini,",
+            "Theimei ryanra mei khou bam sini;",
+            "Poubaomei ti o ring mei bumaeng ,",
+            "Zaat guay rianra mei hei munkumv ma puangc diu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 85",
+        "Khristian Luzaam PDF",
+        "Chord: E",
+        "Meta 3: 9.9.9.11."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 85. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 85,
+        "match": "title-match-0.97"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Meilung rianramei kandi khou hei",
+        "titleRongmei": "Meilung rianramei kandi khou hei"
+      }
+    }
+  }
+}

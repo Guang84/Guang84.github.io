@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0502",
+    "number": 502,
+    "source": {
+      "printedNumber": 502,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Eliza E. Hewitt",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.9.12.9. Ref.",
+      "tune": "SS 787"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai makumh e aseic",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai makumh e aseic, neihmik key kan pwkhou",
+            "Tangc nimei gaychuypui ramc ta 6_>;",
+            "Zauzian paan _>6 Gumei pu daeng khou ding pwkhou",
+            "Apyrun khou gaanchuangc nai ni cho?",
+            "",
+            "Apyrun khou gaanchuangc nai ni cho, gaanchuangcna,",
+            "Tingzyn kiu neihmik key kan pwkhou?",
+            "Dwan-gaymei nunc lev ai zaengthaek kai tangc pwkhou,",
+            "Pyrun khou gaanchuangcna nai ni cho?",
+            "",
+            "2 Taanc ranv ni, huayney ni Kaipouc tuang pumtan khou,",
+            "Bumaengh khuammei swna changkhaanv ni,",
+            "Hymdaih neic duidai khwan kumc",
+            "Kata thuanc pwkhou",
+            "Gaanc gaimei gaanchuangcakhang sw khang.",
+            "",
+            "3 Ai adih neihlaa ni Kazawpaanv how pwkhou,",
+            "Ringhmei lanv Kahu khou lou pwkhou,",
+            "Ai neihlaa diangc puni kachaekc kaidai khou kiu,",
+            "Apyrun khou gaanchuangc nai ethei."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Will There be Any Star?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "12.9.12.9. Ref.",
+        "SS 787",
+        "Eliza E. Hewitt",
+        "APYRUN KHOU GAANCHUNGC NAI",
+        "Will There be Any Star?",
+        "source hymn 502",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 502."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai makumh e aseic",
+        "titleRongmei": "Ai makumh e aseic",
+        "titleEnglish": "Will There be Any Star?"
+      }
+    }
+  }
+}

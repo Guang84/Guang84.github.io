@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0552",
+    "number": 552,
+    "source": {
+      "printedNumber": 552,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John E. Bode",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "CW 308"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Jisu, ai dinglou the,",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Jisu, ai dinglou the,",
+            "Nang siamruai sw suang khang;",
+            "Adaeng bam tuanc tanlou o,",
+            "AKaipouc, aDuangle;",
+            "Rih ta ai ping dat lak khe,",
+            "Nang adaeng bam pwkhou;",
+            "Chaeng maanvna ai ruan lak khe,",
+            "Nang }?2 zaylou pwkhou.",
+            "",
+            "2 Nang ’naa bammei tiithay o,",
+            "Siimei }?2 zyn bam khou;",
+            "Dih ramgai guay ai how e,",
+            "Nuhgay khwan }?2 ’thiam e;",
+            "Ata zauczihmei nunc }?2",
+            "Swkatuakc tanh tan e;",
+            "He Jisu guang tuanclou o,",
+            "Paapc khou }?2 gaeklou o.",
+            "",
+            "3 Nang khwan 2}? ai chu nii e,",
+            "’Than thiakh thiak, baekh baekna,",
+            "Lungh katuakcmei pwanzingc lev",
+            "Araana chwn ruc khou;",
+            "Saalou o, alung ding khang,",
+            "Katumh khang nzaeng khang,",
+            "He ata tiichulou o,",
+            "Abumaengc Kaipoucle.",
+            "",
+            "4 Kaipouc, Nang chaeng lyanlou o,",
+            "Khou2}? tiitatlou o,",
+            "Nang thei ai lay ’twn thay khang,",
+            "Nang khou na de ngamv hei;",
+            "Ata kanlou, zaylou o,",
+            "Katwan nganv pamclou o,",
+            "Kauh thangc ata laalou o,",
+            "AKaipouc, aDuangle. Amen!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O Jesus I Have Promised",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "7.6.7.6. D.",
+        "CW 308",
+        "John E. Bode",
+        "O Jesus I Have Promised",
+        "source hymn 552",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "derived-title",
+        "note": "No RongmeiIndexes row; title derived from source book 1, hymn 552 lyric text."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Jisu, ai dinglou the,",
+        "titleRongmei": "He Jisu, ai dinglou the,",
+        "titleEnglish": "O Jesus I Have Promised"
+      }
+    }
+  }
+}

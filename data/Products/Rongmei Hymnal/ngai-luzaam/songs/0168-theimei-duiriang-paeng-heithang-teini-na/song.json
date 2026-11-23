@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-168",
+    "number": 168,
+    "source": {
+      "printedNumber": 168,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Theimei duiriang paeng heithang teini na",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Theimei duiriang paeng heithang teini na",
+            "Akhang taekdat mak puikai nai e,",
+            "Nthanmei nun duipui kaanpat puinung",
+            "Heiram gaikhou tei lusuan bamni.",
+            "",
+            "He neihlapui kai, gaichuipui ram khou",
+            "Kaniu mikdui keidat makpui ram khou",
+            "Kainungmei guai le kanloumei puta",
+            "Taekmakna thuan kariu puni the.",
+            "",
+            "2. Akhang kapmei le bumaeng rianramei",
+            "Kalvary khou keitheilou khourui",
+            "Houmumei nunbaan khou theilou khourui",
+            "Akhang tingsaeng kai gaimei naithe.",
+            "",
+            "3. Ai satang thuimak ai neila nimei",
+            "Kaanpat loumei tingkao kai ramgai,",
+            "Ntam makpui ram gaichuipui ramkhou",
+            "Heikhou tei ai guangtang puni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 168",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 168. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Theimei duiriang paeng heithang teini na",
+        "titleRongmei": "Theimei duiriang paeng heithang teini na"
+      }
+    }
+  }
+}

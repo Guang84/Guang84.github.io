@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0235",
+    "number": 235,
+    "source": {
+      "printedNumber": 235,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "J.H.Stockton",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6.Ref.",
+      "tune": "SS 392"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guang o, paapc rui zyn bampui mei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guang o, paapc ^&8 zyn bampui mei,",
+            "Pou khou zauzian nai e;",
+            "Suai makna zaeng tii’thaekclou ni,",
+            "Kalat khou lwmlou ’thei.",
+            "",
+            "Kakhou lwm o! Kakhou lwm o!",
+            "’Taw Kakhou lwm tho!",
+            "Kamei Nang ta gulou puni!",
+            "’Taw gulou puni!",
+            "",
+            "2. Jisu kunghmei Kazei keylou,",
+            "Daihmei suaihiam tii khang;",
+            "’Taw hei Kazei khou 8^& lup tho,",
+            "Gunh kumc tii’phwanlou khang.",
+            "",
+            "3. Jisu hei ’Chumhmei e, Chaeng e,",
+            "’Thaekcpui bamv zaylou khang;",
+            "Nyan la ri tho, Kakhou lwm tho,",
+            "Suaihiam nang laa puni.",
+            "",
+            "4. Guang tho, ’thanmei pangc khou guang tho,",
+            "Hymdaih khou tat di kho,",
+            "Neihlaa taek makmei tingkauh khou,",
+            "Aniu lungc ’chamc di kho."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Only Trust Him",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.6.8.6.Ref.",
+        "SS 392",
+        "J.H.Stockton",
+        "KAKHOU LWM O",
+        "Only Trust Him",
+        "source hymn 235",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 235."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guang o, paapc rui zyn bampui mei",
+        "titleRongmei": "Guang o, paapc rui zyn bampui mei",
+        "titleEnglish": "Only Trust Him"
+      }
+    }
+  }
+}

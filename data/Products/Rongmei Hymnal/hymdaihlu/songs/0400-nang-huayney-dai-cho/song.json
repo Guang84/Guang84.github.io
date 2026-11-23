@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0400",
+    "number": 400,
+    "source": {
+      "printedNumber": 400,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Mrs. M.A. Kidder",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.5.8.8.5. Ref.",
+      "tune": "SSSH 367"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NANG HUAYNEY DAI CHO?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Seic lauthwan nang bamv ganclou khou",
+            "Nang huayney dai cho?",
+            "Guloumeipu Khrista zanc khou,",
+            "Kazauzian khang nang huay dai cho,",
+            "’Seic n-gih sw khang ?",
+            "",
+            "Oh huayney pwkhou zaengthaekmei,",
+            "Zingbangc ta kalaanv guanhlou;",
+            "Ryanra khou nic neihlaa khou nic",
+            "Huayney amuc rio.",
+            "",
+            "2 Nang ’thiammei ta akhangv pwkhou",
+            "Nang huayney dai cho?",
+            "Theihloumei Kazauzian paan $%6,",
+            "Bumaengh ’Thanmei khou huay dai cho,",
+            "Nang ta zaylou khang?",
+            "",
+            "3 Nang lungpuamhmei $%6 padik khou,",
+            "Nang huainey dai cho?",
+            "Pumtan khang nang huayney dai cho,",
+            "Nang ta tiilunghpuamhmeipu ta",
+            "Nang kuaklou ngam khang?",
+            "",
+            "4 Nang khou ’chanvmei ranv guang pwkhou,",
+            "Nang huainey dai cho?",
+            "Nang bumaengc ryanrana bam khou,",
+            "Tiigaymei puc khang nai dai cho?",
+            "Kalaanv raengcmun khou?"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Did You Think To Pray?",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "8.5.8.8.5. Ref.",
+        "SSSH 367",
+        "Mrs. M.A. Kidder",
+        "’Seic lauthwan nang bamv ganclou",
+        "Did You Think To Pray?",
+        "source hymn 400",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 400."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NANG HUAYNEY DAI CHO?",
+        "titleRongmei": "NANG HUAYNEY DAI CHO?",
+        "titleEnglish": "Did You Think To Pray?"
+      }
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-068",
+    "number": 68,
+    "source": {
+      "printedNumber": 68,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Neihlaamei Tingkauh Ramc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          68 He Neihlaamei Tingkauh Ramc",
+            "                      7.7.11.7.7. 11. Ref.7.9.7.7. 11",
+            "          Doh hei G",
+            "",
+            "          1. He neihlaamei tingkauh ramc,",
+            "             Tabui nungcrui tangc ni cho?",
+            "             Ai machunh e Nang guangcdic tingkauhramc tei.",
+            "             Nang guangcdic tingkauhramc tei,",
+            "             Tingsaeng zaeng 'maan dat lak khe;",
+            "             He ai ning liange neihlaamei tingkauhramc.",
+            "",
+            "                      Tabui nungc rui tangc ni cho?",
+            "                      Tabui nungc rui ai guangtangc ni cho?",
+            "                      \"Khwan ngam lakmei tingkauhramc,",
+            "                      T'ui nungcrui ai how ni cho?",
+            "                      He ai ning liang e neihlaamei tingkauhramc.",
+            "",
+            "          2. Kandih tuang neilaa guay rui,",
+            "             Ata nthiam guang sihnic,",
+            "             A-Kaipouc rui ata nduanghlou bam e.",
+            "             Ryanraamei kandihramc tei,",
+            "             Louducna ai tat pwkhou,",
+            "             Kandih ryanraamei guay tei ning dat lak khe.",
+            "",
+            "          3. Nang tingkauhramc gay khoutei,",
+            "             Bw neih gaanhmei nai lak khe;",
+            "             Ting pwanzingh lev ryanraamei nai dat lak khe;",
+            "             Lauziu Nac rui gaanc bam e;",
+            "             Zinghmei zingbangc nai lak khe.",
+            "             He ai ning liang e neihlaamei tingkauhramc."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Neihlaamei Tingkauh Ramc"
+      }
+    }
+  }
+}

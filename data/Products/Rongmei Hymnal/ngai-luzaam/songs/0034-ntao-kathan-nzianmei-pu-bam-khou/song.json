@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-034",
+    "number": 34,
+    "source": {
+      "printedNumber": 34,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ntao kathan nzianmei pu bam khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ntau kathan nzianmei Pu bam khou,",
+            "Poubaomei ram ‘tik dai;",
+            "Neihlaa mei munrim gaimei mun puang the,",
+            "Puangtuai dat pulak khe.",
+            "",
+            "Neihlaa puikai khou kariu puni,",
+            "Tingkao rihmei guay lev banghmei guai;",
+            "Ryanrapui ram khou kalangh bammei,",
+            "Pou’ hukhou neihla pui lu suanni.",
+            "",
+            "2. Ai rui ringhpui tingmik nai bamsaan khou,",
+            "Akhang muangh kumna zing;",
+            "Aniu rui mi ram tanghpui kaan khou rui,",
+            "Kandi hei ning lak khe.",
+            "",
+            "3. Hei kumhpui namdaih tei tanghpui kan khou,",
+            "Kandih hei ning lak khe;",
+            "Ntau karim namh gaimei tei namh the,",
+            "He ! Adih gaini cho?",
+            "",
+            "4. Ata kanloumeipu kaipou hukhou,",
+            "Kaguangh hukhou dingni;",
+            "Latzan swni kan loumei’ neihlaa khang,",
+            "Hallelujah Amen."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 34",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 34. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ntao kathan nzianmei pu bam khou",
+        "titleRongmei": "Ntao kathan nzianmei pu bam khou"
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-055",
+    "number": 55,
+    "source": {
+      "printedNumber": 55,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingsaenga tingsaenga Ravguangc ta ning e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Tingsaenga tingsaenga Ravguangc ta ning e,",
+            "Kandi dam thau makpui kan khou rui bam e;",
+            "Nang lungning thai ngam nimei thou nai nicho?",
+            "Nang lungning thai ngam nimei thou nai nicho?",
+            "",
+            "2. Tingkum chingkha hei nang khang neihkhat na kum,",
+            "Hei tei nang khang kagan khatna de kaipou;",
+            "Apanti heimu mang kumhpui tuang na de,",
+            "Tingmik kathuih kei maan the apanti hei.",
+            "",
+            "3. Mpuan rui liu khou thingnui tangkei mei kum,",
+            "Nang lungpuam khou rui meiguai thei ngam nuh e;",
+            "Nang zauzian khou rui meiguai ring ngam nuh e;",
+            "Nang zauzian khou rui meiguai ring ngam nuh e;",
+            "",
+            "4. Nang lungpuam lung khou akumhna ringni cho?",
+            "Nangta pinga tabui thang duplou nicho?",
+            "Sam thaina duidai pang thang samtat sini,",
+            "Hei thang teini nang bamde poubaomei le.",
+            "",
+            "5. Kata karana thai nsaak tuang makge,",
+            "Nangtaan nthukmei hei sa ngammei makge;",
+            "Dup maan nimei bam khatna sini makge,",
+            "Nang lungning guai thai ntang nimei makge."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 55",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 55. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingsaenga tingsaenga Ravguangc ta ning e",
+        "titleRongmei": "Tingsaenga tingsaenga Ravguangc ta ning e"
+      }
+    }
+  }
+}

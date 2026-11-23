@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-280",
+    "number": 280,
+    "source": {
+      "printedNumber": 280,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh Jirusalem Namvdai Khoutei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          280 Tingkauh Jirusalem Namvdai Khou",
+            "          10.11.10. 11. Ref. 11. 11. 10. 11",
+            "          Doh hei D",
+            "          1. Tingkauh Jirusalem namvdai khoutei.",
+            "             Charuangc daihmei khoutei ai guang bam pwni.",
+            "             ARavguangc Jisu rui guangna saa e;",
+            "             Kamei nunc tei muangh ruckhou key pwni the.",
+            "",
+            "                     Tingkauh Jirusalem khoutei meic guayna,",
+            "                     Tingsaeng zaeng ringhmei thingbang lim khoutei,",
+            "                     Khwan gaymei guay rui Ravguangc ta thuanc ni.",
+            "                     Nang nic guang zihna cho heic ramc gay khoutei?",
+            "",
+            "          2. Tingkauh Jirusalem namvdai khoutei,",
+            "             Guangtangh khang kaganv hei anaaguang pwthe.",
+            "             Nang heicramc tangh khang ningna bam tu cho?",
+            "             Nangniw tat zihna cho heicramc gay khoutei?",
+            "",
+            "          3. Tingkauh Jirusalem namvdai khoutei,",
+            "             Mphuammei, siimei, lat saraamhmei saamei,",
+            "             Ding ngam ni tuang hamh the mi bamv khoutei;",
+            "             Lauziu Nac ringhmei latrik khou zanh maekmei.",
+            "",
+            "          4. Tingkauh Jirusalem namvdai khoutei,",
+            "             Kachaekc kaphut kumcna kamv dat zat lak khe:",
+            "             labui nungc pwsihnic 'tamv dat lak khe;",
+            "             Neihlaa zaenggayna bam pwni heic khoutei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh Jirusalem Namvdai Khoutei"
+      }
+    }
+  }
+}

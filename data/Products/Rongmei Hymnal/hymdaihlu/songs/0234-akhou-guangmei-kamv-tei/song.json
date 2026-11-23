@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0234",
+    "number": 234,
+    "source": {
+      "printedNumber": 234,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Jessie C.Young",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.8.8.8. Ref.",
+      "tune": "SS 362"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AKHOU GUANGMEI KAMV TEI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Gumeipu kaw e, guang zauc lo,",
+            "Ramh guay nang khang",
+            "chamdaanvlou the!",
+            "Ringhmei, zianmei Ravguangc",
+            "khou ^&8,",
+            "Khrista kahak ^&8 phungc guang the.",
+            "",
+            "",
+            "“Akhou guangmei (3) kamv ta,",
+            "Ganc pat dat lak khe (3) Ai ^&8!",
+            "Akhou guangmei (3) kamv ta,",
+            "Ganc pat dat lak khe (3) Ai ^&8!”",
+            "2 Gumeipu kaw e, guang lak cho?",
+            "Kakhwan 8^& lunghsii makna cho?",
+            "Ziangrih patna nang ’king lak cho?",
+            "’Khwan bam khou guang nii",
+            "makna cho?",
+            "",
+            "3 Kamei nang paap ta thay bam de,",
+            "Nang lung khou Kabamv khang tii o,",
+            "Kamei gutna sw ’thanlou ni;",
+            "Suaihiam kaguay tiilou puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“Him that Cometh!”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "8.8.8.8. Ref.",
+        "SS 362",
+        "Jessie C.Young",
+        "Guloumeipu kaw e",
+        "“Him that Cometh!”",
+        "source hymn 234",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 234."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AKHOU GUANGMEI KAMV TEI",
+        "titleRongmei": "AKHOU GUANGMEI KAMV TEI",
+        "titleEnglish": "“Him that Cometh!”"
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0354",
+    "number": 354,
+    "source": {
+      "printedNumber": 354,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "P.P. Bliss",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 805"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NANG MAIBWNG TEI DAANC GAANC O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Pu zauzian kachan gay bam e,",
+            "Tingsaeng gaanhmei kai thangc }?2;",
+            "’’Ki ’niu ta Kamei thouclou e,",
+            "Duikhuangc maibungc zauc bamkhang.",
+            "",
+            "Nang maibungc 2}? daanc gaanc chuy o!",
+            "Duiluat zinghmei gaanc kaan tio!",
+            "Sansiimei rungh khou tuanghmei ta",
+            "Nang mai riw }?2 kan nuh e.",
+            "",
+            "2 Paapc zingbangc hei zingc miw bam the,",
+            "Ting-pwanzingh khwan ranv",
+            "guang the;",
+            "Lakmei nunc machunhna phaengc bam,",
+            "Duikhuangc khou mai riw khang ta.",
+            "",
+            "3 Nang maibungc phwan giak ’than chuy tho,",
+            "Ting-pwanzingh akhaengvmei nunc;",
+            "Rungh ’thaekc bamv guang khang karamc bam,",
+            "Zingh khou kaniw ’maan nuh e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Let the Lower Lights be Burning",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "3/4",
+        "8.7.8.7. Ref.",
+        "SS 805",
+        "P.P. Bliss",
+        "Pu zauzian kachan gay bam e",
+        "Let the Lower Lights be Burning",
+        "source hymn 354",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 354."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NANG MAIBWNG TEI DAANC GAANC O",
+        "titleRongmei": "NANG MAIBWNG TEI DAANC GAANC O",
+        "titleEnglish": "Let the Lower Lights be Burning"
+      }
+    }
+  }
+}

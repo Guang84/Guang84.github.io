@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0918",
+    "number": 918,
+    "source": {
+      "printedNumber": 918,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "11.7.11.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai tingmik thui kaipou nang thei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Ai tingmik thui kaipou nang thei lai tatni,",
+            "Ai hei kaipou nang tuang e;",
+            "Changkhou ai punkei bam khuansini nanghei,",
+            "Akaipou sulou bam e.",
+            "",
+            "Chorus:",
+            "Nthiammei puanjing ran guang pusini,",
+            "Ting-nei sihguang sini ai nang tuang;",
+            "Tingsangjang khang ai nangtuang suni the,",
+            "Ai hei kaipou nang tuang e.",
+            "",
+            "2. Meinun +:1 karang jaojih guang khuansini,",
+            "Ai hei kaipou nang tuang e;",
+            "Champan guai ata ganlou du pusini,",
+            "Ai hei kaipou nang tuang e.",
+            "",
+            "3. Kandih kabam thui khou ruantat bamsini,",
+            "Ai hei kaipou nang tuang e;",
+            "Ai thei ni ringni tabui guang pusini,",
+            "Ai hei kaipou nang tuang e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "11.7.11.7.",
+        "Ai tingmik thui kaipou nang thei",
+        "source hymn 188",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 188."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai tingmik thui kaipou nang thei",
+        "titleRongmei": "Ai tingmik thui kaipou nang thei"
+      }
+    }
+  }
+}

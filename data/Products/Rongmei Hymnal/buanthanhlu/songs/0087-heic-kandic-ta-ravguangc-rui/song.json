@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-087",
+    "number": 87,
+    "source": {
+      "printedNumber": 87,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Heic Kandic ta Ravguangc rui",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          87 Heic Kandic ta Ravguangc rui",
+            "                             10. 10. 10. 10",
+            "          Doh hei D",
+            "",
+            "          1. Heic kandic ta Ravguangc rui damclou the;",
+            "             Kalatkaeng paan rui ramh guay ta damclou;",
+            "             Kabaanc kahak rui maansei ta damclou:",
+            "             Ramh guay ruc sin khang maansei ta damclou.",
+            "",
+            "          2. Kabaansiam guay pangc khou maansei guay ta",
+            "             Nthukna kungcna nzian diangclou the:",
+            "             Kumsihnic Kazauzian ta thaylou mak.",
+            "             Kumpui zaengrui latzan khou guang ding ni.",
+            "",
+            "          3. Taanc zi makmei taancna bammei guay ta,",
+            "             Tu zi makmei tu-zangy bammei guay ta,",
+            "             Saa zi makmei lat saa bammei guay ta,",
+            "             Latzan sw khang tingmik anaaguang the.",
+            "",
+            "          4. Latzan nungc kiu nang ta saaguclou khang,",
+            "             Nai pwni de twna nang ningna cho?",
+            "             Mwang rui saaduak ngam nuh de twna cho?",
+            "             Nang ta saagucloumei nai pwlak khe.",
+            "",
+            "          5. Kandih khou meicbw meicdowlou sihnic,",
+            "             Bw-dow mak ge twna saaduak ngam de;",
+            "             Ravguangc latzan khou thu duak ngam lak ge",
+            "             Nang taanvphy tei nang khang tii pwni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Heic Kandic ta Ravguangc rui"
+      }
+    }
+  }
+}

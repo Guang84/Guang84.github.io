@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0434",
+    "number": 434,
+    "source": {
+      "printedNumber": 434,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Wm. H. Grandner",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 705"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guang ding rian o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Luanghbut lev chyng kauhmei ruc khou",
+            "Gaychamv trampet khwan ’king o,",
+            "Lungh tiithaupui khwan 8}@ ’king o,",
+            "Latchamv 8}@ meic guay khang e.",
+            "",
+            "Guang ding rian o, rih adow khang,",
+            "Trampet khwan khou kaduai tho;",
+            "Guang tho! guang tho!",
+            "Guang tho, khristian rihphyan guay.",
+            "",
+            "2 Khristian ricpwan guay 8}@ piu o,",
+            "Hymdaih chuangcphey daanc kauh o,",
+            "Chumhmei lev ’zihmei khang ’dow o,",
+            "Baanch’ra guay #<8 phaengc bam the.",
+            "",
+            "3 ’Muan dat ro, kachaekc trampet 8}@,",
+            "Rih-’saanvmei khwan ’muan ranv o;",
+            "Meic kathuic Jisu khang ‘dow o,",
+            "’Niu theic sihni rih ngam ni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "SS 705",
+        "Wm. H. Grandner",
+        "Luanghbut lev chyng kauhmei",
+        "Fall into Line!",
+        "source hymn 434",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 434."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guang ding rian o",
+        "titleRongmei": "Guang ding rian o"
+      }
+    }
+  }
+}

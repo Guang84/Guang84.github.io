@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0614",
+    "number": 614,
+    "source": {
+      "printedNumber": 614,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Flora L.Best",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.11.11.10. Ref.",
+      "tune": "RS 444"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai rui suan niimei neihlaamei lu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai #<8 suan niimei neihlaamei lu nai,",
+            "Lauphunhswan khou ’ruayna kumc neihlaa pwkhou;",
+            "Alu hei neihlaamei padikmei lu e;",
+            "Zinghmei ta nganv tiigaanc ngammei lu e.",
+            "",
+            "Ch’rynpui lu, lu thanh! (2)",
+            "’Taw ai suan ngam the, thuakloumei nunc lev;",
+            "Ngamv lev guanghdic hei guanghtu nimei pu khang,",
+            "Swluai kanmei Lauziu Nac hym daic diu!",
+            "",
+            "2 Ai kunghmei riangluaic, kaikhunhmei nai e,",
+            "Katuakc khou kaniw lat katupna ’king e;",
+            "’Ki gay ranvmei kai khat naimei ai thay e,",
+            "Thangc 8}@ suanmei lu 8}@ ai nic suan e.",
+            "",
+            "3 Ai reih rei ni cho, lungh ryanra ni cho,",
+            "Kaipouc #<8 ata tiineihlaalou bam khou?",
+            "Kamei #<8 kai gaymei peyna ta soucna",
+            "“Nang khang nic bamv nai,” twnainc bam khou?",
+            "",
+            "4 Kai gaymei ta 8}@ ai how puni the,",
+            "Diwsiimei panty hei tingzyn key pwkhou;",
+            "Ai thay e, diwsiimei, zinghmei lym khou hei,",
+            "Kakhou zaylou khang gaanhmei chaeng nai e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The New Song",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "10.11.11.10. Ref.",
+        "RS 444",
+        "Flora L.Best",
+        "LU THANH",
+        "The New Song",
+        "source hymn 614",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 614."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai rui suan niimei neihlaamei lu",
+        "titleRongmei": "Ai rui suan niimei neihlaamei lu",
+        "titleEnglish": "The New Song"
+      }
+    }
+  }
+}

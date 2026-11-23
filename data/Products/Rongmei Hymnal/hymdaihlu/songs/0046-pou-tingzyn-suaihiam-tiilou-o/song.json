@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0046",
+    "number": 46,
+    "source": {
+      "printedNumber": 46,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "James Edmeston",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "2/4",
+      "meter": "8.7.8.7.",
+      "tune": "HLC 558"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pou, tingzyn suaihiam tiilou o",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Pou, tingzyn suaihiam tiilou o.",
+            "’Niw bumaengc zaeng sw mak khou,",
+            "’Niw paap guay Nang khou kalauh e,",
+            "Kuaklou khang, tiigaylou khang.",
+            "",
+            "2 Theic nuhmei lwnlung padik ge,",
+            "Sauhpailu samc kaan bam e,",
+            "Nang baanch’ra nunc gaeklou bam e,",
+            "Nang ’naa bam khou ’niw duak ge.",
+            "",
+            "3 Zingbangc hei zingc ranv hak sihni,",
+            "Zinghmei ({0 nkamh ngam mak,",
+            "Nang thu lak zat makmeipu e,",
+            "Nang mei nunc ta gaek bam khou.",
+            "",
+            "4 Aseic zingbangc theic nangc sihni,",
+            "’Niw laeng hei t’rou guanh sihni,",
+            "Kauh lauthwan khou tiithaulou ni,",
+            "Theic dat lakmei pwan piuna. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Saviour, Breathe an Evening Blessing",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "2/4",
+        "8.7.8.7.",
+        "HLC 558",
+        "James Edmeston",
+        "Saviour, Breathe an Evening Blessing",
+        "source hymn 46",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 46."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pou, tingzyn suaihiam tiilou o",
+        "titleRongmei": "Pou, tingzyn suaihiam tiilou o",
+        "titleEnglish": "Saviour, Breathe an Evening Blessing"
+      }
+    }
+  }
+}

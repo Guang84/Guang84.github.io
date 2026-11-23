@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0808",
+    "number": 808,
+    "source": {
+      "printedNumber": 808,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.10.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Pou Raguang katana ngammei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Pou Raguang katana ngammei,",
+            "Alung jingmei hei tigan lou o;",
+            "Nang bumang thanmei rui duanglou na,",
+            "Kapma kalang bammei khou hei.",
+            "",
+            "Chorus:",
+            "He tingjauh bumang thanmei,",
+            "Lum makmei le lung khuaimei;",
+            "Ningsum rianra dai pui ram,",
+            "Mai rui tikao nthan no.",
+            "",
+            "2. Kandih lun ta hei ning lana,",
+            "Pou rui theimei ngan jai lou o;",
+            "Kandih mei riak le neilamei guai,",
+            "Tingsang man kan nituang de.",
+            "",
+            "3. Israel jat nun 2!- ruina,",
+            "Apoubaumei ta tang lum bam;",
+            "Egypt ram le rei khou lun ninga,",
+            "Chang dak khou mei peina thei the.",
+            "",
+            "4. Njianlou o he pou Jisu,",
+            "Ringpui chang hei tithai lou o;",
+            "Ai ninga kap tanh tanna bam the,",
+            "He lathao lou o poubaumei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "8.8.10.8.",
+        "Pou Raguang katana ngammei",
+        "source hymn 78",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 78."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Pou Raguang katana ngammei",
+        "titleRongmei": "Pou Raguang katana ngammei"
+      }
+    }
+  }
+}

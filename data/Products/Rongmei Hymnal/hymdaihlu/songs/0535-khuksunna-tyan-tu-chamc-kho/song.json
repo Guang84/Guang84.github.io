@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0535",
+    "number": 535,
+    "source": {
+      "printedNumber": 535,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Traditional Spitual",
+      "composer": null,
+      "arranger": null,
+      "chord": "Fb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6.6.7.7.",
+      "tune": "HLC 213"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khuksunna ’tyan tu ’chamc kho,",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Khuksunna ’tyan tu ’chamc kho,",
+            "Khuksunna, khuksunna;",
+            "Khuksunna ’tyan tu ’chamc kho,",
+            "Khuksunna, khuksunna;",
+            "Ai khuksun key khou hei",
+            "Theicloumei kros ta zauc e,",
+            "He Pou, zauc-nzianlou o.",
+            "",
+            "2 Kaipouc buangc hei puanc ’chamc kho,",
+            "Khuksunna, khuksunna;",
+            "Kaipouc buangc puanc nchamc kho,",
+            "Khuksunna, khuksunna;",
+            "Ai khuksun key khou hei",
+            "Theicloumei kros ta zauc e,",
+            "He pou, zauc-nzianlou o.",
+            "",
+            "3 Ravguangc ta thuancku ’chamc kho,",
+            "Khuksunna, khuksusnna;",
+            "Ravguangc ta thuancku ’chamc kho,",
+            "Khuksunna, khuksunna;",
+            "Ai khuksun key khou hei",
+            "Theicloumei kros ta zauc e,",
+            "He Pou, zauc-nzianlou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Let Us Break Bread Together",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Fb",
+        "4/4",
+        "7.6.7.6.6.7.7.",
+        "HLC 213",
+        "Traditional Spitual",
+        "Let Us Break Bread Together",
+        "source hymn 535",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "derived-title",
+        "note": "No RongmeiIndexes row; title derived from source book 1, hymn 535 lyric text."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khuksunna ’tyan tu ’chamc kho,",
+        "titleRongmei": "Khuksunna ’tyan tu ’chamc kho,",
+        "titleEnglish": "Let Us Break Bread Together"
+      }
+    }
+  }
+}

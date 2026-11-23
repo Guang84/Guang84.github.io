@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0548",
+    "number": 548,
+    "source": {
+      "printedNumber": 548,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "E. Margaret Clerkson",
+      "composer": null,
+      "arranger": null,
+      "chord": "A",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.11.10. Ref.",
+      "tune": "HLC 481"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ndiulou the nang ta laupuk khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ndiulou the nang ta laupuk khou taanh khang,",
+            "Kaphydam maek, zianlou thaylou makna,",
+            "Mphut luhmei, sinnui, malaamei ’khaengv khang,",
+            "Thouclou tu the, Akhang ryanra ’khaengv khang.",
+            "",
+            "2 Ndiulou the lungh bak, zamv suhmei ding khou,",
+            "Mikdui keyna, lakna siamruai sw khang,",
+            "Ryanra lakmei kandihmei puatrith phungh khang,",
+            "Thouclou tu the Azaeng ryanra ’khaengv khang.",
+            "",
+            "3 Ndiulou the chwn karumna, machunhna,",
+            "How dat makmei zianmei nunc ta ningna,",
+            "Kailau, riangluaih, pamrai guay ganclou duh khang,",
+            "Thouclou tu the Aramzian na thay khang.",
+            "",
+            "4 Ndiulou the kahawmei guay ganclou khang,",
+            "Ningmei, tamhmei, machunc guay ganclou khang,",
+            "Howmumei ta zianna, lakna taanv sw khang,",
+            "Thouclou tu the nang panty ’zuklou khang.",
+            "",
+            "5 Ndiulou the lungning tanhmei nunc ding khou,",
+            "Karaengmei !}2 miktiat bammei pangc khou,",
+            "Daeklou makna, zei keymei nganv tiipat khang,",
+            "Thouclou tu the Kalvari thukh thay khang.",
+            "Pu !}2 Ata thouclou kumc",
+            "Nang ta thouclou the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "So Send I You",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "A",
+        "4/4",
+        "11.10.11.10. Ref.",
+        "HLC 481",
+        "E. Margaret Clerkson",
+        "So Send I You",
+        "source hymn 548",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 548."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ndiulou the nang ta laupuk khou",
+        "titleRongmei": "Ndiulou the nang ta laupuk khou",
+        "titleEnglish": "So Send I You"
+      }
+    }
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-260",
+    "number": 260,
+    "source": {
+      "printedNumber": 260,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc Zanc khou Nzianmei Guay",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          260 Ravguangc Zanc Khou Nzianmel",
+            "                         8.8.8.8.Ref. 8. 8. 8.8",
+            "          Doh hei Gb",
+            "",
+            "          1. Ravguangc zanc khou nzianmei guay,",
+            "             Nang phaydyng tei ding 'tip la tho;",
+            "             Guang pwni the, pat pwni the.",
+            "             Kanuk pwni the kandih hei.",
+            "",
+            "                       Nang laupuk khou, nang pikwan khou;",
+            "                       Nang ki, nang ruai, nang kaikhunc khou;",
+            "                       Ravguangc lungpuam guang mak khangrui;",
+            "                       Huayney ranv tho nzianmei guay.",
+            "",
+            "          2. Zauc ngammakmei how pingmei lwn,",
+            "             Kapmei ryanraa kalanghmei khwan,",
+            "             Chu pwni the, how pwni the:",
+            "             Kaikhunh kathuih, phwamling kathuih.",
+            "",
+            "          3. Khouringh guay khou, phwnling guay khou;",
+            "             'Pyan 'raamei hei guang pwni the.",
+            "             Kalatryan hei guangtangh khangrui,",
+            "             Guang pwni the, pat pwni the.",
+            "",
+            "          4. Nouha kin khou pat kanmei tei,",
+            "             'Dih nam ruc khou kalung p'rik guay,",
+            "             Duidai ruina khiu kanmei kumc.",
+            "             Guang pwni the, pat pwni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc Zanc khou Nzianmei Guay"
+      }
+    }
+  }
+}

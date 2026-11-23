@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-129",
+    "number": 129,
+    "source": {
+      "printedNumber": 129,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "9.7.7.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kalvary ching khou Poubaomei ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kalvary ching khou Poubaomei ta;",
+            "Kros rukhou sauh pirun le;",
+            "Meinun rui zauna nuih khang,",
+            "Kros rukhou tei thaenglou the.",
+            "",
+            "He! Adih sucho?",
+            "Pouh rui khaengloumei tei;",
+            "Kapi, kaphai kabaanh zaulo!",
+            "Kandihmei paap zaeng khou rui,",
+            "Nthanmei zei luang kei e",
+            "Nzian liang meipu ta.",
+            "",
+            "2. Theih khang tari bampui gan khou tei,",
+            "Mei khatna sini makge;",
+            "Zauzihmei nu rui raina,",
+            "Tari liat laknga thei the.",
+            "",
+            "3. Tari e na bampui gan khou tei,",
+            "Khianghmei dui ti-zanglou e;",
+            "Khianghmei dui rui kim lakge,",
+            "Bumaengh khang tarimei tei.",
+            "",
+            "4. Bumaengta kanlou mei Pu zei tei,",
+            "Ai rui din ngam thui lakge;",
+            "Tatna Kalvary ching khou,",
+            "Poubaomei ta guang zau lo."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 129",
+        "Khristian Luzaam PDF",
+        "Chord: D",
+        "Meta 3: 9.7.7.7."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 129. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 135,
+        "match": "title-match-0.93"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kalvary ching khou Poubaomei ta",
+        "titleRongmei": "Kalvary ching khou Poubaomei ta"
+      }
+    }
+  }
+}

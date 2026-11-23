@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0164",
+    "number": 164,
+    "source": {
+      "printedNumber": 164,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William B.Tappan",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.8.8.8.",
+      "tune": "CW 232"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zipchwng Oliv chyng twan",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zipchwng, Oliv Chyngtwan khou hei",
+            "Gaanhmei gaanchuangc guay kamv key the;",
+            "’Taw zipchwng ganv khou pikwan khou",
+            "Guloumeipu huayney bam e.",
+            "",
+            "2 Zipchwng, Kapam-karai maekna",
+            "Pou #<8 pingmei ta akhangv bam,",
+            "Zianmei Kaziap nunc #<8 nganvna",
+            "Pou ramrianra thaylou mak khe.",
+            "",
+            "3 Zipchwng, baihmei khuay zaeng khou #<8",
+            "Gumeipu zei phiangcna kap be,",
+            "Lungh bakna huay bammei pu ta",
+            "KaRavguangc #<8 nuhlou mak ge.",
+            "",
+            "4 Zipchwng, tingkauh nzaengc thangc #<8",
+            "Baanch’ra na #<8 thaymei lu suan;",
+            "Dihmei chu tow makmei lu #<8",
+            "Gumeipu ramrianra swmlou."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "’Tis Midnight; and on Olive’s Brow",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "8.8.8.8.",
+        "CW 232",
+        "William B.Tappan",
+        "’Tis Midnight; and on Olive’s Brow",
+        "source hymn 164",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 164."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zipchwng Oliv chyng twan",
+        "titleRongmei": "Zipchwng Oliv chyng twan",
+        "titleEnglish": "’Tis Midnight; and on Olive’s Brow"
+      }
+    }
+  }
+}

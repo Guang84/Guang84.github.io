@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0531",
+    "number": 531,
+    "source": {
+      "printedNumber": 531,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Anonymous",
+      "composer": null,
+      "arranger": null,
+      "chord": "Fb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "6.6.8.6.",
+      "tune": "CW 450"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Pou, aniw guang e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Pou, aniw guang e,",
+            "Nang tiiloumei chaeng khou;",
+            "Nang latdanv khou saamei piuna,",
+            "Latryan daihmei sw e.",
+            "",
+            "2 Nthanmei riak ta hei",
+            "Suaihiamlou o, he Pou,",
+            "’Niw ta Nang khou tiibamlou o,",
+            "Pumtan nic tiilou o.",
+            "",
+            "3 Nang tuang ’thanmei phwam khou",
+            "Bamna kadam laa khang,",
+            "Nang siamruai 1<: ’twnna sw khang,",
+            "’Thanmei riak hei laa ni.",
+            "",
+            "4 He Pou, Nang lev aniw",
+            "Dui-t’rou khou phup ’chamcna",
+            "Bumaengh khou ringcthaumei sw ni,",
+            "Nang latdanv hei piu ni.",
+            "",
+            "5 He Pou, suaihiamlou o,",
+            "Nang latdanv piu bam khou,",
+            "Reynungc Nang khou keymei 1<: kumc",
+            "Bumaengh samc keylou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Here, Saviour, We Would Come",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Fb",
+        "3/4",
+        "6.6.8.6.",
+        "CW 450",
+        "Anonymous",
+        "Here, Saviour, We Would Come",
+        "source hymn 531",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 531."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Pou, aniw guang e",
+        "titleRongmei": "He Pou, aniw guang e",
+        "titleEnglish": "Here, Saviour, We Would Come"
+      }
+    }
+  }
+}

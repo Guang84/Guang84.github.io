@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-215",
+    "number": 215,
+    "source": {
+      "printedNumber": 215,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "'Niw Panty Hei Dui Luangh Kumcna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          215 'Niw Panty Hei Dui Luangh Kumcna",
+            "                                8.8.12.8.8. 10,4",
+            "          Doh hei F",
+            "",
+            "          1. 'Niw panty hei dui luangh kumcna.",
+            "             Tingmik kathuih tatna bam e.",
+            "             Ngin tatmei kumcna tat bammei panty hei.",
+            "             'Maan kan nimei mbaanv puat ta,",
+            "             Machunhna ning bam khwan ethei.",
+            "             'Maan pwni the 'zianmei rup-ryan guay le:",
+            "             Ganc ngam di kho.",
+            "",
+            "          2. 'Dih neihlaamei tei phu khourui,",
+            "             Meic ching ching panty 'maan kan the.",
+            "             'Dih ramgai mu lauthwan mwnpwang kumh",
+            "             tuang na de.",
+            "             Phu tow mak ge heic kandic khou,",
+            "             Neihlaa suangmei panty laa khang.",
+            "             Chariakh thayna lungc bam di kho,",
+            "             Jisu guang pwni the.",
+            "",
+            "          3. Heic kandic khou chabwan guay hei,",
+            "             'Maanmei chaeng khou tatna bam e.",
+            "             Khuamguang ngam khang dinc tat di kho",
+            "             ringhmei lat tei.",
+            "             Baibal lat rui sakhi swna,",
+            "             Rih tei adow khang tat di kho.",
+            "             Tatpat di kho 'zianmei rup-ryan guay le,",
+            "             'Maan ngam ni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "'Niw Panty Hei Dui Luangh Kumcna"
+      }
+    }
+  }
+}

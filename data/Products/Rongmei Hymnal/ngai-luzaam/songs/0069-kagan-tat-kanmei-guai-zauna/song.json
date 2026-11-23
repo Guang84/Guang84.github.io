@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-069",
+    "number": 69,
+    "source": {
+      "printedNumber": 69,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kagan tat kanmei guai zauna",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kagan tat kanmei guai jao na,",
+            "Munpuang tuai mei kum ma tuai the;",
+            "Tingkao mun puang neila tak makmei,",
+            "Tuai dat pui nung nai lak khe.",
+            "",
+            "Ai ning e tuai dat mak pui ram tei,",
+            "Pou rui tingsang cham dan lou pui ram ;",
+            "Kalloumei nah nun bam tan lak ge",
+            "Laojiu na tigun thuan na.",
+            "",
+            "2. Tigun daipui ram jao e thei;",
+            "Aniu bam kandi mun kum ma;",
+            "Tingsaeng nga tuai datpui tuang ram me,",
+            "He! Ning e guang tang diu khang.",
+            "",
+            "3. Kandi neila mei la e thei,",
+            "Kap mei rianra mei sum ngam e;",
+            "Ti ring thao lou o bumang than mei,",
+            "Neilah tak mak mei ti o.",
+            "",
+            "4. Bumaeng thanmei puang bam mei mun,",
+            "Ata gaanlou na neihla the;",
+            "He! Poubaomei ndiu kei datro,",
+            "Nang ta ning na thuan ku khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 69",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 69. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kagan tat kanmei guai zauna",
+        "titleRongmei": "Kagan tat kanmei guai zauna"
+      }
+    }
+  }
+}

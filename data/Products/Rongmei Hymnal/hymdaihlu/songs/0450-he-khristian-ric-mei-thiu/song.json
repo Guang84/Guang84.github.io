@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0450",
+    "number": 450,
+    "source": {
+      "printedNumber": 450,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Sabine Baring-Gould",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.11. Ref.",
+      "tune": "SS 706"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Khristian ric mei thiu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He khristian ricmei thiu, rih bamv khou gut ro!",
+            "Hu thangc tat bammei pu Jisu ta zaucna,",
+            "Kaipouc Khrista zaylou, zauczihmei hu khou;",
+            "Kachuangcphey 8^& zaucna rih bamv khou gut ro.",
+            "",
+            "He Khristian ric mei thiu,",
+            "Rih bamv khou gut ro!",
+            "Hu thangc tat bammei pu",
+            "Jisu ta zaucna.",
+            "",
+            "2 Seitaan ric mei pak ge, Jisu zanc chu khou,",
+            "Thau tho khristian ric mei, rih",
+            "ngammei chaeng khou!",
+            "T’ruaih-ramc guay kadunh e, thuancna kauc pwkhou;",
+            "Chana thiu, khwan ranvna thuanhpui u kauc o.",
+            "",
+            "3 Guangh bamvpaeng lev pyrun",
+            "amaan nuh tuang de,",
+            "Jisu tuang phwamling mu amaan dat mak khe;",
+            "T’ruaih ngamv ^&8 phwamling ta",
+            "thingc ngam zat lak ge;",
+            "Khrista latryan nai e, mi 8^& suai mak ge.",
+            "",
+            "4 Hu thangc gut ro, meic nunc aniw khou gut ro,",
+            "Ringhbamv lu suan pwkhou lay suan ’chamc di kho,",
+            "Hymdaihmei, champouhmei Khrista khang sw diu,",
+            "Maansei lev baanch’ra guay",
+            "tingsaeng suan bam diu."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "4/4",
+        "11.11.11.11. Ref.",
+        "SS 706",
+        "Sabine Baring-Gould",
+        "Onward, Christian Soldiers!",
+        "source hymn 450",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 450."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Khristian ric mei thiu",
+        "titleRongmei": "He Khristian ric mei thiu"
+      }
+    }
+  }
+}

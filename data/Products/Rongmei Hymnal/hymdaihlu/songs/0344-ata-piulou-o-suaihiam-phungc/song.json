@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0344",
+    "number": 344,
+    "source": {
+      "printedNumber": 344,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Ira B. Wilso",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "6/4",
+      "meter": "10.7.10.7. Ref.",
+      "tune": "HLC 505"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ATA PIULOU O SUAIHIAM PHUNGC",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ringhting tuang chaengluang dai lev chaengbian khou,",
+            "Ryanra lakna bam geic the,",
+            "Zingh khou bammei khang gaanhmei phungc guang tio,",
+            "Ryanra lung tiineihlaa tio.",
+            "",
+            "Ata piulou o, suaihiam phungc guang khang,",
+            "Jisu ramgai akhou how diu;",
+            "Ata piulou o, he Guloumei pu;",
+            "Aseic gaanv saekc khang",
+            "suaihiam phungc guang khang.",
+            "",
+            "2 Khrista lev Kazauzian p’ry raclou tio,",
+            "Karamkuaklou tuang chamv 8}@,",
+            "Nang lwnlung khou Karamgai lungc lyan tio,",
+            "Meic nunc Kakhou lwm puni.",
+            "",
+            "3 Nang #<8 laatowmei kumc tiipat dat ro,",
+            "Kakumc nang nic zianthay o,",
+            "’Suanmei nunc ta ’’khavlou thaymei sw o;",
+            "Nang thouc taanc chuyna taanc o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Out in the Highways and By Ways",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "6/4",
+        "10.7.10.7. Ref.",
+        "HLC 505",
+        "Ira B. Wilso",
+        "Ringhting tuang changluang dai lev",
+        "Out in the Highways and By Ways",
+        "source hymn 344",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 344."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ATA PIULOU O SUAIHIAM PHUNGC",
+        "titleRongmei": "ATA PIULOU O SUAIHIAM PHUNGC",
+        "titleEnglish": "Out in the Highways and By Ways"
+      }
+    }
+  }
+}

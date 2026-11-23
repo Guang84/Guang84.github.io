@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0890",
+    "number": 890,
+    "source": {
+      "printedNumber": 890,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Raguang ram dam adi gai cho",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Raguang ram dam adi gai cho?",
+            "Kata luina dam chui lou the;",
+            "Kaban siam ruang khou thuk lianga,",
+            "Mansei tihei damchui lou the.",
+            "",
+            "Chorus:",
+            "Pouhta thuan o kasuai hiam tiloumei,",
+            "Panti gaimei tiloumei hei kasuaihiam e;",
+            "Raguang ramjian kandih khou hei,",
+            "Padik khuan e,",
+            "Raguang ramjian tiloumei taThuan ku dikho.",
+            "",
+            "2. Raguang latdan piumei guai ta,",
+            "Tingsang ringmmei ti khang rian lou;",
+            "Nchummei gaimei tanmei guai,",
+            "Tingsang guangdih khou lung puni.",
+            "",
+            "3. Kandih tanduan luai guang pu khou,",
+            "Nkham pui gan guang pukhou kiu;",
+            "Niu @&4 tan loumei tan guai tei,",
+            "Raguang @&4 suan ti puni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "8.8.8.8.",
+        "Raguang ram dam adi gai cho",
+        "source hymn 160",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 160."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Raguang ram dam adi gai cho",
+        "titleRongmei": "Raguang ram dam adi gai cho"
+      }
+    }
+  }
+}

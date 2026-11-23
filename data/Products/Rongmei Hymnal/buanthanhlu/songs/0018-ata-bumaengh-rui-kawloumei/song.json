@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-018",
+    "number": 18,
+    "source": {
+      "printedNumber": 18,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ata Bumaengh rui Kawloumei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          18      Ata Bumaengh rui Kawloumei",
+            "                          8.8.8.8 ref. 8.8.8.8",
+            "          Doh hei Eb",
+            "",
+            "          1 Ata Bumaengh rui kawloumei,",
+            "            Charyn tuang e Kazauzian hei!",
+            "            Saa ngam thuy lakmei ramneilaa",
+            "            Laatow the alung syng khouhei!",
+            "",
+            "               Akhang Khrista rui theicloumei!",
+            "               Kakumc ai nic cross phungc ni the.",
+            "               Kazauzian hei alu swna,",
+            "               Apanty nai saanv thuanc bam ni.",
+            "",
+            "          2 Apumc guay Nang tuang swlou o,",
+            "            Alung khou Nang guang bamlou o,",
+            "            Simei apaap guay khiulou o,",
+            "            Sw 'thanlou o, alung pwm hei.",
+            "",
+            "          3 Alung khou Nang gutbamlou o,",
+            "            Nang bam pwkhou zinghmei maek ge.",
+            "            Araana achwn swthuy mak,",
+            "            Kaganv 'thuih Nang nduanghlou.",
+            "",
+            "          4 Akhou Bumaengh rui dinclou o,",
+            "            Paapc sw mak khang nic dinclou o,",
+            "            Sipui taanv khou tiduaklou o,",
+            "            Tingkauh lwnlung khang dinclou o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ata Bumaengh rui Kawloumei"
+      }
+    }
+  }
+}

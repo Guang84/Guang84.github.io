@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-127",
+    "number": 127,
+    "source": {
+      "printedNumber": 127,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandihmei Guay hei Paapc khou 'Maan the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          127 Kandih Mei Guay Hei Paapc khou 'Maan the",
+            "                             9.9.10.9. Ref. 8. 8. 8. 6",
+            "",
+            "          1. Kandih mei guay hei paapc khou 'maan the;",
+            "             Jisu rui kaw e Akhou guang o;",
+            "             Akhou guangmei ta Ai 'patlou lak ge;",
+            "             Timaan nii makmei Karamzian rui.",
+            "",
+            "                     Thay ngam mak ge, saa ngam mak ge;",
+            "                     Jisu zauzian hei akumhna.",
+            "                     Dinc ngam mak ge, saa suak ngam lak;",
+            "                     Ch'rynmei Jisu zauzian.",
+            "",
+            "          2. Ryanraamei guay tei nang khang akhang,",
+            "             Karam ryanraa thow saa ngam ni cho!",
+            "             Akumhna nang khang akhang Jisu theic,",
+            "             Paapc ric ta ngamna thau dat kan the.",
+            "",
+            "          3. Mousi kaanc khou pat kanmei kumcna.",
+            "             Taudaic dui tei zangvna ringc kan the.",
+            "             Ntaw thu taudaic kiu Jisu hei e:",
+            "             T'rimei guay Akhou guang zangy kan diuc."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandihmei Guay hei Paapc khou 'Maan the"
+      }
+    }
+  }
+}

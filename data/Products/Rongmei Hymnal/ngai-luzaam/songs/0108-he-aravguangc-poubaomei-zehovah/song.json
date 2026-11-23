@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-108",
+    "number": 108,
+    "source": {
+      "printedNumber": 108,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He! aRavguangc Poubaomei Zehovah",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He! aRavguangc Poubaomei Zehovah",
+            "Seitan rui ata kanglou bam khou hei",
+            "Nang nzian loumei nang lat paan khou rui",
+            "Thuak pat lou the tuna guang salou o.",
+            "",
+            "Nangrui nzianloumei lat hei",
+            "Alungrui mu lakge poubaomei",
+            "Tingkao le kandimei nunrui.",
+            "",
+            "2. He! Poubaomei nang suaihiam daimei ta",
+            "Zaat kathui rui nthukna ningbam diu’",
+            "Alau kumna kapma huaibam khou hei",
+            "Nang ramgai tei akhou na guanglou o.",
+            "",
+            "He! Jisu hei akhang e thei",
+            "Baihmei kahau nicho Poubaomei",
+            "Kagan ‘thui Jisu akhang e.",
+            "",
+            "3. Tingkum ching-ching neihla mei phuzau ki",
+            "Ariu makge zingmei bam ranade",
+            "Kandih neihla mei le tikgun daimei,",
+            "Phutou sini kaganv tingsaeng makge.",
+            "",
+            "Akhang mu Jisu nang nade",
+            "Tingkum machang khang gai mbu hai-hai",
+            "Kau le dih khou kungliangmei e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 108",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 108. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He! aRavguangc Poubaomei Zehovah",
+        "titleRongmei": "He! aRavguangc Poubaomei Zehovah"
+      }
+    }
+  }
+}

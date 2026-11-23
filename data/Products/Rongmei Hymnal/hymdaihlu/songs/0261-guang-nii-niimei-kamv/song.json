@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0261",
+    "number": 261,
+    "source": {
+      "printedNumber": 261,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "P.P.Bliss",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.11.11.7. Ref.",
+      "tune": "SS 389"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "GUANG NII NIIMEI KAMV",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Thow punic chuloumei!” twmei hei kauc o,",
+            "Dwan-gaypui chamv hei kandih pwm dinc lik go;",
+            "Meic ariwmei guay khou chamv hei dinclou o;",
+            "“Guang niimei kamv guang nuh e”.",
+            "",
+            "“Guang nii niimei kamv !”",
+            "“Guang nii niimei kamv!”",
+            "Chyng, ’zaengc kabamv ’thuic khou chamv hei dinc lik go;",
+            "Zianthaymei pu {:1 chaeng ta kaw e;",
+            "“Guang niimei kamv guang nuh e!”",
+            "",
+            "2 Guang niimei kamv mu guang nyan bam la ri tho,",
+            "’Taw kaikhamv laancna gut nuh khou gut la tho,",
+            "Jisu na hei kalingmei, ringhmei haeng e:",
+            "“Guang niimei kamv guang nuh e!”",
+            "",
+            "3 “Guang nii niimei kamv !” - latryan hei suai mak ge,",
+            "“Guang nii niimei kamv !” - ’maan dat zat zat lak khe;",
+            "“Guang nii niimei kamv !”",
+            "- tingsaeng ringhmei laa ni:",
+            "“Guang niimei kamv guang nuh e!”"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "4/4",
+        "11.11.11.7. Ref.",
+        "SS 389",
+        "P.P.Bliss",
+        "Thow punic chuloumei",
+        "“Whosoever Will”",
+        "source hymn 261",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 261."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "GUANG NII NIIMEI KAMV",
+        "titleRongmei": "GUANG NII NIIMEI KAMV"
+      }
+    }
+  }
+}

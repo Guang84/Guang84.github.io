@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0347",
+    "number": 347,
+    "source": {
+      "printedNumber": 347,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. W.O. Cushing",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "12.12.13.11. Ref.",
+      "tune": "SS 529"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Guloumeipu thei ’zaengcbak khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guloumeipu thei ’zaengc baek khou ai lay tat ni,",
+            "Mwnpwang puangc zangv gaypui",
+            "dui luanghpui bamv khou 5#^;",
+            "Kamei #^5 zayloupui bamv ’thuic ai",
+            "Kathei lay ni,",
+            "Pyrun laa mak saanv Kaphay kaamv suic tat ni.",
+            "",
+            "Lay ni! lay ni! Jisu thei ai lay ni!",
+            "Kabamv ’thuic, kaganv ’thuic",
+            "Kathei lay tat ni!",
+            "Lay ni! lay ni! Jisu thei ai lay ni!",
+            "Kamei #^5 zayloupui bamv ’thuic ai lay ni!",
+            "",
+            "2 Guloumeipu thei ’zaengc baek khou ai lay tat ni,",
+            "Khou 5#^ pwanzingh tanc bam e, zinghmei dui luangc e,",
+            "Kabaanc #^5 ata zaylou, ai ping dat zat lak khe,",
+            "Jisu ’naa bam khou ata tiiping ngam mak.",
+            "",
+            "3 ’Zaengc baek khou punic, ramrungh siimei khou punic,",
+            "Guloumeipu #^5 ’duanghnna abumaengc ping lak;",
+            "Kamei tatpui chaeng khou gayna zaylou bam puni,",
+            "’Thanmei guay kaduaimei",
+            "Ravguangc chyng nganvna."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Follow On!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "12.12.13.11. Ref.",
+        "SS 529",
+        "Rev. W.O. Cushing",
+        "Lay ni",
+        "Follow On!",
+        "source hymn 347",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 347."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Guloumeipu thei ’zaengcbak khou",
+        "titleRongmei": "Guloumeipu thei ’zaengcbak khou",
+        "titleEnglish": "Follow On!"
+      }
+    }
+  }
+}

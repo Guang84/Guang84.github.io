@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0716",
+    "number": 716,
+    "source": {
+      "printedNumber": 716,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Falkner",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "SS 1174"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "RIHMEI LU",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thau tho, he ringhbamv nac nuncle,",
+            "Khrista thei laymei nuncle;",
+            "Seitaan Zion ta sin mak khou,",
+            "Thau tho, he ngammei rihmei.",
+            "",
+            "Suan thau tho ngammei lu dai 4@<,",
+            "Suan thau tho ngammei lu dai 4@<,",
+            "Duipui khwan .. tingthimh kumcna,",
+            "Khrista zei @{4 thuaklou khou @{4,",
+            "Ngammei nunc suangc ’niu ngam e! (3)",
+            "Khrista zei @{4 thuaklou khou @{4,",
+            "Ngammei nunc.. suangc’niu ngam e.",
+            "",
+            "2 Reynungc bauhmei, ’thanmei nunc 4@<,",
+            "Mi phaydyng khou ding ’tip the;",
+            "Zauc lo, kaniw tuang",
+            "chuangcphey 4@<,",
+            "Jisu zei paan @{4 ngam the.",
+            "",
+            "3 Pingpui tuang maek ge, theic lak ge,",
+            "Panty Khrista khou lou the;",
+            "Kamei guangpui nungc lauthwan kiu,",
+            "Hym duidaih kumc daic puni.",
+            "",
+            "4 Kahu khou ’niu ding nuangc ni the,",
+            "Kaipouc ta ’niu how ni the,",
+            "Neihlaana Kata thuanc ni the,",
+            "Suan lana neihlaa ni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Song of the Soldier",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "SS 1174",
+        "Falkner",
+        "Thau tho, he ringhbamv nac nuncle",
+        "The Song of the Soldier",
+        "source hymn 716",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 716."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "RIHMEI LU",
+        "titleRongmei": "RIHMEI LU",
+        "titleEnglish": "The Song of the Soldier"
+      }
+    }
+  }
+}

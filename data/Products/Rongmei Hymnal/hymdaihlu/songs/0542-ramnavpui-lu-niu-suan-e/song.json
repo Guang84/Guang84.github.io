@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0542",
+    "number": 542,
+    "source": {
+      "printedNumber": 542,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "3/4",
+      "meter": "S.M.",
+      "tune": "CW 469"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ramnavpui lu ’niu suan e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ramnavpui lu ’niw suan e,",
+            "Pou tuang kuakpaeng daeng khou;",
+            "Thuanckumei lung ’niw phungc",
+            "guang e,",
+            "’Thukmei latryan sw e.",
+            "",
+            "2 Nang zawpaanv ’niw how the,",
+            "Nang bammei thay tow the;",
+            "Nang zauzian tuang rym gaymei 8}@",
+            "’Niw panty khou lyan diu.",
+            "",
+            "3 ’Niu kadam laamei hei",
+            "Zian changhmei khou lyan diu,",
+            "Kauh tuang phwamling khou",
+            "gut mak saanv,",
+            "’Niu Kakumc lungh mak saanv.",
+            "Amen.",
+            "",
+            "Aaron R. Wolfe"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "A Parting Hymn We sing",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "3/4",
+        "S.M.",
+        "CW 469",
+        "A Parting Hymn We sing",
+        "source hymn 542",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 542."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ramnavpui lu ’niu suan e",
+        "titleRongmei": "Ramnavpui lu ’niu suan e",
+        "titleEnglish": "A Parting Hymn We sing"
+      }
+    }
+  }
+}

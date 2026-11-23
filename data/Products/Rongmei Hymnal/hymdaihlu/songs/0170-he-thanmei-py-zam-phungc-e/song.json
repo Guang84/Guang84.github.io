@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0170",
+    "number": 170,
+    "source": {
+      "printedNumber": 170,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Bernard of Clairvaus",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "SS 126"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He ’thanmei py zam phungc e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He ’thanmei py, zamv phungcna",
+            "Ryanrana ’bum key the;",
+            "Adih malaana runlou",
+            "Sauh !}2 pyrun swna!",
+            "Suc langvna Nang zaw ’dav the,",
+            "Rairiuloumei zamv !}2!",
+            "Lauthwan kumhmei zawpaanv 2^<",
+            "’Kumhna kamv key tu cho!",
+            "",
+            "2 He ’thanmei py, ’taw nganv hei",
+            "Adih hym daic khwan cho!",
+            "Zeikouh raana khwan sihni",
+            "Ai thu akhang sw ni;",
+            "Nang rianra, Nang ramzian 2^<",
+            "Paapc mei khang gaengmei e;",
+            "’Khuaimei kiu ai hei dyng the,",
+            "’Ki Nang zamv suclou the.",
+            "",
+            "3 Bui latkaeng !}2 ai thuanc ni,",
+            "He Poubauhmei, Nang ta,",
+            "Theihpui nganv ryanra ’khaengvna",
+            "Nang zianloumei khang hei?",
+            "Pou, ata tingsaengzaeng khang",
+            "Nang khang na swlou tho:",
+            "Theicloumei Nang zauzian ta",
+            "Ai tiizak dat lak khe."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "“O Sacred Head Once Wounded”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "7.6.7.6. D.",
+        "SS 126",
+        "Bernard of Clairvaus",
+        "“O Sacred Head Once Wounded”",
+        "source hymn 170",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 170."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He ’thanmei py zam phungc e",
+        "titleRongmei": "He ’thanmei py zam phungc e",
+        "titleEnglish": "“O Sacred Head Once Wounded”"
+      }
+    }
+  }
+}

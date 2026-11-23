@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0182",
+    "number": 182,
+    "source": {
+      "printedNumber": 182,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Macleod Wylie",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 138"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jisu zei hei kungc tanh tan e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Jisu zei hei kungc tanv tan e,",
+            "’Taw nic akhang kungc e;",
+            "Hei paan na #<8 abumaengc ’thaekc,",
+            "Lwmsii, pingmei khou #<8.",
+            "",
+            "He ch’ryn tuang e, Jisu zei 8}@,",
+            "Gulou khang luangc keymei!",
+            "Kauh thangc nganvna alu sw ni:",
+            "“Kunghmei Jisu zei e!”",
+            "",
+            "2 “Ai ningtowlou dat zat lak khe,”",
+            "Ravguangc Lat #<8 saa e:",
+            "“ANac zei #<8 khiulou kanmei",
+            "Paapc mei nunc khuay guay ta!”",
+            "",
+            "3 Amuclou ngam lakmei paap #<8",
+            "Ata tiiping lak khe:",
+            "Kunghmei zei #<8 khangclou kan the,",
+            "Akhuay guay phungc ganc the.",
+            "",
+            "4 ’Suanmei apumc hei ngam makna",
+            "Sucnu naunian nuh e;",
+            "Kunghmei zei khou hei ngangvlouna",
+            "Chuzaenghna theic nuh the!"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 138",
+        "Macleod Wylie",
+        "KUNGHMEI ZEI",
+        "Precious Blood!",
+        "source hymn 182",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 182."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jisu zei hei kungc tanh tan e",
+        "titleRongmei": "Jisu zei hei kungc tanh tan e"
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0435",
+    "number": 435,
+    "source": {
+      "printedNumber": 435,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John S.B. Monsell",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "L.M.",
+      "tune": "CW 376"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "GAYMEI RIC ’DOW THO, NGAMV",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Gaymei ric ’dow tho, ngamv patna,",
+            "Khrista hei nang pumtan kiu the;",
+            "Ringhmei hei nang sin ’tip ethei",
+            "Tingsaeng neihlaa pyrun sw ni.",
+            "",
+            "2 Rav zauzian khou lauluangc pak tho,",
+            "Ngangc phaengc ku o, Kazawpaanv ta;",
+            "Ringhmei lev chaeng ’niu hu khou nai,",
+            "Khrista hei chaeng lev swan kiu the.",
+            "",
+            "3 Nang dwanman guay Kakhou lou tio,",
+            "Karamzian #^7 ’khavlou puni;",
+            "Kakhou lwmna nang ngangvlou tio,",
+            "Khrista hei ringhmei, zianmei e.",
+            "",
+            "4 Ping riu, lak riu, Kamei ’naa bam,",
+            "Kamei kalaih mak, zian bam de,",
+            "Lwm rap ti thei nang thay puni,",
+            "Khrista hei ramh guayna di the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Fight the Good Fight",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "L.M.",
+        "CW 376",
+        "John S.B. Monsell",
+        "Fight the Good Fight",
+        "source hymn 435",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 435."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "GAYMEI RIC ’DOW THO, NGAMV",
+        "titleRongmei": "GAYMEI RIC ’DOW THO, NGAMV",
+        "titleEnglish": "Fight the Good Fight"
+      }
+    }
+  }
+}

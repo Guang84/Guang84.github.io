@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0189",
+    "number": 189,
+    "source": {
+      "printedNumber": 189,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Adapted",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "2/4",
+      "meter": "9.6.8.6.",
+      "tune": "(Tune) RS 936"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neih thumhpui nungc ringcthau the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neih thumhpui nungc ringcthau the Jisu,",
+            "Theihmei ta ngamlouna, (2)",
+            "Dinc kasuakloumei 1<: kumcna;",
+            "Baanch’ra {:1 dinclou e. (3)",
+            "",
+            "2 Ringcthaupui tangv Kalwn lyanlou e,",
+            "Lwmsiimei ’maan mak saanv; (2)",
+            "’Thukpui latchamv ’peyna dinclou,",
+            "Tingkauh tuang latchamv e. (3)",
+            "",
+            "3 Pu tuang latryan ’khwan khang dinclou e,",
+            "Huayneyna ’khwan bam khang; (2)",
+            "Bumaengh ’Thanmei tiikey mak saanv,",
+            "’Khavloumeipu khang e. (3)",
+            "",
+            "4 Latdanv daihmei Kamei tiilou e;",
+            "“Tat tho, dinc lik tat tho, (2)",
+            "Meic kathuicna chutow diu khang,",
+            "Lwmlouna ringc diu khang.” (3)",
+            "",
+            "5 Thow punic mi lat hei laaloumei,",
+            "Kalat khou lwmmei guay, (2)",
+            "Ringcsuangmei 1<: laatow puni;",
+            "Adih dwan gaymei cho! (3)",
+            "",
+            "6 Thow punic mi hei laalou makmei,",
+            "Lwmlou makmei guay 1<:, (2)",
+            "T’ruaih maikwam lungc khou bam puni,",
+            "Tingsaeng ryanra puni! (3)"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Day of Christ’s Resurrection",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "2/4",
+        "9.6.8.6.",
+        "(Tune) RS 936",
+        "Adapted",
+        "Day of Christ’s Resurrection",
+        "source hymn 189",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 189."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neih thumhpui nungc ringcthau the",
+        "titleRongmei": "Neih thumhpui nungc ringcthau the",
+        "titleEnglish": "Day of Christ’s Resurrection"
+      }
+    }
+  }
+}

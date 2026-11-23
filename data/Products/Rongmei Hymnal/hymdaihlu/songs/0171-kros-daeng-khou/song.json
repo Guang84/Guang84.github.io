@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0171",
+    "number": 171,
+    "source": {
+      "printedNumber": 171,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Fanny J.Crosby",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "6/8",
+      "meter": "7.6.7.6. Ref",
+      "tune": "SS 134."
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KROS DAENG KHOU",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Pou Jisu, ata lou o,",
+            "Kunghmei Nang kros daeng khou;",
+            "Nsaa tiigaymei duiriang",
+            "Luanghmei kalvari khou.",
+            "",
+            "Kros khou hei, kros khou hei,",
+            "Ahymdaih bamv sw ni,",
+            "Phungc kuloumei abumaengc,",
+            "Kauh thangc zaeng ’thaekc",
+            "mak saanv.",
+            "",
+            "2 Pingmei du kros daeng guang e,",
+            "Zauzian {:1 laalou e,",
+            "Khou1<: lauthwan gaanphiu {:1",
+            "Ata tiigaanclou e.",
+            "",
+            "3 He Ravguangc Lauziu Nacle,",
+            "Kros lwn tiihowlou o;",
+            "Tingmik ’thuic panty chaeng khou",
+            "Kros hei {:1 sungclou o.",
+            "",
+            "4 Ai ’khwan bam ni kros daeng khou,",
+            "Taek makna lwm bam ni;",
+            "Dui paengc thangc kachaekc dic 1<:",
+            "Ai guang lungc tangh mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Near the Cross",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "6/8",
+        "7.6.7.6. Ref",
+        "SS 134.",
+        "Fanny J.Crosby",
+        "KROS KHOU HEI KROS KHOU HEI",
+        "Pou Jisu ata lou o",
+        "Near the Cross",
+        "source hymn 171",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 171."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KROS DAENG KHOU",
+        "titleRongmei": "KROS DAENG KHOU",
+        "titleEnglish": "Near the Cross"
+      }
+    }
+  }
+}

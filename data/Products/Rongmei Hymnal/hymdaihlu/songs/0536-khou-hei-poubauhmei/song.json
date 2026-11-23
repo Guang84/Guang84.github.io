@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0536",
+    "number": 536,
+    "source": {
+      "printedNumber": 536,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Horatius Bonar",
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.10.10.10.",
+      "tune": "CW 458"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khou hei Poubauhmei,",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Khou hei, Poubauhmei, Nang zawpaanv ai how e,",
+            "Ai how tangh makmei ta kahitow e;",
+            "Khou hei tingsaeng zauzian ta laatow e,",
+            "Arianra guay Nang khou ai ngangvlou e.",
+            "",
+            "2 Khou hei ai Ravguangc tuang ’tyan 4@< tutow e,",
+            "Nang lev zangv e, tingkauh drakhadui 4@<;",
+            "Khou hei kandih puatrith guay lou key e,",
+            "Paapc kuakloumei ramgai ai laa tow e",
+            "",
+            "3 ’Niu lu luai pwkhou ramh guay katiamhlou e,",
+            "Khumkih taektw tu luai zangv luai pwkhou;",
+            "’Tyan lev drakhadui laa tat kan sihni,",
+            "Nang thu adaeng bam tuanctanh tan puni.",
+            "",
+            "4 Khwmkih taektw hei tu dat kaluaih luaih e,",
+            "Kauh tuang neihlaa khwmkih dai ta lyan e,",
+            "Neihlaa ngay dai ramgai ta lyanlou e,",
+            "Lauziu Nac tuang Nowsuan khwmkih Ngay dai. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Here, O My Lord",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "4/4",
+        "11.10.10.10.",
+        "CW 458",
+        "Horatius Bonar",
+        "Here, O My Lord",
+        "source hymn 536",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 536."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khou hei Poubauhmei,",
+        "titleRongmei": "Khou hei Poubauhmei,",
+        "titleEnglish": "Here, O My Lord"
+      }
+    }
+  }
+}

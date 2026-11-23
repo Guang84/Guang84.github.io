@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0048",
+    "number": 48,
+    "source": {
+      "printedNumber": 48,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "L.Edwards",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.8.10.7. Ref.",
+      "tune": "SS 229"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubauhmei hei daic e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Poubauhmei hei daic e,Kaipouc kiu e;",
+            "Thauna suan o, thauna suan o!",
+            "Khuksun keyna Poubauhmei phaypav khou,",
+            "Thuancna Kahym tiidaic kho!",
+            "",
+            "He thuakloumei nuncle, zianpui ’rac 2}? dow o!",
+            "Hym daihmeipu ta chakhwang }?2 thuanc kho!",
+            "Guangh Poubauhmei ta hei khwan ranvna thuanc di kho,",
+            "Thuancna Kahym tiidaic kho!",
+            "",
+            "2 Poubauhmei hei daic e, Kalat ngam e;",
+            "Thauna suan o, thauna suan o!",
+            "Chakhwang lev ngamv, guanghdic hei Katuang e,",
+            "Thuancna Kahym tiidaic kho!",
+            "",
+            "3 Poubauhmei hei daic e, champouhlou o,",
+            "Thauna suan o, thauna suan o!",
+            "He kandihmei zaat guayle, neihlaa kho,",
+            "Thuancna Kahym tiidaic kho!",
+            "",
+            "4 Poubauhmei hei daic e, Kazanc ’than e,",
+            "Thauna suan o, thauna suan o!",
+            "Kauh baanch’ra guay lev maansei guay thuanc o,",
+            "Thuancna Kahym tiidaic kho!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Praise and Magnify our King!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "10.8.10.7. Ref.",
+        "SS 229",
+        "L.Edwards",
+        "Praise and Magnify our King!",
+        "source hymn 48",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 48."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubauhmei hei daic e",
+        "titleRongmei": "Poubauhmei hei daic e",
+        "titleEnglish": "Praise and Magnify our King!"
+      }
+    }
+  }
+}

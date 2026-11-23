@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0783",
+    "number": 783,
+    "source": {
+      "printedNumber": 783,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "B",
+      "key": null,
+      "beat": null,
+      "meter": "10.8.10.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He! Hallelujah Guang dailiangmeipu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. He hallelujah Guang dailiangmeipu,",
+            "Thuanmei rui kandih lik kandiu;",
+            "Kandih khou guang dailiangmeipu nang rui,",
+            "Mei guai lungning khou lat ncham lou o.",
+            "",
+            "Chorus:",
+            "Jaipat dat ro tat man kanmei guai,",
+            "Jip rimei guaita nchiang thao o;",
+            "Kandih kanloumei guang dailiangmeipu,",
+            "Ningsummei le rianramei ram tigan no.",
+            "",
+            "2. Gaung David le jailoumei Mousi guang,",
+            "Kandih guang suang dailiangmei nang;",
+            "Ntao khrista le bumang thanmei rui,",
+            "Amuh dailiangmei banchuanga nang e.",
+            "",
+            "3. He guang dailiangmei le kanloumei pu,",
+            "Suaihiamloumei kanloumei pu;",
+            "Kandih damthao khou douluaimei Laujiu,",
+            "Kajei pan rui kandih hei kanlou the.",
+            "",
+            "4. Dui le kandih damthao mak khou rui,",
+            "Thaingam bammei Raguang nang e;",
+            "Nei le bu le banchuanga guai 4@& ni,",
+            "Nang pan khou ruina gan bam puituang e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "B",
+        "10.8.10.10.",
+        "He! Hallelujah Guang dailiangmeipu",
+        "source hymn 53",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 53."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He! Hallelujah Guang dailiangmeipu",
+        "titleRongmei": "He! Hallelujah Guang dailiangmeipu"
+      }
+    }
+  }
+}

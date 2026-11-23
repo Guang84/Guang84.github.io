@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-164",
+    "number": 277,
+    "source": {
+      "printedNumber": 164,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": null,
+      "meter": "10.12.12.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Hei kandih hei mu neikhat",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Hei kandih hei mu neikhat man puni,",
+            "Ban)_3 kasiammei guai hei aman nutuang de;",
+            "Tiki lummei guai mu aman tuang nai lak khe,",
+            "Ntakmei )_3 kai sumei kum tuang e.",
+            "",
+            "Chorus:",
+            "Nangniu Raguang kai e",
+            "Nthan liangmei kai e,",
+            "Nangniu thai mak na cho?",
+            "Bumang thanmei kai e;",
+            "Raguang kai sumanmei guai khang,",
+            "Raguang )_3 manmei tei tini,",
+            "Raguang kai thu than e",
+            "Nangniu thai mak na cho?",
+            "",
+            "2. Khrista rukhou suthaomei kaiphun guai mu,",
+            "Kachak le lupah Kaman kungmei su puni;",
+            "Tiki thingnuang panu )_3 suthaomei guai,",
+            "Nkhampui nung maikuam khou lou puni.",
+            "",
+            "3. Khrista rukhou kaiphun suna lungmei guai,",
+            "Neilamei la puni panti hei luai pukhou;",
+            "Nangtan pankhou )_3na nangsuan latou puni,",
+            "Kumma asei kaikhou tei gut puni.",
+            "",
+            "4. Khrista rukhou ram mak kaiphun baimei mak,",
+            "Thiammei puanjing )_3 guanga kanuk khuansini;",
+            "Khrista rukhou supui jang )_3 kachan lak khe,",
+            "Kumma asei kai hei kaikhun di the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 164",
+        "SQLite BookTypeID 2",
+        "Key: Bb",
+        "Meter: 10.12.12.10.",
+        "Chord: Bb",
+        "Meta 3: 10.12.12.10."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 164); no high-confidence title match was found in the PDF list. The digital catalogue number is 277; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 164,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Hei kandih hei mu neikhat",
+        "titleRongmei": "Hei kandih hei mu neikhat"
+      }
+    }
+  }
+}

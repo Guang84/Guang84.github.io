@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-063",
+    "number": 63,
+    "source": {
+      "printedNumber": 63,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nu lo noupou pukhuan gaimei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nuh lo Noupou pu khuan gaimei,",
+            "Muang ru khou rui kao guang puni",
+            "Laojiu na ta thuan ku di kho,",
+            "Hosanna tuna kao lana.",
+            "",
+            "Ai guang ni the tuna ,",
+            "Poubaomei ruina din lou e;",
+            "Cham dan latho zaat guay meiguay na rui ,",
+            "Ai guang ni mei ting na guang the.",
+            "",
+            "2. Neihla nimei ting na guang the,",
+            "Nang bang nunrui nkhuan bam mei ;",
+            "Chun si mik dui luang bam mei tei,",
+            "Nduang gut ro salem kai khou.",
+            "",
+            "3. Neila nimei ting mik guang the,",
+            "Nang bang nun rui nkhuan bam mei;",
+            "Latdiu guaini nang ta thuan diu,",
+            "Halleluijah tuna kao diu.",
+            "",
+            "4. Neihla ni mei ting mik guang the,",
+            "Ai guang puni tuna samei ;",
+            "Poubaomei hei",
+            "Ravguangc nah e,",
+            "Nang ta thuan ne zaat guay na rui."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 63",
+        "Khristian Luzaam PDF",
+        "Chord: G",
+        "Meta 3: 8.8.8.8."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 63. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 63,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nu lo noupou pukhuan gaimei",
+        "titleRongmei": "Nu lo noupou pukhuan gaimei"
+      }
+    }
+  }
+}

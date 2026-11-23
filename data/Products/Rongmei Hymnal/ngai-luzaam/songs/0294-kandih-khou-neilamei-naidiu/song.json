@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-192",
+    "number": 294,
+    "source": {
+      "printedNumber": 192,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8.6.6.8.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou neilamei naidiu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih khou neilamei naidiu,",
+            "Kaipou Jisu guang the;",
+            "Meiguai lungkhou bam chamdan diu,",
+            "Kauh le dih({0 thuan diu (2),",
+            "Kauh le dih({0 kata thuan diu.",
+            "",
+            "2. Kandih khou neilamei naidiu,",
+            "Poubaumei guang tuthe;",
+            "Ching jang duidai thing tau guai le,",
+            "Mei guai ({0 thuanku diu (2),",
+            "Neilapui lu suan kaluai diu.",
+            "",
+            "3. Pap le rianramei nai lak khe,",
+            "Saurang nai dat lak khe;",
+            "Kasuaihiam tilou khang guang e,",
+            "Siang naipuibam thui khou (2),",
+            "Siang nai pui bam kathui nakhou.",
+            "",
+            "4. Kamei ({0 kandih hei sin the,",
+            "Chummei le jaujian ({0;",
+            "Chingkhiumei katuang tunmei le,",
+            "Chrinmei kajaujian ta (2),",
+            "Jat kaguai ({0 ti ndao e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 192",
+        "SQLite BookTypeID 2",
+        "Key: Eb",
+        "Meter: 8.6.8.6.6.8.",
+        "Chord: Eb",
+        "Meta 3: 8.6.8.6.6.8."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 192); no high-confidence title match was found in the PDF list. The digital catalogue number is 294; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 192,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou neilamei naidiu",
+        "titleRongmei": "Kandih khou neilamei naidiu"
+      }
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-175",
+    "number": 175,
+    "source": {
+      "printedNumber": 175,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Lwmna Chamdaanv Bammei guay khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          175 Lwmna Chamdaanv Bammei Guay Khang",
+            "                                 8.9.10.8. Ref. 9. 9. 8.8",
+            "          Doh hei D",
+            "",
+            "          1. Lwmna chamdaanv bammei guay khang,",
+            "             Nkhamhpui nungc neihlaa zaenggay ni.",
+            "             Nangniw pumc lev nangniw bumaengc guay tei,",
+            "             Ravguangc khang tiipatna lungc o.",
+            "",
+            "                      Ravguangc thuanhpui khwan rui padik ni;",
+            "                      Lwmloumei guay rui guang bam pwni;",
+            "                      Ntaw kapna bammei mikdui,",
+            "                      Ravguangc rui thutphuilou pwni.",
+            "",
+            "          2. Kandih ramneilaa heiczumei,",
+            "             Matat khatna khang de 'zianmei guay.",
+            "             Tingkauh ramneilaa zạenggai guay hei mu,",
+            "             Tingsaeng zaeng kimkey dat lak khe.",
+            "",
+            "          3. Pou' rui chamdaanvloumei ramc khou,",
+            "             Lungh khangtei tat di kho 'zianmei guay;",
+            "             Lwmmei guay rui tat ri kan pwkhou kiu,",
+            "             Kandih hei ryanraa pwni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Lwmna Chamdaanv Bammei guay khang"
+      }
+    }
+  }
+}

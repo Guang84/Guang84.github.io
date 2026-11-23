@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0854",
+    "number": 854,
+    "source": {
+      "printedNumber": 854,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "9.9.7.7.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Tingkauh kandih khou tei ai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Tingkauh kandih khou tei ai lung khang,",
+            "Chamdan khang poubaumei tat kan the;",
+            "Jailou nimei ram khoutei lummei le nthanmei guai,",
+            "Bumang than nun le lusuan na bamni.",
+            "",
+            "Chorus:",
+            "Kauh kandih gailiangmei,",
+            "Neilamei ram khou tei;",
+            "Rianra rianriu mei mak,",
+            "Mi bam khou tei neikhat tat puni.",
+            "",
+            "2. Akhang #!7na poubaumei thei lou,",
+            "Apanti hei luai pui nung kiu mu;",
+            "Rianra rianriumei nban khouhei #!7 ai tat tuanlana,",
+            "Tingkaauh kandih akai thang tat puni.",
+            "",
+            "3. Kagan kathui apoubaumei #!7,",
+            "Ata nduang louna tat bam me;",
+            "Tingsangjang poubaumei le bam chamni kaidai khoutei,",
+            "Jaojihmei #!7 ngammei nai dat lak khe.",
+            "",
+            "4. Tingkauh kaidai ai tang puinung kiu,",
+            "Buh le neih #!7 ganmei nai lak khe;",
+            "Chunsimei mikdui keimei, rianra rianriumei guaina,",
+            "Khatsini mak ge tingkauh ram khou tei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "E",
+        "9.9.7.7.10.",
+        "Tingkauh kandih khou tei ai",
+        "source hymn 124",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 124."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Tingkauh kandih khou tei ai",
+        "titleRongmei": "Tingkauh kandih khou tei ai"
+      }
+    }
+  }
+}

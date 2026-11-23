@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-112",
+    "number": 112,
+    "source": {
+      "printedNumber": 112,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kaganv Tingsaengcna Amaan the Poubauhmei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          112 Kaganv Tingsaengcna Amaan the Poubauhmei",
+            "                                11.8.8.9. Ref. 9. 9. 9. 10",
+            "          Doh hei D",
+            "",
+            "          1. Kaganv tingsaengcna amaan the Poubauhmei.",
+            "             Theic nuhpui bamv khourui duakna,",
+            "             Nang mei khang laalou dat pw o,",
+            "             Nang riw akhou tiikeylou dat ro.",
+            "",
+            "                      He Poubauhmei ata 'zianloumei,",
+            "                      Ch'ryn e Nang ramrianraa khaengvloumei!",
+            "                      Nang ringcbamv tiilou o Poubauhmei.",
+            "                      Apumc lev abumaengc Nang khang tii the.",
+            "",
+            "          2. Ntaw thu ai Nang khang di the Poubauhmei.",
+            "             Nang rui ryanraaloupui zaengrui,",
+            "             Ningtow pwkhou mikdui keyna,",
+            "             Poubauhmei, Poubauhmei twna huay.",
+            "",
+            "          3. 'Khavloumei maekmei Poubauhmei Jisu ta,",
+            "             Kros ruc khou thaengclou bam khoutei,",
+            "             Zoukhiangc dui tei Kakhou duylou;",
+            "             Poubauhmei tarimei kim mak ge.",
+            "",
+            "          4. Tingsaeng Zion ramc tinggaancpatpui nungc kiu,",
+            "             Kawmei bianggun khwan chu pwkhou,",
+            "             Tingkauh ramc khou guang dat lana,",
+            "             Lu rui Nang ta thuanc ni Poubauhmei."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kaganv Tingsaengcna Amaan the Poubauhmei"
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0799",
+    "number": 799,
+    "source": {
+      "printedNumber": 799,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.9.7.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kagan tat mei guai jana",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kagan tat kanmei guai jaona,",
+            "Munpuang tuaimei kumma tuai the;",
+            "Tingkau munpuang neila tak makmei,",
+            "Tuai dat pui nung nai lak khe.",
+            "",
+            "Chorus:",
+            "Ai ninge tuai dat mak pui ram 3)_,",
+            "Pou rui tingsang chamdan lou pui ram,",
+            "Kanloumei nanun bam tan mak ge,",
+            "Laujiu Nah tigun thuan na.",
+            "",
+            "2. Tikgun dai pui ram jao ethei,",
+            "Aniu bam kandih mun kumma;",
+            "Tingsanga tuai dat pui tuang ramme,",
+            "He ninge guang tang diu khang.",
+            "",
+            "3. Kandih neilamei la ethei,",
+            "Kapmei rianramei sungam me;",
+            "Tiring thao lou o bumang thanmei,",
+            "Neila tak mak mei ti o.",
+            "",
+            "4. Bumang thanmei puang bammei mun,",
+            "Ata gaan louna neila the;",
+            "He poubaumei ndiu kei dat ro,",
+            "Nangta ninga thuan ku khang."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "8.8.9.7.",
+        "Kagan tat mei guai jana",
+        "source hymn 69",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 69."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kagan tat mei guai jana",
+        "titleRongmei": "Kagan tat mei guai jana"
+      }
+    }
+  }
+}

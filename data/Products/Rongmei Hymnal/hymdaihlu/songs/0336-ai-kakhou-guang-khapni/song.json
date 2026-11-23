@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0336",
+    "number": 336,
+    "source": {
+      "printedNumber": 336,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Palmer Hartsough",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.6.10.6. Ref.",
+      "tune": "CSH 277"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai Kakhou guang ’khapni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kandih tuang neihlaa khou",
+            "lungcphum bammei",
+            "Ai sw bam saengc lak khe;",
+            "Gay ranvmei lev daic ranvmei taanv guay hei",
+            "Taanh khang alung ding the.",
+            "",
+            "Ai .. Ka .. khou guang ’khap ni,",
+            "Ping makna, neihlaana;",
+            "Ji .. su .. daic liang, kauh liangmei,",
+            "Nang khou ai guang the.",
+            "",
+            "2 Agay-agimei apaap ganclouna",
+            "Kaipouc khou guang ni the,",
+            "’Chumhmei lev kachangcmei pu, Jisu e;",
+            "Kakhou ringhmei lat nai.",
+            "",
+            "3 Tingmik ’thuic Gumeipu thei ai layna",
+            "Lwm nuhna lungc ni the;",
+            "Kalat piu ni, Kamei ningmei taanc ni,",
+            "Kamei ringhpui chaeng e.",
+            "",
+            "4 Paapc chaeng ’patlouna guanghdic khou gut khang",
+            "Ai alung dinglou the;",
+            "Zauczihmei lev rup nunc }?2 khaam sihni",
+            "Khou 2}? ai gut ni the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I am Resolved",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "10.6.10.6. Ref.",
+        "CSH 277",
+        "Palmer Hartsough",
+        "Kandih tuang neihlaa khou lungcphum",
+        "I am Resolved",
+        "source hymn 336",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 336."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai Kakhou guang ’khapni",
+        "titleRongmei": "Ai Kakhou guang ’khapni",
+        "titleEnglish": "I am Resolved"
+      }
+    }
+  }
+}

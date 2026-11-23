@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0452",
+    "number": 452,
+    "source": {
+      "printedNumber": 452,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "G. Duffield",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.7.6. D.",
+      "tune": "SS 680"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thau tho, thau tho, Jisu khang",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thau tho, thau tho, Jisu khang!",
+            "He kros rih mei nuncle,",
+            "Kachuangcphey zay kauh thau o,",
+            "Tiizawsii nuh mak ge;",
+            "Ngammei khou #<8 ngammei khou",
+            "Kamei #<8 zaylou ni;",
+            "Zauczihmei hac piang mak saanv,",
+            "Khrista #<8 sin mak saanv.",
+            "",
+            "2 Thau tho, thau tho, Jisu khang!",
+            "Trampet khwan thei lay o;",
+            "Tanhmei ric ’dow khang gut tho,",
+            "’Seic hymdaih tingmik khou,",
+            "Rih-phyan guay Kathei lay o,",
+            "Zauczihmei ta ’dow o;",
+            "Theic nuhpui bamv khou bauc o,",
+            "Ngamv patna athwng o.",
+            "",
+            "3 Thau tho, thau tho, Jisu khang!",
+            "Kapumtan khou ding o;",
+            "Ndaw pumtan thu ’suan de,",
+            "Nang raana ta lwm rio;",
+            "Gaychamv ricpwan hei piu o,",
+            "Chamdaanv o, huayney o;",
+            "Nang ta kage nai pwkhou",
+            "Biuh makmei nang sw rio.",
+            "",
+            "4 Thau tho, thau tho, Jisu khang!",
+            "Rih sw saengc bam lak khe;",
+            "Aseic rih swpui khwan chu,",
+            "’Thuanh rihngam lu suan ni;",
+            "Rih ngam guangpui mei khang mu",
+            "Ringhmei pyrun tii ni;",
+            "Hymdaihmei Guangc lev kamei",
+            "Tingsaeng guanghtu ’chamc ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Stand up for Jesus!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "7.6.7.6. D.",
+        "SS 680",
+        "G. Duffield",
+        "Stand up for Jesus!",
+        "source hymn 452",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 452."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thau tho, thau tho, Jisu khang",
+        "titleRongmei": "Thau tho, thau tho, Jisu khang",
+        "titleEnglish": "Stand up for Jesus!"
+      }
+    }
+  }
+}

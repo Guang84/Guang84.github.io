@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0588",
+    "number": 588,
+    "source": {
+      "printedNumber": 588,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William P. Merrill",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7. D",
+      "tune": "HLC 521"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Daihmei bantan riliangmei dic",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Daihmei baantanc rilianghmei dic,",
+            "Swmei zaeng khang na hamh e,",
+            "Napbi ’thuihmei zaeng na hamh e,",
+            "’Niw }?2 Nang ta thuanhmei hei;",
+            "Tat kanmei guang nimei kak khou,",
+            "’Taw ganv khou hei ding lana,",
+            "Pou, ’niw lungsyng thangc }?2 thuanc e,",
+            "How tangh makmei guay khang ta.",
+            "",
+            "2 Rih tuang rungh, rihpan khang hamh e,",
+            "Baengsaeng ngamv guay khang hamh e,",
+            "Rih ngammei lung tiiloumei khang,",
+            "Pou, Nang ta ’niw thuancku e;",
+            "’Niw nyngthav swna lunghmei khang,",
+            "Kaikhunh, phwamling lev skul khang,",
+            "Meic nunc }?2 sinmei kandih khou",
+            "Meic sw nuhmei chaeng guay khang.",
+            "",
+            "3 Kaniw zanc thay tow makmei nunc,",
+            "Lwm nuhmei rihmei nunc khang,",
+            "Zanh tatmei, dih ta zianmei nunc,",
+            "Meic nunc ta zayloumei khang;",
+            "Muhzwng nunc lev Aposal nunc,",
+            "Ringhmei Lat dinc tatmei nunc,",
+            "Bumaengh khou meic daihmei nunc khang,",
+            "Pou, ’niw Nang ta thuancku e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Not Alone for Mighty Empire",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "3/4",
+        "8.7.8.7. D",
+        "HLC 521",
+        "William P. Merrill",
+        "Not Alone for Mighty Empire",
+        "source hymn 588",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 588."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Daihmei bantan riliangmei dic",
+        "titleRongmei": "Daihmei bantan riliangmei dic",
+        "titleEnglish": "Not Alone for Mighty Empire"
+      }
+    }
+  }
+}

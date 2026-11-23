@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-210",
+    "number": 210,
+    "source": {
+      "printedNumber": 210,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Neihlaa Lungh Kim Mak Kandih khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          210 Neihlaa Lungh Kim Mak, Kandih khou",
+            "                            13.10.9.8.5.Ref. 10. 10. 10. 10",
+            "          Doh hei Eb",
+            "",
+            "          1. Neihlaa lungh kim mak kandih khou lungc bam",
+            "             saanv khou hei:",
+            "             Kalyari khou 'thanmei zei keylouna,",
+            "             Akhang rui ryanraana theiclou the.",
+            "             Paapc phunghmei bamv khourui ata",
+            "             Kanpatlou dat the.",
+            "",
+            "                       He aRavguangc, ai guang the Nang pamv khou,",
+            "                       Baihmei kahaw mak ge kandih khouhei.",
+            "                       Ata kanpatlou the Ravguangc Nang rui,",
+            "                       Kalvari khou keyloumei zei paanrui.",
+            "",
+            "          2. Kaganv tingsaengcna Ravguangc ta mpatlou sihnic,",
+            "             Heicdi kamv ai paapc phungc bam khwan sihnic,",
+            "             'Zianmei khwan rui ata kaw bam e:",
+            "             Alung khou tingsaeng zaengna",
+            "             Neihlaamei tiilou the.",
+            "",
+            "          3. He Ravguangc apanty tat kanmei",
+            "             kaganv guay khou hei,",
+            "             Ai rui Nang hu khou 'peyna maanvlou the.",
+            "             Ai rui taanc maanvlou kanmei guay tei,",
+            "             ARavguangc 'zianna kuaklou o,",
+            "             Nang zauzian paanrui."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Neihlaa Lungh Kim Mak Kandih khou"
+      }
+    }
+  }
+}

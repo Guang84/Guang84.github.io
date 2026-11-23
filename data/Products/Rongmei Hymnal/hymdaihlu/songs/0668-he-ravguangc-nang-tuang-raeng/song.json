@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0668",
+    "number": 668,
+    "source": {
+      "printedNumber": 668,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "James Gordon Gilkey",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.6.8.6. D.",
+      "tune": "CW 607"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "He Ravguangc, Nang tuang raeng",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 He Ravguangc, Nang tuang raeng khou",
+            "Zug hei neih khat kumc e,",
+            "Bw, Neih, Gaanchuangc ta kabamv khou",
+            "Chaana bam khang duanclou,",
+            "Nang khou ’niw pu nunc lwmna,",
+            "Duipui kaanna tat re,",
+            "’Suanmei kaniw ta ’khavlouna",
+            "Nang kandic kasiamh khang.",
+            "",
+            "2 ’Seic nic mi lungning khou 8}@",
+            "Nang nac nunc aniw hei,",
+            "’Niw baanc zay thauna ’khwan bam e,",
+            "Panty chaengkhaek khou hei,",
+            "Aniw chaiclikna tat the,",
+            "Meic khat sw khang phuna;",
+            "Pumtan Racguangc, Nang ’khavlou o,",
+            "Pu nunc Racguangc swna. Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O God, in Whose Great Purpose",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "4/4",
+        "7.6.8.6. D.",
+        "CW 607",
+        "James Gordon Gilkey",
+        "O God, in Whose Great Purpose",
+        "source hymn 668",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 668."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "He Ravguangc, Nang tuang raeng",
+        "titleRongmei": "He Ravguangc, Nang tuang raeng",
+        "titleEnglish": "O God, in Whose Great Purpose"
+      }
+    }
+  }
+}

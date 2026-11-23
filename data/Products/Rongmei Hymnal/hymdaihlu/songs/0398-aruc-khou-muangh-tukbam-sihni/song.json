@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0398",
+    "number": 398,
+    "source": {
+      "printedNumber": 398,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Hattie M. Conrey",
+      "composer": null,
+      "arranger": null,
+      "chord": "Ab",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.7.8.7. D.",
+      "tune": "SS 711"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aruc khou muangh tukbam sihni",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Aruc khou muangh tuk bam sihni,",
+            "Araana tat kumc sihni,",
+            "Ryanramei ding khou bam sihni,",
+            "Neihlaamei ’maan kan sihni,",
+            "Jisu ta akhang sw ethei,",
+            "Atingpuk hei gaanc puni;",
+            "Gaanc gaymei neicmik Kamei e,",
+            "Bethlehem gaanchuangcna e.",
+            "",
+            "2 Kandih khou achaenglwan khou hei",
+            "Ryanramei na ’riw sihni,",
+            "Panty thingphaanmwn phu pwkhou",
+            "Mwn phaan sauh ariw sihni,",
+            "Jisu ta akhang sw ethei,",
+            "Gay liangmei laa towmei the;",
+            "Nzaengc Lili kiu Kamei e,",
+            "Sharon mwn kiu Kamei e.",
+            "",
+            "3 Tat kanmei zianmei nunc khang ta",
+            "Chwnsii-zaengsii, puihuayna,",
+            "Ryanra zinghmei panty khou hei",
+            "Dwangdangvmei na ariw sic",
+            "Jisu ta akhang sw ethei,",
+            "Katwan nganv ’duanghlou puni,",
+            "Maansei mik #<8 how mak sihni",
+            "Baanch’ra #<8 gaeklou puni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus Only!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Ab",
+        "3/4",
+        "8.7.8.7. D.",
+        "SS 711",
+        "Hattie M. Conrey",
+        "Jesus Only!",
+        "source hymn 398",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 398."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aruc khou muangh tukbam sihni",
+        "titleRongmei": "Aruc khou muangh tukbam sihni",
+        "titleEnglish": "Jesus Only!"
+      }
+    }
+  }
+}

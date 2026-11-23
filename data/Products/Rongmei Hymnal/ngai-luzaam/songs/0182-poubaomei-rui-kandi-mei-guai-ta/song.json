@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-182",
+    "number": 182,
+    "source": {
+      "printedNumber": 182,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubaomei rui kandi mei guai ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Poubaomei rui kandi mei guai ta dam louna",
+            "Charinpui zauzian rui gulou the;",
+            "Ratat ro kabam kathui khou dinlik louna",
+            "Kadanna taanchui na taanlou o, Raguang khang.",
+            "",
+            "Phaaisui baansuang makge",
+            "Gaina ngalan guang o.",
+            "Ravguangc suaihiam loumei",
+            "Gaimei kaikhou gutro",
+            "Nang ta gulou puni.",
+            "",
+            "2. Ravguangc rui nzian loumei ta ningtou makna",
+            "Ai ramning tou makna tat khuan the;",
+            "Taomuh ai phutou the, gaimei ladat nithe.",
+            "Nkhuaimei taan guay kapumna gankei nithe.",
+            "",
+            "3. Apui apu guaile Ravguangc ta lum dikho,",
+            "Ringsuang mei bumaeng tilou puni;",
+            "Asei tuna sakhang kagan hei raoguang the,",
+            "Simei paap taan kapumna hei gankei nithe."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 182",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 182. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubaomei rui kandi mei guai ta",
+        "titleRongmei": "Poubaomei rui kandi mei guai ta"
+      }
+    }
+  }
+}

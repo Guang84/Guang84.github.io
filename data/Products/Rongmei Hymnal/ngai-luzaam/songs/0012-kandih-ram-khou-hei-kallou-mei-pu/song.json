@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-012",
+    "number": 12,
+    "source": {
+      "printedNumber": 12,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": null,
+      "meter": "9.8.8.5",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih ram khou hei kallou mei pu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih ram khou hei kanloumei pu,",
+            "Alung rianra na bam khou hei",
+            "Zailou o, nang ram gai khou tei,",
+            "Poubaomei jisu.",
+            "",
+            "Theihmei duipaeng zai patlou o.",
+            "Kapma kalang mei bam khou rui.",
+            "Nzian mei ntammei guai le,",
+            "Neihlaa na bamcham khang .",
+            "",
+            "2. Zaeng simei lev mikdui keimei rui",
+            "Rian ramei khang na kap pui ram,",
+            "Munpuang kum sini kandi hei,",
+            "Ryanra kap pui ram .",
+            "",
+            "3. He! Nzian mei Poubaomei hu khou,",
+            "Sapu lak khe ntam pui lat,",
+            "Lauziu na rui khaeng lou khou rui,",
+            "Neihlana suan ni.",
+            "",
+            "4. Gaanphiu kum e Poubaomei jisu,",
+            "Paap rui alung zingcbam pukhou,",
+            "Nangchaeng nthan mei tei hou khang.",
+            "Akhou tigaan o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 12",
+        "Khristian Luzaam PDF",
+        "Chord: F",
+        "Meta 3: 9.8.8.5"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 12. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 12,
+        "match": "title-match-0.96"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih ram khou hei kallou mei pu",
+        "titleRongmei": "Kandih ram khou hei kallou mei pu"
+      }
+    }
+  }
+}

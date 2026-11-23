@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0838",
+    "number": 838,
+    "source": {
+      "printedNumber": 838,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "10.10.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih champan guai ntam nimei hei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Kandih champan guai ntam nimei hei,",
+            "Tingmik kathan pat datro gai khuan o.",
+            "",
+            "2. Hei kandih khou hei lungkiang lou khang mak,",
+            "Timgmik kathui simei !@9 gum liamme.",
+            "",
+            "3. Neikhat neila lu tei suan cham sini,",
+            "Munpuang tuaimei tei kumma tuai lou the.",
+            "",
+            "4. Ntam nimei hei kandih jangsi e,",
+            "Ram le thing nui chung ngam the guang datro.",
+            "",
+            "5. Kauh ram gai khou tei ntammei makge,",
+            "Khou tei ariu dat khang !@9 tam lou the.",
+            "",
+            "6. Kandih rukhou hei banthai khangmakge,",
+            "Munpuang tuai meitei kumma tuai nuang e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "10.10.",
+        "Kandih champan guai ntam nimei hei",
+        "source hymn 108",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 108."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih champan guai ntam nimei hei",
+        "titleRongmei": "Kandih champan guai ntam nimei hei"
+      }
+    }
+  }
+}

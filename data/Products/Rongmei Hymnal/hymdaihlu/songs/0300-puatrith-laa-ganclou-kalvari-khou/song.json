@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0300",
+    "number": 300,
+    "source": {
+      "printedNumber": 300,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "John M. Moore",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "6/8",
+      "meter": "8.6.9.6. Ref.",
+      "tune": "SSSH 231"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Puatrith laa ganclou kalvari khou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingmik ’thuic lungh ryanramei lev",
+            "Kadanmei }?2 padik;",
+            "Puatrith laa ganclou kalvari khou,",
+            "Jisu anaa bam e.",
+            "",
+            "Puatrith laa ganclou kalvari khou,",
+            "Kalvari, kalvari;",
+            "Puatrith laa ganclou kalvari khou,",
+            "Jisu anaa bam e.",
+            "",
+            "2 Pingmei lev katuakcmei guayna",
+            "’Seic Jisu khou lou tho;",
+            "Puatrith laa ganclou kalvari khou,",
+            "Jisu anaa bam e.",
+            "",
+            "3 Mikdui lev lungh ryanramei ta",
+            "Gumeipu how bam e;",
+            "Puatrith laa ganclou kalvari khou,",
+            "Jisu anaa bam e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Burdens are Lifted at Calvary",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "6/8",
+        "8.6.9.6. Ref.",
+        "SSSH 231",
+        "John M. Moore",
+        "Tingmik ’thuic lungh ryanramei lev",
+        "Burdens are Lifted at Calvary",
+        "source hymn 300",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 300."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Puatrith laa ganclou kalvari khou",
+        "titleRongmei": "Puatrith laa ganclou kalvari khou",
+        "titleEnglish": "Burdens are Lifted at Calvary"
+      }
+    }
+  }
+}

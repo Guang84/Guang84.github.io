@@ -1,0 +1,114 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0712",
+    "number": 712,
+    "source": {
+      "printedNumber": 712,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Charlotte G. Iiomer",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "2/4",
+      "meter": "11.12.11.10.13.10. Ref.",
+      "tune": "3 Alex405"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "THAU THO, THAU THO, NEIHLAAPUI LU",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thau tho! thau tho! neihlaapui lu hei suan kho:",
+            "Thau tho! thau tho! nang thuanckupui lu suan thau tho,",
+            "Thau tho! thau tho! kandih pwm ’hym padik the,",
+            "Tingpuk thangc ({0 kandih khou gaanc kei the;",
+            "Khouh, dui, chyng, ’zaengc guay ({0 neihlaapui lu suan thau the;",
+            "Damcloumei puat guay Kaipouc ta thuanc e.",
+            "",
+            "Poubauhmei guanghtu the!",
+            "paapc ngamv ta sw bak the;",
+            "Neihlaana thuanc kho,",
+            "Poubauhmei ({0 guanghtu the!",
+            "Kahym daihmei ndauh o, kabamv ’thuic;",
+            "Kahym daihmei chuangcpheyzay thau tho,",
+            "Guanghtu pw the! neihlaa thau tho!",
+            "Poubauhmei guanghtu the.",
+            "",
+            "2 Hiw o! hiw o! he neihlaa",
+            "zanggaypui kaeng!",
+            "Suan kaluaih o, Kap’ry 0({ rac",
+            "kaluaih luaih o,",
+            "Kandih kapwm khou ryanramei",
+            "’maan mak saanv,",
+            "Himdaihmei lu chyam 0({ suan kaluaih o,",
+            "Theihmei lev paapc baanc khou ({0 duakpatmei laamei lam,",
+            "Ringhbamv chamv hei",
+            "baanch’ra nunc lev suan o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "2/4",
+        "11.12.11.10.13.10. Ref.",
+        "3 Alex405",
+        "Charlotte G. Iiomer",
+        "Awakening Chorus",
+        "source hymn 712",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 712."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "THAU THO, THAU THO, NEIHLAAPUI LU",
+        "titleRongmei": "THAU THO, THAU THO, NEIHLAAPUI LU"
+      }
+    }
+  }
+}

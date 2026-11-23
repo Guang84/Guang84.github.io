@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0680",
+    "number": 680,
+    "source": {
+      "printedNumber": 680,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "William G.Tarrant",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7.",
+      "tune": "CW 603"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thuanc e, saengcdaic zanh tatmei nunc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Thuanc e, saengcdaic zanh tatmei nunc,",
+            "P’ry khou ractowmei nunc ta;",
+            "Thuanc e, maansei khou Kahymdai",
+            "Lyanloumei Poubauhmei ta.",
+            "",
+            "2 Thuanc e, ningting, tancbauhmei nunc,",
+            "Kazaat ta zianmei nunc ta;",
+            "’Zihmei khang baucna dingmei nunc,",
+            "’Niu zaat lingc thaumei nunc ta.",
+            "",
+            "3 Thuanc e, kalung daihmei nunc ta,",
+            "Ruak gayna lu suanmei nunc,",
+            "Chariupwan kumhmei lu khwan @{4",
+            "Meic lung tiithaumei nunc ta.",
+            "",
+            "4 Thuanc e, lungning chuzaenghmei nunc,",
+            "Tampy duancloumei nunc ta;",
+            "Thyamra gayna taancloumei nunc,",
+            "Thouh thay khang ’chamloumei ta.",
+            "",
+            "5 Hei zaeng thuanc e, meic daihmei nunc",
+            "P’ry khou zanh naimei nunc ta;",
+            "Thuanc e, maansei khou Kahymdai",
+            "Lyanloumei Poubauhmei ta."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Now Praise We Great and",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "4/4",
+        "8.7.8.7.",
+        "CW 603",
+        "William G.Tarrant",
+        "Now Praise We Great and",
+        "source hymn 680",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 680."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thuanc e, saengcdaic zanh tatmei nunc",
+        "titleRongmei": "Thuanc e, saengcdaic zanh tatmei nunc",
+        "titleEnglish": "Now Praise We Great and"
+      }
+    }
+  }
+}

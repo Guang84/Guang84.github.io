@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0438",
+    "number": 438,
+    "source": {
+      "printedNumber": 438,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "EL Natha",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.7.11.7. Ref.",
+      "tune": "SS 675"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KROS CHUANGCPHEY",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Tingkauh Guangc tuang chuangc- phey daanclou khang tii the,",
+            "Guangh tuang ric mei nunc daanh khang,",
+            "Gaymei chuangcphey hei aseic ’niu zay thau the;",
+            "Aniu lu suanna bam khou.",
+            "",
+            "Ruan tat kho! ruan tat kho!",
+            "Khrista khang ramh guay ganc pat kho;",
+            "Kakhou Guangh pyrun .. runlou khang,",
+            "Taanc kho kros chuangcphei bangc khou!",
+            "",
+            "2 Zauczihmei @<4 dui daih kumcdinghaengv sihni,",
+            "Chuanghphei 4^& zay kauh thau o!",
+            "Kaipouc ricmei suna chuangh bangc khou bamna,",
+            "’Chumhmei khang baucna ding kho!",
+            "",
+            "3 Dih lev duipui khou, meic lunghpui bamv ’thuic khou,",
+            "Hymdaihmei chamv tiithay kho:",
+            "Haengcringhmei chuangcphey p’ry hei ’taw dinclou kho,",
+            "Kaipouc @<4 meic khuam bam khou!",
+            "",
+            "4 Hymdaihmei tingmik pat nimei ’naa guang the,",
+            "Neih khat neih khat ’naa guang the;",
+            "Zauczihmei guay ’niu Guangc hu khou ’maan puni;",
+            "Kros @<4 kandih ta ngam ni."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Banner of the Cross",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "11.7.11.7. Ref.",
+        "SS 675",
+        "EL Natha",
+        "Ruan tat kho, ruan tat kho",
+        "Tingkauh Guangc tuang chuanghphey",
+        "The Banner of the Cross",
+        "source hymn 438",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 438."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KROS CHUANGCPHEY",
+        "titleRongmei": "KROS CHUANGCPHEY",
+        "titleEnglish": "The Banner of the Cross"
+      }
+    }
+  }
+}

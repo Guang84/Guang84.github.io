@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0446",
+    "number": 446,
+    "source": {
+      "printedNumber": 446,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Alfred S. Dyer.",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.5.6.5. D. Ref.",
+      "tune": "SS 689"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU KARICMEI TA RIH CHAENG ZAYLOU",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’King o, kawpui khwan hei:",
+            "“Aseic thow tat ni?",
+            "Asiamruai sw nimei",
+            "Lat piu nimei thow?",
+            "Thow chuanghphey kazit ni?",
+            "Thow rih khou gut ni?",
+            "Ravguangc lev ’chumhmei khang",
+            "Thow rih aphyan ni?”",
+            "",
+            "Jisu Karicmei ta",
+            "Rih chaeng zaylou e,",
+            "Rih ngamna ’chumhmei @{4",
+            "Kandih sin puni!",
+            "",
+            "2 Ravguangc ngamv ta lwm o,",
+            "Rih hei ngam mak saanv;",
+            "Seitaan ric aphyan tho,",
+            "Rihpwan na piu tho,",
+            "’Thanmei, kachangcmei khang",
+            "Adow bam khou hei,",
+            "Lungning baanc kariu tho,",
+            "Ravguangc khang thau tho!",
+            "",
+            "3 King o, rihmei nunc khwan",
+            "Ruanna suanmei khwan:",
+            "“Niu ricpy hym daic diu,",
+            "’Niu Guangc hym daic diu!”",
+            "Dih kwn padeih mei guay",
+            "Lungh khat na swna,",
+            "Suanmei khwan 4@< ’king o,",
+            "Rihbamv tatpui khwan!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus Leads His Army",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "6.5.6.5. D. Ref.",
+        "SS 689",
+        "Alfred S. Dyer.",
+        "’KING O ! KAWPUI KHWAN HEI",
+        "Jesus Leads His Army",
+        "source hymn 446",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 446."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU KARICMEI TA RIH CHAENG ZAYLOU",
+        "titleRongmei": "JISU KARICMEI TA RIH CHAENG ZAYLOU",
+        "titleEnglish": "Jesus Leads His Army"
+      }
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0567",
+    "number": 567,
+    "source": {
+      "printedNumber": 567,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W.A. Ogden",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "6.8.6.5.6.8.11. Ref.",
+      "tune": "SS 1080"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KUNGHMEI THW NROU O",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kunghmei thw nrou o,",
+            "Lauthwan gaancra pat rap khou {:1;",
+            "Kunghmei thw nrou o,",
+            "Kalaanv ganv gay khou;",
+            "Kunghmei thw nrou o,",
+            "Chabwan nunc panty kasiamh khang;",
+            "Kunghmei thw nrou o, kungc kadanlou o.",
+            "",
+            "Kunghmei thw nrou o, kunghmei thw nrou o,",
+            "Kabamv kathuic khou nrou liksikh siklou o;",
+            "Ringhmei ’Tyan bybakna,",
+            "Gaychamv lat 1<: nchamlou o,",
+            "Kunghmei thw nrou o, aniu kandic khou.",
+            "",
+            "2 Kunghmei thw nrou o,",
+            "Tingzyn ramvgei neihkhyam key khou;",
+            "Kunghmei thw nrou o,",
+            "Zingc kamvramh ram khou;",
+            "Kunghmei thw nrou o,",
+            "Lwmsiipui tuang nai dat makna,",
+            "Ramh guayna Ravguangc khou",
+            "lwmna ganclou o.",
+            "",
+            "3 Kunghmei thw nrou o,",
+            "Lungh gutlouna karamc ranvna;",
+            "Kunghmei thw nrou o,",
+            "Mathuangmei thw 1<:;",
+            "Kunghmei thw nrou o,",
+            "Nang baanc 1<: nrou nthaekc rio;",
+            "Ravguangc khou huayney o, ting-neih tiilou khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Sowing the Precious Seed",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "6.8.6.5.6.8.11. Ref.",
+        "SS 1080",
+        "W.A. Ogden",
+        "Sowing the Precious Seed",
+        "source hymn 567",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 567."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KUNGHMEI THW NROU O",
+        "titleRongmei": "KUNGHMEI THW NROU O",
+        "titleEnglish": "Sowing the Precious Seed"
+      }
+    }
+  }
+}

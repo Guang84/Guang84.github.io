@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0081",
+    "number": 81,
+    "source": {
+      "printedNumber": 81,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "H.F.Lyte",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7.8.7.",
+      "tune": "SS 1"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Abumaengc kauh Guangc ta",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Abumaengc, kauh Guangc ta thuanc o!",
+            "Kakhou nang thuanh phungc guang o;",
+            "Thuaklou, kuaklou, tiigaylou e,",
+            "Kakumhmei baihmei maek ge.",
+            "Pou ta thuanc o! Pou ta thuanc o!",
+            "Tingsaengzaeng Guangc ta thuanc o!",
+            "",
+            "2 Zauzian thaymeipu ta thuanc o;",
+            "’Niu pu-pouc ta zianmei kumc,",
+            "’Tau nic Kamei kalaih mak ge,",
+            "Riap khang ’zaeng, zauzian padik;",
+            "Pou ta thuanc o! Pou ta thuanc o!",
+            "Hymdaihmeipu ta thuanc o!",
+            "",
+            "3 Pu kumc ’niu ta makav bam e,",
+            "’Niw ramsuan Kamei thay e;",
+            "Kaziwna Kamei zaylou e,",
+            "Zauczihmei khou {:1 gaeklou;",
+            "Pou ta thuanc o! Pou ta thuanc o!",
+            "Zauzian Kaipouc ta thuanc o!",
+            "",
+            "4 Pou zaw how bammei baanch’ra thiu,",
+            "Pou ta thuanh khang ’khavlou o!",
+            "Bw, Neih, Gaanchuangcna guay {:1 nic",
+            "’Khum keyna Kata kalum;",
+            "Pou ta thuanc o! Pou ta thuanc o!",
+            "Zian thaymeipu ta thuanc o!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Praise, My Soul, the King of Heaven",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "8.7.8.7.8.7.",
+        "SS 1",
+        "H.F.Lyte",
+        "Praise, My Soul, the King of Heaven",
+        "source hymn 81",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 81."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Abumaengc kauh Guangc ta",
+        "titleRongmei": "Abumaengc kauh Guangc ta",
+        "titleEnglish": "Praise, My Soul, the King of Heaven"
+      }
+    }
+  }
+}

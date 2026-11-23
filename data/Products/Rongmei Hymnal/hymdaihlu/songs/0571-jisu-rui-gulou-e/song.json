@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0571",
+    "number": 571,
+    "source": {
+      "printedNumber": 571,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Priscilla J. Owens",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "13.13.7.7.7.6.",
+      "tune": "SS 1079"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "JISU RUI GULOU E",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neihlaapui khwan ’niu chu e: Jisu >|3 gulou e!",
+            "Hei chamv hei ndauh lik go: Jisu >|3 gulou e!",
+            "Dih kathuic khou phungc tat ro,",
+            "Chyng kauh, duipui phungc kaanna,",
+            "Dinc tat ro, Pou latdanv e:",
+            "Jisu >|3 gulou e!",
+            "",
+            "2 Dui kamuatcmei thei dinc o:",
+            "Jisu >|3 gulou e!",
+            "Paapc mei nunc khou raclou o: Jisu >|3 gulou e!",
+            "Suan o, he pwkak guayle,",
+            "He khowlang kagaengv guang o,",
+            "Dih >|3 ngay diu Jubili:",
+            "Jisu >|3 gulou e!",
+            "",
+            "3 Suan o, lakmei ’muclouna: Jisu >|3 gulou e!",
+            "Karamthei >|3 ringcsuang the:",
+            "Jisu >|3 gulou e!",
+            "’Suaihna suan o, ryanra khou,",
+            "Zauzian ta kahaw bam khou;",
+            "Suan o, t’rou ta ngampui lu:",
+            "Jisu >|3 gulou e!",
+            "",
+            "4 Mpwan khou kauc ranvlou tio:",
+            "Jisu >|3 gulou e!",
+            "Zaatc guayna >|3 neihlaa diu: Jisu >|3 gulou e!",
+            "Kauc o, ’thuihmei ringcbamv lam,",
+            "Duipui tin kabamv ’thuic khou,",
+            "Mi hei ’niu rihngam lu the:",
+            "Jisu >|3 gulou e!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Jesus Saves!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "13.13.7.7.7.6.",
+        "SS 1079",
+        "Priscilla J. Owens",
+        "Neihlaapui khwan ’niu chu e",
+        "Jesus Saves!",
+        "source hymn 571",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 571."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "JISU RUI GULOU E",
+        "titleRongmei": "JISU RUI GULOU E",
+        "titleEnglish": "Jesus Saves!"
+      }
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-162",
+    "number": 162,
+    "source": {
+      "printedNumber": 162,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Khrista Guang dat Nimei Ganv tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          162 Khrista Guang dat nimei Ganv tei",
+            "                           8.10.8.9. Ref.8.9. 10.9",
+            "",
+            "          1. Khrista guang dat nimei ganv tei,",
+            "             Tingkauhbaancharaa guay nic thaymak ge.",
+            "             Katingmik kakhuangc ganv thaymak,",
+            "             Kaihouhmei kumcna guang pwni the.",
+            "",
+            "                  Kaganv kathuih chamdaanv bam o.",
+            "                  Ramhthayna huayney ranvna bam o.",
+            "                  Nthanmei panty khou lungcna bam o.",
+            "                  Khrista katumcna guang pwni the.",
+            "",
+            "          2. Zaatc khat rui zaatc akhat ruc khou,",
+            "             Rih swmei chamv rana chu bam the;",
+            "             Pat bammei khudam guay zauc lo,",
+            "             Khrista katumcna guang pwni the.",
+            "",
+            "          3. Laupuk khou gaanvnei bam. pwni,",
+            "             Lwmloumei gaanvkhat ta laathau 'ni,",
+            "             Lwmmakmei ta ganclou duc 'ni",
+            "             Lwmlouna chamdaanv bam kan di kho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Khrista Guang dat Nimei Ganv tei"
+      }
+    }
+  }
+}

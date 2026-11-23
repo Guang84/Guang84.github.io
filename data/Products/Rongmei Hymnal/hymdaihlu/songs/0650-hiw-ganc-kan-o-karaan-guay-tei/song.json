@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0650",
+    "number": 650,
+    "source": {
+      "printedNumber": 650,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Alfred Tennyson",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "L.M.",
+      "tune": "CW 589"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Hiw ganc kan o, karaan guay tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Hiw o, kaengc guay kabamv ’thuic khou,",
+            "Chyng, ’zaengc, duipui guay hiw kaan o;",
+            "Tingkwm hei luai zaic puni the,",
+            "Tat kan di tho, khaam dat ritho.",
+            "",
+            "2 Hiw ganc kan o, karaan guay 8}@,",
+            "Siimei,’chumh makmei saaraamhmei;",
+            "Hiw guang lyn o, suaihiam kathanc,",
+            "Gaymei, ’chumhmei, neihlaamei 8}@.",
+            "",
+            "3 Hiw ganc kan o, chwn chamh makmei,",
+            "Suc rih, mamavmei, agaamvmei;",
+            "Hiw guang lyn o, ’zianmei lungning,",
+            "Kuaklou thaymei, chuzaenghmei 8}@.",
+            "",
+            "4 Hiw ganc kan o, ravpyan siimei,",
+            "Dui-mai, baengla, nkow-’daapc mei;",
+            "Hiw guang lyn o, ravrih gaymei,",
+            "Kambui-charaimei, ’thuihmei 8}@.",
+            "",
+            "5 Hiw guang o, bauhmei, ningswmei,",
+            "Lungning daihmei, zauzianthaymei,",
+            "Hiw ganc kan o, zinghmei guay 8}@,",
+            "Hiw guang o, Khrista tuang gaymei."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Ring out the Old, Ring in the New",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "L.M.",
+        "CW 589",
+        "Alfred Tennyson",
+        "Ring out the Old, Ring in the New",
+        "source hymn 650",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 650."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Hiw ganc kan o, karaan guay tei",
+        "titleRongmei": "Hiw ganc kan o, karaan guay tei",
+        "titleEnglish": "Ring out the Old, Ring in the New"
+      }
+    }
+  }
+}

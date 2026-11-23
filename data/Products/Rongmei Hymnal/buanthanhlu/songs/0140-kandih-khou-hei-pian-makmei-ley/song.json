@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-140",
+    "number": 140,
+    "source": {
+      "printedNumber": 140,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou hei Pian Makmei ley",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          140 Kandih khouhei Pian Makmei lev",
+            "                             8.8.12.8.8. 12.Ref. 8. 8. 8.8.8.4",
+            "          Doh hei E",
+            "          1. Kandih khouhei pian makmei ley",
+            "             Karaeng zauczihmei padik ge;",
+            "             Nzianmei rui heic guay tihei swmaan ngam e.",
+            "             Agay agimei 'khucmei lung,",
+            "             Lwmsiimei lung rui padik ge.",
+            "             Nzianmei rui heic guay ti hei swmaan ngam e.",
+            "",
+            "                  Zinghmei 'dic khou bammei guay rui,",
+            "                  Gaanhmei riw ta hownii bam e.",
+            "                  Zinghmei 'dic khou bammei guay rui,",
+            "                  Khrista ramgai lungc lyan ngam khang,",
+            "                  Khrista ramzian aniw lungc khou",
+            "                  Nai khang ney kho.",
+            "",
+            "          2. 'Niw 'zian pwkhou kunghmei maek ge;",
+            "             Pingmei lung guay 'maan ngam pwni;",
+            "             Chalumc siimei mamavmei lung 'maan ngam pwni.",
+            "             'Niw chwn 'chamc lungh 'chamhna lungh khang,",
+            "             Khat khat ta nzian nina de.",
+            "             Nzianmei rui simei guay ta timaan ngam e.",
+            "",
+            "          3. Ravguangc hei thu zianthaymei e;",
+            "             Karamzian 'niw khou lyanlou the.",
+            "             Aniw tihei kanac nunc twna kawlou the.",
+            "             'Niw nic kakumcna 'zian tithei,",
+            "             Karaeng zauczihmei 'maan pwni.",
+            "             Nzianmei rui hei guay tihei swmaan ngam e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou hei Pian Makmei ley"
+      }
+    }
+  }
+}

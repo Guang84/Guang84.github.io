@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-233",
+    "number": 233,
+    "source": {
+      "printedNumber": 233,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Akhou guang o zion ram",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Akhou guang o zion ramv ] 3",
+            "Ting kaokhou, akhou guang o zion ramv;",
+            "Akhou guang o zion ] 2",
+            "Tingkao khou.",
+            "",
+            "2. Khoutei kapmei nailak khe]3",
+            "Tingkao khou,khou tei kapmei nailak khe",
+            "Khou tei kapmei nailak khe]2",
+            "Tingkao khou.",
+            "",
+            "3. Khoutei ndap tari lakhe]3",
+            "Tingkao khou,khou tei ndap tari lakhe",
+            "Khou tei ndap tari lakhe]2",
+            "Tingkao khou",
+            "",
+            "4. Khou tei rianra mei nai lakhe]3",
+            "Tingkao khou, khou tei rianra mei nai lakhe",
+            "Khou tei ryan ramie nai lakhe]2",
+            "Tingkao khou.",
+            "",
+            "5. Laoziu narui gan bam e]3",
+            "Tingkao khou, lauziu narui gan bam e",
+            "Laoziuna ruigan bam e]2",
+            "Tingkao khou.",
+            "",
+            "6. Jesu gong dat zai puni]3",
+            "Kao thangrui, Jesu guangdat jai puni",
+            "Jesu guangdat zai puni]2",
+            "Kao thangrui.",
+            "",
+            "7. Chana puipu tatrei mei guai]3",
+            "Ariuni,chana puipu tat reimei guai",
+            "Chana puipu tat reimei guai] 2",
+            "Ariuni.",
+            "",
+            "8. Halleluijah hosanna]3",
+            "Thuan bam ni, halleluijah hosanna",
+            "Halleluijah hosanna]2",
+            "Thuan bamni."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 233",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 233. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Akhou guang o zion ram",
+        "titleRongmei": "Akhou guang o zion ram"
+      }
+    }
+  }
+}

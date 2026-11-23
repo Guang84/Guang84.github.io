@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0278",
+    "number": 278,
+    "source": {
+      "printedNumber": 278,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W.Mc Donald",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "7.7.7.7. Ref.",
+      "tune": "SS 477"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kros khou hei ai guang pw the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Kros khou hei ai guang pw the,",
+            "’Suanmei e, miktiatmei e;",
+            "Ramh guay akhang gaeng mak khe,",
+            "Ringhbamv laa khang ai guang the.",
+            "",
+            "Kaipouc, Nang khou ai lwm the,",
+            "Kalvari Lauziu Nacle;",
+            "Nang kros khou ai ’khum key e,",
+            "’Taw gulou o, he Jisu.",
+            "",
+            "2 Nang ta phumei tingsaengc the,",
+            "Siimei !}2 zyn saengc khwan the;",
+            "Jisu akhou saalou e:",
+            "“Paapc khou !}2 sw ’thanlou ni.”",
+            "",
+            "3 Atuang guay Nang khou tii the,",
+            "Kaganv guay, pam guay, lanv guay,",
+            "Apumc lev abumaengc hei",
+            "Tingsaengzaeng Nang tuang swkhang.",
+            "",
+            "4 Pou, Nang khou ai lwm bam ni,",
+            "Kalvari Lauziu Nacle,",
+            "Nang kros khou ai ’khum key e,",
+            "Jisu ata gulou the."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "I am Coming to the Cross",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "7.7.7.7. Ref.",
+        "SS 477",
+        "W.Mc Donald",
+        "I am Coming to the Cross",
+        "source hymn 278",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 278."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kros khou hei ai guang pw the",
+        "titleRongmei": "Kros khou hei ai guang pw the",
+        "titleEnglish": "I am Coming to the Cross"
+      }
+    }
+  }
+}

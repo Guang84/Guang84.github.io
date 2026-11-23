@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-084",
+    "number": 84,
+    "source": {
+      "printedNumber": 84,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Heic Kandic Mu Zinghmei Raana de",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          84 Heic Kandic Mu Zinghmei Raana de",
+            "                             9.11.12.4. Ref. 9.9.4.",
+            "          Doh hei D",
+            "",
+            "          1. Heic kandic mu zinghmei raana de;",
+            "             Kandih khouhei gaymei ariu ngammak ge.",
+            "             He a-Ravguangc Nang riw gaanhmei tei",
+            "             Tiikeylou na ro;",
+            "",
+            "                  Zaeng 'thaekcpui bamv maek ge kandih khou,",
+            "                  Tingkauh ta machunhna bam di kho.",
+            "                  'Zianmei guay le.",
+            "",
+            "          2. Kandih taanv khou lunghgut dat ri tho;",
+            "             Bumaengh taanv khou lunghgutmei guay dwan-gay ni.",
+            "             Ravguangc rui saaloumei latryan kiu e,",
+            "             'Zianmei guay le.",
+            "",
+            "          3. \"Kandih khouhei puatcrith phunghmei guay,",
+            "             Akhou guang o, Ai zaeng tithaekclou pwni,",
+            "             Akhou guangmei guay ta riuna bam e\";",
+            "             Zianmei guay le.",
+            "",
+            "          4. Kandihmei guay zipri bam ri tho,",
+            "             Ntaw nang khang kaganv di the thau la tho;",
+            "             Poubauhmei key dat khang kaganv 'naa the;",
+            "             Ngalancguang tho."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Heic Kandic Mu Zinghmei Raana de"
+      }
+    }
+  }
+}

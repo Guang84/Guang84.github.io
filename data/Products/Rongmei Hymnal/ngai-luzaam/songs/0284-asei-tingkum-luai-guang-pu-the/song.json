@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-174",
+    "number": 284,
+    "source": {
+      "printedNumber": 174,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "E",
+      "key": null,
+      "beat": null,
+      "meter": "8.6.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Asei tingkum luai guang pu the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Asei tingkum luai guang puthe,",
+            "Kagan tatmei tan hei;",
+            "Panti duimei tingkum luai the,",
+            "Tammei gan hei dam lou.",
+            "",
+            "2. Kaipou kross khou nang ban tipat,",
+            "Nangmei ta jai guang the;",
+            "He niu jian khang kross ta,",
+            "Nang banpa khou niu bam.",
+            "",
+            "3. Himdaimei sudiu kapu khou,",
+            "Himdaimei sudiu Kanah khou;",
+            "Himdaimei sudiu bumang thanmei khou,",
+            "Ngan makmei tingkum khou."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 174",
+        "SQLite BookTypeID 2",
+        "Key: E",
+        "Meter: 8.6.8.6.",
+        "Chord: E",
+        "Meta 3: 8.6.8.6."
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 174); no high-confidence title match was found in the PDF list. The digital catalogue number is 284; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 174,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Asei tingkum luai guang pu the",
+        "titleRongmei": "Asei tingkum luai guang pu the"
+      }
+    }
+  }
+}

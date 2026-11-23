@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0217",
+    "number": 217,
+    "source": {
+      "printedNumber": 217,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Johnson Oatman, Jr.",
+      "composer": null,
+      "arranger": null,
+      "chord": "G",
+      "key": null,
+      "beat": "3/4",
+      "meter": "7.7.7.7. Ref.",
+      "tune": "RS 311"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AKHOU TIIPADIKLOU THE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Niw pangc khou tiikeylou the,",
+            "Tingkauh ngamv tingriuc kumcna;",
+            "Padikna bun keylou e,",
+            "Akhou tiipadiklou the.",
+            "",
+            "Hallelujah ! thuancku e,",
+            "Tingriuc kumc tiikeylou the,",
+            "Padikna bun keylou e,",
+            "Akhou tiipadiklou the.",
+            "",
+            "2 Kauh zauzian riw keylou o,",
+            "’Niw pangc khou Nang bamlou o;",
+            "Nang ladanv tiipatlou o,",
+            "Akhou ’taw tiikeylou khang.",
+            "",
+            "3 Nang khou na pumtan nai e,",
+            "Nang paan hamhna lungc ngam lak;",
+            "Nang taanv khang pumtan tii o,",
+            "Akhou ’taw tiikeylou o."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "It’s Filling Me",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "G",
+        "3/4",
+        "7.7.7.7. Ref.",
+        "RS 311",
+        "Johnson Oatman, Jr.",
+        "Kunghmei apam khat akhang nai",
+        "’Niw pangc khou tiikeylou the",
+        "It’s Filling Me",
+        "source hymn 217",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 217."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AKHOU TIIPADIKLOU THE",
+        "titleRongmei": "AKHOU TIIPADIKLOU THE",
+        "titleEnglish": "It’s Filling Me"
+      }
+    }
+  }
+}

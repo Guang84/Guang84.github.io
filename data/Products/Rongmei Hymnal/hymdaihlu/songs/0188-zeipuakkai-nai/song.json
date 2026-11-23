@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0188",
+    "number": 188,
+    "source": {
+      "printedNumber": 188,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "W.Cowper",
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.6.8.6. Ref.",
+      "tune": "SS 129"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Zeipuakkai nai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Zeipuakkai nai, Emmanuel",
+            "Zeiriang khou !}2 pat re;",
+            "Paapcmei guay !}2 khou 2^< lupna,",
+            "Paapc rei guay khiu ’than e.",
+            "",
+            "Paapc rei guay khiu ’than e,",
+            "Paapc rei guay khiu ’than e,",
+            "Paapcmei guay zei khou 2^< lupna,",
+            "Paapc rei guay khiu ’than e.",
+            "",
+            "2 Theic ’chamcmei kaihouhmei pu 2^<",
+            "Neihlaa, zeipuak how khou;",
+            "Ai nic kakumc sii khwan sihni",
+            "Apaap khiu ’than nuh e.",
+            "",
+            "3 Lwmmei paan !}2 Nang zei duiriang",
+            "Ai how rap nungc 2^< !}2",
+            "Alu the, thuakloumei zauzian!",
+            "Ai ringh saanv suan bam ni.",
+            "",
+            "4 Suanmei, luammei abaley hei",
+            "T’rou khou zaeng ’thaekc pwkhou,",
+            "Gay dianghmei, chingkhiuhmei lu !}2",
+            "Thuakloupui ngamv thuanc ni.",
+            "",
+            "Hallelujah! Jisu khang e,",
+            "Kalvari Lauziu Nac!",
+            "Hallelujah! Hallelujah!",
+            "Hallelujah! Amen."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "There is a Fountain",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "C",
+        "4/4",
+        "8.6.8.6. Ref.",
+        "SS 129",
+        "W.Cowper",
+        "There is a Fountain",
+        "source hymn 188",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 188."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Zeipuakkai nai",
+        "titleRongmei": "Zeipuakkai nai",
+        "titleEnglish": "There is a Fountain"
+      }
+    }
+  }
+}

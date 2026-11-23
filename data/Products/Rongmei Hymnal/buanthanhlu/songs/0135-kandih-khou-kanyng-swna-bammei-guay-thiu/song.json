@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-135",
+    "number": 135,
+    "source": {
+      "printedNumber": 135,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Kandih khou Kanyng Swna Bammei guay thiu",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          135 Kandih khou Kanyng Swna Bammei Guay thiu",
+            "                              11.9. 11. 10.Ref. 9. 10. 10",
+            "          Doh hei Db",
+            "",
+            "          1. Kandih khou kanyng swna bammei guay thiu,",
+            "             Tabui nganvna nang nyng sw lana,",
+            "             Ruan tat bam nina cho nzianmei guay le.",
+            "             Kauc key khang chaengmun khou ding 'khwan bam the.",
+            "",
+            "                  Theihmei chaeng khou ruan tat bammei guay,",
+            "                  Kaganv maek khe, Kaipouc rui kauc bam e.",
+            "                  'Dihmei guay khang kaganv ri pwni the.",
+            "",
+            "          2. Kaganv nai di he twna ning bammei guay,",
+            "             Kaganv hei samc tat bam, 'thaekc makna.",
+            "             Kaganv nai bam khou hei gay taanv taanc la tho.",
+            "             Nang ta kaganv rui nkhwan pw lak khe.",
+            "",
+            "          3. Khrista rui nzianna kauc keymei khwan tei,",
+            "             Chumei guay adih san gay ni cho!",
+            "             Nthei thangc thu nang ta kaw dat pw lak khe.",
+            "             Kaipouc khwan tei nang chu dat pw lak khe.",
+            "",
+            "          4. Kaipouc rui trampet amuan key zaic ni khou,",
+            "             Ravsic rui simei taanv taanc diu khang,",
+            "             Nthiam pwni the nangniw 'dihmei guay ta.",
+            "             Mi kiu asaanh mak khou guang pwni the."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Kandih khou Kanyng Swna Bammei guay thiu"
+      }
+    }
+  }
+}

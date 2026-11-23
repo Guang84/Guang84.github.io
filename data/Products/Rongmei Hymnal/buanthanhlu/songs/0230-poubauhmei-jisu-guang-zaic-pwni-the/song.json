@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "buanthanhlu",
+  "contentVersion": "2.0.0",
+  "updatedAt": "2026-08-31",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymn-230",
+    "number": 230,
+    "source": {
+      "printedNumber": 230,
+      "printedPage": null,
+      "sourceBook": "Buanthanlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Poubauhmei Jisu Guang Zaic Pwni the",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "          230 Poubauhmei Jisu Guang Zaic",
+            "                           10.8.8.6.Ref. 8. 8. 8.6",
+            "          Doh hej Eb",
+            "",
+            "          1. Poubauhmei Jisu guang zaic pwni the,",
+            "             Baanch'ra ching ching lev muangh ruc khou.",
+            "             Chamdaanv la tho kandihmei guay,",
+            "             Kamei guang pwni the.",
+            "",
+            "                  Chamdaanv la tho 'zianmei guay le !",
+            "                  Tingsaengc lak khe heic kandic hei.",
+            "                  Kamei dincloumei lat guay hei,",
+            "                  Zauh lo, guangtangc pwthe.",
+            "",
+            "          2. Kakhou lwmlou makmei kaguay tei mu,",
+            "             Tingkauh ramgai how pwlak khe;",
+            "             Ryanraa kapna bam pw sihnic,",
+            "             Laalou dat pwlak khe.",
+            "",
+            "          3. He Tingkauh Jirusalem thanh gay tei,",
+            "             Lwmloumei guay how pwni the.",
+            "             Ch'rynmei thuakloumei lu thanh rui,",
+            "             Pou' ta thuanc bam ni the",
+            "",
+            "          4. He adih gay ni cho tingkauh ramc tei:",
+            "             Chwnsi ryanraamei nai lak khe:",
+            "             Ringhmei thingbang lim gay khoutei,",
+            "             Thuanc ni Halleluija"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": []
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "unverified",
+        "source": "editorial-transcription",
+        "sourcePage": null,
+        "lastReviewed": "",
+        "reviewedBy": ""
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Poubauhmei Jisu Guang Zaic Pwni the"
+      }
+    }
+  }
+}

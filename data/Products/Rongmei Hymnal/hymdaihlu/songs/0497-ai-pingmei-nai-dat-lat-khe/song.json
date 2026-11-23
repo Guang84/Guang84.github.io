@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0497",
+    "number": 497,
+    "source": {
+      "printedNumber": 497,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Lizzie Edwards",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "8.7.8.7. Ref.",
+      "tune": "3 Alex. 218"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "AI PINGMEI NAI DAT LAT KHE",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Guloumei pu ta tat ’chamc ni,",
+            "Araana thu tat ping e,",
+            "Kadaeng khou ai bam tuanc bam ni,",
+            "Kabaanc <~1 pamclou bam khang.",
+            "",
+            "Ai pingmei nai dat lak khe,",
+            "Kamei <~1 zaylou bam khou,",
+            "Ai nrauc makna tat ni the;",
+            "Kaphaykaamv ’thuic lay tat ni.",
+            "",
+            "2 Guloumei pu ta tat ’chamc ni,",
+            "Aramlum hei thu ’suan e;",
+            "Kamei <~1 ata swmgay ngam,",
+            "Baihmei lat <~1 swm ngam mak.",
+            "",
+            "3 Guloumei pu ta tat ’chamc ni,",
+            "Panty hu biak ’zwan tat khou,",
+            "Tingpwanzingh ding lev neihriw khou,",
+            "Rihbamv lev rihphyan bamv khou.",
+            "",
+            "4 Guloumeipu ta tat ’chamc ni,",
+            "Kamei <~1 chaeng zaylou ni,",
+            "Jordan nzaengc guang tanghmak saanv,",
+            "Kamuatcmei dui kaan mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "The Saviour with Me",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "8.7.8.7. Ref.",
+        "3 Alex. 218",
+        "Lizzie Edwards",
+        "Guloumeipu ta tat ’chamc ni",
+        "The Saviour with Me",
+        "source hymn 497",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 497."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "AI PINGMEI NAI DAT LAT KHE",
+        "titleRongmei": "AI PINGMEI NAI DAT LAT KHE",
+        "titleEnglish": "The Saviour with Me"
+      }
+    }
+  }
+}

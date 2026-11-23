@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0780",
+    "number": 780,
+    "source": {
+      "printedNumber": 780,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": null,
+      "meter": "8.8.8.6.",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Phang jaolo Tingkau namdai tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Phang jaolo tingkau namdai 5#^,",
+            "Hei 5#^ tam dat mak pui ram e;",
+            "Aniu ntam dat khang guang e,",
+            "Ning e tam mak pui ram.",
+            "",
+            "Chorus:",
+            "Tingsang mak ge kandih khou hei,",
+            "Munpuang kumma tuai nuang e;",
+            "Ntam mak nu mak ge aniu,",
+            "Ntam datmei kandih e.",
+            "",
+            "2. He ninge tam dat mak pui ram,",
+            "Nban thaina bamni pui ram;",
+            "Tabui nung rui guangtang nicho?",
+            "Tam dat mak mei ram khou.",
+            "",
+            "3. Rianrana tam lou kanmei guai,",
+            "Buinung rui ariu dat ni cho?",
+            "Kandih rianra ram tuan pukhou,",
+            "Neilana riu datni.",
+            "",
+            "4. Ninge tam dat makmei namdai,",
+            "Kandih khou hei tam bammei hei;",
+            "Lung neila lou nipui bam mak,",
+            "Hei kandih ram khou hei.",
+            "",
+            "5. Ntam louna kap bam khou hei,",
+            "Tingkauh kachak ramta ninge;",
+            "Ntam dat lak nipui ram khou,",
+            "Tang nimei khuan ngam mak."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "8.8.8.6.",
+        "Phang jaolo Tingkau namdai tei",
+        "source hymn 50",
+        "book type 2"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 2, hymn 50."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Phang jaolo Tingkau namdai tei",
+        "titleRongmei": "Phang jaolo Tingkau namdai tei"
+      }
+    }
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0600",
+    "number": 600,
+    "source": {
+      "printedNumber": 600,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rev. J. Fawcett",
+      "composer": null,
+      "arranger": null,
+      "chord": "F",
+      "key": null,
+      "beat": "3/4",
+      "meter": "6.6.8.6.",
+      "tune": "SS 506"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "KHRISTIAN ZIAN KHOU ’NIU LUNG",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Khristian zian khou ’niu lungc",
+            "Banghmei riang guigay diu;",
+            "Chwn chamh, kadam laa",
+            "’chamcmei hei",
+            "Kauh thangc lwnlung kumc e.",
+            "",
+            "2 ’Niu Pu bamvpaeng hu khou,",
+            "’Niu huayneymei bunlou;",
+            "’Niu pingmei, tamhmei, machunhmei,",
+            "Kadanmei khat na de.",
+            "",
+            "3 Ryanra akhaengv ’chamcmei,",
+            "Puat ’ritmei phungc ’chamcmei,",
+            "Khat khat khang mikdui keyloumei",
+            "Zianmei khristian riak ge.",
+            "",
+            "4 Aniu ’tamvmei ganv khou",
+            "Lungh ryanramei nai e,",
+            "Kumsic ’niu lung alamv bam ni,",
+            "Gayna ’riw dat mak saanv."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Blest be the Tie that Binds",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "F",
+        "3/4",
+        "6.6.8.6.",
+        "SS 506",
+        "Rev. J. Fawcett",
+        "Blest be the Tie that Binds",
+        "source hymn 600",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 600."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "KHRISTIAN ZIAN KHOU ’NIU LUNG",
+        "titleRongmei": "KHRISTIAN ZIAN KHOU ’NIU LUNG",
+        "titleEnglish": "Blest be the Tie that Binds"
+      }
+    }
+  }
+}

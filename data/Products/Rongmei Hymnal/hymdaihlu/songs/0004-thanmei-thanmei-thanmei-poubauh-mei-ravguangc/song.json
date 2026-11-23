@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0004",
+    "number": 4,
+    "source": {
+      "printedNumber": 4,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "R.Heber,D.D.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.12.12.10.",
+      "tune": "SS 22"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "’Thanmei, ’Thanmei, ’Thanmei Poubauh mei Ravguangc",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 ’Thanmei, ’Thanmei, ’Thanmei Poubauhmei Ravguangc!",
+            "Lauthwanzingh ’niw thuanhpui lu khwan Nang pamv tangc diu;",
+            "’Thanmei, ’Thanmei, ’Thanmei, zianthaymei, ngammeipu!",
+            "Guigaymei Racguangc, Gaanv Thumh khat swmei!",
+            "",
+            "2 ’Thanmei, ’Thanmei, ’Thanmei!",
+            "’Thanmei nunc Nang ta bwan",
+            "Nang hu khou kaniw kachaekc pyrun lou keyna,",
+            "Cherubim lev Seraphim Nang hu khou khuksun e;",
+            "Tat kanmei, bammei, guang nimei Kaipouc!",
+            "",
+            "3 ’Thanmei, ’Thanmei, ’Thanmei! zinghmei $%6 ’kamhlouna,",
+            "Paapc phunghmei mik $%6 Nang ta how mak khwan sini,",
+            "Nang na rap de, ’Thanmei, Nang kumhmei baihmei maek",
+            "Ngamv, zianmei, ’thanmei Nang khou nthuih e!",
+            "",
+            "4 ’Thanmei, ’Thanmei, ’Thanmei Poubauhmei Ravguangc!",
+            "Kandih, tingpuk, duidai khou Nang taanv $%6 thuanc diu;",
+            "’Thanmei, ’Thanmei, ’Thanmei, zianthaymei, ngammeipu!",
+            "Gaanv Thumh khat swmei hymdaihmei Racguangc!"
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "Holy, Holy, Holy!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "11.12.12.10.",
+        "SS 22",
+        "R.Heber,D.D.",
+        "Holy, Holy, Holy!",
+        "source hymn 4",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 4."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "’Thanmei, ’Thanmei, ’Thanmei Poubauh mei Ravguangc",
+        "titleRongmei": "’Thanmei, ’Thanmei, ’Thanmei Poubauh mei Ravguangc",
+        "titleEnglish": "Holy, Holy, Holy!"
+      }
+    }
+  }
+}

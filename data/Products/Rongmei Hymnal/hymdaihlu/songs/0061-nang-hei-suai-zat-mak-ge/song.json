@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0061",
+    "number": 61,
+    "source": {
+      "printedNumber": 61,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Thomas O. Chisholm",
+      "composer": null,
+      "arranger": null,
+      "chord": "D",
+      "key": null,
+      "beat": "3/4",
+      "meter": "11.10.11.10. Ref.",
+      "tune": "CW 165"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "NANG HEI SUAI ZAT MAK GE”",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 “Nang hei suai zat mak ge,” he aPu Ravguangc,",
+            "He Ravguangc, Nang thu sii guay gay guay mak,",
+            "Nang kalaic mak Nang zauzian suai zat mak ge,",
+            "Kahunungc kumc tingsaeng nai bam puni.",
+            "",
+            "“Nang hei suai zat mak ge,”(2)",
+            "Lauthwan kathuic khou zauzian thanh how e;",
+            "Akhang gaengmei kaguay Nang tiilou bam e,",
+            "“Nang hei suai zat mak ge,” Kaipouc, akhang!",
+            "2 Lauphunhswan, lautay ganv, tinglwm, tingsei )}3,",
+            "Tingpuk kauh thangc bw, neih, gaanchuangc guay )}3",
+            "Kalwnlung baansyam )}3 Nang sakhi sw e;",
+            "Nang tuang suai makmei lev Nang zauzian ta.",
+            "",
+            "3 Paapc kuakloumei hei lev lungning chuzaenghmei,",
+            "Nang bam ’chamcna tiineihlaa, zayloumei,",
+            "’Seic khang pumtan, ’thuanh khang gay ranvmei machunc,",
+            "Hei na hamhmei suaihiam guay akhang e."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "\"Great is Thy Faithfulness\"",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "D",
+        "3/4",
+        "11.10.11.10. Ref.",
+        "CW 165",
+        "Thomas O. Chisholm",
+        "\"Great is Thy Faithfulness\"",
+        "source hymn 61",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 61."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "NANG HEI SUAI ZAT MAK GE”",
+        "titleRongmei": "NANG HEI SUAI ZAT MAK GE”",
+        "titleEnglish": "\"Great is Thy Faithfulness\""
+      }
+    }
+  }
+}

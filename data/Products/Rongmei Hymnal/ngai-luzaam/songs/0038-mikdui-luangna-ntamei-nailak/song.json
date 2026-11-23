@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-038",
+    "number": 38,
+    "source": {
+      "printedNumber": 38,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Mikdui luangna ntamei nailak",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Mikdui luangna ntam mei nailak khe theithang mu",
+            "Tingkao kandi Raguang bampui ram guangtang pukhou",
+            "Tingkao kandi gaimei khou neilana ai guang bamni",
+            "Tingkao kandi gaimei khou Jisu le bamcham ni",
+            "",
+            "2. LauziuNa nthanmei tei hou puni theithu rui",
+            "Nzianmeinun ntamkanmei guai le bamcham ni",
+            "Kata thuanku kariu ni khoutei mikkdui keilak khe,",
+            "Rianra zaengsimei guai hei nailak khe heikhou tei.",
+            "",
+            "3. Nzianmei guai le ntam meihei naidat lak khe",
+            "Rianra zangsipuiram kandih hei naidat lak khe",
+            "Lily munpuang puangpui ram tingsaengna bampui kaankhou",
+            "Mikdui keimei rianramei guai hei naidat lak khe.",
+            "",
+            "4. Midui rou ntam kanmei nreimei arup nun",
+            "Theihmei duipaengram gaimei khoutei bam champuni",
+            "Tingsaengzaenga ntamdat makna lungbam puni the",
+            "Tingkau ramkhou tingsaengzaeng mbaan thai bampuni.",
+            "",
+            "5. Hei kandi mu rianramei le kaploupui ram e.",
+            "Phandui thingna mikdui luangkei loupui bam dei e",
+            "Bumaeng kandi gaimei khou neihlaana ai guang bamni",
+            "Gaanphiu gaanmei kanloumeipu Guang tupui ramkhou.",
+            "",
+            "6. He nzianmei nun guai le raengbang tat tuandi kho,",
+            "Airui phangzau bamni e nzianmei nun guai ta",
+            "Khrista rui duanglou kandiu aniu ariu dat maksan,",
+            "Naunian mak khang PouRavguangc rui suaihiam lou kandiu"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 38",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 38. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Mikdui luangna ntamei nailak",
+        "titleRongmei": "Mikdui luangna ntamei nailak"
+      }
+    }
+  }
+}

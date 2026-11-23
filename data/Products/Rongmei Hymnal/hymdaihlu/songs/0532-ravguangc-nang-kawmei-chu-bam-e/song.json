@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0532",
+    "number": 532,
+    "source": {
+      "printedNumber": 532,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "Rolland W. Schoerb",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "3/4",
+      "meter": "8.6.8.6.",
+      "tune": "CW 449"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ravguangc Nang kawmei chu bam e",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ravguangc, Nang kawmei chu bam e,",
+            "Reynungc Galili khou,",
+            "Kaipouc ({0 meic nunc ta kaw kumc:",
+            "“Thau o, Athei lay o!”",
+            "",
+            "2 Nang kawmei khou dawmei nunc ta",
+            "Aseic hei laalou o;",
+            "Kaniw ramlum sin gaeklou o,",
+            "Kaniw chwn zaylou o.",
+            "",
+            "3 ’Seic hei mi tiigaypui dui ({0",
+            "Paapc khou ({0 duak patmei,",
+            "Ravguangc mei khang khiu ’thanloumei",
+            "Lwnlung ta lyanlou diu.",
+            "",
+            "4 Mi nunc ta hei tiiswlou o,",
+            "Kaniw ringcting nai saanv,",
+            "Nang tuang phwamlingmei ling swna",
+            "’Niw lev kadam laa khang."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "O God, Thy Summons Still is Heard",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "3/4",
+        "8.6.8.6.",
+        "CW 449",
+        "Rolland W. Schoerb",
+        "O God, Thy Summons Still is Heard",
+        "source hymn 532",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 532."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ravguangc Nang kawmei chu bam e",
+        "titleRongmei": "Ravguangc Nang kawmei chu bam e",
+        "titleEnglish": "O God, Thy Summons Still is Heard"
+      }
+    }
+  }
+}

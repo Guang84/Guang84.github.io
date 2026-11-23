@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-099",
+    "number": 99,
+    "source": {
+      "printedNumber": 99,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Jaulo, ringhmei nthukpui zei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Zaulo, ringhmei nthuk pui zei,",
+            "Ntau hei ni luang bam;",
+            "Mikdui keilou mei Pu zei tei,",
+            "Gunh kumna ‘phuanpui tuang. [2]",
+            "",
+            "Gunh kumna phuan pui bam khou louna,",
+            "Thou puni lou nimei guay tei;",
+            "Paap guay khiu thanlouni.",
+            "",
+            "2. Kanloumei Pu Kalvary khou,",
+            "Ryanra rainriu khaenglou",
+            "Khou rui nthukpui zei patlou,",
+            "Gunh kumna ‘phuanpui tuang. [2]",
+            "",
+            "3. He! Meigeih mei tan uh puni,",
+            "Hei zei hei luang bam khou,",
+            "Nthuk pui Na ta ningmei rui,",
+            "Gunh kumna ‘phuan puni. [2]",
+            "",
+            "4. Poubaomei tei keidat puni,",
+            "Kamei nunta laakhang,",
+            "Nthuk pui zei ningmei na rui,",
+            "Tingkao ram lapuni. [2]"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 99",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 99. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Jaulo, ringhmei nthukpui zei",
+        "titleRongmei": "Jaulo, ringhmei nthukpui zei"
+      }
+    }
+  }
+}

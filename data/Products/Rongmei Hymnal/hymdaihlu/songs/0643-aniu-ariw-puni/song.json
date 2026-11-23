@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0643",
+    "number": 643,
+    "source": {
+      "printedNumber": 643,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "R.Lowry.",
+      "composer": null,
+      "arranger": null,
+      "chord": "Eb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "7.7.9. D. Ref.",
+      "tune": "SS 939"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "ANIU ARIW PUNI",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Neihmik key nuangc puni the,",
+            "Khou kiu ’niu taanv guay luaina,",
+            "Ryanra ryanriu guay ’thaekc puni the;",
+            "Tingpuk, kandih Kaipouc >|3",
+            "’Niu ta ’chyangthaulou puni,",
+            "Aniu ariw dat ni Zion khou.",
+            "",
+            "Aniu ariw puni,",
+            "He aniu ariw puni;",
+            "Guloumei pu ta luicna",
+            "Gaanc chuymei kandic khou 3>|;",
+            "Aniu ariw puni",
+            "He aniu ariw puni,",
+            "Kahymdaih dam laa puni.",
+            "",
+            "2 Nzaengc khou swng hei zingc the,",
+            "Pingmei pwanzingh khwan tanc the,",
+            "Pwanzingh kananghna ’niu",
+            "chaeng zingc the;",
+            "Kumsic Pou >|3 zaylou ni,",
+            "Gaanhmei kalaanv dic khou 3>|",
+            "Khou3>| dih tuang pwanzingh",
+            "guang mak khe.",
+            "",
+            "3 Mikdui luanlai bam sihni,",
+            "Pingmei lung padik sihni,",
+            "Dih panty ryanra padik sihni,",
+            "Neih khat Kaipouc key puni,",
+            "Kakai khou phungc kulou khang,",
+            "Khou3>| ryanramei nai dat lak khe."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "We’ll Meet Each Other There!",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Eb",
+        "4/4",
+        "7.7.9. D. Ref.",
+        "SS 939",
+        "R.Lowry.",
+        "Neimik key nuangc puni the",
+        "We’ll Meet Each Other There!",
+        "source hymn 643",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 643."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "ANIU ARIW PUNI",
+        "titleRongmei": "ANIU ARIW PUNI",
+        "titleEnglish": "We’ll Meet Each Other There!"
+      }
+    }
+  }
+}

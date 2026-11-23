@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-210",
+    "number": 210,
+    "source": {
+      "printedNumber": 210,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Aravguangc nang banshiam guai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Aravguangc nang bansyam ramgai",
+            "Charin ne heizu mei guay hei phang zauki;",
+            "Sa-ngam makmei chingkhiu",
+            "Nang lung gai guai rui",
+            "Mbaan nang him rui padik the.",
+            "",
+            "Thuan bam ni aRravguangc nang ramgai san na",
+            "Nrim bam mei ching luanc guay hei sam kaan na",
+            "Kandih kun hei kuaina, ai ning mei ngan na",
+            "Samna zau tat ni e ai ni.",
+            "",
+            "2. Kandih amik rui hou tang mak",
+            "Suan mei alu khuan rui suanc tang thui ngam mak",
+            "Khuan gaimei nruai lev anei suan chamv khou.",
+            "Alu khuan ni kagaeng lik diw.",
+            "",
+            "3. Nang bansyam ramgai hei zauna",
+            "Alung hei kagan thui alao kum ning e;",
+            "Han guang dat lak nimei panti ta ning nga",
+            "Apanti thien kei ngam lakge.",
+            "",
+            "4. Tingzin keikan nimei riu khou",
+            "Khuan gaimei lukhuan rui kaiguang lu suan bam,",
+            "Kai guang nimei gan the zingmei na guang the",
+            "Ai ni kai nzuan kan ni the.",
+            "",
+            " Pastor Abui"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 210",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 210. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Aravguangc nang banshiam guai",
+        "titleRongmei": "Aravguangc nang banshiam guai"
+      }
+    }
+  }
+}

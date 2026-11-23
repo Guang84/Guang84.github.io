@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-db-197",
+    "number": 298,
+    "source": {
+      "printedNumber": 197,
+      "printedPage": null,
+      "sourceBook": "Legacy SQLite collection (BookTypeID 2)",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": "C",
+      "key": null,
+      "beat": null,
+      "meter": "Irregular",
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Thanpui nei jingbang tei",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Thanpui nei jingbang tei,",
+            "Ram kaguai rimh rim khou;",
+            "Kapui le nga nah dang gan e,",
+            "Mangui phungmei thanpui nga nah tei,",
+            "Jip bam e reih reina,",
+            "Kauh tuang chujangmei khou.",
+            "",
+            "2. Rimh rimpui jingbang tei,",
+            "Laujiu gangmei chu e;",
+            "Kauh banchra nun lu hei kumna,",
+            "Halleluijah Guangta thuan kho,",
+            "Jisu Khrista puan the,",
+            "Guloumeipu Jisu e.",
+            "",
+            "3. Thanpui nei jingbang tei,",
+            "Raguang nah jianmei riu;",
+            "Thanmei nang jau khou ({0 gan e,",
+            "Thuakloumei jaujian lauthuan riu,",
+            "Jisu nang puan nung tei,",
+            "Jisu nang puan nung tei.",
+            "",
+            "4. Rimh rimpui jingbang hei,",
+            "He ganchuang gan kei o;",
+            "Kauh banchra le lusuan cham kho,",
+            "Hallleluijah aniu guang khang,",
+            "Jisu Khrista puan the,",
+            "Guloumeipu Jisu e."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "legacy database record 197",
+        "SQLite BookTypeID 2",
+        "Key: C",
+        "Meter: Irregular",
+        "Chord: C",
+        "Meta 3: Irregular"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "legacy-database-record",
+        "note": "Included from the supplied SQLite database (record 197); no high-confidence title match was found in the PDF list. The digital catalogue number is 298; the legacy database record number is preserved separately."
+      },
+      "legacyMetadataSource": {
+        "source": "hymnal_1_2_3.db",
+        "bookTypeId": 2,
+        "hymnId": 197,
+        "match": "source-id"
+      },
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Thanpui nei jingbang tei",
+        "titleRongmei": "Thanpui nei jingbang tei"
+      }
+    }
+  }
+}

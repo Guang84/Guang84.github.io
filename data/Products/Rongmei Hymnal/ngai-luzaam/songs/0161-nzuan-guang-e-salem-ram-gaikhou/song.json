@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "ngai-luzaam",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "ngai-luzaam-pdf-161",
+    "number": 161,
+    "source": {
+      "printedNumber": 161,
+      "printedPage": null,
+      "sourceBook": "Khristian Luzaam PDF",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": null,
+      "composer": null,
+      "arranger": null,
+      "chord": null,
+      "key": null,
+      "beat": null,
+      "meter": null,
+      "tune": null
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Nzuan guang e Salem ram gaikhou",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1. Nzuan guang e Salem ram gaikhou,",
+            "Lunggeihmei makpui ram khou tei;",
+            "Tang khang khuanna nzuan guang e,",
+            "Hei kandi khou gaimei makge.",
+            "",
+            "Rinara rianriu mei khaeng ngam mak,",
+            "Rianrapui ram kandi khou hei;",
+            "Nang rui hamhma guang tang ngam mak,",
+            "He! Tingkao nzaenghmei Guang patlou rio.",
+            "",
+            "2. Ai nzuan guang e ringhpui ram khou,",
+            "Theihmei Jordan dui rui dailiam;",
+            "Tingkao le kandi kak khou hei,",
+            "Nang hamhma ai guang tang ngam mak.",
+            "",
+            "3. Theihmei Jordan dui rui dailiam ma,",
+            "Ringhpui bam gaanhpui di khou tei;",
+            "Nang rui hamhma guang tang ngam mak,",
+            "He Bumaeng Thanmei sam guang o."
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "printed song 161",
+        "Khristian Luzaam PDF"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "transcribed-from-source",
+        "note": "Transcribed from supplied PDF, printed song number 161. Original spelling and line breaks are kept where text extraction permits."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Nzuan guang e Salem ram gaikhou",
+        "titleRongmei": "Nzuan guang e Salem ram gaikhou"
+      }
+    }
+  }
+}

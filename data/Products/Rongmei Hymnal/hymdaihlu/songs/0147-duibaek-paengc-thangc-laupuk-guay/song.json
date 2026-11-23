@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0147",
+    "number": 147,
+    "source": {
+      "printedNumber": 147,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "G.F. Root",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "10.9.11.9. Ref.",
+      "tune": "SS 93"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Duibaek paengc thangc laupuk guay",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Duibaek paengc thangc laupuk guay adih gay!",
+            "Hymdaic e, meic ching ching kaduaina,",
+            "’Ki zauzian lev hymdaih padikmei zawpaanv!",
+            "Guloumei pu ta kida ngam cho!",
+            "",
+            "Oh ching ruh pangc khou Kamei gay liang e!",
+            "Kata thuanhmei duiluath kumc lik diu:",
+            "“Kamei hei gay karucsinghmei pu kiu e!”",
+            "Mi hei tingsaeng aniu lu sw ni!",
+            "",
+            "2 “Gay liangmei khou gay karucsinghmei e!”",
+            "Nang ta zianna Kamei kaw bam e;",
+            "He abumaengc Karingcbamv hei laa lak cho,",
+            "Padikmei nsa nang khang tiimei?",
+            "",
+            "3 “Gay liangmei khou gay karucsinghmei e!”",
+            "Kakhwan ’king o, adih nuh gay cho:",
+            "“Guang o, nangniw lakmei, puatrith phunghmei thiu,",
+            "Akhou guang o, zaeng tii’thaekclou ni!”"
+          ]
+        }
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "10.9.11.9. Ref.",
+        "SS 93",
+        "G.F. Root",
+        "Gay liangmei khou gay",
+        "Altogether Lovely",
+        "source hymn 147",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 147."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Duibaek paengc thangc laupuk guay",
+        "titleRongmei": "Duibaek paengc thangc laupuk guay"
+      }
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.1",
+  "bookId": "hymdaihlu",
+  "contentVersion": "1.3.0",
+  "updatedAt": "2026-10-14",
+  "defaultLanguage": "rongmei",
+  "song": {
+    "id": "hymdaihlu-0509",
+    "number": 509,
+    "source": {
+      "printedNumber": 509,
+      "printedPage": null,
+      "sourceBook": "Hymdaihlu",
+      "sourceEdition": null,
+      "sourceType": "printed-songbook"
+    },
+    "details": {
+      "author": "A.H. Ackley",
+      "composer": null,
+      "arranger": null,
+      "chord": "Bb",
+      "key": null,
+      "beat": "4/4",
+      "meter": "11.8.11.7. Ref.",
+      "tune": "CSH 98"
+    },
+    "languages": {
+      "rongmei": {
+        "language": "rongmei",
+        "title": "Ai neihlaa bam e, Guangh siamruai",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "available",
+        "content": {
+          "format": "source-lines",
+          "lines": [
+            "1 Ai neihlaa bam e, Guangh siamruai taanv khou hei,",
+            "Ai neihlaa e, neihlaa changh e;",
+            "Akhang ’chuzaenghmei lev neihlaamei nai the,",
+            "Guangh tuang siamruai taanv khou hei.",
+            "",
+            "Guangh tuang siamruai taanv khou hei,",
+            "Talent kathuic phungc guang ni,",
+            "Akhang ’chuzaengh, neihlaa nai the,",
+            "Guangh tuang siamruai taanv khou hei.",
+            "",
+            "2 Ai neihlaa bam e, Guangh siamruai taanv khou hei,",
+            "Ai neihlaa e, neihlaa changh e;",
+            "Ryanra khou, neihlaa khou ai lu suan ngam e,",
+            "Guangh tuang siamruai taanv khou hei.",
+            "",
+            "3 Ai neihlaa bam e, Guangh siamruai taanv khou hei,",
+            "Ai neihlaa e, neihlaa changh e;",
+            "Zayloumei Kabaanc ai zamc tanh tan bam ni,",
+            "Guangh tuang siamruai taanv khou hei.",
+            "",
+            "4 Ai neihlaa bam e, Guangh siamruai taanv khou hei,",
+            "Ai neihlaa e, neihlaa changh e;",
+            "Akhou naimei guay neihlaana phungc guang e,",
+            "Guangh tuang siamruai taanv khou hei."
+          ]
+        }
+      },
+      "english": {
+        "language": "english",
+        "title": "In the Service of the King",
+        "credits": {
+          "translator": null,
+          "editor": null
+        },
+        "contentStatus": "title_only",
+        "content": null
+      }
+    },
+    "editorial": {
+      "status": "not_reviewed",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "notes": []
+    },
+    "rights": {
+      "status": "unknown",
+      "rightsHolder": null,
+      "permissionReference": null,
+      "permittedUses": [],
+      "languageRights": {
+        "rongmei": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        },
+        "english": {
+          "status": "unknown",
+          "rightsHolder": null,
+          "permissionReference": null,
+          "permittedUses": []
+        }
+      }
+    },
+    "search": {
+      "keywords": [
+        "Bb",
+        "4/4",
+        "11.8.11.7. Ref.",
+        "CSH 98",
+        "A.H. Ackley",
+        "Guangh tuang siamruai taanv khou",
+        "In the Service of the King",
+        "source hymn 509",
+        "book type 1"
+      ]
+    },
+    "sourceMetadata": {
+      "legacyVerification": {
+        "status": "verified-index",
+        "note": "RongmeiIndexes title; source book 1, hymn 509."
+      },
+      "legacyMetadataSource": null,
+      "legacyFields": {},
+      "legacyTitles": {
+        "title": "Ai neihlaa bam e, Guangh siamruai",
+        "titleRongmei": "Ai neihlaa bam e, Guangh siamruai",
+        "titleEnglish": "In the Service of the King"
+      }
+    }
+  }
+}
