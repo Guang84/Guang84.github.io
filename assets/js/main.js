@@ -20,78 +20,81 @@ import { initSupportCopy } from "./features/support-copy.js";
 import { initPageMap } from "./ui/page-map.js";
 
 
-let glabLoaderFallbackTimer = null;
-let glabLoaderFrame = null;
+const GLAB_LOADER_ASSET_BASE =
+  "https://raw.githubusercontent.com/Guang84/Glab-assets/main/shared/GLab-loader";
 
-function ensureGlabPageLoader() {
-  let loader = document.querySelector("[data-glab-page-loader]");
-  if (loader) return loader;
+let glabPageLoader = null;
+let glabLoaderPendingMessage = null;
+let glabLoaderAssetsPromise = null;
+let glabLoaderAssetsFailed = false;
 
-  loader = document.createElement("div");
-  loader.className = "glab-page-loader";
-  loader.dataset.glabPageLoader = "";
-  loader.setAttribute("role", "status");
-  loader.setAttribute("aria-live", "polite");
-  loader.setAttribute("aria-hidden", "true");
-
-  const content = document.createElement("div");
-  content.className = "glab-page-loader__content";
-
-  const mark = document.createElement("img");
-  mark.className = "glab-page-loader__mark";
-  mark.src = "/assets/brand/glab-mark-256.png";
-  mark.alt = "";
-  mark.setAttribute("aria-hidden", "true");
-
-  const label = document.createElement("span");
-  label.className = "glab-page-loader__label";
-  label.dataset.loaderMessage = "";
-  label.textContent = "Loading GLab…";
-
-  const track = document.createElement("span");
-  track.className = "glab-page-loader__track";
-  track.setAttribute("aria-hidden", "true");
-
-  const fill = document.createElement("span");
-  fill.className = "glab-page-loader__track-fill";
-  track.append(fill);
-  content.append(mark, label, track);
-  loader.append(content);
-  document.body.append(loader);
-  return loader;
+function loadGlabLoaderStylesheet() {
+  return new Promise((resolve, reject) => {
+    const link = document.createElement("link");
+    link.rel = "stylesheet";
+    link.href = `${GLAB_LOADER_ASSET_BASE}/GLab-loader.css`;
+    link.dataset.glabLoaderStylesheet = "";
+    link.onload = resolve;
+    link.onerror = () => {
+      link.remove();
+      reject(new Error("Could not load the shared GLab Loader stylesheet."));
+    };
+    document.head.append(link);
+  });
 }
 
-function showGlabPageLoader(message = "Loading GLab…") {
-  const loader = ensureGlabPageLoader();
-  const label = loader.querySelector("[data-loader-message]");
-  if (label) label.textContent = message;
-  loader.setAttribute("aria-hidden", "false");
-  document.documentElement.classList.add("glab-loader-active");
+function loadGlabLoaderScript() {
+  if (typeof window.GLabLoader === "function") return Promise.resolve();
 
-  if (glabLoaderFrame !== null) cancelAnimationFrame(glabLoaderFrame);
-  glabLoaderFrame = requestAnimationFrame(() => {
-    loader.classList.add("is-visible");
-    glabLoaderFrame = null;
+  return new Promise((resolve, reject) => {
+    const script = document.createElement("script");
+    script.src = `${GLAB_LOADER_ASSET_BASE}/GLab-loader.js`;
+    script.async = true;
+    script.dataset.glabLoaderScript = "";
+    script.onload = () => {
+      if (typeof window.GLabLoader === "function") resolve();
+      else reject(new Error("The shared GLab Loader script did not expose GLabLoader."));
+    };
+    script.onerror = () => {
+      script.remove();
+      reject(new Error("Could not load the shared GLab Loader script."));
+    };
+    document.head.append(script);
   });
+}
 
-  window.clearTimeout(glabLoaderFallbackTimer);
-  // Never leave a page covered if a navigation is cancelled or a resource hangs.
-  glabLoaderFallbackTimer = window.setTimeout(hideGlabPageLoader, 9000);
+function loadGlabLoaderAssets() {
+  if (!glabLoaderAssetsPromise) {
+    glabLoaderAssetsPromise = Promise.all([
+      loadGlabLoaderStylesheet(),
+      loadGlabLoaderScript(),
+    ]).then(() => {
+      if (typeof window.GLabLoader !== "function") {
+        throw new Error("The shared GLab Loader is unavailable.");
+      }
+    });
+  }
+  return glabLoaderAssetsPromise;
+}
+
+function getGlabLoaderTheme() {
+  const theme = document.documentElement.dataset.theme;
+  return theme === "light" || theme === "dark" ? theme : "auto";
+}
+
+function showGlabPageLoader(message = "Loading…") {
+  if (glabLoaderAssetsFailed) return;
+  glabLoaderPendingMessage = message;
+  if (!glabPageLoader) return;
+
+  glabPageLoader.element.dataset.theme = getGlabLoaderTheme();
+  glabPageLoader.show(message);
+  glabLoaderPendingMessage = null;
 }
 
 function hideGlabPageLoader() {
-  window.clearTimeout(glabLoaderFallbackTimer);
-  glabLoaderFallbackTimer = null;
-  if (glabLoaderFrame !== null) {
-    cancelAnimationFrame(glabLoaderFrame);
-    glabLoaderFrame = null;
-  }
-  const loader = document.querySelector("[data-glab-page-loader]");
-  if (loader) {
-    loader.classList.remove("is-visible");
-    loader.setAttribute("aria-hidden", "true");
-  }
-  document.documentElement.classList.remove("glab-loader-active");
+  glabLoaderPendingMessage = null;
+  if (glabPageLoader) glabPageLoader.hide();
 }
 
 function initGlabPageLoader() {
@@ -101,8 +104,31 @@ function initGlabPageLoader() {
     if (pageLoaded && contentReady) hideGlabPageLoader();
   };
 
-  ensureGlabPageLoader();
-  showGlabPageLoader("Loading GLab…");
+  // Load the shared component without blocking the site's other features.
+  // If the asset host is unavailable, the website continues without an overlay.
+  showGlabPageLoader("Loading…");
+  loadGlabLoaderAssets()
+    .then(() => {
+      glabPageLoader = new window.GLabLoader({
+        logoUrl: "/assets/brand/glab-mark-256.png",
+        message: "Loading…",
+        theme: getGlabLoaderTheme(),
+        timeoutMs: 9000,
+      });
+      if (glabLoaderPendingMessage !== null) {
+        showGlabPageLoader(glabLoaderPendingMessage);
+      }
+      hideWhenReady();
+    })
+    .catch((error) => {
+      glabLoaderAssetsFailed = true;
+      glabLoaderPendingMessage = null;
+      document.querySelector("link[data-glab-loader-stylesheet]")?.remove();
+      console.warn(
+        "Shared GLab Loader unavailable; continuing without the loading overlay.",
+        error,
+      );
+    });
 
   if (!pageLoaded) {
     window.addEventListener("load", () => {
