@@ -27,6 +27,7 @@ jobs:
       - run: python scripts/stage_site.py
       - run: python scripts/release_check.py
       - run: python scripts/site_audit.py
+      - run: python scripts/css_audit.py
       - run: python -m playwright install --with-deps chromium
       - run: python scripts/browser_smoke.py
       - uses: actions/upload-pages-artifact@v3
