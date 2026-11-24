@@ -133,6 +133,8 @@ def run() -> int:
                 color_scheme="light",
                 device_scale_factor=1,
             )
+            # Inject axe into every navigation, not just the initial document.
+            context.add_init_script(path=str(AXE_SCRIPT))
             page = context.new_page()
             page.on(
                 "pageerror",
@@ -218,7 +220,6 @@ def run() -> int:
 
             # Automated WCAG-oriented checks. Both colour schemes are tested
             # because the site changes surface and text tokens between themes.
-            page.add_script_tag(path=str(AXE_SCRIPT))
             for theme in THEMES:
                 for route in ROUTES:
                     try:
