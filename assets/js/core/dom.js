@@ -1,16 +1,41 @@
-export const $ = (s, root = document) => root.querySelector(s);
-export const $$ = (s, root = document) => [...root.querySelectorAll(s)];
+export const $ = (selector, root = document) => root.querySelector(selector);
+export const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
+
 export function el(tag, attrs = {}, ...children) {
-  const n = document.createElement(tag);
-  for (const [k, v] of Object.entries(attrs)) {
-    if (k === "class") n.className = v;
-    else if (k === "text") n.textContent = v;
-    else if (k.startsWith("data-")) n.setAttribute(k, v);
-    else if (v !== undefined && v !== null) n[k] = v;
+  const node = document.createElement(tag);
+
+  for (const [key, value] of Object.entries(attrs)) {
+    if (value === undefined || value === null) continue;
+
+    if (key === "class" || key === "className") {
+      node.className = String(value);
+    } else if (key === "text") {
+      node.textContent = String(value);
+    } else if (key === "dataset" && value && typeof value === "object") {
+      Object.assign(node.dataset, value);
+    } else if (key.startsWith("data-") || key.startsWith("aria-")) {
+      node.setAttribute(key, String(value));
+    } else if (/^aria[A-Z]/.test(key)) {
+      const attribute = key.replace(
+        /^aria([A-Z])/,
+        (_, first) => "aria-" + first.toLowerCase(),
+      );
+      node.setAttribute(attribute, String(value));
+    } else if (key in node) {
+      node[key] = value;
+    } else {
+      node.setAttribute(key, String(value));
+    }
   }
-  for (const c of children.flat()) {
-    if (c == null) continue;
-    n.append(c.nodeType ? c : document.createTextNode(String(c)));
+
+  for (const child of children.flat(Infinity)) {
+    if (child === null || child === undefined || child === false) continue;
+    if (typeof Node !== "undefined" && child instanceof Node) {
+      node.append(child);
+    } else {
+      node.append(document.createTextNode(String(child)));
+    }
   }
-  return n;
+
+  return node;
 }
