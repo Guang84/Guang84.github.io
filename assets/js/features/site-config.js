@@ -1,16 +1,5 @@
+import { el } from "../core/dom.js";
 import { safeUrl } from "./content.js";
-
-const el = (tag, options = {}, children = []) => {
-  const node = document.createElement(tag);
-  for (const [key, value] of Object.entries(options)) {
-    if (value == null) continue;
-    if (key === "className") node.className = value;
-    else if (key === "text") node.textContent = value;
-    else node.setAttribute(key, value);
-  }
-  node.append(...children.filter(Boolean));
-  return node;
-};
 
 const isExternal = (url) => /^https?:\/\//.test(url);
 
