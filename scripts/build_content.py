@@ -37,8 +37,10 @@ STATIC_PAGES = [
     ("terms.html", "terms.html"), ("start-here.html", "start-here.html"),
     ("project-checklist.html", "project-checklist.html"), ("editorial-policy.html", "editorial-policy.html"),
 ]
-PUBLIC_SKIP_DIRS = {".git", ".github", ".agents", ".codex", "docs", "scripts", "_site", "__pycache__", "content"}
+PUBLIC_SKIP_DIRS = {".git", ".github", ".agents", ".codex", "docs", "scripts", "_site", "__pycache__", "content", "node_modules", ".venv", "venv", ".pytest_cache", ".mypy_cache"}
 PUBLIC_SKIP_FILES = {".gitignore", "pending.txt", "README.md", "requirements.txt", "LICENSE.txt", "CHANGELOG-QUALITY-UPDATE.md"}
+PRECACHE_IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".avif", ".gif", ".svg"}
+PRECACHE_IMAGE_MAX_BYTES = 100 * 1024
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
@@ -219,6 +221,13 @@ def update_service_worker(config: dict) -> None:
         if rel == "/service-worker.js": continue
         # The hymnal's large collections are downloaded explicitly in the app; do not cache all song text on first visit.
         if rel.startswith("/data/RongmeiHymnal/"): continue
+        target = ROOT / rel.lstrip("/")
+        # Large media remains published and is cached on demand; keep first-install downloads lean.
+        if (
+            target.suffix.lower() in PRECACHE_IMAGE_EXTENSIONS
+            and target.stat().st_size > PRECACHE_IMAGE_MAX_BYTES
+        ):
+            continue
         if rel == "/index.html": precache.append(rel);continue
         if rel.endswith((".html",".css",".js",".json",".webmanifest",".png",".xml",".svg",".ico")): precache.append(rel)
     for folder in ["/projects/","/articles/"]:
@@ -454,7 +463,7 @@ def validate_links() -> list[str]:
     local_re=re.compile(r"\b(?:href|src)\s*=\s*([\"\'])(.*?)\1",re.I|re.S)
     for page in sorted(ROOT.rglob("*.html")):
         rel=page.relative_to(ROOT)
-        if rel.parts[0] in {"docs","scripts","_site","content","data"}: continue
+        if rel.parts[0] in PUBLIC_SKIP_DIRS or rel.parts[0] == "data": continue
         if page.name=='index.html' and page.parent.name in {'articles','projects'}: pass
         source=page.read_text(encoding="utf-8")
         for _,raw in local_re.findall(source):

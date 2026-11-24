@@ -1,4 +1,8 @@
 import { initContent } from "./content.js";
+
+const UPDATE_CHECK_INTERVAL_MS = 30 * 60 * 1000;
+const UPDATE_EVENT_COOLDOWN_MS = 5 * 60 * 1000;
+
 let promptEvent = null;
 let toastTimer;
 
@@ -119,23 +123,41 @@ export async function initPWA() {
           offer(worker);
       });
     });
-    const check = async () => {
-      await registration.update().catch(() => {});
-      const controller =
-        navigator.serviceWorker.controller || registration.active;
-      if (!controller) return;
-      const channel = new MessageChannel();
-      controller.postMessage({ type: "CHECK_CONTENT" }, [channel.port2]);
+    let lastCheckAt = 0;
+    let checkInFlight = null;
+    const check = ({ force = false } = {}) => {
+      if (checkInFlight) return checkInFlight;
+
+      const now = Date.now();
+      if (!force && now - lastCheckAt < UPDATE_EVENT_COOLDOWN_MS)
+        return Promise.resolve();
+
+      lastCheckAt = now;
+      checkInFlight = (async () => {
+        await registration.update().catch(() => {});
+        const controller =
+          navigator.serviceWorker.controller || registration.active;
+        if (controller) controller.postMessage({ type: "CHECK_CONTENT" });
+      })().finally(() => {
+        checkInFlight = null;
+      });
+      return checkInFlight;
     };
-    navigator.serviceWorker.ready.then(() => check()).catch(() => {});
-    setInterval(check, 60 * 1000);
-    addEventListener("focus", check);
-    addEventListener("online", check);
-    addEventListener("pageshow", check);
+    const checkOnActivity = () => {
+      void check();
+    };
+    navigator.serviceWorker.ready
+      .then(() => check({ force: true }))
+      .catch(() => {});
+    setInterval(() => {
+      if (document.visibilityState === "visible") void check({ force: true });
+    }, UPDATE_CHECK_INTERVAL_MS);
+    addEventListener("focus", checkOnActivity, { passive: true });
+    addEventListener("online", checkOnActivity, { passive: true });
+    addEventListener("pageshow", checkOnActivity, { passive: true });
     document.addEventListener("visibilitychange", () => {
-      if (document.visibilityState === "visible") check();
+      if (document.visibilityState === "visible") checkOnActivity();
     });
-    check();
   } catch {
     // The site remains fully usable when service workers are unavailable.
   }
