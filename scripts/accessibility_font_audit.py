@@ -358,6 +358,9 @@ def run() -> int:
                     fail(errors, "Keyboard: closing search did not restore focus to the search trigger")
                 keyboard_results.append({"test": "search-dialog", "passed": True})
 
+                # The text-size buttons are intentionally hidden at phone widths.
+                # Exercise the full appearance-control set at desktop width.
+                page.set_viewport_size({"width": 1280, "height": 900})
                 # Appearance controls must be keyboard-operable.
                 theme_button = page.locator("[data-theme-toggle]")
                 theme_button.focus()
