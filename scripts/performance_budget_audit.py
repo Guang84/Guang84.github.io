@@ -100,6 +100,7 @@ def main() -> int:
         fail(errors, f"Offline app-shell dependency is not precached: {path}")
 
     image_bytes = 0
+    image_details: list[tuple[str, int]] = []
     total_bytes = 0
     for url in precache:
         target = local_path(url)
@@ -112,6 +113,12 @@ def main() -> int:
         total_bytes += size
         if target.suffix.lower() in IMAGE_SUFFIXES:
             image_bytes += size
+            image_details.append((url, size))
+
+    print(f"Precache image inventory from {ROOT}:")
+    for url, size in image_details:
+        print(f"  {url}: {size / 1024:.1f} KiB")
+    print(f"  total: {image_bytes / 1024:.1f} KiB across {len(image_details)} images")
 
     if image_bytes > MAX_PRECACHE_IMAGE_BYTES:
         fail(
