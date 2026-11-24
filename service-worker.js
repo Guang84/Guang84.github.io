@@ -92,25 +92,35 @@ async function notifyContentUpdate(url) {
 
 const CONTENT_REFRESH_INTERVAL_MS = 5 * 60 * 1000;
 let lastContentRefreshAt = 0;
+let lastContentRefreshResult = null;
 let refreshInFlight;
 
 function refreshContent() {
   if (refreshInFlight) return refreshInFlight;
 
   const now = Date.now();
-  if (now - lastContentRefreshAt < CONTENT_REFRESH_INTERVAL_MS) {
+  if (
+    lastContentRefreshAt &&
+    now - lastContentRefreshAt < CONTENT_REFRESH_INTERVAL_MS
+  ) {
     return Promise.resolve({
-      changed: 0,
-      records: 0,
-      stored: false,
+      ...lastContentRefreshResult,
       skipped: true,
     });
   }
 
-  lastContentRefreshAt = now;
-  refreshInFlight = updateContent().finally(() => {
-    refreshInFlight = null;
-  });
+  refreshInFlight = updateContent()
+    .then((result) => {
+      // Only successful refreshes start the cooldown. Failed requests can retry.
+      if (!result.error) {
+        lastContentRefreshAt = Date.now();
+        lastContentRefreshResult = result;
+      }
+      return result;
+    })
+    .finally(() => {
+      refreshInFlight = null;
+    });
   return refreshInFlight;
 }
 
