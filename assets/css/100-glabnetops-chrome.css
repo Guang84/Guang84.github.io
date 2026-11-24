@@ -600,3 +600,11 @@ html[data-theme="midnight"] .site-footer {
     animation: none;
   }
 }
+
+/* Shared public navigation breakpoint; keep global chrome rules with the chrome stylesheet. */
+@media (max-width: 1600px) {
+  .nav { display: none; }
+  .menu-toggle { display: grid; }
+  .brand-label { display: none; }
+  .header-actions { gap: .25rem; }
+}
