@@ -20,6 +20,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+      - name: Install pinned axe-core accessibility engine
+        run: npm install --no-save --no-package-lock --ignore-scripts axe-core@4.10.3
       - run: python -m pip install -r requirements.txt
       - name: Syntax-check site scripts
         run: python -m compileall -q scripts
@@ -38,6 +40,15 @@ jobs:
         with:
           name: glab-ui-quality-evidence
           path: artifacts/ui-quality/
+          if-no-files-found: ignore
+      - name: Run production-font and accessibility audit
+        run: python scripts/accessibility_font_audit.py
+      - name: Upload accessibility and font evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: glab-a11y-font-evidence
+          path: artifacts/a11y-font/
           if-no-files-found: ignore
       - uses: actions/upload-pages-artifact@v3
         if: github.event_name != 'pull_request'
