@@ -6,34 +6,29 @@
   min-height: 0;
   text-align: center;
 }
+
 .ad-zone:not([data-active="true"]) {
   display: none;
 }
+
 .ad-zone[data-active="true"] {
-  min-height: clamp(6rem, 15vw, 15rem);
   display: grid;
   place-items: center;
+  min-height: clamp(6rem, 15vw, 15rem);
+  contain: layout style;
 }
+
 .ad-label {
-  display: none;
+  display: block;
   font-size: 0.7rem;
   color: var(--muted);
   text-transform: uppercase;
   letter-spacing: 0.09em;
 }
-.ad-zone[data-active="true"] .ad-label {
-  display: block;
-}
+
 .adsbygoogle {
+  display: block;
+  width: 100%;
   max-width: 100%;
   overflow: hidden;
-}
-.ad-zone[data-active="true"] {
-  display: block;
-}
-.ad-zone .adsbygoogle {
-  width: 100%;
-}
-.ad-zone .ad-label {
-  margin-bottom: 0.5rem;
 }
