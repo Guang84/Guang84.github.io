@@ -608,15 +608,17 @@ h4 {
   box-shadow: none;
   background: color-mix(in srgb, var(--surface-2) 68%, transparent);
 }
-footer {
+/* Apply the forest treatment only to the shared site footer.
+   Editorial article footers are light-surface attribution panels. */
+.site-footer {
   border: 0;
   background: var(--forest);
   color: #eaf7f5;
 }
-footer .eyebrow {
+.site-footer .eyebrow {
   color: #9fc2c4;
 }
-footer a {
+.site-footer a {
   color: inherit;
 }
 
