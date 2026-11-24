@@ -90,13 +90,27 @@ async function notifyContentUpdate(url) {
   }
 }
 
+const CONTENT_REFRESH_INTERVAL_MS = 5 * 60 * 1000;
+let lastContentRefreshAt = 0;
 let refreshInFlight;
+
 function refreshContent() {
-  if (!refreshInFlight) {
-    refreshInFlight = updateContent().finally(() => {
-      refreshInFlight = null;
+  if (refreshInFlight) return refreshInFlight;
+
+  const now = Date.now();
+  if (now - lastContentRefreshAt < CONTENT_REFRESH_INTERVAL_MS) {
+    return Promise.resolve({
+      changed: 0,
+      records: 0,
+      stored: false,
+      skipped: true,
     });
   }
+
+  lastContentRefreshAt = now;
+  refreshInFlight = updateContent().finally(() => {
+    refreshInFlight = null;
+  });
   return refreshInFlight;
 }
 
@@ -228,4 +242,4 @@ self.addEventListener("fetch", (event) => {
   event.respondWith(staleWhileRevalidate(event));
 });
 
-// Build fingerprint: f72e5e237cc296e5
+// Build fingerprint: phase5-performance-20261124
