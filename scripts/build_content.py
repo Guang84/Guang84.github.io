@@ -355,30 +355,21 @@ def sync_shared_navigation() -> list[str]:
             + "".join(links) + '</section>'
         )
 
-    header = '''<header class="site-header" data-site-header>
-  <a aria-label="GLab Enterprise home" class="brand" href="/">
-    <img alt="" class="brand-logo" decoding="async" height="41" src="/assets/brand/glab-mark-64.png" width="41">
-    <span class="brand-label">GLab Enterprise</span>
-  </a>
-  <div class="header-actions">
-    <button aria-controls="search-dialog" aria-haspopup="dialog" aria-label="Search GLab" class="icon-button search-toggle" data-search-toggle title="Search GLab" type="button">
-      <svg class="glab-header-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg>
-    </button>
-    <button aria-label="Decrease text size" class="icon-button font-control" data-font-step="-1" title="Decrease text size" type="button">A−</button>
-    <button aria-label="Increase text size" class="icon-button font-control" data-font-step="1" title="Increase text size" type="button">A+</button>
-    <button aria-label="Switch color theme" aria-pressed="false" class="icon-button theme-toggle" data-theme-toggle title="Switch color theme" type="button"><span aria-hidden="true" data-theme-icon>◐</span></button>
-    <button aria-controls="mobile-menu" aria-expanded="false" aria-haspopup="true" class="menu-toggle" data-menu-toggle title="Open site menu" type="button"><span aria-hidden="true">☰</span><span>Menu</span></button>
-  </div>
-</header>'''
-    menu = (
-        '<div class="menu-backdrop" data-menu-backdrop hidden></div>'
-        '<div class="mobile-menu glab-menu-panel" data-mobile-menu hidden id="mobile-menu">'
-        '<section class="glab-menu-intro"><p class="eyebrow">GLAB ENTERPRISE</p>'
-        '<h2>Explore GLab</h2><p>Find our principles, work, publications and business information.</p></section>'
-        '<nav class="nav glab-menu-nav" aria-label="Primary">'
-        + "".join(group_html) +
-        '</nav></div>'
-    )
+    template_dir = ROOT / "data" / "templates"
+    try:
+        header = (template_dir / "site-header.html").read_text(encoding="utf-8").strip()
+        menu_template = (template_dir / "site-menu.html").read_text(encoding="utf-8").strip()
+    except OSError as ex:
+        return [f"Could not read shared navigation template: {ex}"]
+
+    if not re.search(r'<header\b(?=[^>]*\bclass=["\'][^"\']*\bsite-header\b)', header, re.I):
+        return ["Shared header template must contain a site-header element"]
+    if menu_template.count("{{MENU_GROUPS}}") != 1:
+        return ["Shared menu template must contain exactly one {{MENU_GROUPS}} marker"]
+
+    menu = menu_template.replace("{{MENU_GROUPS}}", "".join(group_html))
+    if "{{" in header or "{{" in menu:
+        return ["Shared navigation templates contain an unresolved placeholder"]
 
     header_re = re.compile(
         r"""<header\b(?=[^>]*\bclass=["'][^"']*\bsite-header\b[^"']*["'])[^>]*>[\s\S]*?</header>""",

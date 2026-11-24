@@ -23,7 +23,6 @@
 .pillar-process article { padding: 1rem; border: 1px solid var(--line); border-radius: var(--radius-m); background: var(--surface); }
 .pillar-process article > span { color: var(--muted); font: 600 .75rem/1.4 var(--mono, monospace); }
 .pillar-process h3 { margin: .5rem 0; } .pillar-process p { margin: 0; color: var(--muted); font-size: var(--text-s); }
-@media (max-width: 1600px) { .nav { display: none; } .menu-toggle { display: grid; } .brand-label { display: none; } .header-actions { gap: .25rem; } }
 @media (max-width: 1100px) { .font-control { display: none; } }
 @media (max-width: 860px) { .pillar-overview-grid, .pillar-value-grid, .pillar-content-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .pillar-process { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 600px) { .pillar-overview-grid, .pillar-value-grid, .pillar-content-grid, .pillar-process { grid-template-columns: 1fr; } .pillar-overview-card { min-height: 11rem; } }

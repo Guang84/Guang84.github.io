@@ -1,3 +1,5 @@
+import { el } from "../core/dom.js";
+
 const CATALOGS = {
   projects: "/data/projects/index.json",
   articles: "/data/articles/index.json",
@@ -16,18 +18,6 @@ export const safeUrl = (value) => {
 
 export const detailUrl = (type, id, fragment = "") =>
   `/${type}/${id}/${fragment}`;
-const el = (tag, attrs = {}, children = []) => {
-  const node = document.createElement(tag);
-  for (const [key, value] of Object.entries(attrs)) {
-    if (value == null) continue;
-    if (key === "className") node.className = value;
-    else if (key === "text") node.textContent = value;
-    else if (key === "dataset") Object.assign(node.dataset, value);
-    else node.setAttribute(key, value);
-  }
-  node.append(...children.filter(Boolean));
-  return node;
-};
 const tags = (items = []) =>
   items.length
     ? el(
