@@ -243,13 +243,18 @@ def run() -> int:
                             fail(errors, f"responsive {width}px {route}: main content collapsed to {metrics['mainWidth']:.1f}px")
                         if metrics["h1Right"] > width + 1:
                             fail(errors, f"responsive {width}px {route}: h1 extends outside viewport")
-                        if width <= 860:
+                        # The existing public header switches to its compact
+                        # menu at 1600px; preserve that established breakpoint.
+                        if width <= 1600:
                             if metrics["desktopNavVisible"]:
-                                fail(errors, f"responsive {width}px {route}: desktop navigation remains visible at mobile breakpoint")
+                                fail(errors, f"responsive {width}px {route}: desktop navigation remains visible in compact-header mode")
                             if not metrics["mobileMenuButtonVisible"]:
-                                fail(errors, f"responsive {width}px {route}: mobile menu control is hidden")
-                        elif not metrics["desktopNavVisible"]:
-                            fail(errors, f"responsive {width}px {route}: desktop navigation is unexpectedly hidden")
+                                fail(errors, f"responsive {width}px {route}: compact menu control is hidden")
+                        else:
+                            if not metrics["desktopNavVisible"]:
+                                fail(errors, f"responsive {width}px {route}: desktop navigation is unexpectedly hidden above 1600px")
+                            if metrics["mobileMenuButtonVisible"]:
+                                fail(errors, f"responsive {width}px {route}: compact menu control remains visible above 1600px")
                     except PlaywrightTimeoutError as exc:
                         fail(errors, f"responsive {width}px {route}: timed out ({exc})")
                     except Exception as exc:
