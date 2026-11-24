@@ -162,7 +162,8 @@ def run() -> int:
                         h1LineHeight: h1Style?.lineHeight || '',
                         imageCount: images.length,
                         brokenImages: images.filter(img => img.complete && img.naturalWidth === 0),
-                        pendingImages: images.filter(img => !img.complete),
+                        pendingImages: images.filter(img => !img.complete && img.loading !== 'lazy'),
+                        deferredLazyImages: images.filter(img => !img.complete && img.loading === 'lazy'),
                         unnamedControls: unnamed,
                         undersizedControls: undersized,
                         clippedComponents: clipping
@@ -184,7 +185,7 @@ def run() -> int:
                     if metrics["brokenImages"]:
                         fail(errors, f"desktop {route}: broken image(s): " + ", ".join(img["src"] for img in metrics["brokenImages"][:5]))
                     if metrics["pendingImages"]:
-                        warnings.append(f"{route}: {len(metrics['pendingImages'])} image(s) had not completed by the measurement point")
+                        warnings.append(f"{route}: {len(metrics['pendingImages'])} eager image(s) had not completed by the measurement point")
                     if metrics["unnamedControls"]:
                         warnings.append(f"{route}: {len(metrics['unnamedControls'])} visible link/button controls have no discernible text or accessible name")
                     if metrics["undersizedControls"]:
@@ -329,6 +330,7 @@ def run() -> int:
             "responsiveRouteCount": len(responsive_routes),
             "responsiveViewportWidths": list(RESPONSIVE_WIDTHS),
             "responsivePageViewChecks": len(responsive_results),
+            "deferredLazyImageCount": sum(len(row.get("deferredLazyImages", [])) for row in page_results),
             "screenshots": screenshots,
             "errors": errors,
             "warnings": warnings,
