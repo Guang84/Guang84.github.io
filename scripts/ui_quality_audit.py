@@ -216,11 +216,18 @@ def run() -> int:
                           const main = document.querySelector('main');
                           const header = document.querySelector('.site-header');
                           const menuButton = document.querySelector('[data-menu-toggle]');
-                          const nav = document.querySelector('nav.nav');
+                          const menuPanel = document.querySelector('[data-mobile-menu]');
+                          const isVisible = (element) => {
+                            if (!element || element.closest('[hidden]')) return false;
+                            const style = getComputedStyle(element);
+                            const rect = element.getBoundingClientRect();
+                            return style.display !== 'none' && style.visibility !== 'hidden' && rect.width > 0 && rect.height > 0;
+                          };
                           const rect = main?.getBoundingClientRect();
                           const h1 = main?.querySelector('h1');
                           const h1Rect = h1?.getBoundingClientRect();
                           const style = h1 ? getComputedStyle(h1) : null;
+                          const menuRect = menuPanel?.getBoundingClientRect();
                           return {
                             width: innerWidth,
                             documentWidth: document.documentElement.scrollWidth,
@@ -229,9 +236,12 @@ def run() -> int:
                             h1Right: h1Rect?.right || 0,
                             h1Bottom: h1Rect?.bottom || 0,
                             h1FontSize: style ? parseFloat(style.fontSize) : 0,
-                            headerVisible: !!header && getComputedStyle(header).display !== 'none',
-                            desktopNavVisible: !!nav && getComputedStyle(nav).display !== 'none',
-                            mobileMenuButtonVisible: !!menuButton && getComputedStyle(menuButton).display !== 'none',
+                            headerVisible: isVisible(header),
+                            headerNavigationPresent: !!header?.querySelector('nav'),
+                            menuButtonVisible: isVisible(menuButton),
+                            menuPanelExists: !!menuPanel,
+                            menuPanelClosedByDefault: !!menuPanel?.hidden,
+                            menuPanelWidth: menuRect?.width || 0,
                             menuButtonWidth: menuButton?.getBoundingClientRect().width || 0,
                             menuButtonHeight: menuButton?.getBoundingClientRect().height || 0
                           };
@@ -243,18 +253,15 @@ def run() -> int:
                             fail(errors, f"responsive {width}px {route}: main content collapsed to {metrics['mainWidth']:.1f}px")
                         if metrics["h1Right"] > width + 1:
                             fail(errors, f"responsive {width}px {route}: h1 extends outside viewport")
-                        # The existing public header switches to its compact
-                        # menu at 1600px; preserve that established breakpoint.
-                        if width <= 1600:
-                            if metrics["desktopNavVisible"]:
-                                fail(errors, f"responsive {width}px {route}: desktop navigation remains visible in compact-header mode")
-                            if not metrics["mobileMenuButtonVisible"]:
-                                fail(errors, f"responsive {width}px {route}: compact menu control is hidden")
-                        else:
-                            if not metrics["desktopNavVisible"]:
-                                fail(errors, f"responsive {width}px {route}: desktop navigation is unexpectedly hidden above 1600px")
-                            if metrics["mobileMenuButtonVisible"]:
-                                fail(errors, f"responsive {width}px {route}: compact menu control remains visible above 1600px")
+                        # The site uses a menu-first header at every width:
+                        # the menu trigger stays visible and the grouped panel
+                        # remains closed until the user opens it.
+                        if not metrics["menuButtonVisible"]:
+                            fail(errors, f"responsive {width}px {route}: site menu trigger is hidden")
+                        if not metrics["menuPanelExists"]:
+                            fail(errors, f"responsive {width}px {route}: grouped site menu panel is missing")
+                        if not metrics["menuPanelClosedByDefault"]:
+                            fail(errors, f"responsive {width}px {route}: grouped site menu is unexpectedly open on page load")
                     except PlaywrightTimeoutError as exc:
                         fail(errors, f"responsive {width}px {route}: timed out ({exc})")
                     except Exception as exc:
@@ -268,6 +275,29 @@ def run() -> int:
                     destination = ARTIFACTS / name
                     page.screenshot(path=str(destination), full_page=False, animations="disabled")
                     screenshots.append(str(destination.relative_to(ROOT)))
+
+            # The menu-first header must remain usable on small phones,
+            # tablet/laptop widths and wide desktop viewports.
+            for width in (390, 1280, 1920):
+                try:
+                    page.set_viewport_size({"width": width, "height": 900})
+                    page.goto(base_url + "/", wait_until="domcontentloaded", timeout=12000)
+                    page.wait_for_selector("[data-menu-toggle]", state="visible", timeout=5000)
+                    menu_button = page.locator("[data-menu-toggle]")
+                    menu_panel = page.locator("[data-mobile-menu]")
+                    menu_button.click()
+                    if not menu_panel.is_visible() or menu_button.get_attribute("aria-expanded") != "true":
+                        fail(errors, f"menu interaction at {width}px: panel did not open or aria-expanded did not update")
+                    if menu_panel.locator("nav.glab-menu-nav a").count() < 5:
+                        fail(errors, f"menu interaction at {width}px: grouped navigation links are missing")
+                    panel_box = menu_panel.bounding_box()
+                    if panel_box and (panel_box["x"] < -1 or panel_box["x"] + panel_box["width"] > width + 1):
+                        fail(errors, f"menu interaction at {width}px: menu panel extends outside viewport ({panel_box})")
+                    page.keyboard.press("Escape")
+                    if menu_panel.is_visible() or menu_button.get_attribute("aria-expanded") != "false":
+                        fail(errors, f"menu interaction at {width}px: Escape did not close the panel")
+                except Exception as exc:
+                    fail(errors, f"menu interaction at {width}px failed: {type(exc).__name__}: {exc}")
 
             # Focus and touch-target probes are non-blocking diagnostics; severe
             # navigation/overflow defects above remain hard failures.
