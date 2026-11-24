@@ -87,6 +87,12 @@ def main() -> int:
         print(f"FAIL: invalid PRECACHE JSON: {exc}")
         return 1
 
+    builder = (ROOT / "scripts/build_content.py").read_text(encoding="utf-8")
+    if "PRECACHE_IMAGE_MAX_BYTES = 100 * 1024" not in builder:
+        fail(errors, "Site generator must cap install-time images at 100 KiB per file")
+    if "target.stat().st_size > PRECACHE_IMAGE_MAX_BYTES" not in builder:
+        fail(errors, "Site generator must exclude oversized images from the install-time precache")
+
     precache_set = set(precache)
     css_dependencies = dependency_closure(
         ROOT / "assets/css/main.css", CSS_IMPORT_RE, errors
