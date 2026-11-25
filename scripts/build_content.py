@@ -38,7 +38,7 @@ STATIC_PAGES = [
     ("project-checklist.html", "project-checklist.html"), ("editorial-policy.html", "editorial-policy.html"),
 ]
 PUBLIC_SKIP_DIRS = {".git", ".github", ".agents", ".codex", "docs", "scripts", "_site", "__pycache__", "content", "node_modules", ".venv", "venv", ".pytest_cache", ".mypy_cache"}
-PUBLIC_SKIP_FILES = {".gitignore", ".DS_Store", "Thumbs.db", ".env", ".npmrc", ".pypirc", ".netrc", "pending.txt", "README.md", "requirements.txt", "requirements-security.txt", "package.json", "package-lock.json", "SECURITY.md", "gitleaks.toml", "LICENSE.txt", "CHANGELOG-QUALITY-UPDATE.md"}
+PUBLIC_SKIP_FILES = {".gitignore", ".DS_Store", "Thumbs.db", ".env", ".npmrc", ".pypirc", ".netrc", "pending.txt", "README.md", "requirements.txt", "requirements-security.txt", "package.json", "package-lock.json", "SECURITY.md", ".gitleaksignore", ".gitleaks.toml", "gitleaks.toml", "LICENSE.txt", "CHANGELOG-QUALITY-UPDATE.md"}
 PUBLIC_SKIP_SUFFIXES = {".pem", ".p12", ".pfx", ".key", ".keytab", ".jks", ".kdbx", ".sqlite", ".sqlite3", ".db", ".log", ".bak", ".backup", ".swp"}
 PRECACHE_IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".avif", ".gif", ".svg"}
 PRECACHE_IMAGE_MAX_BYTES = 100 * 1024
