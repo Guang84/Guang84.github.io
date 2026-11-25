@@ -1,0 +1,4 @@
+# Exact historical example-only placeholder from a removed local .env.example.
+# The corresponding file documents the value as development-only and instructs replacement.
+# Keep this fingerprint narrow; do not allowlist the generic-api-key rule or path.
+5264a52e8149e3c99b2dab00fb9bcc56defc2a00:ThaimeiEcommerce/.env.example:generic-api-key:8
