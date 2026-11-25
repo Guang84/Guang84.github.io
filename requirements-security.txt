@@ -1,2 +1,30 @@
-# Security-only tooling; not part of the deployed website.
+# Reproducible Python 3.12 security-audit tool environment.
+# Direct and transitive dependencies resolved by the Phase 7 CI run are pinned.
+CacheControl==0.15.0
+boolean.py==5.0
+certifi==2026.11.20
+charset-normalizer==3.5.3
+cyclonedx-python-lib==11.12.0
+defusedxml==0.7.1
+filelock==4.3.1
+idna==3.20
+license-expression==30.4.4
+markdown-it-py==4.3.0
+mdurl==0.1.2
+msgpack==1.2.4
+packageurl-python==0.17.6
+packaging==26.4
+pip-api==0.0.35
 pip-audit==2.10.1
+pip-requirements-parser==32.0.1
+platformdirs==4.14.8
+py-serializable==2.2.0
+Pygments==2.21.0
+pyparsing==3.3.3
+requests==2.34.2
+rich==15.0.0
+sortedcontainers==2.4.0
+tomli==2.5.0
+tomli-w==1.2.0
+typing_extensions==4.16.0
+urllib3==2.8.0
