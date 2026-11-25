@@ -46,7 +46,7 @@ jobs:
           tar -xzf /tmp/gitleaks.tar.gz -C /tmp/gitleaks gitleaks
           echo "/tmp/gitleaks" >> "$GITHUB_PATH"
       - name: Scan all reachable Git history
-        run: gitleaks --redact --exit-code 2 git --log-opts="--all" .
+        run: gitleaks --verbose --redact --exit-code 2 git --log-opts="--all" .
 
   dependency-audit:
     name: Python dependency vulnerability audit
