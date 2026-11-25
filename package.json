@@ -1,0 +1,10 @@
+{
+  "name": "glab-enterprise-site-quality-tooling",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pinned browser accessibility and Lighthouse audit tools for the GLab Enterprise website",
+  "devDependencies": {
+    "@lhci/cli": "0.16.1",
+    "axe-core": "4.10.3"
+  }
+}
