@@ -16,6 +16,17 @@ __pycache__/
 README.md
 node_modules/
 
+# Secrets and local credentials
+.env
+.env.*
+.npmrc
+.pypirc
+.netrc
+*.pem
+*.p12
+*.pfx
+*.key
+
 # Local draft and generated output
 data/drafts/
 pending.txt
