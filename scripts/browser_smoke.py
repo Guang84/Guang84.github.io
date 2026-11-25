@@ -110,6 +110,18 @@ def run_tests():
             )
             context.route("https://fonts.googleapis.com/**", lambda route: route.abort())
             context.route("https://fonts.gstatic.com/**", lambda route: route.abort())
+            ad_script_requests: list[str] = []
+            context.route(
+                "https://pagead2.googlesyndication.com/**",
+                lambda route: (
+                    ad_script_requests.append(route.request.url),
+                    route.fulfill(
+                        status=200,
+                        content_type="application/javascript",
+                        body="window.adsbygoogle = window.adsbygoogle || [];",
+                    ),
+                ),
+            )
             page = context.new_page()
             page_errors: list[str] = []
             page.on("pageerror", lambda exc: page_errors.append(f"{page.url}: {exc}"))
@@ -457,6 +469,27 @@ def run_tests():
                 visible = page.locator(".project-card:visible").count()
                 if visible != 1:
                     fail(errors, f"Project archive: expected one Rongmei result, found {visible}")
+                local_search.fill("")
+                page.wait_for_function(
+                    "document.querySelector('[data-ad-position=\"content-end\"]') !== null",
+                    timeout=5000,
+                )
+                ad_zone = page.locator('[data-ad-position="content-end"]')
+                if not ad_zone.evaluate("(node) => node.previousElementSibling?.tagName === 'MAIN'"):
+                    fail(errors, "Ad placement: content-end slot must sit after main, not inside it")
+                if ad_zone.evaluate("(node) => node.closest('main') !== null"):
+                    fail(errors, "Ad placement: content-end slot is still nested inside main")
+                if not ad_zone.evaluate("(node) => node.dataset.active === 'true' && node.getBoundingClientRect().height >= 96"):
+                    fail(errors, "Ad placement: active manual slot does not reserve its layout space")
+                if ad_script_requests:
+                    fail(errors, "Ad loading: provider script loaded before the content-end slot approached the viewport")
+                ad_zone.scroll_into_view_if_needed()
+                page.wait_for_function(
+                    "() => document.querySelector('script[src*=\"pagead/js/adsbygoogle.js\"]') !== null",
+                    timeout=5000,
+                )
+                if not ad_script_requests:
+                    fail(errors, "Ad loading: provider script did not load when the reserved slot entered the near viewport")
             except Exception as exc:
                 fail(errors, f"Project archive filtering failed: {type(exc).__name__}: {exc}")
 
