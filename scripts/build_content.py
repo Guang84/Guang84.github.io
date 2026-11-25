@@ -38,7 +38,8 @@ STATIC_PAGES = [
     ("project-checklist.html", "project-checklist.html"), ("editorial-policy.html", "editorial-policy.html"),
 ]
 PUBLIC_SKIP_DIRS = {".git", ".github", ".agents", ".codex", "docs", "scripts", "_site", "__pycache__", "content", "node_modules", ".venv", "venv", ".pytest_cache", ".mypy_cache"}
-PUBLIC_SKIP_FILES = {".gitignore", "pending.txt", "README.md", "requirements.txt", "LICENSE.txt", "CHANGELOG-QUALITY-UPDATE.md"}
+PUBLIC_SKIP_FILES = {".gitignore", ".DS_Store", "Thumbs.db", ".env", ".npmrc", ".pypirc", ".netrc", "pending.txt", "README.md", "requirements.txt", "requirements-security.txt", "package.json", "package-lock.json", "SECURITY.md", "gitleaks.toml", "LICENSE.txt", "CHANGELOG-QUALITY-UPDATE.md"}
+PUBLIC_SKIP_SUFFIXES = {".pem", ".p12", ".pfx", ".key", ".keytab", ".jks", ".kdbx", ".sqlite", ".sqlite3", ".db", ".log", ".bak", ".backup", ".swp"}
 PRECACHE_IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".avif", ".gif", ".svg"}
 PRECACHE_IMAGE_MAX_BYTES = 100 * 1024
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
@@ -201,7 +202,7 @@ def public_files() -> list[str]:
         if not path.is_file(): continue
         rel=path.relative_to(ROOT)
         if not rel.parts: continue
-        if rel.parts[0] in PUBLIC_SKIP_DIRS or rel.name in PUBLIC_SKIP_FILES: continue
+        if rel.parts[0] in PUBLIC_SKIP_DIRS or rel.name in PUBLIC_SKIP_FILES or rel.suffix.lower() in PUBLIC_SKIP_SUFFIXES: continue
         if rel.parts[0] == "data" and len(rel.parts)>1 and rel.parts[1] in {"content","templates","schemas"}: continue
         if rel.parts[0] in {"articles", "projects"} and len(rel.parts)>2 and rel.parts[-1] == "index.html":
             info=page_info(path)
