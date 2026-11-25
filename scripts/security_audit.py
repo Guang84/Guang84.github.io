@@ -41,7 +41,7 @@ SECRET_PATTERNS = [
     ("Stripe live secret", re.compile(r"\bsk_live_[A-Za-z0-9]{20,}\b")),
 ]
 PUBLISHED_ONLY_FILES = {
-    "SECURITY.md", "package.json", "package-lock.json", "requirements-security.txt",
+    "SECURITY.md", ".gitleaksignore", ".gitleaks.toml", "package.json", "package-lock.json", "requirements-security.txt",
 }
 
 
