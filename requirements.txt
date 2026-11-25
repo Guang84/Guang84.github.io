@@ -1,2 +1,10 @@
-jsonschema>=4.23,<5
-playwright>=1.52,<2
+# Reproducible Python 3.12 build/test dependency set.
+# Direct dependencies and their resolved transitive dependencies are pinned.
+attrs==26.1.0
+greenlet==3.5.6
+jsonschema==4.26.0
+jsonschema-specifications==2025.9.1
+playwright==1.65.2
+referencing==0.37.0
+rpds-py==2026.9.1
+typing-extensions==4.16.0
