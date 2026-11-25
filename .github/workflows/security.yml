@@ -61,4 +61,4 @@ jobs:
       - name: Install pinned audit tool
         run: python -m pip install --disable-pip-version-check -r requirements-security.txt
       - name: Audit locked dependencies
-        run: pip-audit --strict -r requirements.txt
+        run: pip-audit --strict -r requirements.txt -r requirements-security.txt
