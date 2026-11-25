@@ -13,14 +13,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
           python-version: "3.12"
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version: "22"
-      - run: python -m pip install -r requirements.txt
+      - name: Install locked Python build and test dependencies
+        run: python -m pip install --disable-pip-version-check -r requirements.txt
       - name: Syntax-check site scripts
         run: python -m compileall -q scripts
       # Regenerate project/article catalogues and staged output before checking freshness.
@@ -30,15 +31,17 @@ jobs:
       - run: python scripts/css_audit.py
       - name: Audit PWA cache and performance budgets
         run: python scripts/performance_budget_audit.py
+      - name: Audit workflow pins and public deployment boundary
+        run: python scripts/security_audit.py
       - name: Install pinned accessibility and performance audit tools
-        run: npm install --no-save --no-package-lock --ignore-scripts axe-core@4.10.3 @lhci/cli@0.16.1
+        run: npm install --no-save --no-package-lock --ignore-scripts --no-audit --no-fund
       - run: python -m playwright install --with-deps chromium
       - run: python scripts/browser_smoke.py
       - name: Run responsive UI quality audit
         run: python scripts/ui_quality_audit.py
       - name: Upload responsive UI evidence
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
           name: glab-ui-quality-evidence
           path: artifacts/ui-quality/
@@ -51,7 +54,7 @@ jobs:
           CHROME_PATH="$(python -c 'from playwright.sync_api import sync_playwright; p=sync_playwright().start(); print(p.chromium.executable_path); p.stop()')" npx lhci autorun --config=lighthouserc.desktop.cjs
       - name: Upload Lighthouse performance reports
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
           name: glab-lighthouse-performance
           path: artifacts/lighthouse/
@@ -60,12 +63,12 @@ jobs:
         run: python scripts/accessibility_font_audit.py
       - name: Upload accessibility and font evidence
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
           name: glab-a11y-font-evidence
           path: artifacts/a11y-font/
           if-no-files-found: ignore
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
         if: github.event_name != 'pull_request'
         with:
           path: _site
@@ -82,4 +85,4 @@ jobs:
     steps:
       - name: Deploy
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
