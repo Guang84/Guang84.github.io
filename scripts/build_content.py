@@ -202,7 +202,7 @@ def public_files() -> list[str]:
         if not path.is_file(): continue
         rel=path.relative_to(ROOT)
         if not rel.parts: continue
-        if rel.parts[0] in PUBLIC_SKIP_DIRS or rel.name in PUBLIC_SKIP_FILES or rel.suffix.lower() in PUBLIC_SKIP_SUFFIXES: continue
+        if rel.parts[0] in PUBLIC_SKIP_DIRS or rel.name in PUBLIC_SKIP_FILES or rel.name.startswith(".env.") or rel.suffix.lower() in PUBLIC_SKIP_SUFFIXES: continue
         if rel.parts[0] == "data" and len(rel.parts)>1 and rel.parts[1] in {"content","templates","schemas"}: continue
         if rel.parts[0] in {"articles", "projects"} and len(rel.parts)>2 and rel.parts[-1] == "index.html":
             info=page_info(path)
