@@ -569,7 +569,11 @@ def run_tests():
                                 this.element.querySelector(".glab-loader__label").textContent = message;
                               }
                               if (!this.element.classList.contains("is-visible")) {
-                                window.__glabLoaderTestEvents.push({ type: "show", at: performance.now() });
+                                window.__glabLoaderTestEvents.push({
+                                  type: "show",
+                                  at: performance.now(),
+                                  visibility: getComputedStyle(this.element).visibility,
+                                });
                               }
                               this.element.classList.add("is-visible");
                               return this;
@@ -611,7 +615,9 @@ def run_tests():
                 hide_events = [event for event in loader_events if event["type"] == "hide"]
                 if not show_events:
                     fail(errors, "Shared GLab Loader: startup overlay was never shown")
-                elif not hide_events:
+                elif show_events[0].get("visibility") != "visible":
+                    fail(errors, "Shared GLab Loader: startup overlay was added but remained visually hidden")
+                if not hide_events:
                     fail(errors, "Shared GLab Loader: startup overlay was not hidden after readiness")
                 else:
                     visible_ms = hide_events[0]["at"] - show_events[0]["at"]
