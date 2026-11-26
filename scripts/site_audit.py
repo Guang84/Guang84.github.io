@@ -262,6 +262,25 @@ for rel,(page,parser) in parsed_pages.items():
             if target_rel in id_map and parsed.fragment not in id_map[target_rel]:
                 fail(f'{rel}: fragment #{parsed.fragment} does not exist in {target_rel}')
 
+# Project filters are part of the static archive shell, not injected after first paint.
+projects_archive = SITE / "projects" / "index.html"
+if projects_archive.is_file():
+    projects_html = projects_archive.read_text(encoding="utf-8", errors="replace")
+    filter_match = re.search(
+        r'<div\b(?=[^>]*\bdata-project-filters\b)[^>]*>([\s\S]*?)</div>',
+        projects_html,
+        re.I,
+    )
+    filter_names = re.findall(
+        r'<button\b(?=[^>]*\bdata-filter-category="([^"]+)")',
+        filter_match.group(1) if filter_match else "",
+        re.I,
+    )
+    if not filter_match or len(filter_names) < 2 or "All" not in filter_names:
+        fail("projects/index.html: project category filters must be statically rendered before JavaScript runs")
+else:
+    fail("Missing projects archive page for static filter audit")
+
 # Search results must resolve to the corresponding published page and any advertised fragment.
 search_path = SITE / "search-index.json"
 if search_path.exists():
