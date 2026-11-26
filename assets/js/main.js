@@ -20,13 +20,18 @@ import { initSupportCopy } from "./features/support-copy.js";
 import { initPageMap } from "./ui/page-map.js";
 
 
+// Pin both shared assets to the approved loader revision so the site never
+// mixes files from different commits while the central package is updated.
 const GLAB_LOADER_ASSET_BASE =
-  "https://raw.githubusercontent.com/Guang84/Glab-assets/main/shared/GLab-loader";
+  "https://raw.githubusercontent.com/Guang84/Glab-assets/19c72468a6710e0a6d01ce3649eeb32f8979a493/shared/GLab-loader";
+const GLAB_LOADER_MIN_VISIBLE_MS = 650;
 
 let glabPageLoader = null;
 let glabLoaderPendingMessage = null;
 let glabLoaderAssetsPromise = null;
 let glabLoaderAssetsFailed = false;
+let glabLoaderShownAt = null;
+let glabLoaderHideTimer = null;
 
 function loadGlabLoaderStylesheet() {
   return new Promise((resolve, reject) => {
@@ -87,14 +92,44 @@ function showGlabPageLoader(message = "Loading…") {
   glabLoaderPendingMessage = message;
   if (!glabPageLoader) return;
 
+  if (glabLoaderHideTimer !== null) {
+    window.clearTimeout(glabLoaderHideTimer);
+    glabLoaderHideTimer = null;
+  }
+
+  const alreadyVisible = glabPageLoader.element.classList.contains("is-visible");
+  if (!alreadyVisible) glabLoaderShownAt = performance.now();
+
   glabPageLoader.element.dataset.theme = getGlabLoaderTheme();
   glabPageLoader.show(message);
   glabLoaderPendingMessage = null;
 }
 
-function hideGlabPageLoader() {
+function hideGlabPageLoader(force = false) {
+  // Keep the initial show request until the shared script has finished loading.
+  // Otherwise a fast page can clear it before the loader instance exists.
+  if (!glabPageLoader) return;
   glabLoaderPendingMessage = null;
-  if (glabPageLoader) glabPageLoader.hide();
+
+  if (glabLoaderHideTimer !== null) {
+    window.clearTimeout(glabLoaderHideTimer);
+    glabLoaderHideTimer = null;
+  }
+
+  if (!force && glabLoaderShownAt !== null) {
+    const elapsed = performance.now() - glabLoaderShownAt;
+    const remaining = GLAB_LOADER_MIN_VISIBLE_MS - elapsed;
+    if (remaining > 0) {
+      glabLoaderHideTimer = window.setTimeout(() => {
+        glabLoaderHideTimer = null;
+        hideGlabPageLoader(true);
+      }, remaining);
+      return;
+    }
+  }
+
+  glabPageLoader.hide();
+  glabLoaderShownAt = null;
 }
 
 function initGlabPageLoader() {
@@ -138,7 +173,7 @@ function initGlabPageLoader() {
   }
 
   window.addEventListener("pageshow", (event) => {
-    if (event.persisted) hideGlabPageLoader();
+    if (event.persisted) hideGlabPageLoader(true);
   });
 
   document.addEventListener("click", (event) => {
