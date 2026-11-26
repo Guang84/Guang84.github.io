@@ -149,27 +149,39 @@ function initFilters(root) {
     ...new Set(cards.map((card) => card.dataset.category).filter(Boolean)),
   ];
   let category = "All";
-  if (filters)
-    filters.replaceChildren(
-      ...categories.map((name) => {
-        const button = el("button", {
-          type: "button",
-          className: `filter-button${name === "All" ? " active" : ""}`,
-          text: name,
-          "aria-pressed": String(name === "All"),
+  if (filters) {
+    const existing = [...filters.querySelectorAll("button[data-filter-category]")];
+    const existingMatches =
+      existing.length === categories.length &&
+      existing.every((button, index) => button.dataset.filterCategory === categories[index]);
+    if (!existingMatches) {
+      filters.replaceChildren(
+        ...categories.map((name) =>
+          el("button", {
+            type: "button",
+            className: "filter-button" + (name === "All" ? " active" : ""),
+            dataset: { filterCategory: name },
+            text: name,
+            "aria-pressed": String(name === "All"),
+          }),
+        ),
+      );
+    }
+    [...filters.querySelectorAll("button[data-filter-category]")].forEach((button) => {
+      const name = button.dataset.filterCategory;
+      button.classList.toggle("active", name === "All");
+      button.setAttribute("aria-pressed", String(name === "All"));
+      button.addEventListener("click", () => {
+        category = name;
+        [...filters.children].forEach((btn) => {
+          const active = btn === button;
+          btn.classList.toggle("active", active);
+          btn.setAttribute("aria-pressed", String(active));
         });
-        button.addEventListener("click", () => {
-          category = name;
-          [...filters.children].forEach((btn) => {
-            const active = btn === button;
-            btn.classList.toggle("active", active);
-            btn.setAttribute("aria-pressed", String(active));
-          });
-          update();
-        });
-        return button;
-      }),
-    );
+        update();
+      });
+    });
+  }
   const sections = [...root.querySelectorAll("[data-publication-section]")];
   const status = el("p", { className: "search-hint", role: "status" });
   root.after(status);

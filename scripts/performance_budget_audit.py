@@ -93,6 +93,22 @@ def main() -> int:
     if "target.stat().st_size > PRECACHE_IMAGE_MAX_BYTES" not in builder:
         fail(errors, "Site generator must exclude oversized images from the install-time precache")
 
+    hymnal_prefix = "/data/Products/Rongmei Hymnal/"
+    if 'HYMNAL_DATA_PREFIX = "/data/Products/Rongmei Hymnal/"' not in builder:
+        fail(errors, "Site generator must exclude the actual Rongmei Hymnal data directory from install-time precaching")
+    cached_hymnal_files = sorted(url for url in precache if url.startswith(hymnal_prefix))
+    if cached_hymnal_files:
+        fail(errors, f"Rongmei Hymnal data must not be install-time precached ({len(cached_hymnal_files)} entries found)")
+
+    hymnal_source = ROOT / "data" / "Products" / "Rongmei Hymnal"
+    hymnal_staged = ROOT / "_site" / "data" / "Products" / "Rongmei Hymnal"
+    source_song_files = list(hymnal_source.rglob("song.json")) if hymnal_source.is_dir() else []
+    staged_song_files = list(hymnal_staged.rglob("song.json")) if hymnal_staged.is_dir() else []
+    if not source_song_files:
+        fail(errors, "Rongmei Hymnal source data is missing; verify the published data directory")
+    if len(staged_song_files) != len(source_song_files):
+        fail(errors, f"Rongmei Hymnal publication mismatch: {len(staged_song_files)} staged song records vs {len(source_song_files)} source records")
+
     precache_set = set(precache)
     css_dependencies = dependency_closure(
         ROOT / "assets/css/main.css", CSS_IMPORT_RE, errors
@@ -157,6 +173,9 @@ def main() -> int:
         f"{image_bytes / 1024:.1f} KiB of precached images "
         f"(budget {MAX_PRECACHE_IMAGE_BYTES / 1024:.0f} KiB), "
         f"{total_bytes / 1024:.1f} KiB total precache payload."
+    )
+    print(
+        f"Rongmei Hymnal data remains published: {len(staged_song_files)} song records; excluded from first-install cache."
     )
     print(
         "Offline dependency closure passed: "

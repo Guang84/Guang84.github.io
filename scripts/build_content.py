@@ -42,6 +42,7 @@ PUBLIC_SKIP_FILES = {".gitignore", ".env", ".npmrc", ".pypirc", ".netrc", "crede
 PUBLIC_SKIP_SUFFIXES = {".pem", ".p12", ".pfx", ".key", ".keytab", ".jks", ".sqlite", ".sqlite3", ".db", ".log", ".bak", ".backup", ".swp"}
 PRECACHE_IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".avif", ".gif", ".svg"}
 PRECACHE_IMAGE_MAX_BYTES = 100 * 1024
+HYMNAL_DATA_PREFIX = "/data/Products/Rongmei Hymnal/"
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
@@ -221,7 +222,7 @@ def update_service_worker(config: dict) -> None:
     for rel in public_files():
         if rel == "/service-worker.js": continue
         # The hymnal's large collections are downloaded explicitly in the app; do not cache all song text on first visit.
-        if rel.startswith("/data/RongmeiHymnal/"): continue
+        if rel.startswith(HYMNAL_DATA_PREFIX): continue
         target = ROOT / rel.lstrip("/")
         # Large media remains published and is cached on demand; keep first-install downloads lean.
         if (
@@ -278,6 +279,40 @@ def update_archive(root_path: Path, kind: str, items: list[dict]) -> None:
             cards.append(card)
     replacement=text[start:open_end]+"\n"+"\n".join(cards)+"\n      </div>"
     root_path.write_text(text[:start]+replacement+text[end:],encoding="utf-8")
+
+
+def update_project_filter_markup(items: list[dict]) -> list[str]:
+    """Render project archive filters in HTML so they reserve their final layout before JavaScript runs."""
+    path = ROOT / "projects" / "index.html"
+    if not path.is_file():
+        return ["Missing projects archive page while generating static filters."]
+    source = path.read_text(encoding="utf-8")
+    categories = list(dict.fromkeys(
+        (item.get("category") or "Other").strip() or "Other" for item in items
+    ))
+    names = ["All", *categories]
+    buttons = []
+    for name in names:
+        active = name == "All"
+        css_class = "filter-button active" if active else "filter-button"
+        pressed = "true" if active else "false"
+        buttons.append(
+            f'<button type="button" class="{css_class}" '
+            f'data-filter-category="{escape(name, quote=True)}" '
+            f'aria-pressed="{pressed}">{escape(name)}</button>'
+        )
+    pattern = re.compile(
+        r'(<div\b(?=[^>]*\bdata-project-filters\b)[^>]*>)[\s\S]*?(</div>)',
+        re.I,
+    )
+    updated, count = pattern.subn(r'\1' + "".join(buttons) + r'\2', source, count=1)
+    if count != 1:
+        return ["Projects archive is missing its data-project-filters container."]
+    if updated != source:
+        path.write_text(updated, encoding="utf-8")
+    return []
+
+
 
 def update_pillar_pages(articles: list[dict], projects: list[dict]) -> None:
     """Build the live article and project selections for each editorial pillar."""
@@ -723,6 +758,7 @@ def build(write: bool, stage: bool) -> list[str]:
         config=json.loads((ROOT/'data/config/site.json').read_text(encoding='utf-8'))
         update_archive(ROOT/'articles/index.html','articles',articles)
         update_archive(ROOT/'projects/index.html','projects',projects)
+        errors.extend(update_project_filter_markup(projects))
         update_pillar_pages(articles, projects)
         errors.extend(sync_shared_navigation())
         errors.extend(sync_shared_footer())
