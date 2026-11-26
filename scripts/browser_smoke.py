@@ -568,14 +568,15 @@ def run_tests():
                               if (typeof message === "string") {
                                 this.element.querySelector(".glab-loader__label").textContent = message;
                               }
-                              if (!this.element.classList.contains("is-visible")) {
+                              const wasVisible = this.element.classList.contains("is-visible");
+                              this.element.classList.add("is-visible");
+                              if (!wasVisible) {
                                 window.__glabLoaderTestEvents.push({
                                   type: "show",
                                   at: performance.now(),
                                   visibility: getComputedStyle(this.element).visibility,
                                 });
                               }
-                              this.element.classList.add("is-visible");
                               return this;
                             }
                             hide() {
@@ -591,6 +592,8 @@ def run_tests():
                 else:
                     route.abort()
 
+            loader_context.route("https://fonts.googleapis.com/**", lambda route: route.abort())
+            loader_context.route("https://fonts.gstatic.com/**", lambda route: route.abort())
             loader_context.route(
                 "https://raw.githubusercontent.com/Guang84/Glab-assets/**",
                 fulfill_loader_asset,
@@ -615,14 +618,15 @@ def run_tests():
                 hide_events = [event for event in loader_events if event["type"] == "hide"]
                 if not show_events:
                     fail(errors, "Shared GLab Loader: startup overlay was never shown")
-                elif show_events[0].get("visibility") != "visible":
-                    fail(errors, "Shared GLab Loader: startup overlay was added but remained visually hidden")
-                if not hide_events:
-                    fail(errors, "Shared GLab Loader: startup overlay was not hidden after readiness")
                 else:
-                    visible_ms = hide_events[0]["at"] - show_events[0]["at"]
-                    if visible_ms < 640:
-                        fail(errors, f"Shared GLab Loader: startup overlay was only visible for {visible_ms:.0f}ms")
+                    if show_events[0].get("visibility") != "visible":
+                        fail(errors, "Shared GLab Loader: startup overlay was added but remained visually hidden")
+                    if not hide_events:
+                        fail(errors, "Shared GLab Loader: startup overlay was not hidden after readiness")
+                    else:
+                        visible_ms = hide_events[0]["at"] - show_events[0]["at"]
+                        if visible_ms < 640:
+                            fail(errors, f"Shared GLab Loader: startup overlay was only visible for {visible_ms:.0f}ms")
                 asset_paths = [urlsplit(url).path for url in loader_asset_requests]
                 expected_loader_revision = "/Guang84/Glab-assets/19c72468a6710e0a6d01ce3649eeb32f8979a493/shared/GLab-loader/"
                 for asset_name in ("GLab-loader.css", "GLab-loader.js"):
