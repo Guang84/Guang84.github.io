@@ -514,6 +514,120 @@ def run_tests():
 
             context.close()
 
+            # Verify the shared loader integration independently of GitHub availability.
+            # The test fixture implements the package's small public API and records
+            # show/hide timestamps, while the real page code requests both pinned assets.
+            loader_context = browser.new_context(
+                viewport={"width": 1280, "height": 900},
+                service_workers="block",
+                reduced_motion="reduce",
+            )
+            loader_asset_requests: list[str] = []
+
+            def fulfill_loader_asset(route):
+                url = route.request.url
+                loader_asset_requests.append(url)
+                if url.endswith("/GLab-loader.css"):
+                    route.fulfill(
+                        status=200,
+                        content_type="text/css",
+                        body="""
+                          .glab-loader {
+                            position: fixed;
+                            inset: 0;
+                            z-index: 99999;
+                            display: grid;
+                            place-items: center;
+                            opacity: 0;
+                            visibility: hidden;
+                          }
+                          .glab-loader.is-visible {
+                            opacity: 1;
+                            visibility: visible;
+                          }
+                        """,
+                    )
+                elif url.endswith("/GLab-loader.js"):
+                    route.fulfill(
+                        status=200,
+                        content_type="application/javascript",
+                        body="""
+                          window.__glabLoaderTestEvents = [];
+                          window.GLabLoader = class {
+                            constructor(options = {}) {
+                              this.element = document.createElement("div");
+                              this.element.className = "glab-loader";
+                              this.element.dataset.theme = options.theme || "light";
+                              const label = document.createElement("span");
+                              label.className = "glab-loader__label";
+                              label.textContent = options.message || "Loading…";
+                              this.element.append(label);
+                              document.body.append(this.element);
+                            }
+                            show(message) {
+                              if (typeof message === "string") {
+                                this.element.querySelector(".glab-loader__label").textContent = message;
+                              }
+                              if (!this.element.classList.contains("is-visible")) {
+                                window.__glabLoaderTestEvents.push({ type: "show", at: performance.now() });
+                              }
+                              this.element.classList.add("is-visible");
+                              return this;
+                            }
+                            hide() {
+                              if (this.element.classList.contains("is-visible")) {
+                                window.__glabLoaderTestEvents.push({ type: "hide", at: performance.now() });
+                                this.element.classList.remove("is-visible");
+                              }
+                              return this;
+                            }
+                          };
+                        """,
+                    )
+                else:
+                    route.abort()
+
+            loader_context.route(
+                "https://raw.githubusercontent.com/Guang84/Glab-assets/**",
+                fulfill_loader_asset,
+            )
+            loader_page = loader_context.new_page()
+            loader_page_errors: list[str] = []
+            loader_page.on(
+                "pageerror",
+                lambda exc: loader_page_errors.append(f"{loader_page.url}: {exc}"),
+            )
+            try:
+                response = loader_page.goto(base_url + "/", wait_until="load", timeout=12000)
+                if response is None or response.status >= 400:
+                    fail(errors, "Shared GLab Loader: homepage failed to load in the integration test")
+                loader_page.wait_for_function(
+                    """() => Array.isArray(window.__glabLoaderTestEvents)
+                      && window.__glabLoaderTestEvents.some((event) => event.type === "hide")""",
+                    timeout=5000,
+                )
+                loader_events = loader_page.evaluate("window.__glabLoaderTestEvents")
+                show_events = [event for event in loader_events if event["type"] == "show"]
+                hide_events = [event for event in loader_events if event["type"] == "hide"]
+                if not show_events:
+                    fail(errors, "Shared GLab Loader: startup overlay was never shown")
+                elif not hide_events:
+                    fail(errors, "Shared GLab Loader: startup overlay was not hidden after readiness")
+                else:
+                    visible_ms = hide_events[0]["at"] - show_events[0]["at"]
+                    if visible_ms < 640:
+                        fail(errors, f"Shared GLab Loader: startup overlay was only visible for {visible_ms:.0f}ms")
+                asset_paths = [urlsplit(url).path for url in loader_asset_requests]
+                expected_loader_revision = "/Guang84/Glab-assets/19c72468a6710e0a6d01ce3649eeb32f8979a493/shared/GLab-loader/"
+                for asset_name in ("GLab-loader.css", "GLab-loader.js"):
+                    if not any(path.startswith(expected_loader_revision) and path.endswith("/" + asset_name) for path in asset_paths):
+                        fail(errors, f"Shared GLab Loader: did not request pinned {asset_name}")
+            except Exception as exc:
+                fail(errors, f"Shared GLab Loader integration failed: {type(exc).__name__}: {exc}")
+            for error in loader_page_errors[:10]:
+                fail(errors, "Shared GLab Loader browser exception: " + error)
+            loader_context.close()
+
             # Service worker test runs in a separate context where workers are allowed.
             sw_context = browser.new_context(
                 viewport={"width": 1280, "height": 900},
