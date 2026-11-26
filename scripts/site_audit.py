@@ -223,7 +223,7 @@ for rel, (page, parser) in parsed_pages.items():
 # The public site intentionally has no generated narration, browser speech synthesis,
 # autoplaying audio, or standalone audio assets. Keep this boundary regression-tested.
 VOICE_RUNTIME_RE = re.compile(
-    r"\\b(?:speechSynthesis|SpeechSynthesisUtterance|AudioContext|webkitAudioContext|HTMLAudioElement)\\b|\\bnew\\s+Audio\\s*\\(",
+    r"\b(?:speechSynthesis|SpeechSynthesisUtterance|AudioContext|webkitAudioContext|HTMLAudioElement)\b|\bnew\s+Audio\s*\(",
     re.I,
 )
 AUDIO_SUFFIXES = {".mp3", ".wav", ".ogg", ".m4a", ".aac", ".flac", ".opus", ".wma"}
@@ -236,7 +236,7 @@ for public_path in SITE.rglob("*"):
     if suffix not in {".html", ".js", ".mjs"}:
         continue
     source_text = public_path.read_text(encoding="utf-8", errors="replace")
-    if suffix == ".html" and re.search(r"<audio\\b", source_text, re.I):
+    if suffix == ".html" and re.search(r"<audio\b", source_text, re.I):
         fail(f"Audio element found in public page: {public_path.relative_to(SITE)}")
     if suffix in {".js", ".mjs"} and VOICE_RUNTIME_RE.search(source_text):
         fail(f"Generated voice/audio runtime found in public script: {public_path.relative_to(SITE)}")
