@@ -220,6 +220,27 @@ for rel, (page, parser) in parsed_pages.items():
             if "Engineering Services" in mobile_menu.group(1):
                 fail(f'{rel}: legacy Engineering Services label remains in mobile navigation')
 
+# The public site intentionally has no generated narration, browser speech synthesis,
+# autoplaying audio, or standalone audio assets. Keep this boundary regression-tested.
+VOICE_RUNTIME_RE = re.compile(
+    r"\b(?:speechSynthesis|SpeechSynthesisUtterance|AudioContext|webkitAudioContext|HTMLAudioElement)\b|\bnew\s+Audio\s*\(",
+    re.I,
+)
+AUDIO_SUFFIXES = {".mp3", ".wav", ".ogg", ".m4a", ".aac", ".flac", ".opus", ".wma"}
+for public_path in SITE.rglob("*"):
+    if not public_path.is_file():
+        continue
+    suffix = public_path.suffix.lower()
+    if suffix in AUDIO_SUFFIXES:
+        fail(f"Generated voice/audio asset is not permitted in the public site: {public_path.relative_to(SITE)}")
+    if suffix not in {".html", ".js", ".mjs"}:
+        continue
+    source_text = public_path.read_text(encoding="utf-8", errors="replace")
+    if suffix == ".html" and re.search(r"<audio\b", source_text, re.I):
+        fail(f"Audio element found in public page: {public_path.relative_to(SITE)}")
+    if suffix in {".js", ".mjs"} and VOICE_RUNTIME_RE.search(source_text):
+        fail(f"Generated voice/audio runtime found in public script: {public_path.relative_to(SITE)}")
+
 for rel,(page,parser) in parsed_pages.items():
     for attr,value in parser.refs:
         value=value.strip()
@@ -240,6 +261,25 @@ for rel,(page,parser) in parsed_pages.items():
             target_rel=target.relative_to(SITE).as_posix() if target.is_file() and SITE in target.parents else rel
             if target_rel in id_map and parsed.fragment not in id_map[target_rel]:
                 fail(f'{rel}: fragment #{parsed.fragment} does not exist in {target_rel}')
+
+# Project filters are part of the static archive shell, not injected after first paint.
+projects_archive = SITE / "projects" / "index.html"
+if projects_archive.is_file():
+    projects_html = projects_archive.read_text(encoding="utf-8", errors="replace")
+    filter_match = re.search(
+        r'<div\b(?=[^>]*\bdata-project-filters\b)[^>]*>([\s\S]*?)</div>',
+        projects_html,
+        re.I,
+    )
+    filter_names = re.findall(
+        r'<button\b(?=[^>]*\bdata-filter-category="([^"]+)")',
+        filter_match.group(1) if filter_match else "",
+        re.I,
+    )
+    if not filter_match or len(filter_names) < 2 or "All" not in filter_names:
+        fail("projects/index.html: project category filters must be statically rendered before JavaScript runs")
+else:
+    fail("Missing projects archive page for static filter audit")
 
 # Search results must resolve to the corresponding published page and any advertised fragment.
 search_path = SITE / "search-index.json"
