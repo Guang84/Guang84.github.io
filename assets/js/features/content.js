@@ -159,7 +159,7 @@ function initFilters(root) {
         ...categories.map((name) =>
           el("button", {
             type: "button",
-            className: \`filter-button\${name === "All" ? " active" : ""}\`,
+            className: "filter-button" + (name === "All" ? " active" : ""),
             dataset: { filterCategory: name },
             text: name,
             "aria-pressed": String(name === "All"),
