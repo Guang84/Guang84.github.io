@@ -42,6 +42,7 @@ PUBLIC_SKIP_FILES = {".gitignore", ".env", ".npmrc", ".pypirc", ".netrc", "crede
 PUBLIC_SKIP_SUFFIXES = {".pem", ".p12", ".pfx", ".key", ".keytab", ".jks", ".sqlite", ".sqlite3", ".db", ".log", ".bak", ".backup", ".swp"}
 PRECACHE_IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".avif", ".gif", ".svg"}
 PRECACHE_IMAGE_MAX_BYTES = 100 * 1024
+HYMNAL_DATA_PREFIX = "/data/Products/Rongmei Hymnal/"
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 
@@ -221,7 +222,7 @@ def update_service_worker(config: dict) -> None:
     for rel in public_files():
         if rel == "/service-worker.js": continue
         # The hymnal's large collections are downloaded explicitly in the app; do not cache all song text on first visit.
-        if rel.startswith("/data/RongmeiHymnal/"): continue
+        if rel.startswith(HYMNAL_DATA_PREFIX): continue
         target = ROOT / rel.lstrip("/")
         # Large media remains published and is cached on demand; keep first-install downloads lean.
         if (
